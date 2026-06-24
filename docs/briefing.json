@@ -1,0 +1,577 @@
+{
+  "briefing_date": "2026-06-24",
+  "generated_at": "2026-06-24T23:36:26.642854+09:00",
+  "source_total": 190,
+  "category_counts": {
+    "news": 80,
+    "tech_blog": 80,
+    "ai_data": 30
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "ec0d524972d6e16d155f144039030f0e230ac6aee718d94575d47de20f889013",
+        "title": "\"쿠팡·네이버 같은 잣대 안 돼…이커머스 플랫폼, 차등 규제 필요\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/",
+        "published_at": "2026-06-24T06:19:10+09:00",
+        "summary": "[지디넷코리아]이커머스 플랫폼에 대한 규제 체계를 판매모델에 따라 차등 적용해야 한다는 주장이 나왔다. 쿠팡처럼 상품을 직접 매입·판매하는 직매입 모델과 네이버 스마트스토어처럼 판매자를 중개하는 오픈마켓 모델은 권한과 수익구조, 책임 범위가 다른 만큼 동일한 기준으로 규제해서는 안 된다는 주장이다.플랫폼 책임을 일률적으로 판단하기보다 직매입(1P), 마켓플레이스(3P), 2PL·3PL·4PL 물류서비스 모델로 나눠 검토해야 하고 상품 판매 통제 수준과 데이터 활용 범위, 물류 관여 정도에 따라 책임 기준도 달라져야 한다는 설명이다.조춘한 경기과학기술대학교 교수는 24일 열린 한국유통학회 특별세미나에서 ‘지속가능한 이커머스를 위한 유통모델 전략’을 주제로 발표하며 플랫폼의 판매모델과 물류서비스 모델을 구분한 규제 체계가 필요하다고 주장했다.조 교수에 따르면 온라인 상품 거래액은 지난해 186조 5000억원 규모로 성장했다. 최근 10년간 무점포소매(온라인)의 연평균 성장률은 12.6…",
+        "category_score": 61,
+        "score_reason": "커머스, 이커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "커머스",
+          "이커머스",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 커머스, 이커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "df4eff4cc4dd07ec3d31c483e6aa94fe4ed30e522d4a0e478cc3bd96136956b6",
+        "title": "[단독] \"제조현장 AI전환 더 빠르게\" 현대차그룹 팩토리OS 속도",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12082240",
+        "published_at": "2026-06-24T09:04:52+09:00",
+        "summary": "현대자동차그룹이 제조 현장의 인공지능 전환(AX)을 위한 전담 조직을 꾸리고 공장 운영 데이터와 생성형 인공지능(AI)을 통합한 차세대 제조 플랫폼 개발에 나선다. 소프트웨어 중심..",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "95241aba4a29617da7e649ea7d48a4d6f61a142b9241df4983cf8a2f53c006fb",
+        "title": "마키나락스, 일본·유럽서 통했다…상반기 해외 수주 2배",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/",
+        "published_at": "2026-06-24T07:29:35+09:00",
+        "summary": "[지디넷코리아]마키나락스가 일본과 유럽의 기존 고객사와 계약을 확대하며 해외 사업 기반을 넓혔다.마키나락스는 2026년 상반기 기준 해외 수주액이 전년 동기 대비 2배 성장한 약 30억원을 기록했다고 24일 밝혔다. 마키나락스에 따르면 유럽 소재 ▲글로벌 반도체 장비 기업 ▲메가와트(MW)급 풍력 발전 인프라를 운영하는 에너지 기업 ▲국내 대형 배터리 기업의 현지 공장과 일본 소재 ▲자동차 제조사 ▲계측 제어 제조사 등 기존 해외 고객사 모두 계약 연장과 함께 솔루션 적용 범위를 확대했다. 마키나락스는 자체 개발한 AI 운영체제(OS) '런웨이'를 기반으로 미션 크리티컬한 환경에서 AI를 배포 및 운영할 수 있는 구조를 공급하고 있다.런웨이는 대규모 데이터 센터부터 네트워크가 단절된 공장의 엣지 디바이스까지 폭넓게 적용 가능하다. 이같은 유연성은 현지화와 보안 요건이 까다로운 일본과 유럽 시장에서 회사 경쟁력으로 작용하고 있다.마키나락스는 하반기 일본과 유럽 시장에서의 신규 고객…",
+        "category_score": 48,
+        "score_reason": "AI, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "138aacc12bb63f21b8b960695798c6cff1c509abd575ed724d5d366733001bde",
+        "title": "[현장] LG AI연구원, '자가 진화' 에이전트로 업무 실행력 높인다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/",
+        "published_at": "2026-06-24T06:32:09+09:00",
+        "summary": "[지디넷코리아]LG AI연구원이 기업의 생성형 인공지능(AI) 활용을 수익과 업무 성과로 연결하기 위한 전략으로 '셀프 임프루빙(자가 진화) AI 에이전트'를 제시했다. 업무 수행 결과를 평가하고 전문가 피드백을 반영해 성능을 계속 높임으로써 AI를 기업 주요 업무에 투입하겠다는 구상이다.이문태 LG AI연구원 초지능랩장은 24일 서울 서초구 JW 메리어트 호텔에서 열린 '딜로이트 커넥트 코리아 2026'에서 '셀프 임프루빙 AI 에이전트와 일의 미래'를 주제로 발표했다.AI 기술은 검색과 최적화, 딥러닝, 파운데이션 모델을 거쳐 계획 수립과 추론, 평가까지 수행하는 단계로 진입하고 있다. 하지만 기업 현장에서는 여전히 AI 활용이 문서 요약과 검색 등 개인 생산성 향상에 머무는 경우가 많다.많은 기업이 AI를 도입하거나 기술검증(PoC) 단계까지 진행했지만 이를 수익과 업무 성과로 연결한 비율은 낮다는 것이 이 랩장의 진단이다. 그는 AI가 실제 업무를 맡으려면 답변 능력뿐 아니…",
+        "category_score": 48,
+        "score_reason": "AI, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "48a7d302b748b62e09c29ce25d85f341d9d5252b309f3b0193095587603040ce",
+        "title": "AWS, '아마존 퀵'에 자율 에이전트 추가…\"흩어진 작업 한 번에\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/",
+        "published_at": "2026-06-24T06:22:52+09:00",
+        "summary": "[지디넷코리아]아마존웹서비스(AWS)가 여러 애플리케이션에 흩어진 정보·작업을 통합 실행할 수 있는 환경을 구축했다.AWS는 인공지능(AI) 어시스턴트 '아마존 퀵'에 자율 에이전트와 통합 활동 피드 기능을 추가했다고 24일 밝혔다. 이는 기업 사용자가 여러 업무 애플리케이션에 흩어진 정보와 작업을 하나의 AI 업무 환경에서 처리할 수 있는 기능이다. 아마존 퀵에는 목표 기반으로 지속 작업을 수행하는 자율 에이전트와 이메일·메신저·일정·작업을 통합해 보여주는 활동 피드 기능이 새롭게 적용됐다.아마존 퀵은 사용자가 자주 쓰는 애플리케이션과 데이터 소스에 연결해 업무 방식을 학습하고 사용자를 대신해 작업을 수행하는 AI 어시스턴트다. 이번 기능 확장은 단순 질의응답을 넘어 업무 흐름을 이어서 실행하는 방향에 초점이 맞춰졌다.사용자는 자연어로 필요한 작업을 설명하거나 사전 구성된 에이전트 라이브러리에서 선택해 몇 분 안에 자율 에이전트를 만들 수 있다. 세부 지침을 단계별로 지정할 수도…",
+        "category_score": 48,
+        "score_reason": "AI, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "c738478dbb9f5d0dd736e67bcee6663ea5c95282fa2d3c1ef0760451a5f209bd",
+        "title": "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3015479",
+        "published_at": "2026-06-24T20:09:58+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos는 코딩 에이전트와 그 환경을 API화하고 관리할 수 있도록 해주는 오픈소스 프레임워크입니다. 발표 대상 AI 코딩 에이전트의 자동화에 고민이 있으신 분들 목차 Introduction Core concepts Self-development Integration Conclusion ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플랫폼 도입 시 유용하게 활용될 수 있는…",
+        "category_score": 62,
+        "score_reason": "플랫폼, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "로그",
+          "AI",
+          "자동화"
+        ],
+        "planning_insight": "이 항목은 플랫폼, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "c243255e9cac71c9730fdba8726f2798e836c7dd91a73cd91ac4a383aff0075c",
+        "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7056385",
+        "published_at": "2026-06-22T19:52:41+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이를 통한 팀 내 업무 효율화 경험을 공유합니다. 발표 대상 AI Agent 생산성 향상에 관심있는 개발자 목차 우리 팀의 AI Agent, 왜 엉뚱한 소리를 했나 Agentic Context Platform Demo - 4가지 질문이 답이 되는 순간 Context Provider 구축기 달라진 환경, 그리고 다음 스텝 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+        "category_score": 60,
+        "score_reason": "데이터, 플랫폼, 로그 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "데이터",
+          "플랫폼",
+          "로그",
+          "AI",
+          "agent"
+        ],
+        "planning_insight": "이 항목은 데이터, 플랫폼, 로그 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "aa52b305c1072363bfd4afdf2e702f4a8ebfe05476344647f11c2f3a20f7910b",
+        "title": "SNOW의 Automatic Sharding 도입기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4394359",
+        "published_at": "2026-06-24T00:05:35+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 수천 개의 서비스가 한정된 GPU 자원을 효율적으로 공유할 수 있도록 돕는 Automatic Sharding 기술을 소개하고, 모델 로딩 오버헤드를 제거하여 더 빠르고 안정적인 AI 모델 서빙 전략을 공유합니다. 발표 대상 다수의 AI 모델을 GPU 환경에서 운영하면서 운영 자동화를 고민하시는 분들 목차 SNOW AI 콘텐츠 서빙 구조와 Sharding 개념 Manual Sharding의 한계 Automatic Sharding 문제 정의 Automatic Sharding 알고리즘 설계 Automatic Sharding 결과를 실제 인프라에 자동으로 반영하는 방법 안정적인 배포 전략 도입 결과 ( English Version : https://tv.naver.com/v/101705128 ) ◎ NAVER Engineering Day란? NAVER에서는 사…",
+        "category_score": 55,
+        "score_reason": "AI, 자동화, 알고리즘 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "자동화",
+          "알고리즘",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 자동화, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "edd5861c812c6c10df4cf0fded63cfddd2a00600cdccd9d04a7d24758dd05c56",
+        "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2852215",
+        "published_at": "2026-06-18T19:17:54+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 입력 스펙이 자주 바뀌는 쇼핑 에이전트 답변 모델 개발에서, 변경된 스펙만 입력하면 결함 탐지/프롬프트 최적화/SFT 학습 데이터 생성을 에이전트가 폐쇄 루프로 돌리는 자동화 파이프라인을 설계하며 얻은 구조와 적용 경험을 공유합니다. 발표 대상 AI 서비스를 위한 스펙기반 프롬프트 최적화를 적용하고자 하시는 기획/AI엔지니어 분들 목차 Agent Spec Defect Detection 프롬프트 최적화 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+        "category_score": 55,
+        "score_reason": "데이터, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "데이터",
+          "로그",
+          "AI",
+          "자동화",
+          "agent"
+        ],
+        "planning_insight": "이 항목은 데이터, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "34d82974c85e361ad72f3d13340dce072540df7c708afa20ca2c0471afeca7e8",
+        "title": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/824",
+        "published_at": "2026-06-16T00:00:00+09:00",
+        "summary": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기: Hadoop 기반 도입 사례 안녕하세요. 소셜추천엔진팀에서 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 추천 시스템을 개발하다 보면 코드를 짜는 시간만큼이나 데이터를 들여다보는 시간이 길어집니다. 지표가 조금만 움직여도 “이번 주 CTR이 왜 떨어졌지?”, “실험군 반응은 어땠지?”, “배포 이후 특정 사용자군에서 달라진 점은 없을까?” 같은 질문이 이어집니다. 질문은 한 문장이지만,...",
+        "category_score": 52,
+        "score_reason": "추천, 데이터, 실험 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "추천",
+          "데이터",
+          "실험",
+          "분석",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 추천, 데이터, 실험 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "fb860185980bc2329655cb4706718a17aaae1a379e770d65db0158309cdc10d4",
+        "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.23915",
+        "published_at": "2026-06-24T13:00:00+09:00",
+        "summary": "arXiv:2606.23915v1 Announce Type: new Abstract: Practice often treats automatic metrics for attribution in LLM retrieval-augmented generation as interchangeable. We audit eight automatic scorers -- lexical, embedding, and BERTScore baselines alongside entailment/grounding-trained models (clean and FEVER NLI, the checker MiniCheck) -- across three evaluation constructs (provenance/topicality, generated-answer attribution, and fact-check entailment), asking whether any scorer transfers: stays wit…",
+        "category_score": 67,
+        "score_reason": "LLM, embedding, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "embedding",
+          "model",
+          "dataset",
+          "retrieval"
+        ],
+        "planning_insight": "이 항목은 LLM, embedding, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "25376d1a8352834bf7a803a2c0a3e4799877c79de63a75d5a86f33771ce94ce1",
+        "title": "Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.23881",
+        "published_at": "2026-06-24T13:00:00+09:00",
+        "summary": "arXiv:2606.23881v1 Announce Type: new Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires grounding visual queries to external knowledge beyond directly observable content in images. While recent multi modal large language models (MLLMs) show strong perceptual abilities, they struggle on KB-VQA tasks requiring groundings from both fine-grained entity and evidence levels. Most existing multi-modal retrieval augmented generation (MM-RAG) methods tightly couple entity discriminat…",
+        "category_score": 61,
+        "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "RAG",
+          "model",
+          "retrieval",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "d8ecadb6c9777d526046f8eddef4161dff269fa0ebfb60125d352ebfc6ececcc",
+        "title": "When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.23937",
+        "published_at": "2026-06-24T13:00:00+09:00",
+        "summary": "arXiv:2606.23937v1 Announce Type: new Abstract: Exact-match retrieval recall is often used as a proxy for whether a retriever supplies useful policy context to a downstream decision model. We test this proxy for pre-action policy classification in tau-bench using Qwen2.5-3B/7B classifiers. Under gold-policy conditioning, a compact structured state improves macro-F1 over raw trajectories by 0.13-0.17 after tuning. We then replace the benchmark-designated policy clause with the top-ranked clause…",
+        "category_score": 60,
+        "score_reason": "agent, agents, benchmark 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "agents",
+          "benchmark",
+          "model",
+          "retrieval"
+        ],
+        "planning_insight": "이 항목은 agent, agents, benchmark 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "28cbce123e7b81a2c6f9fb7bd5808eb5e337d5fca80f214e8815dfe7ae002c7f",
+        "title": "Quantifying Prior Dominance in RAG Systems",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.23695",
+        "published_at": "2026-06-24T13:00:00+09:00",
+        "summary": "arXiv:2606.23695v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Models in external knowledge, yet current evaluations rely on discrete heuristics that suffer from ''epistemic blindness'' - failing to distinguish genuine contextual information extraction from parametric memory recall. To address this, we introduce the Normalized Context Utilization (NCU) metric, leveraging continuous token log-probabilities across zero-shot, oracle, and adversarial con…",
+        "category_score": 58,
+        "score_reason": "RAG, model, retrieval 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "model",
+          "retrieval",
+          "evaluation",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 RAG, model, retrieval 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "727cceb6c29a79e0db5e546199d7eed04f943df33920c9d572472528428469f5",
+        "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/cross-origin-storage",
+        "published_at": "2026-06-23T09:00:00+09:00",
+        "summary": "",
+        "category_score": 54,
+        "score_reason": "RAG, API, transformer 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "API",
+          "transformer"
+        ],
+        "planning_insight": "이 항목은 RAG, API, transformer 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "aa52b305c1072363bfd4afdf2e702f4a8ebfe05476344647f11c2f3a20f7910b",
+      "title": "SNOW의 Automatic Sharding 도입기",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/4394359",
+      "published_at": "2026-06-24T00:05:35+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 수천 개의 서비스가 한정된 GPU 자원을 효율적으로 공유할 수 있도록 돕는 Automatic Sharding 기술을 소개하고, 모델 로딩 오버헤드를 제거하여 더 빠르고 안정적인 AI 모델 서빙 전략을 공유합니다. 발표 대상 다수의 AI 모델을 GPU 환경에서 운영하면서 운영 자동화를 고민하시는 분들 목차 SNOW AI 콘텐츠 서빙 구조와 Sharding 개념 Manual Sharding의 한계 Automatic Sharding 문제 정의 Automatic Sharding 알고리즘 설계 Automatic Sharding 결과를 실제 인프라에 자동으로 반영하는 방법 안정적인 배포 전략 도입 결과 ( English Version : https://tv.naver.com/v/101705128 ) ◎ NAVER Engineering Day란? NAVER에서는 사…",
+      "category_score": 55,
+      "score_reason": "AI, 자동화, 알고리즘 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "자동화",
+        "알고리즘",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 AI, 자동화, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 수천 개의 서비스가 한정된 GPU 자원을 효율적으로 공유할 수 있도록 돕는 Autom…",
+      "importance_reason": "AI, 자동화, 알고리즘 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "c243255e9cac71c9730fdba8726f2798e836c7dd91a73cd91ac4a383aff0075c",
+      "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/7056385",
+      "published_at": "2026-06-22T19:52:41+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이를 통한 팀 내 업무 효율화 경험을 공유합니다. 발표 대상 AI Agent 생산성 향상에 관심있는 개발자 목차 우리 팀의 AI Agent, 왜 엉뚱한 소리를 했나 Agentic Context Platform Demo - 4가지 질문이 답이 되는 순간 Context Provider 구축기 달라진 환경, 그리고 다음 스텝 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+      "category_score": 60,
+      "score_reason": "데이터, 플랫폼, 로그 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "데이터",
+        "플랫폼",
+        "로그",
+        "AI",
+        "agent"
+      ],
+      "planning_insight": "이 항목은 데이터, 플랫폼, 로그 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이…",
+      "importance_reason": "데이터, 플랫폼, 로그 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "25376d1a8352834bf7a803a2c0a3e4799877c79de63a75d5a86f33771ce94ce1",
+      "title": "Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.23881",
+      "published_at": "2026-06-24T13:00:00+09:00",
+      "summary": "arXiv:2606.23881v1 Announce Type: new Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires grounding visual queries to external knowledge beyond directly observable content in images. While recent multi modal large language models (MLLMs) show strong perceptual abilities, they struggle on KB-VQA tasks requiring groundings from both fine-grained entity and evidence levels. Most existing multi-modal retrieval augmented generation (MM-RAG) methods tightly couple entity discriminat…",
+      "category_score": 61,
+      "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "RAG",
+        "model",
+        "retrieval",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2606.23881v1 Announce Type: new Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires grounding vi…",
+      "importance_reason": "LLM, RAG, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "ec0d524972d6e16d155f144039030f0e230ac6aee718d94575d47de20f889013",
+      "title": "\"쿠팡·네이버 같은 잣대 안 돼…이커머스 플랫폼, 차등 규제 필요\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/",
+      "published_at": "2026-06-24T06:19:10+09:00",
+      "summary": "[지디넷코리아]이커머스 플랫폼에 대한 규제 체계를 판매모델에 따라 차등 적용해야 한다는 주장이 나왔다. 쿠팡처럼 상품을 직접 매입·판매하는 직매입 모델과 네이버 스마트스토어처럼 판매자를 중개하는 오픈마켓 모델은 권한과 수익구조, 책임 범위가 다른 만큼 동일한 기준으로 규제해서는 안 된다는 주장이다.플랫폼 책임을 일률적으로 판단하기보다 직매입(1P), 마켓플레이스(3P), 2PL·3PL·4PL 물류서비스 모델로 나눠 검토해야 하고 상품 판매 통제 수준과 데이터 활용 범위, 물류 관여 정도에 따라 책임 기준도 달라져야 한다는 설명이다.조춘한 경기과학기술대학교 교수는 24일 열린 한국유통학회 특별세미나에서 ‘지속가능한 이커머스를 위한 유통모델 전략’을 주제로 발표하며 플랫폼의 판매모델과 물류서비스 모델을 구분한 규제 체계가 필요하다고 주장했다.조 교수에 따르면 온라인 상품 거래액은 지난해 186조 5000억원 규모로 성장했다. 최근 10년간 무점포소매(온라인)의 연평균 성장률은 12.6…",
+      "category_score": 61,
+      "score_reason": "커머스, 이커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "커머스",
+        "이커머스",
+        "플랫폼",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 커머스, 이커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]이커머스 플랫폼에 대한 규제 체계를 판매모델에 따라 차등 적용해야 한다는 주장이 나왔다. 쿠팡처럼 상품을 직접 매입·판매하는 직매입 모델과 네이버 스마트스토어처럼 판매자를 중개하는 오픈마켓 모델은 권한…",
+      "importance_reason": "커머스, 이커머스, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "c738478dbb9f5d0dd736e67bcee6663ea5c95282fa2d3c1ef0760451a5f209bd",
+      "title": "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/3015479",
+      "published_at": "2026-06-24T20:09:58+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos는 코딩 에이전트와 그 환경을 API화하고 관리할 수 있도록 해주는 오픈소스 프레임워크입니다. 발표 대상 AI 코딩 에이전트의 자동화에 고민이 있으신 분들 목차 Introduction Core concepts Self-development Integration Conclusion ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플랫폼 도입 시 유용하게 활용될 수 있는…",
+      "category_score": 62,
+      "score_reason": "플랫폼, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "플랫폼",
+        "로그",
+        "AI",
+        "자동화"
+      ],
+      "planning_insight": "이 항목은 플랫폼, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos…",
+      "importance_reason": "플랫폼, 로그, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 89,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 17,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "당근 기술블로그",
+        "매일경제 기업",
+        "무신사 테크"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 16,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "NYT Technology",
+        "arXiv cs.CL",
+        "쿠팡 엔지니어링"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 15,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "ZDNet Korea",
+        "네이버 D2",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "agent",
+      "count": 14,
+      "groups": [
+        "ai_data",
+        "tech_blog"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "Hugging Face Blog",
+        "arXiv cs.CL",
+        "네이버 D2",
+        "카카오 기술블로그"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 자동화, 데이터, 로그 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}

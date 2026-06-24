@@ -1,0 +1,43 @@
+name: Daily RSS Trend Briefing
+
+on:
+  schedule:
+    - cron: "10 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-rss-trend-briefing
+  cancel-in-progress: true
+
+jobs:
+  generate-briefing:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate daily briefing
+        run: python scripts/briefing_generator.py
+
+      - name: Commit updated briefing
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/briefing.json docs/archive || true
+          git diff --cached --quiet || git commit -m "Update daily RSS trend briefing"
+          git pull --rebase origin main || true
+          git push

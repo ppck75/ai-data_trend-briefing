@@ -29,6 +29,37 @@
         </div>
       </section>
 
+      <section id="briefingSection" class="briefing-section" aria-label="오늘의 브리핑">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Daily Briefing</p>
+            <h2>오늘의 통합 Top 5</h2>
+          </div>
+          <span id="briefingMethod" class="method-badge">-</span>
+        </div>
+        <div id="integratedTop5" class="briefing-grid"></div>
+
+        <div class="category-briefings">
+          <section>
+            <h2>뉴스성 RSS Top 5</h2>
+            <div id="newsTop5" class="compact-list"></div>
+          </section>
+          <section>
+            <h2>플랫폼·서비스 기술블로그 Top 5</h2>
+            <div id="techTop5" class="compact-list"></div>
+          </section>
+          <section>
+            <h2>AI·데이터 트렌드 Top 5</h2>
+            <div id="aiTop5" class="compact-list"></div>
+          </section>
+        </div>
+
+        <section class="keywords-panel" aria-label="오늘 반복 등장한 키워드">
+          <h2>오늘 반복 등장한 키워드</h2>
+          <div id="hotKeywords" class="keyword-list"></div>
+        </section>
+      </section>
+
       <section class="toolbar" aria-label="그룹 필터">
         <button class="filter-button active" type="button" data-group="all">전체</button>
         <button class="filter-button" type="button" data-group="news">뉴스</button>
