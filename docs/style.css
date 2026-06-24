@@ -412,23 +412,20 @@ h1 span {
 .compact-list {
   display: grid;
   gap: 12px;
-  grid-template-rows: repeat(5, 1fr);
 }
 
 .compact-item {
   display: flex;
   flex-direction: column;
-  height: 236px;
+  min-height: 220px;
   padding: 14px;
 }
 
 .compact-item strong {
-  display: -webkit-box;
+  display: block;
   margin-bottom: 5px;
-  overflow: hidden;
+  overflow: visible;
   line-height: 1.35;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
 }
 
 .compact-item span,
@@ -588,7 +585,6 @@ h1 span {
   }
 
   .compact-item {
-    height: auto;
     min-height: 220px;
   }
 
