@@ -105,6 +105,14 @@ h1 span {
   font-size: 15px;
 }
 
+.schedule-note {
+  max-width: 820px;
+  margin: 8px 0 0;
+  color: #7a8699;
+  font-size: 13px;
+  font-weight: 700;
+}
+
 .refresh-button,
 .filter-button {
   border: 1px solid var(--line);
@@ -410,7 +418,7 @@ h1 span {
 .compact-item {
   display: flex;
   flex-direction: column;
-  height: 196px;
+  height: 236px;
   padding: 14px;
 }
 
@@ -420,7 +428,7 @@ h1 span {
   overflow: hidden;
   line-height: 1.35;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
 }
 
 .compact-item span,
@@ -577,6 +585,11 @@ h1 span {
   .briefing-grid,
   .category-briefings {
     grid-template-columns: 1fr;
+  }
+
+  .compact-item {
+    height: auto;
+    min-height: 220px;
   }
 
   .item-card {
