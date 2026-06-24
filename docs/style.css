@@ -226,7 +226,20 @@ h1 span {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  padding: 16px;
+  cursor: pointer;
+  padding: 18px;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease,
+    transform 0.15s ease;
+}
+
+.briefing-card:hover,
+.briefing-card:focus {
+  border-color: #bfdbfe;
+  box-shadow: 0 16px 36px rgba(37, 99, 235, 0.12);
+  outline: none;
+  transform: translateY(-1px);
 }
 
 .briefing-card-body {
@@ -237,9 +250,20 @@ h1 span {
 }
 
 .briefing-card h3 {
-  margin: 8px 0;
+  margin: 10px 0 0;
   font-size: 16px;
   line-height: 1.35;
+}
+
+.briefing-details {
+  display: none;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.briefing-card.expanded .briefing-details {
+  display: block;
 }
 
 .briefing-field {
@@ -272,14 +296,33 @@ h1 span {
   -webkit-line-clamp: unset;
 }
 
-.briefing-card a {
+.source-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--primary);
+  border-radius: 8px;
+  background: var(--primary);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 900;
+  min-height: 36px;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.source-button:hover {
+  background: #1d4ed8;
+  text-decoration: none;
+}
+
+.briefing-card a:not(.source-button) {
   color: var(--primary);
   font-weight: 800;
   text-decoration: none;
 }
 
-.card-actions,
-.compact-actions {
+.card-actions {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -301,7 +344,7 @@ h1 span {
 }
 
 .text-button:hover,
-.briefing-card a:hover {
+.briefing-card a:not(.source-button):hover {
   text-decoration: underline;
 }
 

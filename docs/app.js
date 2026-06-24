@@ -121,6 +121,9 @@ function renderIntegratedTop5() {
   for (const item of items) {
     const article = document.createElement("article");
     article.className = "briefing-card";
+    article.setAttribute("role", "button");
+    article.setAttribute("tabindex", "0");
+    article.setAttribute("aria-expanded", "false");
     article.innerHTML = `
       <div class="rank-badge">${escapeHtml(item.rank ?? "-")}</div>
       <div class="briefing-card-body">
@@ -129,21 +132,22 @@ function renderIntegratedTop5() {
           <span>${escapeHtml(groupLabels[item.group] || item.group || "")}</span>
         </div>
         <h3>${escapeHtml(item.title || "제목 없음")}</h3>
-        <div class="briefing-field">
-          <span>원문 요약</span>
-          <p class="clampable">${escapeHtml(item.one_line_summary || item.summary || "요약 없음")}</p>
-        </div>
-        <div class="briefing-field">
-          <span>선정 이유</span>
-          <p class="clampable">${escapeHtml(item.importance_reason || item.score_reason || "선정 이유 없음")}</p>
-        </div>
-        <div class="briefing-field">
-          <span>기획 인사이트</span>
-          <p class="clampable insight-text">${escapeHtml(item.planning_insight || "기획 인사이트 없음")}</p>
-        </div>
-        <div class="card-actions">
-          <button class="text-button expand-button" type="button">전체 보기</button>
-          <a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">원문 보기</a>
+        <div class="briefing-details">
+          <div class="briefing-field">
+            <span>원문 요약</span>
+            <p>${escapeHtml(item.one_line_summary || item.summary || "요약 없음")}</p>
+          </div>
+          <div class="briefing-field">
+            <span>선정 이유</span>
+            <p>${escapeHtml(item.importance_reason || item.score_reason || "선정 이유 없음")}</p>
+          </div>
+          <div class="briefing-field">
+            <span>기획 인사이트</span>
+            <p class="insight-text">${escapeHtml(item.planning_insight || "기획 인사이트 없음")}</p>
+          </div>
+          <div class="card-actions">
+            <a class="source-button" href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">원문 보기</a>
+          </div>
         </div>
       </div>
     `;
@@ -169,9 +173,6 @@ function renderCategoryTop5(target, items) {
       <div class="briefing-field compact-field">
         <span>선정 이유</span>
         <p class="clampable">${escapeHtml(item.score_reason || "선정 이유 없음")}</p>
-      </div>
-      <div class="compact-actions">
-        <button class="text-button expand-button" type="button">전체 보기</button>
       </div>
     `;
     fragment.appendChild(row);
@@ -260,14 +261,23 @@ elements.filterButtons.forEach((button) => {
 elements.refreshButton.addEventListener("click", loadData);
 
 document.addEventListener("click", (event) => {
-  const button = event.target.closest(".expand-button");
-  if (!button) return;
+  const sourceLink = event.target.closest(".source-button");
+  if (sourceLink) return;
 
-  const card = button.closest(".briefing-card, .compact-item");
+  const card = event.target.closest(".briefing-card");
   if (!card) return;
 
   const isExpanded = card.classList.toggle("expanded");
-  button.textContent = isExpanded ? "접기" : "전체 보기";
+  card.setAttribute("aria-expanded", String(isExpanded));
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key !== "Enter" && event.key !== " ") return;
+  const card = event.target.closest(".briefing-card");
+  if (!card) return;
+  event.preventDefault();
+  const isExpanded = card.classList.toggle("expanded");
+  card.setAttribute("aria-expanded", String(isExpanded));
 });
 
 loadData();
