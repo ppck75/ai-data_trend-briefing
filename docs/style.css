@@ -76,13 +76,25 @@ body {
 h1 {
   max-width: 780px;
   margin: 0;
-  font-size: clamp(28px, 4vw, 42px);
   line-height: 1.18;
   letter-spacing: 0;
 }
 
 h1 span {
   display: block;
+}
+
+.title-kicker {
+  margin-bottom: 4px;
+  color: var(--primary-dark);
+  font-size: clamp(18px, 2.2vw, 24px);
+  font-weight: 800;
+}
+
+.title-main {
+  color: var(--text);
+  font-size: clamp(30px, 4vw, 42px);
+  font-weight: 900;
 }
 
 .header-description,
@@ -223,23 +235,27 @@ h1 span {
 }
 
 .briefing-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 12px;
-  cursor: pointer;
+  border-color: #cfe0ff;
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at 88% 0%, rgba(37, 99, 235, 0.18), transparent 34%),
+    linear-gradient(145deg, #ffffff 0%, #f7fbff 52%, #eef5ff 100%);
+  box-shadow: 0 18px 42px rgba(37, 99, 235, 0.12);
   padding: 18px;
-  transition:
-    border-color 0.15s ease,
-    box-shadow 0.15s ease,
-    transform 0.15s ease;
+  overflow: hidden;
 }
 
-.briefing-card:hover,
-.briefing-card:focus {
-  border-color: #bfdbfe;
-  box-shadow: 0 16px 36px rgba(37, 99, 235, 0.12);
-  outline: none;
-  transform: translateY(-1px);
+.briefing-card::before {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0));
+  content: "";
+  pointer-events: none;
 }
 
 .briefing-card-body {
@@ -247,23 +263,14 @@ h1 span {
   flex: 1;
   flex-direction: column;
   min-width: 0;
+  position: relative;
+  z-index: 1;
 }
 
 .briefing-card h3 {
   margin: 10px 0 0;
   font-size: 16px;
   line-height: 1.35;
-}
-
-.briefing-details {
-  display: none;
-  margin-top: 14px;
-  padding-top: 14px;
-  border-top: 1px solid var(--line);
-}
-
-.briefing-card.expanded .briefing-details {
-  display: block;
 }
 
 .briefing-field {
@@ -316,6 +323,17 @@ h1 span {
   text-decoration: none;
 }
 
+.source-button.secondary {
+  border-color: #d0d5dd;
+  background: #ffffff;
+  color: var(--primary);
+}
+
+.source-button.secondary:hover {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+
 .briefing-card a:not(.source-button) {
   color: var(--primary);
   font-weight: 800;
@@ -354,9 +372,12 @@ h1 span {
   height: 34px;
   place-items: center;
   border-radius: 999px;
-  background: var(--primary);
+  background: linear-gradient(135deg, var(--primary), #60a5fa);
   color: #ffffff;
   font-weight: 900;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 8px 18px rgba(37, 99, 235, 0.24);
 }
 
 .insight-text {
@@ -366,32 +387,40 @@ h1 span {
 .category-briefings {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+  gap: 18px;
   align-items: start;
+}
+
+.category-heading {
+  margin-top: 8px;
 }
 
 .category-briefings section {
   display: grid;
-  gap: 10px;
+  gap: 12px;
   align-content: start;
 }
 
 .compact-list {
   display: grid;
-  gap: 10px;
-  grid-auto-rows: minmax(176px, auto);
+  gap: 12px;
+  grid-template-rows: repeat(5, 1fr);
 }
 
 .compact-item {
   display: flex;
   flex-direction: column;
+  height: 196px;
   padding: 14px;
 }
 
 .compact-item strong {
-  display: block;
+  display: -webkit-box;
   margin-bottom: 5px;
+  overflow: hidden;
   line-height: 1.35;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .compact-item span,
@@ -403,6 +432,14 @@ h1 span {
 
 .compact-field {
   flex: 1;
+}
+
+.compact-field .clampable {
+  -webkit-line-clamp: 3;
+}
+
+.compact-item .card-actions {
+  justify-content: flex-end;
 }
 
 .keywords-panel {
