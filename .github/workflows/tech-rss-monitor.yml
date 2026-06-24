@@ -1,0 +1,41 @@
+name: Tech and AI RSS Monitor
+
+on:
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-rss-monitor
+  cancel-in-progress: true
+
+jobs:
+  scrape-tech-ai:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect tech and AI RSS
+        run: python scripts/scraper.py --group tech_blog,ai_data
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/data.json docs/archive || true
+          git diff --cached --quiet || git commit -m "Update tech and AI RSS data"
+          git pull --rebase origin main || true
+          git push
