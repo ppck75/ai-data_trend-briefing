@@ -5,6 +5,7 @@
   --muted: #667085;
   --line: #e4e7ec;
   --primary: #2563eb;
+  --primary-dark: #1e3a8a;
   --primary-soft: #eff6ff;
   --shadow: 0 12px 30px rgba(16, 24, 40, 0.08);
 }
@@ -23,7 +24,9 @@ body {
 }
 
 .site-header {
-  background: var(--surface);
+  background:
+    linear-gradient(135deg, rgba(37, 99, 235, 0.08), rgba(255, 255, 255, 0) 48%),
+    var(--surface);
   border-bottom: 1px solid var(--line);
 }
 
@@ -41,6 +44,26 @@ body {
   padding: 36px 0 30px;
 }
 
+.brand-block {
+  position: relative;
+  padding-left: 64px;
+}
+
+.brand-mark {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  display: grid;
+  width: 48px;
+  height: 48px;
+  place-items: center;
+  border: 1px solid #bfdbfe;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: var(--shadow);
+  font-size: 24px;
+}
+
 .eyebrow {
   margin: 0 0 8px;
   color: var(--primary);
@@ -56,6 +79,14 @@ h1 {
   font-size: clamp(28px, 4vw, 42px);
   line-height: 1.18;
   letter-spacing: 0;
+}
+
+.header-description,
+.section-description {
+  max-width: 760px;
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 15px;
 }
 
 .refresh-button,
@@ -115,7 +146,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: 26px 0 20px;
+  margin: 12px 0 20px;
 }
 
 .filter-button {
@@ -146,6 +177,17 @@ h1 {
   margin-bottom: 28px;
 }
 
+.list-intro {
+  margin-top: 34px;
+  padding-top: 26px;
+  border-top: 1px solid var(--line);
+}
+
+.list-intro h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
 .section-heading {
   display: flex;
   align-items: flex-end;
@@ -160,19 +202,11 @@ h1 {
   font-size: 22px;
 }
 
-.method-badge {
-  border-radius: 999px;
-  background: var(--primary-soft);
-  color: var(--primary);
-  padding: 6px 10px;
-  font-size: 13px;
-  font-weight: 800;
-}
-
 .briefing-grid {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(180px, 1fr));
   gap: 12px;
+  align-items: stretch;
 }
 
 .briefing-card,
@@ -185,9 +219,17 @@ h1 {
 }
 
 .briefing-card {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   gap: 12px;
   padding: 16px;
+}
+
+.briefing-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
 }
 
 .briefing-card h3 {
@@ -196,20 +238,67 @@ h1 {
   line-height: 1.35;
 }
 
-.briefing-card p,
-.compact-item p {
-  display: -webkit-box;
-  margin: 0 0 10px;
-  overflow: hidden;
+.briefing-field {
+  margin-top: 12px;
+}
+
+.briefing-field > span {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--primary-dark);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.briefing-field p {
+  margin: 0;
   color: #475467;
+}
+
+.clampable {
+  display: -webkit-box;
+  overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
+}
+
+.expanded .clampable {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
 }
 
 .briefing-card a {
   color: var(--primary);
   font-weight: 800;
   text-decoration: none;
+}
+
+.card-actions,
+.compact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: auto;
+  padding-top: 14px;
+}
+
+.text-button {
+  border: 0;
+  background: transparent;
+  color: var(--primary);
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  padding: 0;
+}
+
+.text-button:hover,
+.briefing-card a:hover {
+  text-decoration: underline;
 }
 
 .rank-badge {
@@ -231,19 +320,24 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 14px;
+  align-items: start;
 }
 
 .category-briefings section {
   display: grid;
   gap: 10px;
+  align-content: start;
 }
 
 .compact-list {
   display: grid;
   gap: 10px;
+  grid-auto-rows: minmax(176px, auto);
 }
 
 .compact-item {
+  display: flex;
+  flex-direction: column;
   padding: 14px;
 }
 
@@ -258,6 +352,10 @@ h1 {
   color: var(--muted);
   font-size: 13px;
   font-weight: 700;
+}
+
+.compact-field {
+  flex: 1;
 }
 
 .keywords-panel {
@@ -356,6 +454,18 @@ h1 {
   text-decoration: underline;
 }
 
+@media (max-width: 1180px) {
+  .briefing-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 920px) {
+  .category-briefings {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 720px) {
   .header-inner {
     align-items: flex-start;
@@ -365,6 +475,15 @@ h1 {
 
   .refresh-button {
     width: 100%;
+  }
+
+  .brand-block {
+    padding-left: 0;
+  }
+
+  .brand-mark {
+    position: static;
+    margin-bottom: 14px;
   }
 
   .summary-panel {

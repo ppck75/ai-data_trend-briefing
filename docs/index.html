@@ -9,9 +9,13 @@
   <body>
     <header class="site-header">
       <div class="header-inner">
-        <div>
-          <p class="eyebrow">Serverless RSS Monitor</p>
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">📡</div>
+          <p class="eyebrow">Daily AI · Data Signal Briefing</p>
           <h1>AI·데이터 기반 콘텐츠 전략가를 위한 RSS 트렌드 브리핑 아카이브</h1>
+          <p class="header-description">
+            RSS로 수집한 뉴스와 기술 블로그를 선별해 오늘 확인할 트렌드 신호만 간결하게 정리합니다.
+          </p>
         </div>
         <button id="refreshButton" class="refresh-button" type="button">새로고침</button>
       </div>
@@ -34,8 +38,10 @@
           <div>
             <p class="eyebrow">Daily Briefing</p>
             <h2>오늘의 통합 Top 5</h2>
+            <p class="section-description">
+              카테고리별 후보 15개를 다시 비교해 콘텐츠 전략 관점에서 우선 확인할 5개를 보여줍니다.
+            </p>
           </div>
-          <span id="briefingMethod" class="method-badge">-</span>
         </div>
         <div id="integratedTop5" class="briefing-grid"></div>
 
@@ -58,6 +64,16 @@
           <h2>오늘 반복 등장한 키워드</h2>
           <div id="hotKeywords" class="keyword-list"></div>
         </section>
+      </section>
+
+      <section class="list-intro" aria-label="전체 RSS 목록 안내">
+        <div>
+          <p class="eyebrow">Raw RSS Archive</p>
+          <h2>수집된 전체 RSS 항목</h2>
+          <p class="section-description">
+            자동 수집된 최신 RSS 원자료 목록입니다. 필터를 바꾸면 뉴스, 기술블로그, AI·데이터 항목만 따로 확인할 수 있습니다.
+          </p>
+        </div>
       </section>
 
       <section class="toolbar" aria-label="그룹 필터">

@@ -14,7 +14,6 @@ const elements = {
   updatedAt: document.querySelector("#updatedAt"),
   totalItems: document.querySelector("#totalItems"),
   briefingSection: document.querySelector("#briefingSection"),
-  briefingMethod: document.querySelector("#briefingMethod"),
   integratedTop5: document.querySelector("#integratedTop5"),
   newsTop5: document.querySelector("#newsTop5"),
   techTop5: document.querySelector("#techTop5"),
@@ -112,9 +111,6 @@ function renderItems() {
 function renderIntegratedTop5() {
   const items = state.briefing?.integrated_top5 ?? [];
   elements.integratedTop5.innerHTML = "";
-  elements.briefingMethod.textContent = state.briefing
-    ? `${state.briefing.method}${state.briefing.fallback_used ? " + fallback" : ""}`
-    : "-";
 
   if (!items.length) {
     elements.integratedTop5.innerHTML = '<p class="muted-text">통합 Top 5가 아직 생성되지 않았습니다.</p>';
@@ -127,16 +123,28 @@ function renderIntegratedTop5() {
     article.className = "briefing-card";
     article.innerHTML = `
       <div class="rank-badge">${escapeHtml(item.rank ?? "-")}</div>
-      <div>
+      <div class="briefing-card-body">
         <div class="item-meta">
           <span>${escapeHtml(item.source || "Unknown")}</span>
           <span>${escapeHtml(groupLabels[item.group] || item.group || "")}</span>
-          <span>${escapeHtml(String(item.integrated_score ?? ""))}점</span>
         </div>
         <h3>${escapeHtml(item.title || "제목 없음")}</h3>
-        <p>${escapeHtml(item.one_line_summary || item.summary || "")}</p>
-        <p class="insight-text">${escapeHtml(item.planning_insight || "")}</p>
-        <a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">원문 보기</a>
+        <div class="briefing-field">
+          <span>원문 요약</span>
+          <p class="clampable">${escapeHtml(item.one_line_summary || item.summary || "요약 없음")}</p>
+        </div>
+        <div class="briefing-field">
+          <span>선정 이유</span>
+          <p class="clampable">${escapeHtml(item.importance_reason || item.score_reason || "선정 이유 없음")}</p>
+        </div>
+        <div class="briefing-field">
+          <span>기획 인사이트</span>
+          <p class="clampable insight-text">${escapeHtml(item.planning_insight || "기획 인사이트 없음")}</p>
+        </div>
+        <div class="card-actions">
+          <button class="text-button expand-button" type="button">전체 보기</button>
+          <a href="${escapeHtml(item.url || "#")}" target="_blank" rel="noopener noreferrer">원문 보기</a>
+        </div>
       </div>
     `;
     fragment.appendChild(article);
@@ -157,8 +165,14 @@ function renderCategoryTop5(target, items) {
     row.className = "compact-item";
     row.innerHTML = `
       <strong>${escapeHtml(item.rank ?? "-")}. ${escapeHtml(item.title || "제목 없음")}</strong>
-      <span>${escapeHtml(item.source || "")} · ${escapeHtml(String(item.category_score ?? ""))}점</span>
-      <p>${escapeHtml(item.score_reason || "")}</p>
+      <span>${escapeHtml(item.source || "")}</span>
+      <div class="briefing-field compact-field">
+        <span>선정 이유</span>
+        <p class="clampable">${escapeHtml(item.score_reason || "선정 이유 없음")}</p>
+      </div>
+      <div class="compact-actions">
+        <button class="text-button expand-button" type="button">전체 보기</button>
+      </div>
     `;
     fragment.appendChild(row);
   }
@@ -186,7 +200,6 @@ function renderKeywords() {
 function renderBriefing() {
   if (!state.briefing) {
     elements.briefingSection.classList.add("is-empty");
-    elements.briefingMethod.textContent = "briefing 없음";
     renderIntegratedTop5();
     renderCategoryTop5(elements.newsTop5, []);
     renderCategoryTop5(elements.techTop5, []);
@@ -245,5 +258,16 @@ elements.filterButtons.forEach((button) => {
 });
 
 elements.refreshButton.addEventListener("click", loadData);
+
+document.addEventListener("click", (event) => {
+  const button = event.target.closest(".expand-button");
+  if (!button) return;
+
+  const card = button.closest(".briefing-card, .compact-item");
+  if (!card) return;
+
+  const isExpanded = card.classList.toggle("expanded");
+  button.textContent = isExpanded ? "접기" : "전체 보기";
+});
 
 loadData();
