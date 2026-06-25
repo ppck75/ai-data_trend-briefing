@@ -31,6 +31,38 @@ const elements = {
   filterButtons: document.querySelectorAll(".filter-button"),
 };
 
+function setText(element, value) {
+  if (element) {
+    element.textContent = value;
+  }
+}
+
+function setHtml(element, value) {
+  if (element) {
+    element.innerHTML = value;
+  }
+}
+
+function clearElement(element) {
+  setHtml(element, "");
+}
+
+function appendTo(element, child) {
+  if (element) {
+    element.appendChild(child);
+  }
+}
+
+function showStatus(message) {
+  setText(elements.statusMessage, message);
+  elements.statusMessage?.classList.remove("is-hidden");
+}
+
+function hideStatus() {
+  setText(elements.statusMessage, "");
+  elements.statusMessage?.classList.add("is-hidden");
+}
+
 function parseDate(value) {
   if (!value) return 0;
   const time = Date.parse(value);
@@ -72,28 +104,25 @@ function getVisibleItems() {
 }
 
 function renderMeta() {
-  elements.updatedAt.textContent = formatDate(state.data?.updated_at);
-  elements.totalItems.textContent = state.data?.total_items ?? 0;
+  setText(elements.updatedAt, formatDate(state.data?.updated_at));
+  setText(elements.totalItems, state.data?.total_items ?? 0);
 }
 
 function renderItems() {
   const items = getVisibleItems();
-  elements.itemsList.innerHTML = "";
+  clearElement(elements.itemsList);
 
   if (!state.activeGroup) {
-    elements.statusMessage.textContent = "아래 탭을 선택하면 최신 RSS 원자료 목록이 표시됩니다.";
-    elements.statusMessage.classList.remove("is-hidden");
+    showStatus("아래 탭을 선택하면 최신 RSS 원자료 목록이 표시됩니다.");
     return;
   }
 
   if (!items.length) {
-    elements.statusMessage.textContent = "수집된 항목이 없습니다.";
-    elements.statusMessage.classList.remove("is-hidden");
+    showStatus("수집된 항목이 없습니다.");
     return;
   }
 
-  elements.statusMessage.textContent = "";
-  elements.statusMessage.classList.add("is-hidden");
+  hideStatus();
   const fragment = document.createDocumentFragment();
 
   for (const item of items) {
@@ -120,15 +149,15 @@ function renderItems() {
     fragment.appendChild(article);
   }
 
-  elements.itemsList.appendChild(fragment);
+  appendTo(elements.itemsList, fragment);
 }
 
 function renderIntegratedTop5() {
   const items = state.briefing?.integrated_top5 ?? [];
-  elements.integratedTop5.innerHTML = "";
+  clearElement(elements.integratedTop5);
 
   if (!items.length) {
-    elements.integratedTop5.innerHTML = '<p class="muted-text">통합 Top 5가 아직 생성되지 않았습니다.</p>';
+    setHtml(elements.integratedTop5, '<p class="muted-text">통합 Top 5가 아직 생성되지 않았습니다.</p>');
     return;
   }
 
@@ -155,13 +184,13 @@ function renderIntegratedTop5() {
     `;
     fragment.appendChild(article);
   }
-  elements.integratedTop5.appendChild(fragment);
+  appendTo(elements.integratedTop5, fragment);
 }
 
 function renderCategoryTop5(target, items) {
-  target.innerHTML = "";
+  clearElement(target);
   if (!items?.length) {
-    target.innerHTML = '<p class="muted-text">선정된 항목이 없습니다.</p>';
+    setHtml(target, '<p class="muted-text">선정된 항목이 없습니다.</p>');
     return;
   }
 
@@ -182,7 +211,7 @@ function renderCategoryTop5(target, items) {
     `;
     fragment.appendChild(row);
   }
-  target.appendChild(fragment);
+  appendTo(target, fragment);
 }
 
 function getArchiveDates() {
@@ -198,13 +227,28 @@ function getArchivesForDate(date) {
 
 function renderArchiveControls() {
   const dates = getArchiveDates();
-  elements.archiveDateSelect.innerHTML = "";
-  elements.archiveTimeSelect.innerHTML = "";
+  clearElement(elements.archiveDateSelect);
+  clearElement(elements.archiveTimeSelect);
 
   if (!dates.length) {
-    elements.archiveStatus.textContent = "저장된 지난 브리핑이 아직 없습니다.";
-    elements.archiveViewer.innerHTML = "";
+    if (elements.archiveDateSelect) {
+      elements.archiveDateSelect.disabled = true;
+      elements.archiveDateSelect.appendChild(new Option("저장된 날짜 없음", ""));
+    }
+    if (elements.archiveTimeSelect) {
+      elements.archiveTimeSelect.disabled = true;
+      elements.archiveTimeSelect.appendChild(new Option("저장된 시간 없음", ""));
+    }
+    setText(elements.archiveStatus, "저장된 지난 브리핑이 아직 없습니다. 예약 실행 후 08:10, 12:10, 20:10 브리핑이 여기에 누적됩니다.");
+    clearElement(elements.archiveViewer);
     return;
+  }
+
+  if (elements.archiveDateSelect) {
+    elements.archiveDateSelect.disabled = false;
+  }
+  if (elements.archiveTimeSelect) {
+    elements.archiveTimeSelect.disabled = false;
   }
 
   if (!state.selectedArchiveDate || !dates.includes(state.selectedArchiveDate)) {
@@ -216,7 +260,7 @@ function renderArchiveControls() {
     option.value = date;
     option.textContent = date;
     option.selected = date === state.selectedArchiveDate;
-    elements.archiveDateSelect.appendChild(option);
+    elements.archiveDateSelect?.appendChild(option);
   }
 
   const archives = getArchivesForDate(state.selectedArchiveDate);
@@ -229,7 +273,7 @@ function renderArchiveControls() {
     option.value = archive.id;
     option.textContent = archive.time;
     option.selected = archive.id === state.selectedArchiveId;
-    elements.archiveTimeSelect.appendChild(option);
+    elements.archiveTimeSelect?.appendChild(option);
   }
 }
 
@@ -251,7 +295,9 @@ function renderArchiveBriefing(briefing, archiveMeta) {
   const categoryTop5 = briefing.category_top5 || {};
   const keywords = (briefing.hot_keywords || []).map((item) => item.keyword).filter(Boolean);
 
-  elements.archiveViewer.innerHTML = `
+  setHtml(
+    elements.archiveViewer,
+    `
     <div class="archive-summary">
       <div>
         <span class="summary-label">브리핑 시각</span>
@@ -299,29 +345,30 @@ function renderArchiveBriefing(briefing, archiveMeta) {
           .join("")}
       </div>
     </section>
-  `;
+  `,
+  );
 }
 
 async function loadSelectedArchive() {
   const archiveMeta = (state.archiveIndex?.archives ?? []).find((item) => item.id === state.selectedArchiveId);
   if (!archiveMeta) {
-    elements.archiveStatus.textContent = "선택한 브리핑을 찾을 수 없습니다.";
-    elements.archiveViewer.innerHTML = "";
+    setText(elements.archiveStatus, "선택한 브리핑을 찾을 수 없습니다.");
+    clearElement(elements.archiveViewer);
     return;
   }
 
-  elements.archiveStatus.textContent = "지난 브리핑을 불러오는 중입니다.";
+  setText(elements.archiveStatus, "지난 브리핑을 불러오는 중입니다.");
   try {
     const response = await fetch(`./${archiveMeta.path_json}`, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`archive HTTP ${response.status}`);
     }
     const briefing = await response.json();
-    elements.archiveStatus.textContent = "";
+    setText(elements.archiveStatus, "");
     renderArchiveBriefing(briefing, archiveMeta);
   } catch (error) {
-    elements.archiveStatus.textContent = `지난 브리핑 로드 실패: ${error.message}`;
-    elements.archiveViewer.innerHTML = "";
+    setText(elements.archiveStatus, `지난 브리핑 로드 실패: ${error.message}`);
+    clearElement(elements.archiveViewer);
   }
 }
 
@@ -334,7 +381,7 @@ function renderArchiveBrowser() {
 
 function renderBriefing() {
   if (!state.briefing) {
-    elements.briefingSection.classList.add("is-empty");
+    elements.briefingSection?.classList.add("is-empty");
     renderIntegratedTop5();
     renderCategoryTop5(elements.newsTop5, []);
     renderCategoryTop5(elements.techTop5, []);
@@ -342,7 +389,7 @@ function renderBriefing() {
     return;
   }
 
-  elements.briefingSection.classList.remove("is-empty");
+  elements.briefingSection?.classList.remove("is-empty");
   renderIntegratedTop5();
   renderCategoryTop5(elements.newsTop5, state.briefing.category_top5?.news);
   renderCategoryTop5(elements.techTop5, state.briefing.category_top5?.tech_blog);
@@ -357,9 +404,8 @@ function render() {
 }
 
 async function loadData() {
-  elements.statusMessage.textContent = "데이터를 불러오는 중입니다.";
-  elements.statusMessage.classList.remove("is-hidden");
-  elements.itemsList.innerHTML = "";
+  showStatus("데이터를 불러오는 중입니다.");
+  clearElement(elements.itemsList);
 
   try {
     const response = await fetch("./data.json", { cache: "no-store" });
@@ -384,10 +430,9 @@ async function loadData() {
 
     render();
   } catch (error) {
-    elements.updatedAt.textContent = "-";
-    elements.totalItems.textContent = "0";
-    elements.statusMessage.textContent = `data.json 로드 실패: ${error.message}`;
-    elements.statusMessage.classList.remove("is-hidden");
+    setText(elements.updatedAt, "-");
+    setText(elements.totalItems, "0");
+    showStatus(`data.json 로드 실패: ${error.message}`);
   }
 }
 
@@ -405,16 +450,16 @@ elements.filterButtons.forEach((button) => {
   });
 });
 
-elements.refreshButton.addEventListener("click", loadData);
+elements.refreshButton?.addEventListener("click", loadData);
 
-elements.archiveDateSelect.addEventListener("change", () => {
+elements.archiveDateSelect?.addEventListener("change", () => {
   state.selectedArchiveDate = elements.archiveDateSelect.value;
   state.selectedArchiveId = "";
   renderArchiveControls();
   loadSelectedArchive();
 });
 
-elements.archiveTimeSelect.addEventListener("change", () => {
+elements.archiveTimeSelect?.addEventListener("change", () => {
   state.selectedArchiveId = elements.archiveTimeSelect.value;
   loadSelectedArchive();
 });
