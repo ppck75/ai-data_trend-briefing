@@ -113,6 +113,13 @@ h1 span {
   font-weight: 700;
 }
 
+.list-intro .schedule-note {
+  max-width: 760px;
+  color: var(--muted);
+  font-size: 15px;
+  font-weight: 400;
+}
+
 .refresh-button,
 .filter-button {
   border: 1px solid var(--line);
@@ -200,11 +207,9 @@ h1 span {
   font-weight: 700;
 }
 
-.toolbar + .status-message {
-  border: 1px dashed #cbd5e1;
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.7);
-  padding: 14px;
+.status-message.is-hidden,
+.status-message:empty {
+  display: none;
 }
 
 .items-list {
@@ -245,8 +250,7 @@ h1 span {
 }
 
 .section-heading h2,
-.category-briefings h2,
-.keywords-panel h2 {
+.category-briefings h2 {
   margin: 0;
   font-size: 22px;
 }
@@ -259,8 +263,7 @@ h1 span {
 }
 
 .briefing-card,
-.compact-item,
-.keywords-panel {
+.compact-item {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
@@ -470,26 +473,6 @@ h1 span {
 
 .compact-item .card-actions {
   justify-content: flex-end;
-}
-
-.keywords-panel {
-  padding: 16px;
-}
-
-.keyword-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 12px;
-}
-
-.keyword-badge {
-  border-radius: 999px;
-  background: #f2f4f7;
-  color: var(--text);
-  padding: 7px 10px;
-  font-size: 13px;
-  font-weight: 800;
 }
 
 .archive-controls {

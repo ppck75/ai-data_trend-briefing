@@ -1,26 +1,37 @@
 {
   "briefing_date": "2026-06-25",
-<<<<<<< HEAD
-  "generated_at": "2026-06-25T17:15:41.126632+09:00",
+  "generated_at": "2026-06-25T17:41:48.810014+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 129,
-    "tech_blog": 34,
-    "ai_data": 37
-=======
-  "generated_at": "2026-06-25T15:54:46.654979+09:00",
-  "source_total": 200,
-  "category_counts": {
-    "news": 148,
-    "tech_blog": 16,
-    "ai_data": 36
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
+    "news": 161,
+    "tech_blog": 7,
+    "ai_data": 32
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-<<<<<<< HEAD
+        "id": "5d1907804733b3045691b3a825a07abde86e647ad995402479ac1297a05abce7",
+        "title": "스토리카, 시드 투자 유치...아모레퍼시픽·슈미트 등 참여",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/",
+        "published_at": "2026-06-25T11:20:12+09:00",
+        "summary": "[지디넷코리아]스토리카는 아모레퍼시픽과 슈미트를 비롯해, 허슬펀드·본엔젤스·크루캐피탈 등으로부터 시드 투자를 받았다고 25일 밝혔다. 회사는 이번 투자금을 바탕으로 플랫폼 고도화와 함께, 미국 시장 진출 등에 속도를 낸다는 계획이다.스토리카는 이번 투자금을 바탕으로 플랫폼 고도화와 함께 미국 시장 진출 및 B2B 고객 확장에 속도를 낼 계획이다. 다음 달 15일 구글 포 스타트업 액셀러레이터 코리아데모데이에서 오픈베타 출시를 시작으로 글로벌 D2C 뷰티·라이프스타일 브랜드를 대상으로 한 크리에이터 마케팅 자동화 솔루션을 본격 공급한다는 전략이다. '인플루언서 마케팅의 AI 네이티브 전환'이라는 비전을 구현하기 위해 크리에이터 발굴부터 캠페인 실행·성과 분석까지 전 과정 자동화 수준을 높여나갈 예정이다.브라이스 리 스토리카 대표는 \"그동안 브랜드 담당자의 경험과 감에 의존해온 인플루언서 마케팅을 AI가 데이터 기반으로 자동 실행하는 시대가 열리고 있다\"며 \"7월 오픈베타를 시작으로…",
+        "category_score": 67,
+        "score_reason": "AI, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "플랫폼",
+          "브랜드",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
         "id": "57c70af85b1b86e2e5b39c7cf942b7958386b4a68a42dba45e85cd611a0259a4",
         "title": "[단독] \"제조 현장 AI 전환 더 빠르게\" 현대차 내부서 팩토리OS 제안",
         "source": "매일경제 기업",
@@ -40,18 +51,13 @@
         "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": "4b3aa0c24964fe21e8c8479e326160bf32c40491ef0d7622f69d35f58ad2d06b",
         "title": "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다",
-=======
-        "id": "712c64a97c6425087a66ed1efd9823a7ab5982929895a3d6a933ea78556236cf",
-        "title": "[현장] 이학준 대표 \"플로우, 협업툴 그 이상…AI 워크 에이전트로 진화\"",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
         "url": "https://zdnet.co.kr/view/",
-<<<<<<< HEAD
         "published_at": "2026-06-25T06:00:03+09:00",
         "summary": "[지디넷코리아]생성형 인공지능(AI)이 업무 현장에 빠르게 확산되면서 신입 직원 채용 시장에도 변화가 나타나고 있다. 스위스에서는 AI 활용도가 높은 직군을 중심으로 신입 채용 공고가 크게 줄어든 것으로 조사됐다.24일(현지시간) IT 전문매체 더넥스트웹에 따르면 스위스 채용 플랫폼 잡스닷컴은 최근 발표한 'AI 리포트 2026'에서 지난해 신입·주니어 직군 채용 공고 수가 생성형 AI 등장 이전인 2019~2022년 평균 대비 약 30% 감소했다고 밝혔다.이번 조사는 2019년부터 2025년까지 잡스닷컴, 잡업닷컴, 잡스카우트에 게재된 730만 건 채용 공고를 분석한 결과다. 연구진은 생성형 AI가 본격적으로 확산되기 전인 2019~2022년을 기준선으로 삼아 이후 변화를 비교했다.감소 폭은 AI의 영향을 많이 받는 직군에서 두드러졌다. 보고서는 행정, 인사(HR), 금융, 마케팅, 구매, 영업, IT·통신 등 지식 기반 사무직을 'AI 노출 직군'으로 분류했다. 이들 분야에서는…",
         "category_score": 57,
@@ -65,259 +71,67 @@
         "planning_insight": "이 항목은 AI, 생성형 AI, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 3,
-        "id": "ecbb1027258de18a229a3165a04f14bc40165703dce40a659a898cbd4394f428",
-        "title": "금보원-인터넷은행 3사, 보이스피싱 탐지 AI 개발 7월 적용",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/",
-        "published_at": "2026-06-24T20:47:29+09:00",
-        "summary": "[지디넷코리아]금융보안원(원장 박상원)이 인터넷은행 3사(카카오뱅크, 토스뱅크, 케이뱅크)와 연합학습 기법을 활용한 '보이스피싱 탐지 AI 공동모델'을 개발했다. 연합학습은 원본 학습데이터를 외부에 공유하지 않고, 기관별로 학습된 AI 모델(가중치)만 공유·병합, 개별 기관의 프라이버시와 보안을 유지하면서도 공동으로 활용가능한 고성능 AI를 만드는 차세대 협업 기술이다.금보원은 보이스피싱 탐지를 위해 직접 AI 모델을 개발·운영해 온 인터넷은행 3사의 현장 경험과 원에서 연구및 개발한 연합학습 알고리즘을 더해 설계했다. 공동모델을 활용할 경우 각 은행이 보유한 사기탐지 역량이 다른 은행으로 상호 전파, 개별 은행에서 기존에 탐지하지 못하던 사기 거래를 탐지할 수 있다고 설명했다.실제, 공동 모델 활용 시 각 은행 개별 모델이 탐지하지 못한 사기거래를 탐지한 사례가 다수 확인됐고, 공동 모델의 탐지 정밀도(모델이 사기라고 판단한 것 중에서 실제로 사기인 것의 비율)가 개별 모델 대비…",
-        "category_score": 56,
-        "score_reason": "AI, 알고리즘, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "AI",
-          "알고리즘",
-          "데이터"
-        ],
-        "planning_insight": "이 항목은 AI, 알고리즘, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
         "rank": 4,
-        "id": "6c89e603385fdba17c67eb7d7aaa9244a447106137d3a05e7193bbc045861cc9",
-        "title": "엔비디아-AWS, 협력 확대…AI 추론·벡터 검색 지원",
+        "id": "7f0f3fb8e794bd8e42ca8d4ceef32003d17d2a38c715e5ca6edfd29e9985c496",
+        "title": "AI 가상화 성능 한계 넘었다…넷앱·SK텔레콤, AI 클라우드 최적화 검증",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
         "url": "https://zdnet.co.kr/view/",
-        "published_at": "2026-06-24T18:31:23+09:00",
-        "summary": "[지디넷코리아]엔비디아와 아마존웹서비스(AWS)가 기업용 인공지능(AI) 추론과 벡터 검색, 대규모 학습 환경을 업그레이드했다. 엔비디아는 '아마존 EC2'와 '아마존 오픈서치' 전반에 엔비디아 AI 인프라 적용 범위를 넓혔다고 24일 공식 홈페이지에서 밝혔다. 핵심은 엔비디아 블랙웰 기반 그래픽처리장치(GPU)를 탑재한 'EC2 G7 인스턴스'와 '엔비디아 cuVS' 기반 오픈서치 서버리스 벡터 검색 가속이다.아마존 EC2 G7 인스턴스는 엔비디아 RTX 프로 4500 블랙웰 서버 에디션 GPU를 기반으로 작동한다. AI 추론과 그래픽, 공간 컴퓨팅, GPU 가속 데이터 분석 업무를 겨냥한 신규 인스턴스다.G7은 기존 G6 인스턴스와 비교해 AI 추론 성능을 최대 4.6배 높였다. 그래픽 성능은 최대 2.1배 향상됐다. 아마존 EMR에서 엔비디아 cuDF 라이브러리를 활용한 아파치 스파크 업무도 더 빠르게 처리할 수 있다.G7 인스턴스는 최대 8개 GPU와 총 256기가바이트(G…",
-        "category_score": 56,
-        "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "AI",
-          "데이터",
-          "검색"
-        ],
-        "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 5,
-=======
-        "published_at": "2026-06-25T11:45:22+09:00",
-        "summary": "[지디넷코리아]\"우리 플랫폼 '플로우'는 단순한 업무 도구가 아닙니다. 사람 간 소통 중심이던 협업 공간을 사람과 인공지능(AI) 에이전트가 함께 일하는 실행환경으로 바꾸는 'AI 워크 에이전트 플로우'로 진화했습니다.\"이학준 마드라스체크 대표는 25일 여의도 페어몬트호텔에서 열린 '플로우 AX페스타 2026' 기조연설에서 플로우 특장점을 이같이 밝혔다.이 대표는 기존 협업툴이 업무 등록과 소통에는 기여했지만 기업 안에 쌓이는 데이터를 충분히 활용하지 못했다고 봤다. 프로젝트 진행 상황, 회의록, 고객 의견, 파일, 일정, 지식 문서, 의사결정 기록이 데이터베이스에 남아도 실제 업무 가치로 이어지지 못했다는 설명이다.이 대표는 이런 문제를 해결하기 위해 업무 데이터를 AI 에이전트가 읽고 분석할 수 있는 구조로 진화해야 한다고 주장했다. 사용자가 특정 프로젝트 현황을 물으면 AI가 관련 업무 기록과 프로젝트 데이터를 분석해 진행 상황과 주요 이슈를 정리하는 식이다.이날 마드라스체크…",
-        "category_score": 98,
-        "score_reason": "협업툴의 단순 업무 효율화를 넘어, AI 에이전트가 데이터베이스를 분석하고 실행 환경을 주도하는 '에이전틱 AI(Agentic AI)'로의 명확한 시장 변화 신호를 담고 있음.",
-        "keywords": [
-          "AI 에이전트",
-          "워크스페이스",
-          "업무 자동화"
-        ],
-        "planning_insight": "단순 챗봇 기능을 넘어 실질적인 업무 데이터를 스스로 분석·실행하는 '실행형 AI 에이전트' 중심의 콘텐츠 마케팅 전략이 유효함."
-      },
-      {
-        "rank": 2,
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-        "id": "510e4db6b543056a778156ee76a6bd6637781b6bec194a2a5ea29c4e6a15094c",
-        "title": "[단독] \"제조현장 AI전환 더 빠르게\"…현대차그룹 팩토리OS 속도",
-        "source": "매일경제 기업",
-        "group": "news",
-        "category": "business",
-        "url": "https://www.mk.co.kr/news/business/12082240",
-        "published_at": "2026-06-24T18:04:52+09:00",
-        "summary": "현대자동차그룹이 제조 현장의 인공지능 전환(AX) 전담 조직을 꾸리고 공장 운영 데이터와 생성형 인공지능(AI)을 통합한 차세대 제조 플랫폼 개발에 나선다. 소프트웨어 중심차량(S..",
-<<<<<<< HEAD
+        "published_at": "2026-06-25T15:47:36+09:00",
+        "summary": "[지디넷코리아]넷앱과 SK텔레콤이 가상화 환경에서도 물리 서버에 가까운 인공지능(AI) 성능을 구현하는 데 성공하며 기업의 AI 인프라 구축 방식에 새로운 가능성을 제시했다.넷앱은 SK텔레콤과 공동으로 진행한 개념검증(PoC)을 통해 AI 워크로드를 가상머신(VM) 환경에서 실행하면서도 물리 서버 대비 99% 이상의 성능을 확보했다고 25일 밝혔다.이번 검증은 넷앱의 AI 스토리지 플랫폼인 AFX 시스템과 SK텔레콤의 AI 클라우드 서비스인 페타서스 AI 클라우드를 기반으로 진행됐다. 양사는 엔비디아 GPU 다이렉스 스토리지(GDS) 기술을 적용해 데이터 전송 경로를 최적화하고, AI 학습 및 추론 과정에서 발생하는 병목 현상을 최소화했다.그동안 AI 워크로드는 대규모 연산 자원을 요구하는 특성상 가상화 환경에서 성능 저하가 발생하는 것이 일반적이었다. 가상머신은 자원 활용 효율성과 운영 유연성을 높일 수 있지만, 여러 작업이 동시에 자원을 공유하는 과정에서 추가적인 오버헤드가 발…",
         "category_score": 56,
         "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-=======
-        "category_score": 95,
-        "score_reason": "대기업 현대차가 제조 현장의 AI 전환(AX)을 위해 전담 조직을 꾸리고 '팩토리OS'를 개발한다는 것은 AI가 산업 생산 현장의 표준 운영 체제로 진화하고 있음을 보여주는 강력한 트렌드임.",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
         "keywords": [
-          "AI 전환(AX)",
-          "제조 플랫폼",
-          "팩토리OS"
+          "AI",
+          "플랫폼",
+          "데이터"
         ],
-<<<<<<< HEAD
         "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-=======
-        "planning_insight": "제조업의 지능형 디지털 전환 사례는 B2B 콘텐츠 수요가 높으며, AI 도입을 고민하는 타 기업에 강력한 벤치마크 콘텐츠로 활용 가능."
       },
       {
-        "rank": 3,
-        "id": "4b3aa0c24964fe21e8c8479e326160bf32c40491ef0d7622f69d35f58ad2d06b",
-        "title": "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다",
+        "rank": 5,
+        "id": "712c64a97c6425087a66ed1efd9823a7ab5982929895a3d6a933ea78556236cf",
+        "title": "[현장] 이학준 대표 \"플로우, 협업툴 그 이상…AI 워크 에이전트로 진화\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
         "url": "https://zdnet.co.kr/view/",
-        "published_at": "2026-06-25T06:00:03+09:00",
-        "summary": "[지디넷코리아]생성형 인공지능(AI)이 업무 현장에 빠르게 확산되면서 신입 직원 채용 시장에도 변화가 나타나고 있다. 스위스에서는 AI 활용도가 높은 직군을 중심으로 신입 채용 공고가 크게 줄어든 것으로 조사됐다.24일(현지시간) IT 전문매체 더넥스트웹에 따르면 스위스 채용 플랫폼 잡스닷컴은 최근 발표한 'AI 리포트 2026'에서 지난해 신입·주니어 직군 채용 공고 수가 생성형 AI 등장 이전인 2019~2022년 평균 대비 약 30% 감소했다고 밝혔다.이번 조사는 2019년부터 2025년까지 잡스닷컴, 잡업닷컴, 잡스카우트에 게재된 730만 건 채용 공고를 분석한 결과다. 연구진은 생성형 AI가 본격적으로 확산되기 전인 2019~2022년을 기준선으로 삼아 이후 변화를 비교했다.감소 폭은 AI의 영향을 많이 받는 직군에서 두드러졌다. 보고서는 행정, 인사(HR), 금융, 마케팅, 구매, 영업, IT·통신 등 지식 기반 사무직을 'AI 노출 직군'으로 분류했다. 이들 분야에서는…",
-        "category_score": 92,
-        "score_reason": "생성형 AI의 도입이 신입 채용 감소로 이어진다는 실증적 데이터는 노동 시장과 교육 트렌드에 직결되는 매우 파급력 큰 사회적 변화 신호임.",
+        "published_at": "2026-06-25T11:45:22+09:00",
+        "summary": "[지디넷코리아]\"우리 플랫폼 '플로우'는 단순한 업무 도구가 아닙니다. 사람 간 소통 중심이던 협업 공간을 사람과 인공지능(AI) 에이전트가 함께 일하는 실행환경으로 바꾸는 'AI 워크 에이전트 플로우'로 진화했습니다.\"이학준 마드라스체크 대표는 25일 여의도 페어몬트호텔에서 열린 '플로우 AX페스타 2026' 기조연설에서 플로우 특장점을 이같이 밝혔다.이 대표는 기존 협업툴이 업무 등록과 소통에는 기여했지만 기업 안에 쌓이는 데이터를 충분히 활용하지 못했다고 봤다. 프로젝트 진행 상황, 회의록, 고객 의견, 파일, 일정, 지식 문서, 의사결정 기록이 데이터베이스에 남아도 실제 업무 가치로 이어지지 못했다는 설명이다.이 대표는 이런 문제를 해결하기 위해 업무 데이터를 AI 에이전트가 읽고 분석할 수 있는 구조로 진화해야 한다고 주장했다. 사용자가 특정 프로젝트 현황을 물으면 AI가 관련 업무 기록과 프로젝트 데이터를 분석해 진행 상황과 주요 이슈를 정리하는 식이다.이날 마드라스체크…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 채용 시장",
-          "사무직 변화",
-          "노동 시장"
+          "AI",
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "AI 도입으로 변화하는 직무 역할과 미래 역량에 대한 분석 콘텐츠는 독자들의 높은 공감과 공유를 이끌어낼 수 있는 핵심 주제임."
-      },
-      {
-        "rank": 4,
-        "id": "6f4416300fe5790a69e39528236f5bfd1fab5a7d1f41b829d12fdebcea81cb20",
-        "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
-        "source": "NYT Technology",
-        "group": "news",
-        "category": "global_tech",
-        "url": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
-        "published_at": "2026-06-25T03:53:33+09:00",
-        "summary": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.",
-        "category_score": 90,
-        "score_reason": "AI 연산 폭증에 따른 전력 소비 문제 해결을 위해 오픈AI와 브로드컴이 커스텀 칩을 설계한다는 소식은 인프라와 AI 기술력이 결합된 시장 변화의 핵심을 관통함.",
-        "keywords": [
-          "AI 칩",
-          "데이터센터 전력",
-          "인프라"
-        ],
-        "planning_insight": "AI 기술의 지속 가능성과 하드웨어 인프라에 대한 정보는 테크 트렌드 리더들에게 신뢰도 높은 전문 콘텐츠가 될 수 있음."
-      },
-      {
-        "rank": 5,
-        "id": "e9114e7faaf08763b95e12279b35e19483021a2597eeee8ec9b455565bca6f3a",
-        "title": "Your Home Could Help Solve AI’s Growing Power Demand",
-        "source": "NYT Technology",
-        "group": "news",
-        "category": "global_tech",
-        "url": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
-        "published_at": "2026-06-24T09:02:13+09:00",
-        "summary": "Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.",
-        "category_score": 88,
-        "score_reason": "가정용 기기를 연결해 AI 전력망을 구축한다는 아이디어는 플랫폼 비즈니스와 지속 가능한 에너지 관리 기술이 소비자 행동 변화와 결합하는 트렌드적 가치가 큼.",
-        "keywords": [
-          "에너지 플랫폼",
-          "스마트 홈",
-          "AI 전력망"
-        ],
-        "planning_insight": "기술 트렌드가 단순 도구를 넘어 '가정 내 에너지'라는 일상 소비자 행동 변화에 어떻게 녹아드는지 보여주는 사례 중심의 콘텐츠 기획이 필요함."
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
       {
         "rank": 1,
-        "id": "edd5861c812c6c10df4cf0fded63cfddd2a00600cdccd9d04a7d24758dd05c56",
-        "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
+        "id": "c738478dbb9f5d0dd736e67bcee6663ea5c95282fa2d3c1ef0760451a5f209bd",
+        "title": "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
         "source": "네이버 D2",
         "group": "tech_blog",
         "category": "search_ai",
-        "url": "https://d2.naver.com/helloworld/2852215",
-        "published_at": "2026-06-18T19:17:54+09:00",
-        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 입력 스펙이 자주 바뀌는 쇼핑 에이전트 답변 모델 개발에서, 변경된 스펙만 입력하면 결함 탐지/프롬프트 최적화/SFT 학습 데이터 생성을 에이전트가 폐쇄 루프로 돌리는 자동화 파이프라인을 설계하며 얻은 구조와 적용 경험을 공유합니다. 발표 대상 AI 서비스를 위한 스펙기반 프롬프트 최적화를 적용하고자 하시는 기획/AI엔지니어 분들 목차 Agent Spec Defect Detection 프롬프트 최적화 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
-        "category_score": 98,
-        "score_reason": "AI 에이전트 서비스의 핵심인 프롬프트 최적화 및 학습 데이터 생성 과정을 폐쇄 루프(Closed-loop) 시스템으로 자동화한 사례로, 기획부터 개발까지의 구조적 인사이트가 매우 뛰어남.",
+        "url": "https://d2.naver.com/helloworld/3015479",
+        "published_at": "2026-06-24T20:09:58+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos는 코딩 에이전트와 그 환경을 API화하고 관리할 수 있도록 해주는 오픈소스 프레임워크입니다. 발표 대상 AI 코딩 에이전트의 자동화에 고민이 있으신 분들 목차 Introduction Core concepts Self-development Integration Conclusion ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플랫폼 도입 시 유용하게 활용될 수 있는…",
+        "category_score": 62,
+        "score_reason": "플랫폼, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
+          "플랫폼",
+          "로그",
           "AI",
-          "자동화",
-          "프롬프트",
-          "데이터 파이프라인"
+          "자동화"
         ],
-        "planning_insight": "서비스 스펙 변경에 따른 프롬프트 대응을 자동화함으로써 운영 효율을 극대화하는 파이프라인 설계 전략 제공"
+        "planning_insight": "이 항목은 플랫폼, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "c243255e9cac71c9730fdba8726f2798e836c7dd91a73cd91ac4a383aff0075c",
-        "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
-        "source": "네이버 D2",
-        "group": "tech_blog",
-        "category": "search_ai",
-        "url": "https://d2.naver.com/helloworld/7056385",
-        "published_at": "2026-06-22T19:52:41+09:00",
-        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이를 통한 팀 내 업무 효율화 경험을 공유합니다. 발표 대상 AI Agent 생산성 향상에 관심있는 개발자 목차 우리 팀의 AI Agent, 왜 엉뚱한 소리를 했나 Agentic Context Platform Demo - 4가지 질문이 답이 되는 순간 Context Provider 구축기 달라진 환경, 그리고 다음 스텝 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
-        "category_score": 95,
-        "score_reason": "AI 에이전트가 엉뚱한 답변을 하는 문제를 해결하기 위한 'Context Provider' 구축 사례. 사용자 경험을 위한 데이터 활용의 좋은 예시임.",
-        "keywords": [
-          "AI Agent",
-          "Context",
-          "데이터 활용",
-          "생산성"
-        ],
-        "planning_insight": "AI 모델이 비즈니스 로직을 정확히 반영하게 만드는 데이터 서빙 레이어 설계의 중요성 입증"
-      },
-      {
-        "rank": 3,
-<<<<<<< HEAD
-        "id": "edd5861c812c6c10df4cf0fded63cfddd2a00600cdccd9d04a7d24758dd05c56",
-        "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
-        "source": "네이버 D2",
-=======
-        "id": "f5349311da6d990864c4f90bde1ac1904036d320945d45effa0999b87bb05005",
-        "title": "1. 세상에 없던 직무를 만들어가기",
-        "source": "토스 기술블로그",
-        "group": "tech_blog",
-        "category": "product_tech",
-        "url": "https://toss.tech/article/technical-writing-1",
-        "published_at": "2026-06-19T11:00:00+09:00",
-        "summary": "토스의 Technical Writer들이 어떻게 '문서를 쓰는 사람'에서 '조직의 지식 시스템을 설계하는 사람'으로 일을 넓혀왔는지 소개해요.",
-        "category_score": 92,
-        "score_reason": "토스의 테크니컬 라이팅 조직이 '문서 기록자'에서 '지식 시스템 설계자'로 진화한 과정을 담아, 사내 운영 전략과 시스템 구축 관점을 깊이 있게 보여줌.",
-        "keywords": [
-          "조직문화",
-          "지식 시스템",
-          "운영 전략"
-        ],
-        "planning_insight": "조직 내 산재된 지식을 시스템화하여 서비스 기획과 운영의 정합성을 높이는 방법론"
-      },
-      {
-        "rank": 4,
-        "id": "cdb03b493d148ba37bd9688778248027c81495c82f003d746d3b086ac0c7862b",
-        "title": "디자이너에게 AI로 뭐든 만들어보라고 한다면",
-        "source": "토스 기술블로그",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-        "group": "tech_blog",
-        "category": "product_tech",
-        "url": "https://toss.tech/article/ai_contest",
-        "published_at": "2026-06-19T21:40:00+09:00",
-        "summary": "토스 디자인챕터에서 AI Contest를 열었어요. 그중 인상적이었던 네 가지 사례를 소개합니다.",
-        "category_score": 90,
-        "score_reason": "디자이너들에게 AI를 활용한 과제를 부여함으로써 실제 프로덕트 기획 과정에서의 실질적인 AI 활용 사례를 발굴함.",
-        "keywords": [
-          "디자인",
-          "AI 활용",
-          "프로토타이핑"
-        ],
-        "planning_insight": "AI 도구를 기획자가 아닌 디자이너 등 도메인 전문가가 활용했을 때 나타나는 UX 혁신 가능성 제시"
-      },
-      {
-<<<<<<< HEAD
-        "rank": 4,
-        "id": "34d82974c85e361ad72f3d13340dce072540df7c708afa20ca2c0471afeca7e8",
-        "title": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기",
-        "source": "카카오 기술블로그",
-=======
-        "rank": 5,
-        "id": "78fe1e037d6ddda678d6f9c17be34b61a0c02539df11b656b4cf35831aad35b4",
-        "title": "사람도 AI도 놓친 번역 누락, ESLint 플러그인을 만들어 해결하기",
-        "source": "우아한형제들 기술블로그",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-        "group": "tech_blog",
-        "category": "service_tech",
-        "url": "https://techblog.woowahan.com/26388/",
-        "published_at": "2026-06-23T16:36:13+09:00",
-        "summary": "여는 글 대 AI의 시대를 맞이하며 배달의민족 앱에 다국어 지원의 바람이 불었습니다. AI의 빠른 번역 속도는 몇 년 동안 잊혀진 다국어 지원의 실현을 앞당겼고, B마트와 장보기쇼핑을 비롯한 커머스 서비스도 예외는 아니었습니다. 이에 맞춰 커머스 웹프론트에서는 한글 문구를 체계적으로 관리 및 번역하고자, 유명한 다국어 프레임워크 i18next와 react-i18next 생태계에 기반한 커스텀 라이브러리 @lib/i18n을 구현했습니다. 그리고 빈틈없는 번역과 […] The post 사람도 AI도 놓친 번역 누락, ESLint 플러그인을 만들어 해결하기 first appeared on 우아한형제들 기술블로그 .",
-        "category_score": 88,
-        "score_reason": "AI 시대에도 놓칠 수 있는 사용자 경험(다국어 번역)을 ESLint 플러그인이라는 개발적 접근으로 해결하여 시스템적 견고함을 갖춤.",
-        "keywords": [
-          "UX",
-          "다국어",
-          "품질 관리",
-          "ESLint"
-        ],
-<<<<<<< HEAD
-        "planning_insight": "이 항목은 추천, 데이터, 실험 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 5,
         "id": "aa52b305c1072363bfd4afdf2e702f4a8ebfe05476344647f11c2f3a20f7910b",
         "title": "SNOW의 Automatic Sharding 도입기",
         "source": "네이버 D2",
@@ -335,43 +149,106 @@
           "콘텐츠"
         ],
         "planning_insight": "이 항목은 AI, 자동화, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-=======
-        "planning_insight": "사용자 편의를 위한 기능을 단순히 AI에만 맡기지 않고, 개발 프레임워크 수준에서 강제하여 안정성을 확보하는 구조적 사고"
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
+      },
+      {
+        "rank": 3,
+        "id": "78fe1e037d6ddda678d6f9c17be34b61a0c02539df11b656b4cf35831aad35b4",
+        "title": "사람도 AI도 놓친 번역 누락, ESLint 플러그인을 만들어 해결하기",
+        "source": "우아한형제들 기술블로그",
+        "group": "tech_blog",
+        "category": "service_tech",
+        "url": "https://techblog.woowahan.com/26388/",
+        "published_at": "2026-06-23T16:36:13+09:00",
+        "summary": "여는 글 대 AI의 시대를 맞이하며 배달의민족 앱에 다국어 지원의 바람이 불었습니다. AI의 빠른 번역 속도는 몇 년 동안 잊혀진 다국어 지원의 실현을 앞당겼고, B마트와 장보기쇼핑을 비롯한 커머스 서비스도 예외는 아니었습니다. 이에 맞춰 커머스 웹프론트에서는 한글 문구를 체계적으로 관리 및 번역하고자, 유명한 다국어 프레임워크 i18next와 react-i18next 생태계에 기반한 커스텀 라이브러리 @lib/i18n을 구현했습니다. 그리고 빈틈없는 번역과 […] The post 사람도 AI도 놓친 번역 누락, ESLint 플러그인을 만들어 해결하기 first appeared on 우아한형제들 기술블로그 .",
+        "category_score": 48,
+        "score_reason": "커머스, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "커머스",
+          "로그",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 커머스, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "f2dd45126d8cc54358054f12518e82e0fd4515de2687d50ec7e603c376425f82",
+        "title": "6. 도구를 넘어, 기준과 책임으로",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/technical-writing-6",
+        "published_at": "2026-06-23T11:01:00+09:00",
+        "summary": "도구와 자동화가 있어도, 무엇을 남기고 누가 책임지고 어떤 문서를 믿을지 정하는 기준과 책임이 없으면 문서화가 제대로 굴러가지 않아요. 그 빈자리를 메워간 과정을 담았습니다.",
+        "category_score": 36,
+        "score_reason": "자동화 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "자동화"
+        ],
+        "planning_insight": "이 항목은 자동화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "bcd2ddbe32db41a9ee44ea4e6d8d727c88f367362ce3806b92e4e093b26550e9",
+        "title": "5. Technical Writer, 사라질 결심",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/technical-writing-5",
+        "published_at": "2026-06-23T11:00:00+09:00",
+        "summary": "TW의 암묵지를 AI에게 가르쳐서, 사람이 하던 글쓰기와 리뷰를 대신하게 만든 과정을 담았어요.",
+        "category_score": 36,
+        "score_reason": "AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI"
+        ],
+        "planning_insight": "이 항목은 AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "05373f044da1b9e71d0676ecb36c1b80e8256376a63321200ea5d60b3ba8a305",
-        "title": "Amazon Bedrock Managed Knowledge Base 소개: 더 빠르고 정확한 엔터프라이즈 AI 애플리케이션 구현",
-        "source": "AWS 한국 블로그",
+        "id": "521528fe0183d17fd321b48e5b4eaa58d8beb2c474185b5b04bc7d2fe2b0f6ec",
+        "title": "LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges",
+        "source": "arXiv cs.CL",
         "group": "ai_data",
-<<<<<<< HEAD
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.25057",
+        "published_at": "2026-06-25T13:00:00+09:00",
+        "summary": "arXiv:2606.25057v1 Announce Type: new Abstract: The rapid growth of scientific submissions has pushed traditional peer review toward its scalability limits, motivating the exploration of large language models (LLMs) as intelligent automated evaluation assistants. Although recent studies show that LLMs can generate fluent critiques and approximate reviewer scores, their reliability, robustness, and security as decision-support systems remain insufficiently understood. This survey offers a system…",
+        "category_score": 63,
+        "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "benchmark",
+          "model",
+          "API",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "fb860185980bc2329655cb4706718a17aaae1a379e770d65db0158309cdc10d4",
+        "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
         "category": "llm_nlp_research",
         "url": "https://arxiv.org/abs/2606.23915",
         "published_at": "2026-06-24T13:00:00+09:00",
         "summary": "arXiv:2606.23915v1 Announce Type: new Abstract: Practice often treats automatic metrics for attribution in LLM retrieval-augmented generation as interchangeable. We audit eight automatic scorers -- lexical, embedding, and BERTScore baselines alongside entailment/grounding-trained models (clean and FEVER NLI, the checker MiniCheck) -- across three evaluation constructs (provenance/topicality, generated-answer attribution, and fact-check entailment), asking whether any scorer transfers: stays wit…",
         "category_score": 62,
         "score_reason": "LLM, embedding, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-=======
-        "category": "cloud_data_infra",
-        "url": "https://aws.amazon.com/ko/blogs/korea/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-        "published_at": "2026-06-24T21:13:45+09:00",
-        "summary": "오늘, 개발자가 독점 데이터를 사용하여 몇 분 만에 엔터프라이즈급 생성형 AI 애플리케이션을 구축할 수 있도록 지원하는 새로운 기능 세트인 Amazon Bedrock Managed Knowledge Base를 발표합니다. 에이전트 AI 애플리케이션을 구축하는 조직은 정확하고 빠르며 신뢰할 수 있는 결과를 제공하기 위해 전사적 최신 데이터에 대한 안전하고 신뢰할 수 있는 액세스를 필요로 합니다. Managed Knowledge Base는 검색 증강 생성(RAG) […]",
-        "category_score": 98,
-        "score_reason": "기업용 생성형 AI의 핵심인 RAG(검색 증강 생성) 구축을 위한 관리형 지식 기반 서비스는 실무 기획자가 가장 즉각적으로 도입할 수 있는 인프라 기술임.",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
         "keywords": [
-          "RAG",
-          "엔터프라이즈AI",
-          "지식관리"
+          "LLM",
+          "embedding",
+          "model",
+          "dataset",
+          "retrieval"
         ],
-        "planning_insight": "사내 문서를 기반으로 한 정확하고 신뢰성 높은 AI 비서 구현 시, 별도의 파이프라인 구축 없이 빠르게 적용 가능한 표준 인프라로 활용."
+        "planning_insight": "이 항목은 LLM, embedding, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 2,
-<<<<<<< HEAD
+        "rank": 3,
         "id": "00c68d6a2b978fc12bf4461afcb3c328ff2f30ffa92652e54b16058b536a2b88",
         "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
         "source": "Hugging Face Blog",
@@ -390,7 +267,7 @@
         "planning_insight": "이 항목은 model, fine-tuning, transformer 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "25376d1a8352834bf7a803a2c0a3e4799877c79de63a75d5a86f33771ce94ce1",
         "title": "Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification",
         "source": "arXiv cs.CL",
@@ -401,146 +278,72 @@
         "summary": "arXiv:2606.23881v1 Announce Type: new Abstract: Knowledge-Based Visual Question Answering (KB-VQA) requires grounding visual queries to external knowledge beyond directly observable content in images. While recent multi modal large language models (MLLMs) show strong perceptual abilities, they struggle on KB-VQA tasks requiring groundings from both fine-grained entity and evidence levels. Most existing multi-modal retrieval augmented generation (MM-RAG) methods tightly couple entity discriminat…",
         "category_score": 56,
         "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-=======
-        "id": "ba520a4eacc42e7c5a56ef5c2559a49fd8dc80c1cb5394b290345c8fb3f1912c",
-        "title": "Amazon Bedrock AgentCore 웹 검색 기능 발표: AI 에이전트가 정확한 최신 웹 지식을 활용하도록 지원",
-        "source": "AWS 한국 블로그",
-        "group": "ai_data",
-        "category": "cloud_data_infra",
-        "url": "https://aws.amazon.com/ko/blogs/korea/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
-        "published_at": "2026-06-24T21:13:20+09:00",
-        "summary": "Amazon Bedrock AgentCore 기반 웹 검색 기능이 오늘 정식 출시됩니다. 이 완전관리형 도구를 사용하면 에이전트가 고객의 안전한 AWS 환경에서 데이터를 유출하지 않고도 현재 인용된 웹 지식을 바탕으로 답변을 제공할 수 있습니다. 웹 검색은 모델 컨텍스트 프로토콜(MCP)을 사용하는 Bedrock AgentCore Gateway의 내장 커넥터 대상을 사용합니다. 에이전트가 자연어 쿼리를 보내면, 웹 검색은 가장 연관성이 높은 요약 정보, […]",
-        "category_score": 95,
-        "score_reason": "AI 에이전트가 최신 웹 정보를 실시간으로 결합하도록 돕는 도구로, 콘텐츠의 최신성과 전문성을 강화하는 데 직접적으로 기여함.",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
         "keywords": [
-          "AI 에이전트",
-          "웹 검색",
-          "자동화"
+          "LLM",
+          "RAG",
+          "model",
+          "retrieval",
+          "AI"
         ],
-        "planning_insight": "정적인 데이터셋의 한계를 넘어 실시간 웹 지식을 결합한 지능형 콘텐츠 제작/큐레이션 에이전트 기획 가능."
+        "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-<<<<<<< HEAD
-        "rank": 4,
-        "id": "d8ecadb6c9777d526046f8eddef4161dff269fa0ebfb60125d352ebfc6ececcc",
-        "title": "When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents",
+        "rank": 5,
+        "id": "bdc184019b6af02869c7b8121a05e1c9987bd698cb1082f0185b40192d1af12e",
+        "title": "LLM Performance on a Real, Double-Marked GCSE Benchmark",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2606.23937",
-        "published_at": "2026-06-24T13:00:00+09:00",
-        "summary": "arXiv:2606.23937v1 Announce Type: new Abstract: Exact-match retrieval recall is often used as a proxy for whether a retriever supplies useful policy context to a downstream decision model. We test this proxy for pre-action policy classification in tau-bench using Qwen2.5-3B/7B classifiers. Under gold-policy conditioning, a compact structured state improves macro-F1 over raw trajectories by 0.13-0.17 after tuning. We then replace the benchmark-designated policy clause with the top-ranked clause…",
+        "url": "https://arxiv.org/abs/2606.24973",
+        "published_at": "2026-06-25T13:00:00+09:00",
+        "summary": "arXiv:2606.24973v1 Announce Type: new Abstract: We introduce a dataset of 32,534 double-marked real student responses to GCSE mock exams (GCSEs are the UK's national exams, taken at age ~16), spanning 328 questions across five subjects and including handwritten work. We test whether off-the-shelf large language models agree with examiners as closely as the two examiners agree with each other. We find that models overwhelmingly agree well with the examiner consensus across subjects, with the top…",
         "category_score": 55,
-        "score_reason": "agent, agents, benchmark 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "agent",
-          "agents",
+          "LLM",
           "benchmark",
           "model",
-          "retrieval"
+          "dataset"
         ],
-        "planning_insight": "이 항목은 agent, agents, benchmark 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 5,
-        "id": "727cceb6c29a79e0db5e546199d7eed04f943df33920c9d572472528428469f5",
-        "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-=======
-        "rank": 3,
-        "id": "a84f4fdf6d1d2b41538f147b2a7cab38c6080d6b7260844207293c50ecac534d",
-        "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-        "published_at": "2026-06-23T21:51:55+09:00",
-        "summary": "",
-        "category_score": 92,
-        "score_reason": "다양한 에이전트 서비스 실습 예제를 제공하여, 실제 업무 자동화(Agentic App) 기획 및 프로토타이핑을 위한 기술 장벽을 낮춰줌.",
-        "keywords": [
-          "에이전트",
-          "자동화",
-          "앱 개발"
-        ],
-        "planning_insight": "반복적인 업무나 콘텐츠 운영 업무를 자동화하는 '에이전트 앱' 기획 시 참조 가능한 실무 케이스 및 경량 프레임워크 활용 전략 수립."
-      },
-      {
-        "rank": 4,
-        "id": "eba7f59f6cd8ea6ef35a2ef204f0304c063b73db28872de7f0606affae6e45ee",
-        "title": "2026년 AWS Summit New York 주요 발표 내용",
-        "source": "AWS 한국 블로그",
-        "group": "ai_data",
-        "category": "cloud_data_infra",
-        "url": "https://aws.amazon.com/ko/blogs/korea/top-announcements-of-the-aws-summit-in-new-york-2026/",
-        "published_at": "2026-06-18T22:37:57+09:00",
-        "summary": "오늘 뉴욕에서 열린 AWS Summit에서는 AWS Agentic AI VP인 Swami Sivasubramanian이 기조연설을 했습니다. 행사의 주요 발표 내용은 아래에 요약되어 있습니다. 에이전트 구현을 위한 새로운 기능 Amazon Bedrock AgentCore에 새로운 기능 도입: AI 에이전트를 조직, 웹 및 유료 지식에 연결하고, 팀이 프로덕션에서 발생하는 문제를 찾아 수정하도록 지원하며, 에이전트의 성능이 향상됨에 따라 확장 가능한 제어를 적용합니다. 이러한 […]",
-        "category_score": 89,
-        "score_reason": "에이전트 AI의 최신 기술 트렌드와 조직적 도입 방향을 파악할 수 있는 종합적인 요약 자료로서 기획자의 로드맵 설정에 필수적임.",
-        "keywords": [
-          "Agentic AI",
-          "트렌드",
-          "로드맵"
-        ],
-        "planning_insight": "조직 내 에이전트 도입 단계(구현, 최적화, 제어)를 체계적으로 이해하고, 기술적 부채 해결과 성능 향상을 결합한 서비스 전략 기획."
-      },
-      {
-        "rank": 5,
-        "id": "00c68d6a2b978fc12bf4461afcb3c328ff2f30ffa92652e54b16058b536a2b88",
-        "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-        "published_at": "2026-06-25T01:00:13+09:00",
-        "summary": "",
-        "category_score": 85,
-        "score_reason": "오픈소스 모델의 미세 조정(Fine-tuning)을 가속화하는 기술로, 특정 도메인에 특화된 콘텐츠 생성기 구축을 위한 핵심 역량임.",
-        "keywords": [
-          "파인튜닝",
-          "최적화",
-          "LLM"
-        ],
-        "planning_insight": "범용 LLM이 아닌 특정 서비스나 매체 성격에 최적화된 맞춤형 생성 모델 도입 시 효율적인 비용/성능 관리 전략으로 활용."
+        "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-<<<<<<< HEAD
-      "id": "c243255e9cac71c9730fdba8726f2798e836c7dd91a73cd91ac4a383aff0075c",
-      "title": "사람과 AI Agent를 위한 통합 Context Provider 구축",
-      "source": "네이버 D2",
-      "group": "tech_blog",
-      "category": "search_ai",
-      "url": "https://d2.naver.com/helloworld/7056385",
-      "published_at": "2026-06-22T19:52:41+09:00",
-      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이를 통한 팀 내 업무 효율화 경험을 공유합니다. 발표 대상 AI Agent 생산성 향상에 관심있는 개발자 목차 우리 팀의 AI Agent, 왜 엉뚱한 소리를 했나 Agentic Context Platform Demo - 4가지 질문이 답이 되는 순간 Context Provider 구축기 달라진 환경, 그리고 다음 스텝 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
-      "category_score": 60,
-      "score_reason": "데이터, 플랫폼, 로그 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "5d1907804733b3045691b3a825a07abde86e647ad995402479ac1297a05abce7",
+      "title": "스토리카, 시드 투자 유치...아모레퍼시픽·슈미트 등 참여",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/",
+      "published_at": "2026-06-25T11:20:12+09:00",
+      "summary": "[지디넷코리아]스토리카는 아모레퍼시픽과 슈미트를 비롯해, 허슬펀드·본엔젤스·크루캐피탈 등으로부터 시드 투자를 받았다고 25일 밝혔다. 회사는 이번 투자금을 바탕으로 플랫폼 고도화와 함께, 미국 시장 진출 등에 속도를 낸다는 계획이다.스토리카는 이번 투자금을 바탕으로 플랫폼 고도화와 함께 미국 시장 진출 및 B2B 고객 확장에 속도를 낼 계획이다. 다음 달 15일 구글 포 스타트업 액셀러레이터 코리아데모데이에서 오픈베타 출시를 시작으로 글로벌 D2C 뷰티·라이프스타일 브랜드를 대상으로 한 크리에이터 마케팅 자동화 솔루션을 본격 공급한다는 전략이다. '인플루언서 마케팅의 AI 네이티브 전환'이라는 비전을 구현하기 위해 크리에이터 발굴부터 캠페인 실행·성과 분석까지 전 과정 자동화 수준을 높여나갈 예정이다.브라이스 리 스토리카 대표는 \"그동안 브랜드 담당자의 경험과 감에 의존해온 인플루언서 마케팅을 AI가 데이터 기반으로 자동 실행하는 시대가 열리고 있다\"며 \"7월 오픈베타를 시작으로…",
+      "category_score": 67,
+      "score_reason": "AI, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "데이터",
-        "플랫폼",
-        "로그",
         "AI",
-        "agent"
+        "마케팅",
+        "플랫폼",
+        "브랜드",
+        "데이터"
       ],
-      "planning_insight": "이 항목은 데이터, 플랫폼, 로그 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 69,
+      "planning_insight": "이 항목은 AI, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 78,
       "criteria_scores": {
-        "content_strategy": 14,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 19,
-        "market_consumer_impact": 12
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 팀 내 데이터/서빙 레이어 자산을 자동으로 수집하여 제공하는 AI 플랫폼 마련 및 이…",
-      "importance_reason": "데이터, 플랫폼, 로그 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "[지디넷코리아]스토리카는 아모레퍼시픽과 슈미트를 비롯해, 허슬펀드·본엔젤스·크루캐피탈 등으로부터 시드 투자를 받았다고 25일 밝혔다. 회사는 이번 투자금을 바탕으로 플랫폼 고도화와 함께, 미국 시장 진출 등에 속도를…",
+      "importance_reason": "AI, 마케팅, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 2,
@@ -567,105 +370,12 @@
         "trend_signal_timeliness": 20,
         "ai_data_relevance": 19,
         "market_consumer_impact": 12
-=======
-      "id": "712c64a97c6425087a66ed1efd9823a7ab5982929895a3d6a933ea78556236cf",
-      "title": "[현장] 이학준 대표 \"플로우, 협업툴 그 이상…AI 워크 에이전트로 진화\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/",
-      "published_at": "2026-06-25T11:45:22+09:00",
-      "summary": "[지디넷코리아]\"우리 플랫폼 '플로우'는 단순한 업무 도구가 아닙니다. 사람 간 소통 중심이던 협업 공간을 사람과 인공지능(AI) 에이전트가 함께 일하는 실행환경으로 바꾸는 'AI 워크 에이전트 플로우'로 진화했습니다.\"이학준 마드라스체크 대표는 25일 여의도 페어몬트호텔에서 열린 '플로우 AX페스타 2026' 기조연설에서 플로우 특장점을 이같이 밝혔다.이 대표는 기존 협업툴이 업무 등록과 소통에는 기여했지만 기업 안에 쌓이는 데이터를 충분히 활용하지 못했다고 봤다. 프로젝트 진행 상황, 회의록, 고객 의견, 파일, 일정, 지식 문서, 의사결정 기록이 데이터베이스에 남아도 실제 업무 가치로 이어지지 못했다는 설명이다.이 대표는 이런 문제를 해결하기 위해 업무 데이터를 AI 에이전트가 읽고 분석할 수 있는 구조로 진화해야 한다고 주장했다. 사용자가 특정 프로젝트 현황을 물으면 AI가 관련 업무 기록과 프로젝트 데이터를 분석해 진행 상황과 주요 이슈를 정리하는 식이다.이날 마드라스체크…",
-      "category_score": 98,
-      "score_reason": "협업툴의 단순 업무 효율화를 넘어, AI 에이전트가 데이터베이스를 분석하고 실행 환경을 주도하는 '에이전틱 AI(Agentic AI)'로의 명확한 시장 변화 신호를 담고 있음.",
-      "keywords": [
-        "AI 에이전트",
-        "워크스페이스",
-        "업무 자동화"
-      ],
-      "planning_insight": "단순 콘텐츠 생성을 넘어, 프로젝트 현황 분석부터 실행까지 지원하는 AI 워크플로우 설계 기반의 브랜디드 콘텐츠 및 내부 자동화 툴 기획이 필요합니다.",
-      "integrated_score": 98,
-      "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "협업툴의 단순 도구화를 넘어, 데이터 기반 의사결정을 스스로 수행하는 '실행형 AI 에이전트' 시대로의 진화",
-      "importance_reason": "단순 챗봇을 넘어 업무 실행 환경 자체를 자동화하는 '에이전틱 AI'의 등장은 콘텐츠 기획자의 워크플로우를 근본적으로 바꿀 강력한 신호이기 때문입니다."
-    },
-    {
-      "rank": 2,
-      "id": "05373f044da1b9e71d0676ecb36c1b80e8256376a63321200ea5d60b3ba8a305",
-      "title": "Amazon Bedrock Managed Knowledge Base 소개: 더 빠르고 정확한 엔터프라이즈 AI 애플리케이션 구현",
-      "source": "AWS 한국 블로그",
-      "group": "ai_data",
-      "category": "cloud_data_infra",
-      "url": "https://aws.amazon.com/ko/blogs/korea/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-      "published_at": "2026-06-24T21:13:45+09:00",
-      "summary": "오늘, 개발자가 독점 데이터를 사용하여 몇 분 만에 엔터프라이즈급 생성형 AI 애플리케이션을 구축할 수 있도록 지원하는 새로운 기능 세트인 Amazon Bedrock Managed Knowledge Base를 발표합니다. 에이전트 AI 애플리케이션을 구축하는 조직은 정확하고 빠르며 신뢰할 수 있는 결과를 제공하기 위해 전사적 최신 데이터에 대한 안전하고 신뢰할 수 있는 액세스를 필요로 합니다. Managed Knowledge Base는 검색 증강 생성(RAG) […]",
-      "category_score": 98,
-      "score_reason": "기업용 생성형 AI의 핵심인 RAG(검색 증강 생성) 구축을 위한 관리형 지식 기반 서비스는 실무 기획자가 가장 즉각적으로 도입할 수 있는 인프라 기술임.",
-      "keywords": [
-        "RAG",
-        "엔터프라이즈AI",
-        "지식관리"
-      ],
-      "planning_insight": "사내 파편화된 리서치 문서와 데이터를 RAG로 통합하여, 사내용 '지식 기반 AI 비서'를 구축하는 기획 리포트 및 솔루션 도입 전략 마련이 가능합니다.",
-      "integrated_score": 96,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "엔터프라이즈 데이터 기반의 RAG 구축을 간소화하는 관리형 서비스 출시",
-      "importance_reason": "실무 기획자가 가장 고민하는 '환각 없는 AI'를 사내 데이터를 활용해 즉시 구현할 수 있는 실용적인 인프라 기술이기 때문입니다."
-    },
-    {
-      "rank": 3,
-      "id": "edd5861c812c6c10df4cf0fded63cfddd2a00600cdccd9d04a7d24758dd05c56",
-      "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
-      "source": "네이버 D2",
-      "group": "tech_blog",
-      "category": "search_ai",
-      "url": "https://d2.naver.com/helloworld/2852215",
-      "published_at": "2026-06-18T19:17:54+09:00",
-      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 입력 스펙이 자주 바뀌는 쇼핑 에이전트 답변 모델 개발에서, 변경된 스펙만 입력하면 결함 탐지/프롬프트 최적화/SFT 학습 데이터 생성을 에이전트가 폐쇄 루프로 돌리는 자동화 파이프라인을 설계하며 얻은 구조와 적용 경험을 공유합니다. 발표 대상 AI 서비스를 위한 스펙기반 프롬프트 최적화를 적용하고자 하시는 기획/AI엔지니어 분들 목차 Agent Spec Defect Detection 프롬프트 최적화 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
-      "category_score": 98,
-      "score_reason": "AI 에이전트 서비스의 핵심인 프롬프트 최적화 및 학습 데이터 생성 과정을 폐쇄 루프(Closed-loop) 시스템으로 자동화한 사례로, 기획부터 개발까지의 구조적 인사이트가 매우 뛰어남.",
-      "keywords": [
-        "AI",
-        "자동화",
-        "프롬프트",
-        "데이터 파이프라인"
-      ],
-      "planning_insight": "콘텐츠 제작 시 프롬프트 엔지니어링 과정을 자동화하여, 스펙 변경에 대응하는 지속 가능한 '콘텐츠 최적화 파이프라인'을 설계할 수 있습니다.",
-      "integrated_score": 94,
-      "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 22
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-<<<<<<< HEAD
       "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 수천 개의 서비스가 한정된 GPU 자원을 효율적으로 공유할 수 있도록 돕는 Autom…",
       "importance_reason": "AI, 자동화, 알고리즘 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
@@ -681,73 +391,23 @@
       "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos는 코딩 에이전트와 그 환경을 API화하고 관리할 수 있도록 해주는 오픈소스 프레임워크입니다. 발표 대상 AI 코딩 에이전트의 자동화에 고민이 있으신 분들 목차 Introduction Core concepts Self-development Integration Conclusion ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플랫폼 도입 시 유용하게 활용될 수 있는…",
       "category_score": 62,
       "score_reason": "플랫폼, 로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
-=======
-      "one_line_summary": "쇼핑 에이전트 개발 과정에서의 프롬프트 최적화 및 결함 탐지 자동화 파이프라인 구축 사례",
-      "importance_reason": "AI 서비스의 품질 관리를 사람의 수동 작업이 아닌 폐쇄 루프(Closed-loop) 자동화로 전환하는 엔지니어링 방법론은 향후 고도화된 콘텐츠 생산 시스템의 표본이 됩니다."
-    },
-    {
-      "rank": 4,
-      "id": "4b3aa0c24964fe21e8c8479e326160bf32c40491ef0d7622f69d35f58ad2d06b",
-      "title": "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/",
-      "published_at": "2026-06-25T06:00:03+09:00",
-      "summary": "[지디넷코리아]생성형 인공지능(AI)이 업무 현장에 빠르게 확산되면서 신입 직원 채용 시장에도 변화가 나타나고 있다. 스위스에서는 AI 활용도가 높은 직군을 중심으로 신입 채용 공고가 크게 줄어든 것으로 조사됐다.24일(현지시간) IT 전문매체 더넥스트웹에 따르면 스위스 채용 플랫폼 잡스닷컴은 최근 발표한 'AI 리포트 2026'에서 지난해 신입·주니어 직군 채용 공고 수가 생성형 AI 등장 이전인 2019~2022년 평균 대비 약 30% 감소했다고 밝혔다.이번 조사는 2019년부터 2025년까지 잡스닷컴, 잡업닷컴, 잡스카우트에 게재된 730만 건 채용 공고를 분석한 결과다. 연구진은 생성형 AI가 본격적으로 확산되기 전인 2019~2022년을 기준선으로 삼아 이후 변화를 비교했다.감소 폭은 AI의 영향을 많이 받는 직군에서 두드러졌다. 보고서는 행정, 인사(HR), 금융, 마케팅, 구매, 영업, IT·통신 등 지식 기반 사무직을 'AI 노출 직군'으로 분류했다. 이들 분야에서는…",
-      "category_score": 92,
-      "score_reason": "생성형 AI의 도입이 신입 채용 감소로 이어진다는 실증적 데이터는 노동 시장과 교육 트렌드에 직결되는 매우 파급력 큰 사회적 변화 신호임.",
       "keywords": [
-        "AI 채용 시장",
-        "사무직 변화",
-        "노동 시장"
+        "플랫폼",
+        "로그",
+        "AI",
+        "자동화"
       ],
-      "planning_insight": "AI와 공존하는 시대의 '미래 역량', 'AI 협업 직무 재정의'를 주제로 한 카드뉴스, 커리어 가이드 콘텐츠를 발행하여 커뮤니티의 높은 반응을 끌어낼 수 있습니다.",
-      "integrated_score": 92,
+      "planning_insight": "이 항목은 플랫폼, 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
       "criteria_scores": {
-        "content_strategy": 22,
+        "content_strategy": 14,
         "trend_signal_timeliness": 25,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 23
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
       },
       "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "생성형 AI 확산에 따른 주니어 직군 채용 감소라는 노동 시장의 실증적 변화 리포트",
-      "importance_reason": "단순 기술 유행이 아닌 사회 구조적 채용 시장 변화는 타깃 오디언스(주니어 기획자 등)에게 가장 시급하고 파급력이 큰 의제입니다."
-    },
-    {
-      "rank": 5,
-      "id": "510e4db6b543056a778156ee76a6bd6637781b6bec194a2a5ea29c4e6a15094c",
-      "title": "[단독] \"제조현장 AI전환 더 빠르게\"…현대차그룹 팩토리OS 속도",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "url": "https://www.mk.co.kr/news/business/12082240",
-      "published_at": "2026-06-24T18:04:52+09:00",
-      "summary": "현대자동차그룹이 제조 현장의 인공지능 전환(AX) 전담 조직을 꾸리고 공장 운영 데이터와 생성형 인공지능(AI)을 통합한 차세대 제조 플랫폼 개발에 나선다. 소프트웨어 중심차량(S..",
-      "category_score": 95,
-      "score_reason": "대기업 현대차가 제조 현장의 AI 전환(AX)을 위해 전담 조직을 꾸리고 '팩토리OS'를 개발한다는 것은 AI가 산업 생산 현장의 표준 운영 체제로 진화하고 있음을 보여주는 강력한 트렌드임.",
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-      "keywords": [
-        "AI 전환(AX)",
-        "제조 플랫폼",
-        "팩토리OS"
-      ],
-      "planning_insight": "산업별 AI 도입 성공 사례를 벤치마킹하는 B2B 전문 콘텐츠나, 전통 업종의 데이터 자산 활용 가치를 조명하는 산업 분석 리포트로 확장 가능합니다.",
-      "integrated_score": 90,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "시장·소비자 영향력",
         "트렌드 신호성·시의성"
       ],
-<<<<<<< HEAD
       "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos…",
       "importance_reason": "플랫폼, 로그, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
@@ -814,16 +474,12 @@
       ],
       "one_line_summary": "현대자동차 내부에서 제조 현장의 인공지능(AI) 전환을 위해 공장 운영 데이터와 생성형 AI를 통합한 차세대 제조 플랫폼 개발 움직임이 포착됐다. 소프트웨어 중심차량(SDV)과 로..",
       "importance_reason": "AI, 생성형 AI, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-=======
-      "one_line_summary": "현대차그룹의 제조 플랫폼 '팩토리OS' 추진을 통해 본 제조 현장의 AI 전환 표준화 흐름",
-      "importance_reason": "전통 산업의 AI 전환이 '개별적 도입'에서 '운영 체제(OS)화'로 넘어가고 있음을 보여주는 강력한 B2B 시장의 신호탄입니다."
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 89,
+      "count": 83,
       "groups": [
         "ai_data",
         "news",
@@ -839,95 +495,46 @@
     },
     {
       "keyword": "데이터",
-<<<<<<< HEAD
+      "count": 27,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
       "count": 24,
-=======
-      "count": 25,
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
       "groups": [
         "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
         "news",
         "tech_blog"
       ],
       "sources": [
-        "AWS 한국 블로그",
         "ZDNet Korea",
         "네이버 D2",
         "매일경제 기업"
       ]
     },
     {
-<<<<<<< HEAD
-      "keyword": "플랫폼",
-      "count": 18,
-      "groups": [
-        "news",
-        "tech_blog"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "네이버 D2",
-        "당근 기술블로그",
-        "매일경제 기업",
-        "무신사 테크"
-      ]
-    },
-    {
-      "keyword": "분석",
-      "count": 16,
-      "groups": [
-        "ai_data",
-        "news",
-        "tech_blog"
-=======
       "keyword": "model",
-      "count": 20,
-      "groups": [
-        "ai_data",
-        "news"
-      ],
-      "sources": [
-        "Hugging Face Blog",
-        "NYT Technology",
-        "arXiv cs.CL"
-      ]
-    },
-    {
-      "keyword": "분석",
-      "count": 20,
-      "groups": [
-        "ai_data",
-        "news"
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-      ],
-      "sources": [
-        "AWS 한국 블로그",
-        "ZDNet Korea",
-<<<<<<< HEAD
-        "당근 기술블로그",
-        "매일경제 기업",
-        "카카오 기술블로그"
-=======
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "플랫폼",
       "count": 19,
-      "groups": [
-        "news",
-        "tech_blog"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "네이버 D2",
-        "매일경제 기업"
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
-      ]
-    },
-    {
-      "keyword": "model",
-      "count": 15,
       "groups": [
         "ai_data",
         "news"
@@ -940,22 +547,16 @@
     }
   ],
   "overall_summary": [
-<<<<<<< HEAD
-    "오늘 선별된 주요 흐름은 AI, 플랫폼, 데이터, 로그, 자동화 키워드를 중심으로 나타났습니다.",
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 마케팅, 데이터, 자동화 키워드를 중심으로 나타났습니다.",
     "통합 Top 5에는 news, tech_blog 그룹의 항목이 반영되었습니다.",
     "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
-=======
-    "AI는 단순한 도구의 영역을 넘어 기업의 운영체제(OS)이자 실행 주체인 '에이전틱 AI'로 빠르게 진화하고 있습니다.",
-    "기술의 핵심은 범용성에서 '비즈니스 도메인 데이터와의 결합(RAG, 자동화 파이프라인)'으로 이동하여 실무적 정확도를 높이는 방향으로 집중되고 있습니다.",
-    "기술 도입의 경제적 여파로 인해 채용 및 노동 시장의 구조적 변화가 실질 데이터로 확인되기 시작했으며, 이는 향후 콘텐츠와 커리어 기획 시 고려해야 할 필수 변수가 되었습니다."
->>>>>>> 8588db78758fc92fd1f059c1f7c8f59ebf3aef79
   ],
-  "method": "gemini",
-  "fallback_used": false,
-  "gemini_call_count": 4,
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 0,
   "category_methods": {
-    "news": "gemini",
-    "tech_blog": "gemini",
-    "ai_data": "gemini"
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
   }
 }

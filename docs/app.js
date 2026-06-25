@@ -21,7 +21,6 @@ const elements = {
   newsTop5: document.querySelector("#newsTop5"),
   techTop5: document.querySelector("#techTop5"),
   aiTop5: document.querySelector("#aiTop5"),
-  hotKeywords: document.querySelector("#hotKeywords"),
   archiveDateSelect: document.querySelector("#archiveDateSelect"),
   archiveTimeSelect: document.querySelector("#archiveTimeSelect"),
   archiveStatus: document.querySelector("#archiveStatus"),
@@ -83,15 +82,18 @@ function renderItems() {
 
   if (!state.activeGroup) {
     elements.statusMessage.textContent = "아래 탭을 선택하면 최신 RSS 원자료 목록이 표시됩니다.";
+    elements.statusMessage.classList.remove("is-hidden");
     return;
   }
 
   if (!items.length) {
     elements.statusMessage.textContent = "수집된 항목이 없습니다.";
+    elements.statusMessage.classList.remove("is-hidden");
     return;
   }
 
   elements.statusMessage.textContent = "";
+  elements.statusMessage.classList.add("is-hidden");
   const fragment = document.createDocumentFragment();
 
   for (const item of items) {
@@ -181,24 +183,6 @@ function renderCategoryTop5(target, items) {
     fragment.appendChild(row);
   }
   target.appendChild(fragment);
-}
-
-function renderKeywords() {
-  const keywords = state.briefing?.hot_keywords ?? [];
-  elements.hotKeywords.innerHTML = "";
-  if (!keywords.length) {
-    elements.hotKeywords.innerHTML = '<p class="muted-text">키워드가 아직 생성되지 않았습니다.</p>';
-    return;
-  }
-
-  const fragment = document.createDocumentFragment();
-  for (const keyword of keywords) {
-    const badge = document.createElement("span");
-    badge.className = "keyword-badge";
-    badge.textContent = `${keyword.keyword} ${keyword.count}`;
-    fragment.appendChild(badge);
-  }
-  elements.hotKeywords.appendChild(fragment);
 }
 
 function getArchiveDates() {
@@ -355,7 +339,6 @@ function renderBriefing() {
     renderCategoryTop5(elements.newsTop5, []);
     renderCategoryTop5(elements.techTop5, []);
     renderCategoryTop5(elements.aiTop5, []);
-    renderKeywords();
     return;
   }
 
@@ -364,7 +347,6 @@ function renderBriefing() {
   renderCategoryTop5(elements.newsTop5, state.briefing.category_top5?.news);
   renderCategoryTop5(elements.techTop5, state.briefing.category_top5?.tech_blog);
   renderCategoryTop5(elements.aiTop5, state.briefing.category_top5?.ai_data);
-  renderKeywords();
 }
 
 function render() {
@@ -376,6 +358,7 @@ function render() {
 
 async function loadData() {
   elements.statusMessage.textContent = "데이터를 불러오는 중입니다.";
+  elements.statusMessage.classList.remove("is-hidden");
   elements.itemsList.innerHTML = "";
 
   try {
@@ -404,14 +387,20 @@ async function loadData() {
     elements.updatedAt.textContent = "-";
     elements.totalItems.textContent = "0";
     elements.statusMessage.textContent = `data.json 로드 실패: ${error.message}`;
+    elements.statusMessage.classList.remove("is-hidden");
   }
 }
 
 elements.filterButtons.forEach((button) => {
   button.addEventListener("click", () => {
-    state.activeGroup = button.dataset.group;
+    const selectedGroup = button.dataset.group;
+    const shouldDeselect = state.activeGroup === selectedGroup;
+
+    state.activeGroup = shouldDeselect ? null : selectedGroup;
     elements.filterButtons.forEach((target) => target.classList.remove("active"));
-    button.classList.add("active");
+    if (!shouldDeselect) {
+      button.classList.add("active");
+    }
     renderItems();
   });
 });

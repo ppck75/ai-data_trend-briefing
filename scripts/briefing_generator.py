@@ -30,6 +30,16 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="RSS 트렌드 브리핑 생성기")
     parser.add_argument("--input", default=str(DEFAULT_INPUT), help="입력 data.json 경로")
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT), help="출력 briefing.json 경로")
+    parser.add_argument(
+        "--skip-archive",
+        action="store_true",
+        help="docs/briefing.json만 갱신하고 날짜별 아카이브는 생성하지 않습니다.",
+    )
+    parser.add_argument(
+        "--fallback-only",
+        action="store_true",
+        help="Gemini 호출 없이 규칙 기반 fallback으로 브리핑을 생성합니다.",
+    )
     return parser.parse_args()
 
 
@@ -395,9 +405,9 @@ def enrich_integrated_results(raw: dict, category_top5: dict[str, list[dict]]) -
     return selected, raw.get("overall_summary") or []
 
 
-def generate_briefing(items: list[dict]) -> dict:
+def generate_briefing(items: list[dict], use_gemini: bool = True) -> dict:
     generated_at = now_kst()
-    client = load_gemini_client()
+    client = load_gemini_client() if use_gemini else None
     method = "fallback"
     fallback_used = True
     gemini_call_count = 0
@@ -405,6 +415,8 @@ def generate_briefing(items: list[dict]) -> dict:
 
     category_top5 = fallback_category_top5(items)
     category_success_groups: set[str] = set()
+    if not use_gemini:
+        print("Gemini 호출을 건너뛰고 fallback 평가를 사용합니다.")
     if client is not None:
         print(f"Gemini 카테고리별 평가를 시도합니다. model={GEMINI_MODEL}")
         for group in GROUP_ORDER:
@@ -472,12 +484,15 @@ def main() -> int:
         return 1
 
     print(f"[1/3] 입력 항목: {len(items)}건")
-    briefing = generate_briefing(items)
+    briefing = generate_briefing(items, use_gemini=not args.fallback_only)
     print("[2/3] briefing.json 저장")
     save_json(briefing, output_path)
     print(f"  ✓ 브리핑 JSON 갱신: {output_path}")
-    print("[3/3] Markdown 아카이브 저장")
-    write_briefing_archive(briefing, output_dir=str(DEFAULT_ARCHIVE_DIR))
+    if args.skip_archive:
+        print("[3/3] Markdown 아카이브 저장 건너뜀 (--skip-archive)")
+    else:
+        print("[3/3] Markdown 아카이브 저장")
+        write_briefing_archive(briefing, output_dir=str(DEFAULT_ARCHIVE_DIR))
     print("완료")
     return 0
 

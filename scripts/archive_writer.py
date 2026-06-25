@@ -14,6 +14,8 @@ GROUP_LABELS = {
     "ai_data": "AI·데이터 트렌드",
 }
 
+SCHEDULED_BRIEFING_TIMES = ((8, 10), (12, 10), (20, 10))
+
 
 def _date_prefix(value: str) -> str:
     return (value or "")[:10]
@@ -82,10 +84,21 @@ def _parse_generated_at(value: str) -> datetime:
         return datetime.now(KST)
 
 
+def _archive_time_key(generated_at: datetime) -> str:
+    candidates = [
+        generated_at.replace(hour=hour, minute=minute, second=0, microsecond=0)
+        for hour, minute in SCHEDULED_BRIEFING_TIMES
+    ]
+    nearest = min(candidates, key=lambda slot: abs((generated_at - slot).total_seconds()))
+    if abs((generated_at - nearest).total_seconds()) <= 90 * 60:
+        return nearest.strftime("%H-%M")
+    return generated_at.strftime("%H-%M")
+
+
 def _archive_paths(briefing: dict, output_dir: str) -> tuple[Path, Path, Path, str, str]:
     generated_at = _parse_generated_at(briefing.get("generated_at", ""))
     date_key = briefing.get("briefing_date") or generated_at.date().isoformat()
-    time_key = generated_at.strftime("%H-%M")
+    time_key = _archive_time_key(generated_at)
     archive_dir = Path(output_dir)
     day_dir = archive_dir / date_key
     return day_dir / f"{time_key}.md", day_dir / f"{time_key}.json", archive_dir / "index.json", date_key, time_key
