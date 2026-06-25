@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -46,42 +47,7 @@ def _format_item(item: dict) -> str:
 
 
 def write_daily_archive(items: list[dict], output_dir: str = "docs/archive") -> None:
-    archive_dir = Path(output_dir)
-    archive_dir.mkdir(parents=True, exist_ok=True)
-
-    today = _today_kst()
-    today_items = [
-        item
-        for item in items
-        if _date_prefix(item.get("fetched_at", "")) == today
-        or _date_prefix(item.get("published_at", "")) == today
-    ]
-
-    unique_items = {item.get("id"): item for item in today_items if item.get("id")}
-    grouped: dict[str, list[dict]] = defaultdict(list)
-    for item in sorted(unique_items.values(), key=_sort_key, reverse=True):
-        grouped[item.get("group", "")].append(item)
-
-    output_path = archive_dir / f"{today}.md"
-    if output_path.exists():
-        existing_text = output_path.read_text(encoding="utf-8", errors="ignore")
-        if existing_text.startswith("# 오늘의 RSS 트렌드 브리핑"):
-            print(f"  ℹ 브리핑 아카이브가 있어 RSS 원자료 아카이브 덮어쓰기를 건너뜁니다: {output_path}")
-            return
-
-    lines = [f"# {today} RSS 트렌드 브리핑 아카이브", ""]
-
-    for group, label in GROUP_LABELS.items():
-        lines.extend([f"## {label}", ""])
-        group_items = grouped.get(group, [])
-        if not group_items:
-            lines.extend(["수집된 항목이 없습니다.", ""])
-            continue
-        for item in group_items:
-            lines.extend([_format_item(item), ""])
-
-    output_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
-    print(f"  ✓ 아카이브 갱신: {output_path}")
+    print("  ℹ 전체 RSS 원자료 아카이브는 저장하지 않습니다. 최신 200개는 docs/data.json에서만 유지합니다.")
 
 
 def _join_list(values: list[str] | None) -> str:
@@ -104,15 +70,86 @@ def _briefing_item_block(item: dict, score_key: str, reason_key: str = "score_re
     return lines
 
 
-def write_briefing_archive(briefing: dict, output_dir: str = "docs/archive") -> None:
-    archive_dir = Path(output_dir)
-    archive_dir.mkdir(parents=True, exist_ok=True)
+def _parse_generated_at(value: str) -> datetime:
+    if not value:
+        return datetime.now(KST)
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=KST)
+        return dt.astimezone(KST)
+    except Exception:
+        return datetime.now(KST)
 
-    briefing_date = briefing.get("briefing_date") or _today_kst()
-    output_path = archive_dir / f"{briefing_date}.md"
+
+def _archive_paths(briefing: dict, output_dir: str) -> tuple[Path, Path, Path, str, str]:
+    generated_at = _parse_generated_at(briefing.get("generated_at", ""))
+    date_key = briefing.get("briefing_date") or generated_at.date().isoformat()
+    time_key = generated_at.strftime("%H-%M")
+    archive_dir = Path(output_dir)
+    day_dir = archive_dir / date_key
+    return day_dir / f"{time_key}.md", day_dir / f"{time_key}.json", archive_dir / "index.json", date_key, time_key
+
+
+def _load_archive_index(index_path: Path) -> dict:
+    if not index_path.exists():
+        return {"updated_at": "", "archives": []}
+    try:
+        data = json.loads(index_path.read_text(encoding="utf-8"))
+        if not isinstance(data.get("archives"), list):
+            data["archives"] = []
+        return data
+    except Exception:
+        return {"updated_at": "", "archives": []}
+
+
+def _archive_index_entry(briefing: dict, date_key: str, time_key: str) -> dict:
+    hot_keywords = [item.get("keyword", "") for item in briefing.get("hot_keywords", []) if item.get("keyword")]
+    integrated_titles = [
+        item.get("title", "")
+        for item in briefing.get("integrated_top5", [])
+        if item.get("title")
+    ][:5]
+    return {
+        "id": f"{date_key}_{time_key}",
+        "date": date_key,
+        "time": time_key.replace("-", ":"),
+        "label": f"{date_key} {time_key.replace('-', ':')}",
+        "generated_at": briefing.get("generated_at", ""),
+        "source_total": briefing.get("source_total", 0),
+        "method": briefing.get("method", ""),
+        "fallback_used": briefing.get("fallback_used", False),
+        "top_keywords": hot_keywords[:5],
+        "integrated_titles": integrated_titles,
+        "path_json": f"archive/{date_key}/{time_key}.json",
+        "path_md": f"archive/{date_key}/{time_key}.md",
+    }
+
+
+def update_archive_index(briefing: dict, output_dir: str = "docs/archive") -> None:
+    _, _, index_path, date_key, time_key = _archive_paths(briefing, output_dir)
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+
+    index_data = _load_archive_index(index_path)
+    entry = _archive_index_entry(briefing, date_key, time_key)
+    archives = [item for item in index_data.get("archives", []) if item.get("id") != entry["id"]]
+    archives.append(entry)
+    archives.sort(key=lambda item: item.get("generated_at") or item.get("label", ""), reverse=True)
+
+    index_data = {
+        "updated_at": datetime.now(KST).isoformat(),
+        "archives": archives,
+    }
+    index_path.write_text(json.dumps(index_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"  ✓ 아카이브 인덱스 갱신: {index_path}")
+
+
+def write_briefing_archive(briefing: dict, output_dir: str = "docs/archive") -> None:
+    output_path, json_path, _, date_key, time_key = _archive_paths(briefing, output_dir)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
     lines = [
-        "# 오늘의 RSS 트렌드 브리핑",
+        f"# {date_key} {time_key.replace('-', ':')} RSS 트렌드 브리핑",
         "",
         f"생성 시각: {briefing.get('generated_at', '')}  ",
         f"수집 항목 수: {briefing.get('source_total', 0)}개",
@@ -172,4 +209,7 @@ def write_briefing_archive(briefing: dict, output_dir: str = "docs/archive") -> 
         lines.append(f"- {summary}")
 
     output_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    json_path.write_text(json.dumps(briefing, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    update_archive_index(briefing, output_dir=output_dir)
     print(f"  ✓ 브리핑 아카이브 갱신: {output_path}")
+    print(f"  ✓ 브리핑 JSON 아카이브 갱신: {json_path}")

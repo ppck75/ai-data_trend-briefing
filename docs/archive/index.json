@@ -1,0 +1,31 @@
+{
+  "updated_at": "2026-06-25T17:15:45.146487+09:00",
+  "archives": [
+    {
+      "id": "2026-06-25_17-15",
+      "date": "2026-06-25",
+      "time": "17:15",
+      "label": "2026-06-25 17:15",
+      "generated_at": "2026-06-25T17:15:41.126632+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "사람과 AI Agent를 위한 통합 Context Provider 구축",
+        "SNOW의 Automatic Sharding 도입기",
+        "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
+        "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다",
+        "[단독] \"제조 현장 AI 전환 더 빠르게\" 현대차 내부서 팩토리OS 제안"
+      ],
+      "path_json": "archive/2026-06-25/17-15.json",
+      "path_md": "archive/2026-06-25/17-15.md"
+    }
+  ]
+}

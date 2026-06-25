@@ -167,27 +167,44 @@ h1 span {
 }
 
 .toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  overflow: hidden;
   margin: 12px 0 20px;
 }
 
 .filter-button {
-  border-radius: 999px;
-  padding: 9px 14px;
+  border: 0;
+  border-right: 1px solid var(--line);
+  border-radius: 0;
+  padding: 13px 14px;
+}
+
+.filter-button:last-child {
+  border-right: 0;
 }
 
 .filter-button.active {
-  border-color: var(--primary);
   background: var(--primary);
   color: #ffffff;
 }
 
 .status-message {
-  margin: 20px 0;
+  margin: 18px 0;
   color: var(--muted);
   font-weight: 700;
+}
+
+.toolbar + .status-message {
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 14px;
 }
 
 .items-list {
@@ -202,6 +219,14 @@ h1 span {
 }
 
 .list-intro {
+  margin-top: 34px;
+  padding-top: 26px;
+  border-top: 1px solid var(--line);
+}
+
+.archive-browser {
+  display: grid;
+  gap: 16px;
   margin-top: 34px;
   padding-top: 26px;
   border-top: 1px solid var(--line);
@@ -467,6 +492,138 @@ h1 span {
   font-weight: 800;
 }
 
+.archive-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.archive-controls label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.archive-controls select {
+  min-width: 180px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-weight: 700;
+  padding: 10px 12px;
+}
+
+.archive-viewer {
+  display: grid;
+  gap: 16px;
+}
+
+.archive-summary {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr 2fr;
+  gap: 12px;
+}
+
+.archive-summary > div,
+.archive-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.archive-summary > div {
+  padding: 14px;
+}
+
+.archive-summary strong {
+  display: block;
+  overflow-wrap: anywhere;
+  font-size: 16px;
+}
+
+.archive-section {
+  display: grid;
+  gap: 12px;
+}
+
+.archive-section h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.archive-card-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(160px, 1fr));
+  gap: 12px;
+}
+
+.archive-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 220px;
+  padding: 14px;
+}
+
+.archive-card h4 {
+  margin: 8px 0;
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+.archive-card p {
+  display: -webkit-box;
+  overflow: hidden;
+  color: #475467;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
+.archive-card .source-button {
+  margin-top: auto;
+  align-self: flex-end;
+}
+
+.archive-category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.archive-category-grid > div {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 14px;
+}
+
+.archive-category-grid h4 {
+  margin: 0 0 10px;
+  font-size: 16px;
+}
+
+.archive-mini-list {
+  display: grid;
+  gap: 8px;
+}
+
+.archive-mini-list a {
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.archive-mini-list a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
 .item-card {
   display: grid;
   grid-template-columns: 48px minmax(0, 1fr);
@@ -544,13 +701,16 @@ h1 span {
 }
 
 @media (max-width: 1180px) {
-  .briefing-grid {
+  .briefing-grid,
+  .archive-card-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 920px) {
-  .category-briefings {
+  .category-briefings,
+  .archive-category-grid,
+  .archive-summary {
     grid-template-columns: 1fr;
   }
 }
@@ -579,8 +739,21 @@ h1 span {
     grid-template-columns: 1fr;
   }
 
+  .toolbar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .filter-button:nth-child(2) {
+    border-right: 0;
+  }
+
+  .filter-button:nth-child(-n + 2) {
+    border-bottom: 1px solid var(--line);
+  }
+
   .briefing-grid,
-  .category-briefings {
+  .category-briefings,
+  .archive-card-grid {
     grid-template-columns: 1fr;
   }
 
