@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T03:32:06.757379+09:00",
+  "updated_at": "2026-06-26T05:19:32.600736+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-06-26T03:32:06.649137+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "273f21fc4bf0c536788be549fac005468f05cd5607ce82a15791b6b19b209503",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Which tokens does a hybrid model predict better?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published_at": "2026-06-26T01:11:42+09:00",
+      "entry_updated_at": "2026-06-26T01:11:42+09:00",
+      "fetched_at": "2026-06-26T05:19:32.390037+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3575,24 +3593,6 @@
       "title": "\"주택 화재·누수땐 AI 홈 시스템이 실시간 알림\"",
       "summary": "삼성전자가 경기도 화성시에 있는 '삼성 AI 모듈러 홈' 쇼룸에서 단독주택에 특화된 인공지능(AI) 주거 솔루션을 선보였다. 24일 삼성전자는 보안과 시설 관리의 어려움, 과도한 ..",
       "url": "https://www.mk.co.kr/news/business/12082242",
-      "published_at": "2026-06-24T09:04:53+09:00",
-      "entry_updated_at": "2026-06-24T09:04:53+09:00",
-      "fetched_at": "2026-06-24T18:30:55.509108+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "7d2ccf3fe781efc85b0251c627d822b929c8c746d3406cf69af341b292969906",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "현대차 노조도 \"순이익 N% 성과급 달라\" 파업 초읽기",
-      "summary": "현대자동차 노동조합이 24일 전체 조합원을 대상으로 파업 찬반 투표를 실시하며 본격적인 하투(夏鬪) 전선을 구축하고 나섰다. 전국금속노동조합 현대자동차지부는 이날 울산 공장 등 ..",
-      "url": "https://www.mk.co.kr/news/business/12082243",
       "published_at": "2026-06-24T09:04:53+09:00",
       "entry_updated_at": "2026-06-24T09:04:53+09:00",
       "fetched_at": "2026-06-24T18:30:55.509108+09:00",
