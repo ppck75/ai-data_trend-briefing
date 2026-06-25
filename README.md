@@ -1,120 +1,115 @@
-# AI·데이터 기반 콘텐츠 전략가를 위한 RSS 트렌드 브리핑 아카이브
+# RSS 트렌드 브리핑 아카이브 📡
 
-마케팅, 플랫폼, AI, 데이터 트렌드를 RSS로 자동 수집하고 GitHub Pages에서 확인하는 서버리스 브리핑 아카이브입니다. 별도 서버 없이 GitHub Actions가 정기 실행되고, 결과는 `docs/data.json`과 `docs/archive/YYYY-MM-DD.md`에 저장됩니다.
+AI·데이터 기반 콘텐츠 전략가를 위한 서버리스 트렌드 모니터링 프로젝트입니다.  
+뉴스, 플랫폼 기술블로그, AI·데이터 RSS를 자동 수집하고, 중요한 항목만 선별해 GitHub Pages 대시보드와 날짜별 브리핑 아카이브로 제공합니다.
 
-## 주요 기능
+이 프로젝트의 핵심은 단순 RSS 목록 저장이 아니라, 매일 반복해서 쌓이는 정보 중 콘텐츠 전략 관점에서 확인할 가치가 높은 신호를 추려내는 것입니다.
 
-- `config.json` 기반 RSS 피드 관리
-- `news`, `tech_blog`, `ai_data` group별 수집 분리
-- `feedparser` 기반 RSS/Atom 파싱
-- 새 글 감지, 중복 제거, 최신 200개 유지
-- GitHub Pages용 정적 대시보드 제공
-- 일자별 Markdown 아카이브 생성
-- 피드 하나가 실패해도 전체 실행은 계속되는 예외 처리
-- v1.5 AI 중요도 평가와 이메일 브리핑을 위한 파일 구조 준비
+## 핵심 기능 ✨
 
-## 기술 스택
+- 19개 RSS/Atom 피드를 자동 수집해 마케팅, 플랫폼, AI, 데이터 흐름을 한 화면에서 확인할 수 있습니다.
+- `news`, `tech_blog`, `ai_data` 그룹으로 정보를 분리해 뉴스성 이슈, 서비스 기술 사례, AI·데이터 트렌드를 서로 다른 관점에서 비교할 수 있습니다.
+- LLM(Gemini) 기반 평가로 각 그룹별 Top 5를 선별해 많은 RSS 항목 중 콘텐츠 전략가가 먼저 확인해야 할 후보를 좁혀줍니다.
+- 그룹별 Top 5 총 15개를 다시 비교해 오늘의 통합 Top 5를 만들고, 시장 변화·서비스 기획·AI 활용 관점에서 중요한 신호를 요약합니다.
+- 하루 3회 브리핑을 Markdown과 JSON으로 저장해 특정 시점의 트렌드 판단 근거를 날짜와 시간별로 다시 확인할 수 있습니다.
+- GitHub Pages 대시보드에서 오늘의 핵심 브리핑, 카테고리별 Top 5, 지난 브리핑, 최신 RSS 원자료를 함께 탐색할 수 있습니다.
+- GitHub Actions만으로 수집, 평가, 저장, 배포가 반복되는 서버리스 구조로 설계하여 자동 운영됩니다.
+- 향후 주간 브리핑, 키워드 변화 추적, 콘텐츠 기획 리포트 자동화로 확장할 수 있는 데이터 파이프라인 기반을 제공합니다.
+
+## 작동 방식 🔁
+
+```text
+RSS 피드 수집
+  ↓
+docs/data.json 최신 200개 유지
+  ↓
+그룹별 Top 5 선별
+  ↓
+총 15개 후보 통합 평가
+  ↓
+오늘의 통합 Top 5 생성
+  ↓
+docs/briefing.json + docs/archive 저장
+  ↓
+GitHub Pages 대시보드 표시
+```
+
+## 대시보드 구성 🖥️
+
+- 오늘의 통합 Top 5
+- 뉴스성 RSS Top 5
+- 플랫폼·서비스 기술블로그 Top 5
+- AI·데이터 트렌드 Top 5
+- 지난 브리핑 보기
+- 최신 200개 RSS 원자료 필터 보기
+
+`docs/data.json`은 최신 RSS 원자료를 보여주기 위한 캐시입니다.  
+장기 보관 대상은 전체 RSS 원자료가 아니라 하루 3회 생성되는 Top 5 브리핑입니다.
+
+## 기술 스택 🛠️
 
 - Python 3.11
 - feedparser
+- google-genai
+- python-dotenv
 - GitHub Actions
 - GitHub Pages
 - HTML, CSS, JavaScript
 - JSON, Markdown
 
-## 파일 구조
 
-```text
-ai-data-trend-briefing-archive/
-├── .github/workflows/
-│   ├── news-rss-monitor.yml
-│   └── tech-rss-monitor.yml
-├── scripts/
-│   ├── scraper.py
-│   ├── rss_collector.py
-│   ├── scorer.py
-│   ├── archive_writer.py
-│   └── email_sender.py
-├── docs/
-│   ├── index.html
-│   ├── app.js
-│   ├── style.css
-│   ├── data.json
-│   └── archive/
-├── config.json
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
+## 자동화 주기 ⏱️
 
-## 1차 MVP RSS 피드
+- 뉴스 RSS 수집: 30분마다
+- 기술블로그·AI RSS 수집: KST 03:10, 09:10, 15:10, 21:10
+- 핵심 브리핑 생성: KST 08:10, 12:10, 20:10
 
-뉴스성 RSS는 30분마다 수집합니다.
+브리핑 생성 1회당 Gemini 호출은 최대 4회입니다.
 
-- 한국경제
-- 매일경제 기업
-- 머니투데이
-- ZDNet Korea
-- BBC Technology
-- NYT Technology
+- 뉴스 Top 5 선별
+- 기술블로그 Top 5 선별
+- AI·데이터 Top 5 선별
+- 통합 Top 5 선별
 
-기술블로그와 AI·데이터 RSS는 6시간마다 수집합니다.
-
-- 토스 기술블로그
-- 당근 기술블로그
-- 쿠팡 엔지니어링
-- 네이버 D2
-- 카카오 기술블로그
-- 무신사 테크
-- 마켓컬리 기술블로그
-- 우아한형제들 기술블로그
-- 뱅크샐러드 기술블로그
-- arXiv cs.CL
-- Anthropic
-- Hugging Face Blog
-- AWS 한국 블로그
-
-## 로컬 실행
+## 로컬 실행 💻
 
 ```bash
 pip install -r requirements.txt
+
 python scripts/scraper.py --group news
 python scripts/scraper.py --group tech_blog,ai_data
+python scripts/briefing_generator.py
 ```
 
-실행 후 `docs/data.json`과 `docs/archive/YYYY-MM-DD.md`가 생성 또는 갱신됩니다. 새 항목이 없으면 `docs/data.json`은 수정하지 않습니다.
+로컬에서 브리핑만 테스트하고 아카이브를 만들고 싶지 않다면:
 
-정적 페이지는 로컬에서 `docs/index.html`을 열거나 간단한 서버로 확인할 수 있습니다.
+```bash
+python scripts/briefing_generator.py --skip-archive
+```
+
+Gemini 없이 fallback 평가만 확인하려면:
+
+```bash
+python scripts/briefing_generator.py --skip-archive --fallback-only
+```
+
+정적 페이지는 다음 명령으로 확인할 수 있습니다.
 
 ```bash
 python -m http.server 8000 -d docs
 ```
 
-## GitHub Pages 설정
+## 운영 원칙 🔐
 
-1. GitHub 저장소의 Settings로 이동합니다.
-2. Pages 메뉴에서 Source를 `Deploy from a branch`로 선택합니다.
-3. Branch는 `main`, folder는 `/docs`로 선택합니다.
-4. 저장 후 제공되는 Pages URL에서 대시보드를 확인합니다.
+- 별도 서버를 사용하지 않습니다.
+- RSS 원자료는 최신 200개만 유지합니다.
+- 의미 있는 장기 기록은 Top 5 브리핑으로 보관합니다.
+- `GEMINI_API_KEY`가 없으면 fallback 평가로 계속 동작합니다.
 
-## GitHub Actions
+## 향후 개선 방향 🧭
 
-- `news-rss-monitor.yml`: 30분마다 `python scripts/scraper.py --group news` 실행
-- `tech-rss-monitor.yml`: 매 6시간 10분에 `python scripts/scraper.py --group tech_blog,ai_data` 실행
-- 두 workflow 모두 `workflow_dispatch`를 지원합니다.
-- 변경사항이 있을 때만 `docs/data.json`과 `docs/archive`를 commit합니다.
-
-## 보안 및 운영 원칙
-
-- API 키 없이 RSS 수집만 수행합니다.
-- `.env`는 Git에 올리지 않습니다.
-- 이메일 환경변수는 `EMAIL_USER`, `EMAIL_PASSWORD`, `EMAIL_TO`가 모두 있을 때만 사용합니다.
-- 이메일 비밀번호나 API 키는 로그에 출력하지 않습니다.
-- Playwright, BeautifulSoup, OpenAI/Gemini 호출은 1차 MVP에 포함하지 않습니다.
-
-## 향후 고도화
-
-- v1.5: Gemini/OpenAI 기반 중요도 평가, 키워드 추출, 기획 인사이트 생성
-- v1.5: 일정 기준 이상 항목만 이메일 브리핑 발송
-- v2: 공식 changelog와 업데이트 페이지의 정적 스크래핑
-- v3: 동적 페이지 모니터링과 고급 대시보드 필터
+- 주간 트렌드 브리핑 생성
+- 반복 키워드의 주간 변화 추적
+- 브리핑 품질 평가 로그 추가
+- 관심 키워드 기반 개인화 필터
+- 공식 changelog와 업데이트 페이지 수집 확장
