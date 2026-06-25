@@ -1,4 +1,31 @@
 {
-  "updated_at": "",
-  "archives": []
+  "updated_at": "2026-06-25T22:24:36.676604+09:00",
+  "archives": [
+    {
+      "id": "2026-06-25_22-24",
+      "date": "2026-06-25",
+      "time": "22:24",
+      "label": "2026-06-25 22:24",
+      "generated_at": "2026-06-25T22:24:16.705317+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "model"
+      ],
+      "integrated_titles": [
+        "Amazon Bedrock Managed Knowledge Base 소개: 더 빠르고 정확한 엔터프라이즈 AI 애플리케이션 구현",
+        "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+        "es-toolkit: How a Small Internal Library Became a Global Project",
+        "Amazon Bedrock AgentCore 웹 검색 기능 발표: AI 에이전트가 정확한 최신 웹 지식을 활용하도록 지원",
+        "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다"
+      ],
+      "path_json": "archive/2026-06-25/22-24.json",
+      "path_md": "archive/2026-06-25/22-24.md"
+    }
+  ]
 }
