@@ -8,7 +8,7 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 from time import struct_time
 from urllib.request import Request, urlopen
-from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
 
 import feedparser
@@ -16,6 +16,7 @@ import feedparser
 KST = ZoneInfo("Asia/Seoul")
 SUMMARY_LIMIT = 500
 XML_ENTITY_NAMES = {"amp", "lt", "gt", "apos", "quot"}
+PRESERVED_QUERY_PARAMS = {"no", "article_id", "articleId", "aid", "idx", "id"}
 
 
 def now_kst() -> datetime:
@@ -27,7 +28,13 @@ def clean_url(url: str) -> str:
         return ""
     try:
         parsed = urlsplit(url.strip())
-        return urlunsplit((parsed.scheme, parsed.netloc, parsed.path, "", ""))
+        preserved_params = [
+            (key, value)
+            for key, value in parse_qsl(parsed.query, keep_blank_values=False)
+            if key in PRESERVED_QUERY_PARAMS
+        ]
+        query = urlencode(preserved_params)
+        return urlunsplit((parsed.scheme, parsed.netloc, parsed.path, query, ""))
     except Exception:
         return url.strip().split("#", 1)[0].split("?", 1)[0]
 
