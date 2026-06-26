@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-25T22:24:36.676604+09:00",
+  "updated_at": "2026-06-26T09:21:29.433067+09:00",
   "archives": [
+    {
+      "id": "2026-06-26_08-10",
+      "date": "2026-06-26",
+      "time": "08:10",
+      "label": "2026-06-26 08:10",
+      "generated_at": "2026-06-26T09:21:07.456627+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "model"
+      ],
+      "integrated_titles": [
+        "Amazon Bedrock Managed Knowledge Base 소개: 더 빠르고 정확한 엔터프라이즈 AI 애플리케이션 구현",
+        "[단독] \"제조현장 AI전환 더 빠르게\"…현대차그룹 팩토리OS 속도",
+        "Your Home Could Help Solve AI’s Growing Power Demand",
+        "넥써쓰, AI 결제 플랫폼 '이온'과 맞손…글로벌 실생활 결제 인프라 구축",
+        "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크"
+      ],
+      "path_json": "archive/2026-06-26/08-10.json",
+      "path_md": "archive/2026-06-26/08-10.md"
+    },
     {
       "id": "2026-06-25_22-24",
       "date": "2026-06-25",
