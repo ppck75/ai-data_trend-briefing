@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-06-27T20:53:01.437592+09:00",
+  "updated_at": "2026-06-27T22:27:09.005363+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "e518bc478b92f49d8dcde2f2112687366f1033a4b007b08168a84bd718c28fc8",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "icon": "💻",
+      "title": "장충체육관서 막 올린 'PNC 2026'…e스포츠 '몰입형 축제'로 진화",
+      "summary": "[지디넷코리아]크래프톤이 주최하는 '펍지 네이션스 컵(PNC) 2026'이 지난 26일 서울 장충체육관에서 그랜드 파이널의 막을 올렸다. 2019년 첫 대회 이후 7년 만에 장충체육관으로 돌아왔다.PNC는 세계 24개국 120명의 선수가 각 국가의 명예를 걸고 맞붙는 글로벌 이스포츠 대회다. 올해는 이달 26일부터 28일까지 총 3일간 최종 우승 국가를 가리는 그랜드 파이널이 진행된다.이번 대회는 단순히 e스포츠 경기에 머물지 않고 '몰입형 페스티벌'로의 전환을 내세웠다. 경기장부터 무대와 팬존을 하나의 공간에 통합했고, 팬들이 관람을 넘어 경험할 수 있는 구조를 구현했다.팬 동선도 세심하게 설계됐다. 지하철 동대입구역 5번 출구를 나서는 순간부터 펍지(PUBG) 세계관이 펼쳐진다. 보급 트럭, 수송기 포토존, 블루존 LED 커튼 순으로 지나면 경기장에 입장하게 되는 방식이다.무대 프로그램도 풍성하다. 1일 차에는 혼성 아티스트 그룹 '올데이 프로젝트'가 하프타임 무대에 오르며,…",
+      "url": "https://zdnet.co.kr/view/?no=20260627121815",
+      "published_at": "2026-06-27T20:55:59+09:00",
+      "entry_updated_at": "2026-06-27T20:55:59+09:00",
+      "fetched_at": "2026-06-27T22:27:08.359909+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "c86c5fd2b8b173c8fd193db253c408eb3ec7bf1c8a26504ec4cf99f7a490fc20",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-06-25T17:21:19.310477+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "e331cf62450bbbd6093651e064ffc8b40288e6d189c190323bb51bf1ac561d25",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno",
-      "published_at": "2026-06-25T16:47:54+09:00",
-      "entry_updated_at": "2026-06-25T16:47:54+09:00",
-      "fetched_at": "2026-06-25T20:14:23.208341+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
