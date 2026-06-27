@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-26T22:18:53.392126+09:00",
+  "updated_at": "2026-06-27T09:19:03.793749+09:00",
   "archives": [
+    {
+      "id": "2026-06-27_08-10",
+      "date": "2026-06-27",
+      "time": "08:10",
+      "label": "2026-06-27 08:10",
+      "generated_at": "2026-06-27T09:18:43.061964+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글, 제미나이 통합 API '인터랙션스' 정식 출시…모델·에이전트를 하나로",
+        "LG CNS, 에이전틱 AI 적용한 ERP 테스트 솔루션 공개…글로벌 시장 공략 본격화",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략"
+      ],
+      "path_json": "archive/2026-06-27/08-10.json",
+      "path_md": "archive/2026-06-27/08-10.md"
+    },
     {
       "id": "2026-06-26_22-18",
       "date": "2026-06-26",
