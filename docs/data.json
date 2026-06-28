@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:10:15.011808+09:00",
+  "updated_at": "2026-06-28T23:21:57.806720+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1911,6 +1911,24 @@
       "planning_insight": ""
     },
     {
+      "id": "285e7556e7e2225d8e8eb4370e8d6da31b3dd94b78107a14a712ec67cb2a54f0",
+      "source": "BBC Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🌍",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o",
+      "published_at": "2026-06-26T19:12:42+09:00",
+      "entry_updated_at": "2026-06-26T19:12:42+09:00",
+      "fetched_at": "2026-06-28T23:21:57.737804+09:00",
+      "language": "en",
+      "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "986d08940132f0f09077c34b383078f4c91d314a47a182a977d363e4c2c80eeb",
       "source": "매일경제 기업",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/business/12083777",
       "published_at": "2026-06-26T10:23:30+09:00",
       "entry_updated_at": "2026-06-26T10:23:30+09:00",
-      "fetched_at": "2026-06-26T12:26:35.909112+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "616fec40bf8006507c17347ca4be451d630a3d4748ee78739628994b6c06a44a",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "“질서 있는 석탄화력 폐지”…서부발전, 발전 5사 공동 워크숍 개최",
-      "summary": "에너지전환 추진 현황 공유 공동 협력과제 발굴 “정보교류 더욱 확대”한국서부발전이 석탄화력발전 폐지에 따른 에너지전환 과제 대응을 위해 발전 5사가 힘을 합친다. 서부발전은 26일..",
-      "url": "https://www.mk.co.kr/news/business/12083772",
-      "published_at": "2026-06-26T10:20:05+09:00",
-      "entry_updated_at": "2026-06-26T10:20:05+09:00",
       "fetched_at": "2026-06-26T12:26:35.909112+09:00",
       "language": "ko",
       "importance_weight": 0.85,
