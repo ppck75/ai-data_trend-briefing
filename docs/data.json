@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T04:53:19.028718+09:00",
+  "updated_at": "2026-06-30T05:11:38.766507+09:00",
   "total_items": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       "fetched_at": "2026-06-30T04:53:19.024330+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "d7a843d4168a3d3dfc7b22bb7b47074138398809f0aa71f2a4f094b86230cb3c",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "published_at": "2026-06-30T03:02:48+09:00",
+      "entry_updated_at": "2026-06-30T03:02:48+09:00",
+      "fetched_at": "2026-06-30T05:11:38.632716+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260627101045",
       "published_at": "2026-06-27T10:10:45+09:00",
       "entry_updated_at": "2026-06-27T10:10:45+09:00",
-      "fetched_at": "2026-06-27T13:34:13.093371+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "4e94123754c90494610ae8f23df1b7ccedef27f5d2d2c74d97597eced31fe80c",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "제4회 CISCE 공급망 서비스 구역: 물류, 금융 및 글로벌 연결성이 중심 무대에 오르다",
-      "summary": "[지디넷코리아] 베이징 2026년 6월 27일 /PRNewswire/ -- 제4회 중국국제공급망엑스포(China International Supply Chain Expo, CISCE)가 공급망의 모든 단계를 지원하는 고부가가치 전문 비즈니스 서비스에 초점을 맞춘 전용 공급망 서비스 구역을 개설했다. 이 구역은 블루 채널(Blue Channel), 통합 물류(Integrated Logistics), 종합 서비스(Comprehensive Services), 산업 금융(Industrial Finance)이라는 네 가지 핵심 축을 중심으로 구성됐다. Supply Chain Service: Making Cooperation More Strengthened 블루 채널 부문에는 중국초상그룹(China Merchants Group), 산둥항만그룹(Shandong Port Group), 글로벌 운송 기업인 머스크(Maersk), 지중해해운회사(Mediterranean Shipping Company…",
-      "url": "https://zdnet.co.kr/view/?no=20260627101034",
-      "published_at": "2026-06-27T10:10:34+09:00",
-      "entry_updated_at": "2026-06-27T10:10:34+09:00",
       "fetched_at": "2026-06-27T13:34:13.093371+09:00",
       "language": "ko",
       "importance_weight": 0.85,
