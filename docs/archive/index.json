@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-28T21:20:10.905452+09:00",
+  "updated_at": "2026-06-29T09:18:13.917844+09:00",
   "archives": [
+    {
+      "id": "2026-06-29_08-10",
+      "date": "2026-06-29",
+      "time": "08:10",
+      "label": "2026-06-29 08:10",
+      "generated_at": "2026-06-29T09:17:59.136274+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결",
+        "From Lexicon to AI: A Structured-Data Pipeline for Specialized Conversational Systems in Low-Resource Languages"
+      ],
+      "path_json": "archive/2026-06-29/08-10.json",
+      "path_md": "archive/2026-06-29/08-10.md"
+    },
     {
       "id": "2026-06-28_20-10",
       "date": "2026-06-28",
