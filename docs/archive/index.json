@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-29T09:18:13.917844+09:00",
+  "updated_at": "2026-06-29T17:23:40.546650+09:00",
   "archives": [
+    {
+      "id": "2026-06-29_17-23",
+      "date": "2026-06-29",
+      "time": "17:23",
+      "label": "2026-06-29 17:23",
+      "generated_at": "2026-06-29T17:23:22.556590+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "전국민 AI 경진대회, 개막 3개월 만에 참가자 100만명 돌파"
+      ],
+      "path_json": "archive/2026-06-29/17-23.json",
+      "path_md": "archive/2026-06-29/17-23.md"
+    },
     {
       "id": "2026-06-29_08-10",
       "date": "2026-06-29",
