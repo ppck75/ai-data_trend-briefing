@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-29T17:23:40.546650+09:00",
+  "updated_at": "2026-06-29T23:52:31.100154+09:00",
   "archives": [
+    {
+      "id": "2026-06-29_23-52",
+      "date": "2026-06-29",
+      "time": "23:52",
+      "label": "2026-06-29 23:52",
+      "generated_at": "2026-06-29T23:52:12.290619+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글이 '인터랙션스 AI'로 키운 개발 생태계…\"요금·보안은 과제\"",
+        "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "지니언스, 버그바운티 포상금 상반기 1046% 증가"
+      ],
+      "path_json": "archive/2026-06-29/23-52.json",
+      "path_md": "archive/2026-06-29/23-52.md"
+    },
     {
       "id": "2026-06-29_17-23",
       "date": "2026-06-29",
