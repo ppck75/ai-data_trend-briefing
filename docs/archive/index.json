@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-06-30T09:16:47.136721+09:00",
+  "updated_at": "2026-06-30T16:01:51.052117+09:00",
   "archives": [
+    {
+      "id": "2026-06-30_16-01",
+      "date": "2026-06-30",
+      "time": "16:01",
+      "label": "2026-06-30 16:01",
+      "generated_at": "2026-06-30T16:01:31.535912+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "UI",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그"
+      ],
+      "path_json": "archive/2026-06-30/16-01.json",
+      "path_md": "archive/2026-06-30/16-01.md"
+    },
     {
       "id": "2026-06-30_08-10",
       "date": "2026-06-30",
