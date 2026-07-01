@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-01T09:18:28.456856+09:00",
+  "updated_at": "2026-07-01T16:18:55.748335+09:00",
   "archives": [
+    {
+      "id": "2026-07-01_16-18",
+      "date": "2026-07-01",
+      "time": "16:18",
+      "label": "2026-07-01 16:18",
+      "generated_at": "2026-07-01T16:18:39.465093+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "“보고서는 AI가 쓰고 직원은 판단 위주로”…롯데 신동빈, 그룹 DNA 바꾼다",
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "NC AI, '바르코 3D 2.0' 공개…\"3D 생성·제작 공정 지원\""
+      ],
+      "path_json": "archive/2026-07-01/16-18.json",
+      "path_md": "archive/2026-07-01/16-18.md"
+    },
     {
       "id": "2026-07-01_08-10",
       "date": "2026-07-01",
