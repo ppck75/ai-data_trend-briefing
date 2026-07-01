@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T03:24:22.900957+09:00",
+  "updated_at": "2026-07-02T05:07:59.313078+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2361,6 +2361,24 @@
       "planning_insight": ""
     },
     {
+      "id": "d49de0312046bb73c02229e321e91db68359bb2fab26c69b2efe335cca0fadbb",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published_at": "2026-07-01T09:00:00+09:00",
+      "entry_updated_at": "2026-07-01T09:00:00+09:00",
+      "fetched_at": "2026-07-02T05:07:58.986583+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "6f588b3f66c44fcd797f88a6bf28651a0c216f98ef397b93ad57814c325c58ef",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260630154649",
       "published_at": "2026-06-30T15:46:49+09:00",
       "entry_updated_at": "2026-06-30T15:46:49+09:00",
-      "fetched_at": "2026-06-30T17:28:39.886691+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "04e93a069e63ee99c10a2a0000de2ff36368f706aa9deef9335bb264272172d6",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "크림, 바이에른 뮌헨 방한 경기 선예매 단독 진행",
-      "summary": "[지디넷코리아]크림이 독일 프로축구 명문 FC 바이에른 뮌헨의 방한 경기 선예매를 단독으로 진행한다. 한정판 거래 플랫폼을 넘어 대형 스포츠 이벤트 예매를 잇달아 확보하며 문화·엔터테인먼트 플랫폼으로 사업 영역을 넓히는 모습이다.크림은 오는 8월 4일 제주월드컵경기장에서 열리는 제주SK FC와 FC 바이에른 뮌헨의 국제 친선경기 '아우디 풋볼 써밋 2026' 티켓 선예매를 단독으로 진행한다고 30일 밝혔다.이번 선예매는 제주도민과 제주SK FC 팬을 대상으로 이날 오후 6시부터 시작된다. 선예매 물량은 총 5454석이다.예매 대상은 프리미엄 B석과 C석, 1등석 B석, 2등석 A·B석 등 총 5개 권종이다. 참여를 원하는 고객은 제주SK FC 공식 홈페이지에서 거주자 인증과 응원 등록을 마친 뒤 발급받은 인증코드를 크림 선예매 페이지에 등록하면 된다.프리미엄 B석과 C석 구매 고객에게는 추첨을 통해 특별 프로그램 참여 기회도 제공한다. 당첨자는 경기 전 양 팀 오픈 트레이닝과 선수…",
-      "url": "https://zdnet.co.kr/view/?no=20260630154114",
-      "published_at": "2026-06-30T15:41:14+09:00",
-      "entry_updated_at": "2026-06-30T15:41:14+09:00",
       "fetched_at": "2026-06-30T17:28:39.886691+09:00",
       "language": "ko",
       "importance_weight": 0.85,
