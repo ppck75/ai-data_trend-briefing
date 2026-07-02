@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-02T09:18:29.384451+09:00",
+  "updated_at": "2026-07-02T15:49:17.203517+09:00",
   "archives": [
+    {
+      "id": "2026-07-02_15-49",
+      "date": "2026-07-02",
+      "time": "15:49",
+      "label": "2026-07-02 15:49",
+      "generated_at": "2026-07-02T15:49:00.489513+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+        "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+        "\"운동화 추천해줘\" 하면 AI가 대신 쇼핑"
+      ],
+      "path_json": "archive/2026-07-02/15-49.json",
+      "path_md": "archive/2026-07-02/15-49.md"
+    },
     {
       "id": "2026-07-02_08-10",
       "date": "2026-07-02",
