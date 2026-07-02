@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-01T22:39:34.952349+09:00",
+  "updated_at": "2026-07-02T09:18:29.384451+09:00",
   "archives": [
+    {
+      "id": "2026-07-02_08-10",
+      "date": "2026-07-02",
+      "time": "08:10",
+      "label": "2026-07-02 08:10",
+      "generated_at": "2026-07-02T09:18:12.456617+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "검색 결과 자동 정리…다음, 'AI 요약' 베타 출시",
+        "구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방",
+        "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축"
+      ],
+      "path_json": "archive/2026-07-02/08-10.json",
+      "path_md": "archive/2026-07-02/08-10.md"
+    },
     {
       "id": "2026-07-01_22-39",
       "date": "2026-07-01",
