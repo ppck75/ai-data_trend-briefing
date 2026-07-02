@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-02T15:49:17.203517+09:00",
+  "updated_at": "2026-07-02T22:04:03.497603+09:00",
   "archives": [
+    {
+      "id": "2026-07-02_22-03",
+      "date": "2026-07-02",
+      "time": "22:03",
+      "label": "2026-07-02 22:03",
+      "generated_at": "2026-07-02T22:03:44.160214+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "[AI리더스] 데이터독 \"배보다 배꼽 큰 AI 지출, '자율 운영'으로 해소\"",
+        "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\""
+      ],
+      "path_json": "archive/2026-07-02/22-03.json",
+      "path_md": "archive/2026-07-02/22-03.md"
+    },
     {
       "id": "2026-07-02_15-49",
       "date": "2026-07-02",
