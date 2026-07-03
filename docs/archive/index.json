@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-03T09:17:15.710145+09:00",
+  "updated_at": "2026-07-03T15:39:24.316540+09:00",
   "archives": [
+    {
+      "id": "2026-07-03_15-39",
+      "date": "2026-07-03",
+      "time": "15:39",
+      "label": "2026-07-03 15:39",
+      "generated_at": "2026-07-03T15:39:07.157069+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사"
+      ],
+      "path_json": "archive/2026-07-03/15-39.json",
+      "path_md": "archive/2026-07-03/15-39.md"
+    },
     {
       "id": "2026-07-03_08-10",
       "date": "2026-07-03",
