@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-03T22:04:27.747810+09:00",
+  "updated_at": "2026-07-04T09:15:52.136289+09:00",
   "archives": [
+    {
+      "id": "2026-07-04_08-10",
+      "date": "2026-07-04",
+      "time": "08:10",
+      "label": "2026-07-04 08:10",
+      "generated_at": "2026-07-04T09:15:36.072802+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "콘텐츠",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "Office Comprehension Benchmark",
+        "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+        "\"필요한 곳만 고쳐요\"...오늘의집 부분 시공 계약, 1년새 3배↑",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules"
+      ],
+      "path_json": "archive/2026-07-04/08-10.json",
+      "path_md": "archive/2026-07-04/08-10.md"
+    },
     {
       "id": "2026-07-03_22-04",
       "date": "2026-07-03",
