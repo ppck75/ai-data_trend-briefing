@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-05T09:10:59.406985+09:00",
+  "updated_at": "2026-07-05T15:48:47.453133+09:00",
   "archives": [
+    {
+      "id": "2026-07-05_15-48",
+      "date": "2026-07-05",
+      "time": "15:48",
+      "label": "2026-07-05 15:48",
+      "generated_at": "2026-07-05T15:48:31.425341+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "다음도 ‘AI 요약’ 참전…네이버·구글과 AI 검색 맞대결",
+        "\"전문 직원 없이도 되네\"…1인 커머스, AI로 확장",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "\"반도체 산업, 칩 경쟁에서 AI 인프라 경쟁으로\"",
+        "Office Comprehension Benchmark"
+      ],
+      "path_json": "archive/2026-07-05/15-48.json",
+      "path_md": "archive/2026-07-05/15-48.md"
+    },
     {
       "id": "2026-07-05_08-10",
       "date": "2026-07-05",
