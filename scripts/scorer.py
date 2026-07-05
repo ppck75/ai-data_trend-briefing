@@ -3,6 +3,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import signal
+from contextlib import contextmanager
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -10,6 +12,7 @@ from dotenv import load_dotenv
 
 KST = ZoneInfo("Asia/Seoul")
 GEMINI_MODEL = "gemini-3.1-flash-lite"
+GEMINI_TIMEOUT_SECONDS = int(os.getenv("GEMINI_TIMEOUT_SECONDS", "45"))
 GROUP_ORDER = ("news", "tech_blog", "ai_data")
 
 GROUP_KEYWORDS = {
@@ -398,11 +401,35 @@ def parse_json_response(text: str) -> dict | None:
         return None
 
 
+class GeminiTimeoutError(TimeoutError):
+    pass
+
+
+@contextmanager
+def gemini_timeout(seconds: int):
+    if seconds <= 0 or not hasattr(signal, "SIGALRM"):
+        yield
+        return
+
+    def _handle_timeout(signum, frame):
+        raise GeminiTimeoutError(f"Gemini 호출 제한시간 {seconds}초 초과")
+
+    previous_handler = signal.getsignal(signal.SIGALRM)
+    signal.signal(signal.SIGALRM, _handle_timeout)
+    signal.alarm(seconds)
+    try:
+        yield
+    finally:
+        signal.alarm(0)
+        signal.signal(signal.SIGALRM, previous_handler)
+
+
 def call_gemini_json(client, prompt: str) -> dict | None:
     if client is None:
         return None
     try:
-        response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+        with gemini_timeout(GEMINI_TIMEOUT_SECONDS):
+            response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
         return parse_json_response(getattr(response, "text", "") or "")
     except Exception as exc:
         print(f"Gemini 평가 호출 실패. fallback 평가를 사용합니다: {exc}")

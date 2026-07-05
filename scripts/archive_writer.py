@@ -14,7 +14,7 @@ GROUP_LABELS = {
     "ai_data": "AI·데이터 트렌드",
 }
 
-SCHEDULED_BRIEFING_TIMES = ((8, 10), (12, 10), (20, 10))
+SCHEDULED_BRIEFING_TIMES = ((7, 35), (12, 35), (17, 35))
 
 
 def _date_prefix(value: str) -> str:

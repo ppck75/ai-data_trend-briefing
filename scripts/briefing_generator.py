@@ -13,6 +13,7 @@ from scorer import (
     GROUP_ORDER,
     build_category_entry,
     call_gemini_json,
+    fallback_category_score,
     fallback_category_top5,
     fallback_integrated_top5,
     integrated_scores,
@@ -24,6 +25,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = ROOT_DIR / "docs" / "data.json"
 DEFAULT_OUTPUT = ROOT_DIR / "docs" / "briefing.json"
 DEFAULT_ARCHIVE_DIR = ROOT_DIR / "docs" / "archive"
+GEMINI_GROUP_CANDIDATE_LIMIT = 60
 
 
 def parse_args() -> argparse.Namespace:
@@ -70,7 +72,7 @@ def compact_item(item: dict) -> dict:
         "group": item.get("group", ""),
         "category": item.get("category", ""),
         "title": item.get("title", ""),
-        "summary": summary[:500],
+        "summary": summary[:350],
         "published_at": item.get("published_at", ""),
         "importance_weight": item.get("importance_weight", 0.7),
     }
@@ -78,6 +80,18 @@ def compact_item(item: dict) -> dict:
 
 def count_by_group(items: list[dict]) -> dict[str, int]:
     return {group: sum(1 for item in items if item.get("group") == group) for group in GROUP_ORDER}
+
+
+def select_gemini_group_candidates(items: list[dict], group: str, limit: int = GEMINI_GROUP_CANDIDATE_LIMIT) -> list[dict]:
+    group_items = [item for item in items if item.get("group") == group]
+    return sorted(
+        group_items,
+        key=lambda item: (
+            fallback_category_score(item, group),
+            item.get("published_at") or item.get("fetched_at") or "",
+        ),
+        reverse=True,
+    )[:limit]
 
 
 GROUP_PROMPT_CONFIG = {
@@ -420,10 +434,11 @@ def generate_briefing(items: list[dict], use_gemini: bool = True) -> dict:
     if client is not None:
         print(f"Gemini 카테고리별 평가를 시도합니다. model={GEMINI_MODEL}")
         for group in GROUP_ORDER:
-            group_items = [item for item in items if item.get("group") == group]
-            if not group_items:
+            group_items_all = [item for item in items if item.get("group") == group]
+            if not group_items_all:
                 continue
-            print(f"  - {group} Top 5 평가 호출 ({len(group_items)}건)")
+            group_items = select_gemini_group_candidates(group_items_all, group)
+            print(f"  - {group} Top 5 평가 호출 ({len(group_items)} / {len(group_items_all)}건)")
             gemini_call_count += 1
             category_raw = call_gemini_json(client, build_category_prompt(group, group_items))
             group_result = enrich_category_group_result(category_raw, group, group_items)

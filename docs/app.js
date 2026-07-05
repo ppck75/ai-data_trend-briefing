@@ -239,7 +239,7 @@ function renderArchiveControls() {
       elements.archiveTimeSelect.disabled = true;
       elements.archiveTimeSelect.appendChild(new Option("저장된 시간 없음", ""));
     }
-    setText(elements.archiveStatus, "저장된 지난 브리핑이 아직 없습니다. 예약 실행 후 08:10, 12:10, 20:10 브리핑이 여기에 누적됩니다.");
+    setText(elements.archiveStatus, "저장된 지난 브리핑이 아직 없습니다. 예약 실행 후 07:35, 12:35, 17:35 브리핑이 여기에 누적됩니다.");
     clearElement(elements.archiveViewer);
     return;
   }

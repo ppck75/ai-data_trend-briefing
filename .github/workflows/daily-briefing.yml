@@ -2,9 +2,11 @@ name: Daily RSS Trend Briefing
 
 on:
   schedule:
-    - cron: "10 23 * * *"
-    - cron: "10 3 * * *"
-    - cron: "10 11 * * *"
+    # KST 07:35, 12:35, 17:35
+    # 알림/조회 시간대 전에 GitHub Pages 반영까지 끝나도록 미리 생성합니다.
+    - cron: "35 22 * * *"
+    - cron: "35 3 * * *"
+    - cron: "35 8 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,8 +19,10 @@ concurrency:
 jobs:
   generate-briefing:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_TIMEOUT_SECONDS: "45"
 
     steps:
       - name: Checkout repository
@@ -28,12 +32,21 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Print run timing
+        run: |
+          echo "UTC now: $(date -u '+%Y-%m-%d %H:%M:%S %Z')"
+          echo "KST now: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M:%S %Z')"
+          echo "Triggered schedule: ${{ github.event.schedule }}"
 
       - name: Generate daily briefing
         run: python scripts/briefing_generator.py
+        timeout-minutes: 12
 
       - name: Commit updated briefing
         run: |
