@@ -1,0 +1,472 @@
+{
+  "briefing_date": "2026-07-02",
+  "generated_at": "2026-07-02T09:18:12.456617+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 186,
+    "tech_blog": 1,
+    "ai_data": 13
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "3adcd68af40fc1747223cca0e7283a39d0141b4fefbef5869654497a270d528f",
+        "title": "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260630171621",
+        "published_at": "2026-06-30T17:23:15+09:00",
+        "summary": "[지디넷코리아]SK하이닉스가 글로벌 인공지능(AI) 메모리 수요에 대응하기 위해 서남권 지역에 400조원을 투자한다.곽노정 SK하이닉스 대표이사 사장은 30일 광주 김대중컨벤션센터에서 열린 '서남권 첨단산업 발전비전 국민보고회'에 참석해 서남권 반도체·AI 투자 계획을 발표했다.곽 사장은 AI 산업이 학습 단계를 넘어 실제 서비스가 본격 확산되는 시대로 진입함에 따라 메모리 수요가 기하급수적으로 증가하고 있다고 진단했다. 그는 \"AI 시대의 메모리는 단순한 부품을 넘어 AI 성능 자체를 결정하는 핵심 인프라로 부상했다\"며 \"현재 추진 중인 용인 클러스터만으로는 글로벌 수요를 완전히 충족하기 어려울 전망\"이라고 말했다.그러면서 \"대규모 부지와 안정적인 전력·용수 공급이 가능할 것으로 보이는 서남권에 400조원을 투자해 생산 기반을 구축하기로 했다\"고 덧붙였다.AI 인프라 확장을 위한 데이터센터 구축 계획도 함께 공개됐다. SK그룹은 전국에 총 15기가와트(GW) 수준의 AI 데이터센…",
+        "category_score": 98,
+        "score_reason": "SK하이닉스의 400조원 규모 서남권 투자 계획은 국내 산업 지도를 바꿀 대규모 인프라 투자이자, AI 메모리 수요 폭증에 따른 시장 변화를 직접적으로 반영한 신호탄임.",
+        "keywords": [
+          "SK하이닉스",
+          "AI",
+          "반도체",
+          "투자"
+        ],
+        "planning_insight": "AI 인프라 확장과 연계된 대규모 지역 거점 투자 소식은 콘텐츠 마케팅 시 '국가 단위 AI 생태계 구축' 및 '산업 파급력'을 다루는 심층 기획의 핵심 소재가 됨."
+      },
+      {
+        "rank": 2,
+        "id": "4ac86baa765678c1835d8b9744f7795442487c330ce4155332196454741176fa",
+        "title": "구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702073802",
+        "published_at": "2026-07-02T07:38:02+09:00",
+        "summary": "[지디넷코리아]구글이 6월 30일(현지시간) 자사 이미지 생성 모델 '나노 바나나(Nano Banana)' 기반의 개인화 이미지 생성 기능을 미국 내 자격 요건을 충족한 제미나이 앱 사용자에게 무료로 개방했다. 그동안 유료 등급에서만 쓸 수 있던 기능을 일반 사용자로 확대한 것이다.개인화 이미지 생성은 사용자의 사진이나 취향을 반영해 맞춤형 이미지를 만들어 주는 고급 창작 도구다. 구글은 이번 무료 개방으로 제미나이 앱의 사용자 참여도를 끌어올리는 동시에, 더 많은 사용 데이터를 확보해 모델 성능을 개선하려는 의도를 엿보였다. 프리미엄 기능을 폭넓게 풀어 채택률을 높이는 빅테크의 전형적인 전략이다.이번 조치를 통해 생성형 AI 창작 도구의 대중화가 한 단계 앞당겨지게 됐다. 오픈AI의 이미지 생성, 어도비 파이어플라이 등과의 경쟁이 격화되는 상황에서 접근성 경쟁에서 우위를 노리는 것이 구글의 전략이다.다만 이같은 이미지 생성을 무료로 대량 제공할 경우 막대한 컴퓨팅 비용 부담이 따…",
+        "category_score": 95,
+        "score_reason": "생성형 AI 모델의 기능 무료 개방은 'AI 대중화'를 가속하는 전략적 신호이며, 빅테크 기업들의 점유율 경쟁과 사용자 데이터 확보 전략이 반영됨.",
+        "keywords": [
+          "구글",
+          "제미나이",
+          "AI",
+          "플랫폼"
+        ],
+        "planning_insight": "빅테크의 프리미엄 기능 무료 전환 전략을 분석하여 일반 사용자들이 생성형 AI를 실질적으로 어떻게 일상에 적용하는지 실생활 케이스 스터디 콘텐츠로 확장 가능."
+      },
+      {
+        "rank": 3,
+        "id": "f2226e407da2e6e9fcfc4557fab6e0f90a457f5fdf8807a1901c28edbcdca287",
+        "title": "검색 결과 자동 정리…다음, 'AI 요약' 베타 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260701180223",
+        "published_at": "2026-07-01T18:03:15+09:00",
+        "summary": "[지디넷코리아]포털 다음은 업스테이지 자체 언어모델(LLM) '솔라'를 바탕으로 검색 결과를 자동 요약해주는 '인공지능(AI) 요약' 베타 서비스를 공개한다고 1일 밝혔다.AI 요약은 LLM이 웹 문서를 직접 분석해 검색 결과에 대한 종합적인 답변을 정리해주는 기능이다. 다음 검색창에 키워드를 입력하면 핵심 요약과 근거를 함께 제공하며, 내용이 바뀌면 AI가 자동 반영해 늘 최신 정보를 확인할 수 있다. 짧은 단어뿐만 아니라 문장형 질문도 의도를 파악해 정리하고 절차가 중요한 검색은 단계별 목록으로, 비교가 필요한 검색은 표로 보여주는 등 검색어 성격에 맞춰 가독성을 높였다.AI 요약 기능에는 업스테이지의 자체 LLM '솔라'가 기반 모델로 탑재됐다. 이는 지난 5월 업스테이지가 AXZ를 인수한 이후 AI의 첫 본격 적용이다.이를 통해 다음 검색은 기존 키워드 검색과 AI 요약이 결합된 하이브리드 검색으로 고도화된다. AI 요약 기능은 ▲이슈(실시간 트렌드) ▲금융 ▲엔터 ▲건강…",
+        "category_score": 92,
+        "score_reason": "포털 다음의 AI 요약 서비스 베타 출시는 검색 경험의 패러다임이 키워드 검색에서 답변형 AI 검색으로 완전히 이동하고 있음을 보여주는 강력한 트렌드 신호임.",
+        "keywords": [
+          "다음",
+          "AI",
+          "검색",
+          "플랫폼"
+        ],
+        "planning_insight": "AI 검색 환경으로의 전환에 맞춰 콘텐츠 제작자는 정보 요약 및 가독성을 높이는 새로운 콘텐츠 포맷(구조화된 답변 형태) 개발이 필수적임."
+      },
+      {
+        "rank": 4,
+        "id": "b49b0bc4b9b7e2aa6d577665472d15943ed2f9866d2749f0f9c3ff4af38837f6",
+        "title": "소니, 2028년부터 PS 신작 디스크 발매 중단...디지털 전환 선언",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702071236",
+        "published_at": "2026-07-02T07:12:36+09:00",
+        "summary": "[지디넷코리아]소니인터랙티브엔터테인먼트(SIE)가 2028년부터 플레이스테이션 신작의 물리 디스크 버전 생산을 중단한다.시드 셔먼 SIE 콘텐츠 커뮤니케이션 수석 디렉터는 플레이스테이션 블로그를 통해 소비자 선호 변화에 대응해 2028년 1월부터 플레이스테이션 콘솔로 출시되는 모든 신작의 디스크 제작을 중단한다고 밝혔다. 이에 따라 해당 시점 이후 출시되는 새 게임은 플레이스테이션 스토어와 소매점에서 디지털 형태로만 판매된다.다만 이번 조치는 이미 출시된 게임이나 2028년 1월 이전 디스크 형태로 발매될 예정인 게임에는 적용되지 않는다.SIE는 이번 결정이 물리 디스크보다 디지털 매체를 선호하는 흐름에 맞춘 자연스러운 방향 전환이라고 설명했다. 회사는 디지털 미디어에 대한 선호가 물리 디스크를 크게 앞서고 있는 만큼, 이번 전환을 통해 현재 대다수 이용자가 게임에 접근하고 즐기는 방식에 더 가깝게 맞출 수 있다고 밝혔다.SIE는 앞으로도 이용자가 게임에 접근하는 방식을 혁신하는…",
+        "category_score": 90,
+        "score_reason": "글로벌 콘텐츠 소비 플랫폼의 물리 매체 중단 결정은 커머스/미디어 소비 습관이 디지털 전용으로 완벽하게 전환되었음을 증명하는 시장 신호임.",
+        "keywords": [
+          "소니",
+          "디지털전환",
+          "플랫폼",
+          "미디어"
+        ],
+        "planning_insight": "디지털 전환의 가속화 사례로 미디어 산업의 비즈니스 모델 변화를 논의하며, 향후 물리 자산 기반 서비스의 소멸과 디지털 소유권의 변화를 다룰 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "4b29f810022dcfb3201389c884313de490c963677c73ecd49bb769dcae2842f5",
+        "title": "유비테크, 세계 최초 풀사이즈 양산형 울트라 바이오닉 휴머노이드 로봇 UWORLD U1 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702001014",
+        "published_at": "2026-07-02T00:10:14+09:00",
+        "summary": "[지디넷코리아]유비테크, 1만 건 이상의 주문 기록 및 정신 건강 프로그램 지원을 위한 휴머노이드 로봇 100대 기부 이니셔티브 출범 선전, 중국 2026년 7월 1일 /PRNewswire/ -- 2026년 6월 30일, 유비테크(UBTECH)가 선전에서 2026 글로벌 출시 행사를 개최하여 인간과 로봇의 공생에 대한 장기적 비전을 소개하고, 세계 최초로 양산을 위해 설계된 풀사이즈 울트라 바이오닉 휴머노이드 로봇인 UWORLD U1 시리즈를 공식 공개했다. 라인업에는 U1 Lite 반신 에디션, 고성능 풀바디 U1 Pro, 고역동 풀바디 U1 Ultra의 세 가지 모델이 포함되며 가격은 11만 9800위안부터 시작한다. 출시 행사 당일 기준으로 UWORLD U1 시리즈의 누적 주문량은 1만 3361대를 넘어섰다. UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Rob…",
+        "category_score": 88,
+        "score_reason": "양산형 휴머노이드 로봇 출시 및 누적 주문량 확보는 단순 로봇 기술 시연을 넘어, 로봇이 실질적인 산업과 일상에 투입되는 '로봇 경제'가 시작되었음을 의미함.",
+        "keywords": [
+          "휴머노이드",
+          "로봇",
+          "AI",
+          "산업화"
+        ],
+        "planning_insight": "산업 자동화와 인간-로봇 공생 관점에서 휴머노이드 로봇의 대중화가 창출할 새로운 직업군 및 소비 행동 변화를 전망하는 트렌드 콘텐츠로 확장 가능."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+        "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3897377",
+        "published_at": "2026-06-30T20:00:48+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+        "category_score": 95,
+        "score_reason": "AI 에이전트를 단순 도구 활용을 넘어 '조직화(Organization)'와 '운영(Operation)'의 관점에서 서비스 기획 및 업무 프로세스 혁신 사례로 풀어냄. 플랫폼 운영 방식과 사용자 경험 개선을 위한 구조적 인사이트가 매우 높음.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우 자동화",
+          "플랫폼 운영",
+          "조직 효율화"
+        ],
+        "planning_insight": "개별 AI 모델의 도입을 넘어, AI 에이전트를 하나의 조직 단위로 정의하고 동기화/채용/해고라는 HR 개념을 적용한 시스템 설계는 향후 복합 서비스 기획의 핵심 모델이 될 것임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+        "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30775",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+        "category_score": 98,
+        "score_reason": "기업용 AI 에이전트의 핵심 난제인 '스킬 충돌' 문제를 자동화 파이프라인으로 해결하는 실무적 방법론을 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우 자동화",
+          "LLM 최적화"
+        ],
+        "planning_insight": "AI 에이전트 기반의 고객 응대나 내부 업무 자동화 기획 시, 프롬프트 엔지니어링을 넘어선 스킬 라우팅 최적화 전략이 필수임을 시사함."
+      },
+      {
+        "rank": 2,
+        "id": "d49de0312046bb73c02229e321e91db68359bb2fab26c69b2efe335cca0fadbb",
+        "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+        "published_at": "2026-07-01T09:00:00+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "오픈소스 모델(Gemma 4)과 하드웨어 가속(Cerebras)을 결합하여 실시간 음성 AI 구현 가능성을 제시함.",
+        "keywords": [
+          "오픈소스 모델",
+          "멀티모달",
+          "실시간 AI"
+        ],
+        "planning_insight": "멀티모달 인터페이스 도입 시 지연 시간(Latency) 문제를 기술적으로 해결할 수 있는 파트너십과 기술 스택 선택의 중요성을 보여줌."
+      },
+      {
+        "rank": 3,
+        "id": "73fdf4deb8fbc6c897fadf3c3267c890872234e2f26b9d02bb2b13f6b5925712",
+        "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "published_at": "2026-07-01T03:32:50+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "특정 도메인(Java 프레임워크 마이그레이션)에서 AI 에이전트의 성능을 검증하는 벤치마크는 실무 적용 가능성을 판단하는 핵심 지표임.",
+        "keywords": [
+          "AI 에이전트",
+          "엔터프라이즈",
+          "자동화 벤치마크"
+        ],
+        "planning_insight": "코드 자동화나 복잡한 엔터프라이즈 업무 자동화 기획 시, 범용 LLM보다는 도메인 특화 벤치마크를 갖춘 에이전트 시스템 도입이 효과적임."
+      },
+      {
+        "rank": 4,
+        "id": "bca0f554fb08b0a1fdbe7dab49efde219af595338ba5275b3e5dea7c77bb29db",
+        "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30801",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30801v1 Announce Type: new Abstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, behavior, and evolving interaction histories. Existing auditing methods face a tradeoff: studies with real users capture realistic behavior but are costly and hard to control, whereas sock-puppet audit…",
+        "category_score": 89,
+        "score_reason": "AI 에이전트를 활용해 플랫폼 내 개인화 알고리즘을 블랙박스 방식으로 감사하는 기법은 데이터 분석 자동화 영역의 중요한 확장임.",
+        "keywords": [
+          "개인화 알고리즘",
+          "AI 에이전트",
+          "데이터 분석"
+        ],
+        "planning_insight": "플랫폼 콘텐츠 추천 로직의 편향성을 점검하거나 성능을 고도화할 때, 사람이 일일이 테스트하는 대신 AI 에이전트를 통한 자동 감사 시스템 구축이 필요함."
+      },
+      {
+        "rank": 5,
+        "id": "32ee0d50c2c2fe1dde3c57a68dd43f13357d822be28fa82e7fa50b90d9e69f73",
+        "title": "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30851",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30851v1 Announce Type: new Abstract: Improving the reliability of large language models (LLMs) at inference time is a central challenge in structured reasoning tasks such as Text-to-SQL. Common test-time inference strategies, including Best-of-N sampling and Majority Voting, rely on heuristic signals such as execution success or output frequency, which provide limited semantic discrimination across candidate outputs. In this work, we study Outcome Reward Models (ORMs) as learned sema…",
+        "category_score": 86,
+        "score_reason": "Text-to-SQL 등 구조화된 데이터 추론 시 결과의 정확도를 높이는 검증 전략은 비즈니스 데이터 활용의 신뢰도를 결정함.",
+        "keywords": [
+          "RAG",
+          "Text-to-SQL",
+          "결과 검증"
+        ],
+        "planning_insight": "자연어 기반 데이터 분석 툴 기획 시, 단순 질의응답을 넘어 생성된 쿼리의 실행 성공률과 결과 타당성을 검증하는 Reward Model 설계가 핵심 차별화 요소가 됨."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+      "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/3897377",
+      "published_at": "2026-06-30T20:00:48+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+      "category_score": 95,
+      "score_reason": "AI 에이전트를 단순 도구 활용을 넘어 '조직화(Organization)'와 '운영(Operation)'의 관점에서 서비스 기획 및 업무 프로세스 혁신 사례로 풀어냄. 플랫폼 운영 방식과 사용자 경험 개선을 위한 구조적 인사이트가 매우 높음.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "조직 효율화"
+      ],
+      "planning_insight": "AI 에이전트를 활용한 서비스 기획 시, 단일 기능을 넘어 업무 프로세스 전체를 자동화 단위로 구조화하는 '에이전트 거버넌스' 설계가 차별화 포인트가 될 것임.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 독립된 조직 단위로 설계하여 운영하는 사내 시스템 구축 사례",
+      "importance_reason": "단순 챗봇을 넘어 에이전트 간 협업과 동기화, 관리 구조(채용·해고)를 다룬 모델로 차세대 서비스 기획의 방향성을 제시함."
+    },
+    {
+      "rank": 2,
+      "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+      "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30775",
+      "published_at": "2026-07-01T13:00:00+09:00",
+      "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+      "category_score": 98,
+      "score_reason": "기업용 AI 에이전트의 핵심 난제인 '스킬 충돌' 문제를 자동화 파이프라인으로 해결하는 실무적 방법론을 제시함.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "스킬 최적화"
+      ],
+      "planning_insight": "기업형 AI 에이전트 서비스 기획 시 프롬프트 엔지니어링의 한계를 극복할 수 있는 자동화된 스킬 관리 로직을 필수 설계 요소로 반영해야 함.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "엔터프라이즈 AI 에이전트의 효율적 운영을 위한 스킬 충돌 자동 최적화 파이프라인",
+      "importance_reason": "복잡한 에이전트 서비스에서 발생하는 '스킬 충돌' 문제를 데이터 기반으로 해결하는 실무 방법론을 제시하여 기술적 완성도를 높임."
+    },
+    {
+      "rank": 3,
+      "id": "f2226e407da2e6e9fcfc4557fab6e0f90a457f5fdf8807a1901c28edbcdca287",
+      "title": "검색 결과 자동 정리…다음, 'AI 요약' 베타 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260701180223",
+      "published_at": "2026-07-01T18:03:15+09:00",
+      "summary": "[지디넷코리아]포털 다음은 업스테이지 자체 언어모델(LLM) '솔라'를 바탕으로 검색 결과를 자동 요약해주는 '인공지능(AI) 요약' 베타 서비스를 공개한다고 1일 밝혔다.AI 요약은 LLM이 웹 문서를 직접 분석해 검색 결과에 대한 종합적인 답변을 정리해주는 기능이다. 다음 검색창에 키워드를 입력하면 핵심 요약과 근거를 함께 제공하며, 내용이 바뀌면 AI가 자동 반영해 늘 최신 정보를 확인할 수 있다. 짧은 단어뿐만 아니라 문장형 질문도 의도를 파악해 정리하고 절차가 중요한 검색은 단계별 목록으로, 비교가 필요한 검색은 표로 보여주는 등 검색어 성격에 맞춰 가독성을 높였다.AI 요약 기능에는 업스테이지의 자체 LLM '솔라'가 기반 모델로 탑재됐다. 이는 지난 5월 업스테이지가 AXZ를 인수한 이후 AI의 첫 본격 적용이다.이를 통해 다음 검색은 기존 키워드 검색과 AI 요약이 결합된 하이브리드 검색으로 고도화된다. AI 요약 기능은 ▲이슈(실시간 트렌드) ▲금융 ▲엔터 ▲건강…",
+      "category_score": 92,
+      "score_reason": "포털 다음의 AI 요약 서비스 베타 출시는 검색 경험의 패러다임이 키워드 검색에서 답변형 AI 검색으로 완전히 이동하고 있음을 보여주는 강력한 트렌드 신호임.",
+      "keywords": [
+        "AI 검색",
+        "플랫폼",
+        "정보 요약"
+      ],
+      "planning_insight": "기존 검색 최적화(SEO) 전략을 넘어, AI 요약 엔진이 내용을 추출하기 좋은 구조의 콘텐츠 생산과 답변형 포맷에 최적화된 기획이 요구됨.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "포털 다음의 AI 요약 서비스 베타 출시를 통한 검색 패러다임의 답변형 전환",
+      "importance_reason": "국내 포털 서비스에서 키워드 중심에서 답변형 검색으로의 하이브리드 전환이 본격화되었음을 보여주는 중요한 시장 신호임."
+    },
+    {
+      "rank": 4,
+      "id": "4ac86baa765678c1835d8b9744f7795442487c330ce4155332196454741176fa",
+      "title": "구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260702073802",
+      "published_at": "2026-07-02T07:38:02+09:00",
+      "summary": "[지디넷코리아]구글이 6월 30일(현지시간) 자사 이미지 생성 모델 '나노 바나나(Nano Banana)' 기반의 개인화 이미지 생성 기능을 미국 내 자격 요건을 충족한 제미나이 앱 사용자에게 무료로 개방했다. 그동안 유료 등급에서만 쓸 수 있던 기능을 일반 사용자로 확대한 것이다.개인화 이미지 생성은 사용자의 사진이나 취향을 반영해 맞춤형 이미지를 만들어 주는 고급 창작 도구다. 구글은 이번 무료 개방으로 제미나이 앱의 사용자 참여도를 끌어올리는 동시에, 더 많은 사용 데이터를 확보해 모델 성능을 개선하려는 의도를 엿보였다. 프리미엄 기능을 폭넓게 풀어 채택률을 높이는 빅테크의 전형적인 전략이다.이번 조치를 통해 생성형 AI 창작 도구의 대중화가 한 단계 앞당겨지게 됐다. 오픈AI의 이미지 생성, 어도비 파이어플라이 등과의 경쟁이 격화되는 상황에서 접근성 경쟁에서 우위를 노리는 것이 구글의 전략이다.다만 이같은 이미지 생성을 무료로 대량 제공할 경우 막대한 컴퓨팅 비용 부담이 따…",
+      "category_score": 95,
+      "score_reason": "생성형 AI 모델의 기능 무료 개방은 'AI 대중화'를 가속하는 전략적 신호이며, 빅테크 기업들의 점유율 경쟁과 사용자 데이터 확보 전략이 반영됨.",
+      "keywords": [
+        "구글",
+        "제미나이",
+        "AI 대중화"
+      ],
+      "planning_insight": "생성형 AI의 일상 활용도가 높아짐에 따라, 기업은 고객이 직접 AI를 활용해 가치를 창출하는 '경험 제공형' 마케팅 콘텐츠에 주목해야 함.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글 제미나이 개인화 이미지 생성 무료 개방을 통한 AI 기능 대중화 경쟁 가속",
+      "importance_reason": "빅테크가 유료 모델의 핵심 기능을 무료화하는 것은 점유율 확보와 사용자 데이터 축적을 통한 모델 고도화 전략의 전형임."
+    },
+    {
+      "rank": 5,
+      "id": "3adcd68af40fc1747223cca0e7283a39d0141b4fefbef5869654497a270d528f",
+      "title": "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260630171621",
+      "published_at": "2026-06-30T17:23:15+09:00",
+      "summary": "[지디넷코리아]SK하이닉스가 글로벌 인공지능(AI) 메모리 수요에 대응하기 위해 서남권 지역에 400조원을 투자한다.곽노정 SK하이닉스 대표이사 사장은 30일 광주 김대중컨벤션센터에서 열린 '서남권 첨단산업 발전비전 국민보고회'에 참석해 서남권 반도체·AI 투자 계획을 발표했다.곽 사장은 AI 산업이 학습 단계를 넘어 실제 서비스가 본격 확산되는 시대로 진입함에 따라 메모리 수요가 기하급수적으로 증가하고 있다고 진단했다. 그는 \"AI 시대의 메모리는 단순한 부품을 넘어 AI 성능 자체를 결정하는 핵심 인프라로 부상했다\"며 \"현재 추진 중인 용인 클러스터만으로는 글로벌 수요를 완전히 충족하기 어려울 전망\"이라고 말했다.그러면서 \"대규모 부지와 안정적인 전력·용수 공급이 가능할 것으로 보이는 서남권에 400조원을 투자해 생산 기반을 구축하기로 했다\"고 덧붙였다.AI 인프라 확장을 위한 데이터센터 구축 계획도 함께 공개됐다. SK그룹은 전국에 총 15기가와트(GW) 수준의 AI 데이터센…",
+      "category_score": 98,
+      "score_reason": "SK하이닉스의 400조원 규모 서남권 투자 계획은 국내 산업 지도를 바꿀 대규모 인프라 투자이자, AI 메모리 수요 폭증에 따른 시장 변화를 직접적으로 반영한 신호탄임.",
+      "keywords": [
+        "SK하이닉스",
+        "AI 인프라",
+        "데이터센터"
+      ],
+      "planning_insight": "단순 기술 트렌드 보도를 넘어, AI가 산업과 인프라에 미치는 거시적 영향력을 스토리텔링하는 리포트나 심층 기획물의 소재로 활용 가능.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "시장·소비자 영향력",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "SK하이닉스의 서남권 400조 투자, AI 인프라 확장을 위한 국가 단위 생태계 구축",
+      "importance_reason": "AI 메모리 수요 폭증이 물리적 인프라 대규모 투자로 이어지는 연쇄 효과를 보여주며 산업 생태계 전체의 변화를 시사함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 74,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 도구적 차원을 넘어 에이전트 기반의 조직화·자동화 단계로 진입하며 시스템 운영 및 구조화 능력이 중요해지고 있음.",
+    "빅테크 플랫폼의 AI 서비스 대중화와 고도화 전략이 검색 환경과 일반 사용자 경험을 빠르게 재편하고 있음.",
+    "AI 인프라 경쟁은 메모리 반도체 등 핵심 부품 산업의 대규모 투자를 유도하며 국가 산업 구조 변화의 기점이 되고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

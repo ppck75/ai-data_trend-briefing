@@ -1,0 +1,449 @@
+{
+  "briefing_date": "2026-06-28",
+  "generated_at": "2026-06-28T21:19:55.702091+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 190,
+    "tech_blog": 0,
+    "ai_data": 10
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "067c334970aaf0be2d023f266480748cf2fce8560cbf46b0ac9e8916ab381554",
+        "title": "삼성·SK 나란히 1000조원대 'AI 전략투자'",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12085066",
+        "published_at": "2026-06-28T17:43:35+09:00",
+        "summary": "삼성과 SK가 각각 1000조원 이상의 대규모 국내 투자 계획을 29일 발표한다. 메모리 반도체 호황으로 거둔 사상 최대 이익을 지방에 신규 생산시설을 짓는 데 쓰겠다는 대국민 약..",
+        "category_score": 98,
+        "score_reason": "대한민국 양대 기업의 1000조원대 AI 전략 투자는 산업 지형을 바꿀 초대형 신호이며, 기술 및 인프라 전반에 걸친 국가적 트렌드로 확장 가능성이 매우 높음.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "투자",
+          "데이터센터"
+        ],
+        "planning_insight": "초대형 투자에 따른 지역 산업 생태계 변화와 관련 소부장 기업들의 기회요인을 분석하여 AI 인프라 공급망 관점의 콘텐츠 생산 필요."
+      },
+      {
+        "rank": 2,
+        "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+        "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260627135408",
+        "published_at": "2026-06-27T13:54:08+09:00",
+        "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+        "category_score": 95,
+        "score_reason": "AI가 인간의 화면 조작을 직접 수행하는 '컴퓨터 유즈' 기능은 AI 에이전트 시장의 기술적 변곡점으로, 단순 정보 검색을 넘어 실무 자동화 시대를 예고함.",
+        "keywords": [
+          "AI 에이전트",
+          "자동화",
+          "제미나이"
+        ],
+        "planning_insight": "AI 에이전트의 실무 투입에 따른 직무 역량 변화와 자동화 도구 활용법 등 B2B 및 프로슈머 타깃의 실용 콘텐츠 기획."
+      },
+      {
+        "rank": 3,
+        "id": "7feed9534c46dfc149ef40caf9b2117866e1d4f5c0ca4d1c940d6a85c50d45fe",
+        "title": "LS일렉트릭, 美 현지화 승부수…2500억 들여 유타 공장 증설",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628183023",
+        "published_at": "2026-06-28T18:30:23+09:00",
+        "summary": "[지디넷코리아]LS일렉트릭이 미국 전력 인프라 시장 공략을 위해 현지 생산 거점인 ‘LS일렉트릭 유타’ 증설에 나선다.LS일렉트릭은 현지시간 25일 미국 유타주 시더시티에서 LS일렉트릭 유타 증설 기공식을 열었다고 밝혔다. 회사는 이번 프로젝트에 총 2500억원을 투입해 기존 1만 3223㎡ 규모 생산시설에 6만 6115㎡를 추가한다. 증설이 완료되면 전체 생산시설은 7만 9338㎡로 늘어나 기존 대비 약 6배 확대된다. 가동 목표 시점은 2027년 초다.이번 증설을 통해 LS일렉트릭 유타의 배전반 생산능력은 연간 5000억원 수준으로 확대될 전망이다. 특히 단순 생산시설 확장이 아니라 설계와 연구개발, 제조 기능을 함께 갖춘 북미 복합 거점으로 운영될 예정이다.LS일렉트릭은 앞서 2022년 북미 배전사업 강화를 위해 현지 배전반 제조업체 MCM엔지니어링Ⅱ를 인수했다. 이후 1차 증설을 통해 생산능력을 키웠고, 올해 사명을 LS일렉트릭 유타로 변경했다.북미에서는 AI 확산과 데이터…",
+        "category_score": 92,
+        "score_reason": "AI 확산으로 인한 데이터센터 전력 인프라 급증은 제조 현장의 스마트화와 맞물린 확실한 시장 변화 시그널임.",
+        "keywords": [
+          "AI 인프라",
+          "데이터센터",
+          "전력기기"
+        ],
+        "planning_insight": "AI 전력난이 제조 기업의 공정 자동화와 에너지 관리 기술(EMS) 투자를 어떻게 가속화하는지 연결하여 기술 트렌드 리포트 구성."
+      },
+      {
+        "rank": 4,
+        "id": "3eadb4a9884a11683e0b4ee40f83359e38d985155c624642bb2f2d734974c317",
+        "title": "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628094714",
+        "published_at": "2026-06-28T11:10:44+09:00",
+        "summary": "[지디넷코리아]틱톡이 숏폼 영상 플랫폼을 넘어 쇼핑, 여행 예약, 금융, 스포츠, 콘텐츠를 하나로 묶는 '슈퍼앱' 구축에 속도를 내고 있다. 미국에서는 틱톡샵 거래액이 급증하고 호텔 예약 기능까지 추가되면서 아마존과 구글, 온라인 여행 플랫폼을 동시에 겨냥하는 모습이다. 다만 서구권 이용자들의 서비스 이용 습관과 규제 장벽이 여전히 넘어야 할 과제로 꼽힌다.최근 외신 더넥스트웹에 따르면 틱톡은 지난 1년간 쇼핑과 호텔 예약, 스포츠 허브, 캐주얼 게임, 마이크로드라마, 핀테크 등 다양한 기능을 잇달아 추가하며 단순 동영상 플랫폼을 넘어 생활 플랫폼으로 사업 영역을 넓히고 있다.슈퍼앱은 메신저를 기반으로 결제와 쇼핑, 교통, 행정서비스 등을 하나의 애플리케이션에서 제공하는 서비스를 뜻한다. 대표 사례는 중국의 위챗과 더우인이다.특히 모회사 바이트댄스는 중국판 틱톡인 더우인에서 AI 쇼핑 에이전트와 결제, 공연·여행 예약 등을 이미 성공적으로 운영하고 있다. 틱톡 역시 이 같은 모델을…",
+        "category_score": 89,
+        "score_reason": "숏폼 플랫폼이 슈퍼앱으로 진화하는 현상은 광고·커머스 생태계의 거대한 변화를 의미하며, 글로벌 플랫폼 전략 변화의 핵심 지표임.",
+        "keywords": [
+          "틱톡",
+          "슈퍼앱",
+          "커머스",
+          "광고"
+        ],
+        "planning_insight": "숏폼 플랫폼 내 쇼핑 기능 강화에 따른 인플루언서 마케팅과 광고 전략의 전환점을 짚어주는 비즈니스 분석 콘텐츠."
+      },
+      {
+        "rank": 5,
+        "id": "aac306a2650ed10a131c14e5107f99b5898bd1a22c5b99cd4aef00024ccba92f",
+        "title": "美 'AI 채용 도구' 주의보...\"한 번 찍히면 계속 탈락\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628094640",
+        "published_at": "2026-06-28T10:07:19+09:00",
+        "summary": "[지디넷코리아]기업들이 도입한 AI 채용 도구가 특정 지원자를 시스템적으로 배제하고 있으며, 특히 흑인과 아시아계 등 소수 인종에게 심각한 불이익을 주고 있다는 조사 결과가 나왔다. 특히 많은 기업이 동일한 외부 공급업체 AI 알고리즘을 공유해 사용하면서, 한 기업의 AI 툴에서 감점된 구직자가 다른 기업의 채용 과정에서도 연쇄적으로 원천 배제되는 이른바 ‘알고리즘 획일화(Algorithmic Monoculture)’ 현상도 감지됐다.스탠퍼드 대학교 인간중심 AI연구소(HAI)는 최근 실제 대규모 채용 데이터셋을 활용해 AI 채용 도구가 구직자들에게 미치는 영향을 분석한 연구 결과를 발표했다. 조사 대상은 150개 고용주, 11개 산업 섹터에 걸친 1700건의 구인 광고와 여기에 응모한 340만 명의 지원 서류 400만 건이다. 이들 구인 안건은 모두 동일한 외부 공급업체가 구축한 AI 채용 도구를 통해 서류 분류 및 등급 매기기 평가를 받았다.최근 생성형 AI의 보급으로 구직자들…",
+        "category_score": 86,
+        "score_reason": "AI 채용 도구 확산에 따른 알고리즘 편향성 및 '알고리즘 획일화' 문제는 AI 시대의 사회적 책임과 윤리 이슈로서 지속적인 담론 형성 가능성이 큼.",
+        "keywords": [
+          "AI 채용",
+          "알고리즘 윤리",
+          "소비자 행동"
+        ],
+        "planning_insight": "AI가 채용 등 개인의 삶에 미치는 영향력을 다루는 인문학적·윤리적 접근의 콘텐츠를 통해 플랫폼 기업들의 사회적 가치 재조명."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "38534cbc63a079e7c02cae6f1f411bfaaa2fdd5193dcd652bacf4ec18f402007",
+        "title": "Context Recycling for Long-Horizon LLM Inference",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26105",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26105v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong capabilities in short-context reasoning but degrade in performance over long conversational horizons due to context window limitations and inefficient token usage. We introduce ContextForge, a system for context recycling that maintains task-relevant information across turns by combining structured query generation, external memory retrieval, and controlled synthesis. The system enables efficient reuse o…",
+        "category_score": 95,
+        "score_reason": "긴 대화 맥락을 유지하고 외부 정보를 통합하는 ContextForge 기술은 고도화된 RAG 시스템과 에이전트 구축에 핵심적인 기여를 함.",
+        "keywords": [
+          "LLM",
+          "RAG",
+          "인프라",
+          "에이전트"
+        ],
+        "planning_insight": "긴 문맥 유지가 필요한 복합 콘텐츠 기획 및 챗봇 서비스의 사용자 경험을 획기적으로 개선할 수 있는 기술적 토대임."
+      },
+      {
+        "rank": 2,
+        "id": "561c75d9ea6f2bd8b2ee8d19fe21ad8b318eb73f832fd989f48d2eac9b281db4",
+        "title": "Know2Guess: A Contamination-Aware Multi-Zone Benchmark for Knowledge-Boundary Evaluation in Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26101",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26101v1 Announce Type: new Abstract: Reliable evaluation of large language models should separate supported answering from unsupported guessing without conflating either with data contamination, prompt idiosyncrasy, or generic refusal behavior. We present a contamination-aware, multi-zone benchmark for measuring the transition from answerable knowledge to abstention-expected unknowns under frozen build-time labels. The benchmark contains 1,200 items across five domains, explicit abst…",
+        "category_score": 92,
+        "score_reason": "LLM의 지식 경계와 할루시네이션(환각)을 평가하는 벤치마크는 신뢰성 있는 AI 콘텐츠 자동화 서비스 구축에 필수적임.",
+        "keywords": [
+          "평가",
+          "LLM",
+          "데이터셋"
+        ],
+        "planning_insight": "AI 기반 콘텐츠 자동 생성 시스템 도입 시, 모델이 모르는 영역을 명확히 구분하여 답변의 정확도를 높이는 검증 전략 수립이 가능함."
+      },
+      {
+        "rank": 3,
+        "id": "fae231520a10e86791c128b2e6501490efb70213da6b182027487f8d78ec1948",
+        "title": "HierBias: Context-Conditioned Hierarchical Media Bias Detection with Multi-Task Type Classification",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26100",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26100v1 Announce Type: new Abstract: Media bias detection is a critical task for ensuring fair and balanced information dissemination, yet existing sentence-level approaches classify each sentence independently, ignoring inter-sentence contextual signals that human annotators naturally exploit. We present \\textbf{HierBias}, a hierarchical context-conditioned media bias detector that formally models document context in bias prediction. We introduce the \\emph{context-conditioned bias p…",
+        "category_score": 88,
+        "score_reason": "미디어 편향을 문서 수준에서 탐지하는 모델은 콘텐츠 분석 및 자동화 툴의 핵심 기능으로 활용도가 높음.",
+        "keywords": [
+          "NLP",
+          "콘텐츠 분석",
+          "데이터 자동화"
+        ],
+        "planning_insight": "미디어 모니터링 서비스나 콘텐츠 큐레이션 알고리즘 개발 시, 문맥 기반의 편향 탐지 기능을 도입하여 콘텐츠의 객관성을 확보할 수 있음."
+      },
+      {
+        "rank": 4,
+        "id": "5101d9ee5d23af537a02ddf32387132e75d3478cabc9b119d0aa03e3282d1c0a",
+        "title": "From Lexicon to AI: A Structured-Data Pipeline for Specialized Conversational Systems in Low-Resource Languages",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26112",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26112v1 Announce Type: new Abstract: Low-resource languages face a critical challenge in AI development: creating specialized conversational systems without access to massive training corpora. We present a systematic methodology for transforming structured linguistic resources into specialized AI systems, demonstrating that expert-curated lexical databases can serve as effective foundations for conversational AI development. Our approach converts Hindi WordNet into 1.25 million diver…",
+        "category_score": 85,
+        "score_reason": "구조화된 데이터셋을 통해 대규모 말뭉치 없이도 고성능 대화형 시스템을 구축하는 방법론은 비용 효율적인 AI 기획에 큰 인사이트를 제공함.",
+        "keywords": [
+          "구조화 데이터",
+          "콘텐츠 제작",
+          "LLM 최적화"
+        ],
+        "planning_insight": "방대한 학습 데이터 없이도 기업 내부의 지식 베이스(전문 용어, 사전)를 활용해 도메인 특화형 AI 에이전트를 효율적으로 구축할 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "28284d64526b9ae09ad9f84a47e5d4688fb0f79cc565d33998536dd45ac1fac4",
+        "title": "Reducing Conversational Escalation in Large Language Model Dialogue with Nonviolent Communication Constraints",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26106",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26106v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in emotionally charged situations involving interpersonal conflict, frustration, and distress. While prior safety research has focused on preventing explicit harms such as toxic or policy-violating content, less attention has been paid to conversational behaviors that may unintentionally escalate conflict. In this paper, we investigate whether LLMs can be guided toward more de-escalating dialogue…",
+        "category_score": 82,
+        "score_reason": "대화형 AI의 갈등 중재 및 톤앤매너 조절 기술은 고객 응대 및 커뮤니티 관리 에이전트의 완성도를 높이는 데 기여함.",
+        "keywords": [
+          "LLM",
+          "에이전트",
+          "UX/UI"
+        ],
+        "planning_insight": "사용자와 상호작용하는 챗봇이나 인터랙티브 콘텐츠 기획 시, 부정적 상황을 완화하는 언어 제약 모델을 도입하여 브랜드 신뢰도를 관리할 수 있음."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+      "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260627135408",
+      "published_at": "2026-06-27T13:54:08+09:00",
+      "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+      "category_score": 95,
+      "score_reason": "AI가 인간의 화면 조작을 직접 수행하는 '컴퓨터 유즈' 기능은 AI 에이전트 시장의 기술적 변곡점으로, 단순 정보 검색을 넘어 실무 자동화 시대를 예고함.",
+      "keywords": [
+        "AI 에이전트",
+        "자동화",
+        "컴퓨터 유즈"
+      ],
+      "planning_insight": "AI 에이전트를 활용한 사내 업무 프로세스 재설계 및 고객 경험(CX) 자동화 시나리오를 선제적으로 기획하여 생산성 혁신 방안을 마련할 것.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글 제미나이 3.5 플래시의 '컴퓨터 유즈' 탑재로 AI가 직접 화면을 조작하는 실무 에이전트 시대 개막",
+      "importance_reason": "AI가 단순 텍스트 생성을 넘어 소프트웨어 UI를 직접 제어하는 단계로 진입함에 따라 업무 자동화의 정의가 근본적으로 변화하고 있음."
+    },
+    {
+      "rank": 2,
+      "id": "067c334970aaf0be2d023f266480748cf2fce8560cbf46b0ac9e8916ab381554",
+      "title": "삼성·SK 나란히 1000조원대 'AI 전략투자'",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12085066",
+      "published_at": "2026-06-28T17:43:35+09:00",
+      "summary": "삼성과 SK가 각각 1000조원 이상의 대규모 국내 투자 계획을 29일 발표한다. 메모리 반도체 호황으로 거둔 사상 최대 이익을 지방에 신규 생산시설을 짓는 데 쓰겠다는 대국민 약..",
+      "category_score": 98,
+      "score_reason": "대한민국 양대 기업의 1000조원대 AI 전략 투자는 산업 지형을 바꿀 초대형 신호이며, 기술 및 인프라 전반에 걸친 국가적 트렌드로 확장 가능성이 매우 높음.",
+      "keywords": [
+        "AI",
+        "반도체",
+        "인프라 투자"
+      ],
+      "planning_insight": "AI 인프라 성장에 따른 B2B 비즈니스 파트너십 구축 및 기술 트렌드 리포트 발간을 통해 산업 전문성을 확보할 것.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "삼성·SK의 1000조원대 AI 투자 단행, 국가적 AI 인프라 생태계 구축의 신호탄",
+      "importance_reason": "대규모 자본 투입은 관련 소부장 기업부터 데이터 센터 서비스까지 산업 연쇄 효과를 발생시키는 가장 강력한 트렌드 신호임."
+    },
+    {
+      "rank": 3,
+      "id": "38534cbc63a079e7c02cae6f1f411bfaaa2fdd5193dcd652bacf4ec18f402007",
+      "title": "Context Recycling for Long-Horizon LLM Inference",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.26105",
+      "published_at": "2026-06-26T13:00:00+09:00",
+      "summary": "arXiv:2606.26105v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong capabilities in short-context reasoning but degrade in performance over long conversational horizons due to context window limitations and inefficient token usage. We introduce ContextForge, a system for context recycling that maintains task-relevant information across turns by combining structured query generation, external memory retrieval, and controlled synthesis. The system enables efficient reuse o…",
+      "category_score": 95,
+      "score_reason": "긴 대화 맥락을 유지하고 외부 정보를 통합하는 ContextForge 기술은 고도화된 RAG 시스템과 에이전트 구축에 핵심적인 기여를 함.",
+      "keywords": [
+        "LLM",
+        "RAG",
+        "컨텍스트 관리"
+      ],
+      "planning_insight": "장기 기억이 필요한 커스텀 챗봇이나 개인화된 콘텐츠 큐레이션 서비스 기획에 핵심 기술로 즉시 도입 고려 필요.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "긴 문맥 유지를 위한 ContextForge 기술 등장으로 정교한 장기 대화 및 복합 콘텐츠 구현 가능성 확대",
+      "importance_reason": "LLM의 고질적 문제인 컨텍스트 제한을 해결하여 더 깊이 있고 맥락이 긴 콘텐츠 자동화 서비스 구축이 가능해짐."
+    },
+    {
+      "rank": 4,
+      "id": "3eadb4a9884a11683e0b4ee40f83359e38d985155c624642bb2f2d734974c317",
+      "title": "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260628094714",
+      "published_at": "2026-06-28T11:10:44+09:00",
+      "summary": "[지디넷코리아]틱톡이 숏폼 영상 플랫폼을 넘어 쇼핑, 여행 예약, 금융, 스포츠, 콘텐츠를 하나로 묶는 '슈퍼앱' 구축에 속도를 내고 있다. 미국에서는 틱톡샵 거래액이 급증하고 호텔 예약 기능까지 추가되면서 아마존과 구글, 온라인 여행 플랫폼을 동시에 겨냥하는 모습이다. 다만 서구권 이용자들의 서비스 이용 습관과 규제 장벽이 여전히 넘어야 할 과제로 꼽힌다.최근 외신 더넥스트웹에 따르면 틱톡은 지난 1년간 쇼핑과 호텔 예약, 스포츠 허브, 캐주얼 게임, 마이크로드라마, 핀테크 등 다양한 기능을 잇달아 추가하며 단순 동영상 플랫폼을 넘어 생활 플랫폼으로 사업 영역을 넓히고 있다.슈퍼앱은 메신저를 기반으로 결제와 쇼핑, 교통, 행정서비스 등을 하나의 애플리케이션에서 제공하는 서비스를 뜻한다. 대표 사례는 중국의 위챗과 더우인이다.특히 모회사 바이트댄스는 중국판 틱톡인 더우인에서 AI 쇼핑 에이전트와 결제, 공연·여행 예약 등을 이미 성공적으로 운영하고 있다. 틱톡 역시 이 같은 모델을…",
+      "category_score": 89,
+      "score_reason": "숏폼 플랫폼이 슈퍼앱으로 진화하는 현상은 광고·커머스 생태계의 거대한 변화를 의미하며, 글로벌 플랫폼 전략 변화의 핵심 지표임.",
+      "keywords": [
+        "틱톡",
+        "슈퍼앱",
+        "커머스"
+      ],
+      "planning_insight": "숏폼 내 쇼핑 기능을 결합한 인터랙티브 커머스 콘텐츠를 개발하여 플랫폼 알고리즘 최적화 및 구매 전환 실험을 수행할 것.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 25
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "틱톡의 슈퍼앱 전환 가속화, 숏폼 기반 쇼핑·예약 기능 통합으로 플랫폼 생태계 재편",
+      "importance_reason": "플랫폼 소비 습관의 변화는 인플루언서 마케팅과 광고 효율의 판도를 바꾸며, 기업의 콘텐츠 배포 전략 수정이 불가피함."
+    },
+    {
+      "rank": 5,
+      "id": "561c75d9ea6f2bd8b2ee8d19fe21ad8b318eb73f832fd989f48d2eac9b281db4",
+      "title": "Know2Guess: A Contamination-Aware Multi-Zone Benchmark for Knowledge-Boundary Evaluation in Large Language Models",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.26101",
+      "published_at": "2026-06-26T13:00:00+09:00",
+      "summary": "arXiv:2606.26101v1 Announce Type: new Abstract: Reliable evaluation of large language models should separate supported answering from unsupported guessing without conflating either with data contamination, prompt idiosyncrasy, or generic refusal behavior. We present a contamination-aware, multi-zone benchmark for measuring the transition from answerable knowledge to abstention-expected unknowns under frozen build-time labels. The benchmark contains 1,200 items across five domains, explicit abst…",
+      "category_score": 92,
+      "score_reason": "LLM의 지식 경계와 할루시네이션(환각)을 평가하는 벤치마크는 신뢰성 있는 AI 콘텐츠 자동화 서비스 구축에 필수적임.",
+      "keywords": [
+        "LLM 평가",
+        "데이터셋",
+        "할루시네이션"
+      ],
+      "planning_insight": "기업 내부 AI 콘텐츠 자동화 도입 시 신뢰성 평가 프레임워크로 활용하여 서비스 리스크를 관리하는 가이드라인 구축.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "Know2Guess 벤치마크 출시, AI 지식 경계와 할루시네이션 판단의 객관적 기준 제시",
+      "importance_reason": "AI 서비스 신뢰도 확보가 기업의 핵심 과제가 됨에 따라 기술적 검증 방식의 고도화는 필수적인 의사결정 요소가 됨."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 86,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 24,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트가 단순 정보 검색을 넘어 실무 UI를 직접 조작하는 단계로 진화하며 서비스 기획의 핵심으로 부상했습니다.",
+    "국내외 대규모 AI 인프라 투자가 가속화됨에 따라 산업 공급망과 데이터 관리 기술에 대한 전략적 대응이 중요해졌습니다.",
+    "틱톡의 슈퍼앱 진화와 AI 기술의 신뢰성 검증 도구 확산은 콘텐츠 제작자와 플랫폼 마케터들에게 데이터 기반의 새로운 최적화 과제를 던지고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

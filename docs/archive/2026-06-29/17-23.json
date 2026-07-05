@@ -1,0 +1,492 @@
+{
+  "briefing_date": "2026-06-29",
+  "generated_at": "2026-06-29T17:23:22.556590+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 2,
+    "ai_data": 10
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "4acaa52fa48fd5bba091373b4c21c3343d6638501b87e3bd4c7396e6e849bcfe",
+        "title": "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629112425",
+        "published_at": "2026-06-29T11:36:20+09:00",
+        "summary": "[지디넷코리아]정부가 한국형 AI 산업혁명 완수를 목표로 반도체, 피지컬 AI, AI 데이터센터 등 ‘3대 메가프로젝트’의 구체적인 청사진을 공개한다. 향후 10년간 총투자 규모가 2000조원을 상회할 것으로 관측되는 등 역대 최대 규모의 국가적 대도약 사업이 본격화될 전망이다.이재명 대통령은 29일 오후 2시 청와대 영빈관에서 ‘회복을 넘어 대도약으로, 초격차 대한민국’이라는 슬로건 아래 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 주재한다.앞서 강유정 청와대 수석대변인은 지난 28일 브리핑을 통해 이 같은 일정과 함께 이번 행사에는 이재용 삼성전자 회장과 최태원 SK그룹 회장이 직접 참석한다고 밝혔다.이번 메가프로젝트의 핵심은 호남, 충청, 영남 등 비수도권 지역을 중심으로 미래 AI 인프라를 전방위로 구축하는 내용이 핵심 골자이다. 우선 광주·전남을 비롯한 호남권에는 삼성전자와 SK하이닉스가 전공정 팹(Fab)을 포함한 대규모 반도체 클러스터를 조성한다. 1기당 건설 비…",
+        "category_score": 98,
+        "score_reason": "반도체, AI 데이터센터 등 국가 차원의 2000조 규모 메가프로젝트 발표는 시장 전반의 체질을 바꾸는 가장 강력한 신호임.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "인프라"
+        ],
+        "planning_insight": "국가 주도 AI 인프라 투자 방향성에 맞춘 B2B 비즈니스 및 관련 기술(전력, 반도체 패키징)의 동반 성장 가능성 분석 필요."
+      },
+      {
+        "rank": 2,
+        "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+        "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260627135408",
+        "published_at": "2026-06-27T13:54:08+09:00",
+        "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+        "category_score": 95,
+        "score_reason": "구글 제미나이의 '컴퓨터 유즈' 기능은 AI가 단순 텍스트 생성을 넘어 실제 PC 환경을 제어하는 '에이전트'로 진화하는 중대한 기술 트렌드임.",
+        "keywords": [
+          "AI",
+          "에이전트",
+          "플랫폼"
+        ],
+        "planning_insight": "AI 에이전트의 워크플로우 자동화가 직무 환경과 플랫폼 UX에 미칠 파괴적 혁신을 시나리오별로 대비해야 함."
+      },
+      {
+        "rank": 3,
+        "id": "132ae87306ac4e2b4ef60b7060497029bb9876efcb1f7dc83ac5e65939297a27",
+        "title": "퀄컴, 텐스토렌트 인수 타진…설계부터 연결까지 '탈 Arm' 가속",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260626171646",
+        "published_at": "2026-06-27T09:00:01+09:00",
+        "summary": "[지디넷코리아]퀄컴이 짐 켈러가 이끄는 인공지능(AI) 반도체 스타트업 텐스토렌트 인수를 추진 중이다. 엔비디아가 장악한 AI 반도체 시장 내 경쟁력 강화로 읽히지만, 업계는 텐스토렌트의 'RISC-V(리스크파이브)' 기술력에 주목한다. 이는 영국 설계자산(IP) 기업 'Arm' 생태계에서 벗어나, 독자 아키텍처 노선을 구축하려는 퀄컴의 '탈(脫) Arm' 시나리오가 본격화했음을 시사한다.27일 반도체 업계에서는 이번 인수설을 Arm과 라이선스 분쟁 속에서 '아키텍처 독립'을 선언하겠다는 퀄컴의 의지란 풀이가 나온다. 최근 인터페이스 기술 기업 알파웨이브세미를 전격 인수한 데 이어 리스크파이브 설계 역량까지 내재화해, 설계부터 연결에 이르는 전 과정을 독자 생태계로 통제하겠다는 구상이다. 퀄컴이 Arm과 결별을 준비하는 배경에는 라이선스 분쟁이 있다. 퀄컴은 서버용 칩 기업 누비아를 인수하며 스냅드래곤 라인업에 독자 설계 코어를 탑재했다. 이에 Arm은 누비아의 라이선스가 퀄컴으로…",
+        "category_score": 92,
+        "score_reason": "퀄컴의 텐스토렌트 인수 시도는 Arm 생태계에서 벗어나 RISC-V 중심의 독자적인 AI 반도체 주도권을 확보하려는 전략적 시장 재편임.",
+        "keywords": [
+          "AI 반도체",
+          "퀄컴",
+          "RISC-V"
+        ],
+        "planning_insight": "빅테크 중심의 아키텍처 다변화가 AI 하드웨어 생태계 경쟁 구도를 어떻게 재편할지 주시할 필요가 있음."
+      },
+      {
+        "rank": 4,
+        "id": "d60aacfd30d17e6d1385bd19a19ca8bd24b16c8ae4f176459e9dbd1665cec437",
+        "title": "전국민 AI 경진대회, 개막 3개월 만에 참가자 100만명 돌파",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629114724",
+        "published_at": "2026-06-29T12:00:04+09:00",
+        "summary": "[지디넷코리아]정부가 주도하는 전국민 인공지능(AI) 경진대회가 개막 3개월 만에 참가자 100만 명을 넘어서며 흥행 중이다. 과학기술정보통신부는 지난 26일을 기점으로 전국민 AI 경진대회 참가자가 100만 명을 돌파했다고 29일 밝혔다. 경진대회는 AI 퀴즈풀이, AI 활용 창작 활동, AI 기반 문제해결 및 기술·서비스 개발, AI 활용사례 공모 등 다양한 프로그램으로 구성돼 초중고 학생부터 청년, 어르신까지 연령과 배경에 관계없이 누구나 참여할 수 있도록 운영하고 있다.프로그램별 참여 현황을 보면 5억원의 최고 상금이 걸린 전문가 대상 'AI챔피언'과 대학생 대상 'AI루키'에는 1124개팀이 신청해 현재 200개팀이 본선 과정을 진행 중이다. 초중고 학생 대상 'AI창작대회'와 '로보틱스 챌린지'는 2726명이 모집됐으며, 9월까지 전국 권역 지역예선이 이어질 예정이다. 온라인으로 게임처럼 AI를 체험하는 '클릭온 AI'에는 69만명, AI가 출제한 퀴즈를 푸는 'AI퀴즈…",
+        "category_score": 89,
+        "score_reason": "전국민 AI 경진대회 참가자 100만 명 돌파는 대중의 AI 문해력(Literacy)이 급속도로 향상되고 있음을 보여주는 소비자 행동 변화 신호임.",
+        "keywords": [
+          "AI",
+          "소비자 행동",
+          "디지털 전환"
+        ],
+        "planning_insight": "대중적 AI 활용 능력의 상향 평준화에 맞춘 콘텐츠 전략(초급/중급 수준의 AI 툴 활용 콘텐츠 급감, 심화 에이전트 활용 필요)."
+      },
+      {
+        "rank": 5,
+        "id": "3eadb4a9884a11683e0b4ee40f83359e38d985155c624642bb2f2d734974c317",
+        "title": "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628094714",
+        "published_at": "2026-06-28T11:10:44+09:00",
+        "summary": "[지디넷코리아]틱톡이 숏폼 영상 플랫폼을 넘어 쇼핑, 여행 예약, 금융, 스포츠, 콘텐츠를 하나로 묶는 '슈퍼앱' 구축에 속도를 내고 있다. 미국에서는 틱톡샵 거래액이 급증하고 호텔 예약 기능까지 추가되면서 아마존과 구글, 온라인 여행 플랫폼을 동시에 겨냥하는 모습이다. 다만 서구권 이용자들의 서비스 이용 습관과 규제 장벽이 여전히 넘어야 할 과제로 꼽힌다.최근 외신 더넥스트웹에 따르면 틱톡은 지난 1년간 쇼핑과 호텔 예약, 스포츠 허브, 캐주얼 게임, 마이크로드라마, 핀테크 등 다양한 기능을 잇달아 추가하며 단순 동영상 플랫폼을 넘어 생활 플랫폼으로 사업 영역을 넓히고 있다.슈퍼앱은 메신저를 기반으로 결제와 쇼핑, 교통, 행정서비스 등을 하나의 애플리케이션에서 제공하는 서비스를 뜻한다. 대표 사례는 중국의 위챗과 더우인이다.특히 모회사 바이트댄스는 중국판 틱톡인 더우인에서 AI 쇼핑 에이전트와 결제, 공연·여행 예약 등을 이미 성공적으로 운영하고 있다. 틱톡 역시 이 같은 모델을…",
+        "category_score": 86,
+        "score_reason": "틱톡의 슈퍼앱 전략은 콘텐츠-커머스-핀테크의 결합을 가속화하며, 이는 글로벌 이커머스 시장 경쟁 방식을 바꾸는 핵심 트렌드임.",
+        "keywords": [
+          "커머스",
+          "플랫폼",
+          "슈퍼앱"
+        ],
+        "planning_insight": "단순 영상 플랫폼을 넘어 결제/예약/금융까지 통합하는 '플랫폼 체류형' 커머스 전략으로의 전환 및 대응 방안 수립 필수."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+        "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+        "published_at": "2026-06-29T11:36:06+09:00",
+        "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+        "category_score": 95,
+        "score_reason": "기존 플랫폼의 리소스를 활용한 신규 비즈니스 모델 발굴 및 PMF 탐색 과정이 상세히 기술되어 있어 서비스 기획과 전략 수립에 매우 유익함.",
+        "keywords": [
+          "서비스 기획",
+          "PMF",
+          "마켓플레이스",
+          "비즈니스 빌딩"
+        ],
+        "planning_insight": "기존 플랫폼의 유저 베이스를 기반으로 새로운 버티컬 서비스를 론칭할 때 겪는 페인 포인트와 시장 검증 단계를 모델링할 수 있는 인사이트를 제공함."
+      },
+      {
+        "rank": 2,
+        "id": "49e04088f8c688c5b7f7995de60e0f1ce78c718c032957b3aed619c6bd5cbac0",
+        "title": "End to End 유저 모니터링 RUM 으로 한방에 해결!!",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9227131",
+        "published_at": "2026-06-29T20:06:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 End To End 모니터링을 별도의 작업없이 제공 받을수 있는 nFront RUM 서비스를 소개합니다. 내부 솔루션만으로 구현한 서비스로 별도의 비용 없이 AI report까지 제공되는 Real User Monitoring 서비스 입니다. 발표 대상 서비스 품질 측정과 모니터링 작업에 관심있는 개발자 목차 RUM (Real User Monitoring )이란? 측정 방식 외부 솔루션과의 차이 AI 분석 리포트 소개 Dashboard 소개 구성 요약 기술 부록 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEER…",
+        "category_score": 88,
+        "score_reason": "사용자 경험(UX) 최적화를 위한 데이터 모니터링 체계를 사내 솔루션으로 내재화하고, AI 분석을 결합하여 운영 효율을 극대화한 사례임.",
+        "keywords": [
+          "RUM",
+          "데이터 분석",
+          "UX 모니터링",
+          "AI 리포트"
+        ],
+        "planning_insight": "실제 사용자 데이터를 기반으로 제품 품질을 정량적으로 측정하고 이를 의사결정에 반영하는 데이터 드리븐(Data-driven) 문화 구축 전략을 참고할 수 있음."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+        "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27472",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+        "category_score": 95,
+        "score_reason": "LLM 에이전트의 핵심 난제인 '지식 업데이트(Memory-Update)'를 다룸. 에이전트 기반 서비스 구축 시 기획자가 반드시 고려해야 할 컨텍스트 관리 기술임.",
+        "keywords": [
+          "LLM 에이전트",
+          "메모리 관리",
+          "데이터 업데이트"
+        ],
+        "planning_insight": "동적인 정보를 다루는 AI 서비스 설계 시, 에이전트의 구버전 정보 오염을 방지하는 실시간 메모리 관리 전략이 필수적임을 시사함."
+      },
+      {
+        "rank": 2,
+        "id": "a392976f64fbec645cd142508e42579d3fd63d115d7fbf3662fb4333d955a853",
+        "title": "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27380",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27380v1 Announce Type: new Abstract: Automated coaching for oral presentations sits at the intersection of computer-assisted pronunciation training (CAPT), prosody modeling, and speech synthesis, yet no prior work has systematically surveyed and compared existing systems along these dimensions. This survey reviews and categorizes automated presentation coaching systems, spanning pronunciation tutors, fluency and prosody coaches, multimodal trainers, and conference Q&A practice tools.…",
+        "category_score": 92,
+        "score_reason": "멀티모달 및 자동화 기술을 활용한 프레젠테이션 코칭 시스템 분석. 콘텐츠 자동 생성과 교육용 AI 서비스 기획에 직접적인 가이드를 제공함.",
+        "keywords": [
+          "멀티모달",
+          "코칭 자동화",
+          "콘텐츠 제작"
+        ],
+        "planning_insight": "콘텐츠 제작 효율화 측면에서 영상/음성 데이터를 분석하여 피드백하는 자동화 루틴을 구축하기 위한 아키텍처 수립에 유용함."
+      },
+      {
+        "rank": 3,
+        "id": "fed69c256829413a6ab3396e4bf0d466f13aba1c9147824325a4af51dcd10816",
+        "title": "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27550",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27550v1 Announce Type: new Abstract: Multi-token prediction has been shown to increase data density during training, improve downstream text-generation quality, and serves as the defacto approach for self-speculative decoding. Existing foundation and open source models that use MTP heads commit to a static tree-based attention topology throughout the entire generation sequence, meaning the speculation depth, and thus the compute required during verification, stays constant regardless…",
+        "category_score": 88,
+        "score_reason": "LLM 추론 속도를 최적화하는 기술로, 고비용 AI 서비스를 상용화할 때 사용자 경험과 비용 효율성을 결정짓는 핵심 요소임.",
+        "keywords": [
+          "추론 최적화",
+          "LLM 효율성",
+          "서비스 비용"
+        ],
+        "planning_insight": "실시간 대화형 AI나 자동 생성 서비스 기획 시, 사용자 응답 속도를 개선하기 위한 기술적 선택지로서 인프라 비용 절감 전략 수립에 기여함."
+      },
+      {
+        "rank": 4,
+        "id": "8f4230a1bf94072cec0dc50ba7c6cbd6c1ce4fbf11012a6dd7eb96c1c365fd59",
+        "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27595",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27595v1 Announce Type: new Abstract: Web-agent benchmarks overwhelmingly measure depth -- pinning one obscure answer behind a chain of constraints -- while breadth, exhaustively enumerating a closed set and filling each item's attributes, is barely evaluated, especially outside English. Breadth is also hard to build: certifying that a gold set is complete and every cell correct is far costlier than checking a single answer. I introduce \\textsc{Ko-WideSearch}, a Korean breadth-search…",
+        "category_score": 85,
+        "score_reason": "한국어 환경에서 웹 에이전트의 정보 수집 능력을 측정하는 벤치마크. 로컬 서비스 에이전트 기획 시 품질 평가 기준을 제시함.",
+        "keywords": [
+          "한국어 AI",
+          "웹 에이전트",
+          "데이터 수집"
+        ],
+        "planning_insight": "웹 기반 자동화 에이전트 도입 시, 단순히 단일 정보 검색을 넘어 다각적인 정보 분류와 종합이 가능한 에이전트 품질 검증체계 수립이 필요함."
+      },
+      {
+        "rank": 5,
+        "id": "8fd9d524fd7df51025ec0d17f07b9e6261f3fec71ec60ff7f338428c5f3c8feb",
+        "title": "Position: The Term \"Machine Unlearning\" Is Overused in LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27379",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27379v1 Announce Type: new Abstract: Large language models increasingly face demands to \"forget\" training data, knowledge, or behaviors due to regulatory deletion obligations, copyright/licensing disputes, and safety or product-policy requirements. This position paper argues that machine unlearning is overused as a term in LLM research and should be reserved for dataset-defined deletion: removing the training influence of a precisely specified forget set such that the resulting model…",
+        "category_score": 82,
+        "score_reason": "데이터 보안과 윤리에 관한 중요한 담론. 규제 대응이 중요한 기업 환경에서 AI 데이터 거버넌스 기획 시 반드시 고려해야 할 가이드라인.",
+        "keywords": [
+          "데이터 보안",
+          "기계 삭제",
+          "AI 거버넌스"
+        ],
+        "planning_insight": "기업 내 AI 도입 시, 개인정보나 민감 데이터 제거를 위한 기술적 명확성을 확보해야 하며, 이는 장기적인 리스크 관리 전략의 일환임."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+      "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260627135408",
+      "published_at": "2026-06-27T13:54:08+09:00",
+      "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+      "category_score": 95,
+      "score_reason": "구글 제미나이의 '컴퓨터 유즈' 기능은 AI가 단순 텍스트 생성을 넘어 실제 PC 환경을 제어하는 '에이전트'로 진화하는 중대한 기술 트렌드임.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "컴퓨터 유즈"
+      ],
+      "planning_insight": "단순 콘텐츠 생성을 넘어 브라우징, 결제, 데이터 입력 등 복합적 업무를 자동화하는 '에이전트 중심 UX'로 서비스 기획 방향을 전환해야 함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "제미나이 3.5 플래시, PC 환경을 직접 제어하는 '컴퓨터 유즈' 기능 통합",
+      "importance_reason": "AI가 단순 생성형 모델에서 실제 업무를 수행하는 에이전트로 진화하는 결정적 변곡점이며, 서비스 생산성의 패러다임을 바꿈."
+    },
+    {
+      "rank": 2,
+      "id": "4acaa52fa48fd5bba091373b4c21c3343d6638501b87e3bd4c7396e6e849bcfe",
+      "title": "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629112425",
+      "published_at": "2026-06-29T11:36:20+09:00",
+      "summary": "[지디넷코리아]정부가 한국형 AI 산업혁명 완수를 목표로 반도체, 피지컬 AI, AI 데이터센터 등 ‘3대 메가프로젝트’의 구체적인 청사진을 공개한다. 향후 10년간 총투자 규모가 2000조원을 상회할 것으로 관측되는 등 역대 최대 규모의 국가적 대도약 사업이 본격화될 전망이다.이재명 대통령은 29일 오후 2시 청와대 영빈관에서 ‘회복을 넘어 대도약으로, 초격차 대한민국’이라는 슬로건 아래 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 주재한다.앞서 강유정 청와대 수석대변인은 지난 28일 브리핑을 통해 이 같은 일정과 함께 이번 행사에는 이재용 삼성전자 회장과 최태원 SK그룹 회장이 직접 참석한다고 밝혔다.이번 메가프로젝트의 핵심은 호남, 충청, 영남 등 비수도권 지역을 중심으로 미래 AI 인프라를 전방위로 구축하는 내용이 핵심 골자이다. 우선 광주·전남을 비롯한 호남권에는 삼성전자와 SK하이닉스가 전공정 팹(Fab)을 포함한 대규모 반도체 클러스터를 조성한다. 1기당 건설 비…",
+      "category_score": 98,
+      "score_reason": "반도체, AI 데이터센터 등 국가 차원의 2000조 규모 메가프로젝트 발표는 시장 전반의 체질을 바꾸는 가장 강력한 신호임.",
+      "keywords": [
+        "AI 인프라",
+        "국가 전략",
+        "반도체"
+      ],
+      "planning_insight": "거대 인프라 구축에 따른 산업군 변화(데이터센터, 전력, 소부장)를 예측하고, 이에 발맞춘 장기적인 리서치 및 B2B 마케팅 콘텐츠 기획이 필요함.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "정부 주도 2000조 규모 AI·반도체 메가프로젝트 청사진 발표",
+      "importance_reason": "국가 단위의 인프라 투자 방향은 향후 10년의 비즈니스 생태계를 결정하며, 관련 B2B 산업 및 콘텐츠 리서치의 핵심 나침반이 됨."
+    },
+    {
+      "rank": 3,
+      "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "published_at": "2026-06-29T13:00:00+09:00",
+      "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+      "category_score": 95,
+      "score_reason": "LLM 에이전트의 핵심 난제인 '지식 업데이트(Memory-Update)'를 다룸. 에이전트 기반 서비스 구축 시 기획자가 반드시 고려해야 할 컨텍스트 관리 기술임.",
+      "keywords": [
+        "LLM 에이전트",
+        "메모리 관리",
+        "데이터 업데이트"
+      ],
+      "planning_insight": "동적 정보를 다루는 대화형 서비스 설계 시, 에이전트의 '정보 오염'을 방지하고 정확성을 보장하기 위한 기술적 가이드라인으로 활용 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM 에이전트의 지식 업데이트 실패 문제를 해결하는 메모리 관리 모델 연구",
+      "importance_reason": "AI가 실제 서비스 환경에서 항상 최신 정보를 유지해야 하는 과제를 해결할 실마리를 제공하며, 에이전트 서비스 품질의 핵심 기술임."
+    },
+    {
+      "rank": 4,
+      "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+      "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+      "published_at": "2026-06-29T11:36:06+09:00",
+      "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+      "category_score": 95,
+      "score_reason": "기존 플랫폼의 리소스를 활용한 신규 비즈니스 모델 발굴 및 PMF 탐색 과정이 상세히 기술되어 있어 서비스 기획과 전략 수립에 매우 유익함.",
+      "keywords": [
+        "플랫폼 전략",
+        "버티컬 서비스",
+        "PMF"
+      ],
+      "planning_insight": "새로운 서비스를 기획할 때, 기업이 보유한 기존 유저 베이스의 페인 포인트를 어떻게 신규 모델로 연결할지에 대한 실행 전략(Build-up)을 도출하는 데 최적.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "당근의 중고거래 리소스를 활용한 레슨/과외 서비스 확산 모델",
+      "importance_reason": "슈퍼앱 환경에서 기존 유저 트래픽을 활용해 새로운 버티컬 시장을 창출하는 마켓플레이스 전략의 좋은 교본임."
+    },
+    {
+      "rank": 5,
+      "id": "d60aacfd30d17e6d1385bd19a19ca8bd24b16c8ae4f176459e9dbd1665cec437",
+      "title": "전국민 AI 경진대회, 개막 3개월 만에 참가자 100만명 돌파",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629114724",
+      "published_at": "2026-06-29T12:00:04+09:00",
+      "summary": "[지디넷코리아]정부가 주도하는 전국민 인공지능(AI) 경진대회가 개막 3개월 만에 참가자 100만 명을 넘어서며 흥행 중이다. 과학기술정보통신부는 지난 26일을 기점으로 전국민 AI 경진대회 참가자가 100만 명을 돌파했다고 29일 밝혔다. 경진대회는 AI 퀴즈풀이, AI 활용 창작 활동, AI 기반 문제해결 및 기술·서비스 개발, AI 활용사례 공모 등 다양한 프로그램으로 구성돼 초중고 학생부터 청년, 어르신까지 연령과 배경에 관계없이 누구나 참여할 수 있도록 운영하고 있다.프로그램별 참여 현황을 보면 5억원의 최고 상금이 걸린 전문가 대상 'AI챔피언'과 대학생 대상 'AI루키'에는 1124개팀이 신청해 현재 200개팀이 본선 과정을 진행 중이다. 초중고 학생 대상 'AI창작대회'와 '로보틱스 챌린지'는 2726명이 모집됐으며, 9월까지 전국 권역 지역예선이 이어질 예정이다. 온라인으로 게임처럼 AI를 체험하는 '클릭온 AI'에는 69만명, AI가 출제한 퀴즈를 푸는 'AI퀴즈…",
+      "category_score": 89,
+      "score_reason": "전국민 AI 경진대회 참가자 100만 명 돌파는 대중의 AI 문해력(Literacy)이 급속도로 향상되고 있음을 보여주는 소비자 행동 변화 신호임.",
+      "keywords": [
+        "AI 리터러시",
+        "대중화",
+        "소비자 행동"
+      ],
+      "planning_insight": "기초적인 AI 소개 콘텐츠 수요는 감소하고, 특정 도메인에 특화된 심화 활용법이나 에이전트 기반 콘텐츠에 대한 시장 요구가 커질 것임을 시사함.",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "전국민 AI 경진대회 참가자 100만 명 돌파, AI 문해력의 급속한 확산",
+      "importance_reason": "대중의 AI 활용 역량이 상향 평준화되고 있음을 입증하는 현상으로, 타겟 오디언스의 AI 수준에 대한 기획 방향성을 재설정해야 함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 82,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 14,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "기술적 성숙도가 단순 생성을 넘어 '실제 업무 제어(에이전트)'와 '상태 관리(메모리)' 단계로 진입했습니다.",
+    "정부 주도의 거대 인프라 투자와 소비자들의 AI 리터러시 향상이 맞물리며, AI가 산업 전반의 필수 기반이 되고 있습니다.",
+    "플랫폼들은 기존 자산을 기반으로 AI 기능을 결합한 '버티컬 확장'에 집중하고 있으며, 기획자들은 파편화된 정보를 종합하는 에이전트 중심의 전략 수립이 필요합니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

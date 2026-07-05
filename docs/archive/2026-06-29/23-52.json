@@ -1,0 +1,495 @@
+{
+  "briefing_date": "2026-06-29",
+  "generated_at": "2026-06-29T23:52:12.290619+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 2,
+    "ai_data": 10
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "a65e6aea0713df06326b3d58fc3eb716f615b495307b38edf87e728782a623ea",
+        "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629222727",
+        "published_at": "2026-06-29T22:27:27+09:00",
+        "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억 달러), 아마존(Amazon), 메타(Meta) 등 4대 하이퍼스케일러의 올해 자본지출 합계는 4,520억 달러(약 694조 원)를 넘어선 것으로 집계됐다. 이스라엘 국내총생산(GDP)보다 큰 금액이다. 반면 마이크로소프트의 AI 서비스는 최근 4개 분기 970억 달러를 쓰는 동안 연환산 370억 달러의 매출을 냈다. 1달러를 써서 38센트를 거둔 수준이다.앤트로픽(Anthropic)은…",
+        "category_score": 98,
+        "score_reason": "AI 기술 투자 대비 실질적인 수익(ROI)에 대한 회의론이 대두되는 시점에서, 4대 빅테크의 천문학적 자본지출 규모와 수익률 격차를 분석하여 시장 변화의 본질적인 신호를 포착함.",
+        "keywords": [
+          "AI",
+          "ROI",
+          "자본지출",
+          "빅테크"
+        ],
+        "planning_insight": "AI 거품론 및 투자의 내실화에 대한 담론이 형성되고 있음. 향후 콘텐츠 전략 수립 시 'AI 도입 자체'보다 'AI를 통한 실질적인 비용 절감 및 수익 창출 모델'의 성공 사례를 발굴하는 것이 핵심."
+      },
+      {
+        "rank": 2,
+        "id": "4aa17e968a68cb9c9e10780e04c40be3070ed0204388a8e25028395aeb39c10b",
+        "title": "광주팹 800조, AIDC 1000조…단군이래 최대 투자",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12085904",
+        "published_at": "2026-06-29T18:01:17+09:00",
+        "summary": "대한민국의 산업 구조를 인공지능(AI) 시대에 맞춰 개편하는 '대역사(大役事)'가 첫발을 뗐다. 29일 정부는 청와대에서 이재명 대통령 주재로 국민보고회를 열고 반도체, 피지컬 A..",
+        "category_score": 95,
+        "score_reason": "국가 단위의 AI 인프라(AIDC) 및 피지컬 AI 클러스터 구축은 향후 10년 이상 지속될 거대 트렌드임. 정부와 대기업의 대규모 자금 투입은 산업 생태계 전반의 변화를 예고함.",
+        "keywords": [
+          "AI인프라",
+          "AIDC",
+          "피지컬AI",
+          "국가전략"
+        ],
+        "planning_insight": "국가적 AI 클러스터 조성에 따른 연관 산업(전력, 냉각, 데이터 학습 등)의 기회 요인을 파악하고, 지역 균형 발전과 연계된 테크 트렌드 리포트 콘텐츠 구성이 유효함."
+      },
+      {
+        "rank": 3,
+        "id": "265c44686ec77178f273dc7ff90683d1411998db52e66cd29ad2d69948a10a4d",
+        "title": "지니언스, 버그바운티 포상금 상반기 1046% 증가",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629215601",
+        "published_at": "2026-06-29T21:56:01+09:00",
+        "summary": "[지디넷코리아]사이버보안 전문기업 지니언스(대표 이동범)가 2026년 상반기 자사의 ‘보안 취약점 신고 포상제’를 운영한 결과, 취약점 접수 건수가 전년 동기 대비 약 129%, 지급 포상금은 약 1046% 증가한 것으로 나타났다.AI 기술 대중화와 고위험 취약점 출현이 맞물린 결과다. AI 기술이 급격히 발전하면서 화이트해커들의 AI 활용도 역시 크게 높아졌다. 특히 AI를 활용해 보안 취약점을 자동으로 찾아내는 탐지 활동이 새로운 트렌드로 자리매김하고 있다.보안 취약점 신고 포상제(이하 버그 바운티)는 소프트웨어나 웹 서비스의 보안 약점을 찾아낸 화이트해커에게 포상금을 지급하는 제도다. 최근 AI를 악용한 초고속·대규모의 지능화된 AI 위협이 일상화되면서 기존 사후 조치 중심의 정보보안 체계는 근본적인 한계에 도달했다는 평가다.단일 보안 사고가 대형 재난으로 비화되는 것을 막고 위협을 선제적으로 찾아 제거하는 능동형 상시 예방 체계로의 패러다임 전환이 시급하다. 이에, 보안 취…",
+        "category_score": 92,
+        "score_reason": "AI를 활용한 보안 위협 지능화와 그에 대응하는 화이트해커의 자동화 탐지 활동 증가는 AI 시대의 보안 패러다임이 어떻게 재편되는지를 보여주는 매우 시의성 있는 지표임.",
+        "keywords": [
+          "AI보안",
+          "버그바운티",
+          "지능형위협",
+          "사이버보안"
+        ],
+        "planning_insight": "단순 사건 사고를 넘어 '능동형 상시 예방 체계'로 전환되는 보안 트렌드를 콘텐츠화. 기술적 지식이 부족한 독자에게 AI 보안 위협의 일상화와 대응력을 체감할 수 있는 콘텐츠 전략 필요."
+      },
+      {
+        "rank": 4,
+        "id": "e572e166da2e51dfbf3cac56c0dd09effdf6dc9e4fcb973085a23908b626b6e7",
+        "title": "구글이 '인터랙션스 AI'로 키운 개발 생태계…\"요금·보안은 과제\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629111156",
+        "published_at": "2026-06-29T12:32:20+09:00",
+        "summary": "[지디넷코리아]구글딥마인드가 인공지능(AI) 개발 생태계에서 '제미나이' 영향력을 확대하기 위한 전략을 제시했다.29일 IT 업계에 따르면 구글답마인드는 제미나이 애플리케이션 개발 인터페이스(API)인 '인터랙션스 API'를 정식 출시해 개발 환경을 한층 업그레이드했다. 그동안 모델 호출·답변 제공에 그쳤던 API 적용 범위를 에이전트 실행 중심으로 확장하기 위한 목표다.인터랙션스 API는 통합 엔드포인트에서 제미나이 모델 호출과 에이전트 실행을 동시 처리할 수 있다. 개발자는 추론 작업에 모델 ID를 전달하고 자율 작업에 에이전트 ID를 전달하기만 하면 된다. 이번 발표 핵심은 API 역할이 모델 호출에서 에이전트 업무 실행 관리로 넓어졌다는 점이다. 그동안 개발자가 프롬프트를 보내면 API가 모델을 호출해 답을 받아오는 방식에 그쳤다. 인터랙션스 API는 에이전트 실행을 비롯한 작업 상태 관리, 도구 연결, 백그라운드 처리까지 한 흐름에서 지원한다.매니지드 에이전트는 개발자가…",
+        "category_score": 89,
+        "score_reason": "단순 모델 호출을 넘어 'AI 에이전트(Agent)' 단위의 업무 실행 및 자율적 작업이 플랫폼 핵심 역량으로 부상 중임을 구글의 전략을 통해 명확히 제시함.",
+        "keywords": [
+          "AI에이전트",
+          "플랫폼",
+          "자동화",
+          "제미나이"
+        ],
+        "planning_insight": "AI의 활용 단위가 '채팅(Q&A)'에서 '실행(Action)'으로 이동하고 있음. 콘텐츠 산업에서도 AI 에이전트가 어떤 업무를 대체하고 자동화할 수 있는지 구체적인 워크플로우를 제시하는 콘텐츠가 고관여 독자를 끌어들일 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "612e77a324b58e2620d30b1707e27acc941533ed3e5cbe6558bfac257888dd61",
+        "title": "피지컬 AI 선점 위해 '팀 코리아' 뭉쳐야…데이터 구매·공장 수출 등 제안",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629182121",
+        "published_at": "2026-06-29T18:31:15+09:00",
+        "summary": "[지디넷코리아]주요 피지컬 인공지능(AI) 스타트업이 한자리에 모여 글로벌 시장 선점을 위한 원팀 구축과 정부 지원을 촉구했다. 글로벌 빅테크와 경쟁에서 이기려면 국내 기업 간 연합군 형성과 데이터 확보가 필수라고 봤기 때문이다. 류중희 리얼월드 대표는 29일 청와대에서 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 \"리얼월드의 오픈소스 파운데이션 모델이 엔비디아를 제치고 글로벌 벤치마크 1위를 차지했다\"며 \"거대언어모델(LLM)에서 정부가 독자 파운데이션 모델을 개발하는 것처럼 피지컬 AI도 대기업, 강소기업, 컴퓨팅 기업으로 연합군을 구성하면 글로벌 초격차를 달성할 수 있을 것\"이라고 밝혔다.현장의 로 데이터(Raw Data) 수집 프로세스를 혁신해야 한다는 목소리도 나왔다. 엄윤설 에이로봇 대표는 \"로봇 기업에 가장 필요한 것은 실제 작업자의 동작 데이터지만, 기업마다 형식과 기준이 달라 데이터 취득이 매우 어렵다\"고 지적했다.엄 대표는 '에고센트릭(바디캠 착용)…",
+        "category_score": 85,
+        "score_reason": "피지컬 AI(로봇) 분야의 글로벌 경쟁에서 살아남기 위한 기업 간 연합군(팀 코리아) 형성 및 데이터 규격화 논의는 시장의 실질적인 해결책을 고민하는 변화의 신호임.",
+        "keywords": [
+          "피지컬AI",
+          "로봇",
+          "데이터연합",
+          "산업생태계"
+        ],
+        "planning_insight": "피지컬 AI가 제조 현장뿐만 아니라 일상 서비스 로봇으로 확장될 때 발생하는 데이터 파편화 문제를 다룸. 협업 모델과 기술 규격화의 필요성을 콘텐츠로 풀어내 기업 관계자 및 투자자 대상 인사이트를 제공해야 함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+        "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+        "published_at": "2026-06-29T11:36:06+09:00",
+        "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+        "category_score": 95,
+        "score_reason": "기존 플랫폼의 인프라를 활용하여 신규 버티컬 서비스를 빌딩하는 PMF 탐색 과정과 제품 전략이 구체적으로 기술되어 있음. 서비스 기획자의 관점에서 시장 진입과 확장의 인사이트를 제공함.",
+        "keywords": [
+          "PMF",
+          "서비스 기획",
+          "마켓플레이스",
+          "제품 전략"
+        ],
+        "planning_insight": "성숙한 플랫폼 안에서 유저의 페인포인트를 발견하고, 1인 팀 단위의 빠른 실험과 반복을 통해 서비스 범위를 전국으로 확장하는 단계별 운영 전략 및 구조적 의사결정 사례를 확보할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "49e04088f8c688c5b7f7995de60e0f1ce78c718c032957b3aed619c6bd5cbac0",
+        "title": "End to End 유저 모니터링 RUM 으로 한방에 해결!!",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9227131",
+        "published_at": "2026-06-29T20:06:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 End To End 모니터링을 별도의 작업없이 제공 받을수 있는 nFront RUM 서비스를 소개합니다. 내부 솔루션만으로 구현한 서비스로 별도의 비용 없이 AI report까지 제공되는 Real User Monitoring 서비스 입니다. 발표 대상 서비스 품질 측정과 모니터링 작업에 관심있는 개발자 목차 RUM (Real User Monitoring )이란? 측정 방식 외부 솔루션과의 차이 AI 분석 리포트 소개 Dashboard 소개 구성 요약 기술 부록 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEER…",
+        "category_score": 85,
+        "score_reason": "UX 개선과 서비스 품질 관리를 위한 RUM(Real User Monitoring) 도입 사례임. 데이터 기반의 성능 지표가 사용자 경험에 미치는 영향과 AI를 통한 인사이트 도출 방식을 보여줌.",
+        "keywords": [
+          "UX",
+          "RUM",
+          "데이터 분석",
+          "AI 리포트"
+        ],
+        "planning_insight": "개발 비용을 최소화하고 내부 솔루션으로 사용자 경험 데이터를 시각화하는 방식은 콘텐츠 전략가에게 서비스 내 유저 행동 추적과 데이터 분석 지표 설계의 기준을 제시함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+        "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27472",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+        "category_score": 95,
+        "score_reason": "AI 에이전트의 핵심 난제인 '기억 업데이트(Memory-Update)' 문제를 다루며, 실제 비즈니스 환경에서의 데이터 변화를 에이전트가 어떻게 처리할지에 대한 실무적 통찰을 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "메모리",
+          "데이터 동기화"
+        ],
+        "planning_insight": "에이전트 도입 시 시시각각 변하는 실시간 정보 반영 메커니즘 구축이 필수적임을 시사함."
+      },
+      {
+        "rank": 2,
+        "id": "a392976f64fbec645cd142508e42579d3fd63d115d7fbf3662fb4333d955a853",
+        "title": "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27380",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27380v1 Announce Type: new Abstract: Automated coaching for oral presentations sits at the intersection of computer-assisted pronunciation training (CAPT), prosody modeling, and speech synthesis, yet no prior work has systematically surveyed and compared existing systems along these dimensions. This survey reviews and categorizes automated presentation coaching systems, spanning pronunciation tutors, fluency and prosody coaches, multimodal trainers, and conference Q&A practice tools.…",
+        "category_score": 92,
+        "score_reason": "멀티모달 AI를 활용한 코칭 시스템을 정리하여, 콘텐츠 자동화 및 교육/평가 플랫폼 개발에 직접적인 레퍼런스가 됨.",
+        "keywords": [
+          "멀티모달",
+          "자동화",
+          "콘텐츠 코칭"
+        ],
+        "planning_insight": "사람의 발표나 커뮤니케이션을 자동 분석하고 피드백을 주는 에이전트형 콘텐츠 서비스 기획에 활용 가능함."
+      },
+      {
+        "rank": 3,
+        "id": "8f4230a1bf94072cec0dc50ba7c6cbd6c1ce4fbf11012a6dd7eb96c1c365fd59",
+        "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27595",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27595v1 Announce Type: new Abstract: Web-agent benchmarks overwhelmingly measure depth -- pinning one obscure answer behind a chain of constraints -- while breadth, exhaustively enumerating a closed set and filling each item's attributes, is barely evaluated, especially outside English. Breadth is also hard to build: certifying that a gold set is complete and every cell correct is far costlier than checking a single answer. I introduce \\textsc{Ko-WideSearch}, a Korean breadth-search…",
+        "category_score": 88,
+        "score_reason": "한국어 환경에서 웹 에이전트의 데이터 수집 및 정보 정렬 능력을 평가하는 벤치마크로, 실무 데이터 자동 수집 전략 수립에 중요함.",
+        "keywords": [
+          "웹 에이전트",
+          "한국어 데이터",
+          "데이터 자동화"
+        ],
+        "planning_insight": "웹 에이전트 기반의 정보 조사 자동화 시스템 구축 시, 단순 검색을 넘어선 체계적인 데이터 리스트업 성능을 고려해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "fed69c256829413a6ab3396e4bf0d466f13aba1c9147824325a4af51dcd10816",
+        "title": "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27550",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27550v1 Announce Type: new Abstract: Multi-token prediction has been shown to increase data density during training, improve downstream text-generation quality, and serves as the defacto approach for self-speculative decoding. Existing foundation and open source models that use MTP heads commit to a static tree-based attention topology throughout the entire generation sequence, meaning the speculation depth, and thus the compute required during verification, stays constant regardless…",
+        "category_score": 85,
+        "score_reason": "LLM 추론 비용과 속도를 최적화하는 기술로, 대규모 콘텐츠 생성 서비스를 운영할 때 필수적인 인프라 효율성 최적화 지표를 제시함.",
+        "keywords": [
+          "LLM 추론",
+          "효율화",
+          "생성 최적화"
+        ],
+        "planning_insight": "비용 효율적인 실시간 콘텐츠 생성기 구축을 위해 최신 추론 가속 기법(MTP) 적용 여부를 검토해야 함."
+      },
+      {
+        "rank": 5,
+        "id": "3ba4e2924db99a7177e07f1f5b32921ebce2d14e7b19bc2e8cc0511c6fa9891c",
+        "title": "Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27446",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27446v1 Announce Type: new Abstract: This paper describes team HSA_CORAL's submission to the FinCausal 2026 shared task on extracting cause-effect relations from financial narratives via extractive question answering in English and Spanish. We compare three modeling families: (i) encoder-only token tagging with multilingual BERT, (ii) encoder-decoder generation with multilingual BART, and (iii) decoder-only LLMs (Llama 3.1 and GPT variants) using prompt refinement, few-shot demonstra…",
+        "category_score": 82,
+        "score_reason": "특정 도메인(금융) 데이터에 최적화된 LLM 접근 방식을 보여주며, 복잡한 인과관계 분석 콘텐츠 제작에 응용 가능함.",
+        "keywords": [
+          "LLM",
+          "데이터 분석",
+          "도메인 특화"
+        ],
+        "planning_insight": "전문 도메인 기반의 답변 정확도를 높이기 위해 프롬프트 정교화와 파인튜닝의 조화로운 전략 수립이 필요함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e572e166da2e51dfbf3cac56c0dd09effdf6dc9e4fcb973085a23908b626b6e7",
+      "title": "구글이 '인터랙션스 AI'로 키운 개발 생태계…\"요금·보안은 과제\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629111156",
+      "published_at": "2026-06-29T12:32:20+09:00",
+      "summary": "[지디넷코리아]구글딥마인드가 인공지능(AI) 개발 생태계에서 '제미나이' 영향력을 확대하기 위한 전략을 제시했다.29일 IT 업계에 따르면 구글답마인드는 제미나이 애플리케이션 개발 인터페이스(API)인 '인터랙션스 API'를 정식 출시해 개발 환경을 한층 업그레이드했다. 그동안 모델 호출·답변 제공에 그쳤던 API 적용 범위를 에이전트 실행 중심으로 확장하기 위한 목표다.인터랙션스 API는 통합 엔드포인트에서 제미나이 모델 호출과 에이전트 실행을 동시 처리할 수 있다. 개발자는 추론 작업에 모델 ID를 전달하고 자율 작업에 에이전트 ID를 전달하기만 하면 된다. 이번 발표 핵심은 API 역할이 모델 호출에서 에이전트 업무 실행 관리로 넓어졌다는 점이다. 그동안 개발자가 프롬프트를 보내면 API가 모델을 호출해 답을 받아오는 방식에 그쳤다. 인터랙션스 API는 에이전트 실행을 비롯한 작업 상태 관리, 도구 연결, 백그라운드 처리까지 한 흐름에서 지원한다.매니지드 에이전트는 개발자가…",
+      "category_score": 89,
+      "score_reason": "단순 모델 호출을 넘어 'AI 에이전트(Agent)' 단위의 업무 실행 및 자율적 작업이 플랫폼 핵심 역량으로 부상 중임을 구글의 전략을 통해 명확히 제시함.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "플랫폼 전략"
+      ],
+      "planning_insight": "콘텐츠 제작 과정을 'AI 보조(Copilot)'에서 'AI 주도(Agent)'로 전환하기 위한 업무 프로세스 재설계가 필요함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글 '인터랙션스 API' 출시로 AI의 역할이 단순 Q&A에서 업무 실행(Action)형 에이전트로 전면 이동.",
+      "importance_reason": "AI 활용의 핵심이 '생성'에서 '수행'으로 진화하고 있음을 보여주는 결정적 신호로, 서비스 기획의 판도를 바꿀 핵심 동력임."
+    },
+    {
+      "rank": 2,
+      "id": "a65e6aea0713df06326b3d58fc3eb716f615b495307b38edf87e728782a623ea",
+      "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629222727",
+      "published_at": "2026-06-29T22:27:27+09:00",
+      "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억 달러), 아마존(Amazon), 메타(Meta) 등 4대 하이퍼스케일러의 올해 자본지출 합계는 4,520억 달러(약 694조 원)를 넘어선 것으로 집계됐다. 이스라엘 국내총생산(GDP)보다 큰 금액이다. 반면 마이크로소프트의 AI 서비스는 최근 4개 분기 970억 달러를 쓰는 동안 연환산 370억 달러의 매출을 냈다. 1달러를 써서 38센트를 거둔 수준이다.앤트로픽(Anthropic)은…",
+      "category_score": 98,
+      "score_reason": "AI 기술 투자 대비 실질적인 수익(ROI)에 대한 회의론이 대두되는 시점에서, 4대 빅테크의 천문학적 자본지출 규모와 수익률 격차를 분석하여 시장 변화의 본질적인 신호를 포착함.",
+      "keywords": [
+        "AI ROI",
+        "자본지출 효율화",
+        "빅테크"
+      ],
+      "planning_insight": "AI 도입 시 '비용 대비 효과(효율성)'를 강조하는 레포트나 콘텐츠 전략 수립으로 의사결정권자를 설득할 타임라인 제시.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "빅테크의 694조 규모 AI 투자가 ROI 검증 단계에 진입하며 'AI 거품론'과 실질적 가치 창출이 화두로 부상.",
+      "importance_reason": "무분별한 AI 도입보다 비즈니스 임팩트 중심의 실용주의적 AI 접근 방식이 시장의 요구사항이 되고 있음."
+    },
+    {
+      "rank": 3,
+      "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+      "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+      "published_at": "2026-06-29T11:36:06+09:00",
+      "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+      "category_score": 95,
+      "score_reason": "기존 플랫폼의 인프라를 활용하여 신규 버티컬 서비스를 빌딩하는 PMF 탐색 과정과 제품 전략이 구체적으로 기술되어 있음. 서비스 기획자의 관점에서 시장 진입과 확장의 인사이트를 제공함.",
+      "keywords": [
+        "PMF",
+        "버티컬 서비스",
+        "서비스 빌딩"
+      ],
+      "planning_insight": "초기 1인 팀 단위의 빠른 실험과 PMF 찾기 사례를 벤치마킹하여 콘텐츠 서비스의 MVP(최소 기능 제품) 기획안 수립.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "당근이 커뮤니티 기반 신뢰 자산을 활용해 레슨/과외로 비즈니스 영역을 성공적으로 확장한 빌딩 사례.",
+      "importance_reason": "데이터와 기존 트래픽을 활용한 성공적인 확장 전략은 신규 비즈니스 및 콘텐츠 모델 설계에 실질적인 방법론을 제공함."
+    },
+    {
+      "rank": 4,
+      "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "published_at": "2026-06-29T13:00:00+09:00",
+      "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+      "category_score": 95,
+      "score_reason": "AI 에이전트의 핵심 난제인 '기억 업데이트(Memory-Update)' 문제를 다루며, 실제 비즈니스 환경에서의 데이터 변화를 에이전트가 어떻게 처리할지에 대한 실무적 통찰을 제공함.",
+      "keywords": [
+        "AI 메모리",
+        "데이터 업데이트",
+        "LLM 에이전트"
+      ],
+      "planning_insight": "AI 기반 콘텐츠 자동화 시 실시간 외부 데이터 반영 메커니즘을 고려한 기술 아키텍처 검토 필요.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "AI 에이전트의 치명적 한계인 '기억 업데이트(Memory-Update)' 문제를 다루며 데이터 실시간성의 중요성을 제기.",
+      "importance_reason": "지속적인 정보 교류가 필요한 대화형 AI 서비스나 콘텐츠 운영 시 데이터 동기화 최적화는 필수 기술적 과제임."
+    },
+    {
+      "rank": 5,
+      "id": "265c44686ec77178f273dc7ff90683d1411998db52e66cd29ad2d69948a10a4d",
+      "title": "지니언스, 버그바운티 포상금 상반기 1046% 증가",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629215601",
+      "published_at": "2026-06-29T21:56:01+09:00",
+      "summary": "[지디넷코리아]사이버보안 전문기업 지니언스(대표 이동범)가 2026년 상반기 자사의 ‘보안 취약점 신고 포상제’를 운영한 결과, 취약점 접수 건수가 전년 동기 대비 약 129%, 지급 포상금은 약 1046% 증가한 것으로 나타났다.AI 기술 대중화와 고위험 취약점 출현이 맞물린 결과다. AI 기술이 급격히 발전하면서 화이트해커들의 AI 활용도 역시 크게 높아졌다. 특히 AI를 활용해 보안 취약점을 자동으로 찾아내는 탐지 활동이 새로운 트렌드로 자리매김하고 있다.보안 취약점 신고 포상제(이하 버그 바운티)는 소프트웨어나 웹 서비스의 보안 약점을 찾아낸 화이트해커에게 포상금을 지급하는 제도다. 최근 AI를 악용한 초고속·대규모의 지능화된 AI 위협이 일상화되면서 기존 사후 조치 중심의 정보보안 체계는 근본적인 한계에 도달했다는 평가다.단일 보안 사고가 대형 재난으로 비화되는 것을 막고 위협을 선제적으로 찾아 제거하는 능동형 상시 예방 체계로의 패러다임 전환이 시급하다. 이에, 보안 취…",
+      "category_score": 92,
+      "score_reason": "AI를 활용한 보안 위협 지능화와 그에 대응하는 화이트해커의 자동화 탐지 활동 증가는 AI 시대의 보안 패러다임이 어떻게 재편되는지를 보여주는 매우 시의성 있는 지표임.",
+      "keywords": [
+        "AI 보안",
+        "능동형 방어",
+        "버그바운티"
+      ],
+      "planning_insight": "사용자 데이터 보호 및 콘텐츠 보안을 위한 '선제적 예방 콘텐츠 가이드라인' 제작으로 플랫폼 신뢰도 강화.",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "AI를 활용한 보안 취약점 공격의 일상화에 따라, 보안 패러다임이 사후 대응에서 상시 자동 예방으로 전환.",
+      "importance_reason": "AI 기술의 확산에 따른 보안 리스크 관리와 데이터 보호는 콘텐츠 플랫폼의 지속 가능성을 결정짓는 필수 리스크 관리 요소임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 82,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 26,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업이 자본 투입 단계에서 실질적인 ROI를 검증하고 서비스 가치를 증명해야 하는 전환기에 들어섰습니다.",
+    "기술의 초점이 모델 성능 위주에서 에이전트의 실행력과 데이터 관리, 그리고 보안 패러다임 변화로 구체화되고 있습니다.",
+    "성숙한 플랫폼 인프라 내에서 고객 경험을 다각화하려는 비즈니스 빌딩 전략이 중요한 실천적 대안으로 떠오르고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "briefing_date": "2026-06-29",
+  "generated_at": "2026-06-29T09:17:59.136274+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 190,
+    "tech_blog": 0,
+    "ai_data": 10
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "9fe597cfe9f015ff1f2d95025023d918ae7103eedd0734082d4ff243d66c424a",
+        "title": "SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628183359",
+        "published_at": "2026-06-28T18:33:59+09:00",
+        "summary": "[지디넷코리아]SK그룹의 AI 기업 연합체인 ‘K-AI 얼라이언스’가 글로벌 협력 확대에 속도를 낸다.SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리 멘로파크에서 연례 행사 ‘유나이트 2026’을 열었다고 밝혔다. 행사에는 유영상 SK AI위원장을 비롯해 SK텔레콤, SK하이닉스 관계자와 K-AI 얼라이언스 회원사, 글로벌 벤처캐피털, AWS 등 빅테크 관계자 60여 명이 참석했다.K-AI 얼라이언스는 2023년 SK텔레콤 주도로 출범한 AI 기업 연합체다. 출범 당시 7개사로 시작했지만 현재는 AI 반도체, 인프라, 모델, 애플리케이션 등 주요 분야 50개 기업이 참여하는 조직으로 확대됐다. 회원사 중 35% 이상은 미국, 싱가포르, 일본 등 해외에 본사를 두고 있다.올해부터는 운영 주체가 SK텔레콤에서 SK수펙스추구협의회 산하 AI위원회로 확대됐다. 이에 따라 K-AI 얼라이언스는 SK그룹 차원 AI 협력 플랫폼 성격을 강화하게 됐다.이번 행사에서는 중장기…",
+        "category_score": 98,
+        "score_reason": "SK그룹의 'K-AI 얼라이언스' 확대는 AI 생태계 구축을 위한 구체적인 플랫폼 전략으로, 향후 산업 전반에 미칠 파급력이 매우 큼.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "SK",
+          "생태계"
+        ],
+        "planning_insight": "국내외 주요 플레이어가 참여하는 기업 연합체 모델은 AI 기술의 실질적 사업화와 산업 적용 속도를 높이는 중요한 트렌드임."
+      },
+      {
+        "rank": 2,
+        "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+        "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260627135408",
+        "published_at": "2026-06-27T13:54:08+09:00",
+        "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+        "category_score": 95,
+        "score_reason": "AI가 단순 텍스트 생성을 넘어 마우스·키보드를 직접 제어하는 'AI 에이전트'로 진화하는 신호를 포착함.",
+        "keywords": [
+          "AI",
+          "에이전트",
+          "자동화"
+        ],
+        "planning_insight": "AI 에이전트가 소프트웨어를 직접 조작하는 단계로 접어들면서, 향후 'AI 워크스페이스' 환경에 최적화된 콘텐츠 생산 전략이 필요함."
+      },
+      {
+        "rank": 3,
+        "id": "3eadb4a9884a11683e0b4ee40f83359e38d985155c624642bb2f2d734974c317",
+        "title": "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628094714",
+        "published_at": "2026-06-28T11:10:44+09:00",
+        "summary": "[지디넷코리아]틱톡이 숏폼 영상 플랫폼을 넘어 쇼핑, 여행 예약, 금융, 스포츠, 콘텐츠를 하나로 묶는 '슈퍼앱' 구축에 속도를 내고 있다. 미국에서는 틱톡샵 거래액이 급증하고 호텔 예약 기능까지 추가되면서 아마존과 구글, 온라인 여행 플랫폼을 동시에 겨냥하는 모습이다. 다만 서구권 이용자들의 서비스 이용 습관과 규제 장벽이 여전히 넘어야 할 과제로 꼽힌다.최근 외신 더넥스트웹에 따르면 틱톡은 지난 1년간 쇼핑과 호텔 예약, 스포츠 허브, 캐주얼 게임, 마이크로드라마, 핀테크 등 다양한 기능을 잇달아 추가하며 단순 동영상 플랫폼을 넘어 생활 플랫폼으로 사업 영역을 넓히고 있다.슈퍼앱은 메신저를 기반으로 결제와 쇼핑, 교통, 행정서비스 등을 하나의 애플리케이션에서 제공하는 서비스를 뜻한다. 대표 사례는 중국의 위챗과 더우인이다.특히 모회사 바이트댄스는 중국판 틱톡인 더우인에서 AI 쇼핑 에이전트와 결제, 공연·여행 예약 등을 이미 성공적으로 운영하고 있다. 틱톡 역시 이 같은 모델을…",
+        "category_score": 92,
+        "score_reason": "틱톡이 숏폼을 넘어 쇼핑, 금융 등 생활 밀착형 '슈퍼앱'으로 전환하는 것은 플랫폼 시장의 중요한 소비자 행동 변화임.",
+        "keywords": [
+          "플랫폼",
+          "슈퍼앱",
+          "커머스"
+        ],
+        "planning_insight": "플랫폼 간의 경계가 무너지고 하나의 앱에서 모든 생활 기능이 통합되는 슈퍼앱 시대에 맞춰 커머스 및 마케팅 전략 재설계가 필수적임."
+      },
+      {
+        "rank": 4,
+        "id": "132ae87306ac4e2b4ef60b7060497029bb9876efcb1f7dc83ac5e65939297a27",
+        "title": "퀄컴, 텐스토렌트 인수 타진…설계부터 연결까지 '탈 Arm' 가속",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260626171646",
+        "published_at": "2026-06-27T09:00:01+09:00",
+        "summary": "[지디넷코리아]퀄컴이 짐 켈러가 이끄는 인공지능(AI) 반도체 스타트업 텐스토렌트 인수를 추진 중이다. 엔비디아가 장악한 AI 반도체 시장 내 경쟁력 강화로 읽히지만, 업계는 텐스토렌트의 'RISC-V(리스크파이브)' 기술력에 주목한다. 이는 영국 설계자산(IP) 기업 'Arm' 생태계에서 벗어나, 독자 아키텍처 노선을 구축하려는 퀄컴의 '탈(脫) Arm' 시나리오가 본격화했음을 시사한다.27일 반도체 업계에서는 이번 인수설을 Arm과 라이선스 분쟁 속에서 '아키텍처 독립'을 선언하겠다는 퀄컴의 의지란 풀이가 나온다. 최근 인터페이스 기술 기업 알파웨이브세미를 전격 인수한 데 이어 리스크파이브 설계 역량까지 내재화해, 설계부터 연결에 이르는 전 과정을 독자 생태계로 통제하겠다는 구상이다. 퀄컴이 Arm과 결별을 준비하는 배경에는 라이선스 분쟁이 있다. 퀄컴은 서버용 칩 기업 누비아를 인수하며 스냅드래곤 라인업에 독자 설계 코어를 탑재했다. 이에 Arm은 누비아의 라이선스가 퀄컴으로…",
+        "category_score": 89,
+        "score_reason": "퀄컴의 텐스토렌트 인수 타진은 특정 IP(Arm) 의존에서 벗어나 AI 반도체 생태계를 직접 독자 구축하려는 핵심 변화 신호임.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "기술 패권"
+        ],
+        "planning_insight": "기술 기업들이 생태계 독립성을 위해 기술 자립화를 강화하는 흐름은 향후 비즈니스 공급망 전체의 변화를 예고함."
+      },
+      {
+        "rank": 5,
+        "id": "cc26e5fee98a00b82cd3e9259bf6f3ea36a3bcb965a3b5d6091d7e655ff53d7a",
+        "title": "\"1000만명 찾은 예산시장처럼\"…더본코리아, 지역개발 사업 키운다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260628151854",
+        "published_at": "2026-06-29T08:00:02+09:00",
+        "summary": "[지디넷코리아]충남 예산군은 인구 감소와 상권 침체로 대표적인 지방 소멸 위기 지역으로 꼽혀왔다. 전통시장 역시 방문객이 줄어들며 활력을 잃었고, 지역 경제 전반에 어려움이 이어졌다.이 같은 상황에서 민간 기업과 지자체가 협력해 전통시장 중심으로 지역을 되살리는 시도가 시작됐다. 먹거리와 관광, 지역 특산물을 결합한 방식으로 외부 방문객을 유입시키고 상권을 회복시키는 전략이다.그 결과 예산시장은 단순한 전통시장을 넘어 지역을 대표하는 관광 거점으로 자리 잡기 시작했다. 군은 하루 10명 남짓 찾던 충남 예산시장이 누적 방문객 1000만명을 넘긴 지역 관광 거점으로 바뀌었다고 설명했다. 더본코리아는 지난 26일 충남 예산 더본 외식산업교육관 제2관에서 ‘더본코리아 ESG 상생프로젝트 예산 지역개발 미디어 간담회’를 열고 예산시장 활성화 과정과 향후 지역개발 사업 방향을 설명했다.회사는 예산시장 사례를 바탕으로 지역 특산물과 먹거리, 전통시장 상권, 관광 콘텐츠를 연결하는 지역개발 사…",
+        "category_score": 85,
+        "score_reason": "민간 기업(더본코리아)과 지자체 협력을 통한 전통시장 관광 콘텐츠화는 지역 소멸 위기 대응 및 상생 커머스의 표준 사례로 자리 잡음.",
+        "keywords": [
+          "커머스",
+          "지역개발",
+          "상생"
+        ],
+        "planning_insight": "단순 오프라인 매장을 넘어 콘텐츠와 지역 특산물을 결합한 체험형 커머스 모델은 지속 가능한 브랜딩의 좋은 사례로 확장 가능함."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "38534cbc63a079e7c02cae6f1f411bfaaa2fdd5193dcd652bacf4ec18f402007",
+        "title": "Context Recycling for Long-Horizon LLM Inference",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26105",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26105v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong capabilities in short-context reasoning but degrade in performance over long conversational horizons due to context window limitations and inefficient token usage. We introduce ContextForge, a system for context recycling that maintains task-relevant information across turns by combining structured query generation, external memory retrieval, and controlled synthesis. The system enables efficient reuse o…",
+        "category_score": 95,
+        "score_reason": "긴 대화 맥락 유지 및 외부 메모리 검색을 통한 RAG 최적화 기술로, 자동화된 콘텐츠 시스템 구축의 핵심 엔진임.",
+        "keywords": [
+          "LLM",
+          "RAG",
+          "컨텍스트 관리"
+        ],
+        "planning_insight": "긴 호흡의 콘텐츠를 생성하거나 고객 상담 자동화 시 이전 대화 맥락을 효과적으로 보존하여 일관성 있는 사용자 경험 설계 가능."
+      },
+      {
+        "rank": 2,
+        "id": "5101d9ee5d23af537a02ddf32387132e75d3478cabc9b119d0aa03e3282d1c0a",
+        "title": "From Lexicon to AI: A Structured-Data Pipeline for Specialized Conversational Systems in Low-Resource Languages",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26112",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26112v1 Announce Type: new Abstract: Low-resource languages face a critical challenge in AI development: creating specialized conversational systems without access to massive training corpora. We present a systematic methodology for transforming structured linguistic resources into specialized AI systems, demonstrating that expert-curated lexical databases can serve as effective foundations for conversational AI development. Our approach converts Hindi WordNet into 1.25 million diver…",
+        "category_score": 92,
+        "score_reason": "구조화된 데이터를 활용한 AI 시스템 구축 방법론으로, 기업 내 지식 자산을 AI 서비스로 연결하는 실무적 가이드임.",
+        "keywords": [
+          "데이터 파이프라인",
+          "구조화 데이터",
+          "특화 AI"
+        ],
+        "planning_insight": "회사 내부의 정형화된 데이터나 사전을 AI 학습 파이프라인에 즉시 이식하여 고품질의 도메인 특화 챗봇이나 추천 시스템 구현 가능."
+      },
+      {
+        "rank": 3,
+        "id": "561c75d9ea6f2bd8b2ee8d19fe21ad8b318eb73f832fd989f48d2eac9b281db4",
+        "title": "Know2Guess: A Contamination-Aware Multi-Zone Benchmark for Knowledge-Boundary Evaluation in Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26101",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26101v1 Announce Type: new Abstract: Reliable evaluation of large language models should separate supported answering from unsupported guessing without conflating either with data contamination, prompt idiosyncrasy, or generic refusal behavior. We present a contamination-aware, multi-zone benchmark for measuring the transition from answerable knowledge to abstention-expected unknowns under frozen build-time labels. The benchmark contains 1,200 items across five domains, explicit abst…",
+        "category_score": 88,
+        "score_reason": "LLM의 지식 경계와 신뢰성을 평가하는 벤치마크로서, AI 에이전트의 출력물을 검증하는 프로세스 수립에 필수적임.",
+        "keywords": [
+          "LLM 평가",
+          "데이터 신뢰성",
+          "벤치마크"
+        ],
+        "planning_insight": "AI 기반 자동 생성 콘텐츠의 오류를 사전에 필터링하고, 에이전트가 답변 가능한 영역인지 판단하는 통제 프로세스 구축에 활용."
+      },
+      {
+        "rank": 4,
+        "id": "fae231520a10e86791c128b2e6501490efb70213da6b182027487f8d78ec1948",
+        "title": "HierBias: Context-Conditioned Hierarchical Media Bias Detection with Multi-Task Type Classification",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26100",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26100v1 Announce Type: new Abstract: Media bias detection is a critical task for ensuring fair and balanced information dissemination, yet existing sentence-level approaches classify each sentence independently, ignoring inter-sentence contextual signals that human annotators naturally exploit. We present \\textbf{HierBias}, a hierarchical context-conditioned media bias detector that formally models document context in bias prediction. We introduce the \\emph{context-conditioned bias p…",
+        "category_score": 85,
+        "score_reason": "문서 간 맥락을 분석하는 미디어 편향 탐지 기술로, 대규모 콘텐츠의 자동 분석 및 등급 분류에 최적화됨.",
+        "keywords": [
+          "콘텐츠 분석",
+          "자동화",
+          "미디어 분석"
+        ],
+        "planning_insight": "뉴스, 블로그 등 대량의 콘텐츠를 자동으로 모니터링하여 편향성을 제거하거나 브랜드 가이드라인 준수 여부를 자동 체크하는 시스템 구현."
+      },
+      {
+        "rank": 5,
+        "id": "476f0cb0f03e21e9be8b206456fbeb26071cefdecf37d5a28b1260ff12e833c7",
+        "title": "Where Larger Models Excel: The Primacy of Constraint-Guided Reasoning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.26108",
+        "published_at": "2026-06-26T13:00:00+09:00",
+        "summary": "arXiv:2606.26108v1 Announce Type: new Abstract: Larger language models consistently outperform smaller ones on reasoning benchmarks, yet the reasoning differences underlying this gap remain underexplored. Across benchmarks in mathematics, physics, chemistry, and programming, we observe stable performance gaps: averaged over datasets, Qwen3-32B outperforms Qwen3-8B by 6.43%, while GPT-OSS-120B exceeds GPT-OSS-20B by 7.38%. To study the reasoning differences behind these gains, we develop AdvClus…",
+        "category_score": 82,
+        "score_reason": "모델 크기와 추론 성능의 관계를 분석하여 기획 단계에서 적정 모델 선택을 위한 의사결정 근거를 제공함.",
+        "keywords": [
+          "모델 최적화",
+          "LLM 성능",
+          "비용 효율화"
+        ],
+        "planning_insight": "모든 서비스에 무조건 최고 사양 모델을 쓸 필요 없이, 제약 조건 기반의 효율적 추론 모델을 선택하여 운영 비용 최적화 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e0eb94489d3ef8c0eaa8c2c14ecbe73990de2287861183ba68667a8362348172",
+      "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260627135408",
+      "published_at": "2026-06-27T13:54:08+09:00",
+      "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된 별도의 제미나이 2.5 컴퓨터 유즈 모델을 통해서만 쓸 수 있었지만, 이제는 함수 호출, 검색 그라운딩, 지도 연동을 이미 지원하던 같은 모델 안에 네이티브 도구로 통합됐다. 제미나이 3.5 플래시 에이전트 하나가 화면을 보고, 검색으로 정보를 찾고, 지도와 상호작용하는 작업을 여러 모델 사이를 오가지 않고 한 번에 처리한다. 개발자 입장에서는 여러 모델을 엮어 붙이던 복잡성이 줄어든다.…",
+      "category_score": 95,
+      "score_reason": "AI가 단순 텍스트 생성을 넘어 마우스·키보드를 직접 제어하는 'AI 에이전트'로 진화하는 신호를 포착함.",
+      "keywords": [
+        "AI 에이전트",
+        "컴퓨터 유즈",
+        "자동화"
+      ],
+      "planning_insight": "향후 AI 에이전트가 브라우저 내에서 직접 업무를 수행하게 되므로, AI의 '인지 효율성'을 극대화할 수 있는 인터페이스와 콘텐츠 구성 방식의 재설계가 필요함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글 제미나이 3.5 플래시, 마우스와 키보드를 직접 제어하는 '컴퓨터 유즈' 기능 탑재",
+      "importance_reason": "AI가 단순 텍스트 생성을 넘어 사용자 대신 소프트웨어를 직접 조작하는 '실행형 에이전트' 시대로의 명확한 전환점임."
+    },
+    {
+      "rank": 2,
+      "id": "3eadb4a9884a11683e0b4ee40f83359e38d985155c624642bb2f2d734974c317",
+      "title": "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260628094714",
+      "published_at": "2026-06-28T11:10:44+09:00",
+      "summary": "[지디넷코리아]틱톡이 숏폼 영상 플랫폼을 넘어 쇼핑, 여행 예약, 금융, 스포츠, 콘텐츠를 하나로 묶는 '슈퍼앱' 구축에 속도를 내고 있다. 미국에서는 틱톡샵 거래액이 급증하고 호텔 예약 기능까지 추가되면서 아마존과 구글, 온라인 여행 플랫폼을 동시에 겨냥하는 모습이다. 다만 서구권 이용자들의 서비스 이용 습관과 규제 장벽이 여전히 넘어야 할 과제로 꼽힌다.최근 외신 더넥스트웹에 따르면 틱톡은 지난 1년간 쇼핑과 호텔 예약, 스포츠 허브, 캐주얼 게임, 마이크로드라마, 핀테크 등 다양한 기능을 잇달아 추가하며 단순 동영상 플랫폼을 넘어 생활 플랫폼으로 사업 영역을 넓히고 있다.슈퍼앱은 메신저를 기반으로 결제와 쇼핑, 교통, 행정서비스 등을 하나의 애플리케이션에서 제공하는 서비스를 뜻한다. 대표 사례는 중국의 위챗과 더우인이다.특히 모회사 바이트댄스는 중국판 틱톡인 더우인에서 AI 쇼핑 에이전트와 결제, 공연·여행 예약 등을 이미 성공적으로 운영하고 있다. 틱톡 역시 이 같은 모델을…",
+      "category_score": 92,
+      "score_reason": "틱톡이 숏폼을 넘어 쇼핑, 금융 등 생활 밀착형 '슈퍼앱'으로 전환하는 것은 플랫폼 시장의 중요한 소비자 행동 변화임.",
+      "keywords": [
+        "슈퍼앱",
+        "틱톡",
+        "플랫폼 전략"
+      ],
+      "planning_insight": "콘텐츠는 이제 단순 유입 수단이 아니라 '결제 및 예약'과 즉각 연결되는 커머스 도구로 기획되어야 하며, 슈퍼앱 생태계에 적합한 수직적 통합 콘텐츠 기획이 요구됨.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "틱톡, 숏폼을 넘어 커머스·여행·금융을 통합하는 '슈퍼앱'으로의 전략적 진화",
+      "importance_reason": "콘텐츠 소비 플랫폼이 생활 밀착형 커머스 플랫폼으로 전환되는 흐름은 브랜드의 채널 확장 및 체류 시간 점유 전략에 필수적인 정보임."
+    },
+    {
+      "rank": 3,
+      "id": "38534cbc63a079e7c02cae6f1f411bfaaa2fdd5193dcd652bacf4ec18f402007",
+      "title": "Context Recycling for Long-Horizon LLM Inference",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.26105",
+      "published_at": "2026-06-26T13:00:00+09:00",
+      "summary": "arXiv:2606.26105v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong capabilities in short-context reasoning but degrade in performance over long conversational horizons due to context window limitations and inefficient token usage. We introduce ContextForge, a system for context recycling that maintains task-relevant information across turns by combining structured query generation, external memory retrieval, and controlled synthesis. The system enables efficient reuse o…",
+      "category_score": 95,
+      "score_reason": "긴 대화 맥락 유지 및 외부 메모리 검색을 통한 RAG 최적화 기술로, 자동화된 콘텐츠 시스템 구축의 핵심 엔진임.",
+      "keywords": [
+        "RAG",
+        "컨텍스트 관리",
+        "자동화"
+      ],
+      "planning_insight": "긴 호흡의 뉴스레터, 정기 보고서, 혹은 장기 고객 상담 챗봇 구축 시 이전 맥락을 효과적으로 재활용하여 일관된 톤앤매너와 정확한 답변을 도출하는 시스템 도입이 가능함.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "LLM 긴 대화의 맥락을 효율적으로 유지하는 'Context Recycling' 기술 연구",
+      "importance_reason": "AI 기반 콘텐츠 생성 시 가장 큰 걸림돌인 '기억력 한계'를 기술적으로 해결하여 일관성 있는 브랜드 스토리텔링 자동화의 가능성을 제시함."
+    },
+    {
+      "rank": 4,
+      "id": "9fe597cfe9f015ff1f2d95025023d918ae7103eedd0734082d4ff243d66c424a",
+      "title": "SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260628183359",
+      "published_at": "2026-06-28T18:33:59+09:00",
+      "summary": "[지디넷코리아]SK그룹의 AI 기업 연합체인 ‘K-AI 얼라이언스’가 글로벌 협력 확대에 속도를 낸다.SK AI위원회는 K-AI 얼라이언스가 지난 26일 미국 실리콘밸리 멘로파크에서 연례 행사 ‘유나이트 2026’을 열었다고 밝혔다. 행사에는 유영상 SK AI위원장을 비롯해 SK텔레콤, SK하이닉스 관계자와 K-AI 얼라이언스 회원사, 글로벌 벤처캐피털, AWS 등 빅테크 관계자 60여 명이 참석했다.K-AI 얼라이언스는 2023년 SK텔레콤 주도로 출범한 AI 기업 연합체다. 출범 당시 7개사로 시작했지만 현재는 AI 반도체, 인프라, 모델, 애플리케이션 등 주요 분야 50개 기업이 참여하는 조직으로 확대됐다. 회원사 중 35% 이상은 미국, 싱가포르, 일본 등 해외에 본사를 두고 있다.올해부터는 운영 주체가 SK텔레콤에서 SK수펙스추구협의회 산하 AI위원회로 확대됐다. 이에 따라 K-AI 얼라이언스는 SK그룹 차원 AI 협력 플랫폼 성격을 강화하게 됐다.이번 행사에서는 중장기…",
+      "category_score": 98,
+      "score_reason": "SK그룹의 'K-AI 얼라이언스' 확대는 AI 생태계 구축을 위한 구체적인 플랫폼 전략으로, 향후 산업 전반에 미칠 파급력이 매우 큼.",
+      "keywords": [
+        "AI 얼라이언스",
+        "생태계",
+        "협업"
+      ],
+      "planning_insight": "자체 기술 개발보다 산업 내 유력 얼라이언스나 인프라 파트너십을 활용해 AI 서비스 타임 투 마켓을 단축하는 전략적 제휴 콘텐츠 기획이 중요해짐.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "SK 'K-AI 얼라이언스' 확대 및 글로벌 협력 강화, AI 생태계 주도권 확보 전략",
+      "importance_reason": "AI 기술은 개별 기업의 역량이 아닌 연합체(Ecosystem)를 통해 사업화되는 흐름을 보여주며, 향후 B2B 협업과 서비스 런칭의 핵심 플랫폼을 시사함."
+    },
+    {
+      "rank": 5,
+      "id": "5101d9ee5d23af537a02ddf32387132e75d3478cabc9b119d0aa03e3282d1c0a",
+      "title": "From Lexicon to AI: A Structured-Data Pipeline for Specialized Conversational Systems in Low-Resource Languages",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.26112",
+      "published_at": "2026-06-26T13:00:00+09:00",
+      "summary": "arXiv:2606.26112v1 Announce Type: new Abstract: Low-resource languages face a critical challenge in AI development: creating specialized conversational systems without access to massive training corpora. We present a systematic methodology for transforming structured linguistic resources into specialized AI systems, demonstrating that expert-curated lexical databases can serve as effective foundations for conversational AI development. Our approach converts Hindi WordNet into 1.25 million diver…",
+      "category_score": 92,
+      "score_reason": "구조화된 데이터를 활용한 AI 시스템 구축 방법론으로, 기업 내 지식 자산을 AI 서비스로 연결하는 실무적 가이드임.",
+      "keywords": [
+        "데이터 파이프라인",
+        "도메인 특화 AI",
+        "구조화 데이터"
+      ],
+      "planning_insight": "사내의 오래된 문서, 매뉴얼, 고객 대응 로그를 단순 아카이빙하는 것을 넘어, 이를 AI 서비스의 지식 베이스로 즉각 변환하는 '데이터 리모델링' 프로젝트의 근거 자료로 활용 가능.",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "구조화된 언어 자원을 활용하여 특화 AI 시스템을 구축하는 방법론",
+      "importance_reason": "방대한 일반 학습 데이터보다 기업이 가진 고유한 구조화 데이터를 AI에 효과적으로 학습시키는 실무적 접근법을 제시함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 82,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 25,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 텍스트 생성을 넘어 마우스·키보드 조작(에이전트)과 같은 실질적 업무 자동화 영역으로 진입했습니다.",
+    "틱톡과 같은 콘텐츠 플랫폼이 커머스 및 서비스 통합형 슈퍼앱으로 진화하며 플랫폼 간의 경계가 무너지고 있습니다.",
+    "기술적 측면에서는 RAG와 데이터 구조화를 통해 모델의 기억력과 도메인 적합성을 높이는 실무 중심의 최적화 흐름이 강세를 보입니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

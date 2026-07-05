@@ -1,0 +1,455 @@
+{
+  "briefing_date": "2026-07-04",
+  "generated_at": "2026-07-04T21:13:31.567144+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 0,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "b9e433e90b6c6c7ac3cc5deb8a32ac4d017222cb77d07b5009c051da0b717165",
+        "title": "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703155300",
+        "published_at": "2026-07-04T09:21:11+09:00",
+        "summary": "[지디넷코리아]마이크로소프트(MS)가 주가 하락과 코파일럿 성장성 우려가 이어지자 오는 8월 소비자용과 기업용 코파일럿을 하나의 앱으로 통합해 자구책 마련에 나선다. 유료 에이전트 기능을 새로 추가하고 성과가 부진한 기능은 정리해 제품 전반을 실제 업무 중심으로 재편한다는 구상이다. 3일(현지시간) 디인포메이션에 따르면 제이콥 안드레우 MS 코파일럿 담당 수석부사장(EVP)은 최근 임직원에게 보낸 약 1200자 분량의 사내 메모를 통해 이 같은 사실을 공개했다.통합 앱에는 유료 신규 기능인 에이전트 '오토파일럿'이 포함된다. 오토파일럿은 상시 작동 상태를 유지하면서 사용자를 대신해 반복 업무를 처리하는 기능이다. 앞서 공개된 일정 관리·수신 메일 요약 기능의 에이전트 '스카우트'와 연계되는 후속 기능이다.성과가 저조한 기능들은 이번 통합을 계기로 정리된다. 사용자가 올린 웹사이트나 문서를 기반으로 팟캐스트를 만들어주는 '코파일럿 팟캐스트'가 서비스를 중단하고, 실험적 기능을 모아둔…",
+        "category_score": 98,
+        "score_reason": "AI 제품의 전략적 통합과 에이전트(오토파일럿) 도입은 생성형 AI가 단순한 도구에서 업무 수행의 주체로 진화하는 핵심 트렌드임.",
+        "keywords": [
+          "AI",
+          "에이전트",
+          "통합"
+        ],
+        "planning_insight": "개별 AI 기능들을 하나의 앱으로 통합하여 사용자의 업무 흐름을 끊김 없이 관리하는 'AI 에이전트 플랫폼' 전략이 필수가 될 것임."
+      },
+      {
+        "rank": 2,
+        "id": "9d5149129bd80a21394609a831b0bf12d2a6bbaa7d4475fbd24b22bbc4eb2da1",
+        "title": "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703110717",
+        "published_at": "2026-07-03T12:13:21+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기업들이 고객사 현장에 엔지니어를 직접 투입하는 전방배치 엔지니어링(FDE) 조직을 앞세워 기업용 시장 공략에 속도를 내고 있다. 생성형 AI 도입이 실험 단계를 넘어 실제 업무 전환으로 확산되면서 AI 경쟁축도 모델 성능에서 현장 배포 역량으로 이동하는 모습이다.3일 업계에 따르면 마이크로소프트(MS)는 최근 25억 달러를 투자해 신규 사업 조직 '프런티어 컴퍼니'를 출범시켰다. MS는 산업 전문가와 엔지니어 6000명을 고객 현장에 배치해 AI 시스템을 공동 설계·구축하고 측정 가능한 비즈니스 성과를 기준으로 지속 개선한다는 방침이다.AWS도 최근 FDE 조직에 10억 달러를 투자하겠다고 밝혔다. 고객사의 비즈니스·엔지니어링·보안팀과 협력해 에이전트형 AI 솔루션을 공동 개발하고 실제 업무 환경에 배포하는 것이 골자다.FDE는 엔지니어가 고객 조직 안으로 들어가 업무 흐름, 데이터 구조, 보안 체계, 의사결정 방식을 이해한 뒤 실제 운영 가능한 A…",
+        "category_score": 92,
+        "score_reason": "기업이 AI 도입 시 단순 성능을 넘어 '현장 배포 역량(FDE)'으로 경쟁 축이 이동하고 있음을 시사하는 중요한 시장 변화 신호임.",
+        "keywords": [
+          "AI",
+          "기업용솔루션",
+          "디지털전환"
+        ],
+        "planning_insight": "AI 도입의 성패를 가르는 것은 모델 그 자체가 아니라 고객 현장의 데이터와 프로세스를 이해하고 통합하는 엔지니어링 역량에 집중해야 함."
+      },
+      {
+        "rank": 3,
+        "id": "4cf8de4550f62880db63a4122157636c1f786429f060f13794993a26aa32b147",
+        "title": "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703135108",
+        "published_at": "2026-07-03T15:15:09+09:00",
+        "summary": "[지디넷코리아]SK네트웍스 자회사 인크로스가 AI 기반 마케팅 솔루션 개발 등을 통해 통합 마케팅 회사로 전환한다. 인크로스는 AI가 일상화된 환경에 발맞춰 AI 기반 마케팅 솔루션을 개발하고 있다고 3일 밝혔다. 이 회사는 시장 분석과 캠페인 운영 자동화, 광고 소재 최적화, 인플루언서 마케팅 효율 극대화 등 광고, 마케팅 전 과정에서 AI 솔루션을 개발하고 있다. 이를 통해 단순 광고 대행을 넘어, 통합 마케팅 컴퍼니로 전환을 이룬다는 전략이다.자체 AI 생태계 구축에도 속도를 내고 있다. 사내 AI에이전트 ‘아이노바’를 기반으로 전 구성원이 AI를 업무에 활용할 수 있는 환경을 구축하고 있다.인크로스는 디지털 마케팅 시장 흐름을 분석한 2026 상반기 마케팅 트렌드 결산 리포트에서 'AI 일상 인프라화'와 '콘텐츠 경험 재편'을 트렌드로 꼽았다. 리포트에 따르면 AI는 일상과 업무에서 누구나 쓰는 기본 인프라로 자리 잡았다. AI가 일상과 업무 전반에 깊숙이 자리 잡으며 마케…",
+        "category_score": 88,
+        "score_reason": "광고 대행사가 AI 마케팅 솔루션 개발사로 체질을 개선하는 것은 플랫폼 및 마케팅 시장의 구조적 변화를 보여주는 전형적인 사례임.",
+        "keywords": [
+          "광고",
+          "마케팅",
+          "AI"
+        ],
+        "planning_insight": "단순 광고 대행 업무는 AI 자동화로 대체될 것이므로, 캠페인 운영과 데이터 분석 전 과정을 통합 관리하는 AI 솔루션 중심의 비즈니스 전환이 필수적임."
+      },
+      {
+        "rank": 4,
+        "id": "3632d2b02420aebf67a78a2d1d15bcd84b18538a644da22b1b5e40460e317160",
+        "title": "\"필요한 곳만 고쳐요\"...오늘의집 부분 시공 계약, 1년새 3배↑",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703153318",
+        "published_at": "2026-07-03T15:45:55+09:00",
+        "summary": "[지디넷코리아]고금리와 공사비 상승으로 집을 통째로 고치는 전면 리모델링의 부담이 커지면서, 낡거나 불편한 공간만 골라 고치는 ‘부분 시공’이 새로운 주거 소비 트렌드로 자리 잡고 있다. 3일 관련업계에 따르면 라이프스타일 플랫폼 오늘의집 직접 시공 사업도 이 흐름을 타고 성장 중이다. 오늘의집 부분시공의 올 6월 계약금액은 지난해 같은 기간보다 3배 가량 늘었고, 주방 카테고리는 서비스 출시 1년 만에 16배 뛰었다.부분 시공이 뜨는 배경에는 비용 부담이 있다. 한국건설기술연구원 공사비원가관리센터에 따르면 지난 5월 건설공사비 지수는 137.67로 사상 최고치를 기록했다. 전년 동월 대비 5.07% 오른 수치로, 코로나19 이전인 2019년 12월(98.63)과 비교하면 약 40% 높다. 전면 리모델링 견적이 부담스러운 수준으로 뛰면서, 소비자들은 ‘다 뜯는’ 대신 ‘필요한 곳만 고치는’ 쪽으로 눈을 돌리고 있다. 반면 손봐야 할 집은 계속 늘고 있다. 국토교통부 전국 건축물 통…",
+        "category_score": 85,
+        "score_reason": "소비자가 전면적인 리모델링 대신 부분 시공을 선택하는 것은 고금리·고물가 시대의 구체적인 소비 행동 변화를 반영함.",
+        "keywords": [
+          "소비자행동",
+          "커머스",
+          "플랫폼"
+        ],
+        "planning_insight": "거시 경제적 요인(비용 상승)에 따른 소비자들의 '필요 중심(need-based) 미세 소비' 트렌드를 포착하고 이를 지원하는 플랫폼의 역할이 중요함."
+      },
+      {
+        "rank": 5,
+        "id": "dccf724f5d64202b44e1741193a4fa522b75c146f462ab3c439ec0f545b88309",
+        "title": "퍼스널에이아이, 마이데이터 플랫폼 '마이디' 알린다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703140059",
+        "published_at": "2026-07-03T14:00:59+09:00",
+        "summary": "[지디넷코리아]퍼스널에이아이(대표 이재영)가 4일까지 코엑스마곡에서 열리는 '2026 일잘러 페스타'에 참가해 마이데이터 플랫폼 '마이디'를 소개한다.2026 일잘러 페스타는 '일의 본질을 묻다'를 주제로, AI와 자동화가 확산되는 시대에 개인과 조직이 일하는 방식을 어떻게 다시 설계할 것인지를 조망하는 행사다. 퍼스널에이아이는 이번 행사에서 데이터를 단순히 소비하는 방식을 넘어, 개인이 자신의 데이터를 직접 소유하고 자산으로 활용하는 새로운 업무·경제 패러다임을 제안한다.마이디는 사용자가 금융(은행·카드), 쇼핑, 건강(진료·건강검진 기록), 관심사(검색·시청 이력) 등 일상에서 쌓이는 생활 데이터 가운데 원하는 데이터만 선택해 거래하고 포인트로 보상받을 수 있다. 적립한 포인트는 각종 페이 상품이나 모바일 쿠폰 등 현금처럼 사용할 수 있다.마이디는 데이터를 외부 서버로 보내지 않고 사용자 스마트폰 단말기 내부에서 직접 분석·결합하는 온디바이스 AI 구조다. 이를 통해 개인정보…",
+        "category_score": 62,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터",
+          "검색",
+          "자동화"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "424e0bb6a395fa20ebc1f49d19cbc46651b1a007e960f447895fb09008816fd1",
+        "title": "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01293",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01293v1 Announce Type: new Abstract: We present RuleChef, a framework that uses large language models (LLMs) to generate executable rules for NLP tasks such as text classification, Named Entity Recognition (NER), or relation extraction. Rules are generated based on a task description and a set of labeled examples, then they are iteratively improved based both on additional examples and on human feedback overexisting rules. RuleChef can also be used to bootstrap rules using the observ…",
+        "category_score": 98,
+        "score_reason": "LLM을 활용한 자동화 작업에서 '인간이 수정 가능한 규칙'을 결합하는 방식은 AI 도입의 실무적 난제인 제어 가능성과 신뢰성을 해결하는 핵심 기법임.",
+        "keywords": [
+          "RuleChef",
+          "LLM",
+          "자동화",
+          "제어 가능성"
+        ],
+        "planning_insight": "AI 자동화 프로세스 구축 시, 모델의 판단에만 의존하지 않고 사람이 개입해 규칙을 미세 조정(Fine-tuning)하는 하이브리드 워크플로우를 기획에 적극 도입해야 함."
+      },
+      {
+        "rank": 2,
+        "id": "113d4b35aadc1d83fc02a054358acd89067cdf044c0a76d3830e89edc9c8cfc9",
+        "title": "Office Comprehension Benchmark",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01245",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01245v1 Announce Type: new Abstract: We introduce Office Comprehension Bench (OCB), the first public benchmark to jointly evaluate LLM systems on Word, Excel, and PowerPoint comprehension over native file formats (.docx, .xlsx, .pptx) and their variants. OCB consists of two tracks. File Fidelity Q&A tests structural and visual perception of office artifacts - tables, charts, embedded images, formulas, and app-specific elements such as headers, speaker notes, and named ranges. Domain…",
+        "category_score": 95,
+        "score_reason": "오피스 파일(Word, Excel, PPT)의 구조적 이해는 기업용 RAG 및 비즈니스 콘텐츠 자동화의 필수 요소로, 실무 활용도가 매우 높음.",
+        "keywords": [
+          "Office Comprehension",
+          "RAG",
+          "비즈니스 데이터",
+          "벤치마크"
+        ],
+        "planning_insight": "비정형 데이터 분석이나 기업용 AI 솔루션 기획 시, 일반 텍스트뿐만 아니라 복합 문서 서식을 정확히 해석하는 능력을 평가 지표로 삼아야 함."
+      },
+      {
+        "rank": 3,
+        "id": "8f5b1795bf87581cc55e1ddc17599afd0228fa0167c9dff68cd9e764bded8e80",
+        "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01236",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01236v1 Announce Type: new Abstract: As LLM agents gain increasing access to powerful tools, ensuring that their actions are aligned with the user's intent becomes critical. When an agent's proposed tool invocation deviates from the user's intent -- a phenomenon called misalignment -- it may lead to harmful consequences that are difficult to undo. Existing runtime guardrails rely on an LLM-as-a-judge paradigm that lacks a systematic framework for reasoning about alignment, often prod…",
+        "category_score": 92,
+        "score_reason": "AI 에이전트의 오작동 방지(Misalignment)는 에이전트 서비스 상용화를 위한 필수 선결 과제로, 리스크 관리 전략과 직결됨.",
+        "keywords": [
+          "AI 에이전트",
+          "안전성",
+          "거버넌스",
+          "데이터 출처"
+        ],
+        "planning_insight": "자율형 AI 에이전트를 콘텐츠 운영에 활용할 때, 결과물 생성 과정을 추적하고 검증하는 'Provenance Analysis' 기반의 가드레일 설계가 필수적임."
+      },
+      {
+        "rank": 4,
+        "id": "6eb55b170c9ecfb416b6e28f319d066523de349b91f0860de7664b8556bfe9b3",
+        "title": "Mapping Text to Multiplex Graph: Prompt Compression as L\\'evy Walk-Guided Graph Pruning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01241",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01241v1 Announce Type: new Abstract: Existing prompt compression methods treat text as flat token sequences, failing to capture the distributed nature of important information, which is often spread across multiple locations and connected through both local syntactic dependencies and global semantic relations. Such relational structure is naturally represented as a graph, where tokens or sentences become nodes and their dependencies become edges. To this end, we propose RAGP, which f…",
+        "category_score": 89,
+        "score_reason": "프롬프트 최적화 및 압축 기술은 LLM 비용 절감과 응답 속도 개선에 직접적인 영향을 주어 프로덕션 레벨의 서비스 운영 효율을 높임.",
+        "keywords": [
+          "프롬프트 압축",
+          "RAG",
+          "그래프 기반 최적화",
+          "LLM 효율화"
+        ],
+        "planning_insight": "방대한 문맥을 처리해야 하는 콘텐츠 추천 및 요약 서비스 기획 시, 데이터 관계성을 보존하는 그래프 기반 프롬프트 관리 기법을 활용해 가독성과 정확도를 높일 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "50c396f59e950572b48bb6a52b5386909153dac32de5b5be03bc38d457211f9a",
+        "title": "Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01239",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01239v1 Announce Type: new Abstract: Character-level perturbations bypass safety alignment in modern LLMs despite leaving prompts human-readable. We identify and test a central structural mechanism: BPE tokenization fragments safety-critical words into sub-word pieces, and the three public alignment datasets we surveyed contain no intentionally fragmented inputs. The mechanism is a chain, tested end-to-end on five model families (Qwen-3-4B, Qwen-2.5-7B, Gemma-3-4B, Llama-3.1-8B, Mist…",
+        "category_score": 86,
+        "score_reason": "BPE 토큰화의 취약성을 다룬 연구는 AI 서비스의 보안성 검토 시 반드시 알아야 할 기술적 사각지대임.",
+        "keywords": [
+          "보안",
+          "토큰화",
+          "LLM 얼라인먼트",
+          "리스크 관리"
+        ],
+        "planning_insight": "AI 기반 콘텐츠 생성 시스템을 설계할 때, 입력 데이터의 토큰화 방식을 고려한 방어적 프롬프트 엔지니어링과 보안 테스트 시나리오를 구성해야 함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "b9e433e90b6c6c7ac3cc5deb8a32ac4d017222cb77d07b5009c051da0b717165",
+      "title": "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703155300",
+      "published_at": "2026-07-04T09:21:11+09:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 주가 하락과 코파일럿 성장성 우려가 이어지자 오는 8월 소비자용과 기업용 코파일럿을 하나의 앱으로 통합해 자구책 마련에 나선다. 유료 에이전트 기능을 새로 추가하고 성과가 부진한 기능은 정리해 제품 전반을 실제 업무 중심으로 재편한다는 구상이다. 3일(현지시간) 디인포메이션에 따르면 제이콥 안드레우 MS 코파일럿 담당 수석부사장(EVP)은 최근 임직원에게 보낸 약 1200자 분량의 사내 메모를 통해 이 같은 사실을 공개했다.통합 앱에는 유료 신규 기능인 에이전트 '오토파일럿'이 포함된다. 오토파일럿은 상시 작동 상태를 유지하면서 사용자를 대신해 반복 업무를 처리하는 기능이다. 앞서 공개된 일정 관리·수신 메일 요약 기능의 에이전트 '스카우트'와 연계되는 후속 기능이다.성과가 저조한 기능들은 이번 통합을 계기로 정리된다. 사용자가 올린 웹사이트나 문서를 기반으로 팟캐스트를 만들어주는 '코파일럿 팟캐스트'가 서비스를 중단하고, 실험적 기능을 모아둔…",
+      "category_score": 98,
+      "score_reason": "AI 제품의 전략적 통합과 에이전트(오토파일럿) 도입은 생성형 AI가 단순한 도구에서 업무 수행의 주체로 진화하는 핵심 트렌드임.",
+      "keywords": [
+        "AI 에이전트",
+        "제품 통합",
+        "업무 자동화"
+      ],
+      "planning_insight": "개별 AI 도구 나열 방식이 아닌, 사용자의 업무 흐름(Workflow) 전체를 관통하는 'AI 에이전트 경험' 설계가 서비스/콘텐츠 기획의 핵심이 될 것임.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "MS 코파일럿의 단일 앱 통합 및 에이전트(오토파일럿) 도입 본격화",
+      "importance_reason": "파편화된 AI 기능들이 '에이전트' 플랫폼으로 수렴하는 것은 생성형 AI가 단순 챗봇에서 업무 실행 주체로 진화하는 중대한 전환점임."
+    },
+    {
+      "rank": 2,
+      "id": "9d5149129bd80a21394609a831b0bf12d2a6bbaa7d4475fbd24b22bbc4eb2da1",
+      "title": "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703110717",
+      "published_at": "2026-07-03T12:13:21+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업들이 고객사 현장에 엔지니어를 직접 투입하는 전방배치 엔지니어링(FDE) 조직을 앞세워 기업용 시장 공략에 속도를 내고 있다. 생성형 AI 도입이 실험 단계를 넘어 실제 업무 전환으로 확산되면서 AI 경쟁축도 모델 성능에서 현장 배포 역량으로 이동하는 모습이다.3일 업계에 따르면 마이크로소프트(MS)는 최근 25억 달러를 투자해 신규 사업 조직 '프런티어 컴퍼니'를 출범시켰다. MS는 산업 전문가와 엔지니어 6000명을 고객 현장에 배치해 AI 시스템을 공동 설계·구축하고 측정 가능한 비즈니스 성과를 기준으로 지속 개선한다는 방침이다.AWS도 최근 FDE 조직에 10억 달러를 투자하겠다고 밝혔다. 고객사의 비즈니스·엔지니어링·보안팀과 협력해 에이전트형 AI 솔루션을 공동 개발하고 실제 업무 환경에 배포하는 것이 골자다.FDE는 엔지니어가 고객 조직 안으로 들어가 업무 흐름, 데이터 구조, 보안 체계, 의사결정 방식을 이해한 뒤 실제 운영 가능한 A…",
+      "category_score": 92,
+      "score_reason": "기업이 AI 도입 시 단순 성능을 넘어 '현장 배포 역량(FDE)'으로 경쟁 축이 이동하고 있음을 시사하는 중요한 시장 변화 신호임.",
+      "keywords": [
+        "FDE",
+        "기업용 AI",
+        "현장 배포"
+      ],
+      "planning_insight": "AI 기획 시 기술 자체의 고도화보다 고객사의 기존 프로세스와 데이터 구조를 얼마나 깊이 이해하고 밀착시키느냐가 콘텐츠와 서비스의 차별화 포인트가 됨.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 경쟁의 축이 모델 성능에서 고객 현장 배포 역량(FDE)으로 이동",
+      "importance_reason": "AI 기술의 실험기가 끝나고 실무 현장 통합이 기업 성패를 가르는 단계에 진입했음을 보여주는 확실한 신호."
+    },
+    {
+      "rank": 3,
+      "id": "4cf8de4550f62880db63a4122157636c1f786429f060f13794993a26aa32b147",
+      "title": "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703135108",
+      "published_at": "2026-07-03T15:15:09+09:00",
+      "summary": "[지디넷코리아]SK네트웍스 자회사 인크로스가 AI 기반 마케팅 솔루션 개발 등을 통해 통합 마케팅 회사로 전환한다. 인크로스는 AI가 일상화된 환경에 발맞춰 AI 기반 마케팅 솔루션을 개발하고 있다고 3일 밝혔다. 이 회사는 시장 분석과 캠페인 운영 자동화, 광고 소재 최적화, 인플루언서 마케팅 효율 극대화 등 광고, 마케팅 전 과정에서 AI 솔루션을 개발하고 있다. 이를 통해 단순 광고 대행을 넘어, 통합 마케팅 컴퍼니로 전환을 이룬다는 전략이다.자체 AI 생태계 구축에도 속도를 내고 있다. 사내 AI에이전트 ‘아이노바’를 기반으로 전 구성원이 AI를 업무에 활용할 수 있는 환경을 구축하고 있다.인크로스는 디지털 마케팅 시장 흐름을 분석한 2026 상반기 마케팅 트렌드 결산 리포트에서 'AI 일상 인프라화'와 '콘텐츠 경험 재편'을 트렌드로 꼽았다. 리포트에 따르면 AI는 일상과 업무에서 누구나 쓰는 기본 인프라로 자리 잡았다. AI가 일상과 업무 전반에 깊숙이 자리 잡으며 마케…",
+      "category_score": 88,
+      "score_reason": "광고 대행사가 AI 마케팅 솔루션 개발사로 체질을 개선하는 것은 플랫폼 및 마케팅 시장의 구조적 변화를 보여주는 전형적인 사례임.",
+      "keywords": [
+        "AI 마케팅",
+        "자동화",
+        "콘텐츠 인프라"
+      ],
+      "planning_insight": "마케팅 콘텐츠 기획 시 단순 제작물을 넘어, 캠페인 전 과정을 자동화·최적화하는 시스템 기획 역량이 마케팅 전략가의 필수 자산이 됨.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "광고 대행사의 AI 솔루션화 및 통합 마케팅 컴퍼니로의 비즈니스 체질 개선",
+      "importance_reason": "마케팅 콘텐츠 산업 전반이 수동 작업에서 AI 인프라 기반의 자동화/최적화로 재편되는 전형적인 변화 사례."
+    },
+    {
+      "rank": 4,
+      "id": "113d4b35aadc1d83fc02a054358acd89067cdf044c0a76d3830e89edc9c8cfc9",
+      "title": "Office Comprehension Benchmark",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2607.01245",
+      "published_at": "2026-07-03T13:00:00+09:00",
+      "summary": "arXiv:2607.01245v1 Announce Type: new Abstract: We introduce Office Comprehension Bench (OCB), the first public benchmark to jointly evaluate LLM systems on Word, Excel, and PowerPoint comprehension over native file formats (.docx, .xlsx, .pptx) and their variants. OCB consists of two tracks. File Fidelity Q&A tests structural and visual perception of office artifacts - tables, charts, embedded images, formulas, and app-specific elements such as headers, speaker notes, and named ranges. Domain…",
+      "category_score": 95,
+      "score_reason": "오피스 파일(Word, Excel, PPT)의 구조적 이해는 기업용 RAG 및 비즈니스 콘텐츠 자동화의 필수 요소로, 실무 활용도가 매우 높음.",
+      "keywords": [
+        "RAG",
+        "비즈니스 문서",
+        "데이터 분석"
+      ],
+      "planning_insight": "기업용 콘텐츠 자동화나 리포트 생성 AI를 기획할 때, 단순 텍스트 처리를 넘어 표·차트·서식의 의미론적 해석을 어떻게 지원할지가 성공의 핵심 지표.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "오피스 파일(Word/Excel/PPT) 구조 이해를 위한 통합 벤치마크(OCB) 등장",
+      "importance_reason": "실제 비즈니스 환경의 데이터는 텍스트가 아닌 복합 문서 서식에 담겨 있으며, 이를 정확히 해석하는 능력이 AI 서비스의 실효성을 결정함."
+    },
+    {
+      "rank": 5,
+      "id": "dccf724f5d64202b44e1741193a4fa522b75c146f462ab3c439ec0f545b88309",
+      "title": "퍼스널에이아이, 마이데이터 플랫폼 '마이디' 알린다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703140059",
+      "published_at": "2026-07-03T14:00:59+09:00",
+      "summary": "[지디넷코리아]퍼스널에이아이(대표 이재영)가 4일까지 코엑스마곡에서 열리는 '2026 일잘러 페스타'에 참가해 마이데이터 플랫폼 '마이디'를 소개한다.2026 일잘러 페스타는 '일의 본질을 묻다'를 주제로, AI와 자동화가 확산되는 시대에 개인과 조직이 일하는 방식을 어떻게 다시 설계할 것인지를 조망하는 행사다. 퍼스널에이아이는 이번 행사에서 데이터를 단순히 소비하는 방식을 넘어, 개인이 자신의 데이터를 직접 소유하고 자산으로 활용하는 새로운 업무·경제 패러다임을 제안한다.마이디는 사용자가 금융(은행·카드), 쇼핑, 건강(진료·건강검진 기록), 관심사(검색·시청 이력) 등 일상에서 쌓이는 생활 데이터 가운데 원하는 데이터만 선택해 거래하고 포인트로 보상받을 수 있다. 적립한 포인트는 각종 페이 상품이나 모바일 쿠폰 등 현금처럼 사용할 수 있다.마이디는 데이터를 외부 서버로 보내지 않고 사용자 스마트폰 단말기 내부에서 직접 분석·결합하는 온디바이스 AI 구조다. 이를 통해 개인정보…",
+      "category_score": 62,
+      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "검색",
+        "자동화"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]퍼스널에이아이(대표 이재영)가 4일까지 코엑스마곡에서 열리는 '2026 일잘러 페스타'에 참가해 마이데이터 플랫폼 '마이디'를 소개한다.2026 일잘러 페스타는 '일의 본질을 묻다'를 주제로, AI와…",
+      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 83,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 32,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "생성형 AI가 단순 도구에서 업무 수행의 주체인 '에이전트' 플랫폼으로 통합되고 있다.",
+    "기술 성능 경쟁에서 벗어나, 현장 데이터와 프로세스를 이해하고 통합하는 '배포 역량(FDE)'으로 경쟁의 무게중심이 이동 중이다.",
+    "실무에서는 AI의 자율성과 제어 가능성을 동시에 확보하기 위한 기술적·운영적 하이브리드 워크플로우(규칙 결합, 문서 구조 이해 등) 구축이 필수화되고 있다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

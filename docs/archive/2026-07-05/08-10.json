@@ -1,0 +1,447 @@
+{
+  "briefing_date": "2026-07-05",
+  "generated_at": "2026-07-05T09:10:44.341612+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 0,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "54b739632ec368f8b4420379f5b56095de7061029dd9c4f57a99656f24a9e6d2",
+        "title": "[AI 리더스] 버티브 코리아 \"데이터센터, 인프라 속도가 전부\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260704112249",
+        "published_at": "2026-07-04T15:51:33+09:00",
+        "summary": "[지디넷코리아][조호르바루(말레이시아)=이나연 기자] \"이제 인공지능(AI) 데이터센터는 성능이 아니라 속도가 관건입니다. 그래픽처리장치(GPU)를 확보해도 제때 인프라를 갖추지 못하면 소용이 없습니다.\"이태순 버티브 코리아 대표는 1일(현지시간) 말레이시아 조호르주 세나이에서 열린 버티브 조호르 공장 개소식 직후 지디넷코리아와 만나 이같이 밝혔다.최근 AI 데이터센터 구축에서 성능만큼 중요한 것이 시간이다. GPU 확보 경쟁이 치열한 데다 서버가 도착하기 전에 전력·냉각 인프라를 구축해 곧바로 가동해야 하기 때문이다.이 대표는 \"2~3년을 끌면 새 GPU가 나오면서 기존 AI 인프라는 구형이 된다\"며 \"파이프와 전력선을 공장에서 미리 제작하고 현장에서는 조립만 하는 모듈형 방식이 해법\"이라고 설명했다.AI 인프라 구축에 나선 기업에 속도만큼 절박한 과제는 냉각이다. AI 서버의 발열이 공기만으로 감당하기 어려운 수준까지 높아지고 있어서다. 그는 \"GPU는 액체냉각으로 가지만 CP…",
+        "category_score": 98,
+        "score_reason": "AI 데이터센터 인프라(냉각·전력)의 핵심 트렌드를 다루며, 모듈형 방식이라는 실질적 산업 솔루션을 제시함.",
+        "keywords": [
+          "AI",
+          "데이터센터",
+          "인프라"
+        ],
+        "planning_insight": "AI 성숙기에 접어든 기업들의 고민은 '데이터센터 확보'에서 '빠른 인프라 구축 및 발열 해소'로 이동 중. 인프라 구축 속도를 높이는 솔루션 콘텐츠 필요."
+      },
+      {
+        "rank": 2,
+        "id": "c554362aeddd4da905c38b4bd650f68df5a24eaf94750ba55c33b2a7e0018ec2",
+        "title": "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703143221",
+        "published_at": "2026-07-03T14:48:51+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 데이터센터 전력 수요가 급증하는 가운데, 차세대 원전이 AI 인프라의 새 전력원으로 부상하고 있다. 미국 원자력 스타트업 발라 아토믹스가 첨단 원자로에서 생산한 전력으로 엔비디아 AI 칩을 구동하면서 원전 기반 AI 데이터센터에 대한 기대감도 커지고 있다.지난 1일(현지시간) 발라 아토믹스는 미국 유타주 오렌지빌 사업장에서 자사의 차세대 원자로 ‘워드 250’이 생산한 전력으로 엔비디아 블랙웰 AI 칩을 구동하는 시연을 진행했다. 생산된 전력은 극히 소량에 불과했지만, 미국에서 차세대 원자로가 AI 칩 구동에 직접 전력을 공급한 첫 사례로 평가된다. 시연에서는 해당 전력을 활용해 일시적으로 웹사이트를 호스팅했다.발라 아토믹스와 엔비디아는 원자력 기반 AI 시스템 개발 방안을 공동으로 모색하기 위한 협력도 발표했다. 양사는 발라 아토믹스의 원자로를 활용해 30MW 규모 AI 데이터센터를 구축하는 방안을 검토하고 있다. 협력이 구체화될 경우 첨단 원자력…",
+        "category_score": 95,
+        "score_reason": "AI 데이터센터 전력난을 차세대 원전(SMR)으로 해결하려는 글로벌 빅테크 및 에너지 산업의 긴밀한 연결 신호.",
+        "keywords": [
+          "AI",
+          "전력난",
+          "SMR"
+        ],
+        "planning_insight": "AI와 에너지 산업의 융합은 피할 수 없는 흐름. 'AI 데이터센터와 차세대 에너지'를 연계한 산업 전망 콘텐츠 수요 급증 예상."
+      },
+      {
+        "rank": 3,
+        "id": "b9e433e90b6c6c7ac3cc5deb8a32ac4d017222cb77d07b5009c051da0b717165",
+        "title": "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703155300",
+        "published_at": "2026-07-04T09:21:11+09:00",
+        "summary": "[지디넷코리아]마이크로소프트(MS)가 주가 하락과 코파일럿 성장성 우려가 이어지자 오는 8월 소비자용과 기업용 코파일럿을 하나의 앱으로 통합해 자구책 마련에 나선다. 유료 에이전트 기능을 새로 추가하고 성과가 부진한 기능은 정리해 제품 전반을 실제 업무 중심으로 재편한다는 구상이다. 3일(현지시간) 디인포메이션에 따르면 제이콥 안드레우 MS 코파일럿 담당 수석부사장(EVP)은 최근 임직원에게 보낸 약 1200자 분량의 사내 메모를 통해 이 같은 사실을 공개했다.통합 앱에는 유료 신규 기능인 에이전트 '오토파일럿'이 포함된다. 오토파일럿은 상시 작동 상태를 유지하면서 사용자를 대신해 반복 업무를 처리하는 기능이다. 앞서 공개된 일정 관리·수신 메일 요약 기능의 에이전트 '스카우트'와 연계되는 후속 기능이다.성과가 저조한 기능들은 이번 통합을 계기로 정리된다. 사용자가 올린 웹사이트나 문서를 기반으로 팟캐스트를 만들어주는 '코파일럿 팟캐스트'가 서비스를 중단하고, 실험적 기능을 모아둔…",
+        "category_score": 92,
+        "score_reason": "기업들이 실험적인 AI 기능을 정리하고 '업무 통합(오토파일럿/에이전트)' 중심으로 재편하는 시장의 변화를 포착.",
+        "keywords": [
+          "AI",
+          "통합 플랫폼",
+          "생산성"
+        ],
+        "planning_insight": "단순 기능을 나열하는 AI 툴보다는 '워크플로우를 자동화하는 통합 에이전트' 모델로 B2B 시장 전략이 고도화될 것."
+      },
+      {
+        "rank": 4,
+        "id": "4cf8de4550f62880db63a4122157636c1f786429f060f13794993a26aa32b147",
+        "title": "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703135108",
+        "published_at": "2026-07-03T15:15:09+09:00",
+        "summary": "[지디넷코리아]SK네트웍스 자회사 인크로스가 AI 기반 마케팅 솔루션 개발 등을 통해 통합 마케팅 회사로 전환한다. 인크로스는 AI가 일상화된 환경에 발맞춰 AI 기반 마케팅 솔루션을 개발하고 있다고 3일 밝혔다. 이 회사는 시장 분석과 캠페인 운영 자동화, 광고 소재 최적화, 인플루언서 마케팅 효율 극대화 등 광고, 마케팅 전 과정에서 AI 솔루션을 개발하고 있다. 이를 통해 단순 광고 대행을 넘어, 통합 마케팅 컴퍼니로 전환을 이룬다는 전략이다.자체 AI 생태계 구축에도 속도를 내고 있다. 사내 AI에이전트 ‘아이노바’를 기반으로 전 구성원이 AI를 업무에 활용할 수 있는 환경을 구축하고 있다.인크로스는 디지털 마케팅 시장 흐름을 분석한 2026 상반기 마케팅 트렌드 결산 리포트에서 'AI 일상 인프라화'와 '콘텐츠 경험 재편'을 트렌드로 꼽았다. 리포트에 따르면 AI는 일상과 업무에서 누구나 쓰는 기본 인프라로 자리 잡았다. AI가 일상과 업무 전반에 깊숙이 자리 잡으며 마케…",
+        "category_score": 89,
+        "score_reason": "단순 마케팅 대행사를 넘어 AI 솔루션 기반 통합 마케팅 컴퍼니로 전환하려는 중견 기업들의 구조적 변화 신호.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "플랫폼"
+        ],
+        "planning_insight": "디지털 마케팅 업계의 수익 모델이 '대행 수수료'에서 'AI 솔루션 구독 및 최적화'로 변모하는 과정을 추적할 필요."
+      },
+      {
+        "rank": 5,
+        "id": "3632d2b02420aebf67a78a2d1d15bcd84b18538a644da22b1b5e40460e317160",
+        "title": "\"필요한 곳만 고쳐요\"...오늘의집 부분 시공 계약, 1년새 3배↑",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703153318",
+        "published_at": "2026-07-03T15:45:55+09:00",
+        "summary": "[지디넷코리아]고금리와 공사비 상승으로 집을 통째로 고치는 전면 리모델링의 부담이 커지면서, 낡거나 불편한 공간만 골라 고치는 ‘부분 시공’이 새로운 주거 소비 트렌드로 자리 잡고 있다. 3일 관련업계에 따르면 라이프스타일 플랫폼 오늘의집 직접 시공 사업도 이 흐름을 타고 성장 중이다. 오늘의집 부분시공의 올 6월 계약금액은 지난해 같은 기간보다 3배 가량 늘었고, 주방 카테고리는 서비스 출시 1년 만에 16배 뛰었다.부분 시공이 뜨는 배경에는 비용 부담이 있다. 한국건설기술연구원 공사비원가관리센터에 따르면 지난 5월 건설공사비 지수는 137.67로 사상 최고치를 기록했다. 전년 동월 대비 5.07% 오른 수치로, 코로나19 이전인 2019년 12월(98.63)과 비교하면 약 40% 높다. 전면 리모델링 견적이 부담스러운 수준으로 뛰면서, 소비자들은 ‘다 뜯는’ 대신 ‘필요한 곳만 고치는’ 쪽으로 눈을 돌리고 있다. 반면 손봐야 할 집은 계속 늘고 있다. 국토교통부 전국 건축물 통…",
+        "category_score": 85,
+        "score_reason": "고물가 환경 속 소비자들이 전면 소비가 아닌 '부분 시공/필요한 것만 선택'하는 핀셋형 소비 패턴의 확산을 보여줌.",
+        "keywords": [
+          "커머스",
+          "소비 트렌드"
+        ],
+        "planning_insight": "경기 침체기에는 플랫폼 서비스도 전체 패키지 판매보다는 개인의 필요를 핀셋으로 해결해주는 '마이크로 서비스'로 전환이 중요."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "424e0bb6a395fa20ebc1f49d19cbc46651b1a007e960f447895fb09008816fd1",
+        "title": "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01293",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01293v1 Announce Type: new Abstract: We present RuleChef, a framework that uses large language models (LLMs) to generate executable rules for NLP tasks such as text classification, Named Entity Recognition (NER), or relation extraction. Rules are generated based on a task description and a set of labeled examples, then they are iteratively improved based both on additional examples and on human feedback overexisting rules. RuleChef can also be used to bootstrap rules using the observ…",
+        "category_score": 98,
+        "score_reason": "LLM을 활용한 규칙 생성 및 인간의 피드백을 반영하는 프로세스는 콘텐츠 자동화와 워크플로 최적화에 직결되는 핵심 기술임.",
+        "keywords": [
+          "LLM",
+          "자동화",
+          "업무 최적화",
+          "RuleChef"
+        ],
+        "planning_insight": "반복적인 콘텐츠 생성 및 분류 업무를 인간이 교정 가능한 규칙 기반으로 자동화하여 AI 효율을 극대화할 수 있는 전략 도구."
+      },
+      {
+        "rank": 2,
+        "id": "113d4b35aadc1d83fc02a054358acd89067cdf044c0a76d3830e89edc9c8cfc9",
+        "title": "Office Comprehension Benchmark",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01245",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01245v1 Announce Type: new Abstract: We introduce Office Comprehension Bench (OCB), the first public benchmark to jointly evaluate LLM systems on Word, Excel, and PowerPoint comprehension over native file formats (.docx, .xlsx, .pptx) and their variants. OCB consists of two tracks. File Fidelity Q&A tests structural and visual perception of office artifacts - tables, charts, embedded images, formulas, and app-specific elements such as headers, speaker notes, and named ranges. Domain…",
+        "category_score": 95,
+        "score_reason": "비즈니스 데이터(Word, Excel, PPT)를 멀티모달로 이해하는 기능은 사내 데이터 기반 콘텐츠 생성 및 분석에 필수적임.",
+        "keywords": [
+          "멀티모달",
+          "데이터 분석",
+          "Office 자동화"
+        ],
+        "planning_insight": "사내 오피스 문서 아카이브를 AI가 직접 분석하여 인사이트를 도출하고 보고서를 자동화하는 환경 구축이 가능함."
+      },
+      {
+        "rank": 3,
+        "id": "8f5b1795bf87581cc55e1ddc17599afd0228fa0167c9dff68cd9e764bded8e80",
+        "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01236",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01236v1 Announce Type: new Abstract: As LLM agents gain increasing access to powerful tools, ensuring that their actions are aligned with the user's intent becomes critical. When an agent's proposed tool invocation deviates from the user's intent -- a phenomenon called misalignment -- it may lead to harmful consequences that are difficult to undo. Existing runtime guardrails rely on an LLM-as-a-judge paradigm that lacks a systematic framework for reasoning about alignment, often prod…",
+        "category_score": 92,
+        "score_reason": "AI 에이전트의 오작동 방지 및 의도 분석 프레임워크는 기업 내 AI 도입 시 안정성 확보를 위한 필수 기획 요소임.",
+        "keywords": [
+          "AI 에이전트",
+          "거버넌스",
+          "안정성"
+        ],
+        "planning_insight": "사용자 의도와 에이전트 결과물을 정렬하는 분석 체계를 통해, AI 기반 고객 응대 및 작업 자동화 서비스의 신뢰도 제고 가능."
+      },
+      {
+        "rank": 4,
+        "id": "6eb55b170c9ecfb416b6e28f319d066523de349b91f0860de7664b8556bfe9b3",
+        "title": "Mapping Text to Multiplex Graph: Prompt Compression as L\\'evy Walk-Guided Graph Pruning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01241",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01241v1 Announce Type: new Abstract: Existing prompt compression methods treat text as flat token sequences, failing to capture the distributed nature of important information, which is often spread across multiple locations and connected through both local syntactic dependencies and global semantic relations. Such relational structure is naturally represented as a graph, where tokens or sentences become nodes and their dependencies become edges. To this end, we propose RAGP, which f…",
+        "category_score": 88,
+        "score_reason": "프롬프트 압축 기술은 대규모 RAG 시스템에서 비용 절감과 응답 속도 최적화에 직접적인 영향을 줌.",
+        "keywords": [
+          "RAG",
+          "프롬프트 최적화",
+          "비용 절감"
+        ],
+        "planning_insight": "복잡한 대형 문서들을 그래프 구조로 압축하여 컨텍스트 효율을 높임으로써, 비용 대비 성능이 뛰어난 맞춤형 챗봇/분석 시스템 구현 가능."
+      },
+      {
+        "rank": 5,
+        "id": "4e2539e46d5821999db7f258c85cc71a29ed974e8cf563817073968224b1631f",
+        "title": "Kara: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01237",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01237v1 Announce Type: new Abstract: Reasoning language models often generate long chain-of-thought (CoT), which accumulates a massive KV cache during the decoding phase and incurs high decoding latency and limited throughput. To address these issues, KV cache compression has emerged as a promising technique for reducing memory overhead by selectively removing unimportant KV pairs while preserving useful ones for subsequent decoding. Nevertheless, we identify two key limitations in e…",
+        "category_score": 85,
+        "score_reason": "긴 추론(CoT) 모델의 효율적인 서빙은 대규모 콘텐츠 생성 서비스의 처리량 개선과 직결됨.",
+        "keywords": [
+          "LLM Serving",
+          "추론 효율화",
+          "인프라"
+        ],
+        "planning_insight": "복잡한 논리적 사고가 필요한 고품질 콘텐츠 자동 생성 시, 응답 지연을 최소화하면서 서비스 처리량을 유지할 수 있는 기술적 기반."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "b9e433e90b6c6c7ac3cc5deb8a32ac4d017222cb77d07b5009c051da0b717165",
+      "title": "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703155300",
+      "published_at": "2026-07-04T09:21:11+09:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 주가 하락과 코파일럿 성장성 우려가 이어지자 오는 8월 소비자용과 기업용 코파일럿을 하나의 앱으로 통합해 자구책 마련에 나선다. 유료 에이전트 기능을 새로 추가하고 성과가 부진한 기능은 정리해 제품 전반을 실제 업무 중심으로 재편한다는 구상이다. 3일(현지시간) 디인포메이션에 따르면 제이콥 안드레우 MS 코파일럿 담당 수석부사장(EVP)은 최근 임직원에게 보낸 약 1200자 분량의 사내 메모를 통해 이 같은 사실을 공개했다.통합 앱에는 유료 신규 기능인 에이전트 '오토파일럿'이 포함된다. 오토파일럿은 상시 작동 상태를 유지하면서 사용자를 대신해 반복 업무를 처리하는 기능이다. 앞서 공개된 일정 관리·수신 메일 요약 기능의 에이전트 '스카우트'와 연계되는 후속 기능이다.성과가 저조한 기능들은 이번 통합을 계기로 정리된다. 사용자가 올린 웹사이트나 문서를 기반으로 팟캐스트를 만들어주는 '코파일럿 팟캐스트'가 서비스를 중단하고, 실험적 기능을 모아둔…",
+      "category_score": 92,
+      "score_reason": "기업들이 실험적인 AI 기능을 정리하고 '업무 통합(오토파일럿/에이전트)' 중심으로 재편하는 시장의 변화를 포착.",
+      "keywords": [
+        "AI 에이전트",
+        "통합 플랫폼",
+        "워크플로우 자동화"
+      ],
+      "planning_insight": "단순 '질의응답형 AI' 콘텐츠에서 벗어나, 반복 업무를 수행하는 '에이전트 기반 업무 시나리오' 중심의 콘텐츠 및 제품 기획으로 전환 필요.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "MS 코파일럿의 '앱 통합' 및 '에이전트 중심' 재편으로 보는 B2B AI의 진화",
+      "importance_reason": "파편화된 AI 기능들이 '에이전트'라는 단일 워크플로우로 통합되는 것은 단순 챗봇에서 실무 자동화 도구로 전환되는 중요한 산업적 변곡점임."
+    },
+    {
+      "rank": 2,
+      "id": "424e0bb6a395fa20ebc1f49d19cbc46651b1a007e960f447895fb09008816fd1",
+      "title": "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2607.01293",
+      "published_at": "2026-07-03T13:00:00+09:00",
+      "summary": "arXiv:2607.01293v1 Announce Type: new Abstract: We present RuleChef, a framework that uses large language models (LLMs) to generate executable rules for NLP tasks such as text classification, Named Entity Recognition (NER), or relation extraction. Rules are generated based on a task description and a set of labeled examples, then they are iteratively improved based both on additional examples and on human feedback overexisting rules. RuleChef can also be used to bootstrap rules using the observ…",
+      "category_score": 98,
+      "score_reason": "LLM을 활용한 규칙 생성 및 인간의 피드백을 반영하는 프로세스는 콘텐츠 자동화와 워크플로 최적화에 직결되는 핵심 기술임.",
+      "keywords": [
+        "LLM",
+        "인간 피드백(RLHF)",
+        "콘텐츠 자동화"
+      ],
+      "planning_insight": "자동화된 콘텐츠 제작 파이프라인 구축 시, AI의 결과물을 일회성으로 쓰지 않고 인간의 가이드라인을 학습시켜 결과물의 퀄리티를 통제하는 '규칙 기반 자동화' 도입 고려.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "인간의 피드백을 실시간으로 반영하여 LLM 규칙을 생성하는 RuleChef 프레임워크",
+      "importance_reason": "AI가 생성한 콘텐츠의 정확도를 인간이 교정 가능한 '규칙(Rule)' 형태로 고착화하는 기술로, AI 활용의 신뢰성 문제 해결책 제시."
+    },
+    {
+      "rank": 3,
+      "id": "c554362aeddd4da905c38b4bd650f68df5a24eaf94750ba55c33b2a7e0018ec2",
+      "title": "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703143221",
+      "published_at": "2026-07-03T14:48:51+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 데이터센터 전력 수요가 급증하는 가운데, 차세대 원전이 AI 인프라의 새 전력원으로 부상하고 있다. 미국 원자력 스타트업 발라 아토믹스가 첨단 원자로에서 생산한 전력으로 엔비디아 AI 칩을 구동하면서 원전 기반 AI 데이터센터에 대한 기대감도 커지고 있다.지난 1일(현지시간) 발라 아토믹스는 미국 유타주 오렌지빌 사업장에서 자사의 차세대 원자로 ‘워드 250’이 생산한 전력으로 엔비디아 블랙웰 AI 칩을 구동하는 시연을 진행했다. 생산된 전력은 극히 소량에 불과했지만, 미국에서 차세대 원자로가 AI 칩 구동에 직접 전력을 공급한 첫 사례로 평가된다. 시연에서는 해당 전력을 활용해 일시적으로 웹사이트를 호스팅했다.발라 아토믹스와 엔비디아는 원자력 기반 AI 시스템 개발 방안을 공동으로 모색하기 위한 협력도 발표했다. 양사는 발라 아토믹스의 원자로를 활용해 30MW 규모 AI 데이터센터를 구축하는 방안을 검토하고 있다. 협력이 구체화될 경우 첨단 원자력…",
+      "category_score": 95,
+      "score_reason": "AI 데이터센터 전력난을 차세대 원전(SMR)으로 해결하려는 글로벌 빅테크 및 에너지 산업의 긴밀한 연결 신호.",
+      "keywords": [
+        "AI 인프라",
+        "SMR(소형모듈원전)",
+        "에너지 산업"
+      ],
+      "planning_insight": "AI 기술 트렌드뿐만 아니라, AI가 유발하는 '지속가능한 에너지' 담론을 결합한 심층 리포트나 B2B 시장 전망 콘텐츠 기획 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "엔비디아 블랙웰 칩 구동까지, AI 전력난 해결을 위한 차세대 원자력(SMR)의 현실화",
+      "importance_reason": "AI의 지속가능성은 컴퓨팅 파워를 넘어 에너지 인프라로 수렴 중. 기술의 실체와 환경적 제약을 연결하는 거시적 흐름의 핵심 신호."
+    },
+    {
+      "rank": 4,
+      "id": "113d4b35aadc1d83fc02a054358acd89067cdf044c0a76d3830e89edc9c8cfc9",
+      "title": "Office Comprehension Benchmark",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2607.01245",
+      "published_at": "2026-07-03T13:00:00+09:00",
+      "summary": "arXiv:2607.01245v1 Announce Type: new Abstract: We introduce Office Comprehension Bench (OCB), the first public benchmark to jointly evaluate LLM systems on Word, Excel, and PowerPoint comprehension over native file formats (.docx, .xlsx, .pptx) and their variants. OCB consists of two tracks. File Fidelity Q&A tests structural and visual perception of office artifacts - tables, charts, embedded images, formulas, and app-specific elements such as headers, speaker notes, and named ranges. Domain…",
+      "category_score": 95,
+      "score_reason": "비즈니스 데이터(Word, Excel, PPT)를 멀티모달로 이해하는 기능은 사내 데이터 기반 콘텐츠 생성 및 분석에 필수적임.",
+      "keywords": [
+        "멀티모달",
+        "데이터 분석",
+        "사내 데이터 자동화"
+      ],
+      "planning_insight": "사내 데이터가 산재한 기업을 타깃으로, '문서 기반 지식 추출 및 자동 요약' 서비스를 설계하거나 이를 활용한 내부 교육 콘텐츠 생성 자동화 도구로 활용.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "오피스 문서(Word, Excel, PPT)의 구조와 맥락을 동시에 이해하는 OCB 벤치마크 등장",
+      "importance_reason": "기업 내 방대한 오피스 문서를 AI가 직접 읽고 분석하는 것은 엔터프라이즈 AI 서비스의 핵심 사용처임."
+    },
+    {
+      "rank": 5,
+      "id": "4cf8de4550f62880db63a4122157636c1f786429f060f13794993a26aa32b147",
+      "title": "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703135108",
+      "published_at": "2026-07-03T15:15:09+09:00",
+      "summary": "[지디넷코리아]SK네트웍스 자회사 인크로스가 AI 기반 마케팅 솔루션 개발 등을 통해 통합 마케팅 회사로 전환한다. 인크로스는 AI가 일상화된 환경에 발맞춰 AI 기반 마케팅 솔루션을 개발하고 있다고 3일 밝혔다. 이 회사는 시장 분석과 캠페인 운영 자동화, 광고 소재 최적화, 인플루언서 마케팅 효율 극대화 등 광고, 마케팅 전 과정에서 AI 솔루션을 개발하고 있다. 이를 통해 단순 광고 대행을 넘어, 통합 마케팅 컴퍼니로 전환을 이룬다는 전략이다.자체 AI 생태계 구축에도 속도를 내고 있다. 사내 AI에이전트 ‘아이노바’를 기반으로 전 구성원이 AI를 업무에 활용할 수 있는 환경을 구축하고 있다.인크로스는 디지털 마케팅 시장 흐름을 분석한 2026 상반기 마케팅 트렌드 결산 리포트에서 'AI 일상 인프라화'와 '콘텐츠 경험 재편'을 트렌드로 꼽았다. 리포트에 따르면 AI는 일상과 업무에서 누구나 쓰는 기본 인프라로 자리 잡았다. AI가 일상과 업무 전반에 깊숙이 자리 잡으며 마케…",
+      "category_score": 89,
+      "score_reason": "단순 마케팅 대행사를 넘어 AI 솔루션 기반 통합 마케팅 컴퍼니로 전환하려는 중견 기업들의 구조적 변화 신호.",
+      "keywords": [
+        "AI 마케팅",
+        "자동화",
+        "솔루션 전환"
+      ],
+      "planning_insight": "대행 및 제작 중심의 조직이 AI를 활용해 어떻게 서비스형 제품(SaaS) 형태의 수익 모델을 창출할 수 있는지에 대한 비즈니스 모델 벤치마킹 필요.",
+      "integrated_score": 86,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "마케팅사의 수익 모델 변화: 광고 대행에서 AI 솔루션 구독 서비스로의 전환",
+      "importance_reason": "콘텐츠 마케팅 업계가 노동 집약적 대행에서 AI 솔루션 기반의 효율화 모델로 이동하는 구체적인 실무 사례."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 82,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 31,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업이 '모델 성능 개발' 단계를 넘어 '실질적 업무 워크플로우 통합(Agentic Workflow)'과 '인프라 구축(에너지/데이터센터)' 단계로 빠르게 이동하고 있습니다.",
+    "기업들은 이제 범용적인 AI 툴 도입보다, 사내 문서와 전문 도메인 지식을 정교하게 연결하고 인간의 피드백으로 검증 가능한 자동화 파이프라인 구축에 집중하고 있습니다.",
+    "디지털 마케팅 및 B2B 서비스 시장은 대행 모델에서 AI 기반의 솔루션·에이전트 구독 모델로 수익 구조를 재편하며 생존 전략을 수정 중입니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

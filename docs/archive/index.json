@@ -1,6 +1,760 @@
 {
-  "updated_at": "2026-06-26T09:21:29.433067+09:00",
+  "updated_at": "2026-07-05T21:23:08.260622+09:00",
   "archives": [
+    {
+      "id": "2026-07-05_20-10",
+      "date": "2026-07-05",
+      "time": "20:10",
+      "label": "2026-07-05 20:10",
+      "generated_at": "2026-07-05T21:22:51.909779+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "\"반도체 산업, 칩 경쟁에서 AI 인프라 경쟁으로\"",
+        "\"전문 직원 없이도 되네\"…1인 커머스, AI로 확장",
+        "Office Comprehension Benchmark",
+        "[기경학회 AX칼럼] 제조업 미래는 제품이 아니라 서비스다",
+        "Safeguarding LLM Agents from Misalignment through Provenance Analysis"
+      ],
+      "path_json": "archive/2026-07-05/20-10.json",
+      "path_md": "archive/2026-07-05/20-10.md"
+    },
+    {
+      "id": "2026-07-05_15-48",
+      "date": "2026-07-05",
+      "time": "15:48",
+      "label": "2026-07-05 15:48",
+      "generated_at": "2026-07-05T15:48:31.425341+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "다음도 ‘AI 요약’ 참전…네이버·구글과 AI 검색 맞대결",
+        "\"전문 직원 없이도 되네\"…1인 커머스, AI로 확장",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "\"반도체 산업, 칩 경쟁에서 AI 인프라 경쟁으로\"",
+        "Office Comprehension Benchmark"
+      ],
+      "path_json": "archive/2026-07-05/15-48.json",
+      "path_md": "archive/2026-07-05/15-48.md"
+    },
+    {
+      "id": "2026-07-05_08-10",
+      "date": "2026-07-05",
+      "time": "08:10",
+      "label": "2026-07-05 08:10",
+      "generated_at": "2026-07-05T09:10:44.341612+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+        "Office Comprehension Benchmark",
+        "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\""
+      ],
+      "path_json": "archive/2026-07-05/08-10.json",
+      "path_md": "archive/2026-07-05/08-10.md"
+    },
+    {
+      "id": "2026-07-04_20-10",
+      "date": "2026-07-04",
+      "time": "20:10",
+      "label": "2026-07-04 20:10",
+      "generated_at": "2026-07-04T21:13:31.567144+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+        "Office Comprehension Benchmark",
+        "퍼스널에이아이, 마이데이터 플랫폼 '마이디' 알린다"
+      ],
+      "path_json": "archive/2026-07-04/20-10.json",
+      "path_md": "archive/2026-07-04/20-10.md"
+    },
+    {
+      "id": "2026-07-04_15-26",
+      "date": "2026-07-04",
+      "time": "15:26",
+      "label": "2026-07-04 15:26",
+      "generated_at": "2026-07-04T15:26:57.778847+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "콘텐츠",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+        "삼성중공업, ‘바다 위 데이터센터’ 2028년 띄운다…AI 신시장 정조준",
+        "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감"
+      ],
+      "path_json": "archive/2026-07-04/15-26.json",
+      "path_md": "archive/2026-07-04/15-26.md"
+    },
+    {
+      "id": "2026-07-04_08-10",
+      "date": "2026-07-04",
+      "time": "08:10",
+      "label": "2026-07-04 08:10",
+      "generated_at": "2026-07-04T09:15:36.072802+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "콘텐츠",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "Office Comprehension Benchmark",
+        "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+        "\"필요한 곳만 고쳐요\"...오늘의집 부분 시공 계약, 1년새 3배↑",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules"
+      ],
+      "path_json": "archive/2026-07-04/08-10.json",
+      "path_md": "archive/2026-07-04/08-10.md"
+    },
+    {
+      "id": "2026-07-03_22-04",
+      "date": "2026-07-03",
+      "time": "22:04",
+      "label": "2026-07-03 22:04",
+      "generated_at": "2026-07-03T22:04:12.367223+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules"
+      ],
+      "path_json": "archive/2026-07-03/22-04.json",
+      "path_md": "archive/2026-07-03/22-04.md"
+    },
+    {
+      "id": "2026-07-03_15-39",
+      "date": "2026-07-03",
+      "time": "15:39",
+      "label": "2026-07-03 15:39",
+      "generated_at": "2026-07-03T15:39:07.157069+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사"
+      ],
+      "path_json": "archive/2026-07-03/15-39.json",
+      "path_md": "archive/2026-07-03/15-39.md"
+    },
+    {
+      "id": "2026-07-03_08-10",
+      "date": "2026-07-03",
+      "time": "08:10",
+      "label": "2026-07-03 08:10",
+      "generated_at": "2026-07-03T09:16:55.377633+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "그립 \"라이브커머스 큰손은 4050\"…1인당 구매액 48만원 육박"
+      ],
+      "path_json": "archive/2026-07-03/08-10.json",
+      "path_md": "archive/2026-07-03/08-10.md"
+    },
+    {
+      "id": "2026-07-02_22-03",
+      "date": "2026-07-02",
+      "time": "22:03",
+      "label": "2026-07-02 22:03",
+      "generated_at": "2026-07-02T22:03:44.160214+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "[AI리더스] 데이터독 \"배보다 배꼽 큰 AI 지출, '자율 운영'으로 해소\"",
+        "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\""
+      ],
+      "path_json": "archive/2026-07-02/22-03.json",
+      "path_md": "archive/2026-07-02/22-03.md"
+    },
+    {
+      "id": "2026-07-02_15-49",
+      "date": "2026-07-02",
+      "time": "15:49",
+      "label": "2026-07-02 15:49",
+      "generated_at": "2026-07-02T15:49:00.489513+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+        "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+        "\"운동화 추천해줘\" 하면 AI가 대신 쇼핑"
+      ],
+      "path_json": "archive/2026-07-02/15-49.json",
+      "path_md": "archive/2026-07-02/15-49.md"
+    },
+    {
+      "id": "2026-07-02_08-10",
+      "date": "2026-07-02",
+      "time": "08:10",
+      "label": "2026-07-02 08:10",
+      "generated_at": "2026-07-02T09:18:12.456617+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "검색 결과 자동 정리…다음, 'AI 요약' 베타 출시",
+        "구글 제미나이 '나노 바나나' 개인화 이미지 생성, 미국서 무료 개방",
+        "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축"
+      ],
+      "path_json": "archive/2026-07-02/08-10.json",
+      "path_md": "archive/2026-07-02/08-10.md"
+    },
+    {
+      "id": "2026-07-01_22-39",
+      "date": "2026-07-01",
+      "time": "22:39",
+      "label": "2026-07-01 22:39",
+      "generated_at": "2026-07-01T22:39:17.373095+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "소비자",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "검색 결과 자동 정리…다음, 'AI 요약' 베타 출시",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "NC AI, '바르코 3D 2.0' 공개…\"3D 생성·제작 공정 지원\"",
+        "그립 \"라이브커머스 큰손은 4050\"…1인당 구매액 48만원 육박"
+      ],
+      "path_json": "archive/2026-07-01/22-39.json",
+      "path_md": "archive/2026-07-01/22-39.md"
+    },
+    {
+      "id": "2026-07-01_16-18",
+      "date": "2026-07-01",
+      "time": "16:18",
+      "label": "2026-07-01 16:18",
+      "generated_at": "2026-07-01T16:18:39.465093+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "“보고서는 AI가 쓰고 직원은 판단 위주로”…롯데 신동빈, 그룹 DNA 바꾼다",
+        "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "NC AI, '바르코 3D 2.0' 공개…\"3D 생성·제작 공정 지원\""
+      ],
+      "path_json": "archive/2026-07-01/16-18.json",
+      "path_md": "archive/2026-07-01/16-18.md"
+    },
+    {
+      "id": "2026-07-01_08-10",
+      "date": "2026-07-01",
+      "time": "08:10",
+      "label": "2026-07-01 08:10",
+      "generated_at": "2026-07-01T09:18:10.703374+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "최태원 \"AI 데이터센터는 지능 생산공장\"… 10년간 1000조 쏟는다",
+        "“보고서는 AI가 쓰고 직원은 판단 위주로”…롯데 신동빈, 그룹 DNA 바꾼다",
+        "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "Featuring Every Eval Ever Results on Hugging Face Model Pages"
+      ],
+      "path_json": "archive/2026-07-01/08-10.json",
+      "path_md": "archive/2026-07-01/08-10.md"
+    },
+    {
+      "id": "2026-06-30_22-12",
+      "date": "2026-06-30",
+      "time": "22:12",
+      "label": "2026-06-30 22:12",
+      "generated_at": "2026-06-30T22:12:59.293171+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+        "말로 민원 신청하고 서류 발급까지…행안부, 'AI정부24' 연말 고도화",
+        "\"고객사 정보 AI에 물어도 될까\"...PR 현직자들 머리 맞대"
+      ],
+      "path_json": "archive/2026-06-30/22-12.json",
+      "path_md": "archive/2026-06-30/22-12.md"
+    },
+    {
+      "id": "2026-06-30_16-01",
+      "date": "2026-06-30",
+      "time": "16:01",
+      "label": "2026-06-30 16:01",
+      "generated_at": "2026-06-30T16:01:31.535912+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "UI",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그"
+      ],
+      "path_json": "archive/2026-06-30/16-01.json",
+      "path_md": "archive/2026-06-30/16-01.md"
+    },
+    {
+      "id": "2026-06-30_08-10",
+      "date": "2026-06-30",
+      "time": "08:10",
+      "label": "2026-06-30 08:10",
+      "generated_at": "2026-06-30T09:16:29.831085+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "“반도체 광풍보다 더 셀지도”…MLCC, 30분마다 가격표 바뀐다는데"
+      ],
+      "path_json": "archive/2026-06-30/08-10.json",
+      "path_md": "archive/2026-06-30/08-10.md"
+    },
+    {
+      "id": "2026-06-29_23-52",
+      "date": "2026-06-29",
+      "time": "23:52",
+      "label": "2026-06-29 23:52",
+      "generated_at": "2026-06-29T23:52:12.290619+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글이 '인터랙션스 AI'로 키운 개발 생태계…\"요금·보안은 과제\"",
+        "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "지니언스, 버그바운티 포상금 상반기 1046% 증가"
+      ],
+      "path_json": "archive/2026-06-29/23-52.json",
+      "path_md": "archive/2026-06-29/23-52.md"
+    },
+    {
+      "id": "2026-06-29_17-23",
+      "date": "2026-06-29",
+      "time": "17:23",
+      "label": "2026-06-29 17:23",
+      "generated_at": "2026-06-29T17:23:22.556590+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "전국민 AI 경진대회, 개막 3개월 만에 참가자 100만명 돌파"
+      ],
+      "path_json": "archive/2026-06-29/17-23.json",
+      "path_md": "archive/2026-06-29/17-23.md"
+    },
+    {
+      "id": "2026-06-29_08-10",
+      "date": "2026-06-29",
+      "time": "08:10",
+      "label": "2026-06-29 08:10",
+      "generated_at": "2026-06-29T09:17:59.136274+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "SK, K-AI 얼라이언스 판 키운다…투자자·빅테크 연결",
+        "From Lexicon to AI: A Structured-Data Pipeline for Specialized Conversational Systems in Low-Resource Languages"
+      ],
+      "path_json": "archive/2026-06-29/08-10.json",
+      "path_md": "archive/2026-06-29/08-10.md"
+    },
+    {
+      "id": "2026-06-28_20-10",
+      "date": "2026-06-28",
+      "time": "20:10",
+      "label": "2026-06-28 20:10",
+      "generated_at": "2026-06-28T21:19:55.702091+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "삼성·SK 나란히 1000조원대 'AI 전략투자'",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "Know2Guess: A Contamination-Aware Multi-Zone Benchmark for Knowledge-Boundary Evaluation in Large Language Models"
+      ],
+      "path_json": "archive/2026-06-28/20-10.json",
+      "path_md": "archive/2026-06-28/20-10.md"
+    },
+    {
+      "id": "2026-06-28_16-08",
+      "date": "2026-06-28",
+      "time": "16:08",
+      "label": "2026-06-28 16:08",
+      "generated_at": "2026-06-28T16:08:42.388928+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "반도체 미세화 한계, '3D 적층'으로 뚫었다…IBM, 0.7나노 시대 개막",
+        "조용히 커지는 틱톡…숏폼 넘어 슈퍼앱 노린다",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다."
+      ],
+      "path_json": "archive/2026-06-28/16-08.json",
+      "path_md": "archive/2026-06-28/16-08.md"
+    },
+    {
+      "id": "2026-06-28_08-10",
+      "date": "2026-06-28",
+      "time": "08:10",
+      "label": "2026-06-28 08:10",
+      "generated_at": "2026-06-28T09:12:47.356145+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "퀄컴, 텐스토렌트 인수 타진…설계부터 연결까지 '탈 Arm' 가속",
+        "Run a vLLM Server on HF Jobs in One Command"
+      ],
+      "path_json": "archive/2026-06-28/08-10.json",
+      "path_md": "archive/2026-06-28/08-10.md"
+    },
+    {
+      "id": "2026-06-27_20-10",
+      "date": "2026-06-27",
+      "time": "20:10",
+      "label": "2026-06-27 20:10",
+      "generated_at": "2026-06-27T21:14:58.960539+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+        "반도체 미세화 한계, '3D 적층'으로 뚫었다…IBM, 0.7나노 시대 개막",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략"
+      ],
+      "path_json": "archive/2026-06-27/20-10.json",
+      "path_md": "archive/2026-06-27/20-10.md"
+    },
+    {
+      "id": "2026-06-27_15-35",
+      "date": "2026-06-27",
+      "time": "15:35",
+      "label": "2026-06-27 15:35",
+      "generated_at": "2026-06-27T15:35:03.812014+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 데이터브릭스가 제시한 AI 시대 '레이크하우스' 역할은",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "반도체 미세화 한계, '3D 적층'으로 뚫었다…IBM, 0.7나노 시대 개막"
+      ],
+      "path_json": "archive/2026-06-27/15-35.json",
+      "path_md": "archive/2026-06-27/15-35.md"
+    },
+    {
+      "id": "2026-06-27_08-10",
+      "date": "2026-06-27",
+      "time": "08:10",
+      "label": "2026-06-27 08:10",
+      "generated_at": "2026-06-27T09:18:43.061964+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글, 제미나이 통합 API '인터랙션스' 정식 출시…모델·에이전트를 하나로",
+        "LG CNS, 에이전틱 AI 적용한 ERP 테스트 솔루션 공개…글로벌 시장 공략 본격화",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "Context Recycling for Long-Horizon LLM Inference",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략"
+      ],
+      "path_json": "archive/2026-06-27/08-10.json",
+      "path_md": "archive/2026-06-27/08-10.md"
+    },
+    {
+      "id": "2026-06-26_22-18",
+      "date": "2026-06-26",
+      "time": "22:18",
+      "label": "2026-06-26 22:18",
+      "generated_at": "2026-06-26T22:18:35.495764+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AWS 주간 소식 모음: NY Summit 요약, 하노이 로컬 영역, Bedrock 기반 Grok 4.3, 요금 인하 등",
+        "반도체 미세화 한계, '3D 적층'으로 뚫었다…IBM, 0.7나노 시대 개막",
+        "앤트로픽 \"알리바바, 가짜 계정 2.5만 개로 클로드 무단 학습\"",
+        "\"AI가 엔지니어 일자리 없앤다더니\"…엔지니어가 가장 회복력 있었다",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다."
+      ],
+      "path_json": "archive/2026-06-26/22-18.json",
+      "path_md": "archive/2026-06-26/22-18.md"
+    },
+    {
+      "id": "2026-06-26_16-01",
+      "date": "2026-06-26",
+      "time": "16:01",
+      "label": "2026-06-26 16:01",
+      "generated_at": "2026-06-26T16:01:05.978975+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "Amazon Bedrock Managed Knowledge Base 소개: 더 빠르고 정확한 엔터프라이즈 AI 애플리케이션 구현",
+        "[영상] \"AI 실수도 기업 책임\"…생성형 AI 시대, 리스크 관리가 생존 전략",
+        "[현장] 이학준 대표 \"플로우, 협업툴 그 이상…AI 워크 에이전트로 진화\"",
+        "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+        "[AI는 지금] 데이터브릭스가 제시한 AI 시대 '레이크하우스' 역할은"
+      ],
+      "path_json": "archive/2026-06-26/16-01.json",
+      "path_md": "archive/2026-06-26/16-01.md"
+    },
     {
       "id": "2026-06-26_08-10",
       "date": "2026-06-26",

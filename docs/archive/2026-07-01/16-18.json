@@ -1,0 +1,477 @@
+{
+  "briefing_date": "2026-07-01",
+  "generated_at": "2026-07-01T16:18:39.465093+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 177,
+    "tech_blog": 1,
+    "ai_data": 22
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "3adcd68af40fc1747223cca0e7283a39d0141b4fefbef5869654497a270d528f",
+        "title": "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260630171621",
+        "published_at": "2026-06-30T17:23:15+09:00",
+        "summary": "[지디넷코리아]SK하이닉스가 글로벌 인공지능(AI) 메모리 수요에 대응하기 위해 서남권 지역에 400조원을 투자한다.곽노정 SK하이닉스 대표이사 사장은 30일 광주 김대중컨벤션센터에서 열린 '서남권 첨단산업 발전비전 국민보고회'에 참석해 서남권 반도체·AI 투자 계획을 발표했다.곽 사장은 AI 산업이 학습 단계를 넘어 실제 서비스가 본격 확산되는 시대로 진입함에 따라 메모리 수요가 기하급수적으로 증가하고 있다고 진단했다. 그는 \"AI 시대의 메모리는 단순한 부품을 넘어 AI 성능 자체를 결정하는 핵심 인프라로 부상했다\"며 \"현재 추진 중인 용인 클러스터만으로는 글로벌 수요를 완전히 충족하기 어려울 전망\"이라고 말했다.그러면서 \"대규모 부지와 안정적인 전력·용수 공급이 가능할 것으로 보이는 서남권에 400조원을 투자해 생산 기반을 구축하기로 했다\"고 덧붙였다.AI 인프라 확장을 위한 데이터센터 구축 계획도 함께 공개됐다. SK그룹은 전국에 총 15기가와트(GW) 수준의 AI 데이터센…",
+        "category_score": 98,
+        "score_reason": "AI 시대의 핵심 인프라인 메모리 반도체 공급을 위해 400조 원 규모의 초대형 투자가 결정된 국가급 프로젝트로, 시장과 산업 지형을 근본적으로 뒤흔들 신호임.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "투자",
+          "데이터센터"
+        ],
+        "planning_insight": "초대규모 AI 데이터센터 인프라 확충에 따른 전력·용수 공급망 이슈와 지역 균형 발전이라는 국가적 트렌드를 동시에 다루는 콘텐츠 전략이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "42040de23eed7bba54e4d165e8ef46de31803c33a608fa6da48557e991e07e47",
+        "title": "“보고서는 AI가 쓰고 직원은 판단 위주로”…롯데 신동빈, 그룹 DNA 바꾼다",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12087181",
+        "published_at": "2026-07-01T00:46:11+09:00",
+        "summary": "CEO부터 AI 에이전트 직접 개발 채용·평가까지 AX 중심 재편“AI를 핵심 경쟁력으로 내재화하자.” 신동빈 롯데그룹 회장이 올해 신년사에서 던진 이 한마디가 그룹 전체를 움직이..",
+        "category_score": 95,
+        "score_reason": "기업 총수가 직접 AI 에이전트 도입과 AX(AI 전환)를 강조하며 조직 DNA를 바꾸는 사례로, 플랫폼/커머스 등 대기업 전반의 AI 전환 흐름을 선도함.",
+        "keywords": [
+          "AI",
+          "기업문화",
+          "AX",
+          "경영전략"
+        ],
+        "planning_insight": "단순 기술 도입을 넘어 조직 내부의 프로세스와 평가 기준을 AI 중심으로 재편하는 대기업의 'AX 경영' 사례를 시리즈화하여 기업 혁신 가이드 콘텐츠 생성 가능."
+      },
+      {
+        "rank": 3,
+        "id": "dc361831b75c034894b679877f984cfb2dd7260f807f4b45d131623813f35bdf",
+        "title": "NC AI, '바르코 3D 2.0' 공개…\"3D 생성·제작 공정 지원\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260701144825",
+        "published_at": "2026-07-01T14:48:25+09:00",
+        "summary": "[지디넷코리아]NC AI가 3D 생성 인공지능(AI) 서비스를 실무 제작 공정 중심으로 고도화했다.NC AI는 '바르코 3D 2.0'을 공개했다고 1일 밝혔다. 바르코 3D 2.0은 반복 작업을 줄이고 제작자가 공정을 직접 설계 ·제어하는 데 중점을 뒀다. 이 서비스 핵심 기능은 '커스텀 워크플로'다. 사용자는 이미지 생성을 비롯한 AI 어시스턴트, 3D 생성, 텍스처 변환, 후처리 등 여러 기능을 노드 단위로 조합해 프로젝트 목적에 맞는 제작 공정을 설계할 수 있다.저장된 워크플로는 반복되는 제작 공정을 다시 불러와 활용 가능하다. 하나의 레퍼런스를 기반으로 다양한 3D 디자인 시안을 만들고, 기획 방향 변경이나 피드백이 생겼을 때도 기존 흐름을 유지한 채 수정 사항을 반영할 수 있다.이 서비스는 파츠 단위 생성과 수정도 지원한다. 복잡한 캐릭터나 오브젝트를 의상, 장식, 장비 등으로 나눠 만들 수 있다. 여러 요소를 동시에 생성할 때 생기는 형태 왜곡을 줄이고 필요한 부분만 개…",
+        "category_score": 92,
+        "score_reason": "3D 생성 AI의 고도화와 제작 공정의 효율화를 지원하는 기술로서, 콘텐츠 크리에이터 및 개발 생태계에 직접적인 생산성 혁신을 가져올 트렌드.",
+        "keywords": [
+          "AI",
+          "3D 생성",
+          "워크플로우",
+          "콘텐츠제작"
+        ],
+        "planning_insight": "생성형 AI가 단순 텍스트/이미지를 넘어 제작 공정(Workflow) 자체를 자동화하는 과정을 콘텐츠화하여 크리에이터 중심의 실무 가이드 전략 제시."
+      },
+      {
+        "rank": 4,
+        "id": "d32493646936ef7be44a2808ce57af6d048a4d774e79c20e4a2d61a935791d6b",
+        "title": "휴머노이드 로봇에 '촉각·통증' 부여…뉴로모픽 인공 피부 개발",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260701143512",
+        "published_at": "2026-07-01T14:35:12+09:00",
+        "summary": "[지디넷코리아]과학자들이 인간의 신경 반응을 모방한 '뉴로모픽(neuromorphic)' 인공 피부를 개발했다고 아스테크니카가 6월 30일(현지시간) 보도했다. 이 인공 피부는 로봇이 촉각과 통증을 감지하고, 높은 효율로 실시간 반응할 수 있게 한다. 이로써 인간-로봇 상호작용은 보다 직관적이고 안전하게 되었다.이번 성과는 현존 로봇 시스템의 핵심 한계인 '현실적인 촉각 피드백의 부재'를 직접 겨냥했다. 인공 피부가 사람의 신경처럼 자극을 감지하고 반응하면, 로봇은 물체를 더 섬세하게 다루고 위험도 더 빠르게 피할 수 있다.응용 분야는 제조, 헬스케어, 노인 돌봄, 위험 환경 작업 등 다양하다. 정밀한 감각이 안전성과 작업 역량을 높이는 영역에서 특히 효과가 클 것으로 기대된다. 협업 로봇과 서비스 로봇의 실용적 배포를 앞당길 수 있다는 평가다.기술적으로도 시사점이 크다. 뉴로모픽 하드웨어는 생물학에서 영감을 얻은 에너지 효율적 AI 시스템을 가리키며, 향후 칩·센서 설계에도 영향…",
+        "category_score": 89,
+        "score_reason": "뉴로모픽 인공 피부와 휴머노이드 로봇의 결합은 헬스케어, 제조, 돌봄 서비스 등 플랫폼과 커머스 사업을 물리적 세계로 확장하는 중요한 기술적 신호임.",
+        "keywords": [
+          "AI",
+          "로봇",
+          "뉴로모픽",
+          "디지털트윈"
+        ],
+        "planning_insight": "기술의 인간화(촉각/통증 부여)가 향후 서비스 로봇의 보급 속도를 얼마나 가속화할지 분석하고, 이에 따른 새로운 고객 경험(UX) 전략 제안."
+      },
+      {
+        "rank": 5,
+        "id": "9857b5ba99a1b09589ce896287e43c4b9f63042fde5e3675d7a919bce2243e31",
+        "title": "공정위, 구글 앱마켓 지위 남용 제재 착수...\"과징금 최대 8496억원\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260701114845",
+        "published_at": "2026-07-01T14:12:10+09:00",
+        "summary": "[지디넷코리아]공정거래위원회가 구글 앱마켓 운영 방식이 시장지배적 지위를 남용한 공정거래법 위반에 해당한다고 판단, 심사보고서를 발송하며 제재 절차에 착수했다. 공정위는 해당 안건에 대해 구글이 최대 8496억원 과징금을 부과받을 수 있을 것이라고 예상했다. 공정위는 구글의 ‘독점규제 및 공정거래에 관한 법률(공정거래법)’ 위반 혐의에 대한 행위 사실과 위법성 및 조치 의견 등을 기재한 심사보고서를 위원회에 제출한 후 회사에 송부함으로써 심의 절차가 개시됐다고 밝혔다.구글은 높은 인앱결제 수수료로 촉발된 게임사들의 구글 앱마켓 이탈 시도를 차단하기 위해 국내외 주요 게임사와 일명 프로젝트 허그로 불리는 GVP 계약을 체결했다.GVP(Games velocity program) 계약은 게임사가 출시시기, 품질 등을 다른 앱마켓보다 유리하게 또는 최소한 동등하게 설정(최혜대우)하는 것이 조건이다. 대신 피심인인 구글이 클라우드, 애즈, 유튜브 등 구글 플랫폼 서비스 이용 비용 등을 지원…",
+        "category_score": 87,
+        "score_reason": "플랫폼 지배력 남용에 대한 강력한 제재와 과징금 이슈는 플랫폼 생태계의 불공정 관행 개선과 광고/수수료 체계 재편을 시사함.",
+        "keywords": [
+          "플랫폼",
+          "공정거래",
+          "앱마켓",
+          "광고"
+        ],
+        "planning_insight": "이 항목은 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+        "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3897377",
+        "published_at": "2026-06-30T20:00:48+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+        "category_score": 95,
+        "score_reason": "AI 에이전트를 단순 도구가 아닌 '조직 및 운영 시스템'으로 구조화한 사례로, 플랫폼 전략과 서비스 기획 관점에서 매우 높은 통찰을 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼 전략",
+          "자동화",
+          "조직 운영"
+        ],
+        "planning_insight": "AI를 개별 태스크 수행자가 아닌 '기업 운영 체계'로 정의함으로써, 서비스의 확장성과 동기화 문제를 해결하는 방법론을 제시함. 제품 기획 시 에이전트의 생애주기 관리와 대시보드 기반 운영의 중요성을 보여줌."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+        "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30775",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+        "category_score": 98,
+        "score_reason": "기업용 AI 에이전트의 핵심 난제인 '스킬 충돌(Skill Collision)'을 해결하는 자동화 파이프라인을 제시하여, 실무적인 에이전트 구축 및 최적화 전략에 즉각적인 인사이트를 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우 자동화",
+          "LLM 최적화"
+        ],
+        "planning_insight": "AI 에이전트 도입 시 서비스 간 스킬 정의가 모호하면 성능이 급격히 저하됨. 기획 단계부터 스킬별 자연어 설명의 중복을 제어하는 자동화된 관리 체계가 필수적임."
+      },
+      {
+        "rank": 2,
+        "id": "73fdf4deb8fbc6c897fadf3c3267c890872234e2f26b9d02bb2b13f6b5925712",
+        "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "published_at": "2026-07-01T03:32:50+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "특정 도메인(Java 프레임워크) 마이그레이션을 위한 AI 에이전트 평가 벤치마크를 다루고 있어, 기업형 AI 도입 기획에 실질적인 지표를 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "벤치마킹",
+          "레거시 마이그레이션"
+        ],
+        "planning_insight": "단순 챗봇을 넘어 복잡한 코드 유지보수나 시스템 전환을 수행하는 에이전트 개발 시, 도메인 특화 성능을 검증할 수 있는 평가 셋 구성이 우선되어야 함."
+      },
+      {
+        "rank": 3,
+        "id": "bca0f554fb08b0a1fdbe7dab49efde219af595338ba5275b3e5dea7c77bb29db",
+        "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30801",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30801v1 Announce Type: new Abstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, behavior, and evolving interaction histories. Existing auditing methods face a tradeoff: studies with real users capture realistic behavior but are costly and hard to control, whereas sock-puppet audit…",
+        "category_score": 92,
+        "score_reason": "개인화 알고리즘의 블랙박스를 AI 에이전트로 감사(Audit)하는 방법론으로, 콘텐츠 추천 서비스의 투명성과 분석 자동화 전략 수립에 활용 가능함.",
+        "keywords": [
+          "개인화 추천",
+          "알고리즘 감사",
+          "AI 자동화"
+        ],
+        "planning_insight": "추천 시스템의 편향성을 점검하기 위해 인간의 수동 개입 대신 AI 에이전트를 활용한 대규모 테스트 자동화 전략이 향후 플랫폼 신뢰성 관리의 핵심이 될 것임."
+      },
+      {
+        "rank": 4,
+        "id": "32ee0d50c2c2fe1dde3c57a68dd43f13357d822be28fa82e7fa50b90d9e69f73",
+        "title": "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30851",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30851v1 Announce Type: new Abstract: Improving the reliability of large language models (LLMs) at inference time is a central challenge in structured reasoning tasks such as Text-to-SQL. Common test-time inference strategies, including Best-of-N sampling and Majority Voting, rely on heuristic signals such as execution success or output frequency, which provide limited semantic discrimination across candidate outputs. In this work, we study Outcome Reward Models (ORMs) as learned sema…",
+        "category_score": 89,
+        "score_reason": "Text-to-SQL 등 구조화된 데이터 질의 응답의 신뢰성을 높이는 '결과 보상 모델(Outcome Reward Models)' 연구로, 데이터 분석 자동화 서비스의 정확도 제고에 기여함.",
+        "keywords": [
+          "Text-to-SQL",
+          "RAG",
+          "데이터 분석 자동화"
+        ],
+        "planning_insight": "LLM 기반 데이터 분석 도구의 환각을 줄이기 위해 단순 LLM 호출을 넘어, 결과값의 정확성을 검증하는 별도의 보상/평가 로직을 임베딩하는 기술 구조가 요구됨."
+      },
+      {
+        "rank": 5,
+        "id": "3deb60dd0c54eb975ad8a7cdd06d37e3acf646867a68b212b06250c4d233b7c3",
+        "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30887",
+        "published_at": "2026-07-01T13:00:00+09:00",
+        "summary": "arXiv:2606.30887v1 Announce Type: new Abstract: Large language models show promise for mental health support, yet therapeutic quality improves only when evaluation functions as an actionable control signal rather than a passive metric. We introduce a framework that formulates therapeutic response generation as a decision-refinement problem driven by multi-dimensional, human-aligned evaluation. In Stage I, we introduce TheraJudge, an open-source therapeutic evaluator trained via preference-based…",
+        "category_score": 86,
+        "score_reason": "인간의 가치에 정렬된(Human-Aligned) 평가 모델과 다중 에이전트 시스템을 결합하여 고품질 콘텐츠 생성 가이드라인을 제시함.",
+        "keywords": [
+          "멀티 에이전트",
+          "인간 정렬",
+          "콘텐츠 품질 관리"
+        ],
+        "planning_insight": "고품질 콘텐츠 제작 시 LLM 생성물에 대한 단순 평가가 아닌, 실시간 피드백 루프를 통해 결과물을 조정하는 멀티 에이전트 아키텍처가 실무 생산성 향상의 열쇠임."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+      "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/3897377",
+      "published_at": "2026-06-30T20:00:48+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+      "category_score": 95,
+      "score_reason": "AI 에이전트를 단순 도구가 아닌 '조직 및 운영 시스템'으로 구조화한 사례로, 플랫폼 전략과 서비스 기획 관점에서 매우 높은 통찰을 제공함.",
+      "keywords": [
+        "AI 에이전트",
+        "플랫폼 전략",
+        "조직 운영",
+        "자동화"
+      ],
+      "planning_insight": "에이전트의 생애주기 관리와 대시보드 기반 운영 개념을 도입하여 서비스 기획 및 사내 업무 자동화 전략 수립에 활용 가능.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 단순 도구가 아닌 '조직 운영체제(OS)'로 구조화하여 활용하는 실무 방법론",
+      "importance_reason": "AI 기술이 개별 기능을 넘어 기업 운영의 프로세스와 동기화 시스템으로 발전하고 있음을 보여주는 핵심 사례임."
+    },
+    {
+      "rank": 2,
+      "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+      "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30775",
+      "published_at": "2026-07-01T13:00:00+09:00",
+      "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+      "category_score": 98,
+      "score_reason": "기업용 AI 에이전트의 핵심 난제인 '스킬 충돌(Skill Collision)'을 해결하는 자동화 파이프라인을 제시하여, 실무적인 에이전트 구축 및 최적화 전략에 즉각적인 인사이트를 제공함.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "LLM 최적화"
+      ],
+      "planning_insight": "AI 서비스 기획 시 스킬 정의와 자연어 설명의 자동 최적화 체계를 구축하여 모델의 성능과 확장성을 동시에 확보할 수 있음.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "기업용 AI 에이전트 구축 시 발생하는 '스킬 충돌' 문제를 해결하는 자동화 파이프라인 제안",
+      "importance_reason": "서비스 규모가 커질수록 발생하는 LLM의 라우팅 오류를 해결하는 기술로, 실질적인 AI 비즈니스 안정성을 보장함."
+    },
+    {
+      "rank": 3,
+      "id": "42040de23eed7bba54e4d165e8ef46de31803c33a608fa6da48557e991e07e47",
+      "title": "“보고서는 AI가 쓰고 직원은 판단 위주로”…롯데 신동빈, 그룹 DNA 바꾼다",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12087181",
+      "published_at": "2026-07-01T00:46:11+09:00",
+      "summary": "CEO부터 AI 에이전트 직접 개발 채용·평가까지 AX 중심 재편“AI를 핵심 경쟁력으로 내재화하자.” 신동빈 롯데그룹 회장이 올해 신년사에서 던진 이 한마디가 그룹 전체를 움직이..",
+      "category_score": 95,
+      "score_reason": "기업 총수가 직접 AI 에이전트 도입과 AX(AI 전환)를 강조하며 조직 DNA를 바꾸는 사례로, 플랫폼/커머스 등 대기업 전반의 AI 전환 흐름을 선도함.",
+      "keywords": [
+        "AX",
+        "기업문화",
+        "경영전략",
+        "AI 에이전트"
+      ],
+      "planning_insight": "AX 전환을 추진하는 기업들의 사례를 시리즈 리포트나 인터뷰 콘텐츠로 기획하여 변화 관리 가이드로 활용 가능.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "대기업의 AI 전환(AX) 가속화: 단순 도입을 넘어 조직 DNA와 프로세스를 AI 중심으로 재편",
+      "importance_reason": "기업 총수의 결단에 따른 대규모 조직 변화는 산업 전반의 플랫폼/커머스 비즈니스 모델 변화를 이끄는 강력한 신호임."
+    },
+    {
+      "rank": 4,
+      "id": "bca0f554fb08b0a1fdbe7dab49efde219af595338ba5275b3e5dea7c77bb29db",
+      "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30801",
+      "published_at": "2026-07-01T13:00:00+09:00",
+      "summary": "arXiv:2606.30801v1 Announce Type: new Abstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, behavior, and evolving interaction histories. Existing auditing methods face a tradeoff: studies with real users capture realistic behavior but are costly and hard to control, whereas sock-puppet audit…",
+      "category_score": 92,
+      "score_reason": "개인화 알고리즘의 블랙박스를 AI 에이전트로 감사(Audit)하는 방법론으로, 콘텐츠 추천 서비스의 투명성과 분석 자동화 전략 수립에 활용 가능함.",
+      "keywords": [
+        "개인화 추천",
+        "알고리즘 감사",
+        "AI 자동화"
+      ],
+      "planning_insight": "추천 알고리즘 서비스의 신뢰성을 증명하거나 내부 성능 고도화를 위한 상시 모니터링 시스템 구축에 인사이트 제공.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 활용한 개인화 알고리즘의 블랙박스 감사(Audit) 방법론 제시",
+      "importance_reason": "추천 시스템의 투명성과 편향성 문제는 플랫폼 신뢰도와 직결되므로, 감사의 자동화는 필수적인 트렌드임."
+    },
+    {
+      "rank": 5,
+      "id": "dc361831b75c034894b679877f984cfb2dd7260f807f4b45d131623813f35bdf",
+      "title": "NC AI, '바르코 3D 2.0' 공개…\"3D 생성·제작 공정 지원\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260701144825",
+      "published_at": "2026-07-01T14:48:25+09:00",
+      "summary": "[지디넷코리아]NC AI가 3D 생성 인공지능(AI) 서비스를 실무 제작 공정 중심으로 고도화했다.NC AI는 '바르코 3D 2.0'을 공개했다고 1일 밝혔다. 바르코 3D 2.0은 반복 작업을 줄이고 제작자가 공정을 직접 설계 ·제어하는 데 중점을 뒀다. 이 서비스 핵심 기능은 '커스텀 워크플로'다. 사용자는 이미지 생성을 비롯한 AI 어시스턴트, 3D 생성, 텍스처 변환, 후처리 등 여러 기능을 노드 단위로 조합해 프로젝트 목적에 맞는 제작 공정을 설계할 수 있다.저장된 워크플로는 반복되는 제작 공정을 다시 불러와 활용 가능하다. 하나의 레퍼런스를 기반으로 다양한 3D 디자인 시안을 만들고, 기획 방향 변경이나 피드백이 생겼을 때도 기존 흐름을 유지한 채 수정 사항을 반영할 수 있다.이 서비스는 파츠 단위 생성과 수정도 지원한다. 복잡한 캐릭터나 오브젝트를 의상, 장식, 장비 등으로 나눠 만들 수 있다. 여러 요소를 동시에 생성할 때 생기는 형태 왜곡을 줄이고 필요한 부분만 개…",
+      "category_score": 92,
+      "score_reason": "3D 생성 AI의 고도화와 제작 공정의 효율화를 지원하는 기술로서, 콘텐츠 크리에이터 및 개발 생태계에 직접적인 생산성 혁신을 가져올 트렌드.",
+      "keywords": [
+        "3D 생성",
+        "워크플로우 자동화",
+        "콘텐츠 제작"
+      ],
+      "planning_insight": "크리에이터 및 콘텐츠 제작자에게 AI를 활용한 생산성 혁신 사례와 커스텀 워크플로우 설계 가이드를 제공하는 콘텐츠 제작 가능.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "AI 기반 3D 제작 공정의 모듈화 및 워크플로우 자동화를 지원하는 기술 고도화",
+      "importance_reason": "생성형 AI가 단순 결과물 생성을 넘어 실무 제작 공정(Workflow)의 효율을 극대화하는 단계로 진입했음을 시사."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 71,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 15,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "NYT Technology",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 도구적 활용을 넘어 조직의 운영체제(OS)이자 프로세스 전반을 자동화하는 'AI 에이전트' 중심의 체제로 재편되고 있습니다.",
+    "기업들은 이제 단순히 AI 모델을 구축하는 것을 넘어, 에이전트의 안정성을 높이는 자동화 파이프라인과 신뢰성 검증(감사) 체계에 주목하고 있습니다.",
+    "생산성 향상을 위한 워크플로우 최적화 기술이 실무 현장에 적용되며, 콘텐츠 및 서비스 기획자들에게는 새로운 제작·운영 방법론 구축이 요구되는 시점입니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

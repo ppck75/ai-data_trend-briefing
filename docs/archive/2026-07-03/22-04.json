@@ -1,0 +1,448 @@
+{
+  "briefing_date": "2026-07-03",
+  "generated_at": "2026-07-03T22:04:12.367223+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 0,
+    "ai_data": 15
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "9d5149129bd80a21394609a831b0bf12d2a6bbaa7d4475fbd24b22bbc4eb2da1",
+        "title": "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703110717",
+        "published_at": "2026-07-03T12:13:21+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기업들이 고객사 현장에 엔지니어를 직접 투입하는 전방배치 엔지니어링(FDE) 조직을 앞세워 기업용 시장 공략에 속도를 내고 있다. 생성형 AI 도입이 실험 단계를 넘어 실제 업무 전환으로 확산되면서 AI 경쟁축도 모델 성능에서 현장 배포 역량으로 이동하는 모습이다.3일 업계에 따르면 마이크로소프트(MS)는 최근 25억 달러를 투자해 신규 사업 조직 '프런티어 컴퍼니'를 출범시켰다. MS는 산업 전문가와 엔지니어 6000명을 고객 현장에 배치해 AI 시스템을 공동 설계·구축하고 측정 가능한 비즈니스 성과를 기준으로 지속 개선한다는 방침이다.AWS도 최근 FDE 조직에 10억 달러를 투자하겠다고 밝혔다. 고객사의 비즈니스·엔지니어링·보안팀과 협력해 에이전트형 AI 솔루션을 공동 개발하고 실제 업무 환경에 배포하는 것이 골자다.FDE는 엔지니어가 고객 조직 안으로 들어가 업무 흐름, 데이터 구조, 보안 체계, 의사결정 방식을 이해한 뒤 실제 운영 가능한 A…",
+        "category_score": 98,
+        "score_reason": "AI 기술의 실험 단계를 넘어 실제 비즈니스 성과를 창출하는 'FDE(전방배치 엔지니어링)' 트렌드를 포착. 기업 현장 밀착형 AI 구축이 산업계의 핵심 경쟁력으로 부상하고 있음을 시사.",
+        "keywords": [
+          "AI",
+          "비즈니스 모델",
+          "엔지니어링"
+        ],
+        "planning_insight": "AI 도입 실패를 줄이기 위해 기술 공급사와 고객사가 공동 설계하는 모델이 정착되고 있음. 관련 성공 사례 중심의 B2B 솔루션 콘텐츠 전략이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "c554362aeddd4da905c38b4bd650f68df5a24eaf94750ba55c33b2a7e0018ec2",
+        "title": "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703143221",
+        "published_at": "2026-07-03T14:48:51+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 데이터센터 전력 수요가 급증하는 가운데, 차세대 원전이 AI 인프라의 새 전력원으로 부상하고 있다. 미국 원자력 스타트업 발라 아토믹스가 첨단 원자로에서 생산한 전력으로 엔비디아 AI 칩을 구동하면서 원전 기반 AI 데이터센터에 대한 기대감도 커지고 있다.지난 1일(현지시간) 발라 아토믹스는 미국 유타주 오렌지빌 사업장에서 자사의 차세대 원자로 ‘워드 250’이 생산한 전력으로 엔비디아 블랙웰 AI 칩을 구동하는 시연을 진행했다. 생산된 전력은 극히 소량에 불과했지만, 미국에서 차세대 원자로가 AI 칩 구동에 직접 전력을 공급한 첫 사례로 평가된다. 시연에서는 해당 전력을 활용해 일시적으로 웹사이트를 호스팅했다.발라 아토믹스와 엔비디아는 원자력 기반 AI 시스템 개발 방안을 공동으로 모색하기 위한 협력도 발표했다. 양사는 발라 아토믹스의 원자로를 활용해 30MW 규모 AI 데이터센터를 구축하는 방안을 검토하고 있다. 협력이 구체화될 경우 첨단 원자력…",
+        "category_score": 95,
+        "score_reason": "AI 데이터센터 급증으로 인한 전력난이 차세대 원전(SMR) 수요로 이어지는 거시적 에너지·테크 융합 신호를 담고 있음.",
+        "keywords": [
+          "AI 인프라",
+          "에너지",
+          "데이터센터"
+        ],
+        "planning_insight": "AI 인프라의 물리적 한계와 그에 따른 에너지 해결책은 향후 지속될 거대 트렌드임. 기술 중심의 AI 담론에서 인프라/전력 패러다임으로 확장 가능."
+      },
+      {
+        "rank": 3,
+        "id": "d8a28b66454e75ccc77bb3624c21ce08a053daafd21aa3864662ae62d821a3e3",
+        "title": "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702214601",
+        "published_at": "2026-07-02T21:46:01+09:00",
+        "summary": "[지디넷코리아]오픈AI가 AI 모델 추론(inference) 비용을 절반 이상 줄이는 최적화 기술을 개발한 것으로 알려졌다. 데이터센터와 GPU 확보 경쟁이 치열한 가운데, 기존 인프라의 효율을 끌어올리는 '컴퓨트 멀티플라이어(Compute Multiplier)' 전략이 새 경쟁력으로 떠올랐다.디 인포메이션은 30일(현지시간) 오픈AI 엔지니어들이 이달 초 새 추론 최적화 기법으로 모델 실행 비용을 절반 이상 줄였다고 내부에 공유했다고 보도했다. 특히 로그인하지 않은 이용자용 챗GPT에는 이 기술이 적용됐고, 특정 시점에는 엔비디아 GPU 수백 대만으로 서비스를 운영할 수 있었던 것으로 전해졌다.오픈AI가 어떤 기술을 썼는지는 공개되지 않았다. 업계에서는 낮은 정밀도로 연산하는 양자화, 이전 계산을 재활용하는 키-값 캐시, 여러 요청을 한 번에 처리하는 배치 추론, 난이도에 따라 작은 모델이나 일부 전문가만 쓰는 동적 라우팅 등이 복합적으로 쓰였을 것으로 본다.이런 최적화는 단순한…",
+        "category_score": 92,
+        "score_reason": "AI 모델의 성능 경쟁에서 나아가 '컴퓨트 효율성(추론 비용 절감)'이 새로운 경쟁축으로 이동하고 있음을 잘 보여주는 기술적 변화 신호.",
+        "keywords": [
+          "AI 모델",
+          "추론 효율화",
+          "인프라 최적화"
+        ],
+        "planning_insight": "AI의 대중화를 위해 비용 효율이 중요해지는 시점. 단순히 '성능 좋은 AI'를 넘어 '경제적이고 효율적인 AI 인프라' 관점의 인사이트를 제공해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "3632d2b02420aebf67a78a2d1d15bcd84b18538a644da22b1b5e40460e317160",
+        "title": "\"필요한 곳만 고쳐요\"...오늘의집 부분 시공 계약, 1년새 3배↑",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703153318",
+        "published_at": "2026-07-03T15:45:55+09:00",
+        "summary": "[지디넷코리아]고금리와 공사비 상승으로 집을 통째로 고치는 전면 리모델링의 부담이 커지면서, 낡거나 불편한 공간만 골라 고치는 ‘부분 시공’이 새로운 주거 소비 트렌드로 자리 잡고 있다. 3일 관련업계에 따르면 라이프스타일 플랫폼 오늘의집 직접 시공 사업도 이 흐름을 타고 성장 중이다. 오늘의집 부분시공의 올 6월 계약금액은 지난해 같은 기간보다 3배 가량 늘었고, 주방 카테고리는 서비스 출시 1년 만에 16배 뛰었다.부분 시공이 뜨는 배경에는 비용 부담이 있다. 한국건설기술연구원 공사비원가관리센터에 따르면 지난 5월 건설공사비 지수는 137.67로 사상 최고치를 기록했다. 전년 동월 대비 5.07% 오른 수치로, 코로나19 이전인 2019년 12월(98.63)과 비교하면 약 40% 높다. 전면 리모델링 견적이 부담스러운 수준으로 뛰면서, 소비자들은 ‘다 뜯는’ 대신 ‘필요한 곳만 고치는’ 쪽으로 눈을 돌리고 있다. 반면 손봐야 할 집은 계속 늘고 있다. 국토교통부 전국 건축물 통…",
+        "category_score": 89,
+        "score_reason": "고금리·공사비 상승이라는 거시 경제 환경 변화에 대응하는 '부분 시공'이라는 소비자 행동 변화를 포착한 커머스 서비스의 성장 사례.",
+        "keywords": [
+          "커머스",
+          "소비 트렌드",
+          "주거 문화"
+        ],
+        "planning_insight": "경기 침체기에는 통째로 바꾸는 소비보다 필요한 부분만 바꾸는 '파편화된 소비'가 증가함. 라이프스타일 플랫폼의 데이터 기반 타겟팅 서비스 확장에 주목."
+      },
+      {
+        "rank": 5,
+        "id": "4cf8de4550f62880db63a4122157636c1f786429f060f13794993a26aa32b147",
+        "title": "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260703135108",
+        "published_at": "2026-07-03T15:15:09+09:00",
+        "summary": "[지디넷코리아]SK네트웍스 자회사 인크로스가 AI 기반 마케팅 솔루션 개발 등을 통해 통합 마케팅 회사로 전환한다. 인크로스는 AI가 일상화된 환경에 발맞춰 AI 기반 마케팅 솔루션을 개발하고 있다고 3일 밝혔다. 이 회사는 시장 분석과 캠페인 운영 자동화, 광고 소재 최적화, 인플루언서 마케팅 효율 극대화 등 광고, 마케팅 전 과정에서 AI 솔루션을 개발하고 있다. 이를 통해 단순 광고 대행을 넘어, 통합 마케팅 컴퍼니로 전환을 이룬다는 전략이다.자체 AI 생태계 구축에도 속도를 내고 있다. 사내 AI에이전트 ‘아이노바’를 기반으로 전 구성원이 AI를 업무에 활용할 수 있는 환경을 구축하고 있다.인크로스는 디지털 마케팅 시장 흐름을 분석한 2026 상반기 마케팅 트렌드 결산 리포트에서 'AI 일상 인프라화'와 '콘텐츠 경험 재편'을 트렌드로 꼽았다. 리포트에 따르면 AI는 일상과 업무에서 누구나 쓰는 기본 인프라로 자리 잡았다. AI가 일상과 업무 전반에 깊숙이 자리 잡으며 마케…",
+        "category_score": 87,
+        "score_reason": "AI가 일상적인 업무 인프라로 자리 잡으며 광고 대행사가 단순 실행사가 아닌 'AI 기반 통합 마케팅 솔루션사'로 변모하는 산업 전반의 구조적 변화를 설명.",
+        "keywords": [
+          "AI 광고",
+          "마케팅 솔루션",
+          "디지털 전환"
+        ],
+        "planning_insight": "AI 일상화에 따른 광고/마케팅 대행 모델의 종말과 기술 기반 컨설팅 모델로의 전환 시나리오 제언이 가능함."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+        "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30775",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+        "category_score": 98,
+        "score_reason": "에이전트 시스템의 실무적 난제인 '스킬 라우팅' 문제를 자동화 파이프라인으로 해결하는 실용적 기법을 제시하여 즉각적인 현업 활용 가치가 매우 높음.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로 최적화",
+          "라우팅 자동화"
+        ],
+        "planning_insight": "엔터프라이즈 에이전트 구축 시 서비스의 정교함을 높이기 위한 필수적인 운영 효율화 전략으로 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "424e0bb6a395fa20ebc1f49d19cbc46651b1a007e960f447895fb09008816fd1",
+        "title": "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01293",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01293v1 Announce Type: new Abstract: We present RuleChef, a framework that uses large language models (LLMs) to generate executable rules for NLP tasks such as text classification, Named Entity Recognition (NER), or relation extraction. Rules are generated based on a task description and a set of labeled examples, then they are iteratively improved based both on additional examples and on human feedback overexisting rules. RuleChef can also be used to bootstrap rules using the observ…",
+        "category_score": 95,
+        "score_reason": "LLM이 생성한 결과를 인간이 편집 가능한 규칙 기반으로 통제하는 접근 방식은 AI 콘텐츠 생성의 신뢰성과 제어권을 동시에 확보하는 핵심 전략임.",
+        "keywords": [
+          "LLM 제어",
+          "규칙 기반 생성",
+          "콘텐츠 품질 관리"
+        ],
+        "planning_insight": "기획자는 AI 생성물의 변동성을 줄이기 위해 시스템적 규칙(Human-in-the-loop)을 어떻게 설계할지에 대한 표준 모델을 얻을 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "113d4b35aadc1d83fc02a054358acd89067cdf044c0a76d3830e89edc9c8cfc9",
+        "title": "Office Comprehension Benchmark",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01245",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01245v1 Announce Type: new Abstract: We introduce Office Comprehension Bench (OCB), the first public benchmark to jointly evaluate LLM systems on Word, Excel, and PowerPoint comprehension over native file formats (.docx, .xlsx, .pptx) and their variants. OCB consists of two tracks. File Fidelity Q&A tests structural and visual perception of office artifacts - tables, charts, embedded images, formulas, and app-specific elements such as headers, speaker notes, and named ranges. Domain…",
+        "category_score": 92,
+        "score_reason": "사무용 문서(Word, Excel, PPT)의 구조적 이해를 측정하는 벤치마크로, 문서 기반 RAG 서비스나 자동화 툴 기획 시 반드시 고려해야 할 평가 지표를 제공함.",
+        "keywords": [
+          "RAG",
+          "문서 자동화",
+          "오피스 데이터"
+        ],
+        "planning_insight": "기업 내부 데이터 기반의 콘텐츠 분석 및 요약 서비스 고도화를 위한 기술적 정합성 검증 지표로 활용."
+      },
+      {
+        "rank": 4,
+        "id": "8f5b1795bf87581cc55e1ddc17599afd0228fa0167c9dff68cd9e764bded8e80",
+        "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01236",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01236v1 Announce Type: new Abstract: As LLM agents gain increasing access to powerful tools, ensuring that their actions are aligned with the user's intent becomes critical. When an agent's proposed tool invocation deviates from the user's intent -- a phenomenon called misalignment -- it may lead to harmful consequences that are difficult to undo. Existing runtime guardrails rely on an LLM-as-a-judge paradigm that lacks a systematic framework for reasoning about alignment, often prod…",
+        "category_score": 89,
+        "score_reason": "에이전트의 오작동을 방지하는 출처 기반 분석(Provenance Analysis) 프레임워크는 신뢰할 수 있는 AI 콘텐츠 생성을 위한 핵심 가드레일 기술임.",
+        "keywords": [
+          "AI 에이전트",
+          "가드레일",
+          "정합성"
+        ],
+        "planning_insight": "AI 자동화 시스템 기획 시, 결과물의 출처와 논리 흐름을 투명하게 관리하여 할루시네이션 리스크를 방지하는 기획 방안 수립에 필수적."
+      },
+      {
+        "rank": 5,
+        "id": "6eb55b170c9ecfb416b6e28f319d066523de349b91f0860de7664b8556bfe9b3",
+        "title": "Mapping Text to Multiplex Graph: Prompt Compression as L\\'evy Walk-Guided Graph Pruning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2607.01241",
+        "published_at": "2026-07-03T13:00:00+09:00",
+        "summary": "arXiv:2607.01241v1 Announce Type: new Abstract: Existing prompt compression methods treat text as flat token sequences, failing to capture the distributed nature of important information, which is often spread across multiple locations and connected through both local syntactic dependencies and global semantic relations. Such relational structure is naturally represented as a graph, where tokens or sentences become nodes and their dependencies become edges. To this end, we propose RAGP, which f…",
+        "category_score": 85,
+        "score_reason": "텍스트를 그래프로 구조화하여 프롬프트를 압축하는 기술은 대용량 데이터를 처리하는 RAG 모델의 효율성을 획기적으로 개선함.",
+        "keywords": [
+          "프롬프트 압축",
+          "RAG",
+          "그래프 데이터"
+        ],
+        "planning_insight": "비용 최적화와 응답 속도 향상을 위해 대량의 콘텐츠를 효율적으로 입력값에 담는 기술적 아키텍처 구성 시 참조."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "9d5149129bd80a21394609a831b0bf12d2a6bbaa7d4475fbd24b22bbc4eb2da1",
+      "title": "[AI는 지금] AI 도입 성패 가르는 FDE…기업 밀착형 구축 경쟁 본격화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703110717",
+      "published_at": "2026-07-03T12:13:21+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업들이 고객사 현장에 엔지니어를 직접 투입하는 전방배치 엔지니어링(FDE) 조직을 앞세워 기업용 시장 공략에 속도를 내고 있다. 생성형 AI 도입이 실험 단계를 넘어 실제 업무 전환으로 확산되면서 AI 경쟁축도 모델 성능에서 현장 배포 역량으로 이동하는 모습이다.3일 업계에 따르면 마이크로소프트(MS)는 최근 25억 달러를 투자해 신규 사업 조직 '프런티어 컴퍼니'를 출범시켰다. MS는 산업 전문가와 엔지니어 6000명을 고객 현장에 배치해 AI 시스템을 공동 설계·구축하고 측정 가능한 비즈니스 성과를 기준으로 지속 개선한다는 방침이다.AWS도 최근 FDE 조직에 10억 달러를 투자하겠다고 밝혔다. 고객사의 비즈니스·엔지니어링·보안팀과 협력해 에이전트형 AI 솔루션을 공동 개발하고 실제 업무 환경에 배포하는 것이 골자다.FDE는 엔지니어가 고객 조직 안으로 들어가 업무 흐름, 데이터 구조, 보안 체계, 의사결정 방식을 이해한 뒤 실제 운영 가능한 A…",
+      "category_score": 98,
+      "score_reason": "AI 기술의 실험 단계를 넘어 실제 비즈니스 성과를 창출하는 'FDE(전방배치 엔지니어링)' 트렌드를 포착. 기업 현장 밀착형 AI 구축이 산업계의 핵심 경쟁력으로 부상하고 있음을 시사.",
+      "keywords": [
+        "AI 도입",
+        "FDE",
+        "B2B 전략"
+      ],
+      "planning_insight": "B2B 서비스나 콘텐츠 솔루션 기획 시, 단순 도구 소개가 아닌 고객사 워크플로우에 직접 침투하여 성과를 측정하는 '파트너십형' 콘텐츠 전략 설계가 필수적임.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 경쟁의 중심이 모델 성능에서 현장 밀착형 구축(FDE)으로 이동 중",
+      "importance_reason": "AI가 실험 단계를 넘어 비즈니스 핵심으로 자리 잡으며, 기술 도입 성공을 위한 '현장 배포 역량'이 기업의 차별화 요소로 부상함."
+    },
+    {
+      "rank": 2,
+      "id": "c554362aeddd4da905c38b4bd650f68df5a24eaf94750ba55c33b2a7e0018ec2",
+      "title": "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260703143221",
+      "published_at": "2026-07-03T14:48:51+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 데이터센터 전력 수요가 급증하는 가운데, 차세대 원전이 AI 인프라의 새 전력원으로 부상하고 있다. 미국 원자력 스타트업 발라 아토믹스가 첨단 원자로에서 생산한 전력으로 엔비디아 AI 칩을 구동하면서 원전 기반 AI 데이터센터에 대한 기대감도 커지고 있다.지난 1일(현지시간) 발라 아토믹스는 미국 유타주 오렌지빌 사업장에서 자사의 차세대 원자로 ‘워드 250’이 생산한 전력으로 엔비디아 블랙웰 AI 칩을 구동하는 시연을 진행했다. 생산된 전력은 극히 소량에 불과했지만, 미국에서 차세대 원자로가 AI 칩 구동에 직접 전력을 공급한 첫 사례로 평가된다. 시연에서는 해당 전력을 활용해 일시적으로 웹사이트를 호스팅했다.발라 아토믹스와 엔비디아는 원자력 기반 AI 시스템 개발 방안을 공동으로 모색하기 위한 협력도 발표했다. 양사는 발라 아토믹스의 원자로를 활용해 30MW 규모 AI 데이터센터를 구축하는 방안을 검토하고 있다. 협력이 구체화될 경우 첨단 원자력…",
+      "category_score": 95,
+      "score_reason": "AI 데이터센터 급증으로 인한 전력난이 차세대 원전(SMR) 수요로 이어지는 거시적 에너지·테크 융합 신호를 담고 있음.",
+      "keywords": [
+        "AI 인프라",
+        "SMR",
+        "에너지"
+      ],
+      "planning_insight": "기술 중심의 담론에서 인프라·에너지 관점으로 AI 트렌드를 해석하는 리포트나 인사이트 콘텐츠가 매우 중요해질 것임.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 데이터센터 급증에 따른 전력난 해소책으로 '원자력(SMR)'이 핵심 변수로 부상",
+      "importance_reason": "AI 서비스의 지속 가능성이 전력 인프라에 달려 있음을 보여주는 거시적 흐름으로, 향후 모든 AI 관련 기획의 근간이 될 이슈임."
+    },
+    {
+      "rank": 3,
+      "id": "1a5c21d32337ccc65d8487942fc88e058cc67ae44729c82e2fd03ab2faaea549",
+      "title": "A Single Rewrite Suffices: Empirical Lessons from Production Skill Description Optimization",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30775",
+      "published_at": "2026-07-02T13:00:00+09:00",
+      "summary": "arXiv:2606.30775v1 Announce Type: new Abstract: Enterprise AI agents route user queries to specialized skills by matching queries against natural language skill descriptions. When two skills share overlapping descriptions, the routing LLM misroutes queries, a failure we term skill collision. As agents scale to dozens of skills, manually tuning descriptions to maintain routing accuracy becomes a significant engineering bottleneck. We deploy an automated description optimization pipeline on a pro…",
+      "category_score": 98,
+      "score_reason": "에이전트 시스템의 실무적 난제인 '스킬 라우팅' 문제를 자동화 파이프라인으로 해결하는 실용적 기법을 제시하여 즉각적인 현업 활용 가치가 매우 높음.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로 자동화",
+        "라우팅"
+      ],
+      "planning_insight": "기업용 챗봇이나 내부 업무 자동화 툴 기획 시, 사용자 질문과 시스템 스킬을 정교하게 매칭하는 구조적 최적화 로직으로 직접 활용 가능.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "엔터프라이즈 AI 에이전트의 '스킬 충돌'을 방지하는 자동화 최적화 기법",
+      "importance_reason": "AI 에이전트가 복잡한 업무를 수행할 때 발생하는 필수적 운영 병목을 해소하는 실용적 기법임."
+    },
+    {
+      "rank": 4,
+      "id": "d8a28b66454e75ccc77bb3624c21ce08a053daafd21aa3864662ae62d821a3e3",
+      "title": "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260702214601",
+      "published_at": "2026-07-02T21:46:01+09:00",
+      "summary": "[지디넷코리아]오픈AI가 AI 모델 추론(inference) 비용을 절반 이상 줄이는 최적화 기술을 개발한 것으로 알려졌다. 데이터센터와 GPU 확보 경쟁이 치열한 가운데, 기존 인프라의 효율을 끌어올리는 '컴퓨트 멀티플라이어(Compute Multiplier)' 전략이 새 경쟁력으로 떠올랐다.디 인포메이션은 30일(현지시간) 오픈AI 엔지니어들이 이달 초 새 추론 최적화 기법으로 모델 실행 비용을 절반 이상 줄였다고 내부에 공유했다고 보도했다. 특히 로그인하지 않은 이용자용 챗GPT에는 이 기술이 적용됐고, 특정 시점에는 엔비디아 GPU 수백 대만으로 서비스를 운영할 수 있었던 것으로 전해졌다.오픈AI가 어떤 기술을 썼는지는 공개되지 않았다. 업계에서는 낮은 정밀도로 연산하는 양자화, 이전 계산을 재활용하는 키-값 캐시, 여러 요청을 한 번에 처리하는 배치 추론, 난이도에 따라 작은 모델이나 일부 전문가만 쓰는 동적 라우팅 등이 복합적으로 쓰였을 것으로 본다.이런 최적화는 단순한…",
+      "category_score": 92,
+      "score_reason": "AI 모델의 성능 경쟁에서 나아가 '컴퓨트 효율성(추론 비용 절감)'이 새로운 경쟁축으로 이동하고 있음을 잘 보여주는 기술적 변화 신호.",
+      "keywords": [
+        "AI 모델",
+        "추론 효율화",
+        "비용 최적화"
+      ],
+      "planning_insight": "AI 도입을 고민하는 고객사에게 단순히 고성능 AI를 권하는 것이 아니라, 비용 대비 효율이 최적화된 경량 모델 활용 방안을 제시하는 기획이 필요함.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "성능 경쟁을 넘어 '추론 비용 절반'을 실현하는 인프라 효율화 전략의 본격화",
+      "importance_reason": "AI 서비스의 대중화를 위해서는 모델 성능보다 경제성이 더 중요한 단계에 진입했음을 알림."
+    },
+    {
+      "rank": 5,
+      "id": "424e0bb6a395fa20ebc1f49d19cbc46651b1a007e960f447895fb09008816fd1",
+      "title": "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2607.01293",
+      "published_at": "2026-07-03T13:00:00+09:00",
+      "summary": "arXiv:2607.01293v1 Announce Type: new Abstract: We present RuleChef, a framework that uses large language models (LLMs) to generate executable rules for NLP tasks such as text classification, Named Entity Recognition (NER), or relation extraction. Rules are generated based on a task description and a set of labeled examples, then they are iteratively improved based both on additional examples and on human feedback overexisting rules. RuleChef can also be used to bootstrap rules using the observ…",
+      "category_score": 95,
+      "score_reason": "LLM이 생성한 결과를 인간이 편집 가능한 규칙 기반으로 통제하는 접근 방식은 AI 콘텐츠 생성의 신뢰성과 제어권을 동시에 확보하는 핵심 전략임.",
+      "keywords": [
+        "LLM 제어",
+        "규칙 기반",
+        "품질 관리"
+      ],
+      "planning_insight": "AI 자동 생성 콘텐츠 서비스를 기획할 때, 사람이 개입하여 가이드라인을 강제할 수 있는 시스템 설계(Human-in-the-loop)의 표준 모델로 참고할 것.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 생성물의 변동성을 제어하는 '인간 편집 가능 규칙(Human-Editable Rules)' 프레임워크",
+      "importance_reason": "AI 기반 콘텐츠 자동화의 가장 큰 난제인 '할루시네이션과 제어력 상실' 문제를 해결하는 시스템적 접근임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 79,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 27,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 20,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 19,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 16,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업은 모델 자체의 성능 경쟁에서 벗어나 실제 현장 도입 역량(FDE)과 인프라 효율화(추론 비용 최적화) 단계로 진입했습니다.",
+    "AI 에이전트와 자동화 툴은 이제 단순히 기능을 수행하는 것을 넘어, 운영 효율성을 높이고 사람이 제어 가능한 구조를 갖추는 방향으로 고도화되고 있습니다.",
+    "거시 환경 변화(고비용, 전력난 등)에 맞춰 기업들은 파편화된 소비에 대응하거나 에너지 문제를 기술적으로 해결하는 등 실용적이고 지속 가능한 전략을 우선시하고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

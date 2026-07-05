@@ -1,0 +1,507 @@
+{
+  "briefing_date": "2026-06-30",
+  "generated_at": "2026-06-30T16:01:31.535912+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 176,
+    "tech_blog": 3,
+    "ai_data": 21
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "4acaa52fa48fd5bba091373b4c21c3343d6638501b87e3bd4c7396e6e849bcfe",
+        "title": "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629112425",
+        "published_at": "2026-06-29T11:36:20+09:00",
+        "summary": "[지디넷코리아]정부가 한국형 AI 산업혁명 완수를 목표로 반도체, 피지컬 AI, AI 데이터센터 등 ‘3대 메가프로젝트’의 구체적인 청사진을 공개한다. 향후 10년간 총투자 규모가 2000조원을 상회할 것으로 관측되는 등 역대 최대 규모의 국가적 대도약 사업이 본격화될 전망이다.이재명 대통령은 29일 오후 2시 청와대 영빈관에서 ‘회복을 넘어 대도약으로, 초격차 대한민국’이라는 슬로건 아래 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 주재한다.앞서 강유정 청와대 수석대변인은 지난 28일 브리핑을 통해 이 같은 일정과 함께 이번 행사에는 이재용 삼성전자 회장과 최태원 SK그룹 회장이 직접 참석한다고 밝혔다.이번 메가프로젝트의 핵심은 호남, 충청, 영남 등 비수도권 지역을 중심으로 미래 AI 인프라를 전방위로 구축하는 내용이 핵심 골자이다. 우선 광주·전남을 비롯한 호남권에는 삼성전자와 SK하이닉스가 전공정 팹(Fab)을 포함한 대규모 반도체 클러스터를 조성한다. 1기당 건설 비…",
+        "category_score": 98,
+        "score_reason": "반도체, 피지컬 AI, AI 데이터센터(AIDC) 등 미래 국가 산업 경쟁력을 결정짓는 대규모 국가 프로젝트의 청사진이 공개됨. 향후 10년간의 산업 정책 방향성과 기업 투자의 핵심 신호탄으로 시장 영향력이 매우 큼.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "국가 프로젝트",
+          "AIDC"
+        ],
+        "planning_insight": "AI 인프라 확장이 단순한 기술 도입을 넘어 국가 단위의 인프라 구축으로 진화하고 있음을 시사. 데이터센터 건립과 관련된 전력, 용수 공급 등 파생 산업군에 대한 콘텐츠 기획 필요."
+      },
+      {
+        "rank": 2,
+        "id": "a65e6aea0713df06326b3d58fc3eb716f615b495307b38edf87e728782a623ea",
+        "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629222727",
+        "published_at": "2026-06-29T22:27:27+09:00",
+        "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억 달러), 아마존(Amazon), 메타(Meta) 등 4대 하이퍼스케일러의 올해 자본지출 합계는 4,520억 달러(약 694조 원)를 넘어선 것으로 집계됐다. 이스라엘 국내총생산(GDP)보다 큰 금액이다. 반면 마이크로소프트의 AI 서비스는 최근 4개 분기 970억 달러를 쓰는 동안 연환산 370억 달러의 매출을 냈다. 1달러를 써서 38센트를 거둔 수준이다.앤트로픽(Anthropic)은…",
+        "category_score": 95,
+        "score_reason": "AI 기술 투자가 급증하는 반면, 실질적인 수익화(ROI)에 대한 회의론이 시장에서 확산되고 있음을 보여줌. 기술 기업들의 자본지출 규모와 매출 간의 괴리를 분석한 심도 있는 경제 트렌드 지표.",
+        "keywords": [
+          "AI",
+          "자본지출",
+          "ROI",
+          "시장회의론"
+        ],
+        "planning_insight": "AI 버블 논란과 수익화 검증이 올해 하반기 주요 화두가 될 것임. AI 서비스의 실질적인 성과를 보여주는 데이터 중심 콘텐츠로 시장의 신뢰를 확보하는 전략이 중요함."
+      },
+      {
+        "rank": 3,
+        "id": "612e77a324b58e2620d30b1707e27acc941533ed3e5cbe6558bfac257888dd61",
+        "title": "피지컬 AI 선점 위해 '팀 코리아' 뭉쳐야…데이터 구매·공장 수출 등 제안",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629182121",
+        "published_at": "2026-06-29T18:31:15+09:00",
+        "summary": "[지디넷코리아]주요 피지컬 인공지능(AI) 스타트업이 한자리에 모여 글로벌 시장 선점을 위한 원팀 구축과 정부 지원을 촉구했다. 글로벌 빅테크와 경쟁에서 이기려면 국내 기업 간 연합군 형성과 데이터 확보가 필수라고 봤기 때문이다. 류중희 리얼월드 대표는 29일 청와대에서 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 \"리얼월드의 오픈소스 파운데이션 모델이 엔비디아를 제치고 글로벌 벤치마크 1위를 차지했다\"며 \"거대언어모델(LLM)에서 정부가 독자 파운데이션 모델을 개발하는 것처럼 피지컬 AI도 대기업, 강소기업, 컴퓨팅 기업으로 연합군을 구성하면 글로벌 초격차를 달성할 수 있을 것\"이라고 밝혔다.현장의 로 데이터(Raw Data) 수집 프로세스를 혁신해야 한다는 목소리도 나왔다. 엄윤설 에이로봇 대표는 \"로봇 기업에 가장 필요한 것은 실제 작업자의 동작 데이터지만, 기업마다 형식과 기준이 달라 데이터 취득이 매우 어렵다\"고 지적했다.엄 대표는 '에고센트릭(바디캠 착용)…",
+        "category_score": 92,
+        "score_reason": "언어 모델(LLM) 중심의 AI 논의가 제조 현장의 '피지컬 AI'로 이동하고 있음. 로봇과 데이터 결합이 필수적인 시장 상황을 반영하여 실무적 데이터 수집 프로세스 혁신을 강조함.",
+        "keywords": [
+          "피지컬 AI",
+          "로봇",
+          "데이터 표준화"
+        ],
+        "planning_insight": "제조 현장의 데이터를 표준화하고 AI와 결합하는 시도가 산업 성장의 열쇠가 됨. 현장 작업자의 데이터가 자산이 되는 과정을 다루는 전문적인 B2B 콘텐츠 수요 증가 예상."
+      },
+      {
+        "rank": 4,
+        "id": "a2c57a5b7294d6fe73714699617a554118521353f459184d2998480877e16668",
+        "title": "코나아이, 50억원 규모 자기주식 추가 취득하기로",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260629114400",
+        "published_at": "2026-06-29T11:44:00+09:00",
+        "summary": "[지디넷코리아]코나아이(대표 조정일)가 주가 안정과 주주가치 제고를 위해 자기수식을 추가 취득하기로 했다. 코나아이는 지난 26일 이사회에서 보통주 12만 7000주 대상 자기주식을 추가 취득하기로 결정했다고 29일 밝혔다. 취득예정금액은 약 50억 1015만원이다.이번 결정에 대해 회사는 \"주주들과 함께 어려운 시기를 헤쳐 나가겠다는 경영진의 의지를 담은 행보\"라고 설명했다.코나아이는 지난 5일 보통주 10만주, 약 50억원 규모의 1차 자기주식 취득을 결정하고, 8일부터 10일까지 단 3거래일 만에 전량 완료했다.1차 취득 완료 후 이어진 2차 결정으로 누적 취득 예정 주식수는 22만 7000주, 금액 기준으로는 약 100억원을 넘게 된다.코나아이는 올해 초 향후 3개년 배당 정책을 공표하며 연결 당기순이익 대비 25% 이상의 배당성향을 유지하겠다는 방침을 밝혔었다. 이번 공시에는 취득 목적에 '자사주 매입 후 소각'이 명시됐다. 올해 3월 시행된 개정 상법은 회사가 취득한 자…",
+        "category_score": 88,
+        "score_reason": "기업들의 AI 도입 및 운영 비용 절감 기조 속에서, 최근 AI 데이터센터 구축 확대로 인한 전력·용수 관련 인프라 기업들의 수주 경쟁이 가속화되는 현장을 보여줌.",
+        "keywords": [
+          "데이터센터",
+          "인프라",
+          "친환경 소재"
+        ],
+        "planning_insight": "단순한 AI 소프트웨어 이슈를 넘어, 물리적 인프라(콘크리트, 전력망)와의 연결성이 콘텐츠 전략의 핵심이 됨. 전통 산업이 AI 시대에 어떻게 재정의되는지 보여주는 사례."
+      },
+      {
+        "rank": 5,
+        "id": "60ea1d6244503d38574d1ad0b14d024c15cd7414f40cae001c7715ed0424fe87",
+        "title": "대포폰·명의도용 뿌리뽑는다...'안면인증' 7월부터 도입",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260630111132",
+        "published_at": "2026-06-30T11:19:49+09:00",
+        "summary": "[지디넷코리아]정부가 명의도용과 대포폰을 뿌리뽑기 위해 시범운영을 거친 안면인증을 단계적으로 도입하고, 휴대폰 부정사용에 대한 사후 단속과 제재를 강화한다.최우혁 과학기술정보통신부 정보보호네트워크정책실장은 30일 정부서울청사에서 브리핑을 열어 “타인의 신분증 위조, 해킹으로 개인정보 확보 후 명의가 도용되는 범죄 발생 우려가 증가하고 있어 휴대전화 개통 시 신원확인 절차를 강화한다”고 밝혔다.이날 발표된 휴대전화 부정사용 방지 종합대책에 따르면 지난해 말부터 진행된 휴대폰 개통 안면인증 시범기간 동안 이통 3사와 알뜰폰의 모든 채널에 시스템을 적용해 인식률을 높였다.또 308개 선도대리점을 통해 운영 체계를 점검하고 해킹 취약점 등 보안성 검토를 마쳤고 개인정보보호위원회와 국가인권위원회 개선 권고를 이행하면서 내달 6일부터 안면인증을 단계적으로 시행한다.단계적 시행기간 동안은 안면인증 선택 시 최소 1차례(3회)의 이행 후 후속 절차를 통해 개통이 가능하며, 국민 불편 최소화를 위…",
+        "category_score": 85,
+        "score_reason": "AI와 생체인증 기술이 민생 범죄 예방을 위한 플랫폼 환경에 적용되는 구체적 사례. 기술의 사회적 책임과 소비자 보안 인식 변화를 담고 있음.",
+        "keywords": [
+          "AI",
+          "생체인증",
+          "보안",
+          "소비자 보호"
+        ],
+        "planning_insight": "소비자가 일상에서 겪는 불안(명의도용, 범죄)을 AI가 어떻게 해결하는지 보여주는 서비스 사례 연구가 중요함. 사용자 친화적인 보안 기술 콘텐츠로 신뢰를 쌓아야 함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+        "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3897377",
+        "published_at": "2026-06-30T20:00:48+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트를 활용한 서비스 운영과 조직화 전략을 다루어, 향후 AI 기반 제품 기획의 핵심인 '에이전트 워크플로우'와 '운영 자동화' 인사이트를 가장 잘 보여줌.",
+        "keywords": [
+          "AI 에이전트",
+          "운영 자동화",
+          "워크플로우"
+        ],
+        "planning_insight": "AI 에이전트 시스템을 단순한 기능이 아닌 '비서실장과 10개 부서'라는 조직적 개념으로 접근하여 에이전트 간 협업과 관리가 가능한 플랫폼 구조 설계 지침 제공."
+      },
+      {
+        "rank": 2,
+        "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+        "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+        "published_at": "2026-06-29T11:36:06+09:00",
+        "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+        "category_score": 95,
+        "score_reason": "기존 플랫폼의 강점(중고거래 마켓플레이스)을 활용해 신규 서비스로 확장하는 PMF 검증 과정과 단계적 성장 전략을 상세히 기술함.",
+        "keywords": [
+          "PMF",
+          "마켓플레이스",
+          "제품 빌딩"
+        ],
+        "planning_insight": "기존 서비스 유저 베이스를 기반으로 새로운 도메인(레슨/과외)을 안착시키는 실험 설계와 점진적 스케일업 과정에서의 의사결정 방식 공유."
+      },
+      {
+        "rank": 3,
+        "id": "49e04088f8c688c5b7f7995de60e0f1ce78c718c032957b3aed619c6bd5cbac0",
+        "title": "End to End 유저 모니터링 RUM 으로 한방에 해결!!",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9227131",
+        "published_at": "2026-06-29T20:06:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 End To End 모니터링을 별도의 작업없이 제공 받을수 있는 nFront RUM 서비스를 소개합니다. 내부 솔루션만으로 구현한 서비스로 별도의 비용 없이 AI report까지 제공되는 Real User Monitoring 서비스 입니다. 발표 대상 서비스 품질 측정과 모니터링 작업에 관심있는 개발자 목차 RUM (Real User Monitoring )이란? 측정 방식 외부 솔루션과의 차이 AI 분석 리포트 소개 Dashboard 소개 구성 요약 기술 부록 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEER…",
+        "category_score": 90,
+        "score_reason": "UX 품질 관리와 직결되는 RUM(Real User Monitoring) 데이터를 AI로 해석하여 인사이트를 도출하는 구조를 제시함.",
+        "keywords": [
+          "RUM",
+          "UX 개선",
+          "데이터 분석"
+        ],
+        "planning_insight": "단순 모니터링을 넘어 실시간 유저 경험 데이터에 AI를 결합하여 자동화된 리포팅 시스템을 구축하는 UX/데이터 결합 방법론 제시."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+        "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27472",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+        "category_score": 98,
+        "score_reason": "LLM 에이전트의 핵심 난제인 '지식 업데이트(Memory-Update)'를 다루며, 실제 서비스 환경에서의 정보 최신성 유지와 오류 방지 전략을 제시함.",
+        "keywords": [
+          "LLM 에이전트",
+          "지식 관리",
+          "메모리 업데이트"
+        ],
+        "planning_insight": "AI 에이전트가 고객 상담이나 업무 자동화에 투입될 때, 변화하는 데이터를 어떻게 신뢰성 있게 추적하고 과거 정보를 폐기할지 설계하는 지침이 됨."
+      },
+      {
+        "rank": 2,
+        "id": "8f4230a1bf94072cec0dc50ba7c6cbd6c1ce4fbf11012a6dd7eb96c1c365fd59",
+        "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27595",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27595v1 Announce Type: new Abstract: Web-agent benchmarks overwhelmingly measure depth -- pinning one obscure answer behind a chain of constraints -- while breadth, exhaustively enumerating a closed set and filling each item's attributes, is barely evaluated, especially outside English. Breadth is also hard to build: certifying that a gold set is complete and every cell correct is far costlier than checking a single answer. I introduce \\textsc{Ko-WideSearch}, a Korean breadth-search…",
+        "category_score": 95,
+        "score_reason": "웹 에이전트의 성능 평가를 위한 한국어 특화 벤치마크 제공. 자동화 기획에서 가장 중요한 '검색 및 데이터 추출' 역량을 다룸.",
+        "keywords": [
+          "웹 에이전트",
+          "데이터 수집",
+          "한국어 벤치마크"
+        ],
+        "planning_insight": "자동화 에이전트 기획 시, 단순 질의응답을 넘어 특정 도메인의 데이터를 포괄적으로 수집·분류하는 에이전트 성능을 검증하는 도구로 활용 가능."
+      },
+      {
+        "rank": 3,
+        "id": "a392976f64fbec645cd142508e42579d3fd63d115d7fbf3662fb4333d955a853",
+        "title": "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27380",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27380v1 Announce Type: new Abstract: Automated coaching for oral presentations sits at the intersection of computer-assisted pronunciation training (CAPT), prosody modeling, and speech synthesis, yet no prior work has systematically surveyed and compared existing systems along these dimensions. This survey reviews and categorizes automated presentation coaching systems, spanning pronunciation tutors, fluency and prosody coaches, multimodal trainers, and conference Q&A practice tools.…",
+        "category_score": 92,
+        "score_reason": "콘텐츠 제작(프레젠테이션) 과정을 보조하는 AI 시스템을 체계적으로 분류한 서베이로, 자동화 도구 개발 및 기획의 가이드라인 제공.",
+        "keywords": [
+          "자동화 코칭",
+          "멀티모달",
+          "콘텐츠 제작"
+        ],
+        "planning_insight": "교육, 마케팅, 사내 커뮤니케이션 콘텐츠 제작 시 AI가 어떤 방식으로 사람의 스킬을 향상시킬 수 있는지 기술적 아키텍처를 이해하는 데 유용함."
+      },
+      {
+        "rank": 4,
+        "id": "fed69c256829413a6ab3396e4bf0d466f13aba1c9147824325a4af51dcd10816",
+        "title": "EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.27550",
+        "published_at": "2026-06-29T13:00:00+09:00",
+        "summary": "arXiv:2606.27550v1 Announce Type: new Abstract: Multi-token prediction has been shown to increase data density during training, improve downstream text-generation quality, and serves as the defacto approach for self-speculative decoding. Existing foundation and open source models that use MTP heads commit to a static tree-based attention topology throughout the entire generation sequence, meaning the speculation depth, and thus the compute required during verification, stays constant regardless…",
+        "category_score": 88,
+        "score_reason": "LLM 추론 속도를 최적화하는 기법으로, 실시간 서비스 운영 시 비용 효율성을 극대화할 수 있는 기술적 진보.",
+        "keywords": [
+          "LLM 추론",
+          "비용 최적화",
+          "실시간 서비스"
+        ],
+        "planning_insight": "사용자에게 즉각적인 응답이 필요한 AI 서비스 기획 시, 품질과 속도 사이의 균형을 맞추기 위한 기술적 토대를 확보함."
+      },
+      {
+        "rank": 5,
+        "id": "280485e319912dcfa0f5d3a8285179e4b613550b50608cf4eca99b651d08b01d",
+        "title": "Correct codes for the wrong reasons? validating LLMs as measurement instruments for theoretical constructs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.28574",
+        "published_at": "2026-06-30T13:00:00+09:00",
+        "summary": "arXiv:2606.28574v1 Announce Type: new Abstract: When a large language model (LLM) codes a construct in text as a human annotator would, that agreement makes the LLM a reliable coder. Yet reliability leaves construct validity untouched. The instrument may be theory-naive, reaching the code through a correlate that meets none of the demands the construct's theory makes, and no current method tells that apart from genuine measurement. We propose grain calibration as a method that closes the gap. I…",
+        "category_score": 85,
+        "score_reason": "AI를 활용한 데이터 분석 및 자동 태깅 시 발생할 수 있는 '근거 없는 결과' 문제를 검증하는 방법론 제안.",
+        "keywords": [
+          "AI 평가",
+          "데이터 분석",
+          "신뢰성"
+        ],
+        "planning_insight": "AI 기반 데이터 분석 자동화 시스템을 기획할 때, 단순히 모델의 성능뿐 아니라 결과값이 이론적/맥락적 근거를 바탕으로 도출되었는지 검증하는 프로세스 수립 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "2356ccd596b6b160a14358add0ee88a53b97d89056c075b2ca936d8fcf7cb93f",
+      "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/3897377",
+      "published_at": "2026-06-30T20:00:48+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사 OPERATION — 슬래시 커맨드와 대시보드 HR — 에이전트의 채용·해고·병합 INSTALL — 설치와 실전 시나리오 SUMMARY — 다른 에이전트 시스템과의 차별점 OPS-NOTES — 운영 노트 CONCLUSION — NaverMadCat 5가지 핵심 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발 경험과 기술 트렌드를 교…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트를 활용한 서비스 운영과 조직화 전략을 다루어, 향후 AI 기반 제품 기획의 핵심인 '에이전트 워크플로우'와 '운영 자동화' 인사이트를 가장 잘 보여줌.",
+      "keywords": [
+        "AI 에이전트",
+        "운영 자동화",
+        "워크플로우"
+      ],
+      "planning_insight": "에이전트 간 협업과 관리가 가능한 플랫폼 구조 설계 지침을 활용해 실무 자동화 콘텐츠 및 내부 업무 효율화 프로젝트로 확장 가능.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 조직화하여 자동화된 업무 시스템을 구축하는 실전 운영 사례",
+      "importance_reason": "AI 기술 도입을 넘어 'AI 에이전트 운영 조직'으로서의 구조적 변화와 자동화 기획의 실질적인 가이드를 제공함."
+    },
+    {
+      "rank": 2,
+      "id": "a65e6aea0713df06326b3d58fc3eb716f615b495307b38edf87e728782a623ea",
+      "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629222727",
+      "published_at": "2026-06-29T22:27:27+09:00",
+      "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억 달러), 아마존(Amazon), 메타(Meta) 등 4대 하이퍼스케일러의 올해 자본지출 합계는 4,520억 달러(약 694조 원)를 넘어선 것으로 집계됐다. 이스라엘 국내총생산(GDP)보다 큰 금액이다. 반면 마이크로소프트의 AI 서비스는 최근 4개 분기 970억 달러를 쓰는 동안 연환산 370억 달러의 매출을 냈다. 1달러를 써서 38센트를 거둔 수준이다.앤트로픽(Anthropic)은…",
+      "category_score": 95,
+      "score_reason": "AI 기술 투자가 급증하는 반면, 실질적인 수익화(ROI)에 대한 회의론이 시장에서 확산되고 있음을 보여줌. 기술 기업들의 자본지출 규모와 매출 간의 괴리를 분석한 심도 있는 경제 트렌드 지표.",
+      "keywords": [
+        "AI ROI",
+        "자본지출",
+        "시장 회의론"
+      ],
+      "planning_insight": "단순 기술 홍보가 아닌, 실제 데이터와 서비스 효율성으로 ROI를 입증하는 콘텐츠 중심의 커뮤니케이션 전략으로 전환 필요.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "694조 원이 투입된 AI 산업, 실질적 수익화와 ROI 입증이 당면 과제로 부상",
+      "importance_reason": "기술 중심의 과잉 투자가 시장의 냉정한 평가로 전환되는 변곡점에 있으며, 향후 비즈니스 모델의 질적 평가가 중요해짐."
+    },
+    {
+      "rank": 3,
+      "id": "4acaa52fa48fd5bba091373b4c21c3343d6638501b87e3bd4c7396e6e849bcfe",
+      "title": "이 대통령, 삼성·SK '2000조' 메가프로젝트 발표할 듯",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260629112425",
+      "published_at": "2026-06-29T11:36:20+09:00",
+      "summary": "[지디넷코리아]정부가 한국형 AI 산업혁명 완수를 목표로 반도체, 피지컬 AI, AI 데이터센터 등 ‘3대 메가프로젝트’의 구체적인 청사진을 공개한다. 향후 10년간 총투자 규모가 2000조원을 상회할 것으로 관측되는 등 역대 최대 규모의 국가적 대도약 사업이 본격화될 전망이다.이재명 대통령은 29일 오후 2시 청와대 영빈관에서 ‘회복을 넘어 대도약으로, 초격차 대한민국’이라는 슬로건 아래 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 주재한다.앞서 강유정 청와대 수석대변인은 지난 28일 브리핑을 통해 이 같은 일정과 함께 이번 행사에는 이재용 삼성전자 회장과 최태원 SK그룹 회장이 직접 참석한다고 밝혔다.이번 메가프로젝트의 핵심은 호남, 충청, 영남 등 비수도권 지역을 중심으로 미래 AI 인프라를 전방위로 구축하는 내용이 핵심 골자이다. 우선 광주·전남을 비롯한 호남권에는 삼성전자와 SK하이닉스가 전공정 팹(Fab)을 포함한 대규모 반도체 클러스터를 조성한다. 1기당 건설 비…",
+      "category_score": 98,
+      "score_reason": "반도체, 피지컬 AI, AI 데이터센터(AIDC) 등 미래 국가 산업 경쟁력을 결정짓는 대규모 국가 프로젝트의 청사진이 공개됨. 향후 10년간의 산업 정책 방향성과 기업 투자의 핵심 신호탄으로 시장 영향력이 매우 큼.",
+      "keywords": [
+        "AI 인프라",
+        "국가 프로젝트",
+        "AIDC"
+      ],
+      "planning_insight": "AI 인프라 확장과 연계된 전력, 클라우드, 파생 산업 데이터를 리포트 형식으로 기획하여 산업 트렌드 큐레이션 가능.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "국가 단위 AI 메가프로젝트 본격화에 따른 산업 인프라 및 전방위 생태계 변화 예고",
+      "importance_reason": "국가 수준의 AI 인프라(반도체, 데이터센터) 투자 흐름은 중장기 산업 정책과 기업 전략의 핵심 지표가 됨."
+    },
+    {
+      "rank": 4,
+      "id": "6d5047c12e2724a4b61d6021f99dab46fa1b8371e2db0841c305f650f737e100",
+      "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.27472",
+      "published_at": "2026-06-29T13:00:00+09:00",
+      "summary": "arXiv:2606.27472v1 Announce Type: new Abstract: Large language model (LLM) agents operate over long, multi-session interactions in which facts change: a user moves, a price updates, a plan is revised. Acting correctly requires using the current value of a fact and discarding values that have been superseded. We isolate this ability on real conversational data and show that it is a distinct, unsolved failure. On the knowledge-update subset of LongMemEval, replacing an agent's full context with a…",
+      "category_score": 98,
+      "score_reason": "LLM 에이전트의 핵심 난제인 '지식 업데이트(Memory-Update)'를 다루며, 실제 서비스 환경에서의 정보 최신성 유지와 오류 방지 전략을 제시함.",
+      "keywords": [
+        "LLM 에이전트",
+        "메모리 업데이트",
+        "정보 최신성"
+      ],
+      "planning_insight": "지속적인 정보 변화가 필요한 고객 상담용 AI 및 비즈니스 챗봇 기획 시 데이터 정합성 관리 프로세스 가이드로 활용.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "LLM 에이전트 서비스의 고질적 난제인 '지식 업데이트 오류'를 해결하기 위한 기술적 고찰",
+      "importance_reason": "AI 서비스 신뢰성의 핵심인 '최신 정보 유지' 문제를 다루며, 비즈니스 자동화 툴 설계의 기술적 장벽을 해소함."
+    },
+    {
+      "rank": 5,
+      "id": "d4415d866fc6a9c31999a94e10ebdd3295869fae53d238dd03bddaa2dfdf2e5a",
+      "title": "혼자 시작해 전국 오픈까지, 당근 레슨/과외 빌딩 로그",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%ED%98%BC%EC%9E%90-%EC%8B%9C%EC%9E%91%ED%95%B4-%EC%A0%84%EA%B5%AD-%EC%98%A4%ED%94%88%EA%B9%8C%EC%A7%80-%EB%8B%B9%EA%B7%BC-%EB%A0%88%EC%8A%A8-%EA%B3%BC%EC%99%B8-%EB%B9%8C%EB%94%A9-%EB%A1%9C%EA%B7%B8-d4e61f6ba32f",
+      "published_at": "2026-06-29T11:36:06+09:00",
+      "summary": "안녕하세요. 당근 Lessons & Tutoring 팀에서 레슨/과외 프로덕트를 만들고 있는 Bucky예요. 대부분의 사람들은 여전히 “당근 = 중고거래”라는 인식이 강하지만, 그 안에는 여러 숨겨진 기회가 있어요. 이번 글에서는 이미 형성된 마켓플레이스, 당근에서 레슨/과외 서비스를 빌딩하며 느낀 점을 공유해 보려고 해요. 아직 레슨/과외 서비스가 낯선 분도 계실 텐데요. 위 이미지처럼 당근 레슨/과외는 동네에서 뭔가 배우고 싶은 사람과 그걸 가르쳐줄 수 있는 선생님을 이어주는 서비스예요. 배우고 싶은 분이 “○○ 가르쳐주실 분 찾아요”라고 글을 올리기도 하고, 가르치는 분이 직접 자신을 소개하기도 해요. 저는 이 서비스를 1인팀으로 거의 아무것도 없는 상태에서 시작해, 1년 가까이 PMF를 찾으며 실험했어요. 그리고 이제는 전국 오픈을 앞두고 있죠. 오늘은 레슨/과외 서비스가 여기까지 커 온 과정을 들려드리려고 해요. 중고거래에서 발견한 첫 번째 시장: 전문가 서비스 2022년…",
+      "category_score": 95,
+      "score_reason": "기존 플랫폼의 강점(중고거래 마켓플레이스)을 활용해 신규 서비스로 확장하는 PMF 검증 과정과 단계적 성장 전략을 상세히 기술함.",
+      "keywords": [
+        "PMF",
+        "마켓플레이스",
+        "제품 빌딩"
+      ],
+      "planning_insight": "신규 서비스 런칭 시의 PMF 검증 과정과 단계적 스케일업 전략을 다루는 '빌딩 로그' 콘텐츠는 예비 창업자 및 기획자에게 높은 소구력 보유.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "기존 유저 기반(당근)에서 신규 도메인(레슨)으로 PMF를 찾아가는 실전 빌딩 로그",
+      "importance_reason": "데이터 기반의 실험적 접근이 어떻게 제품 성장을 견인하는지 보여주는 실무적 인사이트."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 85,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 24,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 14,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 12,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업은 초기 확장을 지나 '실질적 ROI 검증'과 '운영 효율화' 단계로 진입하는 전환기를 맞이하고 있음.",
+    "기술 도입보다는 AI 에이전트를 활용한 워크플로우 자동화 및 데이터 최신성 유지가 기업 내 핵심 역량으로 떠오름.",
+    "국가적 인프라 투자와 서비스 레벨에서의 PMF 검증 데이터가 결합되어 구체적인 산업 모델이 구체화되는 흐름임."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

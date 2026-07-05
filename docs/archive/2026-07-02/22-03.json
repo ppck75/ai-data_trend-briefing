@@ -1,0 +1,447 @@
+{
+  "briefing_date": "2026-07-02",
+  "generated_at": "2026-07-02T22:03:44.160214+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 191,
+    "tech_blog": 0,
+    "ai_data": 9
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "4ea08e11313a1a7743d86f63e29544e631d089929bb5388449e4f625ba1c4c52",
+        "title": "아크릴, AI 데이터센터 시장 진출…'GPUBASE' 첫 상용화 공급",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702092040",
+        "published_at": "2026-07-02T09:20:40+09:00",
+        "summary": "[지디넷코리아]인공지능 전환(AX) 인프라 전문기업 아크릴이 자사 AI 인프라 운영 플랫폼 ‘GPU베이스(GPUBASE)’를 기반으로 AI 데이터센터 시장에 진출한다. 아크릴은 공시를 통해 국내 모듈형 데이터센터(MDC, Modular Data Center) 구축·공급 사업에 11억원 규모의 1차 GPUBASE 공급계약을 체결했다고 2일 밝혔다.이번 계약은 모듈형 데이터센터에 적용하는 보급형 GPUBASE 공급 건이다. 아크릴은 1차 공급에서 자원 운영과 작업 스케줄링을 중심으로 한 기본형 구성을 제공한다. 후속으로 예정된 2차 고급형은 통합 관제 대시보드를 포함한 풀스택 구성으로, NVIDIA H200 NVL GPU 서버(대규모 AI 학습·추론에 쓰이는 고성능 GPU), 직접액냉(DLC, 고성능·고발열 GPU를 액체로 직접 식히는 냉각 방식으로 고밀도 서버 운용에 사용) 랙, 고속 네트워크 패브릭(다수의 GPU·서버를 고속으로 연결하는 통신 구조. 아크릴은 개방형 이더넷(RoCE…",
+        "category_score": 98,
+        "score_reason": "AI 인프라의 핵심인 데이터센터(MDC)와 고성능 GPU, 액침 냉각 기술을 결합한 비즈니스 모델로 시장의 기술적 난제를 직접 해결함.",
+        "keywords": [
+          "AI",
+          "데이터센터",
+          "GPU",
+          "인프라"
+        ],
+        "planning_insight": "AI 도입 단계에서 운영 효율화(인프라 최적화)로 시장의 관심이 이동 중. 고밀도 서버 냉각 기술과 자원 스케줄링 통합 솔루션이 향후 B2B 시장의 핵심 경쟁력이 될 것."
+      },
+      {
+        "rank": 2,
+        "id": "a434fed78e1c28182076dcb1927aa2daba0931cd48bf1b5a30d5378a5e225450",
+        "title": "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702085955",
+        "published_at": "2026-07-02T09:26:57+09:00",
+        "summary": "[지디넷코리아]메타가 자체 인공지능(AI) 데이터센터와 반도체 인프라를 활용해 외부 기업에 AI 컴퓨팅 자원을 판매하는 클라우드 사업 진출을 추진한다. AI 인프라에 수백억 달러를 투자한 메타가 이를 새로운 수익원으로 연결하는 동시에, 아마존웹서비스(AWS)·마이크로소프트(MS)·구글이 주도해온 시장에 도전장을 내민 모습이다.1일(현지시간) 블룸버그통신에 따르면 메타는 내부 프로젝트인 '메타 컴퓨트'를 통해 AI 컴퓨팅 파워와 AI 모델을 판매하는 클라우드 사업을 준비 중인 것으로 알려졌다.회사는 자체 데이터센터에서 운영하는 AI 모델 접근 권한을 제공하는 동시에 남는 연산 자원을 외부 고객에게 임대하는 방안을 검토하고 있다.메타가 구상하는 사업 모델은 크게 두 가지다. 먼저 자체 AI 모델인 '뮤즈 스파크' 등을 메타 인프라에서 운영하고 개발자들이 API를 통해 사용할 수 있도록 하는 방식이다. 이는 AWS의 '베드록'과 유사한 형태의 AI 플랫폼 서비스(PaaS) 모델이다.또…",
+        "category_score": 95,
+        "score_reason": "메타가 자체 AI 인프라를 클라우드 서비스(PaaS)로 전환하려는 움직임은 빅테크 기업들이 AI 투자 수익화(Monetization)를 위해 인프라를 외부로 개방하는 거대한 시장 트렌드를 반영함.",
+        "keywords": [
+          "메타",
+          "AI 클라우드",
+          "플랫폼"
+        ],
+        "planning_insight": "독자적인 AI 인프라를 보유한 빅테크들의 클라우드 시장 진입으로 기존 CSP(AWS, MS, Google)와의 경쟁이 격화될 전망. 개발자 생태계 점유를 위한 모델 API 개방 전략이 가속화될 것."
+      },
+      {
+        "rank": 3,
+        "id": "18804a4d8afb584db20685951fa577e998128791e549bef965517c10cf578b24",
+        "title": "[AI리더스] 데이터독 \"배보다 배꼽 큰 AI 지출, '자율 운영'으로 해소\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260701162924",
+        "published_at": "2026-07-02T09:15:25+09:00",
+        "summary": "[지디넷코리아]생성형 인공지능(AI) 도입이 실험 단계를 넘어 본격적인 업무 환경으로 확산되면서 기업들의 고민도 새로운 국면에 접어들고 있다.AI 서비스 개발 경쟁이 가속화되면서 그래픽처리장치(GPU) 등 인프라 투자 부담이 커지고 있고, 토큰 사용량 증가에 따른 비용 관리, AI 확산으로 넓어진 보안 취약점, 운영 거버넌스 구축 등 해결해야 할 과제도 함께 늘어나고 있기 때문이다.서울 강남구 아셈타워에서 만난 엄수창 데이터독 코리아 지사장과 정영석 기술총괄은 이러한 변화 속에서 기업들의 관심이 'AI 도입'에서 'AI 운영'으로 이동하고 있다고 진단했다.엄수창 지사장은 \"이제는 AI를 얼마나 많이 도입했는지가 아니라 얼마나 안정적이고 효율적으로 운영하느냐가 기업 경쟁력을 결정하는 시대\"라며 \"AI 운영과 거버넌스가 새로운 핵심 과제로 떠오르고 있다\"고 말했다.정영석 기술총괄은 많은 기업이 AI 도입 이후 예상치 못한 운영 비용 증가와 복잡성 확대에 직면하고 있다고 설명했다.그는…",
+        "category_score": 92,
+        "score_reason": "기업들의 AI 도입이 '실험'에서 '운영'으로 전환되는 시점을 명확히 포착함. 비용 관리와 거버넌스 문제가 AI 비즈니스의 화두로 떠오름.",
+        "keywords": [
+          "AI 운영",
+          "비용 관리",
+          "거버넌스"
+        ],
+        "planning_insight": "AI 도입 후 발생하는 인프라 비용 급증을 해결하기 위한 '자율 운영' 솔루션과 모니터링 툴에 대한 기업 수요가 매우 높음. '가시성 확보'와 '비용 통제'를 지원하는 콘텐츠가 적기 전략임."
+      },
+      {
+        "rank": 4,
+        "id": "35379a6747d9796e18dc9c7d693dbc96757de22dea56c763e14b1f81a3ebc495",
+        "title": "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20260702090000",
+        "published_at": "2026-07-02T09:14:39+09:00",
+        "summary": "[지디넷코리아]클라우드플레어는 검색용 크롤러와 인공지능(AI) 학습·에이전트용 크롤러를 분리해 출판사와 웹사이트 운영자 콘텐츠 통제권을 강화한다.1일(현지시간) 테크크런치 등 외신에 따르면 클라우드플레어는 올해 9월 15일부터 광고를 게재하는 페이지에서 '혼합 용도' 크롤러를 기본 차단한다고 발표했다. 혼합 용도 크롤러는 구글 검색 같은 전통적 검색과 AI 에이전트 실행·AI 모델 학습을 함께 수행하는 웹 크롤러다.이번 정책이 적용되면 사이트 소유자가 설정을 직접 바꾸지 않는 한 혼합 용도 크롤러는 광고 페이지를 크롤링할 수 없다. 적용 대상은 기존 무료 고객을 비롯한 신규 클라우드플레어 고객, 기존 고객이 새로 설정하는 사이트다.외신은 이번 조치가 AI 모델 제공업체의 웹 콘텐츠 접근 방식에 영향을 줄 수 있다고 분석했다. AI 기업이 모델 학습과 에이전틱 서비스 구동을 위해 웹 콘텐츠를 수집하려면 크롤러 목적을 더 명확히 구분해야 해서다.클라우드플레어는 \"다수 웹사이트 소유자는…",
+        "category_score": 89,
+        "score_reason": "콘텐츠 저작권과 AI 학습권 간의 갈등을 기술적으로 제어(크롤러 차단)하려는 플랫폼 사업자의 대응은 향후 콘텐츠 산업의 필수적인 권리 보호 모델로 확산될 가능성이 큼.",
+        "keywords": [
+          "AI 학습",
+          "콘텐츠 저작권",
+          "크롤러"
+        ],
+        "planning_insight": "창작자 및 콘텐츠 플랫폼들은 'AI 학습용 데이터 노출'에 대한 통제권을 강화하는 방향으로 나아갈 것. 플랫폼별로 데이터를 정교하게 구분하고 필터링하는 기술적 가이드 제공이 필요함."
+      },
+      {
+        "rank": 5,
+        "id": "fd45b4dfdb2dc5a3eef29b35e9926c53fc2f5ffd5d656fd473ff1d9e6984a733",
+        "title": "\"운동화 추천해줘\" 하면 AI가 대신 쇼핑",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12087863",
+        "published_at": "2026-07-01T17:07:11+09:00",
+        "summary": "\"여름에 발 안 덥고 발볼 넓은 러닝화 추천해줘.\" 네이버 'AI 쇼핑 에이전트'에 질문을 입력하자 인공지능(AI)이 \"통풍성과 발볼, 쿠셔닝을 기준으로 고르겠다\"고 답했다. '시..",
+        "category_score": 86,
+        "score_reason": "AI 쇼핑 에이전트가 단순 상품 추천을 넘어 '쇼핑 대행' 단계로 진화하고 있으며, 소비자들의 실제 구매 행태(검색 -> 대화 -> 결제) 변화를 반영함.",
+        "keywords": [
+          "AI 쇼핑",
+          "커머스",
+          "사용자 경험"
+        ],
+        "planning_insight": "개별 상품 단위의 단순 노출보다 AI 챗봇이 쇼핑의 컨텍스트를 이해하고 제안하는 '에이전틱 쇼핑' 환경에 맞춘 데이터 세팅(속성 데이터 고도화)이 커머스 전략의 핵심."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "bca0f554fb08b0a1fdbe7dab49efde219af595338ba5275b3e5dea7c77bb29db",
+        "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30801",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30801v1 Announce Type: new Abstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, behavior, and evolving interaction histories. Existing auditing methods face a tradeoff: studies with real users capture realistic behavior but are costly and hard to control, whereas sock-puppet audit…",
+        "category_score": 98,
+        "score_reason": "개인화 알고리즘의 블랙박스 감사에 에이전트를 활용하는 방법론은 콘텐츠 추천 및 플랫폼 분석 전략에 직접적인 실무 가이드를 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "개인화 알고리즘",
+          "콘텐츠 분석"
+        ],
+        "planning_insight": "콘텐츠 추천 엔진의 투명성을 확보하고 사용자 데이터 기반의 최적화 전략을 수립하는 데 필수적인 감사 프레임워크로 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "32ee0d50c2c2fe1dde3c57a68dd43f13357d822be28fa82e7fa50b90d9e69f73",
+        "title": "Test-Time Verification for Text-to-SQL via Outcome Reward Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30851",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30851v1 Announce Type: new Abstract: Improving the reliability of large language models (LLMs) at inference time is a central challenge in structured reasoning tasks such as Text-to-SQL. Common test-time inference strategies, including Best-of-N sampling and Majority Voting, rely on heuristic signals such as execution success or output frequency, which provide limited semantic discrimination across candidate outputs. In this work, we study Outcome Reward Models (ORMs) as learned sema…",
+        "category_score": 95,
+        "score_reason": "LLM의 추론 정확도를 높이는 'Outcome Reward Models(ORM)' 연구는 데이터 분석 및 구조화된 데이터 추출 업무의 신뢰성을 획기적으로 높일 수 있음.",
+        "keywords": [
+          "LLM",
+          "Text-to-SQL",
+          "데이터 자동화"
+        ],
+        "planning_insight": "데이터 분석 자동화 프로세스에서 LLM의 환각(Hallucination)을 줄이고 정교한 비즈니스 인사이트 도출을 위한 기술적 토대로 활용 가능."
+      },
+      {
+        "rank": 3,
+        "id": "3deb60dd0c54eb975ad8a7cdd06d37e3acf646867a68b212b06250c4d233b7c3",
+        "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30887",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30887v1 Announce Type: new Abstract: Large language models show promise for mental health support, yet therapeutic quality improves only when evaluation functions as an actionable control signal rather than a passive metric. We introduce a framework that formulates therapeutic response generation as a decision-refinement problem driven by multi-dimensional, human-aligned evaluation. In Stage I, we introduce TheraJudge, an open-source therapeutic evaluator trained via preference-based…",
+        "category_score": 92,
+        "score_reason": "다중 에이전트 시스템을 통한 콘텐츠 평가 및 인간 지향적 품질 관리는 콘텐츠 제작 파이프라인의 자동화와 고도화에 핵심적인 기법임.",
+        "keywords": [
+          "멀티 에이전트",
+          "콘텐츠 품질 관리",
+          "AI 평가"
+        ],
+        "planning_insight": "콘텐츠 생산 프로세스에 'TheraJudge'와 같은 평가 모델을 도입하여 고품질의 브랜드 친화적 콘텐츠를 자동 검수하는 시스템 구축 가능."
+      },
+      {
+        "rank": 4,
+        "id": "965e01dd85d03752af0af40c0268a70f31213d31b7e33fb5e86e7050598d98d9",
+        "title": "Multilingual Polarization Detection Using Transformer-Based Models with Class Weighting and Threshold Tuning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30857",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30857v1 Announce Type: new Abstract: This paper describes our submission to SemEval-2026 Task 9 on detecting multilingual, multicultural, and multievent online polarization. We address all three subtasks: binary polarization detection, polarization type classification, and manifestation identification for English and Swahili. Our approach leverages transformer-based models (RoBERTa-base for English, AfroXLMR-base for Swahili) with class-weighted loss functions to address severe label…",
+        "category_score": 88,
+        "score_reason": "다국어 환경에서의 편향 탐지 기술은 글로벌 콘텐츠 시장의 여론 분석 및 브랜드 리스크 관리 관점에서 매우 중요한 기술 변화임.",
+        "keywords": [
+          "트랜스포머",
+          "편향 탐지",
+          "소셜 데이터 분석"
+        ],
+        "planning_insight": "글로벌 소셜 데이터 및 커뮤니티 반응 분석 시 콘텐츠의 긍정/부정적 여파를 조기에 파악하고 대응하는 리스크 관리 도구로 활용 가능."
+      },
+      {
+        "rank": 5,
+        "id": "5a26b8d3a6a978c6813bfed12a4090d3ee95f1fe2aa3caf9da5432910c36d601",
+        "title": "Indi-RomCoM: Code-Mixed Benchmark for Evaluating LLMs on Romanized Indic-English Instructions",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2606.30790",
+        "published_at": "2026-07-02T13:00:00+09:00",
+        "summary": "arXiv:2606.30790v1 Announce Type: new Abstract: Romanized Code Mixing (RCM), where bilingual speakers fluidly blend local languages with English in Roman script, has emerged as the dominant form of communication across multilingual communities. While Large Language Models (LLMs) perform strongly on monolingual and native-script benchmarks, their ability to follow instructions and reason over RCM-based content remains largely unexplored. To this end, we introduce the Indi-RomCoM benchmark for fa…",
+        "category_score": 85,
+        "score_reason": "코드-혼합 언어(Romanized Code Mixing) 벤치마크는 다국어 타겟 마케팅 및 콘텐츠 생성 시 언어적 맥락을 처리하는 LLM의 능력을 평가하는 중요한 기준이 됨.",
+        "keywords": [
+          "LLM",
+          "다국어 처리",
+          "벤치마크"
+        ],
+        "planning_insight": "다양한 문화권의 혼용 언어를 사용하는 사용자층을 타겟으로 한 콘텐츠 생성 시 모델의 적합성을 사전에 검증할 수 있는 지표로 활용 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "bca0f554fb08b0a1fdbe7dab49efde219af595338ba5275b3e5dea7c77bb29db",
+      "title": "Using AI Agents to Automate Black-Box Audits of Personalization Algorithms at Scale",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30801",
+      "published_at": "2026-07-02T13:00:00+09:00",
+      "summary": "arXiv:2606.30801v1 Announce Type: new Abstract: Personalization algorithms determine what content users encounter on online platforms. Auditing these systems is difficult because independent auditors have only black-box access to the algorithms, while personalization depends on users' attributes, behavior, and evolving interaction histories. Existing auditing methods face a tradeoff: studies with real users capture realistic behavior but are costly and hard to control, whereas sock-puppet audit…",
+      "category_score": 98,
+      "score_reason": "개인화 알고리즘의 블랙박스 감사에 에이전트를 활용하는 방법론은 콘텐츠 추천 및 플랫폼 분석 전략에 직접적인 실무 가이드를 제공함.",
+      "keywords": [
+        "AI 에이전트",
+        "개인화 알고리즘",
+        "콘텐츠 분석"
+      ],
+      "planning_insight": "플랫폼의 추천 로직을 외부에서 분석하는 프레임워크를 리서치에 적용하여, 우리 콘텐츠가 타겟 고객에게 어떻게 노출되고 최적화되는지 역공학적 인사이트 도출 가능",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 활용한 개인화 알고리즘 블랙박스 감사 방법론 연구",
+      "importance_reason": "콘텐츠 추천 엔진의 투명성 확보와 사용자 행동 데이터 기반 최적화는 모든 플랫폼 기획자의 핵심 과제임"
+    },
+    {
+      "rank": 2,
+      "id": "a434fed78e1c28182076dcb1927aa2daba0931cd48bf1b5a30d5378a5e225450",
+      "title": "[AI 고속도로] 메타, 남는 AI 인프라 자원 판다…클라우드 진출 시사",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260702085955",
+      "published_at": "2026-07-02T09:26:57+09:00",
+      "summary": "[지디넷코리아]메타가 자체 인공지능(AI) 데이터센터와 반도체 인프라를 활용해 외부 기업에 AI 컴퓨팅 자원을 판매하는 클라우드 사업 진출을 추진한다. AI 인프라에 수백억 달러를 투자한 메타가 이를 새로운 수익원으로 연결하는 동시에, 아마존웹서비스(AWS)·마이크로소프트(MS)·구글이 주도해온 시장에 도전장을 내민 모습이다.1일(현지시간) 블룸버그통신에 따르면 메타는 내부 프로젝트인 '메타 컴퓨트'를 통해 AI 컴퓨팅 파워와 AI 모델을 판매하는 클라우드 사업을 준비 중인 것으로 알려졌다.회사는 자체 데이터센터에서 운영하는 AI 모델 접근 권한을 제공하는 동시에 남는 연산 자원을 외부 고객에게 임대하는 방안을 검토하고 있다.메타가 구상하는 사업 모델은 크게 두 가지다. 먼저 자체 AI 모델인 '뮤즈 스파크' 등을 메타 인프라에서 운영하고 개발자들이 API를 통해 사용할 수 있도록 하는 방식이다. 이는 AWS의 '베드록'과 유사한 형태의 AI 플랫폼 서비스(PaaS) 모델이다.또…",
+      "category_score": 95,
+      "score_reason": "메타가 자체 AI 인프라를 클라우드 서비스(PaaS)로 전환하려는 움직임은 빅테크 기업들이 AI 투자 수익화(Monetization)를 위해 인프라를 외부로 개방하는 거대한 시장 트렌드를 반영함.",
+      "keywords": [
+        "메타",
+        "AI 클라우드",
+        "플랫폼 수익화"
+      ],
+      "planning_insight": "개발자 생태계 점유 경쟁이 가속화됨에 따라, 우리 서비스도 외부 API 연동이나 오픈 모델 활용을 통한 서비스 고도화 전략을 조기에 검토해야 함",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "메타의 AI 인프라 클라우드 사업 진출 및 모델 API 개방 전략",
+      "importance_reason": "빅테크 기업들이 AI 투자 비용을 회수하기 위해 서비스형 인프라(PaaS)로 전환하는 거대한 시장 변화를 보여줌"
+    },
+    {
+      "rank": 3,
+      "id": "18804a4d8afb584db20685951fa577e998128791e549bef965517c10cf578b24",
+      "title": "[AI리더스] 데이터독 \"배보다 배꼽 큰 AI 지출, '자율 운영'으로 해소\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260701162924",
+      "published_at": "2026-07-02T09:15:25+09:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI) 도입이 실험 단계를 넘어 본격적인 업무 환경으로 확산되면서 기업들의 고민도 새로운 국면에 접어들고 있다.AI 서비스 개발 경쟁이 가속화되면서 그래픽처리장치(GPU) 등 인프라 투자 부담이 커지고 있고, 토큰 사용량 증가에 따른 비용 관리, AI 확산으로 넓어진 보안 취약점, 운영 거버넌스 구축 등 해결해야 할 과제도 함께 늘어나고 있기 때문이다.서울 강남구 아셈타워에서 만난 엄수창 데이터독 코리아 지사장과 정영석 기술총괄은 이러한 변화 속에서 기업들의 관심이 'AI 도입'에서 'AI 운영'으로 이동하고 있다고 진단했다.엄수창 지사장은 \"이제는 AI를 얼마나 많이 도입했는지가 아니라 얼마나 안정적이고 효율적으로 운영하느냐가 기업 경쟁력을 결정하는 시대\"라며 \"AI 운영과 거버넌스가 새로운 핵심 과제로 떠오르고 있다\"고 말했다.정영석 기술총괄은 많은 기업이 AI 도입 이후 예상치 못한 운영 비용 증가와 복잡성 확대에 직면하고 있다고 설명했다.그는…",
+      "category_score": 92,
+      "score_reason": "기업들의 AI 도입이 '실험'에서 '운영'으로 전환되는 시점을 명확히 포착함. 비용 관리와 거버넌스 문제가 AI 비즈니스의 화두로 떠오름.",
+      "keywords": [
+        "AI 운영",
+        "비용 관리",
+        "거버넌스"
+      ],
+      "planning_insight": "AI 기반 마케팅/콘텐츠 캠페인 기획 시 '효율성'과 '비용 관리'를 강조하는 아웃풋 리포트 체계 구축이 필수적인 시점",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 도입의 무게중심이 실험에서 '안정적 운영(AIOps)'으로 이동",
+      "importance_reason": "기업들이 AI 도입 후 발생하는 인프라 비용과 복잡성 해결에 집중하고 있어, 관련 운영 도구와 가이드 수요가 급증함"
+    },
+    {
+      "rank": 4,
+      "id": "3deb60dd0c54eb975ad8a7cdd06d37e3acf646867a68b212b06250c4d233b7c3",
+      "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2606.30887",
+      "published_at": "2026-07-02T13:00:00+09:00",
+      "summary": "arXiv:2606.30887v1 Announce Type: new Abstract: Large language models show promise for mental health support, yet therapeutic quality improves only when evaluation functions as an actionable control signal rather than a passive metric. We introduce a framework that formulates therapeutic response generation as a decision-refinement problem driven by multi-dimensional, human-aligned evaluation. In Stage I, we introduce TheraJudge, an open-source therapeutic evaluator trained via preference-based…",
+      "category_score": 92,
+      "score_reason": "다중 에이전트 시스템을 통한 콘텐츠 평가 및 인간 지향적 품질 관리는 콘텐츠 제작 파이프라인의 자동화와 고도화에 핵심적인 기법임.",
+      "keywords": [
+        "멀티 에이전트",
+        "콘텐츠 품질 관리",
+        "AI 평가"
+      ],
+      "planning_insight": "AI로 대량 생성된 콘텐츠를 검수하고 브랜드 가이드라인을 준수하는지 확인하는 'AI 평가 레이어'를 워크플로우에 통합 가능",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "인간 가치 중심의 다중 에이전트 평가 모델(TheraJudge) 프레임워크",
+      "importance_reason": "자동화된 콘텐츠 생산 과정에서 정성적 평가를 보완하는 인간 중심의 평가 시스템은 브랜드 일관성 유지에 필수적임"
+    },
+    {
+      "rank": 5,
+      "id": "35379a6747d9796e18dc9c7d693dbc96757de22dea56c763e14b1f81a3ebc495",
+      "title": "클라우드플레어, 'AI 크롤러' 차단 확대…\"콘텐츠 대가 정당해야\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20260702090000",
+      "published_at": "2026-07-02T09:14:39+09:00",
+      "summary": "[지디넷코리아]클라우드플레어는 검색용 크롤러와 인공지능(AI) 학습·에이전트용 크롤러를 분리해 출판사와 웹사이트 운영자 콘텐츠 통제권을 강화한다.1일(현지시간) 테크크런치 등 외신에 따르면 클라우드플레어는 올해 9월 15일부터 광고를 게재하는 페이지에서 '혼합 용도' 크롤러를 기본 차단한다고 발표했다. 혼합 용도 크롤러는 구글 검색 같은 전통적 검색과 AI 에이전트 실행·AI 모델 학습을 함께 수행하는 웹 크롤러다.이번 정책이 적용되면 사이트 소유자가 설정을 직접 바꾸지 않는 한 혼합 용도 크롤러는 광고 페이지를 크롤링할 수 없다. 적용 대상은 기존 무료 고객을 비롯한 신규 클라우드플레어 고객, 기존 고객이 새로 설정하는 사이트다.외신은 이번 조치가 AI 모델 제공업체의 웹 콘텐츠 접근 방식에 영향을 줄 수 있다고 분석했다. AI 기업이 모델 학습과 에이전틱 서비스 구동을 위해 웹 콘텐츠를 수집하려면 크롤러 목적을 더 명확히 구분해야 해서다.클라우드플레어는 \"다수 웹사이트 소유자는…",
+      "category_score": 89,
+      "score_reason": "콘텐츠 저작권과 AI 학습권 간의 갈등을 기술적으로 제어(크롤러 차단)하려는 플랫폼 사업자의 대응은 향후 콘텐츠 산업의 필수적인 권리 보호 모델로 확산될 가능성이 큼.",
+      "keywords": [
+        "AI 학습",
+        "콘텐츠 저작권",
+        "크롤러 통제"
+      ],
+      "planning_insight": "콘텐츠 전략 수립 시 자사 데이터가 외부 AI 모델에 학습되는 것을 제어할 정책을 수립하고, 정당한 저작권 보호 및 활용 전략을 고민해야 함",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 크롤러 차단 가속화 및 콘텐츠 데이터 통제권 강화 흐름",
+      "importance_reason": "플랫폼 사업자와 창작자 간의 'AI 학습용 데이터'에 대한 대가 지불 및 권리 싸움이 본격적인 기술적 대응 단계로 진입함"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 81,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 27,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 25,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 비즈니스의 화두가 '도입'에서 '효율적 운영 및 거버넌스'로 빠르게 전환되며 관련 인프라와 평가 모델 수요가 급증함.",
+    "메타 등 빅테크 기업의 클라우드 진출과 AI 학습 데이터에 대한 통제권 강화 등 시장의 주도권 경쟁이 심화되고 있음.",
+    "콘텐츠 기획자들은 AI 에이전트 중심의 쇼핑/추천 환경에 대비해 데이터 속성을 고도화하고, AI의 정량적/정성적 평가 체계를 워크플로우에 내재화하는 것이 핵심 전략임."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
