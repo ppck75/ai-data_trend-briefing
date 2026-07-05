@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-04T21:13:47.309719+09:00",
+  "updated_at": "2026-07-05T09:10:59.406985+09:00",
   "archives": [
+    {
+      "id": "2026-07-05_08-10",
+      "date": "2026-07-05",
+      "time": "08:10",
+      "label": "2026-07-05 08:10",
+      "generated_at": "2026-07-05T09:10:44.341612+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "주가 빠진 MS, 코파일럿 대수술…흩어진 AI 앱, 하나로 '통합'",
+        "RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules",
+        "엔비디아도 원전으로…AI 전력난에 커지는 SMR 기대감",
+        "Office Comprehension Benchmark",
+        "인크로스 \"AI 마케팅 솔루션 개발...통합 마케팅사로 전환\""
+      ],
+      "path_json": "archive/2026-07-05/08-10.json",
+      "path_md": "archive/2026-07-05/08-10.md"
+    },
     {
       "id": "2026-07-04_20-10",
       "date": "2026-07-04",
