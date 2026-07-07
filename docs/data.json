@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T17:20:59.592912+09:00",
+  "updated_at": "2026-07-07T18:58:15.582506+09:00",
   "total_items": 200,
   "items": [
     {
@@ -664,6 +664,24 @@
       "fetched_at": "2026-07-07T17:20:57.130717+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "c1015b0f97ccbda19e8ffc3e4dd66bb6087b6fd73e1c1899c203f47c8c65f792",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "icon": "👕",
+      "title": "LLM 비용 64% 절감, 캐시 히트율 98% 달성기",
+      "summary": "메트릭 가시성 확보부터 Prompt Caching 도입까지 들어가며 안녕하세요, 29CM Pricing 팀에서 백엔드 개발을 맡고 있는 정다해입니다. 29CM에서는 상품 속성 추출, 그룹 평가, 고객 응대 등 여러 기능에서 AWS Bedrock 기반 LLM을 사용하고 있습니다. 운영 중 LLM 비용이 꾸준히 증가하는 추세가 관찰되어 비용 구조 분석을 시작했습니다. 분석을 시작하자마자 첫 번째 장애물에 부딪혔습니다. AWS Bedrock 콘솔은 일별 토큰·비용 합계는 보여주지만, 어떤 API가 얼마만큼의 토큰을 사용하는지는 API별로 분리해 알려주지 않습니다. 비용은 보이는데 원인이 보이지 않는 상태에서는 어디부터 줄여야 할지 결정할 수 없었습니다. 이 글은 LLM 비용 절감을 위해 메트릭 가시성을 먼저 만들고, 비용 발생 원인을 파악한 뒤, Prompt Caching을 도입한 과정을 정리한 기록입니다. 모든 최적화가 끝난 뒤 결과는 이렇습니다. LLM 서비스의 비용은 늘어나는데 어…",
+      "url": "https://techblog.musinsa.com/llm-%EB%B9%84%EC%9A%A9-64-%EC%A0%88%EA%B0%90-%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-98-%EB%8B%AC%EC%84%B1%EA%B8%B0-d568135bd40e",
+      "published_at": "2026-07-07T14:03:44+09:00",
+      "entry_updated_at": "2026-07-07T14:03:58+09:00",
+      "fetched_at": "2026-07-07T18:58:05.705643+09:00",
+      "language": "ko",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-07-06T10:14:15.148102+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "656ec70f0a3c46ecdd170e31e7245d919462939ff9c5b23a86411d957fa2022f",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "icon": "🤗",
-      "title": "🤗 Kernels: Major Updates",
-      "summary": "",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "published_at": "2026-07-06T09:00:00+09:00",
-      "entry_updated_at": "2026-07-06T09:00:00+09:00",
-      "fetched_at": "2026-07-06T13:24:04.811598+09:00",
-      "language": "en",
-      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
