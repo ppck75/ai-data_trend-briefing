@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-07T20:25:58.952706+09:00",
+  "updated_at": "2026-07-08T08:31:14.482851+09:00",
   "archives": [
+    {
+      "id": "2026-07-08_07-35",
+      "date": "2026-07-08",
+      "time": "07:35",
+      "label": "2026-07-08 07:35",
+      "generated_at": "2026-07-08T08:30:57.571986+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "AWS, 데스크톱 앱도 AI 에이전트로 자동화…기업 AX 속도",
+        "Gemma 4 Technical Report",
+        "LLM 비용 64% 절감, 캐시 히트율 98% 달성기",
+        "카페24 \"매치메이킹 상반기 협업 평균 거래액, 전년비 100%↑\"",
+        "Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG"
+      ],
+      "path_json": "archive/2026-07-08/07-35.json",
+      "path_md": "archive/2026-07-08/07-35.md"
+    },
     {
       "id": "2026-07-07_20-25",
       "date": "2026-07-07",
