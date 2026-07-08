@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:02:26.400430+09:00",
+  "updated_at": "2026-07-08T12:38:10.979310+09:00",
   "total_items": 200,
   "items": [
     {
@@ -394,6 +394,24 @@
       "fetched_at": "2026-07-08T07:09:39.697162+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "8428a4cc93e3fe5a9758d654982f0442f197913d0dd5a830be203e58100b0203",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published_at": "2026-07-08T06:15:33+09:00",
+      "entry_updated_at": "2026-07-08T06:15:33+09:00",
+      "fetched_at": "2026-07-08T12:38:10.748862+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-07-06T17:35:12+09:00",
       "entry_updated_at": "2026-07-06T17:35:12+09:00",
       "fetched_at": "2026-07-06T19:13:55.703558+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "df438a61916ef8b620899ffcc718524c14a63ebe14027488b7ef8ec046a77883",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "\"2·3차 협력사까지 지원\"…LG,통큰 상생협력 나서",
-      "summary": "LG가 공정거래위원회와 함께 '대기업·1차 협력사' 중심의 상생 협력을 2차 이하 협력사까지 확산하기 위해 손을 맞잡았다. LG는 6일 서울 마곡 LG사이언스파크에서 공정위와 'L..",
-      "url": "https://www.mk.co.kr/news/business/12091501",
-      "published_at": "2026-07-06T17:35:11+09:00",
-      "entry_updated_at": "2026-07-06T17:35:11+09:00",
-      "fetched_at": "2026-07-06T23:05:48.893370+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
