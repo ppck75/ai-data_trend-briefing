@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-08T15:13:09.292830+09:00",
+  "updated_at": "2026-07-08T19:36:41.391087+09:00",
   "archives": [
+    {
+      "id": "2026-07-08_19-36",
+      "date": "2026-07-08",
+      "time": "19:36",
+      "label": "2026-07-08 19:36",
+      "generated_at": "2026-07-08T19:36:26.658915+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "NHN커머스 \"고도몰 CRM 타깃 마케팅, 구매 전환율 최대 11배 높였다\"",
+        "CJ온스타일, 숏폼 커머스 키운다…상반기 주문 상품 300만개 돌파",
+        "NAVER LABS System Re-implementation for the IWSLT 2026 Instruction-Following Task",
+        "\"韓 피지컬 AI, 첨단 제조업 위에 온디바이스 반도체 뿌리내려야\"",
+        "\"데이터도 특허처럼\"…국가AI전략위, 가치평가 제도 활성화 논의"
+      ],
+      "path_json": "archive/2026-07-08/19-36.json",
+      "path_md": "archive/2026-07-08/19-36.md"
+    },
     {
       "id": "2026-07-08_15-12",
       "date": "2026-07-08",
