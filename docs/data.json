@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T17:03:00.234546+09:00",
+  "updated_at": "2026-07-09T18:55:24.663200+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-07-09T17:02:58.540372+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "c1c7db7100505ef923f257118f5edc19a999085766d99fead0a0cfea87727f21",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "icon": "👕",
+      "title": "의심했던 범인은 알리바이가 있었다.",
+      "summary": "JFR로 잡은 12분짜리 Jenkins 배치 Hang 무신사 물류기술실 WMS팀 — Spring Batch · Jenkins · JFR(Java Flight Recorder) · Aurora MySQL 들어가며 저희 팀은 무신사의 창고 운영을 책임지는 MWMS(Musinsa Warehouse Management System) 를 만들고 있습니다. 매일 다량의 출고 작업이 인입되면 작업자에게 보낼 피킹 지시서 단위로 작업이 분해되는데, 이 분해 작업을 수행하는 Spring Batch가 한동안 저희를 괴롭혔습니다. 본격적인 시작은 이미 한 차례 큰 개선이 끝난 뒤였습니다. Spring Batch 의 Tasklet 을 Reader/Writer 청크 구조로 전환 하고, Writer 안에 박혀있던 조회를 모두 Reader로 끌어올려 장기 트랜잭션을 분해 하는 작업이었죠. 그 결과 단건 처리 시간이 평균 526.7초 → 41.2초(12.8배) , 최악 케이스가 5,035초 → 113초(44.…",
+      "url": "https://techblog.musinsa.com/%EC%9D%98%EC%8B%AC%ED%96%88%EB%8D%98-%EB%B2%94%EC%9D%B8%EC%9D%80-%EC%95%8C%EB%A6%AC%EB%B0%94%EC%9D%B4%EA%B0%80-%EC%9E%88%EC%97%88%EB%8B%A4-e1578cb49bfa",
+      "published_at": "2026-07-09T16:31:01+09:00",
+      "entry_updated_at": "2026-07-09T16:31:00+09:00",
+      "fetched_at": "2026-07-09T18:55:09.299297+09:00",
+      "language": "ko",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260708101851",
       "published_at": "2026-07-08T10:59:29+09:00",
       "entry_updated_at": "2026-07-08T10:59:29+09:00",
-      "fetched_at": "2026-07-08T13:44:07.468601+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b6ecbb50f58a361f9e425032abe4f3c0ad0fdb07322efbf0b3af7146e6ebfbfa",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "한미마이크로닉스, '서머 케이스 페스티벌' 진행",
-      "summary": "[지디넷코리아]한미마이크로닉스가 자체 개발·제조 PC 케이스 브랜드 '위즈맥스' 제품 2종 대상 행사 '서머 케이스 페스티벌'을 진행한다.대상 제품은 호두나무 원목과 강화유리를 적용한 '위즈맥스 우드리안 울트라', 3면 파노라마 디스플레이를 적용한 '위즈맥스 루프탑' 등 2종이다.두 케이스 모두 확장성을 강화했고 길이 최대 420mm 그래픽카드, 최대 360mm 수랭쿨러, 최대 180mm 공랭쿨러 장착이 가능하다.두 제품 구매시 RGB LED 내장 냉각팬 '아이스락 G30-120 인피니티 aRGB PWM RVS' 3개를 케이스 색상에 맞춰 3개 추가 제공한다. 위즈맥스 루프탑은 기존 공급가 10만 9000원에서 할인한 9만 9000원에 판매한다.현재 진행중인 '다나와 히트브랜드' 이벤트와 중복 응모 가능하며 영수증 응모시 커피 쿠폰, 사진 포함 후기 작성시 네이버페이 포인트를 지급한다.행사는 7월 8일부터 일정 수량 소진시까지 진행된다. 행사 개요와 대상 제품 제원/기능은 한미마이…",
-      "url": "https://zdnet.co.kr/view/?no=20260708105602",
-      "published_at": "2026-07-08T10:56:34+09:00",
-      "entry_updated_at": "2026-07-08T10:56:34+09:00",
       "fetched_at": "2026-07-08T13:44:07.468601+09:00",
       "language": "ko",
       "importance_weight": 0.85,
