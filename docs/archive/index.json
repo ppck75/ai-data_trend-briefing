@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-10T08:47:06.306390+09:00",
+  "updated_at": "2026-07-10T16:01:19.924861+09:00",
   "archives": [
+    {
+      "id": "2026-07-10_16-00",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "label": "2026-07-10 16:00",
+      "generated_at": "2026-07-10T16:00:58.929737+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "Ad Headline Generation using Self-Critical Masked Language Model",
+        "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
+        "KT알파, 창립 35주년 맞아 새 비전 '커넥티드 커머스' 공개",
+        "AI를 업무 파트너로…오픈AI, '챗GPT 워크' 출시",
+        "A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents"
+      ],
+      "path_json": "archive/2026-07-10/16-00.json",
+      "path_md": "archive/2026-07-10/16-00.md"
+    },
     {
       "id": "2026-07-10_07-35",
       "date": "2026-07-10",
