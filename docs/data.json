@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T17:19:49.982090+09:00",
+  "updated_at": "2026-07-10T18:51:03.564213+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1186,6 +1186,24 @@
       "fetched_at": "2026-07-10T13:32:52.888153+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "d2277e3fcdaf0cfc255785153c528be2b3b013bdd7d0cbfd7c877cbf6a05034a",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "published_at": "2026-07-10T09:00:00+09:00",
+      "entry_updated_at": "2026-07-10T09:00:00+09:00",
+      "fetched_at": "2026-07-10T18:51:03.420443+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260709111332",
       "published_at": "2026-07-09T11:13:39+09:00",
       "entry_updated_at": "2026-07-09T11:13:39+09:00",
-      "fetched_at": "2026-07-09T13:29:29.033073+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "99d939e31a73fb42758a16aa1f41893ba6576ec255bb6b47adea2f55cc500190",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "알리익스프레스, ‘1일 1브랜드’ 특가전…최대 60% 할인",
-      "summary": "[지디넷코리아]알리익스프레스는 오는 10일까지 ‘브랜드 특가전’ 프로모션을 진행한다고 9일 밝혔다.이번 행사는 ‘발견의 즐거움’을 주제로 브랜드 상품을 찾는 소비자에게 다양한 제품을 할인된 가격으로 제공하기 위해 마련됐다.특히 ‘1일 1브랜드’ 콘셉트로 운영되는 것이 특징이다. 행사 기간 매일 하나의 핵심 브랜드를 선정해 단독 할인 혜택을 제공하며, 소비자들이 새로운 브랜드 상품을 접할 수 있도록 했다.행사 대상은 컴퓨터·사무용품, 가전제품, 자동차 용품, 아웃도어·스포츠, 생활가전, 공구, 휴대폰·액세서리 등 전 카테고리다. 최대 60% 할인 혜택을 제공하며, 결제 금액에 따라 최대 3만9000원 할인 코드도 지원한다.이번 특가전은 메인 기획전과 브랜드 기획전 등 총 5개 행사로 구성됐다. 국내 소비자 수요를 반영해 킨스코터, 아우라, 웨스트바이킹 단독 기획전도 마련했다.킨스코터는 캠핑 선풍기와 휴대용 선풍기 등 여름 계절가전을 선보이고, 아우라는 기계식 키보드 라인업을 특가 판…",
-      "url": "https://zdnet.co.kr/view/?no=20260709111039",
-      "published_at": "2026-07-09T11:10:39+09:00",
-      "entry_updated_at": "2026-07-09T11:10:39+09:00",
       "fetched_at": "2026-07-09T13:29:29.033073+09:00",
       "language": "ko",
       "importance_weight": 0.85,
