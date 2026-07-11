@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-11T08:31:40.333051+09:00",
+  "updated_at": "2026-07-11T14:57:51.189676+09:00",
   "archives": [
+    {
+      "id": "2026-07-11_14-57",
+      "date": "2026-07-11",
+      "time": "14:57",
+      "label": "2026-07-11 14:57",
+      "generated_at": "2026-07-11T14:57:35.407449+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "'국민앱' 된 챗GPT, 상반기 신규 설치 1위",
+        "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+        "A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents",
+        "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+        "덱스터크레마, 다이닝브랜즈그룹에 AI 마케팅 솔루션 '애드플로러' 공급"
+      ],
+      "path_json": "archive/2026-07-11/14-57.json",
+      "path_md": "archive/2026-07-11/14-57.md"
+    },
     {
       "id": "2026-07-11_07-35",
       "date": "2026-07-11",
