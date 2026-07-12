@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-12T08:29:37.220110+09:00",
+  "updated_at": "2026-07-12T15:17:58.839427+09:00",
   "archives": [
+    {
+      "id": "2026-07-12_15-17",
+      "date": "2026-07-12",
+      "time": "15:17",
+      "label": "2026-07-12 15:17",
+      "generated_at": "2026-07-12T15:17:43.715754+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "퍼플렉시티 CEO \"AI 경쟁, 모델 크기에서 운영 효율성으로\"",
+        "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+        "'국민앱' 된 챗GPT, 상반기 신규 설치 1위",
+        "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+        "덱스터크레마, 다이닝브랜즈그룹에 AI 마케팅 솔루션 '애드플로러' 공급"
+      ],
+      "path_json": "archive/2026-07-12/15-17.json",
+      "path_md": "archive/2026-07-12/15-17.md"
+    },
     {
       "id": "2026-07-12_07-35",
       "date": "2026-07-12",
