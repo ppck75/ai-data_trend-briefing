@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:54:08.606675+09:00",
+  "updated_at": "2026-07-12T20:57:09.816535+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1742,6 +1742,24 @@
       "published_at": "2026-07-10T22:14:31+09:00",
       "entry_updated_at": "2026-07-10T22:14:31+09:00",
       "fetched_at": "2026-07-10T22:26:06.546140+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "ca5da1656601b57af40fac722a85499ac05d687f4f7ec2ed6cb7ea2cc7da3064",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
+      "summary": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
+      "url": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
+      "published_at": "2026-07-10T22:07:27+09:00",
+      "entry_updated_at": "2026-07-10T22:07:27+09:00",
+      "fetched_at": "2026-07-12T20:57:09.811866+09:00",
       "language": "en",
       "importance_weight": 0.85,
       "importance_score": null,
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-07-10T13:32:52.888153+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "fe263e19ab643a52ffeb7d0d03c5a65e60c6c091479832caea79b14bae464edb",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
-      "published_at": "2026-07-10T10:33:45+09:00",
-      "entry_updated_at": "2026-07-10T10:33:45+09:00",
-      "fetched_at": "2026-07-10T13:32:54.384797+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
