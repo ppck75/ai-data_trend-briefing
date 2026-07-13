@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-13T20:39:41.294873+09:00",
+  "updated_at": "2026-07-14T08:27:39.338681+09:00",
   "archives": [
+    {
+      "id": "2026-07-14_07-35",
+      "date": "2026-07-14",
+      "time": "07:35",
+      "label": "2026-07-14 07:35",
+      "generated_at": "2026-07-14T08:27:23.328347+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "구글 검색, 제미나이 3.5 플래시로 전면 개편",
+        "[AI 해커톤 후기] AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략",
+        "Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs",
+        "AI 시대 브랜드 리스크 커지는데…기업 75% \"대응 체계 부재\"",
+        "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs"
+      ],
+      "path_json": "archive/2026-07-14/07-35.json",
+      "path_md": "archive/2026-07-14/07-35.md"
+    },
     {
       "id": "2026-07-13_20-39",
       "date": "2026-07-13",
