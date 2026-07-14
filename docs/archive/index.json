@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-14T08:27:39.338681+09:00",
+  "updated_at": "2026-07-14T14:52:37.489091+09:00",
   "archives": [
+    {
+      "id": "2026-07-14_14-52",
+      "date": "2026-07-14",
+      "time": "14:52",
+      "label": "2026-07-14 14:52",
+      "generated_at": "2026-07-14T14:52:21.936265+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글 검색, 제미나이 3.5 플래시로 전면 개편",
+        "구글 클라우드, 삼성전자 DX부문 '에이전틱 AI 혁신' 맡는다",
+        "Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs",
+        "나델라 CEO \"기업, AI 쓰다 업무 노하우 뺏겨…자체 학습 환경 필수\"",
+        "AI 시대 브랜드 리스크 커지는데…기업 75% \"대응 체계 부재\""
+      ],
+      "path_json": "archive/2026-07-14/14-52.json",
+      "path_md": "archive/2026-07-14/14-52.md"
+    },
     {
       "id": "2026-07-14_07-35",
       "date": "2026-07-14",
