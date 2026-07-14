@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-14T19:18:37.413520+09:00",
+  "updated_at": "2026-07-15T08:26:42.103910+09:00",
   "archives": [
+    {
+      "id": "2026-07-15_07-35",
+      "date": "2026-07-15",
+      "time": "07:35",
+      "label": "2026-07-15 07:35",
+      "generated_at": "2026-07-15T08:26:25.242994+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "구글, '풀스택 AI' 앞세워 기업 AI 시장 공략",
+        "나델라 CEO \"기업, AI 쓰다 업무 노하우 뺏겨…자체 학습 환경 필수\"",
+        "MATCH란 무엇인가",
+        "RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation",
+        "[AI 해커톤 후기] AI 시대의 해커톤과 인간의 역할: AI의 계획과 사람의 전략"
+      ],
+      "path_json": "archive/2026-07-15/07-35.json",
+      "path_md": "archive/2026-07-15/07-35.md"
+    },
     {
       "id": "2026-07-14_19-18",
       "date": "2026-07-14",
