@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-15T19:22:05.734221+09:00",
+  "updated_at": "2026-07-16T08:31:26.078375+09:00",
   "archives": [
+    {
+      "id": "2026-07-16_07-35",
+      "date": "2026-07-16",
+      "time": "07:35",
+      "label": "2026-07-16 07:35",
+      "generated_at": "2026-07-16T08:31:11.715204+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[기고] AI 기반 커머스 시대, 광고 문법이 바뀐다",
+        "네이버, 에이전틱 검색 'AI탭' 1000만명 사용",
+        "What building Shippy taught us about building agents",
+        "조영탁 휴넷 대표 \"AI Powered Learning 시대 선도\"...'랩스' 선보여",
+        "Transforming LLMs into Efficient Cross-Encoders via Knowledge Distillation for RAG Reranking"
+      ],
+      "path_json": "archive/2026-07-16/07-35.json",
+      "path_md": "archive/2026-07-16/07-35.md"
+    },
     {
       "id": "2026-07-15_19-21",
       "date": "2026-07-15",
