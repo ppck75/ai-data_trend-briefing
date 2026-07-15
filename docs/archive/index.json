@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-15T14:53:29.703894+09:00",
+  "updated_at": "2026-07-15T19:22:05.734221+09:00",
   "archives": [
+    {
+      "id": "2026-07-15_19-21",
+      "date": "2026-07-15",
+      "time": "19:21",
+      "label": "2026-07-15 19:21",
+      "generated_at": "2026-07-15T19:21:51.584380+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[기고] AI 기반 커머스 시대, 광고 문법이 바뀐다",
+        "네이버, 에이전틱 검색 'AI탭' 1000만명 사용",
+        "AI산업 4대 키워드는 '에이전트·인프라 병목·피지컬AI·수익화'",
+        "Transforming LLMs into Efficient Cross-Encoders via Knowledge Distillation for RAG Reranking",
+        "MAGE: Understanding Stability-Performance Trade-offs in Multi-component Prompt Optimization"
+      ],
+      "path_json": "archive/2026-07-15/19-21.json",
+      "path_md": "archive/2026-07-15/19-21.md"
+    },
     {
       "id": "2026-07-15_14-53",
       "date": "2026-07-15",
