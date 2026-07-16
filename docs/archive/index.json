@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-16T14:59:38.178200+09:00",
+  "updated_at": "2026-07-16T19:28:40.313852+09:00",
   "archives": [
+    {
+      "id": "2026-07-16_19-28",
+      "date": "2026-07-16",
+      "time": "19:28",
+      "label": "2026-07-16 19:28",
+      "generated_at": "2026-07-16T19:28:26.065569+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "콘텐츠",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "[기고] AI 기반 커머스 시대, 광고 문법이 바뀐다",
+        "네이버, 에이전틱 검색 'AI탭' 1000만명 사용",
+        "What building Shippy taught us about building agents",
+        "RAGthoven at SemEval-2026 Task 1: A Multi-Stage Pipeline Walks Into a Benchmark and Barely Clears the Bar",
+        "전국민에 ‘모두의 AI’ 보급...반도체·AIDC·피지컬AI 집중 육성"
+      ],
+      "path_json": "archive/2026-07-16/19-28.json",
+      "path_md": "archive/2026-07-16/19-28.md"
+    },
     {
       "id": "2026-07-16_14-59",
       "date": "2026-07-16",
