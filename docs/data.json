@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T04:05:13.415321+09:00",
+  "updated_at": "2026-07-17T04:30:32.997303+09:00",
   "total_items": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       "fetched_at": "2026-07-17T02:45:34.801859+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "0d139ddba6c8a8ea561e5245f7a281296613fa3509bf54d4d3c43d72d1ab5c5f",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published_at": "2026-07-17T01:01:21+09:00",
+      "entry_updated_at": "2026-07-17T01:01:21+09:00",
+      "fetched_at": "2026-07-17T04:30:32.723323+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3575,24 +3593,6 @@
       "title": "\"차세대 본더 넘어 우주로 사업 확장할것\"",
       "summary": "\"향후 모든 인공지능(AI) 반도체에는 적층(본딩) 기술이 필수로 적용될 것입니다.\" 곽동신 한미반도체 회장은 최근 매일경제와 가진 인터뷰에서 AI 반도체 시대의 핵심 경쟁력으로 ..",
       "url": "https://www.mk.co.kr/news/business/12099538",
-      "published_at": "2026-07-15T17:59:42+09:00",
-      "entry_updated_at": "2026-07-15T17:59:42+09:00",
-      "fetched_at": "2026-07-15T18:30:17.388700+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "0fedd40b243f4c5e9504bd18cbf35d1ff81f26e14e260166a7fffe2c468b1720",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "신동빈, AX로 유통·식품사업 체질 개선 주문",
-      "summary": "롯데그룹이 인공지능(AI)을 그룹 혁신의 핵심 축으로 삼고 체질 개선에 속도를 낸다. 신동빈 롯데그룹 회장은 15일 '2026 하반기 VCM(Value Creation Meetin..",
-      "url": "https://www.mk.co.kr/news/business/12099540",
       "published_at": "2026-07-15T17:59:42+09:00",
       "entry_updated_at": "2026-07-15T17:59:42+09:00",
       "fetched_at": "2026-07-15T18:30:17.388700+09:00",
