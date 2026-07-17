@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T04:02:57.028543+09:00",
+  "updated_at": "2026-07-18T04:23:31.183958+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-07-18T02:37:02.827781+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "f71ccde5e176ba3791a37b1cff53c134ce295e7f2971d70ae6949ec7c12337c6",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published_at": "2026-07-18T00:57:54+09:00",
+      "entry_updated_at": "2026-07-18T00:57:54+09:00",
+      "fetched_at": "2026-07-18T04:23:30.988963+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3579,24 +3597,6 @@
       "entry_updated_at": "2026-07-16T11:34:56+09:00",
       "fetched_at": "2026-07-16T12:46:42.539731+09:00",
       "language": "en",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b5398232065d418dca9c3335f31415f28dc6251f484e786734ea12b9537e534e",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "섬 어린이들도 ‘철도 문화’ 체험…코레일유통, 사회공헌 ‘레일-이음’ 추진",
-      "summary": "평소 철도를 접하기 어려운 섬 지역 어린이들에게 철도 문화를 소개하고 체험 기회를 제공하는 사회공헌 프로젝트가 가동될 예정이다. 코레일유통(대표 박정현)은 도서 지역 어린이를 대상..",
-      "url": "https://www.mk.co.kr/news/business/12100136",
-      "published_at": "2026-07-16T11:34:08+09:00",
-      "entry_updated_at": "2026-07-16T11:34:08+09:00",
-      "fetched_at": "2026-07-16T12:46:40.356267+09:00",
-      "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
