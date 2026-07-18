@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-18T08:26:41.037740+09:00",
+  "updated_at": "2026-07-18T14:42:53.761063+09:00",
   "archives": [
+    {
+      "id": "2026-07-18_14-42",
+      "date": "2026-07-18",
+      "time": "14:42",
+      "label": "2026-07-18 14:42",
+      "generated_at": "2026-07-18T14:42:40.397812+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "브랜드",
+        "플랫폼",
+        "model"
+      ],
+      "integrated_titles": [
+        "반년 만에 뒤집힌 AI 검색 왕좌…한국인, 챗GPT 대신 제미나이 택하기 시작했다",
+        "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "[AI는 지금] \"비싼 미국 AI 왜 써\"…비용 폭탄에 美·유럽 기업, 中 AI로 갈아탔다",
+        "[AI는 지금] AI 에이전트 늘수록 비용 '눈덩이'…코히어, SaaS 비용 구조 정조준",
+        "Automatically Evolving Prompt Guidelines for Task-Specific Optimization"
+      ],
+      "path_json": "archive/2026-07-18/14-42.json",
+      "path_md": "archive/2026-07-18/14-42.md"
+    },
     {
       "id": "2026-07-18_07-35",
       "date": "2026-07-18",
