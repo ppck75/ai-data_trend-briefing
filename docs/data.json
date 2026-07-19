@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T00:55:00.178495+09:00",
+  "updated_at": "2026-07-20T01:55:26.775390+09:00",
   "total_items": 200,
   "items": [
     {
@@ -3549,6 +3549,24 @@
       "planning_insight": ""
     },
     {
+      "id": "2d391f2d69c59e85211d0112fc3edcd18f436cecaef8d4d0c27fddc4aeb3b241",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
+      "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+      "published_at": "2026-07-16T22:24:23+09:00",
+      "entry_updated_at": "2026-07-16T22:24:23+09:00",
+      "fetched_at": "2026-07-20T01:55:26.771923+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "757821165633b4cbbf4d2e80ec5d9f5823eaf0908331e9c753129c8d7b56f065",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260716212540",
       "published_at": "2026-07-16T22:12:27+09:00",
       "entry_updated_at": "2026-07-16T22:12:27+09:00",
-      "fetched_at": "2026-07-16T23:32:15.149771+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "79143b77973ef1988f2bde628a55fc1ae9df23ecc7d887193d11cf5dac2ce542",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "엔켐, 美 상장사 역삼각합병으로 현지 자본 조달 추진",
-      "summary": "[지디넷코리아]엔켐은 미국 자회사 엔켐아메리카와, TGHL이 100% 보유한 특수목적회사(SPC)가 합병한 뒤 엔켐이 TGHL 신주를 취득해 지분 85%를 확보할 예정이라고 지난 15일 밝혔다.TGHL은 블록체인 기반 농식품 공급망 솔루션 기업이다. 합병이 완료되면 SPC는 소멸하고 엔켐아메리카가 존속법인으로 남는다.이에 따라 지배구조는 ‘엔켐-TGHL-엔켐아메리카’ 체제로 재편된다. 엔켐은 TGHL 최대 주주 지위와 미국 사업에 대한 경영권을 유지한다. 엔켐은 합병 이후 TGHL을 통해 최대 2억 달러(약 3000억원) 규모의 단계적 자금 조달을 추진할 계획이다. 글로벌 투자사와의 협의를 바탕으로 캐피털콜 방식의 투자 유치를 진행하며, 실제 조달 규모와 시기는 거래 종결과 투자 조건, 시장 상황 등에 따라 결정될 예정이다.조달 자금은 엔켐아메리카의 생산·운영 기반 강화와 북미 고객 대응, 현지 사업 확대 등에 활용된다. 이를 통해 미국 사업 경쟁력을 높이고 엔켐 그룹의 재무적 유…",
-      "url": "https://zdnet.co.kr/view/?no=20260716085321",
-      "published_at": "2026-07-16T21:21:46+09:00",
-      "entry_updated_at": "2026-07-16T21:21:46+09:00",
       "fetched_at": "2026-07-16T23:32:15.149771+09:00",
       "language": "ko",
       "importance_weight": 0.85,
