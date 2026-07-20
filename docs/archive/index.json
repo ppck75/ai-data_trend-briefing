@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-20T08:32:23.849369+09:00",
+  "updated_at": "2026-07-20T15:33:26.245475+09:00",
   "archives": [
+    {
+      "id": "2026-07-20_15-33",
+      "date": "2026-07-20",
+      "time": "15:33",
+      "label": "2026-07-20 15:33",
+      "generated_at": "2026-07-20T15:33:14.951504+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "헥토파이낸셜, AI 에이전트 결제 표준 만든다…’x402’ 재단 합류",
+        "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "AI 추론 트래픽이 광 네트워크 수요 키운다",
+        "'AI 비서도 선택하게'…EU, 구글·애플 운영체제 개방 압박",
+        "\"외국인 관광객, SNS 보고 K패션·일상 식품 샀다\""
+      ],
+      "path_json": "archive/2026-07-20/15-33.json",
+      "path_md": "archive/2026-07-20/15-33.md"
+    },
     {
       "id": "2026-07-20_07-35",
       "date": "2026-07-20",
