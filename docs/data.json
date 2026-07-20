@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T03:54:04.011397+09:00",
+  "updated_at": "2026-07-21T04:54:12.254535+09:00",
   "total_items": 200,
   "items": [
     {
@@ -52,6 +52,24 @@
       "fetched_at": "2026-07-21T01:57:29.229988+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "99c2353b2b3537e6aad5578e222a444dae4f70c501e476fd6226bbba766f4a4d",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Introducing Cosmos 3 Edge",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published_at": "2026-07-21T00:58:51+09:00",
+      "entry_updated_at": "2026-07-21T00:58:51+09:00",
+      "fetched_at": "2026-07-21T04:54:12.069871+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260716173545",
       "published_at": "2026-07-19T08:14:43+09:00",
       "entry_updated_at": "2026-07-19T08:14:43+09:00",
-      "fetched_at": "2026-07-19T09:59:36.950724+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "552edba055e4b75e99518105a59d4bc7f33ff53ad66299e6e5d8b1b6f6ec4581",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "웨이모 교통대란에 칼 빼든 샌프란시스코…자율주행 새 규칙 추진",
-      "summary": "[지디넷코리아]미국 샌프란시스코 시장이 캘리포니아주에 자율주행차 규제 강화를 공식 요청했다.18일(현지시간) 테크크런치에 따르면 대니얼 루리 샌프란시스코 시장은 캘리포니아주 교통부에 보낸 서한에서 자율주행차가 대규모 행사나 비상 상황에서도 안정적으로 운영될 수 있도록 새로운 운영 기준을 마련해야 한다고 요구했다.이번 요구는 지난 7월 4일 독립기념일 불꽃놀이 행사 당시 웨이모 로보택시 여러 대가 극심한 교통 체증 속에서 멈춰 서고 배터리까지 방전되면서 주요 도로를 막아 수시간 동안 교통 혼란을 일으킨 데 따른 것이다. 당시 시내 셔틀버스 운행까지 차질을 빚으며 수천 명이 영향을 받았다.루리 시장은 지난해 12월 발생한 대규모 정전 사태와 이번 독립기념일 교통대란을 사례로 들며 \"현재 캘리포니아의 규제 체계는 대규모 사고나 특별한 상황에서 자율주행차가 어떻게 운영돼야 하는지를 충분히 다루지 못하고 있다\"고 지적했다.이어 \"이제 중요한 것은 자율주행차가 평상시 안전하게 주행할 수 있는…",
-      "url": "https://zdnet.co.kr/view/?no=20260717161648",
-      "published_at": "2026-07-19T08:10:09+09:00",
-      "entry_updated_at": "2026-07-19T08:10:09+09:00",
       "fetched_at": "2026-07-19T09:59:36.950724+09:00",
       "language": "ko",
       "importance_weight": 0.85,
