@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-21T08:32:46.423231+09:00",
+  "updated_at": "2026-07-21T15:11:52.670503+09:00",
   "archives": [
+    {
+      "id": "2026-07-21_15-11",
+      "date": "2026-07-21",
+      "time": "15:11",
+      "label": "2026-07-21 15:11",
+      "generated_at": "2026-07-21T15:11:39.162361+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "CJ올리브영, 코딩테스트 대신 'AI 과제'…개발자 채용 방식 바꾼다",
+        "\"AI가 만들었는지는 중요하지 않죠...재미만 있다면 지갑 엽니다\"",
+        "SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents",
+        "Introducing Cosmos 3 Edge",
+        "EpiNarrate: Agentic Generation of Grounded Narratives from Epidemiological Scenario Projections"
+      ],
+      "path_json": "archive/2026-07-21/15-11.json",
+      "path_md": "archive/2026-07-21/15-11.md"
+    },
     {
       "id": "2026-07-21_07-35",
       "date": "2026-07-21",
