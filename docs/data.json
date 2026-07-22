@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T09:56:52.395557+09:00",
+  "updated_at": "2026-07-22T12:36:44.212288+09:00",
   "total_items": 200,
   "items": [
     {
@@ -232,6 +232,24 @@
       "fetched_at": "2026-07-22T08:28:15.641770+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "09ad727668b15a97fa93442a9eeef6c006326fea0f37c36748cef32d747ae8ef",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published_at": "2026-07-22T05:00:27+09:00",
+      "entry_updated_at": "2026-07-22T05:00:27+09:00",
+      "fetched_at": "2026-07-22T12:36:44.070973+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-07-20T17:42:46+09:00",
       "entry_updated_at": "2026-07-20T17:42:46+09:00",
       "fetched_at": "2026-07-20T20:21:27.439475+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "a032f9a9a8fa1042cb8c68c0573b534a67f7a71509500b4b66df0b4967df5913",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "마리오아울렛이 가상 격리병동으로…MGM '라이브 XR 전용관' 체험해 보니",
-      "summary": "[지디넷코리아]공포 분위기를 담은 격리병동이 확장현실(XR) 기술로 재탄생했다. 마리오아울렛과 마리오게임뮤지엄(MGM)은 '라이브 XR 전용관' 개장을 앞두고 미디어 사전 시연회를 통해 첫 공개작인 몰입형 호러 '호러라이브 격리병동 1983'을 공개했다.라이브 XR 전용관은 물리적 공간의 한계를 디지털 기술로 확장하는 차세대 위치 기반 엔터테인먼트(LBE) 플랫폼이다. 실제 체험하는 공간은 약 70평 규모에 불과하지만, 가상 세계 속 체험 공간은 그 두 배 수준인 약 140평 규모로 펼쳐진다.이는 정밀한 3D 공간 매핑 기술과 확장현실(XR) 장비를 결합해, 한정된 공간 속에서도 넓고 입체적인 가상 공간을 성공적으로 구현해 낸 프로젝트다.20일 기자가 직접 체험한 이번 XR 콘텐츠는 단순히 정해진 영상을 수동적으로 감상하는 기존 방식에서 벗어나, 이용자의 선택과 행동에 따라 실시간으로 반응하고 미션을 수행해 나가는 인터랙티브 구조를 채택해 몰입감을 극대화했다. 콘텐츠 플레이 시간은…",
-      "url": "https://zdnet.co.kr/view/?no=20260720173014",
-      "published_at": "2026-07-20T17:39:34+09:00",
-      "entry_updated_at": "2026-07-20T17:39:34+09:00",
-      "fetched_at": "2026-07-20T20:21:28.590717+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
