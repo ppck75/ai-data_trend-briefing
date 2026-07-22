@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-22T08:30:57.353319+09:00",
+  "updated_at": "2026-07-22T15:10:50.075652+09:00",
   "archives": [
+    {
+      "id": "2026-07-22_15-10",
+      "date": "2026-07-22",
+      "time": "15:10",
+      "label": "2026-07-22 15:10",
+      "generated_at": "2026-07-22T15:10:35.079405+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 구글 이어 오픈AI까지…챗봇도 브랜딩 시대",
+        "CJ올리브영, 코딩테스트 대신 'AI 과제'…개발자 채용 방식 바꾼다",
+        "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents",
+        "\"AI가 만들었는지는 중요하지 않죠...재미만 있다면 지갑 엽니다\"",
+        "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation"
+      ],
+      "path_json": "archive/2026-07-22/15-10.json",
+      "path_md": "archive/2026-07-22/15-10.md"
+    },
     {
       "id": "2026-07-22_07-35",
       "date": "2026-07-22",
