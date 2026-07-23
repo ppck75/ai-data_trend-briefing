@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-23T19:40:10.866175+09:00",
+  "updated_at": "2026-07-24T08:29:41.721890+09:00",
   "archives": [
+    {
+      "id": "2026-07-24_07-35",
+      "date": "2026-07-24",
+      "time": "07:35",
+      "label": "2026-07-24 07:35",
+      "generated_at": "2026-07-24T08:29:26.434990+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AI 콘텐츠 홍수 시대…플랫폼 새 고민은 'AI 슬롭'",
+        "EU, 알리익스프레스에 9300억원 과징금…\"추천 알고리즘이 위험·위조 상품 노출\"",
+        "Reference-Free Evaluation of Reasoning in Open-Ended Question Answering",
+        "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?",
+        "HSAD·관광공사 손잡고 AI 활용해 축제 마케팅"
+      ],
+      "path_json": "archive/2026-07-24/07-35.json",
+      "path_md": "archive/2026-07-24/07-35.md"
+    },
     {
       "id": "2026-07-23_19-39",
       "date": "2026-07-23",
