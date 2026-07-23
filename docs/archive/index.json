@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-23T08:31:47.661161+09:00",
+  "updated_at": "2026-07-23T15:16:28.845380+09:00",
   "archives": [
+    {
+      "id": "2026-07-23_15-16",
+      "date": "2026-07-23",
+      "time": "15:16",
+      "label": "2026-07-23 15:16",
+      "generated_at": "2026-07-23T15:16:11.736880+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "AI 콘텐츠 홍수 시대…플랫폼 새 고민은 'AI 슬롭'",
+        "\"챗GPT가 추천하는 브랜드는\"…어도비, AI 검색 최적화 솔루션 공개",
+        "EU, 알리익스프레스에 9300억원 과징금…\"추천 알고리즘이 위험·위조 상품 노출\"",
+        "AWS 주간 소식 모음: 원클릭 Lambda 설정 프롬프트, Bedrock의 OpenAI GPT-5.6 모델 등",
+        "A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification"
+      ],
+      "path_json": "archive/2026-07-23/15-16.json",
+      "path_md": "archive/2026-07-23/15-16.md"
+    },
     {
       "id": "2026-07-23_07-35",
       "date": "2026-07-23",
