@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-25T08:34:55.233637+09:00",
+  "updated_at": "2026-07-25T15:02:29.472403+09:00",
   "archives": [
+    {
+      "id": "2026-07-25_15-01",
+      "date": "2026-07-25",
+      "time": "15:01",
+      "label": "2026-07-25 15:01",
+      "generated_at": "2026-07-25T15:01:57.080181+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "이 대통령 만난 젠슨 황 \"SK그룹과 730조원 파트너십 발표\"",
+        "구글, 프랑스에 'AI 오버뷰' 도입…언론사 \"트래픽 줄어든다\"",
+        "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+        "MBO의 종말과 '정보 역전':..왜 1월 세운 KPI가 오늘의 혁신 막을까",
+        "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?"
+      ],
+      "path_json": "archive/2026-07-25/15-01.json",
+      "path_md": "archive/2026-07-25/15-01.md"
+    },
     {
       "id": "2026-07-25_07-35",
       "date": "2026-07-25",
