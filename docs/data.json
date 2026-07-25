@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-07-26T07:52:59.669066+09:00",
+  "updated_at": "2026-07-26T08:58:26.698859+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "76860a19612151b75c9afa45f389cc444273bd40c4de3bc85d6392eadbbaedfd",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "icon": "💻",
+      "title": "삼성전자 \"AI 글래스, 스마트폰 경험 확장에 초점\"",
+      "summary": "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 연내 출시 예정인 인공지능(AI) 글래스(인텔리전트 아이웨어)는 스마트폰 경험 확장에 초점을 맞췄다고 밝혔다. AI 글래스가 스마트폰을 대체하는 것이 아니라, AI 경험을 확장하면서 스마트폰을 더 많이 사용할 수 있는 계기가 되길 바라는 목표로 제품을 만들었다. 주요 스마트폰 업체 중에선 AI 글래스 출시가 처음이고, 스마트폰을 만들지 않는 업체 제품과 다를 것이란 점도 부각했다. 올해 출시할 AI 글래스는 디스플레이를 탑재하지 않지만, 향후 디스플레이 탑재 제품 출시할 가능성도 시사했다. 최재인 삼성전자 MX사업부 XR개발팀장 부사장은 23일(현지시간) 영국 런던에서 개최한 제품설명회에서 \"모바일 AI 경험 관점에서 AI 글래스로 스마트폰을 대체하는 것이 목표도 아니고 기술적으로도 그렇게 초점을 맞추고 있지 않다\"며 \"스마트폰 경험을 어떻게 확장할 수 있는가를 가장 많이 고민했다\"고 밝혔다. 이어 \"(AI 글래스를) 저희(삼성…",
+      "url": "https://zdnet.co.kr/view/?no=20260726023107",
+      "published_at": "2026-07-26T08:00:03+09:00",
+      "entry_updated_at": "2026-07-26T08:00:03+09:00",
+      "fetched_at": "2026-07-26T08:58:26.540108+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "6564aa7d70d159b8600575e33fe9d3b4a15a278df3ad3c5df43f9a668d97e34e",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-07-24T16:05:56.965991+09:00",
       "language": "en",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "bdc38cbd782b0b6371b2fbaa9b2de14ef780e4eef0c07ab5f5d04d2c00230526",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "Amazon gaming boss predicts future where players no longer need consoles",
-      "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.",
-      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o",
-      "published_at": "2026-07-23T22:24:16+09:00",
-      "entry_updated_at": "2026-07-23T22:24:16+09:00",
-      "fetched_at": "2026-07-24T00:11:59.216900+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
