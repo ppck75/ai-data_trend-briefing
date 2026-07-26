@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-26T08:32:14.398517+09:00",
+  "updated_at": "2026-07-26T15:20:58.354157+09:00",
   "archives": [
+    {
+      "id": "2026-07-26_15-20",
+      "date": "2026-07-26",
+      "time": "15:20",
+      "label": "2026-07-26 15:20",
+      "generated_at": "2026-07-26T15:20:43.115553+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "'한글과컴퓨터' 이름 뗐다…한컴, 36년 만에 AI 기업으로 새 출발",
+        "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+        "정의선 회장 \"현대차그룹, 자동차 넘어 피지컬 AI 기업으로\"",
+        "OTT도 소버린...유럽서 독자 플랫폼 구성 움직임",
+        "구글, 프랑스에 'AI 오버뷰' 도입…언론사 \"트래픽 줄어든다\""
+      ],
+      "path_json": "archive/2026-07-26/15-20.json",
+      "path_md": "archive/2026-07-26/15-20.md"
+    },
     {
       "id": "2026-07-26_07-35",
       "date": "2026-07-26",
