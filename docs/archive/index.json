@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-26T15:20:58.354157+09:00",
+  "updated_at": "2026-07-26T19:19:20.896090+09:00",
   "archives": [
+    {
+      "id": "2026-07-26_19-19",
+      "date": "2026-07-26",
+      "time": "19:19",
+      "label": "2026-07-26 19:19",
+      "generated_at": "2026-07-26T19:19:06.539951+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "반도체·AIDC 협력...샌프란서 삼성·SK·현대차·네이버 대규모 협력 발표",
+        "[AI 고속도로] AI 인프라 새 승부처 '랙 스케일'…칩·서버 업계 총력전",
+        "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+        "Skill-Contracted Agents for Evidence-Aware Materials Literature Analysis",
+        "피지컬 AI 기업 선언한 현대차그룹…실리콘밸리 혁신거점 키운다"
+      ],
+      "path_json": "archive/2026-07-26/19-19.json",
+      "path_md": "archive/2026-07-26/19-19.md"
+    },
     {
       "id": "2026-07-26_15-20",
       "date": "2026-07-26",
