@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-27T20:53:23.222434+09:00",
+  "updated_at": "2026-07-28T08:35:55.177191+09:00",
   "archives": [
+    {
+      "id": "2026-07-28_07-35",
+      "date": "2026-07-28",
+      "time": "07:35",
+      "label": "2026-07-28 07:35",
+      "generated_at": "2026-07-28T08:35:40.582502+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "앤드류 응, 대화 대신 결과물 내놓는 오픈소스 AI '오픈워커' 공개",
+        "On Improving Faithfulness of Podcasts from Documents",
+        "[AI 고속도로] AI 인프라 새 승부처 '랙 스케일'…칩·서버 업계 총력전",
+        "Data Quality over Capacity: Internalizing Documents into LoRA Adapters for Closed-Book QA",
+        "\"몰카·악질 영상 지운다\"...메타, 'AI 안경' 불법 촬영물 단속"
+      ],
+      "path_json": "archive/2026-07-28/07-35.json",
+      "path_md": "archive/2026-07-28/07-35.md"
+    },
     {
       "id": "2026-07-27_20-52",
       "date": "2026-07-27",
