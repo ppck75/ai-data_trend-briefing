@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-28T19:58:44.335171+09:00",
+  "updated_at": "2026-07-29T08:31:50.796763+09:00",
   "archives": [
+    {
+      "id": "2026-07-29_07-35",
+      "date": "2026-07-29",
+      "time": "07:35",
+      "label": "2026-07-29 07:35",
+      "generated_at": "2026-07-29T08:31:35.309475+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[현장] 챗봇 답변 속 브랜드 경쟁력은…AI빅스랩, 'AI빅스' 지수 공개",
+        "사티아 나델라 MS CEO \"특정 AI 모델 의존하는 기업, 살아남기 어렵다\"",
+        "더 작고 강해진 Kanana SLM 개발",
+        "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
+        "브랜드, AI보다 ‘깊이’가 경쟁력…아임웹이 제시한 넥스트 커머스는"
+      ],
+      "path_json": "archive/2026-07-29/07-35.json",
+      "path_md": "archive/2026-07-29/07-35.md"
+    },
     {
       "id": "2026-07-28_19-58",
       "date": "2026-07-28",
