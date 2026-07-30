@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-07-30T09:53:27.021923+09:00",
+  "updated_at": "2026-07-30T12:18:59.163121+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "460649f51f2636d36a00af8bb8071a0c5007a722228f8518ca21fa440057fa7d",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "토스의 디바이스 팜 만들기",
+      "summary": "팀마다 맥북에 폰을 꽂던 시절을 끝내고, 실기기를 API 호출 한 번으로 여는 플랫폼을 만들며",
+      "url": "https://toss.tech/article/device-farm-nebula",
+      "published_at": "2026-07-30T11:24:00+09:00",
+      "entry_updated_at": "2026-07-30T11:24:00+09:00",
+      "fetched_at": "2026-07-30T12:18:50.403653+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "0c978e335b582f3ecbe34ace8eb40118c084961e800d3bf16e43c43505776ede",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-07-29T02:52:22.010866+09:00",
       "language": "en",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "87903189b5a419b3181ee322da4f0aef04030b9858ff79a4dae00c28bcb94e2a",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "icon": "🤗",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "published_at": "2026-07-29T01:27:42+09:00",
-      "entry_updated_at": "2026-07-29T01:27:42+09:00",
-      "fetched_at": "2026-07-29T04:47:35.632208+09:00",
-      "language": "en",
-      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
