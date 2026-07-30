@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-30T08:32:31.673197+09:00",
+  "updated_at": "2026-07-30T15:07:10.114370+09:00",
   "archives": [
+    {
+      "id": "2026-07-30_15-06",
+      "date": "2026-07-30",
+      "time": "15:06",
+      "label": "2026-07-30 15:06",
+      "generated_at": "2026-07-30T15:06:53.788035+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "[AI TCO 함정②] 사용자 수 다음은 크레딧…달라진 SaaS 청구서",
+        "Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement",
+        "사람 밀어낸 홈쇼핑 'AI 쇼호스트', 방송 사고 책임은 누가",
+        "[카드뉴스] AI 안경, 폰을 이길 수 있을까",
+        "TabRank: Chain-of-Thought Distillation for Table Re-Rankers"
+      ],
+      "path_json": "archive/2026-07-30/15-06.json",
+      "path_md": "archive/2026-07-30/15-06.md"
+    },
     {
       "id": "2026-07-30_07-35",
       "date": "2026-07-30",
