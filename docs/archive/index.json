@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-30T19:38:59.831007+09:00",
+  "updated_at": "2026-07-31T08:34:17.481184+09:00",
   "archives": [
+    {
+      "id": "2026-07-31_07-35",
+      "date": "2026-07-31",
+      "time": "07:35",
+      "label": "2026-07-31 07:35",
+      "generated_at": "2026-07-31T08:34:00.092120+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+        "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
+        "AgentGUI: An Interface for Observing and Steering Long-Running AI Agents",
+        "Large-Scale ChatBot Validation Through Customer Digital Twin Simulations",
+        "문페이 \"챗GPT·클로드서 예약·쇼핑·결제 지원\""
+      ],
+      "path_json": "archive/2026-07-31/07-35.json",
+      "path_md": "archive/2026-07-31/07-35.md"
+    },
     {
       "id": "2026-07-30_19-38",
       "date": "2026-07-30",
