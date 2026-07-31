@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-07-31T20:07:36.243507+09:00",
+  "updated_at": "2026-08-01T08:32:27.482826+09:00",
   "archives": [
+    {
+      "id": "2026-08-01_07-35",
+      "date": "2026-08-01",
+      "time": "07:35",
+      "label": "2026-08-01 07:35",
+      "generated_at": "2026-08-01T08:32:09.774320+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "UI"
+      ],
+      "integrated_titles": [
+        "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+        "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
+        "잡코리아 vs 사람인, 'AI 후불형 채용' 승부…차별점은",
+        "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+        "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation"
+      ],
+      "path_json": "archive/2026-08-01/07-35.json",
+      "path_md": "archive/2026-08-01/07-35.md"
+    },
     {
       "id": "2026-07-31_20-07",
       "date": "2026-07-31",
