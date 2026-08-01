@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-01T08:32:27.482826+09:00",
+  "updated_at": "2026-08-01T15:14:57.725613+09:00",
   "archives": [
+    {
+      "id": "2026-08-01_15-14",
+      "date": "2026-08-01",
+      "time": "15:14",
+      "label": "2026-08-01 15:14",
+      "generated_at": "2026-08-01T15:14:42.848638+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+        "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+        "챗GPT·로블록스, EU 최고 강도 규제 대상 되나…이르면 8월 지정 전망",
+        "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation",
+        "잡코리아 vs 사람인, 'AI 후불형 채용' 승부…차별점은"
+      ],
+      "path_json": "archive/2026-08-01/15-14.json",
+      "path_md": "archive/2026-08-01/15-14.md"
+    },
     {
       "id": "2026-08-01_07-35",
       "date": "2026-08-01",
