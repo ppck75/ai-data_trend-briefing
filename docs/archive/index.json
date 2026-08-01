@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-01T15:14:57.725613+09:00",
+  "updated_at": "2026-08-01T19:17:49.127076+09:00",
   "archives": [
+    {
+      "id": "2026-08-01_19-17",
+      "date": "2026-08-01",
+      "time": "19:17",
+      "label": "2026-08-01 19:17",
+      "generated_at": "2026-08-01T19:17:25.137436+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+        "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+        "[AI는 지금] 가짜 폭격·난민 사진 쏟아지자…구글, '어스 AI 편집' 긴급 철회",
+        "AI에게 자판기 운영 맡겼더니 6번 다 담합…5는 배신·거짓말까지",
+        "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation"
+      ],
+      "path_json": "archive/2026-08-01/19-17.json",
+      "path_md": "archive/2026-08-01/19-17.md"
+    },
     {
       "id": "2026-08-01_15-14",
       "date": "2026-08-01",
