@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T06:25:59.609495+09:00",
+  "updated_at": "2026-08-03T07:27:12.767716+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1276,6 +1276,24 @@
       "fetched_at": "2026-08-01T12:59:36.684048+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "f4506a65349ad80cbbb917fdc2bbe45424fd29d49fc022f9b1204c407750ebcb",
+      "source": "BBC Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🌍",
+      "title": "Tech Now",
+      "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews",
+      "published_at": "2026-08-01T09:00:00+09:00",
+      "entry_updated_at": "2026-08-01T09:00:00+09:00",
+      "fetched_at": "2026-08-03T07:27:12.637710+09:00",
+      "language": "en",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-07-30T17:58:16+09:00",
       "entry_updated_at": "2026-07-30T17:58:16+09:00",
       "fetched_at": "2026-07-30T18:12:01.144985+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "5f87c7085ad4176579b349b8b1bccc96b75bf54e5d66afba29e2ade3a59b6cc8",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "승계 속도내는 한화 … 김동관, 전략 총괄 역할 강화",
-      "summary": "한화그룹이 8월 1일 인적분할에 맞춰 오너 3세 3형제의 승진 인사를 발표하면서 그룹 후계 구도가 한층 명확해졌다. 방산·조선·에너지 등 그룹 주력 사업을 이끌어온 김동관 한화..",
-      "url": "https://www.mk.co.kr/news/business/12112223",
-      "published_at": "2026-07-30T17:58:15+09:00",
-      "entry_updated_at": "2026-07-30T17:58:15+09:00",
-      "fetched_at": "2026-07-30T20:27:39.563998+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
