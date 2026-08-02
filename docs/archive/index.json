@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-02T15:17:56.870063+09:00",
+  "updated_at": "2026-08-02T19:16:12.302308+09:00",
   "archives": [
+    {
+      "id": "2026-08-02_19-15",
+      "date": "2026-08-02",
+      "time": "19:15",
+      "label": "2026-08-02 19:15",
+      "generated_at": "2026-08-02T19:15:56.942923+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "분석",
+        "데이터",
+        "플랫폼",
+        "model"
+      ],
+      "integrated_titles": [
+        "스냅챗, AI 영상 '돈벌이' 막는다…사람 제작 콘텐츠 우선 노출",
+        "LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation",
+        "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation",
+        "WSJ \"AI해킹, 쥬라기 공원 모멘텀 왔다\""
+      ],
+      "path_json": "archive/2026-08-02/19-15.json",
+      "path_md": "archive/2026-08-02/19-15.md"
+    },
     {
       "id": "2026-08-02_15-17",
       "date": "2026-08-02",
