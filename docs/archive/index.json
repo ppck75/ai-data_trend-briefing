@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-03T20:57:59.446049+09:00",
+  "updated_at": "2026-08-04T08:38:10.966635+09:00",
   "archives": [
+    {
+      "id": "2026-08-04_07-35",
+      "date": "2026-08-04",
+      "time": "07:35",
+      "label": "2026-08-04 07:35",
+      "generated_at": "2026-08-04T08:37:54.973144+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "출점 대신 'AI' 적극 활용…편의점 승부처 바뀐다",
+        "\"구독 수익으론 부족\"...OTT, 실시간 중계로 광고 수익 극대화",
+        "Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges",
+        "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "스냅챗, AI 영상 '돈벌이' 막는다…사람 제작 콘텐츠 우선 노출"
+      ],
+      "path_json": "archive/2026-08-04/07-35.json",
+      "path_md": "archive/2026-08-04/07-35.md"
+    },
     {
       "id": "2026-08-03_20-57",
       "date": "2026-08-03",
