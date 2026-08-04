@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-04T15:10:52.878581+09:00",
+  "updated_at": "2026-08-04T20:04:41.549226+09:00",
   "archives": [
+    {
+      "id": "2026-08-04_20-04",
+      "date": "2026-08-04",
+      "time": "20:04",
+      "label": "2026-08-04 20:04",
+      "generated_at": "2026-08-04T20:04:25.050181+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "출점 대신 'AI' 적극 활용…편의점 승부처 바뀐다",
+        "AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents",
+        "실험을 더 편하게 설계할 수 있게: 당근 실험플랫폼 이야기",
+        "카카오페이가 공개한 'AI 에이전트' 플랫폼 청사진",
+        "\"레이밴 메타보다 낫네\"...9만원 AI 안경, 호주서 완판"
+      ],
+      "path_json": "archive/2026-08-04/20-04.json",
+      "path_md": "archive/2026-08-04/20-04.md"
+    },
     {
       "id": "2026-08-04_15-10",
       "date": "2026-08-04",
