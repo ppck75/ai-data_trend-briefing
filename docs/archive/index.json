@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-05T20:01:41.923649+09:00",
+  "updated_at": "2026-08-06T08:30:30.757947+09:00",
   "archives": [
+    {
+      "id": "2026-08-06_07-35",
+      "date": "2026-08-06",
+      "time": "07:35",
+      "label": "2026-08-06 07:35",
+      "generated_at": "2026-08-06T08:30:15.321283+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "시전 보고서, 브랜드들이 비용 부담 큰 &apos;데이터 파편화 함정&apos;에 빠지고 있다고 경고",
+        "Deploy local agents everywhere with LFM2.5-2.6B",
+        "[AI는 지금] 오픈AI, 로펌 시장 첫발…범용 AI 확산 신호탄 될까",
+        "위버스, 제미나이 기반 '위버스 AI' 베타 출시",
+        "MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale"
+      ],
+      "path_json": "archive/2026-08-06/07-35.json",
+      "path_md": "archive/2026-08-06/07-35.md"
+    },
     {
       "id": "2026-08-05_20-01",
       "date": "2026-08-05",
