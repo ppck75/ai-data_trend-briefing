@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-05T08:34:15.339687+09:00",
+  "updated_at": "2026-08-05T15:06:34.575125+09:00",
   "archives": [
+    {
+      "id": "2026-08-05_15-06",
+      "date": "2026-08-05",
+      "time": "15:06",
+      "label": "2026-08-05 15:06",
+      "generated_at": "2026-08-05T15:06:19.151793+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "카카오페이가 공개한 'AI 에이전트' 플랫폼 청사진",
+        "실험을 더 편하게 설계할 수 있게: 당근 실험플랫폼 이야기",
+        "Deploy local agents everywhere with LFM2.5-2.6B",
+        "AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents",
+        "[AI는 지금] 구글·메타에 도전장…미스트랄, 기업용 AI 안전시장 본격 공략"
+      ],
+      "path_json": "archive/2026-08-05/15-06.json",
+      "path_md": "archive/2026-08-05/15-06.md"
+    },
     {
       "id": "2026-08-05_07-35",
       "date": "2026-08-05",
