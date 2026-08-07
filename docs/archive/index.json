@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-07T14:14:03.835935+09:00",
+  "updated_at": "2026-08-07T18:33:52.635160+09:00",
   "archives": [
+    {
+      "id": "2026-08-07_17-35",
+      "date": "2026-08-07",
+      "time": "17:35",
+      "label": "2026-08-07 17:35",
+      "generated_at": "2026-08-07T18:33:37.192641+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "네이버 \"AI 브리핑 도입 전보다 블로그 창작자 지원금 2배 증가\"",
+        "Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability",
+        "“AI에이전트, 세계 인구보다 많아진다”…메모리 가격 기준도 바뀐다는데",
+        "[AI는 지금] 챗GPT 무료 '무제한' 선언…오픈AI, 구독 전략 다시 짠다",
+        "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
+      ],
+      "path_json": "archive/2026-08-07/17-35.json",
+      "path_md": "archive/2026-08-07/17-35.md"
+    },
     {
       "id": "2026-08-07_14-13",
       "date": "2026-08-07",
