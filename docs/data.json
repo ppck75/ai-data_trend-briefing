@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:09:33.765709+09:00",
+  "updated_at": "2026-08-08T07:05:19.601222+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2559,6 +2559,24 @@
       "planning_insight": ""
     },
     {
+      "id": "6c3239126ae493b6c5e7102051b65be9a22366c496c5539bc89bc5de8dab7160",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Follow the Markets and Track Stocks With These Free Apps",
+      "summary": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
+      "url": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+      "published_at": "2026-08-07T09:01:36+09:00",
+      "entry_updated_at": "2026-08-07T09:01:36+09:00",
+      "fetched_at": "2026-08-08T07:05:19.596886+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "543eb46b822bcaeefb99c09fd97f7f929f9311575d4fe76c264caee9d07633f5",
       "source": "매일경제 기업",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/business/12119467",
       "published_at": "2026-08-06T18:06:54+09:00",
       "entry_updated_at": "2026-08-06T18:06:54+09:00",
-      "fetched_at": "2026-08-06T19:08:01.683971+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "4efbb37217c08816a6c46d08b60896236cea3dd608e56605f1bca03a7aaaa76d",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "'국내 유일 웨이퍼 제조' SK실트론… \"신공장 가동률 90% 후반대 목표\"",
-      "summary": "웨이퍼 공급 부족 가능성이 대두되면서 국내 유일 제조기업인 SK실트론도 생산량 확대에 속도를 내고 있다. SK실트론은 최근 두산이 인수를 확정했다. 6일 업계에 따르면 SK실트론은..",
-      "url": "https://www.mk.co.kr/news/business/12119465",
-      "published_at": "2026-08-06T18:06:53+09:00",
-      "entry_updated_at": "2026-08-06T18:06:53+09:00",
       "fetched_at": "2026-08-06T19:08:01.683971+09:00",
       "language": "ko",
       "importance_weight": 0.85,
