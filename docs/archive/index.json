@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-07T10:37:23.606324+09:00",
+  "updated_at": "2026-08-07T14:14:03.835935+09:00",
   "archives": [
+    {
+      "id": "2026-08-07_14-13",
+      "date": "2026-08-07",
+      "time": "14:13",
+      "label": "2026-08-07 14:13",
+      "generated_at": "2026-08-07T14:13:48.908568+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 챗GPT 무료 '무제한' 선언…오픈AI, 구독 전략 다시 짠다",
+        "“AI에이전트, 세계 인구보다 많아진다”…메모리 가격 기준도 바뀐다는데",
+        "MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale",
+        "시전 보고서, 브랜드들이 비용 부담 큰 &apos;데이터 파편화 함정&apos;에 빠지고 있다고 경고",
+        "JudgeArena: A Unified Framework for Reproducible LLM-Judge Evaluation"
+      ],
+      "path_json": "archive/2026-08-07/14-13.json",
+      "path_md": "archive/2026-08-07/14-13.md"
+    },
     {
       "id": "2026-08-07_10-37",
       "date": "2026-08-07",
