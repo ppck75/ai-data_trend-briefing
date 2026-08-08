@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-08T08:07:27.913737+09:00",
+  "updated_at": "2026-08-08T13:35:17.631950+09:00",
   "archives": [
+    {
+      "id": "2026-08-08_12-35",
+      "date": "2026-08-08",
+      "time": "12:35",
+      "label": "2026-08-08 12:35",
+      "generated_at": "2026-08-08T13:35:02.418443+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "model"
+      ],
+      "integrated_titles": [
+        "네이버 \"AI 브리핑 도입 전보다 블로그 창작자 지원금 2배 증가\"",
+        "바이트댄스, 보면서 듣고 먼저 말 거는 AI…'시드리얼타임' 더우바오에 전면 적용",
+        "Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability",
+        "웹툰만 보는 시대 끝…네이버웹툰, 애니·AI 캐릭터로 '체류시간' 늘린다",
+        "Beyond Sentiment: Comparing Traditional NLP and LLM-Based Multi-Dimensional Analysis for Political News Evaluation"
+      ],
+      "path_json": "archive/2026-08-08/12-35.json",
+      "path_md": "archive/2026-08-08/12-35.md"
+    },
     {
       "id": "2026-08-08_07-35",
       "date": "2026-08-08",
