@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:54:16.516297+09:00",
+  "updated_at": "2026-08-10T23:55:00.309865+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-08-10T16:59:00.826110+09:00",
       "language": "ko",
       "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "2cfa5765cb40115060f2761970e4db65b78a4603d49e1646aef0f4f3b8bf93eb",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+      "summary": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+      "url": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "published_at": "2026-08-10T22:56:20+09:00",
+      "entry_updated_at": "2026-08-10T22:56:20+09:00",
+      "fetched_at": "2026-08-10T23:55:00.305271+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260808222453",
       "published_at": "2026-08-09T07:32:27+09:00",
       "entry_updated_at": "2026-08-09T07:32:27+09:00",
-      "fetched_at": "2026-08-09T08:30:29.664760+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "4530dab46a843ee31de120ae419e52536c61b622f2fd1c1d140e90b4a8899aff",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보",
-      "summary": "[지디넷코리아]인텔이 여러 궤도의 위성을 연결해 저궤도(LEO) 위성군을 통합 관리하는 '궤도 데이터센터' 기술을 특허로 확보했다.미국 특허 분석 전문 업체 '페이턴트라이즈'가 6일(현지시간) 소개한 인텔의 특허에는 여러 궤도에 위성을 배치해 하나의 분산 데이터센터처럼 활용하는 구조가 담겼다.해당 특허는 2022년 우선권을 확보하고 2023년 공개됐으며, 올해 2월 미국 특허로 등록됐다.인텔이 제시한 구조는 수천 개의 저궤도 위성에 고성능 컴퓨팅 기능을 각각 탑재하는 대신, 중궤도(MEO)·정지궤도(GEO)·고타원궤도(HEO) 등에 상대적으로 강력한 컴퓨팅 위성을 배치하는 방식이다.저궤도 위성은 통신이나 데이터 수집 등 개별 임무를 수행하고, 상위 궤도의 데이터센터 역할을 하는 위성은 위성군 전체의 네트워크를 관리한다.라우팅과 제어 계산, 위성 간 통신 조정, 데이터 처리 등의 작업을 상위 위성에서 수행하고 그 결과를 저궤도 위성으로 전달하는 구조다.특허는 서로 다른 궤도에 있는…",
-      "url": "https://zdnet.co.kr/view/?no=20260808225255",
-      "published_at": "2026-08-09T07:31:18+09:00",
-      "entry_updated_at": "2026-08-09T07:31:18+09:00",
       "fetched_at": "2026-08-09T08:30:29.664760+09:00",
       "language": "ko",
       "importance_weight": 0.85,
