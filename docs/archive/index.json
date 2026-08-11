@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-11T08:07:54.838479+09:00",
+  "updated_at": "2026-08-11T13:50:00.672051+09:00",
   "archives": [
+    {
+      "id": "2026-08-11_12-35",
+      "date": "2026-08-11",
+      "time": "12:35",
+      "label": "2026-08-11 12:35",
+      "generated_at": "2026-08-11T13:49:38.950372+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "Amazon Bedrock AgentCore Runtime Instances 출시: 프로덕션 AI 에이전트를 위한 지속형 컴퓨팅 제공",
+        "저커버그 \"초지능 독점 안 돼\"…메타, 개방형 AI 복귀",
+        "Amazon DynamoDB, 모든 규모에서 실시간 벡터 검색 지원 기능 출시",
+        "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
+        "[AI는 지금] 中 AI 초저가 공세에 '균열'…딥시크, 가격 인상 압박받는 이유는"
+      ],
+      "path_json": "archive/2026-08-11/12-35.json",
+      "path_md": "archive/2026-08-11/12-35.md"
+    },
     {
       "id": "2026-08-11_07-35",
       "date": "2026-08-11",
