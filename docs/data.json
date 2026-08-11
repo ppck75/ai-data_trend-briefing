@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T03:24:05.293371+09:00",
+  "updated_at": "2026-08-12T04:15:15.272423+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-08-11T23:19:20.307461+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "a4d19e70c81e1ec95c5db151701dd7cc77e867c371909f666fd876444a9aa556",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "published_at": "2026-08-11T22:37:10+09:00",
+      "entry_updated_at": "2026-08-11T22:37:10+09:00",
+      "fetched_at": "2026-08-12T04:15:15.148981+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260810133346",
       "published_at": "2026-08-10T19:10:24+09:00",
       "entry_updated_at": "2026-08-10T19:10:24+09:00",
-      "fetched_at": "2026-08-10T21:10:43.866766+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "0d1a1bea10202990c1afd1ecb47b4980677fbcb04335ae1b9753a82841e4341a",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "STARCARES, 미래 의료 전문가들을 위해 라고스 대학교 농구 코트 새 단장",
-      "summary": "[지디넷코리아]새롭게 단장된 농구 코트는 약 2,000명의 미래 의료 전문가들에게 학업을 넘어 재충전하고, 교류하며, 공동체 활동을 만들어갈 수 있는 전용 공간을 제공합니다. 나이지리아 라고스, 2026년 8월 10일 /PRNewswire/ -- 스타트레이더의 지역사회 공헌 이니셔티브인 STARCARES가 라고스 대학교 의과대학 농구 코트의 재개발을 완료하여, 약 2,000명의 학생들에게 의학 교육을 넘어 여가, 팀워크, 캠퍼스 교류를 위한 전용 공간을 제공하게 되었습니다. STARCARES Revamps Basketball Court at the University of Lagos for Future Healthcare Professionals. 수룰레레(Surulere) 이디아라바(Idi-Araba)에 위치한 이 의과대학은 32개 학과에 걸쳐 1,850명의 교직원을 두고 있습니다. 1962년 첫 의대생 28명을 맞이한 이래, 의사, 치과의사, 보건 전문 인력을 양성하는 경쟁력…",
-      "url": "https://zdnet.co.kr/view/?no=20260810191002",
-      "published_at": "2026-08-10T19:10:02+09:00",
-      "entry_updated_at": "2026-08-10T19:10:02+09:00",
       "fetched_at": "2026-08-10T21:10:43.866766+09:00",
       "language": "ko",
       "importance_weight": 0.85,
