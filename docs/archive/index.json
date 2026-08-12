@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-12T18:41:44.623344+09:00",
+  "updated_at": "2026-08-13T08:11:56.053067+09:00",
   "archives": [
+    {
+      "id": "2026-08-13_07-35",
+      "date": "2026-08-13",
+      "time": "07:35",
+      "label": "2026-08-13 07:35",
+      "generated_at": "2026-08-13T08:11:39.620330+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "스포티파이, AI로 만든 아티스트 프로필에 표시…추천·플레이리스트서 뺀다",
+        "LLM Agents Factory: Retrieval of Domain-Specific LLM Agents",
+        "웹뷰 다음의 레일을 깔다: 당근이 Lynx를 선택한 이유",
+        "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+        "\"AI 시대 자사몰 성공 여부는 '데이터'의 구조화에 달려\""
+      ],
+      "path_json": "archive/2026-08-13/07-35.json",
+      "path_md": "archive/2026-08-13/07-35.md"
+    },
     {
       "id": "2026-08-12_17-35",
       "date": "2026-08-12",
