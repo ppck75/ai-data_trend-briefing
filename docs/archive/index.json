@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-13T14:18:00.874915+09:00",
+  "updated_at": "2026-08-13T18:42:10.961631+09:00",
   "archives": [
+    {
+      "id": "2026-08-13_17-35",
+      "date": "2026-08-13",
+      "time": "17:35",
+      "label": "2026-08-13 17:35",
+      "generated_at": "2026-08-13T18:41:42.337474+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "UI",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[유미's 픽] \"챗GPT에 회사 띄워준다\"…AEO·GEO 열풍에 과장 영업 기승",
+        "AI에게 투자정보를 말하게 하기까지",
+        "TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation",
+        "모건스탠리 \"LG전자, 이젠 피지컬AI 플랫폼 기업\"",
+        "\"AI 시대 자사몰 성공 여부는 '데이터'의 구조화에 달려\""
+      ],
+      "path_json": "archive/2026-08-13/17-35.json",
+      "path_md": "archive/2026-08-13/17-35.md"
+    },
     {
       "id": "2026-08-13_14-17",
       "date": "2026-08-13",
