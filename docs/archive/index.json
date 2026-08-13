@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-13T18:42:10.961631+09:00",
+  "updated_at": "2026-08-14T08:13:17.203408+09:00",
   "archives": [
+    {
+      "id": "2026-08-14_07-35",
+      "date": "2026-08-14",
+      "time": "07:35",
+      "label": "2026-08-14 07:35",
+      "generated_at": "2026-08-14T08:12:53.718000+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "UI"
+      ],
+      "integrated_titles": [
+        "오픈AI, 챗GPT 광고 시범 도입…한국 포함 5개국에서 시작",
+        "[유미's 픽] \"챗GPT에 회사 띄워준다\"…AEO·GEO 열풍에 과장 영업 기승",
+        "AI에게 투자정보를 말하게 하기까지",
+        "\"안 끄면 동의\"…트위치, 아마존 AI 훈련에 스트리머 영상 활용 논란",
+        "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets"
+      ],
+      "path_json": "archive/2026-08-14/07-35.json",
+      "path_md": "archive/2026-08-14/07-35.md"
+    },
     {
       "id": "2026-08-13_17-35",
       "date": "2026-08-13",
