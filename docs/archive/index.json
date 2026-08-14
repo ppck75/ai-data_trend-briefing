@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-14T08:13:17.203408+09:00",
+  "updated_at": "2026-08-14T14:14:41.868871+09:00",
   "archives": [
+    {
+      "id": "2026-08-14_14-14",
+      "date": "2026-08-14",
+      "time": "14:14",
+      "label": "2026-08-14 14:14",
+      "generated_at": "2026-08-14T14:14:27.348486+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "UI"
+      ],
+      "integrated_titles": [
+        "오픈AI, 챗GPT 광고 시범 도입…한국 포함 5개국에서 시작",
+        "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "\"라방 보면서 상품 구매\"...메타 APAC, '라이브 커머스' 더 키운다",
+        "[유미's 픽] \"챗GPT에 회사 띄워준다\"…AEO·GEO 열풍에 과장 영업 기승",
+        "AWS 주간 소식 모음: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew 등"
+      ],
+      "path_json": "archive/2026-08-14/14-14.json",
+      "path_md": "archive/2026-08-14/14-14.md"
+    },
     {
       "id": "2026-08-14_07-35",
       "date": "2026-08-14",
