@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:25:10.320549+09:00",
+  "updated_at": "2026-08-15T04:07:43.742945+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2325,6 +2325,24 @@
       "planning_insight": ""
     },
     {
+      "id": "6195ac27d8232e77de088d8aedcb79b820b9972a2c33dad7fbfba5a5ddfc7364",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "summary": "",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published_at": "2026-08-14T09:00:00+09:00",
+      "entry_updated_at": "2026-08-14T09:00:00+09:00",
+      "fetched_at": "2026-08-15T04:07:43.549013+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "b573612ca27a39778781dd10b33aff8efc3943cbac2e2d2a919366a88545c1f1",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3578,24 +3596,6 @@
       "published_at": "2026-08-13T16:50:01+09:00",
       "entry_updated_at": "2026-08-13T16:50:01+09:00",
       "fetched_at": "2026-08-13T18:40:03.355331+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b353045f7a038e44647d86dc678009367ea43a27204aed14fcd7db8da7690597",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "신설법인 8월 7일 ~ 8월 13일",
-      "summary": "신설법인 8월 7일 ~ 8월 13일 첨부 파일은 엑셀로 제작되어 있습니다. 신설법인 누르시면 다운로드 됩니다. [무단전재 및 재배포 금지]",
-      "url": "https://www.mk.co.kr/news/business/12126706",
-      "published_at": "2026-08-13T16:49:56+09:00",
-      "entry_updated_at": "2026-08-13T16:49:56+09:00",
-      "fetched_at": "2026-08-13T17:18:12.373425+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
