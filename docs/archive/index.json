@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-15T13:04:09.771832+09:00",
+  "updated_at": "2026-08-15T17:56:40.110634+09:00",
   "archives": [
+    {
+      "id": "2026-08-15_17-35",
+      "date": "2026-08-15",
+      "time": "17:35",
+      "label": "2026-08-15 17:35",
+      "generated_at": "2026-08-15T17:56:28.067619+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화",
+        "오픈AI, 챗GPT 광고 시범 도입…한국 포함 5개국에서 시작",
+        "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "가성비 AI의 반격…딥시크, 에이전트 특화 'V4-프로' 정식 출시",
+        "\"저질 AI 콘텐츠 피하려 직접 만들었다\"…개인형 검색엔진 '말린' 눈길"
+      ],
+      "path_json": "archive/2026-08-15/17-35.json",
+      "path_md": "archive/2026-08-15/17-35.md"
+    },
     {
       "id": "2026-08-15_12-35",
       "date": "2026-08-15",
