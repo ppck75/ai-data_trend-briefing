@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-18T13:07:55.291648+09:00",
+  "updated_at": "2026-08-18T18:04:31.324939+09:00",
   "archives": [
+    {
+      "id": "2026-08-18_17-35",
+      "date": "2026-08-18",
+      "time": "17:35",
+      "label": "2026-08-18 17:35",
+      "generated_at": "2026-08-18T18:04:14.336708+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[SW키트] 美 빅테크, 'AI 워터마크' 정책 구체화…주요 내용은",
+        "AI 쇼핑 카트 썼더니 돈 더 많이 썼다",
+        "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+        "챗GPT가 내 PC 기록을 기억한다…'컴퓨터 히스토리'의 두 얼굴",
+        "토스는 어떻게 광고 속에 게임을 넣었을까"
+      ],
+      "path_json": "archive/2026-08-18/17-35.json",
+      "path_md": "archive/2026-08-18/17-35.md"
+    },
     {
       "id": "2026-08-18_12-35",
       "date": "2026-08-18",
