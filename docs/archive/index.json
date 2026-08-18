@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-18T18:04:31.324939+09:00",
+  "updated_at": "2026-08-19T07:53:20.577917+09:00",
   "archives": [
+    {
+      "id": "2026-08-19_07-35",
+      "date": "2026-08-19",
+      "time": "07:35",
+      "label": "2026-08-19 07:35",
+      "generated_at": "2026-08-19T07:52:22.399416+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+        "TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials",
+        "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+        "Jais 2: A Family of Arabic-Centric Open Large Language Models",
+        "품고, 토스쇼핑 상품 배송한다"
+      ],
+      "path_json": "archive/2026-08-19/07-35.json",
+      "path_md": "archive/2026-08-19/07-35.md"
+    },
     {
       "id": "2026-08-18_17-35",
       "date": "2026-08-18",
