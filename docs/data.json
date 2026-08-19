@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-20T07:50:07.941884+09:00",
+  "updated_at": "2026-08-20T08:19:25.606178+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "5e195dfd864c99123c1dbf61adeea97886e73494c99d37432c0725aff82f1d85",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "“군사력 1위도 지갑 열 수 밖에”…美 육군, K9 자주포 쏜다",
+      "summary": "글로벌 방산공룡기업 제치고 자주포 시제품 6문 수주 계약 K방산 완성무기 최초 美수출 양산 계약땐 10조 수주 기대 김승연·김동관 2대 뚝심 결실한국산 자주포가 세계 최강 미군의..",
+      "url": "https://www.mk.co.kr/news/business/12131812",
+      "published_at": "2026-08-20T08:08:37+09:00",
+      "entry_updated_at": "2026-08-20T08:08:37+09:00",
+      "fetched_at": "2026-08-20T08:19:24.430038+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "13f0fa041c0273b8045773abf010d897c5024775dc6cad972945385d3b0e0248",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-18T18:28:55.164569+09:00",
       "language": "en",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "e567ddf37d6d8301428f841c6f4c9e9419bfe0635a9c222998040cc81ef2e07c",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o",
-      "published_at": "2026-08-18T18:00:33+09:00",
-      "entry_updated_at": "2026-08-18T18:00:33+09:00",
-      "fetched_at": "2026-08-20T00:03:51.387782+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
