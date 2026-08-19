@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-19T13:33:13.094360+09:00",
+  "updated_at": "2026-08-19T14:26:22.525677+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "94b95ef240d01385c78de3e71f7434b38a90a1ef61067f5c5fab9bace8b71533",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 ‘침보테함’ 진수",
+      "summary": "HD현대중공업이 해외 현지 첫 함정 공동 건조에 성공했다. HD현대중공업은 최근 페루 시마(SIMA) 조선소에서 페루 해군의 신형 상륙지원함 1번함 ‘침보테(Chimbote)함’의..",
+      "url": "https://www.mk.co.kr/news/business/12131068",
+      "published_at": "2026-08-19T14:02:18+09:00",
+      "entry_updated_at": "2026-08-19T14:02:18+09:00",
+      "fetched_at": "2026-08-19T14:26:20.777923+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "4329ee1d0edc874e0b20d1cab2fac8e36130511ed1428198be31df74bdbe396c",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-18T10:46:04.015662+09:00",
       "language": "ko",
       "importance_weight": 0.9,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "1654537dd170035435c2e690a6c82b7a272d822956c86ee1dc1a8ab862f6762c",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "가수 박지현이 출연한 셰프애찬 ‘맵짤이’ 새 광고 공개",
-      "summary": "중독성 높은 CM송으로 눈길, ‘셰프애찬’ 브랜드 도약 나선다주식회사 오웬푸드셰프애찬(대표 박우연)이 전속모델 가수 박지현이 출연한 ‘맵짤이’ 신규 CF를 공개하고 브랜드 인지도 ..",
-      "url": "https://www.mk.co.kr/news/business/12129912",
-      "published_at": "2026-08-18T10:00:00+09:00",
-      "entry_updated_at": "2026-08-18T10:00:00+09:00",
-      "fetched_at": "2026-08-18T10:02:20.478759+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
