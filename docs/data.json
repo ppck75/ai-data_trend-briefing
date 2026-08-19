@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-20T06:50:04.086694+09:00",
+  "updated_at": "2026-08-20T07:20:44.375949+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "13f0fa041c0273b8045773abf010d897c5024775dc6cad972945385d3b0e0248",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "BTS 뷔 손가락에 ‘이 반지’ 나도 껴볼까…한국 상륙한 오우라 가격이",
+      "summary": "조지 애벗 오우라 아태지역 총괄 인터뷰 ‘글로벌 1위’ 스마트링 오우라 韓 상륙 “한국 포함 어느 시장서도 1등 지키겠다”“오우라(Oura)는 스마트링 산업이라는 카테고리를 처음..",
+      "url": "https://www.mk.co.kr/news/business/12131805",
+      "published_at": "2026-08-20T07:20:04+09:00",
+      "entry_updated_at": "2026-08-20T07:20:04+09:00",
+      "fetched_at": "2026-08-20T07:20:42.280753+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "5a99aaeed6c3afe1f58f83c9c5ef0850c97662846b907f8c1222bb3ff1e90616",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-20T00:03:51.387782+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "70f8a3201e72c8558a83a4a35e6e4bd20ce96cfea81a6001938c448a17c78758",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "충남도립대, 지역 청소년센터와 맞손…충남 미래 인재 육성 본격화",
-      "summary": "[지디넷코리아]지역 공립대학의 교육 인프라와 청소년 안전망을 결합해 상담부터 진로 탐색, 취업 및 정착까지 원스톱으로 지원하는 청소년 성장사다리가 마련된다.충남도립대학교(총장 정명규)는 대학 예지관에서 충남 도·시·군 16개 청소년상담복지센터와 업무협약을 맺고 청소년 진로 설계 및 지역 인재 양성을 위한 공동 협력체계를 구축한다고 18일 밝혔다.이번 협약은 청소년상담복지센터의 정서·복지 안전망과 대학의 전공 실습 인프라를 연계해 지속적인 성장 경로를 제공하기 위해 추진됐다.양 기관은 이번 협약에 따라 청소년안전망 강화를 위한 네트워크 구축, 학교 밖 청소년(등록 인원 2525명)의 진로 선택 지원, 대학 전공체험 및 진로심화 프로그램 공동 운영, 인적·물적 교육자원 공유 등을 단계적으로 추진한다.충남도립대는 학과, 교수진, 실습실을 개방해 청소년이 직접 적성을 찾고 진로를 설계할 수 있도록 도울 방침이다. 이를 통해 진로탐색과 전공체험, 대학 교육, 취업과 지역정착으로 이어지는 선…",
-      "url": "https://zdnet.co.kr/view/?no=20260818175039",
-      "published_at": "2026-08-18T17:55:01+09:00",
-      "entry_updated_at": "2026-08-18T17:55:01+09:00",
-      "fetched_at": "2026-08-18T18:28:54.676755+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
