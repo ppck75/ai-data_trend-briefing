@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:37:42.376557+09:00",
+  "updated_at": "2026-08-19T12:43:17.665210+09:00",
   "total_items": 200,
   "items": [
     {
@@ -556,6 +556,24 @@
       "fetched_at": "2026-08-19T08:45:58.599369+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "20c8a9a0430a5f67803976aed83df9b40abc0261decbd04df1dba0ac1932b4fb",
+      "source": "BBC Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🌍",
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+      "published_at": "2026-08-19T07:11:07+09:00",
+      "entry_updated_at": "2026-08-19T07:11:07+09:00",
+      "fetched_at": "2026-08-19T12:43:17.441075+09:00",
+      "language": "en",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-19T03:51:49.989987+09:00",
       "language": "en",
       "importance_weight": 0.9,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "973ef84a4ffcab13f791b77da00f9299aa80bce8d6ba8d25f45afea410160c01",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "국가유산청 국립문화유산연구원, '글로벌 AI 문화유산 홍보대사 2기' 활동 성료",
-      "summary": "[지디넷코리아]국가유산청 국립문화유산연구원과 사이버외교사절단 반크가 공동 추진한 '글로벌 인공지능(AI) 문화유산 홍보대사 2기' 활동이 성공적으로 끝마쳤다.국가유산청 국립문화유산연구원(원장 임종덕)은 글로벌 AI 문화유산 홍보대사 2기 활동이 성황리에 마무리됐다고 18일 밝혔다.이번 2기 홍보대사 76명은 지난 6월 29일부터 7월 26일까지 생성형 AI가 제공하는 정보 속 한국 문화유산 관련 오류와 왜곡 사례를 수집하고 올바른 가치를 알리는 디지털 콘텐츠를 제작했다.특히 이번 2기 활동에서는 글로벌 AI 속 문화유산을 검색하는 과정에서 덕수궁 석조전 앞 분수가 창덕궁 후원의 부용지와 유사한 연못 형태로 생성되는 오류를 발견해 냈다. 이 외에도 '반구천의 암각화' 관련 쇼트폼 영상, 카드뉴스, 4개 국어(한국어, 영어, 중국어, 스페인어) 버전 무령왕릉 소개 팟캐스트 등을 직접 제작해 올바른 문화유산 정보 확산의 모델을 제시했다.연구원과 반크는 이번 2기 활동우수자 19명을 선정…",
-      "url": "https://zdnet.co.kr/view/?no=20260818085808",
-      "published_at": "2026-08-18T08:58:08+09:00",
-      "entry_updated_at": "2026-08-18T08:58:08+09:00",
-      "fetched_at": "2026-08-18T11:34:24.409482+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
