@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-19T18:06:02.701269+09:00",
+  "updated_at": "2026-08-20T07:53:58.290991+09:00",
   "archives": [
+    {
+      "id": "2026-08-20_07-35",
+      "date": "2026-08-20",
+      "time": "07:35",
+      "label": "2026-08-20 07:35",
+      "generated_at": "2026-08-20T07:52:58.261160+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "UI",
+        "분석"
+      ],
+      "integrated_titles": [
+        "오픈AI·딥마인드가 짚은 벤치마크 함정, AI 승부는 '현장'서 갈린다",
+        "쿠팡vs지마켓vs11번가, 'AI 검색' 경쟁...뭐가 다를까",
+        "Towards Safer RAG: Only Agents Capable of System 2 Thinking may Access Untrusted Documents",
+        "장보기 데이터가 돈 된다…월마트, 광고사업으로 수익성 방어",
+        "클라우데라, '수개월→수분' 승부수…新무기로 에이전틱 AI 시장 본격 공략"
+      ],
+      "path_json": "archive/2026-08-20/07-35.json",
+      "path_md": "archive/2026-08-20/07-35.md"
+    },
     {
       "id": "2026-08-19_17-35",
       "date": "2026-08-19",
