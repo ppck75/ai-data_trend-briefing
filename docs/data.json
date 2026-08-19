@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:29:53.444137+09:00",
+  "updated_at": "2026-08-20T03:49:08.678021+09:00",
   "total_items": 200,
   "items": [
     {
@@ -178,6 +178,24 @@
       "fetched_at": "2026-08-19T23:29:29.959529+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "5a38ceab24a570fc17c85008d2ffd6acc40f1fcb076978120229b1102ceabd9f",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "published_at": "2026-08-19T22:48:49+09:00",
+      "entry_updated_at": "2026-08-19T22:48:49+09:00",
+      "fetched_at": "2026-08-20T03:49:08.514720+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-08-18T17:44:03+09:00",
       "entry_updated_at": "2026-08-18T17:44:03+09:00",
       "fetched_at": "2026-08-18T18:28:52.642682+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "dda462488ab33be49cfc48cba519140409645297be6fc5402eaf175e45c126aa",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장",
-      "summary": "[지디넷코리아]오라클과 아마존웹서비스(AWS)가 전략적 협력을 한층 강화하며 기업의 데이터베이스 현대화 시장 공략에 속도를 낸다. 양사는 오라클 데이터베이스 워크로드의 클라우드 이전을 지원하기 위해 장기 협력 계약을 확대하고, '오라클 AI 데이터베이스@AWS' 서비스 기능도 대폭 강화했다.오라클은 '오라클 AI 데이터베이스@AWS'에서 '엑사스케일 인프라스트럭처 기반 오라클 엑사데이터 데이터베이스 서비스'를 정식 출시했다고 18일 밝혔다. 이를 통해 기업은 데이터베이스 규모와 관계없이 엑사데이터 수준의 성능을 사용량 기반 과금 방식으로 활용할 수 있게 됐다.양사는 이번 협력을 바탕으로 오라클 AI 데이터베이스@AWS 서비스 범위를 전 세계 22개 AWS 리전으로 확대했다. 또한 오라클 데이터베이스를 보다 낮은 비용으로 이전하고 AWS의 AI·분석 서비스와 연계할 수 있도록 지원하는 신규 기능도 추가했다.이번에 출시된 엑사스케일 기반 엑사데이터 서비스는 전용 데이터베이스 서버를 별…",
-      "url": "https://zdnet.co.kr/view/?no=20260818174214",
-      "published_at": "2026-08-18T17:42:21+09:00",
-      "entry_updated_at": "2026-08-18T17:42:21+09:00",
-      "fetched_at": "2026-08-18T18:28:54.676755+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
