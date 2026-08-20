@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T13:08:43.778431+09:00",
+  "updated_at": "2026-08-20T18:06:36.637186+09:00",
   "archives": [
+    {
+      "id": "2026-08-20_17-35",
+      "date": "2026-08-20",
+      "time": "17:35",
+      "label": "2026-08-20 17:35",
+      "generated_at": "2026-08-20T18:06:14.352830+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[현장] 취재 사이트도 뚝딱…챗GPT, 답변 넘어 '일하는 AI'로",
+        "AI에 돈 쏟아붓고도, 기업 60% “성과는 글쎄요”…폭스콘·레딧 뭐가 달랐나",
+        "쿠팡vs지마켓vs11번가, 'AI 검색' 경쟁...뭐가 다를까",
+        "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+        "LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization"
+      ],
+      "path_json": "archive/2026-08-20/17-35.json",
+      "path_md": "archive/2026-08-20/17-35.md"
+    },
     {
       "id": "2026-08-20_12-35",
       "date": "2026-08-20",
