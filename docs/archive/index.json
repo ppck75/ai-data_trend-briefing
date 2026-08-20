@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T18:06:36.637186+09:00",
+  "updated_at": "2026-08-21T07:57:00.945073+09:00",
   "archives": [
+    {
+      "id": "2026-08-21_07-35",
+      "date": "2026-08-21",
+      "time": "07:35",
+      "label": "2026-08-21 07:35",
+      "generated_at": "2026-08-21T07:56:31.019163+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "UI",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "포티넷, 버추AI 인수...\"에이전틱AI 보안 강화\"",
+        "AI에 돈 쏟아붓고도, 기업 60% “성과는 글쎄요”…폭스콘·레딧 뭐가 달랐나",
+        "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+        "AI·반도체 전력수요 폭증…2040년 전망 4개월 만에 대폭 상향",
+        "LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization"
+      ],
+      "path_json": "archive/2026-08-21/07-35.json",
+      "path_md": "archive/2026-08-21/07-35.md"
+    },
     {
       "id": "2026-08-20_17-35",
       "date": "2026-08-20",
