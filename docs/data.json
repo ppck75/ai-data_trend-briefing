@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-20T11:35:35.416350+09:00",
+  "updated_at": "2026-08-20T12:43:01.304927+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "e01b5d091a78530cc54ee756ae10153ed5d66d1dac5267115e5d1e0e2a989f07",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "버려진 주유소 CU편의점으로 변신...KCC, 업사이클링 매장에 안전디자인 적용",
+      "summary": "포천 폐업 주유소 리모델링 사업 한눈에 공간 기능·동선 구분하게 기획KCC가 포천 소흘읍 폐주유소를 CU편의점으로 바꾸는 업사이클링 프로젝트에 참여했다고 20일 밝혔다. 이번 업사..",
+      "url": "https://www.mk.co.kr/news/economy/12132095",
+      "published_at": "2026-08-20T11:45:33+09:00",
+      "entry_updated_at": "2026-08-20T11:45:33+09:00",
+      "fetched_at": "2026-08-20T12:42:59.159570+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "aa93ad364ff3ee8afb0ad2d3081ab0299df06a2bf65b6c227d1055b8de8fcd58",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-19T05:19:18.886552+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "19bf6f24647b7972d9fb88a392910452ec825ca146fcbcc41f06cf415d5e4636",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "BB크림으로 뜨더니 이번엔 스킨케어 대박 … 코스메카코리아 이번엔 ‘코스피 이전’ 성공할까",
-      "summary": "‘화장품 업계 하이닉스’ 코스메카코리아“외국에서도 선물용으로 한국 화장품이 최고에요.” K뷰티에 대한 관심이 여전히 뜨겁다. 국내는 물론 해외에서도 K화장품을 구해달라는 요청이 빗..",
-      "url": "https://www.mk.co.kr/news/business/12130528",
-      "published_at": "2026-08-19T04:20:00+09:00",
-      "entry_updated_at": "2026-08-19T04:20:00+09:00",
-      "fetched_at": "2026-08-19T04:24:39.989256+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
