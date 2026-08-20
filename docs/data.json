@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:35:11.818503+09:00",
+  "updated_at": "2026-08-21T03:54:30.120052+09:00",
   "total_items": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       "fetched_at": "2026-08-21T02:00:33.658816+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "b41fa9c74f86007c1487375cab81b55f7b6175c49596d3f8587a7c9b51616687",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published_at": "2026-08-21T01:52:57+09:00",
+      "entry_updated_at": "2026-08-21T01:52:57+09:00",
+      "fetched_at": "2026-08-21T03:54:29.846379+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-19T20:21:23.967603+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "8280dcd81627067fe30c369ca0007db7a04fe3dc2e4eb20188d433a3f7e2f01e",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "테스트뮤 AI, AI 에이전트 출시 전 검증을 위한 에이전트 어슈어런스 출시",
-      "summary": "[지디넷코리아] 에이전트 어슈어런스, 고객과 대화하는 AI 에이전트와 시스템에서 작업을 수행하는 에이전트 모두를 검증하고 코드에서 직접 테스트 시나리오를 생성하며, 모든 작업을 실제 증거에 대비해 평가하며 검증할 수 없었던 모든 항목에 대해 보증 격차를 보고 샌프란시스코 및 인도 노이다, 2026년 8월 19일 /PRNewswire/ -- 세계 최초의 에이전틱 AI 네이티브 품질공학 플랫폼 테스트뮤 AI(TestMu AI, 이전 명칭 'LambdaTest')가 AI 에이전트를 출시하는 모든 엔지니어링 팀이 지금 마주하고 있는 질문, 즉 이 에이전트를 출시해도 안전한지에 대해 답하기 위해 만들어진 제품 에이전트 어슈어런스(Agent Assurance)를 발표했다. 에이전트 어슈어런스는 하나의 제품 안에서 채팅, 음성, 전화, 영상, 이미지 전반에서 사람을 상대하는 에이전트를 평가하는 대화형 에이전트(Conversational Agent) 카테고리, 그리고 도구를 호출하고 파일을 작성…",
-      "url": "https://zdnet.co.kr/view/?no=20260819201003",
-      "published_at": "2026-08-19T20:10:03+09:00",
-      "entry_updated_at": "2026-08-19T20:10:03+09:00",
-      "fetched_at": "2026-08-19T21:39:15.053607+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
