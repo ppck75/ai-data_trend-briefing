@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:39:38.633341+09:00",
+  "updated_at": "2026-08-21T22:05:15.304770+09:00",
   "total_items": 200,
   "items": [
     {
@@ -970,6 +970,24 @@
       "fetched_at": "2026-08-21T18:32:57.354561+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "6408e44db5aa1eac4d35c63ae7caadb25eb018dffd8e3dcebdba220304b85fe8",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "icon": "👕",
+      "title": "MATCH Console & MAI",
+      "summary": "데이터 탐색부터 실행까지 연결하는 방법 1편: MATCH란 무엇인가 2편: MATCH Console & MAI 안녕하세요. 무신사에서 MATCH의 개인화 기능과 운영 콘솔의 프론트엔드 및 백엔드 개발을 담당하고 있는 Core-E Personalization 팀의 김의중, 김건희입니다. 1편에서 우리는 MATCH를 ‘유저 단위의 더 나은 결정을 시스템으로 옮기는 일’이라고 정의했습니다. 이번 글에서는 여기서 한 단계 더 들어가, 그 결정이 운영자의 실제 업무 안에서 어떤 모습으로 다뤄지는지를 이야기하려 합니다. 모델은 적합한 오디언스를 찾아내고, 서빙 인프라는 그 결정을 빠르게 전달합니다. 그런데 이 결정의 앞뒤에는 여전히 사람의 일이 남아 있습니다. 무엇을 기준으로 대상을 나눌지 정하고, 만들어진 대상을 검증하고, 어느 채널에서 활용할지 판단하는 것은 운영자의 몫입니다. 이 과정을 도구로 옮기는 일은 화면을 하나 더 만드는 것 이상의 고민이 필요합니다. 데이터를 다루는 도구는 정보…",
+      "url": "https://techblog.musinsa.com/match-console-mai-e65b2cfd687e",
+      "published_at": "2026-08-21T16:00:08+09:00",
+      "entry_updated_at": "2026-08-21T16:00:07+09:00",
+      "fetched_at": "2026-08-21T22:05:12.328575+09:00",
+      "language": "ko",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-08-20T18:00:54+09:00",
       "entry_updated_at": "2026-08-20T18:00:54+09:00",
       "fetched_at": "2026-08-20T20:53:31.089844+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "10d2821b4d26e8ade569991081bc8725b79835d845bd352b7515f427788c7118",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "스튜디오비사이드 '스타세이비어', 신규 이벤트 스토리 '잿빛 잔화의 메타바시스' 업데이트",
-      "summary": "[지디넷코리아]스튜디오비사이드가 수집형 육성 RPG '스타세이비어'에 신규 서사와 전투 캐릭터를 추가하는 대규모 콘텐츠 업데이트를 적용한다.스튜디오비사이드(대표 류금태)는 수집형 육성 RPG '스타세이비어'에 신규 이벤트 스토리 '잿빛 잔화의 메타바시스'를 업데이트했다고 20일 밝혔다.이번 이벤트 스토리는 모렐 해운상회로부터 고대 유적 탐사를 의뢰받은 '단장'의 여정을 중심으로 전개된다. 플레이어는 기존 캐릭터 '에데'와 신규 캐릭터 '크리스텔'과 함께 유적에 숨겨진 진실을 추적하며, 에데의 과거 사건과 비하인드 스토리를 확인할 수 있다.이와 함께 모렐 해운상회 대표인 신규 구원자 크리스텔이 픽업 캐릭터로 추가됐다. 크리스텔은 적에게 ‘연소’ 상태를 부여하고 연쇄 피해를 입히는 디버프 특화형 딜러로 설계됐다. 신규 아르카나 '영원 속박의 굴레'가 함께 실장돼 전투 조합과 전략의 폭을 넓혔다.이번 업데이트를 기념해 캐릭터 관측권과 성장 재화 등을 지급하는 이벤트 미션도 함께 진행된다…",
-      "url": "https://zdnet.co.kr/view/?no=20260820172508",
-      "published_at": "2026-08-20T18:00:04+09:00",
-      "entry_updated_at": "2026-08-20T18:00:04+09:00",
-      "fetched_at": "2026-08-20T18:30:48.159435+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
