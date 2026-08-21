@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-22T02:55:39.656964+09:00",
+  "updated_at": "2026-08-22T03:32:59.101468+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "5d5b916ff3c24c3b2e06918edd074beb5265cb3f1a63d7aa9da58413e231a5d7",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+      "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+      "url": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+      "published_at": "2026-08-22T03:12:48+09:00",
+      "entry_updated_at": "2026-08-22T03:12:48+09:00",
+      "fetched_at": "2026-08-22T03:32:59.097020+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "443a0f23cb6e2de922e83cdaad5b9e5b9b68be19803c6ca7e2ea2e6383d28bdd",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-20T19:25:42.164113+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "3e4772b93069bbdb4a5f1304e7819b9e0430f098d669ea204124d8055100628a",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "서스틴베스트, 고려아연 감사위원 후보 백인규 찬성·박유경 반대",
-      "summary": "[지디넷코리아]서스틴베스트가 고려아연 감사위원 후보 가운데 회사 측 백인규 후보에 찬성하고 MBK·영풍 측 박유경 후보에는 반대를 권고했다.서스틴베스트는 20일 고려아연이 오는 9월 9일 개최하는 임시주주총회의 의안을 분석한 의결권 행사 권고 보고서를 발표했다.이번 임시주총 핵심 안건은 감사위원이 되는 독립이사 선임이다. 서스틴베스트는 고려아연 이사회가 추천한 백인규 후보에게 찬성하고, MBK파트너스·영풍 측이 추천한 박유경 후보에게는 반대할 것을 주주들에게 권고했다.서스틴베스트는 두 후보의 독립성과 전문성뿐 아니라 후보 선임이 이사회 구성과 전체 주주의 중장기 이익에 미칠 영향도 함께 비교했다고 설명했다.백 후보에 대해서는 공인회계사로서 딜로이트안진회계법인에서 회계·감사와 기업자문 업무를 수행한 경력을 높게 평가했다. 재무보고와 회계처리, 내부통제, 외부감사 등 감사위원회의 주요 업무와 직접 연결되는 전문성을 갖췄다는 판단이다.박 후보에 대해서는 책임투자와 기업지배구조 분야의 전…",
-      "url": "https://zdnet.co.kr/view/?no=20260820183019",
-      "published_at": "2026-08-20T18:30:19+09:00",
-      "entry_updated_at": "2026-08-20T18:30:19+09:00",
-      "fetched_at": "2026-08-20T20:53:31.089844+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
