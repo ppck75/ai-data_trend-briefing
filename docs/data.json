@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T10:06:10.535662+09:00",
+  "updated_at": "2026-08-21T10:52:23.713100+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "7fb45af1a38ab23761bcef8e830618a5c994004ce52e7de85e93340cc02cbff4",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
+      "summary": "비어 있는 캐시, 완벽한 알리바이, 사라진 처리량",
+      "url": "https://toss.tech/article/tech_talk_talk_2",
+      "published_at": "2026-08-21T10:00:00+09:00",
+      "entry_updated_at": "2026-08-21T10:00:00+09:00",
+      "fetched_at": "2026-08-21T10:52:15.952818+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "7f04c550255205486c94d8b488da6b69070e03766eb9eb11eeba0af762e34847",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-20T02:23:17.558910+09:00",
       "language": "en",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "a6f76b96c3d0852e1164c3da2c0d69c7d44c19e65d29a056e439d795c92216ee",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-      "published_at": "2026-08-20T01:14:46+09:00",
-      "entry_updated_at": "2026-08-20T01:14:46+09:00",
-      "fetched_at": "2026-08-20T01:32:28.072000+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
