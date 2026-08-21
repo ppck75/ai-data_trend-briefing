@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:32:59.101468+09:00",
+  "updated_at": "2026-08-22T03:51:11.004105+09:00",
   "total_items": 200,
   "items": [
     {
@@ -3045,6 +3045,24 @@
       "planning_insight": ""
     },
     {
+      "id": "8de96fd631a45d0c7bb1470864c5ccd8b0ae072e0fb363d9c63e81f54d7887ed",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published_at": "2026-08-21T09:00:00+09:00",
+      "entry_updated_at": "2026-08-21T09:00:00+09:00",
+      "fetched_at": "2026-08-22T03:51:10.737957+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "bf8b8f84342960700972b2fd07e57cb1da5b3d8221c83769ec2a4ae645fe6cfb",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-20T20:53:31.089844+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "bcc8f19d6ca10e03b3fc5dd507113b4ea0d3420563077e86e8183807925a7e7b",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
-      "summary": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
-      "url": "https://www.bbc.co.uk/news/articles/clyq011414eo",
-      "published_at": "2026-08-20T18:44:04+09:00",
-      "entry_updated_at": "2026-08-20T18:44:04+09:00",
-      "fetched_at": "2026-08-20T19:25:42.164113+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
