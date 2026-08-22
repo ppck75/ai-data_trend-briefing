@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-22T17:58:34.680582+09:00",
+  "updated_at": "2026-08-23T07:50:25.499840+09:00",
   "archives": [
+    {
+      "id": "2026-08-23_07-35",
+      "date": "2026-08-23",
+      "time": "07:35",
+      "label": "2026-08-23 07:35",
+      "generated_at": "2026-08-23T07:49:52.430132+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "MATCH Console & MAI",
+        "에픽게임즈, UEFN에 '언리얼 MCP' 도입…AI 기반 차세대 UGC 생태계 연다",
+        "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+        "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages",
+        "A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment"
+      ],
+      "path_json": "archive/2026-08-23/07-35.json",
+      "path_md": "archive/2026-08-23/07-35.md"
+    },
     {
       "id": "2026-08-22_17-35",
       "date": "2026-08-22",
