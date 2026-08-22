@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:29:04.454704+09:00",
+  "updated_at": "2026-08-22T14:00:48.980210+09:00",
   "total_items": 200,
   "items": [
     {
@@ -3585,18 +3585,18 @@
       "planning_insight": ""
     },
     {
-      "id": "7527b7011f6eaad43e9a8b1b7565214038fa6e09c899382992e3cecf779525fa",
-      "source": "매일경제 기업",
+      "id": "47ef394e106f143dbf1f9808a5940d639c0b546e4ab7838d48e6773c7c55b627",
+      "source": "NYT Technology",
       "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "LNG선으로 1조 벌더니 AI·원전까지 … ‘세계 1위 조선사’의 다음 10년",
-      "summary": "HD현대중공업, 원전 수혜주로 놀라운 변신HD현대중공업은 오랫동안 ‘세계 1위 조선사’라는 타이틀로 소개돼 왔다. 그런데 최근 1년 새 이 회사를 부르는 수식어가 눈에 띄게 늘었다..",
-      "url": "https://www.mk.co.kr/news/business/12132616",
-      "published_at": "2026-08-21T04:30:00+09:00",
-      "entry_updated_at": "2026-08-21T04:30:00+09:00",
-      "fetched_at": "2026-08-21T04:56:23.062149+09:00",
-      "language": "ko",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
+      "summary": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
+      "url": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
+      "published_at": "2026-08-21T04:57:53+09:00",
+      "entry_updated_at": "2026-08-21T04:57:53+09:00",
+      "fetched_at": "2026-08-22T14:00:48.975767+09:00",
+      "language": "en",
       "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
