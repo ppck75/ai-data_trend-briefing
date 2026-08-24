@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-24T13:21:11.055036+09:00",
+  "updated_at": "2026-08-24T18:25:04.282188+09:00",
   "archives": [
+    {
+      "id": "2026-08-24_17-35",
+      "date": "2026-08-24",
+      "time": "17:35",
+      "label": "2026-08-24 17:35",
+      "generated_at": "2026-08-24T18:24:48.694328+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "코딩만 빨라졌다고요? 아뇨, 일하는 방식이 다 뜯어고쳐졌습니다.",
+        "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\"",
+        "세계적 교재에 한국 AI가 쏙…피어슨·프리윌린, 대학 수업 바꾼다",
+        "How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel",
+        "[AI 리더스] 신희송 인포뱅크 CAIO \"개인 넘어 기업 AX로…연내 에이전트 플랫폼 공개\""
+      ],
+      "path_json": "archive/2026-08-24/17-35.json",
+      "path_md": "archive/2026-08-24/17-35.md"
+    },
     {
       "id": "2026-08-24_12-35",
       "date": "2026-08-24",
