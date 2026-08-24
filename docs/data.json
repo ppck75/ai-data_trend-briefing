@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:05:24.664933+09:00",
+  "updated_at": "2026-08-24T10:53:19.111278+09:00",
   "total_items": 200,
   "items": [
     {
@@ -70,6 +70,24 @@
       "fetched_at": "2026-08-24T10:05:22.968945+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "145406588cab1943e9757a4aa3669d2842bde2644174a44cf83f6ff0a50489bf",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "icon": "👕",
+      "title": "코딩만 빨라졌다고요? 아뇨, 일하는 방식이 다 뜯어고쳐졌습니다.",
+      "summary": "9월 18일, 무신사 패턴 ’26 테크 컨퍼런스 — MUSINSA PATTERN ’26 Tech Conference QA 엔지니어가 눈에 불을 켜기 전, AI가 먼저 이전 빌드와 기획 문서를 정답지 삼아 새 빌드를 ‘ 자동 채점 ’ 합니다. 운영 서버에 쏟아지는 트래픽을 슬쩍 기록해 뒀다가 새 빌드에 그대로 쏴보고, 달라진 부분만 사람이 슥? 확인하죠. Figma 시안 하나를 던져주면 4개 플랫폼의 UI 코드가 뚝 딱 나옵니다. 게다가 팀마다 바퀴를 재발명하듯 따로 만들던 대용량 조회 시스템은 전사 플랫폼 하나로 대통합했습니다. 이외에도 수많은 일들이 ‘팀 무신사’ 테크 조직에서 벌어졌습니다. MUSINSA PATTERN ’26 Tech Conference Shipping With AI, 만드는 방법을 바꿔온 지난 1년. 아이디어가 실제 프로덕트로 만들어지기까지의 모든 과정이 바뀌었습니다. AI 도입 후, 단순히 코드를 짜는 ‘손’만 빨라진 게 아닙니다. 기획이 코드가 되고, 코드…",
+      "url": "https://techblog.musinsa.com/%EC%BD%94%EB%94%A9%EB%A7%8C-%EB%B9%A8%EB%9D%BC%EC%A1%8C%EB%8B%A4%EA%B3%A0%EC%9A%94-%EC%95%84%EB%87%A8-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EB%8B%A4-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B3%90%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-8de60dd4eb4a",
+      "published_at": "2026-08-24T09:43:55+09:00",
+      "entry_updated_at": "2026-08-24T09:43:53+09:00",
+      "fetched_at": "2026-08-24T10:53:16.112914+09:00",
+      "language": "ko",
+      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-08-21T16:00:04+09:00",
       "entry_updated_at": "2026-08-21T16:00:04+09:00",
       "fetched_at": "2026-08-21T18:32:57.354561+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "6ab05ba79596d358c3dc86e64257f11565d732129566bbff22dcd0c1de47f061",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "삼성전자, 'IDEA·레드닷 2026'서 총 57개 디자인상 대거 수상",
-      "summary": "[지디넷코리아]삼성전자가 권위 있는 국제 디자인 어워드인 'IDEA'와 '레드닷'에서 총 57개의 상을 수상했다.삼성전자는 미국 산업디자이너 협회(IDSA)가 주관하는 'IDEA 2026'에서 임팩트상 1개, 동상 9개, 입상 35개 등 총 45개 상을 받았다고 21일 밝혔다. 독일 '레드닷 디자인 어워드 2026' 브랜드·커뮤니케이션 부문에서는 최고상인 '베스트 오브 더 베스트' 1개를 포함해 총 12개의 본상을 수상했다.IDEA 2026에서 올해 신설된 '임팩트상'은 삼성전자의 '가전 접근성 디자인'이 수상했다. 이 디자인은 시각·청각·움직임 등 신체적 특성을 고려해 큰 글씨 및 음성 안내를 지원하는 '쉬운 사용 모드'와 터치·음성으로 문을 여는 '자동 문 열림' 기능을 탑재했다. 모바일 접근성 설정 연동 및 목소리를 인식해 개인 설정을 불러오는 '음성 ID' 기능도 적용됐다.IDEA 동상에는 '인피니트 AI 공기청정기', '마이크로 RGB 브랜드 아이덴티티', 종이 1장으로…",
-      "url": "https://zdnet.co.kr/view/?no=20260821105633",
-      "published_at": "2026-08-21T16:00:03+09:00",
-      "entry_updated_at": "2026-08-21T16:00:03+09:00",
-      "fetched_at": "2026-08-21T16:49:25.887078+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
