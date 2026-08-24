@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-24T18:25:04.282188+09:00",
+  "updated_at": "2026-08-25T07:56:12.194976+09:00",
   "archives": [
+    {
+      "id": "2026-08-25_07-35",
+      "date": "2026-08-25",
+      "time": "07:35",
+      "label": "2026-08-25 07:35",
+      "generated_at": "2026-08-25T07:54:43.429561+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "자동화"
+      ],
+      "integrated_titles": [
+        "코딩만 빨라졌다고요? 아뇨, 일하는 방식이 다 뜯어고쳐졌습니다.",
+        "How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel",
+        "Beyond Prompt Engineering: A Systematic Analysis of Prompt Lexical Sensitivity and Its Impacts on Quality",
+        "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins",
+        "GS ITM, 전국 14개 공항 상업시설 시스템 바꾼다…AI·데이터 중심 전환"
+      ],
+      "path_json": "archive/2026-08-25/07-35.json",
+      "path_md": "archive/2026-08-25/07-35.md"
+    },
     {
       "id": "2026-08-24_17-35",
       "date": "2026-08-24",
