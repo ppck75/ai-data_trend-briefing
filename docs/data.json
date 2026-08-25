@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:41:50.638595+09:00",
+  "updated_at": "2026-08-26T03:52:45.770534+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-08-26T01:32:53.789484+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "fb6615779c1e53ac4e068966bea3697f315afff45334543e242bff52e34f7222",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "published_at": "2026-08-26T00:14:14+09:00",
+      "entry_updated_at": "2026-08-26T00:14:14+09:00",
+      "fetched_at": "2026-08-26T03:52:45.550127+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260824153326",
       "published_at": "2026-08-24T17:11:43+09:00",
       "entry_updated_at": "2026-08-24T17:11:43+09:00",
-      "fetched_at": "2026-08-24T18:43:08.748342+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "26ff229d64ac9c7b35d5b3e6e1e599eebb6a02206fc6b20bcbdb74f9b8259a1e",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "일상화가 낳은 피로감, AI 거부하는 청년들",
-      "summary": "[지디넷코리아]인공지능(AI)을 많이 쓰는 세대일수록 AI로 만든 콘텐츠를 싫어하는 것으로 나타났다.24일 올해 상반기 발표된 주요 AI 인식 조사를 종합하면, AI를 모르는 사람이 아니라 가장 자주 써 본 이용자에게서 반감이 더 크게 나타났다.미국 여론조사기관 갤럽이 월튼가족재단, GSV벤처스와 함께 올해 초 14~29세 1572명을 대상으로 발표한 조사에 따르면, 주 1회 이상 생성형 AI를 쓰는 미국 Z세대 AI 인식이 부정적으로 바뀐 것으로 조사됐다. AI가 기대된다는 응답은 36%에서 22%로 14%포인트 떨어졌고, 화가 난다는 응답은 22%에서 31%로 올랐다. 주 1회 이상 쓰는 이용자 비율은 51%로 1년 전과 비슷했지만, 사용량과 달리 인식은 부정적으로 돌아섰다.AI에 대한 부정적 인식은 매일 AI를 사용하는 이용자에게서 더 두드러졌다. 이들의 기대감은 1년 사이 18%포인트 내려갔다. 가장 적극적으로 쓰는 집단에서 긍정 정서가 가장 많이 빠져나갔다.세대 간 차이도…",
-      "url": "https://zdnet.co.kr/view/?no=20260824154129",
-      "published_at": "2026-08-24T17:11:06+09:00",
-      "entry_updated_at": "2026-08-24T17:11:06+09:00",
       "fetched_at": "2026-08-24T18:43:08.748342+09:00",
       "language": "ko",
       "importance_weight": 0.85,
