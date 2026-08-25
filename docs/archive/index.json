@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-25T18:09:10.288599+09:00",
+  "updated_at": "2026-08-26T07:56:52.454857+09:00",
   "archives": [
+    {
+      "id": "2026-08-26_07-35",
+      "date": "2026-08-26",
+      "time": "07:35",
+      "label": "2026-08-26 07:35",
+      "generated_at": "2026-08-26T07:56:35.416581+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "AI Native 조직은 도메인 지식을 어떻게 공유하는가",
+        "韓, 에이전틱 AI 글로벌 표준 경쟁 합류…ETRI, AAIF 가입",
+        "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "AI 영상 플랫폼 힉스필드, 5600억 유치… 미래에셋·NTT도코모가 아시아 축 맡는다",
+        "Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing"
+      ],
+      "path_json": "archive/2026-08-26/07-35.json",
+      "path_md": "archive/2026-08-26/07-35.md"
+    },
     {
       "id": "2026-08-25_17-35",
       "date": "2026-08-25",
