@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-25T07:56:12.194976+09:00",
+  "updated_at": "2026-08-25T13:08:47.288990+09:00",
   "archives": [
+    {
+      "id": "2026-08-25_12-35",
+      "date": "2026-08-25",
+      "time": "12:35",
+      "label": "2026-08-25 12:35",
+      "generated_at": "2026-08-25T13:08:30.479041+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "코딩만 빨라졌다고요? 아뇨, 일하는 방식이 다 뜯어고쳐졌습니다.",
+        "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\"",
+        "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화",
+        "일상화가 낳은 피로감, AI 거부하는 청년들",
+        "How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel"
+      ],
+      "path_json": "archive/2026-08-25/12-35.json",
+      "path_md": "archive/2026-08-25/12-35.md"
+    },
     {
       "id": "2026-08-25_07-35",
       "date": "2026-08-25",
