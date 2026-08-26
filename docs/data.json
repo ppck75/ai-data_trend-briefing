@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T03:13:13.493530+09:00",
+  "updated_at": "2026-08-27T04:58:37.793244+09:00",
   "total_items": 200,
   "items": [
     {
@@ -3279,6 +3279,24 @@
       "planning_insight": ""
     },
     {
+      "id": "1dc171f4297f59139cb76f0a3e5506fb91196c759d0daa92331269b31f5da62a",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published_at": "2026-08-26T09:00:00+09:00",
+      "entry_updated_at": "2026-08-26T09:00:00+09:00",
+      "fetched_at": "2026-08-27T04:58:37.673371+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "9c26f078ea90322d01d7328cbce16192024ae587505a46aea12ca28e98b96cc2",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-08-26T05:27:37.789015+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b6482668caadedb7b977e42774368abcde3533bfbcb3841c20a6abd57abd8c24",
-      "source": "NYT Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🗽",
-      "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
-      "summary": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
-      "url": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-      "published_at": "2026-08-26T04:54:47+09:00",
-      "entry_updated_at": "2026-08-26T04:54:47+09:00",
-      "fetched_at": "2026-08-26T04:56:18.603874+09:00",
-      "language": "en",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
