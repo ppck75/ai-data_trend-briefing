@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-26T13:10:14.890038+09:00",
+  "updated_at": "2026-08-26T18:12:54.824688+09:00",
   "archives": [
+    {
+      "id": "2026-08-26_17-35",
+      "date": "2026-08-26",
+      "time": "17:35",
+      "label": "2026-08-26 17:35",
+      "generated_at": "2026-08-26T18:12:38.350108+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 서비스로 돈 번다…뤼튼, 국내 첫 '유니콘' 등극",
+        "토스증권 추천과 검색은 어떻게 진화하고 있을까?",
+        "ADE: Agentic Data Evolution Framework for Human-Centered Objectives",
+        "[AI는 지금] 법률 업무 파고드는 빅테크…리걸 AI 경쟁 승부처는 '업무 연동'",
+        "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original"
+      ],
+      "path_json": "archive/2026-08-26/17-35.json",
+      "path_md": "archive/2026-08-26/17-35.md"
+    },
     {
       "id": "2026-08-26_12-35",
       "date": "2026-08-26",
