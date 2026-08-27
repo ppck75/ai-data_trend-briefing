@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-27T12:29:19.462563+09:00",
+  "updated_at": "2026-08-27T23:28:45.482914+09:00",
   "archives": [
+    {
+      "id": "2026-08-27_23-28",
+      "date": "2026-08-27",
+      "time": "23:28",
+      "label": "2026-08-27 23:28",
+      "generated_at": "2026-08-27T23:28:14.718564+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 법률 업무 파고드는 빅테크…리걸 AI 경쟁 승부처는 '업무 연동'",
+        "AI가 상담부터 결제·분실신고까지…유베이스, AI 에이전트 상용화 속도",
+        "ADE: Agentic Data Evolution Framework for Human-Centered Objectives",
+        "AWS Glue 6.0 출시 – Apache Iceberg v3 지원 및 30% 저렴한 가격 제공",
+        "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims"
+      ],
+      "path_json": "archive/2026-08-27/23-28.json",
+      "path_md": "archive/2026-08-27/23-28.md"
+    },
     {
       "id": "2026-08-27_12-35",
       "date": "2026-08-27",
