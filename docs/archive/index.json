@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-29T00:35:01.549347+09:00",
+  "updated_at": "2026-08-29T05:19:47.698816+09:00",
   "archives": [
+    {
+      "id": "2026-08-29_05-19",
+      "date": "2026-08-29",
+      "time": "05:19",
+      "label": "2026-08-29 05:19",
+      "generated_at": "2026-08-29T05:19:28.859341+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "model",
+        "데이터",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework",
+        "Can a Model Catch Its Own Hallucinations for Free?: Label-Free Doubt Signals Hold Their Own Against a Labelled Dataset for Abstention",
+        "1%가 겪은 버그 고쳐야할까요?",
+        "카카오 이어 SSG닷컴도 쪼갠다…플랫폼 업계 ‘인적분할’ 왜",
+        "[모두의 AI] 카카오 \"누구나 일상서 편리한 AI 서비스 만들 것\""
+      ],
+      "path_json": "archive/2026-08-29/05-19.json",
+      "path_md": "archive/2026-08-29/05-19.md"
+    },
     {
       "id": "2026-08-29_00-34",
       "date": "2026-08-29",
