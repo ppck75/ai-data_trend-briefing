@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T02:35:18.651512+09:00",
+  "updated_at": "2026-08-29T07:13:39.048376+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1528,6 +1528,24 @@
       "fetched_at": "2026-08-28T14:05:09.256194+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "90a610e48d460b39066a7f51215499739dcb1f43490f3c422f33deb300a2fc0a",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "published_at": "2026-08-28T09:00:00+09:00",
+      "entry_updated_at": "2026-08-28T09:00:00+09:00",
+      "fetched_at": "2026-08-29T07:13:38.901158+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3579,24 +3597,6 @@
       "entry_updated_at": "2026-08-26T22:40:01+09:00",
       "fetched_at": "2026-08-26T22:52:01.578736+09:00",
       "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "8158b95b4c44d768de10376c84d66e88c2cfb526d8e94750908155a73710869c",
-      "source": "NYT Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🗽",
-      "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
-      "summary": "The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.",
-      "url": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-      "published_at": "2026-08-26T22:34:17+09:00",
-      "entry_updated_at": "2026-08-26T22:34:17+09:00",
-      "fetched_at": "2026-08-26T22:52:04.330460+09:00",
-      "language": "en",
       "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
