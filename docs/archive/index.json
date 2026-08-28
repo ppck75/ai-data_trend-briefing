@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-28T04:13:50.224897+09:00",
+  "updated_at": "2026-08-28T15:14:51.503239+09:00",
   "archives": [
+    {
+      "id": "2026-08-28_15-14",
+      "date": "2026-08-28",
+      "time": "15:14",
+      "label": "2026-08-28 15:14",
+      "generated_at": "2026-08-28T15:14:35.284272+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "model"
+      ],
+      "integrated_titles": [
+        "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
+        "[모두의 AI] 카카오 \"누구나 일상서 편리한 AI 서비스 만들 것\"",
+        "AWS Glue 6.0 출시 – Apache Iceberg v3 지원 및 30% 저렴한 가격 제공",
+        "\"기준대로 한거 맞아\"…美 FTC, 유튜브 '고무줄 잣대' 조사",
+        "Unsupervised Post-Training of Foundation Models: A Survey"
+      ],
+      "path_json": "archive/2026-08-28/15-14.json",
+      "path_md": "archive/2026-08-28/15-14.md"
+    },
     {
       "id": "2026-08-28_04-13",
       "date": "2026-08-28",
