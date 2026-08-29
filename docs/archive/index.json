@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-29T12:49:07.926797+09:00",
+  "updated_at": "2026-08-29T19:19:44.252215+09:00",
   "archives": [
+    {
+      "id": "2026-08-29_19-19",
+      "date": "2026-08-29",
+      "time": "19:19",
+      "label": "2026-08-29 19:19",
+      "generated_at": "2026-08-29T19:19:29.372822+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "model",
+        "데이터",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework",
+        "[모두의 AI] 카카오 \"누구나 일상서 편리한 AI 서비스 만들 것\"",
+        "Can a Model Catch Its Own Hallucinations for Free?: Label-Free Doubt Signals Hold Their Own Against a Labelled Dataset for Abstention",
+        "[AI 고속도로] AI 넘어 양자까지…데이터센터 전력·냉각 '대전환' 온다",
+        "美 트럼프 행정부, 中 AI '원격 연산 우회' 차단 추진…태국·싱가포르 정조준"
+      ],
+      "path_json": "archive/2026-08-29/19-19.json",
+      "path_md": "archive/2026-08-29/19-19.md"
+    },
     {
       "id": "2026-08-29_12-35",
       "date": "2026-08-29",
