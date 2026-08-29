@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-29T05:19:47.698816+09:00",
+  "updated_at": "2026-08-29T12:49:07.926797+09:00",
   "archives": [
+    {
+      "id": "2026-08-29_12-35",
+      "date": "2026-08-29",
+      "time": "12:35",
+      "label": "2026-08-29 12:35",
+      "generated_at": "2026-08-29T12:48:53.555975+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "model",
+        "데이터",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework",
+        "구글 AI 모드, 항공권 값 떨어지면 메일로 알려준다…호텔 예약까지 대화로",
+        "ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements",
+        "팔로알토, IAM 전략 전환…\"휴먼 넘어 머신·AI 에이전트까지 통합\"",
+        "1%가 겪은 버그 고쳐야할까요?"
+      ],
+      "path_json": "archive/2026-08-29/12-35.json",
+      "path_md": "archive/2026-08-29/12-35.md"
+    },
     {
       "id": "2026-08-29_05-19",
       "date": "2026-08-29",
