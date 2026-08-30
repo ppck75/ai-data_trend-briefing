@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-30T09:35:34.870301+09:00",
+  "updated_at": "2026-08-30T18:24:42.281458+09:00",
   "archives": [
+    {
+      "id": "2026-08-30_17-35",
+      "date": "2026-08-30",
+      "time": "17:35",
+      "label": "2026-08-30 17:35",
+      "generated_at": "2026-08-30T18:24:25.571608+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "Natural-Language Policies to Executable Decisions: An Interpretable Large Language Model Framework",
+        "[AI 고속도로] AI 넘어 양자까지…데이터센터 전력·냉각 '대전환' 온다",
+        "SKT, AIDC로 3조원대 투자 유치…SK호라이즌 신설",
+        "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+        "1%가 겪은 버그 고쳐야할까요?"
+      ],
+      "path_json": "archive/2026-08-30/17-35.json",
+      "path_md": "archive/2026-08-30/17-35.md"
+    },
     {
       "id": "2026-08-30_09-35",
       "date": "2026-08-30",
