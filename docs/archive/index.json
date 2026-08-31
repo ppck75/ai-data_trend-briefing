@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-31T09:47:11.338410+09:00",
+  "updated_at": "2026-08-31T19:00:30.918689+09:00",
   "archives": [
+    {
+      "id": "2026-08-31_17-35",
+      "date": "2026-08-31",
+      "time": "17:35",
+      "label": "2026-08-31 17:35",
+      "generated_at": "2026-08-31T19:00:07.719471+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "“화소·칩성능 경쟁은 옛말”…스마트폰, 이제 ‘AI 소프트웨어’ 싸움",
+        "PACE: Publisher-Adaptive Content Extraction via Agentic Automation",
+        "[AI 리더스] 데이터브릭스 \"5년 내 운영 DB 판 바뀐다…韓 금융사 집중\"",
+        "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
+        "일본 지하철에 '제미나이 휴머노이드'가 역무원 맡는다"
+      ],
+      "path_json": "archive/2026-08-31/17-35.json",
+      "path_md": "archive/2026-08-31/17-35.md"
+    },
     {
       "id": "2026-08-31_09-46",
       "date": "2026-08-31",
