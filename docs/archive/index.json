@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-31T19:00:30.918689+09:00",
+  "updated_at": "2026-09-01T01:19:47.281940+09:00",
   "archives": [
+    {
+      "id": "2026-09-01_01-19",
+      "date": "2026-09-01",
+      "time": "01:19",
+      "label": "2026-09-01 01:19",
+      "generated_at": "2026-09-01T01:19:29.922812+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'",
+        "PACE: Publisher-Adaptive Content Extraction via Agentic Automation",
+        "같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기",
+        "A Survey on Rubric-Guided Reinforcement Learning for Language Models",
+        "“화소·칩성능 경쟁은 옛말”…스마트폰, 이제 ‘AI 소프트웨어’ 싸움"
+      ],
+      "path_json": "archive/2026-09-01/01-19.json",
+      "path_md": "archive/2026-09-01/01-19.md"
+    },
     {
       "id": "2026-08-31_17-35",
       "date": "2026-08-31",
