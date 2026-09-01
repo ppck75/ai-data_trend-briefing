@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T19:20:59.216494+09:00",
+  "updated_at": "2026-09-01T20:33:42.650393+09:00",
   "total_items": 200,
   "items": [
     {
@@ -700,6 +700,24 @@
       "fetched_at": "2026-09-01T19:20:59.017330+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "cc742e26147278d9ed7b55517d2d225cf3047997d3f859284cda6e8270da5099",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "icon": "🟢",
+      "title": "Python의 멀티프로세싱과 Airflow, 그리고 관련된 문제 해결기 1편",
+      "summary": "저희 팀은 데이터 입수 플랫폼의 배치 워크플로를 Airflow 2.10.2로 운영하고 있습니다. 2025년 4월 Airflow 3.0이 릴리스되었고, UI 개선과 다양한 신규 기능이 포함되었습니다. 이 변화가 저희 운영 환경에 필요하다고 판단했고 도입을 위한 PoC(Proof of Concept)를 진행했습니다. 이 글은 그 PoC 과정에서 Python의 멀티프로세싱 방식 중 하나인 fork로 인해 발생한 문제를 발견해 해결하고 기여한 과정을 다루는 시리즈의 1편입니다. 1편에서는 이 문제를 이해하는 데 필요한 배경지식을 다룹니다. Airflow가 task를 실행할 때 요구되는 조건을 살펴보고, 이를 만족하는 Python 멀티프로세싱 방식을 비교한 뒤, Airflow가 실제로 채택한 방식과 그 한계를 설명합니다. 2편에서는 이 한계가 Airflow에 실제로 어떤 문제를 일으켰는지, 원인과 해결 과정을 다룹니다. Airflow의 task 실행 요구 사항 Apache Airflow 는…",
+      "url": "https://d2.naver.com/helloworld/4452165",
+      "published_at": "2026-09-01T15:52:03+09:00",
+      "entry_updated_at": "2026-09-01T15:52:03+09:00",
+      "fetched_at": "2026-09-01T20:33:36.233745+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260831092827",
       "published_at": "2026-08-31T09:28:27+09:00",
       "entry_updated_at": "2026-08-31T09:28:27+09:00",
-      "fetched_at": "2026-08-31T09:44:57.121952+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "ca6629d4f17ac9c2d205bfd691235e2e47dd45af54293c96c49b9106292a5e19",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "CU, 한강공원 휩쓴 '복소사' 판다",
-      "summary": "[지디넷코리아]편의점 CU가 복분자주와 소주, 사이다를 섞어 마시는 이른바 ‘복소사’를 완제품으로 개발했다. 사회관계망서비스(SNS)에서 유행한 음주법을 별도의 재료를 섞지 않고 즐길 수 있도록 상품화한 것이다.BGF리테일이 운영하는 CU는 RTD(Ready to Drink) 제품 ‘복소사주’를 출시한다고 31일 밝혔다.최근 젊은 소비자 사이에서는 한강공원에서 복분자주에 소주와 사이다를 조합해 마시는 방식이 인기를 얻고 있다. 관련 수요가 늘면서 한강 주변 CU 점포의 주류와 음료 매출에도 변화가 나타났다.CU의 최근 3개월(5~7월)간 복분자주의 매출은 전년 대비 31.4% 증가했다. 여의도, 용산, 반포, 잠실 등 한강 일대 40여 개 점포의 복분자주 매출은 7.4배(641.3%) 늘었다.이들 점포에서는 복소사를 만드는 데 필요한 다른 상품 매출도 함께 늘었다. 소주 매출은 전년 동기 대비 33.4% 증가했고 사이다와 얼음은 각각 93.4%, 55.8% 늘었다.CU가 선보이는…",
-      "url": "https://zdnet.co.kr/view/?no=20260831085557",
-      "published_at": "2026-08-31T09:28:24+09:00",
-      "entry_updated_at": "2026-08-31T09:28:24+09:00",
       "fetched_at": "2026-08-31T09:44:57.121952+09:00",
       "language": "ko",
       "importance_weight": 0.85,
