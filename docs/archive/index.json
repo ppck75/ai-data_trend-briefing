@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-01T10:22:14.156931+09:00",
+  "updated_at": "2026-09-01T17:51:05.060572+09:00",
   "archives": [
+    {
+      "id": "2026-09-01_17-35",
+      "date": "2026-09-01",
+      "time": "17:35",
+      "label": "2026-09-01 17:35",
+      "generated_at": "2026-09-01T17:50:49.011672+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "통합임베딩으로 개인화 푸시 CTR +21.3%를 만든 과정",
+        "PACE: Publisher-Adaptive Content Extraction via Agentic Automation",
+        "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'",
+        "Parametric Multimodal User Memory: Storing What Captions Cannot Carry",
+        "과기정통부, 내년 AI 예산 85% 증액…독자모델·산업·국민 AI 키운다"
+      ],
+      "path_json": "archive/2026-09-01/17-35.json",
+      "path_md": "archive/2026-09-01/17-35.md"
+    },
     {
       "id": "2026-09-01_10-21",
       "date": "2026-09-01",
