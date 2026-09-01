@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:03:34.670471+09:00",
+  "updated_at": "2026-09-02T01:32:10.979072+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1929,6 +1929,24 @@
       "planning_insight": ""
     },
     {
+      "id": "2625d757d7869411f358efebcc0ae52bbcac6f273682449e7ac02dc04a5435d9",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "published_at": "2026-09-01T09:00:00+09:00",
+      "entry_updated_at": "2026-09-01T09:00:00+09:00",
+      "fetched_at": "2026-09-02T01:32:10.711529+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "8d16b49c65d55d0fb8d1b1793b922fcd661ac2091c81ccfdfda2c8527d1435a4",
       "source": "ZDNet Korea",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260831113410",
       "published_at": "2026-08-31T11:34:47+09:00",
       "entry_updated_at": "2026-08-31T11:34:47+09:00",
-      "fetched_at": "2026-08-31T15:38:03.022614+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "a8b27db7dd8b742238aefe14b1734879440ac91df1c1a8b5a7d3f268ac76566b",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "넷플릭스 주가 40% 급락…과거 폭락장선 어김없이 반등",
-      "summary": "[지디넷코리아]넷플릭스 주가가 지난해 사상 최고점에서 40% 이상 떨어지며 2002년 기업공개(IPO) 이후 일곱 번째 급락이다. 과거 여섯 차례 40% 이상 하락 때마다 이후 큰 폭으로 반등했지만, 성장세가 이전보다 둔화된 만큼 과거 흐름이 되풀이될지 주목된다.31일(현지시간) 미국 금융투자 전문매체 더모틀리풀에 따르면 넷플릭스 주가는 최근 5주 동안 16%가량 반등했음에도 지난해 6월 기록한 사상 최고가와 비교하면 여전히 40% 이상 낮은 수준이다.넷플릭스 주가가 고점 대비 40% 이상 떨어진 것은 2002년 IPO 이후 이번이 일곱 번째다. 과거에는 경쟁 심화부터 사업전략 실패, 가입자 감소까지 다양한 악재가 주가를 끌어내렸다.지난 2004년에는 당시 경쟁사였던 블록버스터온라인과의 가격 경쟁이 격화되면서 주가가 64% 하락했다. 2011년에는 스트리밍과 DVD 대여 사업을 분리하려던 전략이 소비자 반발을 불러오면서 주가가 82%까지 떨어졌다. 2022년에는 가입자 감소 충격이…",
-      "url": "https://zdnet.co.kr/view/?no=20260831110711",
-      "published_at": "2026-08-31T11:29:52+09:00",
-      "entry_updated_at": "2026-08-31T11:29:52+09:00",
       "fetched_at": "2026-08-31T15:38:03.022614+09:00",
       "language": "ko",
       "importance_weight": 0.85,
