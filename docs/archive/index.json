@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T17:03:51.952518+09:00",
+  "updated_at": "2026-09-02T21:55:12.596446+09:00",
   "archives": [
+    {
+      "id": "2026-09-02_21-54",
+      "date": "2026-09-02",
+      "time": "21:54",
+      "label": "2026-09-02 21:54",
+      "generated_at": "2026-09-02T21:54:54.823788+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "챗GPT 광고 매출, 200일 만에 1조원 돌파…오픈AI, 수익성 입증",
+        "Parametric Multimodal User Memory: Storing What Captions Cannot Carry",
+        "\"URL 입력하면 AI가 광고 소재 제작”… 디3, ‘림지’ 시범 서비스 시작",
+        "파일럿을 넘어…AI 에이전트를 안착시키는 세 가지 조건",
+        "EU, 챗GPT에 최고 강도 규제…생성형 AI로는 처음"
+      ],
+      "path_json": "archive/2026-09-02/21-54.json",
+      "path_md": "archive/2026-09-02/21-54.md"
+    },
     {
       "id": "2026-09-02_17-35",
       "date": "2026-09-02",
