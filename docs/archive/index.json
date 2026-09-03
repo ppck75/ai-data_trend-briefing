@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T09:32:45.396439+09:00",
+  "updated_at": "2026-09-03T17:14:04.510245+09:00",
   "archives": [
+    {
+      "id": "2026-09-03_17-35",
+      "date": "2026-09-03",
+      "time": "17:35",
+      "label": "2026-09-03 17:35",
+      "generated_at": "2026-09-03T17:13:35.935359+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "\"URL 입력하면 AI가 광고 소재 제작”… 디3, ‘림지’ 시범 서비스 시작",
+        "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+        "AI로 주류 트렌드 읽는다…뉴엔AI, 산토리에 분석 플랫폼 지원",
+        "Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning",
+        "“AI 써라, 안 쓰면 자리 없어진다”…기업 ‘아날로그 문화’ 경고한 손정의"
+      ],
+      "path_json": "archive/2026-09-03/17-35.json",
+      "path_md": "archive/2026-09-03/17-35.md"
+    },
     {
       "id": "2026-09-03_09-32",
       "date": "2026-09-03",
