@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-05T02:31:33.255907+09:00",
+  "updated_at": "2026-09-05T05:14:41.388625+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "ba2361466a9778f8b7d1e7bdea085c4b638790e5bcf90bf169e7d68dc193f165",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "한국은 아직 제로음료? … 미국은 ‘0+1’ 마십니다",
+      "summary": "파피(Poppi) 편당분이 가득한 전통 탄산음료가 건강에 ‘-1’이고, 칼로리와 당류를 덜어낸 제로 음료가 ‘0’이라면, 몸에 유익한 기능을 더한 ‘+1’ 탄산음료를 마실 수는 없..",
+      "url": "https://www.mk.co.kr/news/business/12144460",
+      "published_at": "2026-09-05T04:10:00+09:00",
+      "entry_updated_at": "2026-09-05T04:10:00+09:00",
+      "fetched_at": "2026-09-05T05:14:39.240873+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "dc1c25c115a4563c7eef3da90c92425d8831ace248d4d2bf47be83829285bebe",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-09-03T20:06:17.043199+09:00",
       "language": "ko",
       "importance_weight": 0.9,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "6ca649e2fabeca1737da24b1d6ca65a2d25b8e942e1076af91def7c57285660f",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "9월은 투자하기 잔인한 달? … 브로드컴 ‘엄살’ 속에 감춰진 증시 반등 호재",
-      "summary": "9월의 시작을 알린 브로드컴 실적미국 시가총액 8위이자 인공지능(AI) 관련 주도주 중 한 곳인 빅테크 브로드컴이 3일 새벽 실적을 발표했는데 투자자들 반응이 뜨끈미지근하다. 브로..",
-      "url": "https://www.mk.co.kr/news/business/12143293",
-      "published_at": "2026-09-03T13:48:20+09:00",
-      "entry_updated_at": "2026-09-03T13:48:20+09:00",
-      "fetched_at": "2026-09-03T13:54:51.819913+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
