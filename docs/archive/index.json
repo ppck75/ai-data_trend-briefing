@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T21:57:58.139771+09:00",
+  "updated_at": "2026-09-04T09:17:53.026534+09:00",
   "archives": [
+    {
+      "id": "2026-09-04_09-17",
+      "date": "2026-09-04",
+      "time": "09:17",
+      "label": "2026-09-04 09:17",
+      "generated_at": "2026-09-04T09:17:11.761338+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "\"AI 스마트홈 누가 더 똑똑할까\" 獨서 맞붙은 삼성·LG",
+        "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+        "[현장] SK텔레콤 \"차기 독파모 핵심은 '에이전트', 실행력 높인다\"",
+        "네이버클라우드, 정부 보안 특화 AI 사업자 선정…공격·방어 '투트랙' 개발",
+        "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
+      ],
+      "path_json": "archive/2026-09-04/09-17.json",
+      "path_md": "archive/2026-09-04/09-17.md"
+    },
     {
       "id": "2026-09-03_21-57",
       "date": "2026-09-03",
