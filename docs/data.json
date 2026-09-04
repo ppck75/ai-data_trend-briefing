@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:51:53.119872+09:00",
+  "updated_at": "2026-09-04T20:09:22.626197+09:00",
   "total_items": 200,
   "items": [
     {
@@ -160,6 +160,24 @@
       "fetched_at": "2026-09-04T18:51:51.729966+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "688bdd7807c6c226d194bcbb6586ca16a4cf06f9782afdaf7403e13160f2fc73",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "AI가 만든 코드가 어드민이 되기까지",
+      "summary": "실시간으로 생성되는 코드를 어드민 화면으로 보여 주기 위해, 개발 환경을 브라우저 안으로 옮긴 이야기를 소개해요.",
+      "url": "https://toss.tech/article/52885",
+      "published_at": "2026-09-04T17:47:00+09:00",
+      "entry_updated_at": "2026-09-04T17:47:00+09:00",
+      "fetched_at": "2026-09-04T20:09:15.153875+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260903102329",
       "published_at": "2026-09-03T11:27:04+09:00",
       "entry_updated_at": "2026-09-03T11:27:04+09:00",
-      "fetched_at": "2026-09-03T13:54:53.771429+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "d1047a8cb22e12525949fd1ce88d154c7efa376e451df2157ebecac3713c52ca",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "KT엠모바일, 추첨 통해 갤Z8시리즈 증정",
-      "summary": "[지디넷코리아]KT엠모바일은 자사 다이렉트몰에서 추첨을 통해 경품을 증정하는 '빅 이벤트'를 진행한다고 3일 밝혔다.이벤트는 KT엠모바일 가입자 누구나 참여할 수 있으며, 오는 30일까지 응모 가능하다.KT엠모바일은 삼성전자 갤럭시Z8시리즈를 2명에게, 네이버페이 1만원권을 500명에게 증정한다.당첨자는 11월 초 발표된다.변석주 KT엠모바일 사업운영본부장은 \"이벤트를 시작으로 앞으로도 가입자 체감 혜택과 서비스를 확대해 나가겠다\"고 밝혔다.",
-      "url": "https://zdnet.co.kr/view/?no=20260903095427",
-      "published_at": "2026-09-03T11:26:43+09:00",
-      "entry_updated_at": "2026-09-03T11:26:43+09:00",
       "fetched_at": "2026-09-03T13:54:53.771429+09:00",
       "language": "ko",
       "importance_weight": 0.85,
