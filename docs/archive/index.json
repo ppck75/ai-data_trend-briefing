@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-04T21:52:58.205468+09:00",
+  "updated_at": "2026-09-05T09:18:03.461223+09:00",
   "archives": [
+    {
+      "id": "2026-09-05_09-17",
+      "date": "2026-09-05",
+      "time": "09:17",
+      "label": "2026-09-05 09:17",
+      "generated_at": "2026-09-05T09:17:36.817984+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "[현장] 정부, 이용자 많은 '모두의 AI'에 GPU 더 준다…예산 2500억원",
+        "AI가 만든 코드가 어드민이 되기까지",
+        "\"AGI 시대에 오신 것을 환영합니다\"… 오픈AI 새 모델, 코딩능력서 클로드 능가",
+        "R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG",
+        "지그재그·에이블리 '임부복' 찜…AI·브랜드 전문성으로 차별화"
+      ],
+      "path_json": "archive/2026-09-05/09-17.json",
+      "path_md": "archive/2026-09-05/09-17.md"
+    },
     {
       "id": "2026-09-04_21-52",
       "date": "2026-09-04",
