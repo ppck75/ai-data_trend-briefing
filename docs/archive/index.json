@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-05T09:18:03.461223+09:00",
+  "updated_at": "2026-09-05T16:49:56.544993+09:00",
   "archives": [
+    {
+      "id": "2026-09-05_17-35",
+      "date": "2026-09-05",
+      "time": "17:35",
+      "label": "2026-09-05 17:35",
+      "generated_at": "2026-09-05T16:49:12.003232+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "[안광섭 AI 진테제] 은행대출, 美中은 GPU와 토큰이 결정...한국은",
+        "\"AGI 시대에 오신 것을 환영합니다\"… 오픈AI 새 모델, 코딩능력서 클로드 능가",
+        "AI가 만든 코드가 어드민이 되기까지",
+        "R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG",
+        "AI·OTT 구독료도 '통신비'일까"
+      ],
+      "path_json": "archive/2026-09-05/17-35.json",
+      "path_md": "archive/2026-09-05/17-35.md"
+    },
     {
       "id": "2026-09-05_09-17",
       "date": "2026-09-05",
