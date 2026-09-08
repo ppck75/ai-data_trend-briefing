@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:34:38.626113+09:00",
+  "updated_at": "2026-09-08T20:09:50.741583+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1438,6 +1438,24 @@
       "fetched_at": "2026-09-08T03:05:08.343025+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "0bf914c986499d1e444af8a38da04f281e0da419c3f9a0a3a657c27bf85eb4c7",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "icon": "💬",
+      "title": "if(kakao)2026 첫째 날, 기술 세션 소개",
+      "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를 개발한 노하우를 공유합니다! 최근 공개한 Kanana-2 SLM ...",
+      "url": "https://tech.kakao.com/posts/833",
+      "published_at": "2026-09-08T00:00:00+09:00",
+      "entry_updated_at": "2026-09-08T00:00:00+09:00",
+      "fetched_at": "2026-09-08T20:09:47.307782+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-09-07T08:33:12+09:00",
       "entry_updated_at": "2026-09-07T08:33:12+09:00",
       "fetched_at": "2026-09-07T10:13:03.569544+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "456857c7d6d0294dabad06c1706b44f550431236729177441646d60399bb1da7",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "선수촌 찾은 업비트, 아시안게임 출전 국가대표 응원",
-      "summary": "[지디넷코리아]이번달 19일 ‘2026 아이치·나고야 아시안게임’ 개막을 앞두고 가상자산 거래소 업비트 운영사 두나무가 국가대표 선수단 ‘팀 코리아’ 응원에 나섰다. 업비트는 지난 3일 진천 국가대표선수촌에서 열린 국가대표 선수단 결단식에 참석했다고 7일 밝혔다. 이날 업비트는 아시안게임 출전을 앞둔 선수들을 격려했다. 1만원 상당 비트코인을 담은 ▲자신감 ▲집중 ▲도전 ▲팀워크 ▲즐거움 ▲행운 6가지 메시지 응원 카드를 국가대표 선수들에게 전달했다. 이예린 카누 국가대표 선수는 6가지 응원 메시지 중 ‘즐거움’을 골랐다. 이 선수는 “‘가장 큰 무대에서 가장 나답게 즐길 수 있을 거예요’라는 메시지가 이번 대회를 준비하는 제 마음과 가장 잘 맞았다”고 소감을 전했다.한편, 두나무는 지난해 10월 대한체육회와 공식 파트너 후원 계약을 체결한 바 있다.",
-      "url": "https://zdnet.co.kr/view/?no=20260907082120",
-      "published_at": "2026-09-07T08:21:20+09:00",
-      "entry_updated_at": "2026-09-07T08:21:20+09:00",
-      "fetched_at": "2026-09-07T10:13:05.209420+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
