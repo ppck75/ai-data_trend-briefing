@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-09T17:19:48.765712+09:00",
+  "updated_at": "2026-09-09T22:06:43.146881+09:00",
   "archives": [
+    {
+      "id": "2026-09-09_22-06",
+      "date": "2026-09-09",
+      "time": "22:06",
+      "label": "2026-09-09 22:06",
+      "generated_at": "2026-09-09T22:06:16.966072+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI도 '집단 연구' 나섰다…오픈AI, 1만개 에이전트로 90년 수학 난제 풀어",
+        "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+        "When Agent Governance Helps",
+        "검색만 하던 AI는 끝…공공 현장 파고든 에이전트",
+        "Better Together: Complementary Query Rewriting Under a Strong RAG Baseline"
+      ],
+      "path_json": "archive/2026-09-09/22-06.json",
+      "path_md": "archive/2026-09-09/22-06.md"
+    },
     {
       "id": "2026-09-09_17-35",
       "date": "2026-09-09",
