@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-08T22:00:35.955412+09:00",
+  "updated_at": "2026-09-09T09:28:26.242789+09:00",
   "archives": [
+    {
+      "id": "2026-09-09_09-28",
+      "date": "2026-09-09",
+      "time": "09:28",
+      "label": "2026-09-09 09:28",
+      "generated_at": "2026-09-09T09:28:11.819289+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+        "1. Creating a Role That Didn’t Exist Before",
+        "\"5년 못 푼 자동차 도장 문제, 10분 만에 해결\"…앤트로픽이 제시한 AX 생존법",
+        "삼성전자, 프랑스 미스트랄 AI에 지분 투자…반도체 특화 AI 공동 개발",
+        "“무료 크롤링 시대는 끝났다”…AI 데이터 확보 전쟁의 새 국면"
+      ],
+      "path_json": "archive/2026-09-09/09-28.json",
+      "path_md": "archive/2026-09-09/09-28.md"
+    },
     {
       "id": "2026-09-08_22-00",
       "date": "2026-09-08",
