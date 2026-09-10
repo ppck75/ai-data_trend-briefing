@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-10T09:27:47.972438+09:00",
+  "updated_at": "2026-09-10T17:19:49.555096+09:00",
   "archives": [
+    {
+      "id": "2026-09-10_17-35",
+      "date": "2026-09-10",
+      "time": "17:35",
+      "label": "2026-09-10 17:35",
+      "generated_at": "2026-09-10T17:19:32.273729+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "검색만 하던 AI는 끝…공공 현장 파고든 에이전트",
+        "Benchmarking Hybrid Deep Research Across Database Querying and Web Search",
+        "개발자·상담원, 4년 후 AI에 일자리 줄 가능성 커…영향 덜 받을 직업은",
+        "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+      ],
+      "path_json": "archive/2026-09-10/17-35.json",
+      "path_md": "archive/2026-09-10/17-35.md"
+    },
     {
       "id": "2026-09-10_09-27",
       "date": "2026-09-10",
