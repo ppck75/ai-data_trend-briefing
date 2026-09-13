@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-12T21:19:22.036863+09:00",
+  "updated_at": "2026-09-13T09:10:10.378876+09:00",
   "archives": [
+    {
+      "id": "2026-09-13_09-09",
+      "date": "2026-09-13",
+      "time": "09:09",
+      "label": "2026-09-13 09:09",
+      "generated_at": "2026-09-13T09:09:56.366523+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "콘텐츠",
+        "데이터",
+        "UI"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI가 일할수록 'AX 인재' 몸값 뛴다…왜",
+        "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\"",
+        "Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction",
+        "TV시청도 유튜브가 삼켰다…美 점유율 14.2% 역대 최고",
+        "“GPU 더 꽂고 싶어도 전기가 없다”…AI 전쟁, 이젠 ‘전력 확보전’"
+      ],
+      "path_json": "archive/2026-09-13/09-09.json",
+      "path_md": "archive/2026-09-13/09-09.md"
+    },
     {
       "id": "2026-09-12_21-19",
       "date": "2026-09-12",
