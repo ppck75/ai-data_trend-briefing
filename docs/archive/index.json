@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-13T17:29:12.896779+09:00",
+  "updated_at": "2026-09-13T22:25:16.460979+09:00",
   "archives": [
+    {
+      "id": "2026-09-13_22-24",
+      "date": "2026-09-13",
+      "time": "22:24",
+      "label": "2026-09-13 22:24",
+      "generated_at": "2026-09-13T22:24:59.624703+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "콘텐츠",
+        "플랫폼",
+        "데이터",
+        "UI"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI가 일할수록 'AX 인재' 몸값 뛴다…왜",
+        "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\"",
+        "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+        "앤트로픽 \"AI 개발 속도 조절해야\"...머스크·알트먼도 공감",
+        "Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction"
+      ],
+      "path_json": "archive/2026-09-13/22-24.json",
+      "path_md": "archive/2026-09-13/22-24.md"
+    },
     {
       "id": "2026-09-13_17-35",
       "date": "2026-09-13",
