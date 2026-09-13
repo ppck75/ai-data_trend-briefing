@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:03:24.596883+09:00",
+  "updated_at": "2026-09-13T20:41:13.994559+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2721,6 +2721,24 @@
       "planning_insight": ""
     },
     {
+      "id": "7f0530a11e74e14846401c6a6d3cdfb3482732f263d847c1775a699c116a51bc",
+      "source": "AWS 한국 블로그",
+      "group": "ai_data",
+      "category": "cloud_data_infra",
+      "icon": "☁️",
+      "title": "Amazon EBS Volume Clones, 다른 AWS 계정으로 공유 가능",
+      "summary": "작년에 동일한 가용 영역 내에서 EBS 볼륨의 즉각적인 특정 시점 사본을 생성할 수 있는 새로운 기능인 Amazon Elastic Block Store(Amazon EBS)의 볼륨 복제 기능을 출시했습니다. 오늘은 교차 계정 복사를 통해 볼륨 복제를 확장해 보려고 합니다. 그러면 EBS 볼륨의 사본을 다른 AWS 계정에 생성하고, 선택적으로 대상 계정의 AWS Key Management Service(AWS KMS) 키를 사용하여 다시 암호화할 […]",
+      "url": "https://aws.amazon.com/ko/blogs/korea/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+      "published_at": "2026-09-11T16:57:28+09:00",
+      "entry_updated_at": "2026-09-11T16:57:28+09:00",
+      "fetched_at": "2026-09-13T20:41:13.991360+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "9068234efc3f9130a84baff4bb2b2d4854501490de6ce3f02e72d40bc265f7e3",
       "source": "매일경제 기업",
       "group": "news",
@@ -3575,24 +3593,6 @@
       "title": "Larger Context Window, Fewer Overcorrections: Optimizing Prompts and Batching for Minimal-Edit Grammatical Error Correction",
       "summary": "arXiv:2609.10810v1 Announce Type: new Abstract: Minimal-edit Grammatical Error Correction (GEC) is a challenging task for zero- and few-shot prompted Large Language Models (LLMs), which systematically overcorrect and degrade $F_{0.5}$ by rewriting well-formed spans. While fine-tuning provides an effective solution, it imposes substantial infrastructure demands. We introduce a prompt-based approach that closes the gap to fine-tuned models through three advances in GEC prompting methodology. Firs…",
       "url": "https://arxiv.org/abs/2609.10810",
-      "published_at": "2026-09-11T13:00:00+09:00",
-      "entry_updated_at": "2026-09-11T13:00:00+09:00",
-      "fetched_at": "2026-09-11T13:28:54.759151+09:00",
-      "language": "en",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "e6f63065a95db067f1f1acbffc439bbf2424076df69cb4f09073740f9a5fe096",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "icon": "📄",
-      "title": "Detectable Only Where It Is Confounded: What Verified Duplication Counts Say About Membership Evidence in Language Models",
-      "summary": "arXiv:2609.10830v1 Announce Type: new Abstract: When a language model finds a sentence unusually cheap to predict, it is tempting to conclude that the sentence was in its training data. Almost every published test of that inference has had to guess which sentences were in the training data, the members, and which were not. This paper removes the guessing. Two model families, OLMo-2 and Pythia, publish their pretraining corpora, and a public index over those corpora returns the exact number of t…",
-      "url": "https://arxiv.org/abs/2609.10830",
       "published_at": "2026-09-11T13:00:00+09:00",
       "entry_updated_at": "2026-09-11T13:00:00+09:00",
       "fetched_at": "2026-09-11T13:28:54.759151+09:00",
