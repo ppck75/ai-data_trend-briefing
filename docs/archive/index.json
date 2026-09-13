@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-13T09:10:10.378876+09:00",
+  "updated_at": "2026-09-13T17:29:12.896779+09:00",
   "archives": [
+    {
+      "id": "2026-09-13_17-35",
+      "date": "2026-09-13",
+      "time": "17:35",
+      "label": "2026-09-13 17:35",
+      "generated_at": "2026-09-13T17:29:00.593976+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "콘텐츠",
+        "플랫폼",
+        "데이터",
+        "UI"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] AI가 일할수록 'AX 인재' 몸값 뛴다…왜",
+        "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\"",
+        "TV시청도 유튜브가 삼켰다…美 점유율 14.2% 역대 최고",
+        "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+        "AI로 복제되는 배우 얼굴·목소리…노조-KDDC, 권리 보호 추진"
+      ],
+      "path_json": "archive/2026-09-13/17-35.json",
+      "path_md": "archive/2026-09-13/17-35.md"
+    },
     {
       "id": "2026-09-13_09-09",
       "date": "2026-09-13",
