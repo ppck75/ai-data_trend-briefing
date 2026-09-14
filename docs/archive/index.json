@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-14T18:11:09.549703+09:00",
+  "updated_at": "2026-09-15T00:11:28.667635+09:00",
   "archives": [
+    {
+      "id": "2026-09-15_00-11",
+      "date": "2026-09-15",
+      "time": "00:11",
+      "label": "2026-09-15 00:11",
+      "generated_at": "2026-09-15T00:11:22.671416+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "콘텐츠",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "LG전자, 美 '에미상' TV·가전 파트너 선정",
+        "200만원 아이폰18 오늘부터 예약...통신 3사 할인 경쟁",
+        "Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering",
+        "Chopthin-Consensus Power Sampling: A Diversity-Preserving Approach to LLM Decoding",
+        "코난테크, 북한·해외 국방정보 AI로 파헤친다"
+      ],
+      "path_json": "archive/2026-09-15/00-11.json",
+      "path_md": "archive/2026-09-15/00-11.md"
+    },
     {
       "id": "2026-09-14_17-35",
       "date": "2026-09-14",
