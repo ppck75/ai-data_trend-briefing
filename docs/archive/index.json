@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T00:11:28.667635+09:00",
+  "updated_at": "2026-09-15T09:50:23.963311+09:00",
   "archives": [
+    {
+      "id": "2026-09-15_09-50",
+      "date": "2026-09-15",
+      "time": "09:50",
+      "label": "2026-09-15 09:50",
+      "generated_at": "2026-09-15T09:50:11.588178+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration",
+        "GAUGE: When Not to Trust LLM-as-a-Judge in User-Simulated Evaluation of Task-Oriented Agents",
+        "두핸즈 품고, 사용자 맥락 기반 물류 시스템 ‘바이스’ 10월 출시",
+        "뉴로퓨전 밸리 AI, 금융 리서치 에이전트로 데이터-판단 간극 낮춘다",
+        "Repair Before Reinforce: Context-Augmented Knowledge Graph Reasoning for Multi-Hop Question Answering"
+      ],
+      "path_json": "archive/2026-09-15/09-50.json",
+      "path_md": "archive/2026-09-15/09-50.md"
+    },
     {
       "id": "2026-09-15_00-11",
       "date": "2026-09-15",
