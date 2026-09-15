@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T17:53:35.656926+09:00",
+  "updated_at": "2026-09-15T22:50:04.630009+09:00",
   "archives": [
+    {
+      "id": "2026-09-15_22-48",
+      "date": "2026-09-15",
+      "time": "22:48",
+      "label": "2026-09-15 22:48",
+      "generated_at": "2026-09-15T22:48:17.477712+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "두핸즈 품고, 사용자 맥락 기반 물류 시스템 ‘바이스’ 10월 출시",
+        "나눔비타민·동선컴퍼니·월드다가치, 지역상생형 복지·사회공헌 업무협약 체결",
+        "\"날씨·시간 따라 달라진다\"…DXE, AI 시대 ‘맥락 광고’ 제시",
+        "PhysMent: An Interactive Approach For LLM Reasoning In Physics Problems",
+        "Lexical Prompt Compression for Large Language Models: A Training-Free, Deterministic Pipeline with Empirical Pareto Analysis Across Eleven Task Categories"
+      ],
+      "path_json": "archive/2026-09-15/22-48.json",
+      "path_md": "archive/2026-09-15/22-48.md"
+    },
     {
       "id": "2026-09-15_17-35",
       "date": "2026-09-15",
