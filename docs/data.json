@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:23:35.675908+09:00",
+  "updated_at": "2026-09-16T20:23:59.686544+09:00",
   "total_items": 200,
   "items": [
     {
@@ -142,6 +142,24 @@
       "fetched_at": "2026-09-16T15:23:33.355468+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "a41b9b6e534148835f4c1e92884731aa6baec0c3cca997b5dfa93eec38c0c739",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+      "summary": "Toss의 AI 기반 서비스에 적합한 LLM이 무엇인지 평가하는 Toss Benchmark 구축기",
+      "url": "https://toss.tech/article/toss-benchmark",
+      "published_at": "2026-09-16T14:37:00+09:00",
+      "entry_updated_at": "2026-09-16T14:37:00+09:00",
+      "fetched_at": "2026-09-16T20:23:50.843951+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260915083833",
       "published_at": "2026-09-15T08:38:33+09:00",
       "entry_updated_at": "2026-09-15T08:38:33+09:00",
-      "fetched_at": "2026-09-15T09:46:16.436729+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "1023a8a5792b36396968a8629655e2216a8516c61557ce7fb7b75f8d164e4967",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "손정의 회장과 엔트로픽의 제이콥 콕슨이 던진 질문",
-      "summary": "[지디넷코리아]2026년 가을에 두 개의 장면이 세계에 전해졌다.하나는 도쿄다. 손정의 소프트뱅크 회장이 '소프트뱅크 월드 2026(SoftBank World 2026)' 무대에서 2040년을 숫자로 그렸다. 인공지능(AI)이 세계 경제의 20%, 연간 7000조엔을 만들어낸다. 우리 돈으로 수경 원, 대한민국 전체가 1년 동안 생산하는 것의 수십 배에 이르는 규모다. 사람 대신 일을 처리하는 AI 비서, 이른바 'AI 에이전트'가 100조 개 활동한다. 지구에 사는 사람 한 명당 1만 개가 넘는 숫자다. 사람 모양의 로봇, 휴머노이드가 10억 대 움직인다. 이들을 돌리기 위한 데이터센터에는 3테라와트의 전력이 필요하다. 대형 원자력발전소 2000기가 넘는 분량이다. 그리고 매년 5조 달러가 이 인프라에 투자된다.다른 하나는 샌프란시스코다. 앤트로픽이라는 세계 최전선 AI 회사에서 모델 학습을 연구하던 스물일곱 살 연구원 제이컵 콕슨이 사표를 냈다. 떠나면서 그는 이렇게 썼다. \"…",
-      "url": "https://zdnet.co.kr/view/?no=20260915082047",
-      "published_at": "2026-09-15T08:36:18+09:00",
-      "entry_updated_at": "2026-09-15T08:36:18+09:00",
       "fetched_at": "2026-09-15T09:46:16.436729+09:00",
       "language": "ko",
       "importance_weight": 0.85,
