@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T22:50:04.630009+09:00",
+  "updated_at": "2026-09-16T09:42:29.333170+09:00",
   "archives": [
+    {
+      "id": "2026-09-16_09-42",
+      "date": "2026-09-16",
+      "time": "09:42",
+      "label": "2026-09-16 09:42",
+      "generated_at": "2026-09-16T09:42:12.933792+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "\"날씨·시간 따라 달라진다\"…DXE, AI 시대 ‘맥락 광고’ 제시",
+        "질문 난이도 따라 LLM 골라 쓴다…라이너, 모델 API 출시",
+        "Your Agent Aced the Task. Will It Do It Again?",
+        "셀카 찍으면 AI가 피부 분석…올리브영, 모바일 '스킨스캔' 출시",
+        "AI가 결제 직전까지 알아서, 마지막 승인은 문자메시지로"
+      ],
+      "path_json": "archive/2026-09-16/09-42.json",
+      "path_md": "archive/2026-09-16/09-42.md"
+    },
     {
       "id": "2026-09-15_22-48",
       "date": "2026-09-15",
