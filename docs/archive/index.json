@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-16T17:47:03.504777+09:00",
+  "updated_at": "2026-09-16T22:41:00.810125+09:00",
   "archives": [
+    {
+      "id": "2026-09-16_22-40",
+      "date": "2026-09-16",
+      "time": "22:40",
+      "label": "2026-09-16 22:40",
+      "generated_at": "2026-09-16T22:40:33.637323+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+        "AB 테이스티와 VWO, 윙기파이로 통합…통합 플랫폼, 새 브랜드 아이덴티티, 웹사이트 공개",
+        "Your Agent Aced the Task. Will It Do It Again?",
+        "AI를 안경 속으로…정부, AI글래스 개발·서비스 실증 지원",
+        "셀카 찍으면 AI가 피부 분석…올리브영, 모바일 '스킨스캔' 출시"
+      ],
+      "path_json": "archive/2026-09-16/22-40.json",
+      "path_md": "archive/2026-09-16/22-40.md"
+    },
     {
       "id": "2026-09-16_17-35",
       "date": "2026-09-16",
