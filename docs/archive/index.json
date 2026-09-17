@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T17:50:36.179152+09:00",
+  "updated_at": "2026-09-17T22:43:41.952191+09:00",
   "archives": [
+    {
+      "id": "2026-09-17_22-43",
+      "date": "2026-09-17",
+      "time": "22:43",
+      "label": "2026-09-17 22:43",
+      "generated_at": "2026-09-17T22:43:12.565673+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "\"AI가 골라주니 더 보고 더 샀다”...Btv 에이닷 2년 성적표",
+        "\"강남역 근처 2시간 주차 찾아줘\"…모두의주차장, AI 주차장 구매 서비스 출시",
+        "오픈클립스, 마침내 제품 링크 하나를 즉시 배포 가능한 동영상 광고로 전환",
+        "From Pixels to Pairs: A Comprehensive Benchmark of LLM-Based Key-Value Extraction in Noisy Document Settings",
+        "앤트로픽, 클로드 채팅·코워크 통합…AI가 스스로 도구 선택해 업무 처리"
+      ],
+      "path_json": "archive/2026-09-17/22-43.json",
+      "path_md": "archive/2026-09-17/22-43.md"
+    },
     {
       "id": "2026-09-17_17-35",
       "date": "2026-09-17",
