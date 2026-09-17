@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T09:48:53.063183+09:00",
+  "updated_at": "2026-09-17T17:50:36.179152+09:00",
   "archives": [
+    {
+      "id": "2026-09-17_17-35",
+      "date": "2026-09-17",
+      "time": "17:35",
+      "label": "2026-09-17 17:35",
+      "generated_at": "2026-09-17T17:50:18.417067+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "\"AI가 골라주니 더 보고 더 샀다”...Btv 에이닷 2년 성적표",
+        "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+        "앤트로픽, 클로드 채팅·코워크 통합…AI가 스스로 도구 선택해 업무 처리",
+        "제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다",
+        "Optimal Model Activation Policies for Inference Networks of Large Language Models"
+      ],
+      "path_json": "archive/2026-09-17/17-35.json",
+      "path_md": "archive/2026-09-17/17-35.md"
+    },
     {
       "id": "2026-09-17_09-48",
       "date": "2026-09-17",
