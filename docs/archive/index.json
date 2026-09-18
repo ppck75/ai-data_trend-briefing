@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T22:43:41.952191+09:00",
+  "updated_at": "2026-09-18T09:42:03.101225+09:00",
   "archives": [
+    {
+      "id": "2026-09-18_09-41",
+      "date": "2026-09-18",
+      "time": "09:41",
+      "label": "2026-09-18 09:41",
+      "generated_at": "2026-09-18T09:41:38.246091+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "앤트로픽, 클로드 채팅·코워크 통합…AI가 스스로 도구 선택해 업무 처리",
+        "AWS 주간 소식 모음: Amazon Bedrock 기반 OpenAI GPT-6 Astra, Amazon Quick 데스크톱 GA, 학생을 위한 Kiro 등",
+        "리더보드 1등 LLM, 토스에서도 1등일까? - Toss Benchmark 구축기",
+        "오픈클립스, 마침내 제품 링크 하나를 즉시 배포 가능한 동영상 광고로 전환",
+        "\"AI가 골라주니 더 보고 더 샀다”...Btv 에이닷 2년 성적표"
+      ],
+      "path_json": "archive/2026-09-18/09-41.json",
+      "path_md": "archive/2026-09-18/09-41.md"
+    },
     {
       "id": "2026-09-17_22-43",
       "date": "2026-09-17",
