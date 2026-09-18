@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-19T01:19:19.134280+09:00",
+  "updated_at": "2026-09-19T03:03:19.379169+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "aee15e3a1b189e45f6c37e2b02813f9bc0209cb8ddbc5298128dd0f4e32f236e",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "California Governor Gavin Newsom Issues A.I. Safety Executive Order",
+      "summary": "Gov. Gavin Newsom ordered the state to develop recommendations on safety measures, including requiring companies to build a “kill switch,” amid mounting concerns.",
+      "url": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
+      "published_at": "2026-09-19T02:27:15+09:00",
+      "entry_updated_at": "2026-09-19T02:27:15+09:00",
+      "fetched_at": "2026-09-19T03:03:19.374750+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "f46ddc4acacf9433bc1d01fd4dcff595683c03ca67c611eb8cf5c6d6f893a250",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-09-17T13:44:43.919840+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "6c28e4db67708b5ddd801ee14ffc80505ebe690959a0dbe0d94c94c17744c203",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o",
-      "published_at": "2026-09-17T12:09:21+09:00",
-      "entry_updated_at": "2026-09-17T12:09:21+09:00",
-      "fetched_at": "2026-09-17T15:24:40.094928+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
