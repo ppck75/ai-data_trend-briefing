@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-18T09:42:03.101225+09:00",
+  "updated_at": "2026-09-18T17:26:17.027406+09:00",
   "archives": [
+    {
+      "id": "2026-09-18_17-35",
+      "date": "2026-09-18",
+      "time": "17:35",
+      "label": "2026-09-18 17:35",
+      "generated_at": "2026-09-18T17:26:00.812748+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "앤트로픽, 클로드 채팅·코워크 통합…AI가 스스로 도구 선택해 업무 처리",
+        "\"광고 많이 보여주는 게 끝 아니다\"...넷플릭스가 주목한 새 지표",
+        "사용자를 위해 일부러 어렵게 만드는 경험, 어디까지 괜찮을까?",
+        "어센트 AI, “가전 시장 침체 속 소형·위생·구독 ‘3대 틈새’ 급성장”",
+        "What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews"
+      ],
+      "path_json": "archive/2026-09-18/17-35.json",
+      "path_md": "archive/2026-09-18/17-35.md"
+    },
     {
       "id": "2026-09-18_09-41",
       "date": "2026-09-18",
