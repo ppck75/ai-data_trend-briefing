@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-20T22:10:54.967996+09:00",
+  "updated_at": "2026-09-21T09:25:32.449376+09:00",
   "archives": [
+    {
+      "id": "2026-09-21_09-25",
+      "date": "2026-09-21",
+      "time": "09:25",
+      "label": "2026-09-21 09:25",
+      "generated_at": "2026-09-21T09:25:15.159357+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "\"광고 많이 보여주는 게 끝 아니다\"...넷플릭스가 주목한 새 지표",
+        "Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations",
+        "\"AI로 취향 맛집 추천\"...티맵, 장소추천 서비스 개편",
+        "Towards Proactive Detection of User-Side Implicit Conflicts in Human-LLM Dialogue",
+        "사용자를 위해 일부러 어렵게 만드는 경험, 어디까지 괜찮을까?"
+      ],
+      "path_json": "archive/2026-09-21/09-25.json",
+      "path_md": "archive/2026-09-21/09-25.md"
+    },
     {
       "id": "2026-09-20_22-10",
       "date": "2026-09-20",
