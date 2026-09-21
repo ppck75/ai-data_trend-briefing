@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:57:21.476122+09:00",
+  "updated_at": "2026-09-21T21:40:33.018966+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-09-21T19:57:19.897911+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "46f3b268411872e8464f97c3c015deb2f37004fd023224657b05ea6d8cb989dc",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+      "summary": "은행 지식이 없던 디자이너가 규제가 가득한 도메인에서 어떻게 팀의 기준을 바꿨는지 이야기해 보려고 해요.",
+      "url": "https://toss.tech/article/remittance_transfer",
+      "published_at": "2026-09-21T19:15:00+09:00",
+      "entry_updated_at": "2026-09-21T19:15:00+09:00",
+      "fetched_at": "2026-09-21T21:40:24.513134+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-09-18T23:23:19+09:00",
       "entry_updated_at": "2026-09-18T23:23:19+09:00",
       "fetched_at": "2026-09-19T06:05:56.244988+09:00",
-      "language": "en",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "f46ddc4acacf9433bc1d01fd4dcff595683c03ca67c611eb8cf5c6d6f893a250",
-      "source": "NYT Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🗽",
-      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
-      "summary": "The countries, along with Israeli firms, combined Chinese open-source A.I. models and A.I. agents for the campaigns, foreshadowing future online manipulation.",
-      "url": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
-      "published_at": "2026-09-18T23:20:10+09:00",
-      "entry_updated_at": "2026-09-18T23:20:10+09:00",
-      "fetched_at": "2026-09-18T23:45:56.798319+09:00",
       "language": "en",
       "importance_weight": 0.85,
       "importance_score": null,
