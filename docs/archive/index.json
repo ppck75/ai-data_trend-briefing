@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-21T09:25:32.449376+09:00",
+  "updated_at": "2026-09-21T18:13:21.216517+09:00",
   "archives": [
+    {
+      "id": "2026-09-21_17-35",
+      "date": "2026-09-21",
+      "time": "17:35",
+      "label": "2026-09-21 17:35",
+      "generated_at": "2026-09-21T18:13:03.779505+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] \"AI 투자비 감당 안 된다\"…빅테크, 부채 줄이려 3000억 달러 보증 확대",
+        "[단독] 오픈AI, 韓 엔터프라이즈 사업 강화…B2B 총괄 채용 추진",
+        "\"AI로 취향 맛집 추천\"...티맵, 장소추천 서비스 개편",
+        "Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions",
+        "SAGE: Schema-Guided LLMs for Grant Review"
+      ],
+      "path_json": "archive/2026-09-21/17-35.json",
+      "path_md": "archive/2026-09-21/17-35.md"
+    },
     {
       "id": "2026-09-21_09-25",
       "date": "2026-09-21",
