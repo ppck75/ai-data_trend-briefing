@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T05:51:46.826976+09:00",
+  "updated_at": "2026-09-23T06:13:12.936754+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2163,6 +2163,24 @@
       "planning_insight": ""
     },
     {
+      "id": "fcc87cb23e9d0fc492c07ea8fb6a1dde37c4ba89516bfef9a54d4652c04a92cd",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "published_at": "2026-09-22T09:00:00+09:00",
+      "entry_updated_at": "2026-09-22T09:00:00+09:00",
+      "fetched_at": "2026-09-23T06:13:12.735376+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "74ca1f56333aa4518d0e373207c9b530c078854f65099a696dc3e7e4db911578",
       "source": "Hugging Face Blog",
       "group": "ai_data",
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/business/12158162",
       "published_at": "2026-09-21T14:09:25+09:00",
       "entry_updated_at": "2026-09-21T14:09:25+09:00",
-      "fetched_at": "2026-09-21T14:15:27.109616+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "e38e60f8fda482f1556af3294c3d183c39585f4dc6a4731fb8b967a477e3c8ba",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "“열린 IR 문화, 주주가치 중심 경영 실천”…KT&G, ‘한국IR대상’ 최우수상 수상",
-      "summary": "“효율적인 IR(Investor Relations) 활동과 주주가치 중심 경영 실천” KT&G(사장 방경만)가 지난 18일 한국거래소(서울 여의도) KRX 마켓 스퀘어에서 열린 ‘..",
-      "url": "https://www.mk.co.kr/news/business/12158151",
-      "published_at": "2026-09-21T14:05:07+09:00",
-      "entry_updated_at": "2026-09-21T14:05:07+09:00",
       "fetched_at": "2026-09-21T14:15:27.109616+09:00",
       "language": "ko",
       "importance_weight": 0.85,
