@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-22T22:37:44.605523+09:00",
+  "updated_at": "2026-09-23T09:51:54.319053+09:00",
   "archives": [
+    {
+      "id": "2026-09-23_09-51",
+      "date": "2026-09-23",
+      "time": "09:51",
+      "label": "2026-09-23 09:51",
+      "generated_at": "2026-09-23T09:51:32.840050+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation",
+        "DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation",
+        "방해하지 않고, 눈에 띌 수 있을까",
+        "구글 '제미나이 인텔리전스', 퀄컴 품고 달린다",
+        "AdaMem: Adaptive Memory Token Allocation for Soft Compression in Retrieval-Augmented Generation"
+      ],
+      "path_json": "archive/2026-09-23/09-51.json",
+      "path_md": "archive/2026-09-23/09-51.md"
+    },
     {
       "id": "2026-09-22_22-36",
       "date": "2026-09-22",
