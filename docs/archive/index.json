@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-23T22:48:21.478584+09:00",
+  "updated_at": "2026-09-24T09:46:06.795579+09:00",
   "archives": [
+    {
+      "id": "2026-09-24_09-45",
+      "date": "2026-09-24",
+      "time": "09:45",
+      "label": "2026-09-24 09:45",
+      "generated_at": "2026-09-24T09:45:47.034206+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "연 300시간을 아낀 AI 상담 서비스",
+        "AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search",
+        "방해하지 않고, 눈에 띌 수 있을까",
+        "개인화 추천을 위한 랭킹 모델 개발기",
+        "\"스마트폰 다음은 XR\"…퀄컴·삼성·구글, 차세대 폼팩터 3자 연합 구축"
+      ],
+      "path_json": "archive/2026-09-24/09-45.json",
+      "path_md": "archive/2026-09-24/09-45.md"
+    },
     {
       "id": "2026-09-23_22-47",
       "date": "2026-09-23",
