@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-25T18:01:25.438499+09:00",
+  "updated_at": "2026-09-25T23:05:38.200628+09:00",
   "archives": [
+    {
+      "id": "2026-09-25_23-05",
+      "date": "2026-09-25",
+      "time": "23:05",
+      "label": "2026-09-25 23:05",
+      "generated_at": "2026-09-25T23:05:24.927668+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "model",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "연 300시간을 아낀 AI 상담 서비스",
+        "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning",
+        "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
+      ],
+      "path_json": "archive/2026-09-25/23-05.json",
+      "path_md": "archive/2026-09-25/23-05.md"
+    },
     {
       "id": "2026-09-25_17-35",
       "date": "2026-09-25",
