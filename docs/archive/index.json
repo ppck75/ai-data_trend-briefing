@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-26T17:46:38.516531+09:00",
+  "updated_at": "2026-09-26T22:19:43.502855+09:00",
   "archives": [
+    {
+      "id": "2026-09-26_22-19",
+      "date": "2026-09-26",
+      "time": "22:19",
+      "label": "2026-09-26 22:19",
+      "generated_at": "2026-09-26T22:19:25.768946+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "model"
+      ],
+      "integrated_titles": [
+        "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로",
+        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning",
+        "\"비트 관리에서 토큰 가치 관리로\"...中통신사 사업모델 전환",
+        "Accelerating vision-language models with LFM2.5-VL-DSpark"
+      ],
+      "path_json": "archive/2026-09-26/22-19.json",
+      "path_md": "archive/2026-09-26/22-19.md"
+    },
     {
       "id": "2026-09-26_17-35",
       "date": "2026-09-26",
