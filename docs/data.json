@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-27T06:55:06.088265+09:00",
+  "updated_at": "2026-09-27T09:11:58.170763+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "ac4e397b4ef205055d920fd7054383f49e3429aa9b3c4d1fcaedcc48299d01f7",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "“결혼 안 해도 축의금 50만원 드립니다”…독특한 이 회사의 복지",
+      "summary": "직원 삶에 맞춘 복지 확산 러쉬코리아는 비혼축의금 마이리얼트립은 여행포인트 신성이엔지는 친환경차 지원 프라임이앤씨는 여가활동비기업들이 결혼·출산 등 전통적인 가족 중심 복지에서 벗..",
+      "url": "https://www.mk.co.kr/news/business/12161756",
+      "published_at": "2026-09-27T08:33:41+09:00",
+      "entry_updated_at": "2026-09-27T08:33:41+09:00",
+      "fetched_at": "2026-09-27T09:11:55.623232+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "bce16c97c343c14068ce9f7d314c9582358b933dbf7ac4a9e35e66790b5960d6",
       "source": "매일경제 기업",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-09-24T08:50:42.278626+09:00",
       "language": "en",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "c8cd7dbf636e2c9d1d32714bc5e0d79341a547e85936282d22d957dae259e358",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po",
-      "published_at": "2026-09-24T07:35:14+09:00",
-      "entry_updated_at": "2026-09-24T07:35:14+09:00",
-      "fetched_at": "2026-09-24T12:03:22.588515+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
