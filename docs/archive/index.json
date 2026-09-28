@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-27T23:13:04.863634+09:00",
+  "updated_at": "2026-09-28T10:03:59.145690+09:00",
   "archives": [
+    {
+      "id": "2026-09-28_10-03",
+      "date": "2026-09-28",
+      "time": "10:03",
+      "label": "2026-09-28 10:03",
+      "generated_at": "2026-09-28T10:03:44.027080+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "소비자"
+      ],
+      "integrated_titles": [
+        "정보 찾던 오픈AI 에이전트, 정부·대학 침투 시도",
+        "로봇은 달라도 두뇌는 하나로…'범용 로봇 지능' 뜬다",
+        "Persuaded, Not Informed: Incentive-Misaligned Witnesses Defeat In-Context Grounding",
+        "크리에이터 커머스 문턱 낮아졌다…웃다가·혜인도 효과 톡톡",
+        "\"AI가 스마트폰 교체 수요 이끈다\"… 퀄컴, 삼성과 동맹 강화"
+      ],
+      "path_json": "archive/2026-09-28/10-03.json",
+      "path_md": "archive/2026-09-28/10-03.md"
+    },
     {
       "id": "2026-09-27_23-12",
       "date": "2026-09-27",
