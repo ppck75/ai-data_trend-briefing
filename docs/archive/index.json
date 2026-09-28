@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-28T19:05:07.477425+09:00",
+  "updated_at": "2026-09-29T01:57:19.263564+09:00",
   "archives": [
+    {
+      "id": "2026-09-29_01-56",
+      "date": "2026-09-29",
+      "time": "01:56",
+      "label": "2026-09-29 01:56",
+      "generated_at": "2026-09-29T01:56:57.120425+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "크리에이터 커머스 문턱 낮아졌다…웃다가·혜인도 효과 톡톡",
+        "아크릴, 경영진이 기술·사업 성과 온라인서 소개 ‘ACRYL NOW’ 선보여",
+        "가트너 \"2029년까지 VM웨어 고객 55% 이전 고려\"...대체 인프라 검토",
+        "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
+        "A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models"
+      ],
+      "path_json": "archive/2026-09-29/01-56.json",
+      "path_md": "archive/2026-09-29/01-56.md"
+    },
     {
       "id": "2026-09-28_17-35",
       "date": "2026-09-28",
