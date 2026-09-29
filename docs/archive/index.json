@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-29T19:03:28.318706+09:00",
+  "updated_at": "2026-09-30T00:00:17.045487+09:00",
   "archives": [
+    {
+      "id": "2026-09-30_00-00",
+      "date": "2026-09-30",
+      "time": "00:00",
+      "label": "2026-09-30 00:00",
+      "generated_at": "2026-09-30T00:00:15.053899+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "피처링, 차세대 데이터 마케팅 컨퍼런스 ‘퓨처링 26’ 연다",
+        "AI 영상 스타트업 힉스필드, 연환산 매출 10억 달러 돌파 전망",
+        "엔젤로보틱스, 피지컬 AI 연구용 웨어러블 로봇 '파이엑스원' 공개",
+        "The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance",
+        "비아이매트릭스, 생성형 AI 기반 위성정보 분석 플랫폼 구축…재난·도시관리 활용 확대"
+      ],
+      "path_json": "archive/2026-09-30/00-00.json",
+      "path_md": "archive/2026-09-30/00-00.md"
+    },
     {
       "id": "2026-09-29_17-35",
       "date": "2026-09-29",
