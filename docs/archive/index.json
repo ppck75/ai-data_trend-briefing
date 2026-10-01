@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-01T10:26:40.154395+09:00",
+  "updated_at": "2026-10-01T19:22:56.333717+09:00",
   "archives": [
+    {
+      "id": "2026-10-01_19-22",
+      "date": "2026-10-01",
+      "time": "19:22",
+      "label": "2026-10-01 19:22",
+      "generated_at": "2026-10-01T19:22:35.666560+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI 없인 아무일도 못하게 해놓고…챗GPT 구독료 ‘월 67만원’",
+        "Anthropic Claude Opus 5, Sonnet 5, Amazon Bedrock 서울 리전 출시",
+        "Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents",
+        "플랫폼 이용자 10명 중 7명 \"요금 인상·광고 전송 규제 필요”",
+        "From Lexical Baselines to Agentic Retrieval-Augmented Generation: Structured Skill and Responsibility-Level Extraction with the SFIA Framework"
+      ],
+      "path_json": "archive/2026-10-01/19-22.json",
+      "path_md": "archive/2026-10-01/19-22.md"
+    },
     {
       "id": "2026-10-01_10-26",
       "date": "2026-10-01",
