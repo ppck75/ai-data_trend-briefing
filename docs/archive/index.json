@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-01T00:10:48.626704+09:00",
+  "updated_at": "2026-10-01T10:26:40.154395+09:00",
   "archives": [
+    {
+      "id": "2026-10-01_10-26",
+      "date": "2026-10-01",
+      "time": "10:26",
+      "label": "2026-10-01 10:26",
+      "generated_at": "2026-10-01T10:26:08.723593+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "model",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장",
+        "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "KT, 900만 셋톱박스 데이터로 TV광고 최적화...도달률 2배",
+        "AWS Weekly Roundup: Amazon Bedrock, GPT-6 Sol 및 Luna, Claude Opus 5.5 지원, Strands harnerss 출시 등",
+        "9인조 다람쥐 아이돌을 데뷔시켰습니다"
+      ],
+      "path_json": "archive/2026-10-01/10-26.json",
+      "path_md": "archive/2026-10-01/10-26.md"
+    },
     {
       "id": "2026-10-01_00-10",
       "date": "2026-10-01",
