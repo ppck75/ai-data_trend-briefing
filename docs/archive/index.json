@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T18:59:36.990082+09:00",
+  "updated_at": "2026-10-02T23:55:23.662004+09:00",
   "archives": [
+    {
+      "id": "2026-10-02_23-55",
+      "date": "2026-10-02",
+      "time": "23:55",
+      "label": "2026-10-02 23:55",
+      "generated_at": "2026-10-02T23:55:01.872988+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "model",
+        "브랜드",
+        "분석"
+      ],
+      "integrated_titles": [
+        "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+        "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
+        "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
+        "로그가 서비스를 죽였다",
+        "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
+      ],
+      "path_json": "archive/2026-10-02/23-55.json",
+      "path_md": "archive/2026-10-02/23-55.md"
+    },
     {
       "id": "2026-10-02_17-35",
       "date": "2026-10-02",
