@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T00:36:06.757913+09:00",
+  "updated_at": "2026-10-02T10:47:13.402932+09:00",
   "archives": [
+    {
+      "id": "2026-10-02_10-46",
+      "date": "2026-10-02",
+      "time": "10:46",
+      "label": "2026-10-02 10:46",
+      "generated_at": "2026-10-02T10:46:25.158463+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "브랜드",
+        "분석"
+      ],
+      "integrated_titles": [
+        "\"개념타령 이젠 그만\"…돈 버는 AI, 한자리서 공개된다",
+        "From Lexical Baselines to Agentic Retrieval-Augmented Generation: Structured Skill and Responsibility-Level Extraction with the SFIA Framework",
+        "삼성전자, AI 시대 인사관리 “직무 대신 스킬로”",
+        "플랫폼 이용자 10명 중 7명 \"요금 인상·광고 전송 규제 필요”",
+        "Sieve and Sage: Efficient Distraction Filtering for Reliable RALM Abstention"
+      ],
+      "path_json": "archive/2026-10-02/10-46.json",
+      "path_md": "archive/2026-10-02/10-46.md"
+    },
     {
       "id": "2026-10-02_00-35",
       "date": "2026-10-02",
