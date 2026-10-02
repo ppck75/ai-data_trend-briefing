@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T05:03:59.154800+09:00",
+  "updated_at": "2026-10-03T07:07:21.858249+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-10-03T05:03:59.150477+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "7882fe904f78302734b1313333f300a0ad34fe2d36eb24a02e40cfec99d50658",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "published_at": "2026-10-03T00:19:50+09:00",
+      "entry_updated_at": "2026-10-03T00:19:50+09:00",
+      "fetched_at": "2026-10-03T07:07:21.470429+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261001123554",
       "published_at": "2026-10-01T12:46:13+09:00",
       "entry_updated_at": "2026-10-01T12:46:13+09:00",
-      "fetched_at": "2026-10-01T15:19:35.806904+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "3f5d989f3145f5599da7d6b50465393dd5ee1af3ab08cbd45b64c6edfa057d18",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "\"AI가 만든 정보, 일단 의심하세요”",
-      "summary": "[지디넷코리아]생성형 AI로 만든 가짜정보와 딥페이크 등 AI 악용 사례를 이용자가 직접 판별해보는 캠페인이 열린다.방송미디어통신위원회는 1011월까지 인스타그램과 유튜브 등 공식 SNS 채널에서 'AI 시대, 확인템 장착이 국룰!' 캠페인을 진행한다고 1일 밝혔다.캠페인은 생성형 AI 이용이 빠르게 늘면서 허위조작정보나 범죄 악용 가능성도 커지는 데 대응해 이용자의 정보 판별 능력을 높이기 위해 마련됐다. SNS와 생성형 AI 이용이 활발한 청소년과 MZ세대를 주요 대상으로 한다.10월에는 실제 온라인에서 접할 수 있는 사례를 활용한 '진짜 대 가짜' 퀴즈를 공개한다. 실제 정보와 AI 등을 활용해 조작한 정보를 함께 보여주고 이용자가 직접 진위를 판단하는 방식이다. 콘텐츠는 카드뉴스와 짧은 영상으로 제공된다.11월에는 자신이 사용하는 정보 확인 방법을 영상이나 카드뉴스로 공유하는 '확인템 장착 챌린지'를 진행한다. 별도 인증 사이트에 사진을 올리면 캠페인 배지가 합성되며, 이를…",
-      "url": "https://zdnet.co.kr/view/?no=20261001124600",
-      "published_at": "2026-10-01T12:46:00+09:00",
-      "entry_updated_at": "2026-10-01T12:46:00+09:00",
       "fetched_at": "2026-10-01T15:19:35.806904+09:00",
       "language": "ko",
       "importance_weight": 0.85,
