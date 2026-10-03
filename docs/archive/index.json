@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-03T10:20:19.723060+09:00",
+  "updated_at": "2026-10-03T18:22:02.579090+09:00",
   "archives": [
+    {
+      "id": "2026-10-03_17-35",
+      "date": "2026-10-03",
+      "time": "17:35",
+      "label": "2026-10-03 17:35",
+      "generated_at": "2026-10-03T18:21:42.752021+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "브랜드",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+        "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+        "한국 기업 파고드는 중국산 AI…'모델 종속' 경고등"
+      ],
+      "path_json": "archive/2026-10-03/17-35.json",
+      "path_md": "archive/2026-10-03/17-35.md"
+    },
     {
       "id": "2026-10-03_10-20",
       "date": "2026-10-03",
