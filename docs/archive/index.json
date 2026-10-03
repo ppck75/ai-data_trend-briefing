@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T23:55:23.662004+09:00",
+  "updated_at": "2026-10-03T10:20:19.723060+09:00",
   "archives": [
+    {
+      "id": "2026-10-03_10-20",
+      "date": "2026-10-03",
+      "time": "10:20",
+      "label": "2026-10-03 10:20",
+      "generated_at": "2026-10-03T10:20:00.401018+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "model",
+        "브랜드",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "은행권, 오픈소스 AI에이전트 해킹 가시화…\"국가적 AiPT 대비해야\"",
+        "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+        "AI 트랙터가 농사 짓는다...4단계 자율주행부터 온실용 휴머노이드까지",
+        "Open-sourcing AstaBrief, the fast report-generation model in Asta"
+      ],
+      "path_json": "archive/2026-10-03/10-20.json",
+      "path_md": "archive/2026-10-03/10-20.md"
+    },
     {
       "id": "2026-10-02_23-55",
       "date": "2026-10-02",
