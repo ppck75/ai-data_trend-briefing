@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T10:55:40.244162+09:00",
+  "updated_at": "2026-10-04T19:00:57.667951+09:00",
   "archives": [
+    {
+      "id": "2026-10-04_17-35",
+      "date": "2026-10-04",
+      "time": "17:35",
+      "label": "2026-10-04 17:35",
+      "generated_at": "2026-10-04T19:00:18.983700+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "분석",
+        "데이터",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "글로벌 통신사 투자, 기지국서 AI 컴퓨팅으로 향했다",
+        "현대차 뉴욕서 신형 ‘디 올 뉴 투싼’ 출격 ... SUV 첫 AI 에이전트 탑재",
+        "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "데이터 분석 에이전트를 만들며 배운 컨텍스트 설계",
+        "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴"
+      ],
+      "path_json": "archive/2026-10-04/17-35.json",
+      "path_md": "archive/2026-10-04/17-35.md"
+    },
     {
       "id": "2026-10-04_10-54",
       "date": "2026-10-04",
