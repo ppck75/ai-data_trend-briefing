@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-03T22:38:06.627326+09:00",
+  "updated_at": "2026-10-04T10:55:40.244162+09:00",
   "archives": [
+    {
+      "id": "2026-10-04_10-54",
+      "date": "2026-10-04",
+      "time": "10:54",
+      "label": "2026-10-04 10:54",
+      "generated_at": "2026-10-04T10:54:45.392208+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "분석",
+        "데이터",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "\"원하는 선수·장면만 골라본다”…세븐미닛, ‘7CUT’ 상용화",
+        "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+        "Arm, 엔비디아 에이전틱 AI 보안 플랫폼에 반도체 IP 지원",
+        "한국 기업 파고드는 중국산 AI…'모델 종속' 경고등",
+        "AutoSynthData: Generating Training Data for Enterprise Agents"
+      ],
+      "path_json": "archive/2026-10-04/10-54.json",
+      "path_md": "archive/2026-10-04/10-54.md"
+    },
     {
       "id": "2026-10-03_22-37",
       "date": "2026-10-03",
