@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-04T23:17:54.916514+09:00",
+  "updated_at": "2026-10-05T10:09:03.688666+09:00",
   "archives": [
+    {
+      "id": "2026-10-05_10-08",
+      "date": "2026-10-05",
+      "time": "10:08",
+      "label": "2026-10-05 10:08",
+      "generated_at": "2026-10-05T10:08:48.802234+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "분석",
+        "데이터",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "사람은 내리고 AI는 올린다…뒤집히는 통신망 공식",
+        "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "[AI는 지금] 챗GPT·클로드 추격할까…'제미나이4' 띄운 구글, 기술·가격·마케팅 총공세",
+        "The Agent Said It Was Done. The Database Disagreed.",
+        "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴"
+      ],
+      "path_json": "archive/2026-10-05/10-08.json",
+      "path_md": "archive/2026-10-05/10-08.md"
+    },
     {
       "id": "2026-10-04_23-17",
       "date": "2026-10-04",
