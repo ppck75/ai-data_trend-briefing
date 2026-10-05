@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-05T10:09:03.688666+09:00",
+  "updated_at": "2026-10-05T19:45:55.023154+09:00",
   "archives": [
+    {
+      "id": "2026-10-05_19-45",
+      "date": "2026-10-05",
+      "time": "19:45",
+      "label": "2026-10-05 19:45",
+      "generated_at": "2026-10-05T19:45:38.919112+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "APDMem: Agent-Controlled Progressive Disclosure for Query-Adaptive Long-Term Memory",
+        "CUEing User Simulators: Calibrated User Embeddings for Multi-Turn Benchmarking",
+        "\"품질 좋은 침대 추천해줘\"…AI, 시몬스 먼저 꼽았다",
+        "Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents",
+        "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders"
+      ],
+      "path_json": "archive/2026-10-05/19-45.json",
+      "path_md": "archive/2026-10-05/19-45.md"
+    },
     {
       "id": "2026-10-05_10-08",
       "date": "2026-10-05",
