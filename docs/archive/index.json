@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-06T19:39:01.984018+09:00",
+  "updated_at": "2026-10-07T00:23:57.327807+09:00",
   "archives": [
+    {
+      "id": "2026-10-07_00-23",
+      "date": "2026-10-07",
+      "time": "00:23",
+      "label": "2026-10-07 00:23",
+      "generated_at": "2026-10-07T00:23:28.171696+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "브랜드",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "AWS Well-Architected Agent 발표, 클라우드 환경을 최적화하기 위한 AI 기반 인텔리전스 (미리 보기)",
+        "Amazon S3 Vectors, 필터링된 검색 재현율을 높이는 메타데이터 사전 필터링 지원",
+        "휴머스온 \"고객 행동 읽고 AI가 마케팅 설계\"",
+        "APDMem: Agent-Controlled Progressive Disclosure for Query-Adaptive Long-Term Memory",
+        "\"숏폼도 AI가 뚝딱\"…버즈니, AI 7종으로 소상공인 공략"
+      ],
+      "path_json": "archive/2026-10-07/00-23.json",
+      "path_md": "archive/2026-10-07/00-23.md"
+    },
     {
       "id": "2026-10-06_19-38",
       "date": "2026-10-06",
