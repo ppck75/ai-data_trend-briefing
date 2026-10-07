@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:39:39.162325+09:00",
+  "updated_at": "2026-10-08T08:01:06.220741+09:00",
   "total_items": 200,
   "items": [
     {
@@ -160,6 +160,24 @@
       "fetched_at": "2026-10-08T02:53:56.128963+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "b077ae3baa4076b760bce8a73e251ef6fe6a5c70dfa0c663f9e37794c2611a27",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Multimodal open d1 decision models for the edge",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published_at": "2026-10-08T01:54:33+09:00",
+      "entry_updated_at": "2026-10-08T01:54:33+09:00",
+      "fetched_at": "2026-10-08T08:01:06.024589+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-10-06T14:57:59+09:00",
       "entry_updated_at": "2026-10-06T14:57:59+09:00",
       "fetched_at": "2026-10-06T16:09:45.910400+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b22c3a1ba445ae56d6d115f539108cff5be628c860cc6da86f9d2ec3f6108341",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "큐노바 \"하이브리드 SW가 ‘양자 경제’ 여는 핵심 승부처”",
-      "summary": "[지디넷코리아]양자 산업이 발전하기 위해 당장 활용 가능한 양자 자원으로 경제적 가치를 창출해야 하며, 다양한 컴퓨팅 하드웨어와 플랫폼을 유기적으로 연결하는 하이브리드 소프트웨어가 핵심 승부처가 될 것이라는 주장이 제기됐다.김재완 큐노바 전무는 6일 웨스틴조선 서울 파르나스 호텔 아틀라스홀에서 열린 AI 페스타 26 퀀텀포럼에서 “최근 AI와 양자 컴퓨터의 상호보완성이 양자 경제를 성장시킬 핵심 화두로 부상했다”며 “AI가 양자 시스템을 더욱 안정적으로 다듬어주면, 양자는 AI가 고전 컴퓨팅으로 해결하기 힘든 복잡한 연산을 보완해 준다”고 밝혔다.김 전무는 AI는 양자 컴퓨터의 오류 정정과 운영 자동화를 맡고, 양자 컴퓨터는 정밀 계산과 탐색 최적화를 담당하는 상호보완성을 강조했다.이어 AI와 양자를 원활하게 연결하는 하이브리드 소프트웨어 중요성을 강조했다. 새로운 컴퓨팅 플랫폼과 하드웨어가 잇따라 등장하면서 고객 환경이 다양해지고 QPU 생태계가 빠르게 변화하는 만큼, 이를 하나…",
-      "url": "https://zdnet.co.kr/view/?no=20261006133308",
-      "published_at": "2026-10-06T14:50:49+09:00",
-      "entry_updated_at": "2026-10-06T14:50:49+09:00",
-      "fetched_at": "2026-10-06T16:09:46.928310+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
