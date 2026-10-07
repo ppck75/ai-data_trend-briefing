@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-07T00:23:57.327807+09:00",
+  "updated_at": "2026-10-07T10:45:06.519311+09:00",
   "archives": [
+    {
+      "id": "2026-10-07_10-44",
+      "date": "2026-10-07",
+      "time": "10:44",
+      "label": "2026-10-07 10:44",
+      "generated_at": "2026-10-07T10:44:47.826815+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "브랜드",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "\"캠페인 기획 시간 7시간서 1시간으로”…블럭스, '반자동 모드' 추가",
+        "\"사람 동작 보고 스스로 배우는 로봇\"…롯데이노베이트, '코딩 없는 RX' 제시",
+        "AWS Well-Architected Agent 발표, 클라우드 환경을 최적화하기 위한 AI 기반 인텔리전스 (미리 보기)",
+        "태블릿을 없애자 생긴 문제",
+        "APDMem: Agent-Controlled Progressive Disclosure for Query-Adaptive Long-Term Memory"
+      ],
+      "path_json": "archive/2026-10-07/10-44.json",
+      "path_md": "archive/2026-10-07/10-44.md"
+    },
     {
       "id": "2026-10-07_00-23",
       "date": "2026-10-07",
