@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-08T19:51:35.153946+09:00",
+  "updated_at": "2026-10-09T00:48:42.177404+09:00",
   "archives": [
+    {
+      "id": "2026-10-09_00-48",
+      "date": "2026-10-09",
+      "time": "00:48",
+      "label": "2026-10-09 00:48",
+      "generated_at": "2026-10-09T00:48:11.861305+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "어피닛, 인도 OTT '지오핫스타'에 '트루밸런스' 다큐 공개",
+        "AI 탈옥·정보 유출 막는다…아이티센클로잇, 기업용 '가드레일' 공개",
+        "위앤유텍, 엘라스틱 에이전틱 AI 플랫폼 전시",
+        "GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대",
+        "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA"
+      ],
+      "path_json": "archive/2026-10-09/00-48.json",
+      "path_md": "archive/2026-10-09/00-48.md"
+    },
     {
       "id": "2026-10-08_19-50",
       "date": "2026-10-08",
