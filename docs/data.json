@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T05:17:51.279198+09:00",
+  "updated_at": "2026-10-10T07:33:52.557105+09:00",
   "total_items": 200,
   "items": [
     {
@@ -34,6 +34,24 @@
       "fetched_at": "2026-10-10T05:17:51.140939+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "a45cab2b414bcf3b6b5cf05d212dc1e471485898233d8e5642018dacd75a7864",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published_at": "2026-10-10T00:20:29+09:00",
+      "entry_updated_at": "2026-10-10T00:20:29+09:00",
+      "fetched_at": "2026-10-10T07:33:52.416486+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-10-07T19:03:54+09:00",
       "entry_updated_at": "2026-10-07T19:03:54+09:00",
       "fetched_at": "2026-10-07T20:14:52.129866+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "2084fd2bdf960d36934a96e16d446aa41f53db5e5cbc0c7a04b7e5e4c75b04a4",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "AWS, 데이터베이스 전환에 AI 투입…코드 변환·검증까지 자동화",
-      "summary": "[지디넷코리아]사람 손이 많이 필요했던 데이터베이스 전환 작업을 인공지능(AI)이 빠르게 자동화하고 있다. 코드 변환뿐 아니라 실제 데이터를 활용한 검증까지 자동으로 처리한다.장동훈 아마존웹서비스(AWS) 시니어 데이터베이스 스페셜리스트 솔루션즈 아키텍트는 7일 서울 코엑스에서 열린 'AI 페스타 2026' 퓨처 테크 컨퍼런스에서 오라클 데이터베이스 전환을 돕는 '오라클 모더나이제이션 액셀러레이터(OMA)'를 소개했다.장 아키텍트는 데이터베이스 전환을 기업 데이터팀이 부담스러워하는 작업 중 하나로 꼽았다. 데이터만 옮기는 게 아니라 기존 구조와 코드까지 새 시스템에 맞게 손봐야 하기 때문이다.그는 \"수백·수천 개의 SQL 코드와 데이터베이스 안에 저장된 수백 개 작업 절차를 새 시스템에 맞게 바꿔야 한다고 하면 데이터팀에서는 한숨부터 나올 수밖에 없다\"고 말했다.데이터베이스를 바꾸려면 데이터만 옮겨서는 안 된다. 기존 오라클 환경에서 사용하던 데이터베이스 질의 언어(SQL)와 애플…",
-      "url": "https://zdnet.co.kr/view/?no=20261007175109",
-      "published_at": "2026-10-07T18:13:45+09:00",
-      "entry_updated_at": "2026-10-07T18:13:45+09:00",
-      "fetched_at": "2026-10-07T20:14:53.431883+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
