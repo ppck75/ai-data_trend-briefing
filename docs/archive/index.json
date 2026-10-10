@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-10T00:30:56.904727+09:00",
+  "updated_at": "2026-10-10T10:52:46.961590+09:00",
   "archives": [
+    {
+      "id": "2026-10-10_10-52",
+      "date": "2026-10-10",
+      "time": "10:52",
+      "label": "2026-10-10 10:52",
+      "generated_at": "2026-10-10T10:52:25.149437+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "[AI 고속도로] 기업 AI도 프라이빗 시대…'모듈형 데이터센터'가 뜬다",
+        "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+        "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'",
+        "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
+        "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models"
+      ],
+      "path_json": "archive/2026-10-10/10-52.json",
+      "path_md": "archive/2026-10-10/10-52.md"
+    },
     {
       "id": "2026-10-10_00-30",
       "date": "2026-10-10",
