@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-10T10:52:46.961590+09:00",
+  "updated_at": "2026-10-10T19:04:13.258497+09:00",
   "archives": [
+    {
+      "id": "2026-10-10_17-35",
+      "date": "2026-10-10",
+      "time": "17:35",
+      "label": "2026-10-10 17:35",
+      "generated_at": "2026-10-10T19:03:55.463579+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다",
+        "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+        "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'",
+        "[AI 고속도로] 기업 AI도 프라이빗 시대…'모듈형 데이터센터'가 뜬다",
+        "Large Language Model-Assisted Preparation of Transportation Management Plans: A Case Study with WisDOT WisTMP System"
+      ],
+      "path_json": "archive/2026-10-10/17-35.json",
+      "path_md": "archive/2026-10-10/17-35.md"
+    },
     {
       "id": "2026-10-10_10-52",
       "date": "2026-10-10",
