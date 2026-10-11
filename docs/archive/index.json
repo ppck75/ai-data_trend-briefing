@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-11T19:14:50.956015+09:00",
+  "updated_at": "2026-10-12T00:01:59.752755+09:00",
   "archives": [
+    {
+      "id": "2026-10-12_00-01",
+      "date": "2026-10-12",
+      "time": "00:01",
+      "label": "2026-10-12 00:01",
+      "generated_at": "2026-10-12T00:01:41.340775+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "자동화"
+      ],
+      "integrated_titles": [
+        "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+        "Grammar Concept Annotation at Scale: Deployed Fine-Tuned Small Language Models Outperform Prompted Frontier Models",
+        "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
+        "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
+        "\"SIEM 모니터링 생성AI로 확대\"...로그프레소, 연동 앱 출시"
+      ],
+      "path_json": "archive/2026-10-12/00-01.json",
+      "path_md": "archive/2026-10-12/00-01.md"
+    },
     {
       "id": "2026-10-11_19-14",
       "date": "2026-10-11",
