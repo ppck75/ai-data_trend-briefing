@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-12T00:01:59.752755+09:00",
+  "updated_at": "2026-10-12T10:37:27.475134+09:00",
   "archives": [
+    {
+      "id": "2026-10-12_10-36",
+      "date": "2026-10-12",
+      "time": "10:36",
+      "label": "2026-10-12 10:36",
+      "generated_at": "2026-10-12T10:36:53.265150+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "자동화"
+      ],
+      "integrated_titles": [
+        "컬리N마트 성공 공식 통할까…토스·오아시스, 장보기 시장 승부수",
+        "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+        "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
+        "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
+        "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란"
+      ],
+      "path_json": "archive/2026-10-12/10-36.json",
+      "path_md": "archive/2026-10-12/10-36.md"
+    },
     {
       "id": "2026-10-12_00-01",
       "date": "2026-10-12",
