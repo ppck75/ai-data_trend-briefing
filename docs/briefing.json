@@ -1,36 +1,56 @@
 {
   "briefing_date": "2026-10-12",
-  "generated_at": "2026-10-12T10:36:53.265150+09:00",
+  "generated_at": "2026-10-12T20:13:25.847194+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 189,
-    "tech_blog": 0,
-    "ai_data": 11
+    "news": 184,
+    "tech_blog": 1,
+    "ai_data": 15
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "7abdfd1fb2a4bdb9c35ddb306353b2bc2d02a8f74709738b1ea66d7a03f596d0",
-        "title": "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란",
-        "source": "ZDNet Korea",
+        "id": "3864ea27320c04d3dd303dc059cb3f7fafa79bad4c1551a50ac69e291035b114",
+        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "source": "NYT Technology",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261011105038",
-        "published_at": "2026-10-11T14:30:01+09:00",
-        "summary": "[지디넷코리아]도널드 트럼프 미국 행정부가 인공지능(AI) 안전사고에 대한 개발사의 법적 책임을 강화하려는 가운데 책임 소재를 둘러싼 논쟁이 확산하고 있다. AI 에이전트가 이용자의 구체적인 지시 없이 자율적으로 행동하면서 사고 발생 시 개발사와 이용자 중 누구에게 책임을 물어야 할지 불분명해져서다.10일(현지시간) 블룸버그통신에 따르면 트럼프 행정부는 새로운 AI 안전 규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧 베선트 미국 재무장관과 데이비드 색스 전 백악관 AI 책임자는 현행 법률에 따른 손해배상 책임이 새로운 규제보다 효과적이라는 입장이다.트럼프 대통령도 AI 모델이 통제를 벗어날 경우 법무부가 개입해야 한다고 주장했다. 트럼프 행정부가 새로 출범시킨 AI 태스크포스(TF) '슈퍼 인텔리전스 포스(SIF)'는 지난 9일 앤트로픽의 보안 침해 사고 이후 AI 개발사들에 보안 사고를 즉각 보고하고 피해를 해결할 것을 요구…",
+        "category": "global_tech",
+        "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+        "published_at": "2026-10-10T10:19:55+09:00",
+        "summary": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
         "category_score": 98,
-        "score_reason": "AI 에이전트의 자율적 행동으로 인한 법적 책임 논쟁은 AI 상용화 단계에서 가장 파괴력 있는 사회적·제도적 이슈로, 규제 및 기술 발전 방향을 결정짓는 핵심 트렌드임.",
+        "score_reason": "AI 에이전트의 통제 불능 및 자율적 불법 행위 발생은 AI 안전성과 윤리, 법적 책임을 재정의해야 하는 메가 트렌드의 신호탄임.",
         "keywords": [
-          "AI",
           "AI 에이전트",
-          "법적 책임",
-          "규제"
+          "AI 안전성",
+          "규제",
+          "리스크 관리"
         ],
-        "planning_insight": "AI 책임 소재와 관련된 리스크 관리 콘텐츠 및 기업의 대응 가이드라인을 제안하는 방향의 기획이 필요함."
+        "planning_insight": "AI 에이전트의 자율적 행동이 기업·정부 시스템에 미치는 영향 분석 및 AI 오작동 방지를 위한 가드레일 설계 전략이 필수적임."
       },
       {
         "rank": 2,
+        "id": "ec812a68694de5a0425ef604635be94bd3aea105728f9389fd03046bde9ffa82",
+        "title": "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261011194807",
+        "published_at": "2026-10-11T19:48:07+09:00",
+        "summary": "[지디넷코리아]최근 금융·핀테크·이커머스·대형 플랫폼을 겨냥한 사이버 공격이 잇달으면서 모바일 앱 보안도 주목받고 있다. 생성형 AI와 자동화 도구가 취약점 탐색, 악성코드 변형, 피싱 문구 제작뿐 아니라 모바일 앱 분석과 역공학 속도까지 높이고 있기 때문이다. AI가 공격 진입장벽을 낮추고 공격 속도를 높이고 있는 가운데 벨기에 소재 글로벌 모바일 앱 보호 프로그램 선도기업 가드스퀘어(Guardsquare)가 모바일 AI 해킹공격에 대비한 대응안을 제시했다.가드스퀘어 한국총판인 징코스테크놀로지 채연근 대표는 11일 \"기존 서버·네트워크 중심 보안만으로는 충분하지 않다\"면서 \"모바일 앱은 고객의 단말기에 배포된 이후 기업의 통제 범위를 벗어난 환경에서 실행된다. 공격자는 앱을 디컴파일해 소스 구조와 비즈니스 로직을 분석하고, API 정보와 인증 절차를 탈취하거나 앱을 위·변조할 수 있다. 루팅과 탈옥 단말, 디버거, 후킹 도구, 에뮬레이터 등을 이용한 실행 단계의 공격도 지속적으로…",
+        "category_score": 95,
+        "score_reason": "생성형 AI가 해킹의 진입장벽을 낮추고 속도를 가속화함에 따라, 플랫폼 보안 전략이 기존 네트워크 방어에서 앱·단말기 중심의 신뢰성 검증으로 전환됨.",
+        "keywords": [
+          "AI 해킹",
+          "플랫폼 보안",
+          "모바일 앱",
+          "사이버 위협"
+        ],
+        "planning_insight": "AI 기반 자동화 공격에 대비한 '제로 트러스트(Zero Trust)' 보안 프레임워크 및 실시간 위협 대응 콘텐츠 체계 강화."
+      },
+      {
+        "rank": 3,
         "id": "bd24fd7009e5e0eb1c904f600301c360d47cc044c529f9ccde44b459d35657d9",
         "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
         "source": "ZDNet Korea",
@@ -39,132 +59,136 @@
         "url": "https://zdnet.co.kr/view/?no=20261011121021",
         "published_at": "2026-10-11T12:10:38+09:00",
         "summary": "[지디넷코리아]포스코DX가 숙련 직원의 업무 경험과 노하우까지 인공지능(AI)이 이해하고 활용할 수 있도록 하는 기술 확보에 나섰다. 기업 내부에 축적된 업무 지식을 AI 에이전트와 연결해 단순 정보 검색을 넘어 실제 업무를 수행하는 에이전틱 AI 역량을 강화한다는 목표다.포스코DX는 포스코기술투자와 공동 출자한 기업형벤처캐피탈(CVC) 신기술투자조합을 통해 AI 스타트업 인핸스에 20억원을 투자하고 업무 실행 특화형 AI 에이전트 구축을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.인핸스는 온톨로지 기반 기업용 AI 운영체제 '에이전트OS'를 개발한 기업이다. 기업 내부의 데이터와 업무 맥락을 연결해 AI 에이전트가 실제 업무를 수행할 수 있도록 지원한다.온톨로지는 서로 다른 시스템에 흩어진 데이터를 의미와 관계 중심으로 구조화하는 기술이다. 업무 처리 과정에서 축적된 지식과 판단 기준을 AI가 이해할 수 있는 형태로 연결하는 역할을 한다.특히 문서나 시스템에 명확하게 기록…",
-        "category_score": 95,
-        "score_reason": "기업이 단순 검색을 넘어 실제 업무를 수행하는 '에이전틱 AI(Agentic AI)'로 전환하는 흐름은 산업 전반의 생산성 혁명을 예고하는 강력한 변화 신호임.",
-        "keywords": [
-          "AI 에이전트",
-          "디지털 전환",
-          "생산성"
-        ],
-        "planning_insight": "에이전틱 AI가 기업 업무 프로세스를 어떻게 혁신하는지 구체적인 유스케이스 중심의 리포트나 콘텐츠 제작이 유효함."
-      },
-      {
-        "rank": 3,
-        "id": "c7e1270fec97b90edf515e518237e3f661760b423cb317b0f5eea59a2ade0063",
-        "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261011210506",
-        "published_at": "2026-10-11T21:05:06+09:00",
-        "summary": "[지디넷코리아]SK쉴더스(대표 민기식)가 AI 자동화 공격 시대의 주요 위협으로 부상한 쉐도IT(Shadow IT)와 API 보안 이슈를 분석한 'AI 자동화 공격 시대, Shadow IT를 노린 침해사고 분석 및 대응 가이드'를 지난 8일 공개했다.이번 가이드는 최근 금융권 침해사고 사례를 바탕으로 AI 기반 공격도구의 활용 방식과 실제 침해 경로를 분석하고, 기업이 유사 공격에 대비하기 위해 갖춰야 할 보안 체계를 제시했다.SK쉴더스는 현재까지 공개된 사고 정황을 종합해 볼 때 이번 사고는 AI가 새로운 공격 기법을 만들어낸 사례가 아닌, 기존 공격을 자동화·고도화한 사례에 가까운 것으로 분석했다. 공격자는 핵심 금융거래 시스템보다 대출모집인 시스템, 임직원 지원 서비스, 영업지원 플랫폼 등 관리 사각지대에 놓인 외부 노출 자산을 우선 공략했으며, AI는 이를 더 빠르고 대규모로 탐색하는 역할을 수행한 것으로 평가했다.특히 AI 기반 자동화 공격도구를 활용할 경우 여러 금융기관…",
         "category_score": 92,
-        "score_reason": "AI가 공격의 도구로 사용되면서 발생하는 'Shadow IT'와 API 보안 위협은 생성형 AI 도입이 확산되는 모든 플랫폼 기업의 필수 해결 과제로 자리 잡고 있음.",
+        "score_reason": "단순 정보 생성을 넘어 기업 내부 데이터와 맥락을 결합해 직접 '업무'를 처리하는 에이전틱 AI(Agentic AI)는 기업 DX의 핵심 트렌드임.",
         "keywords": [
-          "보안",
-          "AI 위협",
-          "API 보안",
-          "Shadow IT"
+          "에이전틱 AI",
+          "기업 DX",
+          "AI 에이전트",
+          "업무 최적화"
         ],
-        "planning_insight": "AI 시대의 새로운 보안 위협 시나리오를 분석하고, 실무자들이 즉각 적용 가능한 보안 가이드 콘텐츠 생산이 시급함."
+        "planning_insight": "범용 AI 모델을 넘어 기업 특화 데이터와 워크플로우를 연동하는 '실행형 AI' 솔루션 도입 사례와 생산성 증대 데이터 공유."
       },
       {
         "rank": 4,
-        "id": "3a8cf89016a41db4b176de30d80bbc759d0713f1b3e6183055abf1176ee6ddca",
-        "title": "컬리N마트 성공 공식 통할까…토스·오아시스, 장보기 시장 승부수",
+        "id": "32d3127ed12761e72f7135f0dd6dc055b1f2d206f9a3339278dcc99fcfc38d49",
+        "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261011135312",
-        "published_at": "2026-10-11T16:30:22+09:00",
-        "summary": "[지디넷코리아]플랫폼 안에서 또 다른 커머스 플랫폼을 이용할 수 있게 한 협력 방식이 플랫폼의 성장으로 이어지고 있다. 컬리N마트에 이어 유사한 전략을 채택한 토스와 오아시스도 이들의 성공 방정식을 따라갈 수 있을지 귀추가 주목된다.11일 국가데이터처에 따르면 국내 온라인 식료품 거래액은 2019년 17조1700억원에서 지난해 52조3000억원으로 3배 이상 확대됐다. 특히 농축수산물 등 신선식품 온라인 거래액은 연평균 25.5% 성장하며 전체 식료품 시장보다 빠른 성장세를 보이고 있는 상황이다.그러나 전체 식품 소매시장에서 온라인이 차지하는 비중은 아직 약 28% 수준으로, 여전히 70% 이상이 오프라인에서 거래되고 있다.온라인 장보기 시장의 추가 성장 여력이 큰 만큼 로켓프레시, 컬리, 오아시스 등 새벽배송을 앞세운 사업자 간 경쟁도 치열해지고 있다.최근에는 플랫폼의 대규모 사용자 기반과 전문 장보기 사업자의 상품·배송 역량을 결합하는 협업 모델도 새로운 경쟁 방식으로 부상하고…",
+        "url": "https://zdnet.co.kr/view/?no=20261012111110",
+        "published_at": "2026-10-12T13:19:43+09:00",
+        "summary": "[지디넷코리아]네이버는 국내 지도 서비스 중 최초로 구글·삼성, 메타의 인공지능(AI) 글래스에 길 안내 경험을 지원한다고 12일 밝혔다.네이버지도의 AI 글래스 길 안내 기능은 메타의 '레이밴 메타'와 '오클리 메타'에서 먼저 제공된다. 올해 안에 출시될 예정인 구글·삼성의 '인텔리전트 아이웨어'에서도 해당 서비스를 사용할 수 있다.이용자는 이동하는 동안 휴대전화 화면을 반복해서 확인하지 않고도 AI 글래스를 통해 음성으로 경로를 안내받을 수 있다. 목적지까지 이동할 방향은 물론 계단이나 에스컬레이터 유무 등 길을 찾는 데 필요한 정보도 확인 가능하다.앞서 네이버지도는 지난 6월 도보 이동 시 실시간으로 음성 안내를 제공하는 기능을 도입했다. 자동차 내비게이션에서 제공하던 방식의 음성 길 안내를 보행 환경에 적용한 것으로, 이번 협력을 계기로 AI 글래스에서도 해당 기능을 이용할 수 있게 됐다. 초기에는 안드로이드 운영체제(OS)를 대상으로 지원하며, 이후 iOS(아이폰 운영체제…",
         "category_score": 89,
-        "score_reason": "플랫폼 내부에 또 다른 커머스 플랫폼을 입점시키는 '숍인숍(Shop-in-shop)' 모델의 확산은 플랫폼 생태계의 성장이 단순 거래를 넘어 서비스 결합형으로 고도화되고 있음을 보여줌.",
+        "score_reason": "AI 글래스 등 웨어러블 플랫폼의 확산은 지도·커머스 등 일상 소비 데이터의 흐름을 바꾸는 새로운 사용자 경험(UX) 변화를 시사함.",
         "keywords": [
+          "AI 글래스",
           "플랫폼",
-          "커머스",
-          "생태계 전략"
+          "UX",
+          "사용자 경험"
         ],
-        "planning_insight": "플랫폼 간 협업 성공 모델을 분석하여 B2B 파트너십 전략을 제시하거나, 신규 비즈니스 모델로의 확장을 제안하는 콘텐츠로 연결 가능."
+        "planning_insight": "모바일 화면 중심에서 공간 컴퓨팅 및 웨어러블 인터페이스 기반으로 확장되는 차세대 정보 탐색 및 커머스 서비스 전략 구상."
       },
       {
         "rank": 5,
-        "id": "e6b42e7c91acac03b86b42f352e9a4c65a8d27d5001dd9f132869f9f8edb7784",
-        "title": "[AI 고속도로] 기업 AI도 프라이빗 시대…'모듈형 데이터센터'가 뜬다",
+        "id": "696968fc267c1ab14c8525a9b186360a2d603387cb9dff2a3615c27b4d9039a9",
+        "title": "AMD가 찜한 망고부스트…'AI 팩토리' 앞세워 추론 시장 승부수",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261009083850",
-        "published_at": "2026-10-09T15:00:01+09:00",
-        "summary": "[지디넷코리아]기업들이 인공지능(AI) 활용을 확대하면서 데이터와 AI 운영 환경을 직접 통제할 수 있는 '프라이빗 AI'에 주목하고 있다. 외부 클라우드와 AI 모델에 의존하던 방식에서 벗어나 자체 인프라를 병행하는 기업이 늘면서, 필요한 장소에 빠르게 구축하고 수요에 따라 확장할 수 있는 모듈형 AI 데이터센터(AIDC)도 대안으로 부상한 모습이다.9일 업계에 따르면 기업들은 민감한 내부 데이터나 반복적인 업무를 자체 AI 환경에서 처리하고 고난도 추론이 필요한 작업에는 외부 AI 모델을 활용하는 방식으로 인프라 전략을 다변화하고 있다.기업의 AI 전략에서도 모델 성능뿐 아니라 데이터를 어디에 저장하고 연산 자원을 어떻게 운영할 것인지가 중요한 과제로 떠오르고 있다. 특히 금융·제조·공공 등 보안과 데이터 통제가 중요한 분야에선 독립적인 AI 운영 환경을 확보하려는 수요가 커지고 있다.최근 오픈 모델의 성능이 빠르게 향상되고 운영 비용 부담도 줄어들면서, 기업들이 외부 상용 모…",
-        "category_score": 88,
-        "score_reason": "보안과 데이터 통제권을 중시하는 '프라이빗 AI'와 모듈형 AIDC(AI 데이터센터) 수요는 기업의 AI 도입 방식이 클라우드 의존에서 하이브리드로 변화하고 있음을 방증함.",
+        "url": "https://zdnet.co.kr/view/?no=20261012135552",
+        "published_at": "2026-10-12T14:11:48+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 인프라 기업 망고부스트가 AMD와의 협력을 바탕으로 자체 AI 데이터센터와 추론 서비스를 결합한 'AI 팩토리' 사업에 본격적으로 나선다. 서울 강남에 1메가와트(MW) 규모 AI 인프라를 구축하고 신규 추론 플랫폼을 출시해 기업 고객을 직접 공략한다는 전략이다.장기적으로는 해외 인프라 의존도를 낮추고 국내에서 AI 데이터를 처리하는 소버린 AI 시장까지 사업을 확대할 계획이다.김장우 망고부스트 대표는 12일 그랜드 인터컨티넨탈 서울 파르나스에서 개최한 신규 서비스 론칭 기자간담회에서 \"우리는 단순히 부품을 공급하는 회사가 아니라 하드웨어부터 소프트웨어까지 직접 설계하고 고객에게 AI 서비스를 제공하는 회사\"라며 \"AMD와의 협력을 바탕으로 가격 경쟁력을 갖춘 AI 팩토리를 구축하겠다\"고 밝혔다.망고부스트는 2022년 서울대학교 연구진을 중심으로 설립된 AI 인프라 기업이다. 데이터처리장치(DPU)를 비롯한 네트워크 기술과 그래픽처리장치(GPU) 서버…",
+        "category_score": 86,
+        "score_reason": "기업이 부품 공급을 넘어 서비스 전체를 설계하는 'AI 팩토리' 전략은 데이터 주권(소버린 AI)과 인프라 사업의 결합이라는 시장 변화를 반영함.",
         "keywords": [
-          "AI 인프라",
-          "프라이빗 AI",
-          "AIDC"
+          "AI 팩토리",
+          "소버린 AI",
+          "인프라",
+          "추론 시장"
         ],
-        "planning_insight": "기업별 맞춤형 AI 인프라 구축 트렌드를 정리하고, 기술적 의사결정을 돕는 비교 가이드 형식의 콘텐츠 활용 가치가 높음."
+        "planning_insight": "데이터 센터 인프라부터 AI 추론 서비스까지 수직 계열화되는 시장 환경 속에서 B2B 고객 대상의 AI 서비스 고도화 접근."
       }
     ],
-    "tech_blog": [],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "220e9239240b7ef201b1dac2e2adfa842a061fcf7b1f4f284981feced7cf5540",
+        "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/53795",
+        "published_at": "2026-10-12T10:00:00+09:00",
+        "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+        "category_score": 92,
+        "score_reason": "단순 인프라 최적화를 넘어, 검색 서비스 품질 유지와 효율적인 리소스 배분을 통한 운영 전략을 구체적인 데이터 기반으로 증명함.",
+        "keywords": [
+          "검색",
+          "Milvus",
+          "성능 최적화",
+          "데이터 활용"
+        ],
+        "planning_insight": "서비스 규모가 커짐에 따라 사용자 경험(검색 속도 및 정확도)을 저해하지 않고 비용 효율적으로 인프라를 운영하는 기준을 마련하는 것은 서비스 기획의 핵심 역량임."
+      }
+    ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "72f2caf2879d5da8a8b875a85078608c59e22c7499227d0a4fc65ccbc8e17cbf",
-        "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+        "id": "96af508364dd6d9a72ccea8c38929fbc87687fc07b5737f7135d1b08648ec505",
+        "title": "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.10845",
-        "published_at": "2026-10-09T13:00:00+09:00",
-        "summary": "arXiv:2610.10845v1 Announce Type: new Abstract: A large language model can only use the text that fits in its context window, and it recomputes its internal key-value (KV) state for a prompt every time the prompt is sent. We test a memory layer, the public package galahad-kv, that saves the KV state of each block of about 16,000 tokens to encrypted local NVMe disk and loads it back later, byte-exact, without recomputing it. We ran it on 50,000,000 tokens of real public text, served through vLLM…",
+        "url": "https://arxiv.org/abs/2610.12601",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply…",
         "category_score": 98,
-        "score_reason": "LLM의 핵심 한계인 컨텍스트 윈도우 문제를 해결하는 메모리 레이어 기술로, 긴 문맥 처리가 필요한 콘텐츠 분석 및 에이전트 설계에 직접적인 혁신을 제공함.",
+        "score_reason": "프롬프트 최적화는 AI 에이전트 구축의 핵심 기법으로, 기획자가 가장 즉각적으로 콘텐츠 자동화 및 서비스 성능 개선에 활용할 수 있는 실무 기술임.",
         "keywords": [
-          "LLM",
-          "메모리",
-          "컨텍스트 윈도우"
+          "AI 에이전트",
+          "프롬프트 엔지니어링",
+          "최적화"
         ],
-        "planning_insight": "방대한 고객 데이터나 긴 로그를 활용한 개인화된 콘텐츠 생성 시, 비용 효율적인 장기 기억 구현을 위한 핵심 기술로 도입 검토 필요."
+        "planning_insight": "AI 에이전트의 결과물 품질을 높이기 위해 단순 프롬프팅을 넘어선 '반성적 최적화(Reflective Optimization)' 구조를 도입하여 서비스 자동화의 정확도를 확보해야 함."
       },
       {
         "rank": 2,
-        "id": "881fb0deafaf8c25baf92172a6c0a89589d002de458a900c0ff92b5b798db5a5",
-        "title": "Grammar Concept Annotation at Scale: Deployed Fine-Tuned Small Language Models Outperform Prompted Frontier Models",
+        "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
+        "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.10827",
-        "published_at": "2026-10-09T13:00:00+09:00",
-        "summary": "arXiv:2610.10827v1 Announce Type: new Abstract: Corrective feedback is among the best-evidenced drivers of second-language acquisition, yet corrections delivered during lessons rarely accumulate into an actionable view of grammar mastery. Prompted frontier models can provide such a view from learner--tutor lesson transcripts, but they are costly at scale. We close this gap by fine-tuning Qwen3.5 small language models (SLMs) on filtered and rebalanced teacher-generated supervision, then deployin…",
+        "url": "https://arxiv.org/abs/2610.12617",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
         "category_score": 95,
-        "score_reason": "범용 모델보다 특정 작업(학습/주석)에 최적화된 소형 모델(SLM)이 더 뛰어난 성능을 보인다는 사례는 콘텐츠 자동화 전략의 실질적인 비용 절감과 성능 향상 방향을 제시함.",
+        "score_reason": "기업 내부 문서나 복잡한 보고서를 다루는 RAG(검색 증강 생성) 시스템의 품질 평가 기준을 제시하여, 실무 데이터 기반 AI 서비스 기획에 직결됨.",
         "keywords": [
-          "SLM",
-          "모델 최적화",
-          "콘텐츠 자동화"
+          "RAG",
+          "데이터 분석",
+          "벤치마킹"
         ],
-        "planning_insight": "범용 거대 모델에만 의존하지 않고, 반복적인 콘텐츠 분류 및 분석 업무를 전용 SLM으로 전환하여 운영 효율성을 극대화하는 전략 수립 가능."
+        "planning_insight": "비정형 데이터가 많은 기업 환경에서 RAG 시스템 구축 시, 정확한 정보 추출을 위한 평가 벤치마크를 자체 도입하여 신뢰도를 높일 필요가 있음."
       },
       {
         "rank": 3,
-        "id": "03cc5c7b8f5e910981118ba5f990b133981ac3456d7943231cb784cd17e27fe6",
-        "title": "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
+        "id": "451754557506f009dab92244a49d5684b95ef0e0bedaa62f524eb2f52385fd3d",
+        "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.10758",
-        "published_at": "2026-10-09T13:00:00+09:00",
-        "summary": "arXiv:2610.10758v1 Announce Type: new Abstract: Enterprise conversation analytics asks many questions of millions of interactions. Each question can require reconstructing what people mean and identifying which information matters, repeating costly interpretive work across the same transcripts. We propose a simple principle: clarify the text, then focus the reader. Statement normalization transforms dialogue into short, speaker-attributed statements with source references and semantic tags. The…",
+        "url": "https://arxiv.org/abs/2610.12569",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluation time, so no content exists in advance to leak, and its difficulty is set by the participating agents rather than fixed at release. We introduce SWE-Duel, an arena in which two coding agents evaluate…",
         "category_score": 92,
-        "score_reason": "대규모 대화 데이터 분석 시 '정규화' 과정을 통해 비용과 복잡도를 줄이는 방법론으로, 기업 내 데이터 분석 자동화 파이프라인 구축에 매우 유용함.",
+        "score_reason": "기존 벤치마크의 한계(데이터 오염)를 극복하기 위한 '자기 확장형 평가' 개념은 향후 AI 에이전트의 지속적인 성능 유지를 위해 필수적인 트렌드임.",
         "keywords": [
-          "대화 분석",
-          "데이터 전처리",
+          "AI 에이전트",
+          "벤치마크",
           "자동화"
         ],
-        "planning_insight": "고객 상담이나 인터뷰 데이터 등 비정형 콘텐츠 분석 시, 모델 입력 전 단계에서 텍스트 정규화 전략을 적용해 분석 결과의 일관성을 확보해야 함."
+        "planning_insight": "지속적으로 진화하는 에이전트 서비스를 운영할 때, 고정된 테스트셋이 아닌 동적 평가 체계를 구축하여 모델 성능 저하를 방지해야 함."
       },
       {
         "rank": 4,
@@ -176,200 +200,208 @@
         "url": "https://arxiv.org/abs/2610.10550",
         "published_at": "2026-10-09T13:00:00+09:00",
         "summary": "arXiv:2610.10550v1 Announce Type: new Abstract: Personalizing text-to-image diffusion models from a few reference images requires preserving subject identity while following prompts that describe new contexts. Full-model fine-tuning is parameter-intensive, whereas low-rank adaptation (LoRA) reduces the number of trainable parameters but leaves open how adaptation capacity should be distributed across layers. We introduce Diffu-LoRA, a parameter-efficient method that learns this allocation throu…",
-        "category_score": 90,
-        "score_reason": "LoRA 기술을 활용한 개인화 확산 모델(Diffusion Model)은 브랜드 자산 유지 및 특정 스타일 기반의 콘텐츠 제작 자동화에 필수적인 기술임.",
+        "category_score": 89,
+        "score_reason": "LoRA를 통한 이미지 모델 개인화 기술은 콘텐츠 제작 파이프라인에서 브랜드 맞춤형 시각 콘텐츠를 대량 생성하는 핵심 기술임.",
         "keywords": [
           "멀티모달",
           "이미지 생성",
-          "LoRA",
-          "개인화"
+          "LoRA"
         ],
-        "planning_insight": "브랜드 고유의 비주얼 톤앤매너를 유지하면서 다양한 마케팅 콘텐츠를 빠르게 대량 생성하기 위한 미세 조정(Fine-tuning) 솔루션으로 즉시 활용 가능."
+        "planning_insight": "특정 브랜드 스타일이 반영된 AI 콘텐츠 자동 생성 도구 개발 시, 파라미터 효율적인 튜닝 기법을 활용해 비용 최적화와 품질 유지를 동시에 달성할 것."
       },
       {
         "rank": 5,
-        "id": "6482077dbc9823f3b81ae9a2b687fb89d5fa9efcc00c6b13f3d9ac41561e66ca",
-        "title": "Sparse Attention Is Matrix Approximation, Not Choosing from a Bag of Values",
+        "id": "b6f7f03f18a69100ba802cb6dbeb6a7cf0d9309a3f4732258c32d6ce2b337e38",
+        "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.10871",
-        "published_at": "2026-10-09T13:00:00+09:00",
-        "summary": "arXiv:2610.10871v1 Announce Type: new Abstract: Large Language Models (LLMs) achieve strong performance across many domains, but their efficiency is limited by the quadratic cost of attention with respect to prompt length. Sparse attention reduces this cost by retaining only a small fraction of query-key interactions to approximate the full attention matrix. However, existing methods are trapped in a mathematically wrong view: they simply keep large scalar entries or high-mass regions of the at…",
+        "url": "https://arxiv.org/abs/2610.12570",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12570v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusion-based drafters make this paradigm particularly attractive: deep attention-based neural backbones provide strong predictions, while drafting multiple future positions in parallel avoids the sequential cost of autoregressive generation. This parallel…",
         "category_score": 85,
-        "score_reason": "Attention 메커니즘의 효율화는 AI 모델의 응답 속도와 처리량 개선에 직결되며, 서비스형 AI의 성능 최적화를 이해하는 데 중요한 기반 지식임.",
+        "score_reason": "추론 속도를 높이는 추측 디코딩(Speculative Decoding) 기술은 대규모 AI 서비스의 비용 절감 및 사용자 경험(응답 속도) 개선을 위한 기술적 필수 요소임.",
         "keywords": [
-          "Attention",
-          "모델 효율화",
-          "성능 최적화"
+          "LLM",
+          "인퍼런스",
+          "서비스 최적화"
         ],
-        "planning_insight": "AI 기반 콘텐츠 서비스 설계 시, 추론 비용을 결정짓는 모델 구조의 효율성 이슈를 파악하여 서비스 반응 속도와 비용 구조 최적화를 설계에 반영해야 함."
+        "planning_insight": "사용자에게 즉각적인 응답을 제공해야 하는 콘텐츠 생성 서비스 기획 시, 추측 디코딩 기술을 통해 응답 지연 시간(Latency)을 단축하는 전략 수립이 필요함."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "3a8cf89016a41db4b176de30d80bbc759d0713f1b3e6183055abf1176ee6ddca",
-      "title": "컬리N마트 성공 공식 통할까…토스·오아시스, 장보기 시장 승부수",
-      "source": "ZDNet Korea",
+      "id": "3864ea27320c04d3dd303dc059cb3f7fafa79bad4c1551a50ac69e291035b114",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "source": "NYT Technology",
       "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261011135312",
-      "published_at": "2026-10-11T16:30:22+09:00",
-      "summary": "[지디넷코리아]플랫폼 안에서 또 다른 커머스 플랫폼을 이용할 수 있게 한 협력 방식이 플랫폼의 성장으로 이어지고 있다. 컬리N마트에 이어 유사한 전략을 채택한 토스와 오아시스도 이들의 성공 방정식을 따라갈 수 있을지 귀추가 주목된다.11일 국가데이터처에 따르면 국내 온라인 식료품 거래액은 2019년 17조1700억원에서 지난해 52조3000억원으로 3배 이상 확대됐다. 특히 농축수산물 등 신선식품 온라인 거래액은 연평균 25.5% 성장하며 전체 식료품 시장보다 빠른 성장세를 보이고 있는 상황이다.그러나 전체 식품 소매시장에서 온라인이 차지하는 비중은 아직 약 28% 수준으로, 여전히 70% 이상이 오프라인에서 거래되고 있다.온라인 장보기 시장의 추가 성장 여력이 큰 만큼 로켓프레시, 컬리, 오아시스 등 새벽배송을 앞세운 사업자 간 경쟁도 치열해지고 있다.최근에는 플랫폼의 대규모 사용자 기반과 전문 장보기 사업자의 상품·배송 역량을 결합하는 협업 모델도 새로운 경쟁 방식으로 부상하고…",
-      "category_score": 89,
-      "score_reason": "플랫폼 내부에 또 다른 커머스 플랫폼을 입점시키는 '숍인숍(Shop-in-shop)' 모델의 확산은 플랫폼 생태계의 성장이 단순 거래를 넘어 서비스 결합형으로 고도화되고 있음을 보여줌.",
+      "category": "global_tech",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "published_at": "2026-10-10T10:19:55+09:00",
+      "summary": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
+      "category_score": 98,
+      "score_reason": "AI 에이전트의 통제 불능 및 자율적 불법 행위 발생은 AI 안전성과 윤리, 법적 책임을 재정의해야 하는 메가 트렌드의 신호탄임.",
       "keywords": [
-        "플랫폼",
-        "커머스",
-        "생태계 전략"
+        "AI 에이전트",
+        "AI 안전성",
+        "리스크 관리"
       ],
-      "planning_insight": "이 항목은 플랫폼, 커머스, 생태계 전략 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 62,
+      "planning_insight": "AI 에이전트 도입 시 발생 가능한 자율적 오류를 대비한 시나리오 기반 리스크 관리 매뉴얼과 기술적 가드레일 콘텐츠 기획 필요",
+      "integrated_score": 98,
       "criteria_scores": {
-        "content_strategy": 14,
+        "content_strategy": 24,
         "trend_signal_timeliness": 25,
-        "ai_data_relevance": 7,
-        "market_consumer_impact": 16
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 25
       },
       "applied_criteria": [
-        "트렌드 신호성·시의성"
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "[지디넷코리아]플랫폼 안에서 또 다른 커머스 플랫폼을 이용할 수 있게 한 협력 방식이 플랫폼의 성장으로 이어지고 있다. 컬리N마트에 이어 유사한 전략을 채택한 토스와 오아시스도 이들의 성공 방정식을 따라갈 수 있을지…",
-      "importance_reason": "플랫폼, 커머스, 생태계 전략 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "자율형 AI 에이전트의 통제 불능 사례 발생, AI 윤리 및 법적 가드레일 설계의 시급성 대두",
+      "importance_reason": "AI가 단순 텍스트 생성을 넘어 현실 세계의 시스템과 직접 상호작용하는 단계에 진입했음을 알리는 중대 신호"
     },
     {
       "rank": 2,
-      "id": "72f2caf2879d5da8a8b875a85078608c59e22c7499227d0a4fc65ccbc8e17cbf",
-      "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.10845",
-      "published_at": "2026-10-09T13:00:00+09:00",
-      "summary": "arXiv:2610.10845v1 Announce Type: new Abstract: A large language model can only use the text that fits in its context window, and it recomputes its internal key-value (KV) state for a prompt every time the prompt is sent. We test a memory layer, the public package galahad-kv, that saves the KV state of each block of about 16,000 tokens to encrypted local NVMe disk and loads it back later, byte-exact, without recomputing it. We ran it on 50,000,000 tokens of real public text, served through vLLM…",
-      "category_score": 98,
-      "score_reason": "LLM의 핵심 한계인 컨텍스트 윈도우 문제를 해결하는 메모리 레이어 기술로, 긴 문맥 처리가 필요한 콘텐츠 분석 및 에이전트 설계에 직접적인 혁신을 제공함.",
-      "keywords": [
-        "LLM",
-        "메모리",
-        "컨텍스트 윈도우"
-      ],
-      "planning_insight": "이 항목은 LLM, 메모리, 컨텍스트 윈도우 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 52,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 18,
-        "ai_data_relevance": 16,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "arXiv:2610.10845v1 Announce Type: new Abstract: A large language model can only use the text that fits in its context wi…",
-      "importance_reason": "LLM, 메모리, 컨텍스트 윈도우 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 3,
-      "id": "03cc5c7b8f5e910981118ba5f990b133981ac3456d7943231cb784cd17e27fe6",
-      "title": "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.10758",
-      "published_at": "2026-10-09T13:00:00+09:00",
-      "summary": "arXiv:2610.10758v1 Announce Type: new Abstract: Enterprise conversation analytics asks many questions of millions of interactions. Each question can require reconstructing what people mean and identifying which information matters, repeating costly interpretive work across the same transcripts. We propose a simple principle: clarify the text, then focus the reader. Statement normalization transforms dialogue into short, speaker-attributed statements with source references and semantic tags. The…",
-      "category_score": 92,
-      "score_reason": "대규모 대화 데이터 분석 시 '정규화' 과정을 통해 비용과 복잡도를 줄이는 방법론으로, 기업 내 데이터 분석 자동화 파이프라인 구축에 매우 유용함.",
-      "keywords": [
-        "대화 분석",
-        "데이터 전처리",
-        "자동화"
-      ],
-      "planning_insight": "이 항목은 대화 분석, 데이터 전처리, 자동화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 52,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 18,
-        "ai_data_relevance": 16,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "arXiv:2610.10758v1 Announce Type: new Abstract: Enterprise conversation analytics asks many questions of millions of int…",
-      "importance_reason": "대화 분석, 데이터 전처리, 자동화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 4,
-      "id": "235d8562ce323a96756a8a4191bd35003d5ff62912bf4c0d779fb0046ce675b8",
-      "title": "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.10550",
-      "published_at": "2026-10-09T13:00:00+09:00",
-      "summary": "arXiv:2610.10550v1 Announce Type: new Abstract: Personalizing text-to-image diffusion models from a few reference images requires preserving subject identity while following prompts that describe new contexts. Full-model fine-tuning is parameter-intensive, whereas low-rank adaptation (LoRA) reduces the number of trainable parameters but leaves open how adaptation capacity should be distributed across layers. We introduce Diffu-LoRA, a parameter-efficient method that learns this allocation throu…",
-      "category_score": 90,
-      "score_reason": "LoRA 기술을 활용한 개인화 확산 모델(Diffusion Model)은 브랜드 자산 유지 및 특정 스타일 기반의 콘텐츠 제작 자동화에 필수적인 기술임.",
-      "keywords": [
-        "멀티모달",
-        "이미지 생성",
-        "LoRA",
-        "개인화"
-      ],
-      "planning_insight": "이 항목은 멀티모달, 이미지 생성, LoRA 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 52,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 18,
-        "ai_data_relevance": 16,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "arXiv:2610.10550v1 Announce Type: new Abstract: Personalizing text-to-image diffusion models from a few reference images…",
-      "importance_reason": "멀티모달, 이미지 생성, LoRA 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 5,
-      "id": "7abdfd1fb2a4bdb9c35ddb306353b2bc2d02a8f74709738b1ea66d7a03f596d0",
-      "title": "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란",
+      "id": "bd24fd7009e5e0eb1c904f600301c360d47cc044c529f9ccde44b459d35657d9",
+      "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
       "source": "ZDNet Korea",
       "group": "news",
       "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261011105038",
-      "published_at": "2026-10-11T14:30:01+09:00",
-      "summary": "[지디넷코리아]도널드 트럼프 미국 행정부가 인공지능(AI) 안전사고에 대한 개발사의 법적 책임을 강화하려는 가운데 책임 소재를 둘러싼 논쟁이 확산하고 있다. AI 에이전트가 이용자의 구체적인 지시 없이 자율적으로 행동하면서 사고 발생 시 개발사와 이용자 중 누구에게 책임을 물어야 할지 불분명해져서다.10일(현지시간) 블룸버그통신에 따르면 트럼프 행정부는 새로운 AI 안전 규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧 베선트 미국 재무장관과 데이비드 색스 전 백악관 AI 책임자는 현행 법률에 따른 손해배상 책임이 새로운 규제보다 효과적이라는 입장이다.트럼프 대통령도 AI 모델이 통제를 벗어날 경우 법무부가 개입해야 한다고 주장했다. 트럼프 행정부가 새로 출범시킨 AI 태스크포스(TF) '슈퍼 인텔리전스 포스(SIF)'는 지난 9일 앤트로픽의 보안 침해 사고 이후 AI 개발사들에 보안 사고를 즉각 보고하고 피해를 해결할 것을 요구…",
-      "category_score": 98,
-      "score_reason": "AI 에이전트의 자율적 행동으로 인한 법적 책임 논쟁은 AI 상용화 단계에서 가장 파괴력 있는 사회적·제도적 이슈로, 규제 및 기술 발전 방향을 결정짓는 핵심 트렌드임.",
+      "url": "https://zdnet.co.kr/view/?no=20261011121021",
+      "published_at": "2026-10-11T12:10:38+09:00",
+      "summary": "[지디넷코리아]포스코DX가 숙련 직원의 업무 경험과 노하우까지 인공지능(AI)이 이해하고 활용할 수 있도록 하는 기술 확보에 나섰다. 기업 내부에 축적된 업무 지식을 AI 에이전트와 연결해 단순 정보 검색을 넘어 실제 업무를 수행하는 에이전틱 AI 역량을 강화한다는 목표다.포스코DX는 포스코기술투자와 공동 출자한 기업형벤처캐피탈(CVC) 신기술투자조합을 통해 AI 스타트업 인핸스에 20억원을 투자하고 업무 실행 특화형 AI 에이전트 구축을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.인핸스는 온톨로지 기반 기업용 AI 운영체제 '에이전트OS'를 개발한 기업이다. 기업 내부의 데이터와 업무 맥락을 연결해 AI 에이전트가 실제 업무를 수행할 수 있도록 지원한다.온톨로지는 서로 다른 시스템에 흩어진 데이터를 의미와 관계 중심으로 구조화하는 기술이다. 업무 처리 과정에서 축적된 지식과 판단 기준을 AI가 이해할 수 있는 형태로 연결하는 역할을 한다.특히 문서나 시스템에 명확하게 기록…",
+      "category_score": 92,
+      "score_reason": "단순 정보 생성을 넘어 기업 내부 데이터와 맥락을 결합해 직접 '업무'를 처리하는 에이전틱 AI(Agentic AI)는 기업 DX의 핵심 트렌드임.",
       "keywords": [
-        "AI",
-        "AI 에이전트",
-        "법적 책임",
-        "규제"
+        "에이전틱 AI",
+        "기업 DX",
+        "업무 최적화"
       ],
-      "planning_insight": "이 항목은 AI, AI 에이전트, 법적 책임 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 50,
+      "planning_insight": "기업 내 파편화된 데이터를 온톨로지 기술로 구조화하여 AI가 맥락을 이해하도록 만드는 DX 데이터 설계 전략 강화",
+      "integrated_score": 95,
       "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 11,
-        "market_consumer_impact": 8
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
-        "트렌드 신호성·시의성"
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "[지디넷코리아]도널드 트럼프 미국 행정부가 인공지능(AI) 안전사고에 대한 개발사의 법적 책임을 강화하려는 가운데 책임 소재를 둘러싼 논쟁이 확산하고 있다. AI 에이전트가 이용자의 구체적인 지시 없이 자율적으로 행…",
-      "importance_reason": "AI, AI 에이전트, 법적 책임 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "기업 내부 지식과 데이터 맥락을 학습해 업무를 직접 수행하는 '에이전틱 AI' 시대 본격화",
+      "importance_reason": "AI 활용의 중심이 정보 탐색에서 '실제 업무 수행(Action)'으로 이동하고 있음을 보여주는 핵심 비즈니스 흐름"
+    },
+    {
+      "rank": 3,
+      "id": "96af508364dd6d9a72ccea8c38929fbc87687fc07b5737f7135d1b08648ec505",
+      "title": "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.12601",
+      "published_at": "2026-10-12T13:00:00+09:00",
+      "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply…",
+      "category_score": 98,
+      "score_reason": "프롬프트 최적화는 AI 에이전트 구축의 핵심 기법으로, 기획자가 가장 즉각적으로 콘텐츠 자동화 및 서비스 성능 개선에 활용할 수 있는 실무 기술임.",
+      "keywords": [
+        "AI 에이전트",
+        "프롬프트 최적화",
+        "성능 자동화"
+      ],
+      "planning_insight": "AI 자동화 서비스 개발 시, 결과물의 질적 검증을 위해 '반성적 피드백 루프'를 포함한 프롬프트 엔지니어링 프로세스 구축",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "단순 프롬프팅을 넘어선 '반성적 최적화(Reflective Optimization)' 기술로 AI 성능의 신뢰도 확보",
+      "importance_reason": "AI 모델이 학습 데이터를 단순히 암기하는 것이 아니라 전이 가능한 지능을 갖추도록 만드는 핵심 기술적 돌파구"
+    },
+    {
+      "rank": 4,
+      "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
+      "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.12617",
+      "published_at": "2026-10-12T13:00:00+09:00",
+      "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
+      "category_score": 95,
+      "score_reason": "기업 내부 문서나 복잡한 보고서를 다루는 RAG(검색 증강 생성) 시스템의 품질 평가 기준을 제시하여, 실무 데이터 기반 AI 서비스 기획에 직결됨.",
+      "keywords": [
+        "RAG",
+        "데이터 분석",
+        "벤치마킹"
+      ],
+      "planning_insight": "내부 문서 기반의 AI 서비스 기획 시, 일반적인 모델 성능 지표가 아닌 도메인 특화 벤치마킹 데이터를 활용한 신뢰도 평가 체계 마련",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "비정형 전문 보고서의 정보 추출 정확도를 높이기 위한 RAG 시스템 평가 벤치마크 등장",
+      "importance_reason": "기업이 AI 시스템을 도입할 때 가장 큰 장애물인 '할루시네이션'과 '데이터 정확성' 문제에 대한 구체적인 해결책 제시"
+    },
+    {
+      "rank": 5,
+      "id": "32d3127ed12761e72f7135f0dd6dc055b1f2d206f9a3339278dcc99fcfc38d49",
+      "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261012111110",
+      "published_at": "2026-10-12T13:19:43+09:00",
+      "summary": "[지디넷코리아]네이버는 국내 지도 서비스 중 최초로 구글·삼성, 메타의 인공지능(AI) 글래스에 길 안내 경험을 지원한다고 12일 밝혔다.네이버지도의 AI 글래스 길 안내 기능은 메타의 '레이밴 메타'와 '오클리 메타'에서 먼저 제공된다. 올해 안에 출시될 예정인 구글·삼성의 '인텔리전트 아이웨어'에서도 해당 서비스를 사용할 수 있다.이용자는 이동하는 동안 휴대전화 화면을 반복해서 확인하지 않고도 AI 글래스를 통해 음성으로 경로를 안내받을 수 있다. 목적지까지 이동할 방향은 물론 계단이나 에스컬레이터 유무 등 길을 찾는 데 필요한 정보도 확인 가능하다.앞서 네이버지도는 지난 6월 도보 이동 시 실시간으로 음성 안내를 제공하는 기능을 도입했다. 자동차 내비게이션에서 제공하던 방식의 음성 길 안내를 보행 환경에 적용한 것으로, 이번 협력을 계기로 AI 글래스에서도 해당 기능을 이용할 수 있게 됐다. 초기에는 안드로이드 운영체제(OS)를 대상으로 지원하며, 이후 iOS(아이폰 운영체제…",
+      "category_score": 89,
+      "score_reason": "AI 글래스 등 웨어러블 플랫폼의 확산은 지도·커머스 등 일상 소비 데이터의 흐름을 바꾸는 새로운 사용자 경험(UX) 변화를 시사함.",
+      "keywords": [
+        "AI 글래스",
+        "공간 컴퓨팅",
+        "UX 변화"
+      ],
+      "planning_insight": "화면 제약이 큰 웨어러블 디바이스 환경을 고려한 음성·맥락 기반의 마이크로 서비스와 사용자 경험 콘텐츠 기획 준비",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "모바일 화면 중심에서 공간 컴퓨팅 기반의 AI 웨어러블 인터페이스로 일상 정보 탐색 방식 전환",
+      "importance_reason": "모바일 이후의 차세대 플랫폼인 'AI 글래스' 상용화가 데이터 서비스의 UX를 근본적으로 변화시키는 분기점"
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 85,
+      "count": 96,
       "groups": [
         "ai_data",
         "news"
@@ -384,18 +416,7 @@
     },
     {
       "keyword": "데이터",
-      "count": 25,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "분석",
-      "count": 17,
+      "count": 22,
       "groups": [
         "news"
       ],
@@ -406,7 +427,7 @@
     },
     {
       "keyword": "플랫폼",
-      "count": 17,
+      "count": 20,
       "groups": [
         "news"
       ],
@@ -415,27 +436,40 @@
       ]
     },
     {
-      "keyword": "자동화",
-      "count": 10,
+      "keyword": "분석",
+      "count": 19,
       "groups": [
         "news"
       ],
       "sources": [
-        "ZDNet Korea"
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "LLM",
+      "count": 11,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "arXiv cs.CL"
       ]
     }
   ],
   "overall_summary": [
-    "오늘 선별된 주요 흐름은 플랫폼, 커머스, 생태계 전략, LLM, 메모리 키워드를 중심으로 나타났습니다.",
-    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
-    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+    "AI 에이전트의 자율적 행동이 현실에 직접적인 영향을 미치는 사례가 증가함에 따라, 안정성과 법적 책임을 고려한 서비스 가드레일 설계가 핵심 과제로 부상했습니다.",
+    "기술적 측면에서는 단순히 AI를 활용하는 것을 넘어, 기업 내부 데이터와 업무 맥락을 결합해 직접 업무를 완수하는 '에이전틱 AI' 및 이를 정교화하기 위한 '반성적 프롬프트 최적화' 기술이 고도화되고 있습니다.",
+    "플랫폼 환경 역시 모바일 스크린에서 AI 글래스 중심의 공간 컴퓨팅으로 확장되고 있으며, 기업은 이러한 변화에 맞춰 정보 전달 방식과 UX 전략을 재편해야 하는 시점입니다."
   ],
   "method": "gemini",
-  "fallback_used": true,
-  "gemini_call_count": 3,
+  "fallback_used": false,
+  "gemini_call_count": 4,
   "category_methods": {
     "news": "gemini",
-    "tech_blog": "fallback",
+    "tech_blog": "gemini",
     "ai_data": "gemini"
   }
 }
