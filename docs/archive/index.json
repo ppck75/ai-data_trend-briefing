@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-12T20:13:40.061150+09:00",
+  "updated_at": "2026-10-13T03:08:54.438059+09:00",
   "archives": [
+    {
+      "id": "2026-10-13_03-08",
+      "date": "2026-10-13",
+      "time": "03:08",
+      "label": "2026-10-13 03:08",
+      "generated_at": "2026-10-13T03:08:10.041131+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "[ZD브리핑] 칼날 선 국감 공세 속… AI·전동화 미래 향해 달리는 산업계",
+        "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
+        "AMD가 찜한 망고부스트…'AI 팩토리' 앞세워 추론 시장 승부수",
+        "인젠트, '엑스퍼DB' AI로 DB 장애 예측…모니터링 기능 고도화",
+        "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports"
+      ],
+      "path_json": "archive/2026-10-13/03-08.json",
+      "path_md": "archive/2026-10-13/03-08.md"
+    },
     {
       "id": "2026-10-12_20-13",
       "date": "2026-10-12",
