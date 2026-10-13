@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-13T12:07:58.602878+09:00",
+  "updated_at": "2026-10-13T19:55:56.137930+09:00",
   "archives": [
+    {
+      "id": "2026-10-13_19-55",
+      "date": "2026-10-13",
+      "time": "19:55",
+      "label": "2026-10-13 19:55",
+      "generated_at": "2026-10-13T19:55:31.321323+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+        "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+        "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
+        "“발 편한 신발 찾아줘” AI에 요청하면 상품 골라줘",
+        "if(kakao)26, 온라인 라이브로 함께해요!"
+      ],
+      "path_json": "archive/2026-10-13/19-55.json",
+      "path_md": "archive/2026-10-13/19-55.md"
+    },
     {
       "id": "2026-10-13_12-35",
       "date": "2026-10-13",

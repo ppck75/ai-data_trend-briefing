@@ -1,6 +1,6 @@
 {
   "briefing_date": "2026-10-13",
-  "generated_at": "2026-10-13T12:07:32.988826+09:00",
+  "generated_at": "2026-10-13T19:55:31.321323+09:00",
   "source_total": 200,
   "category_counts": {
     "news": 187,
@@ -11,25 +11,6 @@
     "news": [
       {
         "rank": 1,
-        "id": "c25af2b7cbf364b05c621dff0e00aaafc8d6231a65c9d353d428e6a9431c5904",
-        "title": "AI 10분 사용, 인내심 떨어뜨린다…버클리 연구 결과",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261012141555",
-        "published_at": "2026-10-12T14:15:55+09:00",
-        "summary": "[지디넷코리아]AI 도움을 10분 정도만 받아도 혼자 문제를 풀 때 쉽게 포기한다는 연구 결과가 공개됐다. 카네기멜런대 그레이스 리우 연구원이 제1저자로, UC 버클리 인간호환AI센터(CHAI)의 브라이언 크리스천 연구원과 MIT, 옥스퍼드대, UCLA 연구진이 참여해 무작위 대조 시험 3건(참가자 총 1,222명)을 진행했다. 버클리 뉴스가 현지 시각 10월 9일 이 연구를 소개했다. 무작위 대조 시험은 참가자를 무작위로 나눠 조건별 결과를 비교하는 연구 방법이다.첫 실험에서는 354명이 분수 문제 15개를 푸는 과제를 수행했다. 한 집단은 스스로, 다른 집단은 챗GPT를 열어 둔 채 문제를 풀었고, AI 집단은 12번째 문제 이후 AI를 쓸 수 없게 했다. AI 집단은 처음에는 정답률이 더 높았지만, AI가 사라진 뒤 정답률이 떨어지고 문제를 건너뛰거나 아예 포기하는 비율이 증가했다. 분석 대상 307명 기준으로 AI 제거 후 정답률은 AI 집단 57%, 대조 집단 73%였고,…",
-        "category_score": 98,
-        "score_reason": "AI 기술이 인간의 인지 능력과 학습 행태를 근본적으로 변화시키는 임계점을 다룬 연구로, 향후 플랫폼 UX 및 교육·업무 전략의 패러다임 변화를 예고하는 강력한 트렌드 신호임.",
-        "keywords": [
-          "AI",
-          "소비자 행동",
-          "인지 편향"
-        ],
-        "planning_insight": "AI 의존도가 높아짐에 따라 인간의 문제 해결력을 보완하거나, 오히려 AI가 해결하지 못하는 '창의적 난제'에 집중하는 서비스 기획이 필요함."
-      },
-      {
-        "rank": 2,
         "id": "ec812a68694de5a0425ef604635be94bd3aea105728f9389fd03046bde9ffa82",
         "title": "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
         "source": "ZDNet Korea",
@@ -38,71 +19,94 @@
         "url": "https://zdnet.co.kr/view/?no=20261011194807",
         "published_at": "2026-10-11T19:48:07+09:00",
         "summary": "[지디넷코리아]최근 금융·핀테크·이커머스·대형 플랫폼을 겨냥한 사이버 공격이 잇달으면서 모바일 앱 보안도 주목받고 있다. 생성형 AI와 자동화 도구가 취약점 탐색, 악성코드 변형, 피싱 문구 제작뿐 아니라 모바일 앱 분석과 역공학 속도까지 높이고 있기 때문이다. AI가 공격 진입장벽을 낮추고 공격 속도를 높이고 있는 가운데 벨기에 소재 글로벌 모바일 앱 보호 프로그램 선도기업 가드스퀘어(Guardsquare)가 모바일 AI 해킹공격에 대비한 대응안을 제시했다.가드스퀘어 한국총판인 징코스테크놀로지 채연근 대표는 11일 \"기존 서버·네트워크 중심 보안만으로는 충분하지 않다\"면서 \"모바일 앱은 고객의 단말기에 배포된 이후 기업의 통제 범위를 벗어난 환경에서 실행된다. 공격자는 앱을 디컴파일해 소스 구조와 비즈니스 로직을 분석하고, API 정보와 인증 절차를 탈취하거나 앱을 위·변조할 수 있다. 루팅과 탈옥 단말, 디버거, 후킹 도구, 에뮬레이터 등을 이용한 실행 단계의 공격도 지속적으로…",
-        "category_score": 95,
-        "score_reason": "AI 해킹과 자동화 공격이 플랫폼·금융 보안의 핵심 위협으로 부상함. 모바일 앱 환경에서의 보안 신뢰성은 플랫폼 신뢰도와 직결되는 필수 생존 전략임.",
+        "category_score": 62,
+        "score_reason": "AI, 생성형 AI, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 보안",
-          "플랫폼",
-          "모바일 앱"
+          "AI",
+          "생성형 AI",
+          "커머스",
+          "이커머스",
+          "플랫폼"
         ],
-        "planning_insight": "AI 기반 공격에 대비한 '보안 중심의 서비스 설계'를 콘텐츠 마케팅의 신뢰 지표로 적극 활용할 필요가 있음."
+        "planning_insight": "이 항목은 AI, 생성형 AI, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "c313e27de83814b79a13cb5eee12eb23bf1e1f2be525ab615c181ceade1da474",
+        "title": "[ZD브리핑] 칼날 선 국감 공세 속… AI·전동화 미래 향해 달리는 산업계",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261011111122",
+        "published_at": "2026-10-11T11:24:50+09:00",
+        "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]국정감사가 본궤도에 오르며 산업·공공 부문 전반에 날 선 검증이 이어집니다. 구글·메타 등 글로벌 빅테크와 정유 4사 대표들이 증인으로 줄소환되며, 방송·통신 기관과 식약처, 국민연금 등 주요 공공기관을 향한 강도 높은 감사가 이번 주 내내 펼쳐집니다.국감장 밖에서는 인공지능(AI)과 첨단 기술을 앞세운 산업계의 굵직한 이벤트가 쏟아집니다. 'SEDEX 반도체대전' 개막과 정부·기업의 AI 신기술 발표가 잇따라 열리며 미래 청사진을 제시합니다. 여기에 전기차 라…",
+        "category_score": 59,
+        "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 3,
-        "id": "32d3127ed12761e72f7135f0dd6dc055b1f2d206f9a3339278dcc99fcfc38d49",
-        "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
-        "source": "ZDNet Korea",
+        "id": "27c0f0e055d1178b07f206754eff50b17f6e331c2e6eb0f09f3159b24b798b52",
+        "title": "“발 편한 신발 찾아줘” AI에 요청하면 상품 골라줘",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261012111110",
-        "published_at": "2026-10-12T13:19:43+09:00",
-        "summary": "[지디넷코리아]네이버는 국내 지도 서비스 중 최초로 구글·삼성, 메타의 인공지능(AI) 글래스에 길 안내 경험을 지원한다고 12일 밝혔다.네이버지도의 AI 글래스 길 안내 기능은 메타의 '레이밴 메타'와 '오클리 메타'에서 먼저 제공된다. 올해 안에 출시될 예정인 구글·삼성의 '인텔리전트 아이웨어'에서도 해당 서비스를 사용할 수 있다.이용자는 이동하는 동안 휴대전화 화면을 반복해서 확인하지 않고도 AI 글래스를 통해 음성으로 경로를 안내받을 수 있다. 목적지까지 이동할 방향은 물론 계단이나 에스컬레이터 유무 등 길을 찾는 데 필요한 정보도 확인 가능하다.앞서 네이버지도는 지난 6월 도보 이동 시 실시간으로 음성 안내를 제공하는 기능을 도입했다. 자동차 내비게이션에서 제공하던 방식의 음성 길 안내를 보행 환경에 적용한 것으로, 이번 협력을 계기로 AI 글래스에서도 해당 기능을 이용할 수 있게 됐다. 초기에는 안드로이드 운영체제(OS)를 대상으로 지원하며, 이후 iOS(아이폰 운영체제…",
-        "category_score": 92,
-        "score_reason": "AI 글래스라는 새로운 디바이스와 기존 지도 플랫폼의 결합은 온-오프라인 경험을 연결하는 옴니채널 커머스의 차세대 동력임.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12174474",
+        "published_at": "2026-10-13T15:13:55+09:00",
+        "summary": "이상훈 플래티어 대표 대화형 커머스 시장 공략 속도 생성형 AI가 구매 의도 분석해 소비자 취향에 맞는 상품 제안“무릎이 안 좋은데 하루 종일 서서 일해도 발이 안 아픈 신발 있을..",
+        "category_score": 58,
+        "score_reason": "AI, 생성형 AI, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 글래스",
-          "플랫폼",
-          "UX 혁신"
+          "AI",
+          "생성형 AI",
+          "커머스",
+          "소비자"
         ],
-        "planning_insight": "디스플레이 없는 음성 기반 길 안내가 향후 로컬 광고 및 오프라인 커머스 추천 모델로 확장될 가능성이 매우 높음."
+        "planning_insight": "이 항목은 AI, 생성형 AI, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "696968fc267c1ab14c8525a9b186360a2d603387cb9dff2a3615c27b4d9039a9",
-        "title": "AMD가 찜한 망고부스트…'AI 팩토리' 앞세워 추론 시장 승부수",
-        "source": "ZDNet Korea",
+        "id": "71ba16f2f37d2a8dcf28a623c85a23bc6d9102e45667d75d21a4a526864e9d76",
+        "title": "제조현장 쌓인 문서 AI가 활용한다…한국딥러닝, 제조업 AX 전문기업 선정",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261012135552",
-        "published_at": "2026-10-12T14:11:48+09:00",
-        "summary": "[지디넷코리아]인공지능(AI) 인프라 기업 망고부스트가 AMD와의 협력을 바탕으로 자체 AI 데이터센터와 추론 서비스를 결합한 'AI 팩토리' 사업에 본격적으로 나선다. 서울 강남에 1메가와트(MW) 규모 AI 인프라를 구축하고 신규 추론 플랫폼을 출시해 기업 고객을 직접 공략한다는 전략이다.장기적으로는 해외 인프라 의존도를 낮추고 국내에서 AI 데이터를 처리하는 소버린 AI 시장까지 사업을 확대할 계획이다.김장우 망고부스트 대표는 12일 그랜드 인터컨티넨탈 서울 파르나스에서 개최한 신규 서비스 론칭 기자간담회에서 \"우리는 단순히 부품을 공급하는 회사가 아니라 하드웨어부터 소프트웨어까지 직접 설계하고 고객에게 AI 서비스를 제공하는 회사\"라며 \"AMD와의 협력을 바탕으로 가격 경쟁력을 갖춘 AI 팩토리를 구축하겠다\"고 밝혔다.망고부스트는 2022년 서울대학교 연구진을 중심으로 설립된 AI 인프라 기업이다. 데이터처리장치(DPU)를 비롯한 네트워크 기술과 그래픽처리장치(GPU) 서버…",
-        "category_score": 89,
-        "score_reason": "AI 추론 인프라를 서비스화한 'AI 팩토리' 모델은 기업용 AI 시장의 수익화 구조를 바꾸는 중요한 변화임.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12174464",
+        "published_at": "2026-10-13T15:09:02+09:00",
+        "summary": "산업부 M.AX 전문기업 선정 제조문서 구조화 기술 인정받아 도면·BOM·공정매뉴얼 데이터화 문서 AI 운영 플랫폼도 출시한국딥러닝이 도면과 자재명세서(BOM)·공정 매뉴얼 등에 ..",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 팩토리",
-          "추론 시장",
-          "B2B 서비스"
+          "AI",
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "단순한 기술 도입을 넘어 '추론 비용 최적화'와 '인프라 내재화'가 기업의 AI 경쟁력으로 자리 잡을 것임."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "58af907d8fc0607bde7e8e21d79bfd90ef9f0c7123838e04ad7ca3d035397fb8",
-        "title": "[AI는 지금] 韓 캐릭터챗 쌍두마차, 청소년 이용에 안전장치 건다",
-        "source": "ZDNet Korea",
+        "id": "114a80829384b0725d02bcb9c117092b5fe7a52888a34b30c5ffe9d0fb227144",
+        "title": "케이엔엘소프트, SQL 품질관리 플랫폼 ‘aTops’ 금융권 공급 확대",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261012104704",
-        "published_at": "2026-10-12T12:30:38+09:00",
-        "summary": "[지디넷코리아]인공지능(AI) 캐릭터 채팅 서비스 업계에서 청소년 과몰입을 막기 위한 이용 제한 정책이 확산하고 있다. 뤼튼테크놀로지스의 '크랙'에 이어 스캐터랩의 '제타'도 하루 이용시간과 월 결제액에 한도를 두기로 했다. 청소년의 AI 캐릭터 채팅 이용 행태가 국정감사 쟁점으로 떠오른 가운데 업계의 이용자 보호 조치도 강화되는 모습이다.스캐터랩은 AI 인터랙티브 엔터테인먼트 플랫폼 '제타'에 청소년 기본 이용시간과 결제 한도를 연내 도입한다고 12일 밝혔다.이번 정책에 따라 청소년 이용자의 기본 이용시간은 하루 3시간, 기본 결제 한도는 월 10만원으로 설정된다. 이용시간이 한도에 가까워지면 휴식을 권하는 안내가 제공되며 한도에 도달하면 서비스 이용과 결제가 제한된다.스캐터랩은 국내외 디지털 서비스의 청소년 보호 사례를 검토하고 정부 부처 및 업계 관계자들과 이용자 보호 방안을 논의해 왔다. 이를 바탕으로 청소년 과몰입을 방지하기 위한 구체적인 이용 기준을 마련했다는 설명이다.…",
-        "category_score": 85,
-        "score_reason": "AI 캐릭터 챗봇의 과몰입 방지 정책은 AI 플랫폼의 윤리적 책임과 규제 준수가 소비자 경험을 어떻게 규정하는지 보여주는 사례임.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12173810",
+        "published_at": "2026-10-13T09:00:00+09:00",
+        "summary": "개발부터 운영까지 전 생애주기 통제, 생성형 인공지능(AI) 플랫폼으로 고도화데이터베이스 관리 시스템(DBMS) 관리 전문 기업 케이엔엘소프트(대표 이재남)는 독보적인 기술력을 갖..",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 윤리",
-          "캐릭터 챗봇",
-          "소비자 보호"
+          "AI",
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "플랫폼은 AI 서비스의 성장성뿐 아니라 '안전한 사용자 경험(UX)'을 브랜드 가치로 내세워야 하는 시점에 도달함."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -117,14 +121,14 @@
         "published_at": "2026-10-12T10:00:00+09:00",
         "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
         "category_score": 92,
-        "score_reason": "서비스의 핵심인 검색 품질을 유지하면서 성능 최적화(사이징 기준 수립)를 달성한 사례로, 사용자 경험과 인프라 효율성을 동시에 고려한 전략적 접근이 돋보임.",
+        "score_reason": "검색 서비스의 처리량 최적화 및 인프라 사이징 기준을 실무적 관점에서 명확히 제시함. 사용자 검색 경험과 인프라 효율성을 동시에 고려하는 제품 전략적 인사이트가 돋보임.",
         "keywords": [
-          "검색",
+          "검색 최적화",
           "Milvus",
-          "성능최적화",
-          "데이터"
+          "인프라 전략",
+          "처리량"
         ],
-        "planning_insight": "서비스 가용성과 검색 품질 사이의 트레이드오프를 데이터 기반으로 의사결정하는 과정은 대규모 서비스 기획 시 필수적인 리소스 운영 가이드라인을 제공함."
+        "planning_insight": "기술적 최적화를 통해 비용 효율성을 높이고, 대규모 트래픽 환경에서 검색 품질을 유지하는 아키텍처 의사결정 모델을 학습할 수 있음."
       },
       {
         "rank": 2,
@@ -137,13 +141,13 @@
         "published_at": "2026-10-12T00:00:00+09:00",
         "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)...",
         "category_score": 75,
-        "score_reason": "기업의 AI 기술 방향성과 플랫폼 전략을 파악할 수 있는 이벤트성 콘텐츠로, 서비스 기획자가 차기 기술 트렌드를 예측하는 데 유용한 구조를 가짐.",
+        "score_reason": "플랫폼의 기술 방향성과 AI 전략(Model & Agent)을 확인할 수 있는 홍보성 글임. 특정 서비스 기술의 심층 분석보다는 조직의 전략적 지향점을 파악하는 데 유용함.",
         "keywords": [
-          "AI",
+          "AI 전략",
           "플랫폼",
-          "기술전략"
+          "기술 컨퍼런스"
         ],
-        "planning_insight": "기술 컨퍼런스 의제를 통해 현재 플랫폼이 집중하고 있는 핵심 도메인과 사용자에게 제공하려는 미래 가치를 역으로 추적하여 콘텐츠 로드맵 구성에 참고 가능."
+        "planning_insight": "대형 플랫폼의 AI 전환 및 기술 로드맵을 통해 현재 기업이 집중하는 콘텐츠 및 서비스 전략의 방향을 유추할 수 있음."
       },
       {
         "rank": 3,
@@ -175,13 +179,13 @@
         "published_at": "2026-10-12T13:00:00+09:00",
         "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
         "category_score": 95,
-        "score_reason": "RAG의 핵심인 도메인 특화 데이터 처리 및 검색·생성 품질 평가를 다루어 실무 RAG 서비스 기획에 직접적인 인사이트를 제공함.",
+        "score_reason": "기업 내부 지식 관리 및 RAG 시스템 구축 시 필수적인 '문서 검색 및 답변 생성(Retrieval-Augmented Generation)'의 고도화를 직접적으로 다룸",
         "keywords": [
           "RAG",
-          "데이터셋",
-          "GeopoliticalQA"
+          "지식관리",
+          "문서분석"
         ],
-        "planning_insight": "복잡하고 비정형화된 보고서 데이터를 활용한 RAG 서비스 구현 시, 데이터 품질과 검색 전략을 고도화하는 벤치마킹 표준으로 활용 가능."
+        "planning_insight": "전문 보고서나 비정형 데이터 기반의 RAG 도입 시, 문서의 복잡성과 이질성을 처리하는 표준 벤치마크 모델로 활용 가능"
       },
       {
         "rank": 2,
@@ -194,13 +198,13 @@
         "published_at": "2026-10-12T13:00:00+09:00",
         "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply…",
         "category_score": 92,
-        "score_reason": "프롬프트 최적화는 기획자가 직접 실행 가능한 가장 비용 효율적인 에이전트 강화 방식임.",
+        "score_reason": "AI 에이전트의 핵심인 프롬프트 최적화 방법론을 제시하며, 실제 운영 환경에서의 성능 안정성을 높이는 기법을 다룸",
         "keywords": [
-          "에이전트",
-          "프롬프트 엔지니어링",
-          "최적화"
+          "AI에이전트",
+          "프롬프트엔지니어링",
+          "자동화"
         ],
-        "planning_insight": "AI 에이전트의 성능을 높이기 위해 RL(강화학습) 대신 인간이 읽을 수 있는 프롬프트 단위의 반복적 개선 전략을 도입하여 운영 효율을 극대화할 수 있음."
+        "planning_insight": "반복적인 프롬프트 수동 수정 대신 자동화된 최적화 프로토콜을 도입하여 에이전트 서비스의 운영 효율성을 극대화할 수 있음"
       },
       {
         "rank": 3,
@@ -213,13 +217,13 @@
         "published_at": "2026-10-12T13:00:00+09:00",
         "summary": "arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluation time, so no content exists in advance to leak, and its difficulty is set by the participating agents rather than fixed at release. We introduce SWE-Duel, an arena in which two coding agents evaluate…",
         "category_score": 88,
-        "score_reason": "코딩 및 업무 자동화 에이전트의 성능을 평가하는 방법론으로, 자동화 도구 도입 시 평가 기준 수립에 필수적임.",
+        "score_reason": "코드 생성 에이전트의 실무 적합성을 평가하는 기술로, 개발 자동화 및 에이전트 기반 업무 자동화 도구의 성능 검증에 필수적",
         "keywords": [
           "에이전트",
-          "벤치마크",
-          "자동화"
+          "자동화",
+          "소프트웨어공학"
         ],
-        "planning_insight": "정적 벤치마크의 한계를 극복하는 동적 생성 Task 접근법은 특정 업무 자동화 에이전트의 실질적 성능을 검증하는 프로세스 설계에 유용함."
+        "planning_insight": "정적 벤치마크를 넘어 실시간으로 작업이 생성되는 평가 방식은 향후 비즈니스 업무 자동화 툴의 신뢰성 확보를 위한 벤치마킹 지표가 됨"
       },
       {
         "rank": 4,
@@ -232,13 +236,13 @@
         "published_at": "2026-10-12T13:00:00+09:00",
         "summary": "arXiv:2610.12580v1 Announce Type: new Abstract: Event ontology is the foundational framework for defining events in a dataset. Event type induction generally involves domain experts who define guidelines for creating event types and their names based on the dataset's domain and scope. However, this process is resource-intensive in terms of annotation costs and is prone to human biases. To alleviate the need for manual event ontology creation, we propose the CLUE framework for event type inducti…",
         "category_score": 85,
-        "score_reason": "콘텐츠 분류 및 이벤트 인지 자동화는 대규모 데이터 분석 및 콘텐츠 추천 로직의 토대가 됨.",
+        "score_reason": "방대한 데이터셋의 이벤트를 자동으로 유형화하여 태깅하는 기술로, 콘텐츠 분석 및 데이터 마이닝 자동화에 매우 효과적",
         "keywords": [
-          "데이터 분석",
+          "데이터분석",
           "자동화",
-          "분류"
+          "콘텐츠분류"
         ],
-        "planning_insight": "수동 라벨링 비용을 최소화하고 대규모 데이터 내의 주요 사건(Event) 유형을 자동 유도하는 기술을 통해 맞춤형 콘텐츠 큐레이션 엔진 고도화 가능."
+        "planning_insight": "비정형 데이터 내의 핵심 사건(Event)을 자동 추출하여 콘텐츠 메타데이터를 구축함으로써 데이터 기반 마케팅 인사이트 도출 시간 단축 가능"
       },
       {
         "rank": 5,
@@ -251,54 +255,19 @@
         "published_at": "2026-10-12T13:00:00+09:00",
         "summary": "arXiv:2610.12570v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusion-based drafters make this paradigm particularly attractive: deep attention-based neural backbones provide strong predictions, while drafting multiple future positions in parallel avoids the sequential cost of autoregressive generation. This parallel…",
         "category_score": 82,
-        "score_reason": "LLM 서비스의 추론 속도와 사용자 경험(UX) 최적화에 직결되는 기술 변화임.",
+        "score_reason": "LLM 서비스의 응답 속도를 혁신적으로 높이는 추론 최적화 기술로, 사용자 경험(UX) 측면에서 매우 중요함",
         "keywords": [
           "LLM",
-          "추론",
-          "UX",
-          "Speculative Decoding"
+          "추론최적화",
+          "사용자경험"
         ],
-        "planning_insight": "사용자에게 실시간 답변을 제공해야 하는 인터랙티브 AI 서비스 기획 시, 추론 지연을 줄이기 위한 기술적 트렌드로 참고하여 기획 단계에서 성능 최적화 목표 설정."
+        "planning_insight": "실시간 대화형 AI 서비스나 대량의 콘텐츠 자동 생성이 필요한 환경에서 인프라 비용을 절감하고 서비스 응답 속도를 개선하는 핵심 기술"
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "c25af2b7cbf364b05c621dff0e00aaafc8d6231a65c9d353d428e6a9431c5904",
-      "title": "AI 10분 사용, 인내심 떨어뜨린다…버클리 연구 결과",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261012141555",
-      "published_at": "2026-10-12T14:15:55+09:00",
-      "summary": "[지디넷코리아]AI 도움을 10분 정도만 받아도 혼자 문제를 풀 때 쉽게 포기한다는 연구 결과가 공개됐다. 카네기멜런대 그레이스 리우 연구원이 제1저자로, UC 버클리 인간호환AI센터(CHAI)의 브라이언 크리스천 연구원과 MIT, 옥스퍼드대, UCLA 연구진이 참여해 무작위 대조 시험 3건(참가자 총 1,222명)을 진행했다. 버클리 뉴스가 현지 시각 10월 9일 이 연구를 소개했다. 무작위 대조 시험은 참가자를 무작위로 나눠 조건별 결과를 비교하는 연구 방법이다.첫 실험에서는 354명이 분수 문제 15개를 푸는 과제를 수행했다. 한 집단은 스스로, 다른 집단은 챗GPT를 열어 둔 채 문제를 풀었고, AI 집단은 12번째 문제 이후 AI를 쓸 수 없게 했다. AI 집단은 처음에는 정답률이 더 높았지만, AI가 사라진 뒤 정답률이 떨어지고 문제를 건너뛰거나 아예 포기하는 비율이 증가했다. 분석 대상 307명 기준으로 AI 제거 후 정답률은 AI 집단 57%, 대조 집단 73%였고,…",
-      "category_score": 98,
-      "score_reason": "AI 기술이 인간의 인지 능력과 학습 행태를 근본적으로 변화시키는 임계점을 다룬 연구로, 향후 플랫폼 UX 및 교육·업무 전략의 패러다임 변화를 예고하는 강력한 트렌드 신호임.",
-      "keywords": [
-        "AI 의존성",
-        "인지 편향",
-        "UX 기획"
-      ],
-      "planning_insight": "AI 보조 도구 기획 시 'AI가 해결하지 못하는 영역'을 남겨두는 전략이 필요하며, 사용자의 자기효능감을 유지시키는 UX 설계가 콘텐츠/서비스 차별화의 핵심이 될 것임.",
-      "integrated_score": 96,
-      "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "AI 사용 후 인간의 문제 해결력 및 인내심 저하 현상 확인",
-      "importance_reason": "AI가 인간의 지적 능력과 업무 패턴을 근본적으로 변화시키는 임계점을 시사하며, 이는 향후 모든 서비스 기획의 UX 설계 기준을 뒤흔드는 핵심 이슈임."
-    },
-    {
-      "rank": 2,
       "id": "4797bb0abfa9bf83daab6d66bcf96f8fc44f9bd06458e72e56206b09c1433cc6",
       "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
       "source": "토스 기술블로그",
@@ -308,27 +277,61 @@
       "published_at": "2026-10-12T10:00:00+09:00",
       "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
       "category_score": 92,
-      "score_reason": "서비스의 핵심인 검색 품질을 유지하면서 성능 최적화(사이징 기준 수립)를 달성한 사례로, 사용자 경험과 인프라 효율성을 동시에 고려한 전략적 접근이 돋보임.",
+      "score_reason": "검색 서비스의 처리량 최적화 및 인프라 사이징 기준을 실무적 관점에서 명확히 제시함. 사용자 검색 경험과 인프라 효율성을 동시에 고려하는 제품 전략적 인사이트가 돋보임.",
       "keywords": [
         "검색 최적화",
-        "데이터 인프라",
-        "성능 효율화"
+        "Milvus",
+        "인프라 전략"
       ],
-      "planning_insight": "성능 최적화는 단순히 개발의 영역이 아님. 데이터 기반 사이징 기준 수립 과정은 고도화된 추천/검색 서비스 기획을 위한 필수 리소스 운영 전략임.",
-      "integrated_score": 93,
+      "planning_insight": "기술 기반의 콘텐츠 기획(기술 블로그 형태) 및 검색 품질 개선 전략 수립 시 아키텍처 의사결정 모델로 활용 가능",
+      "integrated_score": 96,
       "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 23,
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
         "ai_data_relevance": 24,
         "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "토스증권의 Milvus 최적화를 통한 검색 효율성 개선 및 인프라 사이징 방법론",
+      "importance_reason": "대규모 트래픽 환경에서 기술적 최적화가 실제 서비스 경험과 비용 효율성에 직결됨을 보여주는 실무적 지표"
+    },
+    {
+      "rank": 2,
+      "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
+      "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.12617",
+      "published_at": "2026-10-12T13:00:00+09:00",
+      "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
+      "category_score": 95,
+      "score_reason": "기업 내부 지식 관리 및 RAG 시스템 구축 시 필수적인 '문서 검색 및 답변 생성(Retrieval-Augmented Generation)'의 고도화를 직접적으로 다룸",
+      "keywords": [
+        "RAG",
+        "지식관리",
+        "문서분석"
+      ],
+      "planning_insight": "기업용 AI 도구 도입 시 문서 처리 능력과 검색 품질을 검증하는 평가 프레임워크로 활용",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "대규모 검색 품질 유지 및 서버 처리량 극대화 기술 사례",
-      "importance_reason": "서비스 성장에 따른 데이터 부하와 검색 품질 사이의 트레이드오프를 데이터 기반으로 해결한 실무적 표준임."
+      "one_line_summary": "복잡한 비정형 보고서의 효율적 검색 및 답변 생성을 위한 GeopoliticalQA 벤치마크 도입",
+      "importance_reason": "기업 내부 지식 자산(보고서, 문서)을 AI로 활용하려는 기업들의 RAG 시스템 성능 평가 및 고도화 기준 제시"
     },
     {
       "rank": 3,
@@ -341,90 +344,91 @@
       "published_at": "2026-10-12T13:00:00+09:00",
       "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply…",
       "category_score": 92,
-      "score_reason": "프롬프트 최적화는 기획자가 직접 실행 가능한 가장 비용 효율적인 에이전트 강화 방식임.",
+      "score_reason": "AI 에이전트의 핵심인 프롬프트 최적화 방법론을 제시하며, 실제 운영 환경에서의 성능 안정성을 높이는 기법을 다룸",
       "keywords": [
-        "프롬프트 최적화",
-        "AI 에이전트",
-        "운영 효율"
+        "AI에이전트",
+        "프롬프트엔지니어링",
+        "자동화"
       ],
-      "planning_insight": "기획자는 AI 모델을 직접 튜닝하지 않고도, 프롬프트 최적화 프로토콜을 체계화함으로써 서비스의 응답 정확도와 비즈니스 정렬을 즉각 개선할 수 있음.",
-      "integrated_score": 91,
+      "planning_insight": "에이전트 서비스 기획 시, 사람이 작성하는 프롬프트 의존도를 낮추고 데이터 기반의 최적화 파이프라인 구축 가능",
+      "integrated_score": 90,
       "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 23,
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM 에이전트의 신뢰성과 범용성을 높이기 위한 자동화된 프롬프트 최적화 프로토콜 연구",
+      "importance_reason": "수동 프롬프트 작업의 한계를 극복하고, 실제 서비스 환경에서 안정적인 성능을 확보하기 위한 운영 효율화 방안"
+    },
+    {
+      "rank": 4,
+      "id": "27c0f0e055d1178b07f206754eff50b17f6e331c2e6eb0f09f3159b24b798b52",
+      "title": "“발 편한 신발 찾아줘” AI에 요청하면 상품 골라줘",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12174474",
+      "published_at": "2026-10-13T15:13:55+09:00",
+      "summary": "이상훈 플래티어 대표 대화형 커머스 시장 공략 속도 생성형 AI가 구매 의도 분석해 소비자 취향에 맞는 상품 제안“무릎이 안 좋은데 하루 종일 서서 일해도 발이 안 아픈 신발 있을..",
+      "category_score": 58,
+      "score_reason": "AI, 생성형 AI, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "생성형 AI",
+        "커머스"
+      ],
+      "planning_insight": "이커머스 및 서비스 기획 시 챗봇을 단순 상담용이 아닌 '상품 큐레이션 도구'로 전환하는 전략적 인사이트 도출",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 20,
         "market_consumer_impact": 22
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "강화학습 대신 읽기 쉬운 프롬프트로 에이전트 성능을 개선하는 효율적 방법론",
-      "importance_reason": "RL(강화학습)의 복잡성을 피해 실무자가 직접 제어 가능한 '인간 친화적 최적화' 모델을 제시함."
-    },
-    {
-      "rank": 4,
-      "id": "32d3127ed12761e72f7135f0dd6dc055b1f2d206f9a3339278dcc99fcfc38d49",
-      "title": "\"AI 글래스가 길도 찾아준다\"…네이버지도, 구글·삼성·메타와 맞손",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261012111110",
-      "published_at": "2026-10-12T13:19:43+09:00",
-      "summary": "[지디넷코리아]네이버는 국내 지도 서비스 중 최초로 구글·삼성, 메타의 인공지능(AI) 글래스에 길 안내 경험을 지원한다고 12일 밝혔다.네이버지도의 AI 글래스 길 안내 기능은 메타의 '레이밴 메타'와 '오클리 메타'에서 먼저 제공된다. 올해 안에 출시될 예정인 구글·삼성의 '인텔리전트 아이웨어'에서도 해당 서비스를 사용할 수 있다.이용자는 이동하는 동안 휴대전화 화면을 반복해서 확인하지 않고도 AI 글래스를 통해 음성으로 경로를 안내받을 수 있다. 목적지까지 이동할 방향은 물론 계단이나 에스컬레이터 유무 등 길을 찾는 데 필요한 정보도 확인 가능하다.앞서 네이버지도는 지난 6월 도보 이동 시 실시간으로 음성 안내를 제공하는 기능을 도입했다. 자동차 내비게이션에서 제공하던 방식의 음성 길 안내를 보행 환경에 적용한 것으로, 이번 협력을 계기로 AI 글래스에서도 해당 기능을 이용할 수 있게 됐다. 초기에는 안드로이드 운영체제(OS)를 대상으로 지원하며, 이후 iOS(아이폰 운영체제…",
-      "category_score": 92,
-      "score_reason": "AI 글래스라는 새로운 디바이스와 기존 지도 플랫폼의 결합은 온-오프라인 경험을 연결하는 옴니채널 커머스의 차세대 동력임.",
-      "keywords": [
-        "AI 글래스",
-        "옴니채널",
-        "로컬 경험"
-      ],
-      "planning_insight": "디스플레이 없는 음성 기반 AI 인터페이스는 '지역 기반 콘텐츠 큐레이션'의 새로운 전장임. 온-오프라인을 잇는 로컬 커머스 전략 재설계가 필요함.",
-      "integrated_score": 88,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 21,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "네이버-글로벌 빅테크 연합, AI 글래스 기반 보행 길 안내 서비스 확대",
-      "importance_reason": "스마트폰을 넘어선 포스트 모바일 환경의 시작점이며, 오프라인 실생활 데이터와 연결되는 새로운 광고/정보 플랫폼의 등장을 예고함."
+      "one_line_summary": "구매 의도를 분석하여 상품을 제안하는 대화형 커머스 시장의 가속화",
+      "importance_reason": "사용자의 자연어 질문이 실제 구매 전환으로 이어지는 인터페이스의 변화를 잘 보여주는 시장 트렌드"
     },
     {
       "rank": 5,
-      "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
-      "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.12617",
-      "published_at": "2026-10-12T13:00:00+09:00",
-      "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
-      "category_score": 95,
-      "score_reason": "RAG의 핵심인 도메인 특화 데이터 처리 및 검색·생성 품질 평가를 다루어 실무 RAG 서비스 기획에 직접적인 인사이트를 제공함.",
+      "id": "7b66ad2190f99e9ea6eaf85d9b5e6fd672e3b930adb4699e399c6cd990b65172",
+      "title": "if(kakao)26, 온라인 라이브로 함께해요!",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/839",
+      "published_at": "2026-10-12T00:00:00+09:00",
+      "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)...",
+      "category_score": 75,
+      "score_reason": "플랫폼의 기술 방향성과 AI 전략(Model & Agent)을 확인할 수 있는 홍보성 글임. 특정 서비스 기술의 심층 분석보다는 조직의 전략적 지향점을 파악하는 데 유용함.",
       "keywords": [
-        "RAG",
-        "도메인 지식",
-        "데이터 벤치마크"
+        "AI 전략",
+        "플랫폼",
+        "기술 컨퍼런스"
       ],
-      "planning_insight": "단순 문서 업로드를 넘어, 고도의 도메인 지식이 요구되는 RAG 서비스 기획 시 데이터셋 평가 전략이 곧 서비스의 품질 경쟁력이 될 것임.",
-      "integrated_score": 87,
+      "planning_insight": "플랫폼 기업의 신규 기능 및 정책 변경 시 콘텐츠 기획이나 서비스 마케팅 방향성을 수립하는 레퍼런스로 활용",
+      "integrated_score": 82,
       "criteria_scores": {
-        "content_strategy": 22,
+        "content_strategy": 21,
         "trend_signal_timeliness": 21,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 21
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
-        "AI·데이터 관련성",
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "전문적인 전략 보고서 기반의 RAG 성능 측정을 위한 벤치마크 데이터셋 공개",
-      "importance_reason": "정확도가 생명인 B2B/전문 영역 RAG 구현 시, 실무적인 평가 기준(Benchmark)이 마련되었다는 점이 핵심적임."
+      "one_line_summary": "if(kakao)26 컨퍼런스를 통한 카카오의 AI 에이전트 및 기술 로드맵 공개",
+      "importance_reason": "빅테크 기업의 전략적 방향성(Model & Agent)을 파악하여 향후 플랫폼 비즈니스의 생태계 변화 예측 가능"
     }
   ],
   "hot_keywords": [
@@ -446,7 +450,7 @@
     },
     {
       "keyword": "플랫폼",
-      "count": 22,
+      "count": 26,
       "groups": [
         "news"
       ],
@@ -457,7 +461,7 @@
     },
     {
       "keyword": "데이터",
-      "count": 20,
+      "count": 24,
       "groups": [
         "news"
       ],
@@ -468,7 +472,7 @@
     },
     {
       "keyword": "분석",
-      "count": 20,
+      "count": 17,
       "groups": [
         "news"
       ],
@@ -478,26 +482,30 @@
       ]
     },
     {
-      "keyword": "콘텐츠",
+      "keyword": "model",
       "count": 9,
       "groups": [
-        "news"
+        "ai_data",
+        "news",
+        "tech_blog"
       ],
       "sources": [
-        "ZDNet Korea"
+        "NYT Technology",
+        "arXiv cs.CL",
+        "카카오 기술블로그"
       ]
     }
   ],
   "overall_summary": [
-    "AI가 단순 업무 보조를 넘어 인지 능력 및 인간의 행동 패턴 자체를 재구성하고 있어, 이에 대응하는 '안전한 사용자 경험' 기획이 필수적임.",
-    "기술의 복잡성이 증가함에 따라 고성능을 유지하기 위한 인프라 최적화와 정확성을 검증하는 벤치마킹 표준 수립이 실무의 핵심 과제로 부상함.",
-    "모바일 중심 플랫폼에서 AI 글래스 등 차세대 인터페이스로의 전환이 가속화되며, 오프라인과 연결된 새로운 데이터 활용 모델이 주목받고 있음."
+    "AI 모델의 성능 검증과 기술적 최적화가 비즈니스 효율을 결정짓는 핵심 지표로 부상하고 있습니다.",
+    "커머스 영역에서는 대화형 AI가 단순 챗봇을 넘어 실질적인 상품 큐레이션 및 매출 전환 도구로 진화하고 있습니다.",
+    "빅테크 중심의 '에이전트' 전략과 기술 내재화 경쟁이 실무적 인프라 개선 및 RAG 고도화로 구체화되고 있습니다."
   ],
   "method": "gemini",
-  "fallback_used": false,
+  "fallback_used": true,
   "gemini_call_count": 4,
   "category_methods": {
-    "news": "gemini",
+    "news": "fallback",
     "tech_blog": "gemini",
     "ai_data": "gemini"
   }
