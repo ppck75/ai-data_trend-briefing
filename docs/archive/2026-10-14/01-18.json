@@ -1,0 +1,518 @@
+{
+  "briefing_date": "2026-10-14",
+  "generated_at": "2026-10-14T01:18:17.002215+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 186,
+    "tech_blog": 4,
+    "ai_data": 10
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "5bddbb3d338f6182079bdce7781720338ce974ac98994887f2720c2325fd4e5c",
+        "title": "AI 에이전트 위험 사전에 잡는다…카카오, 세이프티 장치 마련 속도",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261013144159",
+        "published_at": "2026-10-13T15:22:00+09:00",
+        "summary": "[지디넷코리아]카카오가 행동하는 인공지능인 AI 에이전트 시대를 맞아 AI 리스크를 감지·평가·대응하는 체계를 구축하고, 위험을 탐지할 수 있는 기술적 조치를 마련해 빠른 시일 내 서비스에 적용할 것이라는 포부를 밝혔다.김경훈 AI 세이프티 리더는 13일 경기도 용인시에서 열린 개발자 컨퍼런스 ‘이프카카오(if(kakao)26)’에서 “AI에 대한 리스크를 식별하고 이를 사전에 판단하는 것은 단 하나의 부서에서만 할 수 없다”며 기존 기능 조직과 TF를 구성해 AI 리스크를 관리하는 방법을 소개했다.허브 역할을 하는 AI 세이프티는 AI 서비스에 어떤 리스크가 있을지 사전에 판단하고, 이를 바탕으로 검토 의견을 회신하는 조직이다. 서비스 부서는 전달된 가이드라인을 기반으로 서비스를 개선한다.이러한 과정을 거치면서 리스크가 수용 가능한 수준에 다다르면 AI 세이프티 조직은 보고를 올린다. 전사 리스크 관리 조직의 승인을 받고 서비스를 배포하지만, 모든 서비스가 이 같은 과정을 거치기…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트 시대의 필수 과제인 리스크 관리 및 안전장치(Safety) 체계 구축을 다루고 있어, 기술 도입을 넘어선 산업 윤리 및 플랫폼 신뢰성 확보라는 거대 트렌드를 관통함.",
+        "keywords": [
+          "AI 에이전트",
+          "AI 세이프티",
+          "리스크 관리"
+        ],
+        "planning_insight": "AI 에이전트 도입 기업들을 위한 'AI 신뢰성 검증 및 거버넌스 가이드' 콘텐츠 전략 수립 필요."
+      },
+      {
+        "rank": 2,
+        "id": "27c0f0e055d1178b07f206754eff50b17f6e331c2e6eb0f09f3159b24b798b52",
+        "title": "“발 편한 신발 찾아줘” AI에 요청하면 상품 골라줘",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12174474",
+        "published_at": "2026-10-13T15:13:55+09:00",
+        "summary": "이상훈 플래티어 대표 대화형 커머스 시장 공략 속도 생성형 AI가 구매 의도 분석해 소비자 취향에 맞는 상품 제안“무릎이 안 좋은데 하루 종일 서서 일해도 발이 안 아픈 신발 있을..",
+        "category_score": 95,
+        "score_reason": "생성형 AI를 활용한 개인화된 커머스 경험의 진화를 보여줌. 단순 검색을 넘어 구매 의도 분석을 통한 큐레이션은 향후 모든 커머스 플랫폼의 표준 기능이 될 강력한 신호임.",
+        "keywords": [
+          "생성형 AI",
+          "커머스",
+          "구매 의도 분석"
+        ],
+        "planning_insight": "대화형 커머스 시대의 '고객 페르소나별 AI 추천 시나리오' 연구 및 콘텐츠 적용."
+      },
+      {
+        "rank": 3,
+        "id": "41501353369f9f957461df9e295b253a0928faad8934ac99db6d3d319cd6ea8f",
+        "title": "지멘스, 신규 에이전틱 플랫폼 공개...반도체 등 제조 AX 겨냥",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261013134348",
+        "published_at": "2026-10-13T15:15:23+09:00",
+        "summary": "[지디넷코리아]지멘스가 차세대 엔터프라이즈 에이전틱 시스템 '인텔리전스 센터 X'로 기업 인공지능 전환(AX) 시장을 겨냥한다. 메모리 반도체와 배터리, 디스플레이 등 산업이 1차 타깃이다. 지멘스는 13일 서울 강남 조선 팰리스에서 기자간담회를 열고, 기업용 인공지능(AI) 애플리케이션 확장을 위한 신규 에이전틱 플랫폼 인텔리전스 센터 X를 공개했다. AI 도입이 늘고 있지만 대다수 기업이 투자 대비 가치(ROI)를 창출하지 못하는 원인 진단과 기술 해법을 제시했다. 사이먼 게린 지멘스 최고기술책임자(CTO)는 기조발표에서 올해 글로벌 AI 시장 투자 규모가 2조 5000억달러(약 3360조원)에 달하지만 실질적으로 수익이 늘어난 기업은 전체의 6%에 불과하다고 지적했다. 게린 CTO는 \"기업들이 추진하는 AI 파일럿 프로젝트 중 74%는 양산 단계에 이르지 못한 채 폐기됐다\"고 설명했다.그는 \"조사 대상 직장인의 65%는 AI가 개인 업무에 도움이 된다고 답하지만, 조직 전체…",
+        "category_score": 92,
+        "score_reason": "산업 현장의 AI 전환(AX)에서 ROI 창출 실패라는 현실적인 문제를 짚고, 이를 에이전틱 플랫폼으로 해결하려는 비즈니스 모델로의 확장이 돋보임.",
+        "keywords": [
+          "AX",
+          "에이전틱 플랫폼",
+          "제조업"
+        ],
+        "planning_insight": "산업 현장에서 AI 도입 ROI를 실질적으로 높이는 기술적·비즈니스적 로드맵 제시."
+      },
+      {
+        "rank": 4,
+        "id": "d97270a242a2b63f038a57926d0422b793d1aec22568fd48a5085391a0aba49c",
+        "title": "AI데이터센터용 UC 690억 수주 '잭팟'",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12174750",
+        "published_at": "2026-10-13T17:43:07+09:00",
+        "summary": "LS머트리얼즈가 국내 울트라커패시터(UC) 업계 역대 최대 규모의 수출 계약을 체결하며 인공지능(AI) 데이터센터 전력 기반설비 시장에 진출한다. 13일 LS머트리얼즈는 미국 수소..",
+        "category_score": 89,
+        "score_reason": "AI 데이터센터 급증에 따른 전력 설비 시장의 수혜를 보여주는 사례. AI 확산이 하드웨어 및 인프라 산업에 미치는 연쇄적인 경제적 효과를 상징함.",
+        "keywords": [
+          "AI 데이터센터",
+          "전력 기반설비",
+          "산업 생태계"
+        ],
+        "planning_insight": "AI 인프라 확장으로 인해 파생되는 B2B 비즈니스 기회 및 산업 변화 분석 콘텐츠."
+      },
+      {
+        "rank": 5,
+        "id": "130bbeec210fa58f0f36b0dbd32392cea3016ce6a9ff9c51341a6bfd1213a66f",
+        "title": "눈치까지 배우는 카카오 AI '선톡'…가상 카톡서 대화 훈련",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261013170136",
+        "published_at": "2026-10-13T17:38:16+09:00",
+        "summary": "[지디넷코리아]카카오가 인공지능(AI)이 이용자에게 먼저 말을 거는 ‘선톡’ 기능을 고도화한다. 대화 흐름과 맞지 않는 제안을 하거나 불필요하게 개입하는 문제를 줄이고, 이용자에게 실질적으로 도움이 되는 순간을 판단하도록 개선한다는 계획이다. 이를 위해 실제 카카오톡과 유사한 가상 환경에서 AI끼리 대화하며 다양한 상황을 학습하는 ‘클론’ 기술을 활용하고 있다.윤소원 카나나 인 카카오톡 프로덕트 매니저는 13일 경기도 용인시에서 열린 개발자 컨퍼런스 ‘이프카카오(if(kakao)26)’에서 가상 환경 ‘클론’을 활용한 카나나 인 카카오톡(카인카) 개발 과정과 향후 고도화 방향을 소개했다.카나나 인 카카오톡은 이용자의 대화 내용을 기기 안에서 분석해 일정 관리와 예약, 구매, 검색 등을 먼저 제안하는 AI 서비스다. 지난해 열린 이프카카오에서 핵심 기능이 처음 공개됐으며, 비공개 베타 테스트를 거쳐 올해 3월 정식 출시됐다.카카오는 카나나 인 카카오톡이 먼저 연락하는 ‘선톡’ 체계를…",
+        "category_score": 86,
+        "score_reason": "플랫폼 기업이 가상 환경('클론')을 통해 AI 모델의 사회적 상호작용을 학습시키는 것은 사용자 경험 개선 및 AI 대중화 측면에서 매우 중요한 트렌드임.",
+        "keywords": [
+          "카카오",
+          "가상 학습(클론)",
+          "사용자 경험"
+        ],
+        "planning_insight": "AI 모델이 사용자와 자연스럽게 상호작용하기 위해 거쳐야 하는 '디지털 트윈 학습' 과정의 인사이트 공유."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "c03ea4447cf530286dd544b91a118bb956e4fb40709fc1619540f0fdc722a67c",
+        "title": "디자이너의 아이디어가 금융상품이 되기까지",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/rpg-savings",
+        "published_at": "2026-10-13T22:00:00+09:00",
+        "summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요.",
+        "category_score": 95,
+        "score_reason": "디자이너의 아이디어가 실제 제품 출시로 이어지는 구체적인 프로세스를 다루며, 조직 내에서 설득력을 갖추는 전략적 접근 방식을 제시함.",
+        "keywords": [
+          "UX",
+          "제품전략",
+          "프로세스"
+        ],
+        "planning_insight": "사용자 경험 개선 아이디어를 비즈니스 임팩트와 연결해 팀을 설득하는 '기획의 정당성 확보' 전략이 매우 유용함."
+      },
+      {
+        "rank": 2,
+        "id": "6ffaf41e3a8394763ac3e972645eb336b8349132339268dc38108249357b939a",
+        "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/ai-platform-foundation",
+        "published_at": "2026-10-13T10:34:00+09:00",
+        "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+        "category_score": 90,
+        "score_reason": "서비스 팀의 비효율을 해결하기 위한 AI 플랫폼 도입 사례로, 기술을 제품 생산성 도구로 전환하는 전략적 관점을 보여줌.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "생산성"
+        ],
+        "planning_insight": "단순 AI 기술 적용을 넘어, 팀의 반복 업무를 체계화하여 서비스 집중도를 높이는 플랫폼적 접근이 필요함."
+      },
+      {
+        "rank": 3,
+        "id": "4797bb0abfa9bf83daab6d66bcf96f8fc44f9bd06458e72e56206b09c1433cc6",
+        "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/milvus-optimization-and-sizing",
+        "published_at": "2026-10-12T10:00:00+09:00",
+        "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+        "category_score": 85,
+        "score_reason": "검색 품질을 유지하면서 하드웨어 효율을 극대화한 사례로, 데이터 처리 성능이 사용자 경험(UX)과 직결되는 구조적 인사이트를 제공함.",
+        "keywords": [
+          "검색",
+          "데이터",
+          "성능최적화"
+        ],
+        "planning_insight": "검색 서비스 기획 시 기술적 한계 내에서 최적의 결과를 내기 위한 데이터 사이징 및 성능 기준 설정의 중요성을 보여줌."
+      },
+      {
+        "rank": 4,
+        "id": "220e9239240b7ef201b1dac2e2adfa842a061fcf7b1f4f284981feced7cf5540",
+        "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/53795",
+        "published_at": "2026-10-12T10:00:00+09:00",
+        "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+        "category_score": 36,
+        "score_reason": "검색 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "검색"
+        ],
+        "planning_insight": "이 항목은 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
+        "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.12617",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
+        "category_score": 95,
+        "score_reason": "기업 비즈니스 및 전문 분야의 핵심 기술인 RAG(검색 증강 생성)의 성능 향상과 벤치마킹을 다루고 있어 실무 활용도가 가장 높음.",
+        "keywords": [
+          "RAG",
+          "지식 관리",
+          "기업 데이터"
+        ],
+        "planning_insight": "비정형 데이터(리포트) 기반의 고품질 Q&A 시스템 구축 시 정확도 확보를 위한 표준 데이터셋 확보 전략 수립이 필수적임."
+      },
+      {
+        "rank": 2,
+        "id": "96af508364dd6d9a72ccea8c38929fbc87687fc07b5737f7135d1b08648ec505",
+        "title": "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.12601",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12601v1 Announce Type: new Abstract: Prompt optimization is an attractive alternative to reinforcement learning for adapting language-model agents, since it is cheap and produces human-readable artifacts. On factual tasks, however, it carries a failure mode that scalar-reward reinforcement learning does not. An optimizer that reads the training examples can write their answers into the prompt, so an in-distribution gain may be memorization rather than transferable behaviour. We apply…",
+        "category_score": 92,
+        "score_reason": "AI 에이전트의 효율적 운영을 위한 '프롬프트 최적화' 기법을 제안하며, 비용 효율적인 모델 적응 전략을 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "프롬프트 엔지니어링",
+          "비용 최적화"
+        ],
+        "planning_insight": "반복적인 모델 재학습 대신 프롬프트 최적화를 통해 특정 도메인 성능을 끌어올리는 비용 효율적 콘텐츠 운영 모델 설계가 가능함."
+      },
+      {
+        "rank": 3,
+        "id": "451754557506f009dab92244a49d5684b95ef0e0bedaa62f524eb2f52385fd3d",
+        "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.12569",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluation time, so no content exists in advance to leak, and its difficulty is set by the participating agents rather than fixed at release. We introduce SWE-Duel, an arena in which two coding agents evaluate…",
+        "category_score": 88,
+        "score_reason": "코딩 에이전트와 같은 자동화 도구의 평가 방식에 대한 혁신을 다룸. 콘텐츠 제작 자동화 도구의 성능 검증 방식에 적용 가능한 인사이트 제공.",
+        "keywords": [
+          "AI 에이전트",
+          "자동화",
+          "평가 프레임워크"
+        ],
+        "planning_insight": "정적인 데이터셋 의존에서 벗어난 '실시간 동적 평가' 개념을 사내 콘텐츠 자동화 툴의 성과지표(KPI) 측정에 도입해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "b6f7f03f18a69100ba802cb6dbeb6a7cf0d9309a3f4732258c32d6ce2b337e38",
+        "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.12570",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12570v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusion-based drafters make this paradigm particularly attractive: deep attention-based neural backbones provide strong predictions, while drafting multiple future positions in parallel avoids the sequential cost of autoregressive generation. This parallel…",
+        "category_score": 85,
+        "score_reason": "LLM 추론 속도를 높이는 'Speculative Decoding' 기술로, 대규모 콘텐츠 생성 서비스의 응답 속도 및 사용자 경험 개선과 직결됨.",
+        "keywords": [
+          "모델 최적화",
+          "추론 속도",
+          "UX"
+        ],
+        "planning_insight": "생성형 AI 서비스 도입 시 비용 절감과 응답 속도 개선을 위해 기술 스택(Speculative Decoding 등)의 우선순위 고려가 필요함."
+      },
+      {
+        "rank": 5,
+        "id": "f412d65e952c2e608cf471c8e5cb5f39132e592618c40ea0b41a7a1aaa637192",
+        "title": "CLUE: A Contrastive Learning Framework for Unsupervised Event Type Induction and Annotation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.12580",
+        "published_at": "2026-10-12T13:00:00+09:00",
+        "summary": "arXiv:2610.12580v1 Announce Type: new Abstract: Event ontology is the foundational framework for defining events in a dataset. Event type induction generally involves domain experts who define guidelines for creating event types and their names based on the dataset's domain and scope. However, this process is resource-intensive in terms of annotation costs and is prone to human biases. To alleviate the need for manual event ontology creation, we propose the CLUE framework for event type inducti…",
+        "category_score": 82,
+        "score_reason": "비지도 학습 기반의 이벤트 유도 및 주석 달기 기술로, 데이터 레이블링 비용을 절감하여 대규모 데이터 분석/분류 자동화에 기여함.",
+        "keywords": [
+          "데이터 레이블링",
+          "자동화 분석",
+          "비지도 학습"
+        ],
+        "planning_insight": "콘텐츠 분류 체계 구축 시 리소스 투입을 최소화하기 위한 자동화 주석(Annotation) 파이프라인 구축 기회 발굴 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "6ffaf41e3a8394763ac3e972645eb336b8349132339268dc38108249357b939a",
+      "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/ai-platform-foundation",
+      "published_at": "2026-10-13T10:34:00+09:00",
+      "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+      "category_score": 90,
+      "score_reason": "서비스 팀의 비효율을 해결하기 위한 AI 플랫폼 도입 사례로, 기술을 제품 생산성 도구로 전환하는 전략적 관점을 보여줌.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "생산성"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 생산성 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+      "importance_reason": "AI, 플랫폼, 생산성 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "27c0f0e055d1178b07f206754eff50b17f6e331c2e6eb0f09f3159b24b798b52",
+      "title": "“발 편한 신발 찾아줘” AI에 요청하면 상품 골라줘",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12174474",
+      "published_at": "2026-10-13T15:13:55+09:00",
+      "summary": "이상훈 플래티어 대표 대화형 커머스 시장 공략 속도 생성형 AI가 구매 의도 분석해 소비자 취향에 맞는 상품 제안“무릎이 안 좋은데 하루 종일 서서 일해도 발이 안 아픈 신발 있을..",
+      "category_score": 95,
+      "score_reason": "생성형 AI를 활용한 개인화된 커머스 경험의 진화를 보여줌. 단순 검색을 넘어 구매 의도 분석을 통한 큐레이션은 향후 모든 커머스 플랫폼의 표준 기능이 될 강력한 신호임.",
+      "keywords": [
+        "생성형 AI",
+        "커머스",
+        "구매 의도 분석"
+      ],
+      "planning_insight": "이 항목은 생성형 AI, 커머스, 구매 의도 분석 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "이상훈 플래티어 대표 대화형 커머스 시장 공략 속도 생성형 AI가 구매 의도 분석해 소비자 취향에 맞는 상품 제안“무릎이 안 좋은데 하루 종일 서서 일해도 발이 안 아픈 신발 있을..",
+      "importance_reason": "생성형 AI, 커머스, 구매 의도 분석 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "c03ea4447cf530286dd544b91a118bb956e4fb40709fc1619540f0fdc722a67c",
+      "title": "디자이너의 아이디어가 금융상품이 되기까지",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/rpg-savings",
+      "published_at": "2026-10-13T22:00:00+09:00",
+      "summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요.",
+      "category_score": 95,
+      "score_reason": "디자이너의 아이디어가 실제 제품 출시로 이어지는 구체적인 프로세스를 다루며, 조직 내에서 설득력을 갖추는 전략적 접근 방식을 제시함.",
+      "keywords": [
+        "UX",
+        "제품전략",
+        "프로세스"
+      ],
+      "planning_insight": "이 항목은 UX, 제품전략, 프로세스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요.",
+      "importance_reason": "UX, 제품전략, 프로세스 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "4797bb0abfa9bf83daab6d66bcf96f8fc44f9bd06458e72e56206b09c1433cc6",
+      "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/milvus-optimization-and-sizing",
+      "published_at": "2026-10-12T10:00:00+09:00",
+      "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+      "category_score": 85,
+      "score_reason": "검색 품질을 유지하면서 하드웨어 효율을 극대화한 사례로, 데이터 처리 성능이 사용자 경험(UX)과 직결되는 구조적 인사이트를 제공함.",
+      "keywords": [
+        "검색",
+        "데이터",
+        "성능최적화"
+      ],
+      "planning_insight": "이 항목은 검색, 데이터, 성능최적화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 55,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기",
+      "importance_reason": "검색, 데이터, 성능최적화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "f961952d0fed340939043a8af8ca17e5aa6c55831b4810df7f36cd43927fdaf3",
+      "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.12617",
+      "published_at": "2026-10-12T13:00:00+09:00",
+      "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source geopolitical and strategic intelligence reports, comprising 5,525 document-grounded question-answer pairs span…",
+      "category_score": 95,
+      "score_reason": "기업 비즈니스 및 전문 분야의 핵심 기술인 RAG(검색 증강 생성)의 성능 향상과 벤치마킹을 다루고 있어 실무 활용도가 가장 높음.",
+      "keywords": [
+        "RAG",
+        "지식 관리",
+        "기업 데이터"
+      ],
+      "planning_insight": "이 항목은 RAG, 지식 관리, 기업 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 52,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 18,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source…",
+      "importance_reason": "RAG, 지식 관리, 기업 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 88,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 25,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 25,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업",
+        "토스 기술블로그"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 8,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "NYT Technology",
+        "arXiv cs.CL"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 생산성, 생성형 AI, 커머스 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
