@@ -1,0 +1,505 @@
+{
+  "briefing_date": "2026-10-14",
+  "generated_at": "2026-10-14T22:57:08.576794+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 3,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "cd6fb435e553493b9eceabef49bf012c943b0ef0ea8f1763fcb8595b36d4fff3",
+        "title": "원스토어, 통합 리워드 프로그램 '원다이아' 공개…이용자 혜택 개편",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261014174603",
+        "published_at": "2026-10-14T17:47:01+09:00",
+        "summary": "[지디넷코리아]앱마켓 원스토어가 기존 리워드 체계를 통합하고 이용자 할인 혜택을 강화한 신규 플랫폼 재화 '원다이아'를 도입한다.원스토어(대표 장현국)는 통합 리워드 프로그램 '원다이아'를 공개하고 이용자 혜택 시스템 개편에 나선다고 14일 밝혔다.원다이아는 원스토어 앱 내 프로모션 참여로 획득하고 앱 및 게임 결제 시 현금처럼 차감 할인받을 수 있는 전용 리워드다. 기존 운영하던 '원스토어 포인트 플러스'를 통합해 신설됐으며, 기존 할인 쿠폰과 중복 적용이 가능해 실질적인 결제 할인 폭을 넓힌 것이 특징이다.이용자는 14일부터 원스토어 앱 내 무료 충전소에서 광고 미션을 수행하고 원다이아를 적립할 수 있다. 획득한 원다이아는 유료 콘텐츠 결제 단계에서 즉시 할인 수단으로 반영된다.오는 11월 초부터는 이용자 참여형 마케팅 서비스 원퀘스트 보상도 원다이아로 전환된다. 원퀘스트는 지난 7월 도입된 서비스로, 특정 게임 설치나 지정 미션 완료 시 보상을 지급하는 구조로 운영 중이다.원…",
+        "category_score": 61,
+        "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "마케팅",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "243a2b18abb23380b880e4c459e4bfdac8ee04ad287165d56ca7e7cd3a779e30",
+        "title": "라온시큐어 AI 가드레일 '원쉴드', 인공지능 제품·서비스 확인서 획득",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261014174207",
+        "published_at": "2026-10-14T17:42:07+09:00",
+        "summary": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형·이정아)가 AI 세이프 가드레일 솔루션 ‘원쉴드(OneShield)’로 ‘인공지능 제품·서비스 확인서’를 획득했다.‘인공지능 제품·서비스 확인제도’는 한국인공지능·소프트웨어산업협회(KOSA)가 인공지능기본법에 따라 제품이나 서비스에 AI 기술이 실제 적용됐는지를 확인하는 제도다. 제품에 적용된 AI의 학습·추론 특성과 기능 기여도 등을 기술적으로 심사해 확인서를 발급한다.기업의 생성형 AI 도입이 늘어나면서 기존 보안 체계만으로는 다루기 어려운 새로운 보안 문제가 나타나고 있다. 임직원이 업무 과정에서 회사의 중요 정보나 개인정보를 생성형 AI에 입력하거나, 공격자가 악성 프롬프트를 통해 AI에 설정된 정책을 우회하는 경우가 대표적이다.14일 회사에 따르면, '원쉴드'는 이러한 위협에 대응하는 AI 세이프 가드레일 솔루션이다. 사용자와 생성형 AI·AI 에이전트 사이에서 오가는 입·출력 데이터를 실시간으로 분석하고,…",
+        "category_score": 61,
+        "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "생성형 AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "67df2f69f8f1e1d50e9f5394210d819b5f79b3387da41ebecf24b47b950c2390",
+        "title": "LGU+ '심플랩', KAA 어워즈 마케터상 수상",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261014103901",
+        "published_at": "2026-10-14T11:13:24+09:00",
+        "summary": "[지디넷코리아]LG유플러스가 가입자 참여형 플랫폼 '심플랩'을 통해 가입자 목소리를 실제 서비스 개선에 반영한 성과를 인정받아 2026 KAA 어워즈 마케터상을 받았다.LG유플러스는 심플랩이 한국광고주협회 주관 2026 KAA 어워즈 마케터상을 받았다고 14일 밝혔다.KAA 어워즈는 한국광고주협회가 매년 우수한 마케팅 활동과 광고 미디어 콘텐츠를 선정해 시상하는 행사다. LG유플러스는 심플랩을 통해 가입자 의견을 실제 상품 서비스 개선으로 연결하고, 변화 과정을 공유하는 구조를 구축한 점에서 높은 평가를 받았다.지난해 11월 운영을 시작한 심플랩엔 가입자 아이디어 약 1만 4000건이 접수됐다. 이를 바탕으로 회사는 가입자 멤버십 앱 'U+one' 자녀 계정관리, 익시오 로밍콜, 소방관 우선접속 통신망 등 17개 상품과 서비스를 개선하고 출시했다.또 심플랩 가입자 의견 반영 과정과 이야기를 담은 콘텐츠 516편을 공개해 누적 조회 수 1억 2100만 회를 기록했다.장준영 LG유플러…",
+        "category_score": 61,
+        "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "마케팅",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "7685bc5d28011153b5b47feb24790fd18c6af11cefd0467881c188db4b9a801f",
+        "title": "롯데온, 中 패션 플랫폼 '포이즌' 입점",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261014093036",
+        "published_at": "2026-10-14T11:32:45+09:00",
+        "summary": "[지디넷코리아]롯데온은 중국 패션 플랫폼 '포이즌'을 셀러로 입점시켜 국내 고객에게 한국 미발매 상품을 포함한 다양한 브랜드 제품을 선보인다고 14일 밝혔다.포이즌은 정품 여부를 검수하는 시스템을 기반으로 패션 상품 거래를 지원하는 글로벌 플랫폼이다. 롯데온은 이번 협업을 통해 국내 소비자들이 해외 패션 브랜드의 다양한 제품을 접할 수 있도록 한다는 계획이다.롯데온 포이즌 스토어에서는 ▲나이키 ▲아디다스 ▲호카 등 스포츠 브랜드의 국내 미발매 상품을 판매한다. 중국에서 주목받는 브랜드 리닝(Li-Ning)의 제품도 구매할 수 있다. 높은 쿠셔닝 성능으로 '적토끼'라는 별칭이 붙은 러닝화 '리닝 레드 헤어 9 울트라' 등이 포함됐다.이번 협업은 롯데온이 30주년을 맞아 진행하고 있는 쇼핑 콘텐츠 강화 활동의 하나다. 롯데온은 최근 일본 패션 브랜드 '투모로우랜드'와 협력해 현지 브랜드 상품을 소개한 바 있다. 이번에는 중국 패션 플랫폼으로 협업 대상을 넓혀 국내 고객에게 새로운 브랜…",
+        "category_score": 58,
+        "score_reason": "플랫폼, 소비자, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "소비자",
+          "브랜드",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 플랫폼, 소비자, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "91b1cd79009a2ac89bc424c3f6c3f6079858fcc03424a4f52d835e29f03fa7bd",
+        "title": "CCTV+: 중국 수도에서 민원 신속 대응 포럼 개막",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261014171024",
+        "published_at": "2026-10-14T17:10:24+09:00",
+        "summary": "[지디넷코리아]베이징 2026년 10월 14일 /PRNewswire/ -- 2026 베이징 민원 신속 대응 포럼(Beijing Forum on Swift Response to Public Complaints)이 월요일 개막했다. 개막과 함께 여러 연구 성과와 도시 민원 핫라인 서비스 보고서, 전 세계 도시 거버넌스 사례 연구가 발표됐다. 베이징의 12345 핫라인은 시의 통합 행정서비스 플랫폼으로, 주민들은 여기로 문제를 신고하거나 민원을 제기하고 공공요금•교통부터 의료•주거에 이르는 공공서비스 정보를 문의할 수 있다. 이 핫라인은 2019년부터 전통적인 콜센터에서 빅데이터와 인공지능(AI)을 기반으로 하는 스마트 거버넌스 허브로 발전해 왔다. 핫라인에서 생성되는 데이터는 반복적으로 발생하는 문제를 파악하고 정책 결정에 활용되며, 일상적인 주민들의 관심 사항을 도시 서비스 개선을 위한 기초 자료로 전환한다. 이 핫라인은 지금까지 개인과 기업의 요청 약 2억 건을 처리했다. 디지털…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "6ffaf41e3a8394763ac3e972645eb336b8349132339268dc38108249357b939a",
+        "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/ai-platform-foundation",
+        "published_at": "2026-10-13T10:34:00+09:00",
+        "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+        "category_score": 44,
+        "score_reason": "플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "e9ea04c2c4e883c43899d87f285d9a21c94b3fe0837721b16d9ad550dfc9900f",
+        "title": "Spark Connect on Kubernetes #2: Operator로 만드는 Control Plane",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/spark-connect-on-kubernetes-2",
+        "published_at": "2026-10-14T14:06:00+09:00",
+        "summary": "Spark 서버 하나의 기동과 복구부터, 여러 서버의 세션을 유지하는 교체까지. Kubernetes 위에 Spark Tenant Operator를 만든 과정을 소개합니다.",
+        "category_score": 33,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "c03ea4447cf530286dd544b91a118bb956e4fb40709fc1619540f0fdc722a67c",
+        "title": "디자이너의 아이디어가 금융상품이 되기까지",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/rpg-savings",
+        "published_at": "2026-10-13T22:00:00+09:00",
+        "summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요.",
+        "category_score": 28,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "37c4b5eef3b7587e9e46db0c0f697b5c310cb7b2b46069a8c836a3bafff29b72",
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "published_at": "2026-10-14T02:05:48+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "실제 서비스 환경에서 가장 중요한 온디바이스 AI 및 에이전트 구동 기술로, 프라이버시 이슈 해결과 비용 최적화 측면에서 기획자에게 필수적인 솔루션입니다.",
+        "keywords": [
+          "온디바이스 AI",
+          "에이전트",
+          "프라이버시"
+        ],
+        "planning_insight": "클라우드 의존도를 낮추고 보안이 중요한 비즈니스 영역에서 온디바이스 에이전트를 활용한 개인화된 고객 경험 설계 가능."
+      },
+      {
+        "rank": 2,
+        "id": "f93090d475ff93475782d49289db6e994f575657ab1c0a3ddafb313b8d91adfe",
+        "title": "Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.14238",
+        "published_at": "2026-10-14T13:00:00+09:00",
+        "summary": "arXiv:2610.14238v1 Announce Type: new Abstract: LLM data engineering requires iterative experimentation to determine how data selection, rewards, and curricula affect model learning, making it a natural setting for AI-for-AI (AI4AI) research. Can agents use experimental feedback to progressively improve strategies, and do the resulting strategies improve target-model performance on held-out data? We study how agents use experimental feedback to develop data-engineering strategies under fixed tr…",
+        "category_score": 95,
+        "score_reason": "데이터 엔지니어링의 자동화는 콘텐츠 전략가에게 핵심 역량입니다. 에이전트가 데이터를 스스로 정제하고 학습 데이터셋을 최적화하는 기법을 다룹니다.",
+        "keywords": [
+          "데이터 엔지니어링",
+          "AI4AI",
+          "학습 데이터"
+        ],
+        "planning_insight": "LLM 성능 향상을 위한 데이터 파이프라인 자동화 체계를 구축하여 콘텐츠 제작 및 고도화 프로세스의 효율 극대화."
+      },
+      {
+        "rank": 3,
+        "id": "ed71c97edc15099c24d65656f67dc7aef4b9456597709fd1e0fe5dab4799424d",
+        "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.13989",
+        "published_at": "2026-10-14T13:00:00+09:00",
+        "summary": "arXiv:2610.13989v1 Announce Type: new Abstract: Evaluating recommender systems before deployment requires simulators that remain realistic over long, closed-loop interaction cycles. Current LLM-based agents generally function as surface imitators that generate realistic short-term responses but fail to capture the underlying user dynamics such as fatigue, affect, and shifting preferences. We propose PsyBer-Agent, a psychology-inspired simulator that models these dynamics through its Psy-Engine.…",
+        "category_score": 92,
+        "score_reason": "추천 시스템과 사용자의 심리적 역학을 결합한 에이전트 연구로, 차세대 개인화 추천 서비스 및 콘텐츠 큐레이션 기획에 실질적 통찰을 제공합니다.",
+        "keywords": [
+          "추천 시스템",
+          "사용자 행동",
+          "심리 모델"
+        ],
+        "planning_insight": "단순 클릭 패턴을 넘어 사용자의 심리 변화를 추적하는 고도화된 콘텐츠 추천 알고리즘 설계 및 타겟팅 모델링."
+      },
+      {
+        "rank": 4,
+        "id": "790584128d9960c8e066068e79bb71984c11a97d1e9d52302bca6e25ed55deab",
+        "title": "Loose Lips: Understanding Privacy Leakage in Agentic Dialogue",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.14071",
+        "published_at": "2026-10-14T13:00:00+09:00",
+        "summary": "arXiv:2610.14071v1 Announce Type: new Abstract: As LLM agents are increasingly deployed in high-stakes enterprise settings, understanding how they handle sensitive information in agentic dialogue has become critical. Privacy leakage in such settings requires reasoning about whether information flows respect the contextual norms under which they originated. We extend CIMemories to CIMEMORIES DIALOGUE, a benchmark of 4,410 two-agent dialogue instances grounded in Contextual Integrity theory. Usin…",
+        "category_score": 89,
+        "score_reason": "기업 내 에이전트 활용 시 가장 큰 장애물인 정보 유출(Privacy Leakage) 문제를 다루어 에이전트 도입 기획 시 필수적인 가이드라인을 제시합니다.",
+        "keywords": [
+          "프라이버시",
+          "보안",
+          "엔터프라이즈 AI"
+        ],
+        "planning_insight": "기업용 AI 에이전트 기획 시 정보 공유 규범과 보안 정책을 사전에 정의하여 신뢰성 있는 서비스 운영 모델 구축."
+      },
+      {
+        "rank": 5,
+        "id": "1b9fab99f46f721cc63fd7514417e70cc11cca31a49305540e381b1a1ec4dfb5",
+        "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.14162",
+        "published_at": "2026-10-14T13:00:00+09:00",
+        "summary": "arXiv:2610.14162v1 Announce Type: new Abstract: Diffusion language models (DLMs) offer parallel sampling for faster generation than autoregressive models, an increasingly important advantage as inference becomes a dominant computational workload. However, DLMs degrade quickly with fewer sampling steps, process the full sequence at every step, and require many passes over the dataset to reach good quality. We introduce Next-Concept Modeling (NCM), a two-stage, coarse-to-fine framework: a multisc…",
+        "category_score": 85,
+        "score_reason": "콘텐츠 생성의 속도와 병렬 처리 효율을 다루는 기술로, 실시간 콘텐츠 제작 및 대규모 자동 생성 시스템 도입 시 병목 현상을 해결할 핵심 요소입니다.",
+        "keywords": [
+          "콘텐츠 자동 생성",
+          "인퍼런스 효율",
+          "병렬 처리"
+        ],
+        "planning_insight": "대량의 맞춤형 콘텐츠 자동 생산 시 생성 시간 단축과 비용 절감을 위한 아키텍처 의사결정에 활용."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "37c4b5eef3b7587e9e46db0c0f697b5c310cb7b2b46069a8c836a3bafff29b72",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published_at": "2026-10-14T02:05:48+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "실제 서비스 환경에서 가장 중요한 온디바이스 AI 및 에이전트 구동 기술로, 프라이버시 이슈 해결과 비용 최적화 측면에서 기획자에게 필수적인 솔루션입니다.",
+      "keywords": [
+        "온디바이스 AI",
+        "에이전트",
+        "프라이버시"
+      ],
+      "planning_insight": "보안이 중요한 금융·의료 콘텐츠 분야에서 개인정보를 외부로 유출하지 않는 '프라이빗 AI 에이전트' 기반의 개인화 서비스 기획 모델로 활용 가능.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "클라우드 의존 없이 개인화된 경험을 제공하는 온디바이스 에이전트 기술 공개",
+      "importance_reason": "AI 서비스의 핵심 이슈인 보안과 프라이버시 문제를 온디바이스 기술로 해결하여, 기업용 AI 서비스의 신뢰성을 확보할 수 있는 게임 체인저."
+    },
+    {
+      "rank": 2,
+      "id": "ed71c97edc15099c24d65656f67dc7aef4b9456597709fd1e0fe5dab4799424d",
+      "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.13989",
+      "published_at": "2026-10-14T13:00:00+09:00",
+      "summary": "arXiv:2610.13989v1 Announce Type: new Abstract: Evaluating recommender systems before deployment requires simulators that remain realistic over long, closed-loop interaction cycles. Current LLM-based agents generally function as surface imitators that generate realistic short-term responses but fail to capture the underlying user dynamics such as fatigue, affect, and shifting preferences. We propose PsyBer-Agent, a psychology-inspired simulator that models these dynamics through its Psy-Engine.…",
+      "category_score": 92,
+      "score_reason": "추천 시스템과 사용자의 심리적 역학을 결합한 에이전트 연구로, 차세대 개인화 추천 서비스 및 콘텐츠 큐레이션 기획에 실질적 통찰을 제공합니다.",
+      "keywords": [
+        "추천 시스템",
+        "사용자 행동",
+        "심리 모델"
+      ],
+      "planning_insight": "사용자의 반응을 예측하는 페르소나 시뮬레이션을 통해 콘텐츠 기획 단계에서 수용도를 사전 테스트하거나, 심리 상태별 추천 알고리즘 설계에 적용.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "사용자의 심리 변화와 피로도를 반영한 심리학 기반의 차세대 추천 시스템 연구",
+      "importance_reason": "단순 클릭 기록을 넘어서는 심리적 맥락 반영은 콘텐츠 큐레이션의 고도화와 이탈 방지를 위한 핵심 데이터 전략임."
+    },
+    {
+      "rank": 3,
+      "id": "f93090d475ff93475782d49289db6e994f575657ab1c0a3ddafb313b8d91adfe",
+      "title": "Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.14238",
+      "published_at": "2026-10-14T13:00:00+09:00",
+      "summary": "arXiv:2610.14238v1 Announce Type: new Abstract: LLM data engineering requires iterative experimentation to determine how data selection, rewards, and curricula affect model learning, making it a natural setting for AI-for-AI (AI4AI) research. Can agents use experimental feedback to progressively improve strategies, and do the resulting strategies improve target-model performance on held-out data? We study how agents use experimental feedback to develop data-engineering strategies under fixed tr…",
+      "category_score": 95,
+      "score_reason": "데이터 엔지니어링의 자동화는 콘텐츠 전략가에게 핵심 역량입니다. 에이전트가 데이터를 스스로 정제하고 학습 데이터셋을 최적화하는 기법을 다룹니다.",
+      "keywords": [
+        "데이터 엔지니어링",
+        "AI4AI",
+        "학습 데이터"
+      ],
+      "planning_insight": "콘텐츠 마케팅 데이터 파이프라인 자동화 체계 구축 시 에이전트를 도입하여 리포트 생성 및 데이터 기반 의사결정 속도를 향상시키는 프로세스 혁신.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM이 스스로 데이터를 정제하고 전략을 최적화하는 에이전트 기반 데이터 엔지니어링",
+      "importance_reason": "콘텐츠 제작의 가장 큰 병목인 데이터 품질 개선을 AI 에이전트가 자동화함으로써, 제작 프로세스의 효율성을 극대화할 수 있음."
+    },
+    {
+      "rank": 4,
+      "id": "243a2b18abb23380b880e4c459e4bfdac8ee04ad287165d56ca7e7cd3a779e30",
+      "title": "라온시큐어 AI 가드레일 '원쉴드', 인공지능 제품·서비스 확인서 획득",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261014174207",
+      "published_at": "2026-10-14T17:42:07+09:00",
+      "summary": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형·이정아)가 AI 세이프 가드레일 솔루션 ‘원쉴드(OneShield)’로 ‘인공지능 제품·서비스 확인서’를 획득했다.‘인공지능 제품·서비스 확인제도’는 한국인공지능·소프트웨어산업협회(KOSA)가 인공지능기본법에 따라 제품이나 서비스에 AI 기술이 실제 적용됐는지를 확인하는 제도다. 제품에 적용된 AI의 학습·추론 특성과 기능 기여도 등을 기술적으로 심사해 확인서를 발급한다.기업의 생성형 AI 도입이 늘어나면서 기존 보안 체계만으로는 다루기 어려운 새로운 보안 문제가 나타나고 있다. 임직원이 업무 과정에서 회사의 중요 정보나 개인정보를 생성형 AI에 입력하거나, 공격자가 악성 프롬프트를 통해 AI에 설정된 정책을 우회하는 경우가 대표적이다.14일 회사에 따르면, '원쉴드'는 이러한 위협에 대응하는 AI 세이프 가드레일 솔루션이다. 사용자와 생성형 AI·AI 에이전트 사이에서 오가는 입·출력 데이터를 실시간으로 분석하고,…",
+      "category_score": 61,
+      "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI 보안",
+        "프롬프트 인젝션",
+        "가드레일"
+      ],
+      "planning_insight": "기업 블로그나 B2B 홍보 콘텐츠 기획 시 'AI 도입의 안전성'을 강조하는 키워드로 활용하여 신뢰도 있는 브랜드 이미지 구축.",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 20,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "생성형 AI의 데이터 오남용 방지 및 보안 가드레일 솔루션 '원쉴드' 주목",
+      "importance_reason": "기업이 AI를 서비스에 도입할 때 필수적인 리스크 관리 솔루션으로, 플랫폼 안전성을 보장하는 기술적 표준 흐름을 보여줌."
+    },
+    {
+      "rank": 5,
+      "id": "67df2f69f8f1e1d50e9f5394210d819b5f79b3387da41ebecf24b47b950c2390",
+      "title": "LGU+ '심플랩', KAA 어워즈 마케터상 수상",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261014103901",
+      "published_at": "2026-10-14T11:13:24+09:00",
+      "summary": "[지디넷코리아]LG유플러스가 가입자 참여형 플랫폼 '심플랩'을 통해 가입자 목소리를 실제 서비스 개선에 반영한 성과를 인정받아 2026 KAA 어워즈 마케터상을 받았다.LG유플러스는 심플랩이 한국광고주협회 주관 2026 KAA 어워즈 마케터상을 받았다고 14일 밝혔다.KAA 어워즈는 한국광고주협회가 매년 우수한 마케팅 활동과 광고 미디어 콘텐츠를 선정해 시상하는 행사다. LG유플러스는 심플랩을 통해 가입자 의견을 실제 상품 서비스 개선으로 연결하고, 변화 과정을 공유하는 구조를 구축한 점에서 높은 평가를 받았다.지난해 11월 운영을 시작한 심플랩엔 가입자 아이디어 약 1만 4000건이 접수됐다. 이를 바탕으로 회사는 가입자 멤버십 앱 'U+one' 자녀 계정관리, 익시오 로밍콜, 소방관 우선접속 통신망 등 17개 상품과 서비스를 개선하고 출시했다.또 심플랩 가입자 의견 반영 과정과 이야기를 담은 콘텐츠 516편을 공개해 누적 조회 수 1억 2100만 회를 기록했다.장준영 LG유플러…",
+      "category_score": 61,
+      "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "VOC 기반",
+        "고객 참여 플랫폼",
+        "서비스 개선"
+      ],
+      "planning_insight": "고객 데이터를 단순 분석에 그치지 않고, 고객이 직접 기획에 참여하게 하는 '참여형 콘텐츠 모델' 구축 사례로 참고하여 캠페인 아이디어화.",
+      "integrated_score": 82,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 18,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "고객 목소리를 실제 서비스 개선과 연결하고 콘텐츠화한 성공 사례",
+      "importance_reason": "데이터 수집(VOC)을 서비스 개발 및 콘텐츠 제작으로 이어지게 하는 선순환 구조는 커뮤니티형 브랜드 전략의 핵심."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 79,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 28,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업",
+        "토스 기술블로그"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 27,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 단순 생성 단계를 넘어, 개인정보를 보호하는 '온디바이스'와 데이터 엔지니어링을 자동화하는 'AI 에이전트' 형태로 고도화되고 있음.",
+    "추천 시스템은 데이터 기반 행동 분석을 넘어 사용자의 심리적 역학까지 모델링하며 보다 정밀한 개인화 경쟁 단계에 진입함.",
+    "기업의 AI 서비스 도입은 보안 가드레일 마련과 고객 VOC 기반의 서비스 참여형 콘텐츠 제작이 맞물리며 신뢰성과 실용성을 중시하는 방향으로 흐르고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
