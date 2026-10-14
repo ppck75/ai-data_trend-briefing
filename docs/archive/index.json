@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T01:18:35.213687+09:00",
+  "updated_at": "2026-10-14T10:20:48.393382+09:00",
   "archives": [
+    {
+      "id": "2026-10-14_10-20",
+      "date": "2026-10-14",
+      "time": "10:20",
+      "label": "2026-10-14 10:20",
+      "generated_at": "2026-10-14T10:20:35.039881+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AMD, 에이전틱 AI용 랙스케일 플랫폼 '헬리온' 공개",
+        "디자이너의 아이디어가 금융상품이 되기까지",
+        "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
+        "AI 에이전트 위험 사전에 잡는다…카카오, 세이프티 장치 마련 속도"
+      ],
+      "path_json": "archive/2026-10-14/10-20.json",
+      "path_md": "archive/2026-10-14/10-20.md"
+    },
     {
       "id": "2026-10-14_01-18",
       "date": "2026-10-14",
