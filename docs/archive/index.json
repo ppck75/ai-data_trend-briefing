@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T22:57:31.680316+09:00",
+  "updated_at": "2026-10-15T09:45:47.151504+09:00",
   "archives": [
+    {
+      "id": "2026-10-15_09-45",
+      "date": "2026-10-15",
+      "time": "09:45",
+      "label": "2026-10-15 09:45",
+      "generated_at": "2026-10-15T09:45:18.197607+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+        "LG전자, GS건설-美 GRC社와 AIDC 액침냉각 기술·표준설계 공동개발",
+        "Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study",
+        "디자이너의 아이디어가 금융상품이 되기까지"
+      ],
+      "path_json": "archive/2026-10-15/09-45.json",
+      "path_md": "archive/2026-10-15/09-45.md"
+    },
     {
       "id": "2026-10-14_22-57",
       "date": "2026-10-14",
