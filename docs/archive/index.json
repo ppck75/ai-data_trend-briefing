@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-15T17:30:47.466535+09:00",
+  "updated_at": "2026-10-15T22:38:06.427967+09:00",
   "archives": [
+    {
+      "id": "2026-10-15_22-37",
+      "date": "2026-10-15",
+      "time": "22:37",
+      "label": "2026-10-15 22:37",
+      "generated_at": "2026-10-15T22:37:52.761986+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "Agentic Data Engineering for LLMs: System Design and a Controlled Empirical Study",
+        "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+        "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection",
+        "AI 코딩 시대, DDD가 더 필요해진 이유",
+        "AWS 주간 소식 모음: 숫자로 보는 Prime Day 2026, Claude Haiku 5.5, Amazon Nova 2.5 Sonic 등"
+      ],
+      "path_json": "archive/2026-10-15/22-37.json",
+      "path_md": "archive/2026-10-15/22-37.md"
+    },
     {
       "id": "2026-10-15_17-35",
       "date": "2026-10-15",
