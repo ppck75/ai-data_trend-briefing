@@ -1,0 +1,513 @@
+{
+  "briefing_date": "2026-10-16",
+  "generated_at": "2026-10-16T22:27:35.571105+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 182,
+    "tech_blog": 3,
+    "ai_data": 15
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "b3b706f9238e61c1bdf9e5259c3e4a626cbd1f0ea0e2ae1b8591ad5863f12a28",
+        "title": "“신혼가전 추천해줘” AI에 물었더니 경쟁사 제품만 줄줄…임원회의 ‘발칵’",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12177521",
+        "published_at": "2026-10-16T09:51:41+09:00",
+        "summary": "자사 제품은 추천 목록에 없어 가전업계 달라진 검색 환경에 긴장 챗GPT 검색 이용률 54.5%로 급증 AI 추천 목록 진입이 새 마케팅 과제국내 한 가전업체 임원회의에서 때아닌 ..",
+        "category_score": 64,
+        "score_reason": "AI, 마케팅, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "추천",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 마케팅, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "b4033592861168d09bf5a4bf614eb85e4355dc01983b5cb48ab72dba7ea4b172",
+        "title": "AB180, ‘브레이즈 커넥션 서울’서 티머니 개인화 마케팅 혁신 사례 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261016171542",
+        "published_at": "2026-10-16T17:21:30+09:00",
+        "summary": "[지디넷코리아]풀스택 AI 마케팅 기업 에이비일팔공(AB180)이 지난 15일 서울 강남구 조선 팰리스에서 열린 '브레이즈 커넥션 서울'에 스폰서로 참가해 티머니모빌리티의 실시간 행동 데이터 기반 개인화 성공 사례와 AI 시대 마테크 활용 전략을 공유했다.16일 회사에 따르면, 이번 행사에서 티머니모빌리티 전재영·조수빈 매니저는 '티머니GO' 이용자 여정에 맞춘 예약 발송과 인앱 광고 운영 성과를 발표했다. 티머니모빌리티는 AB180의 컨설팅을 거쳐 별도 서버 개발 없이 브레이즈의 '컨텍스트 스텝'과 '퍼스널라이즈 딜레이' 기능을 활용해 맞춤형 알림 시나리오를 구축했다. 아울러 '콘텐츠 카드'를 통해 지역별 맞춤 배너 노출과 외부 운영 위탁 시스템을 구현함으로써 앱 지면을 활용한 신규 매출을 확보하고, 고속·시외버스 승객 대상 택시 할인 쿠폰을 연계한 교차 마케팅으로 휴면 고객의 재이용을 이끌어냈다.이어 진행된 세션에서는 박주렬 AB180 솔루션즈 아키텍트가 연사로 나서 AI 마테…",
+        "category_score": 63,
+        "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅",
+          "개인화",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "74a5e183ae069bd5843c5c2a2439ac567f2df91de84bd202d7ceca6b8987ed93",
+        "title": "휴로틱스, 250억원 시리즈A 유치…착용형 피지컬 AI 플랫폼 도약",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261015172103",
+        "published_at": "2026-10-15T17:21:03+09:00",
+        "summary": "[지디넷코리아]웨어러블 로봇 기업 휴로틱스가 250억원 규모의 시리즈A 투자를 유치했다.15일 회사에 따르면, 이번 투자는 에이티넘인베스트먼트가 주도한 가운데 기존 주요 투자사와 함께 대웅·네이버·롯데 등 헬스케어·유통·IT 분야 전략적 투자자(SI)와 미래에셋벤처투자가 신규 합류해 누적 투자 유치액 335억원을 돌파했다. 2022년 7월 중앙대학교 기계공학부 이기욱 교수가 창업한 휴로틱스는 근육 수축 원리를 모사한 케이블·텐던 구동 기술 기반의 의복형 외골격 로봇 전문 기업이다. 주력 제품인 의료용 보행 재활 로봇 '에이치메디'는 국내 주요 대학병원 도입에 이어 미국 일리노이대 시카고(UIC)에 수출되며 글로벌 기술 경쟁력을 입증했다.휴로틱스는 확보한 투자금을 에이치메디의 해외 인허가 및 유통망 확대와 일상 보행 보조 로봇 '에이치케어'의 개발·양산에 투입할 계획이다. 중장기적으로는 보행 데이터 분석을 바탕으로 개인 맞춤형 알고리즘과 근감소·낙상 위험 예측 서비스를 구축해 '착용…",
+        "category_score": 59,
+        "score_reason": "AI, 플랫폼, 알고리즘 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "알고리즘",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "17e701f0c8451fb1e6f2d72c3bb0985a8280932cc8094a1457e270f34b12918b",
+        "title": "와디즈, 소상공인 온라인 진출 돕는 ‘보탬상회’로 8.5억원 자금 조달",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261016155550",
+        "published_at": "2026-10-16T16:02:50+09:00",
+        "summary": "[지디넷코리아]펀딩 플랫폼 와디즈가 서울신용보증재단과 공동 진행한 소상공인 지원 기획전 '보탬상회'를 통해 107개 참가사가 누적 8억 5000만원의 펀딩 성과를 달성했다.16일 회사에 따르면, 이번 기획전은 우수한 제품을 갖추고도 판로 확보에 어려움을 겪는 서울 지역 소상공인의 온라인 진출을 돕기 위해 마련됐다. 지난 8월 3일부터 9월 18일까지 운영됐으며, 1만 5000여명의 서포터가 참여한 가운데 개별 프로젝트의 약 80%가 목표 금액을 넘기며 이달 7일 펀딩을 성공적으로 마무리했다.와디즈는 전용 페이지 노출과 SNS 홍보, 주간 할인쿠폰 발행 등을 추가 비용 없이 지원해 마케팅 여력이 부족한 참가사들의 홍보 부담을 대폭 낮췄다. 참가 기업들은 '선주문 후제작' 방식으로 초기 재고 리스크 없이 소비자 반응을 확인하고 생산 자금을 원활히 조달했다. 특히 국가유산진흥원의 '2026 K-Heritage' 및 '2026 대한민국 서울 공식 디자인'에 선정된 브랜드 '대한민국 무궁화…",
+        "category_score": 58,
+        "score_reason": "마케팅, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "마케팅",
+          "플랫폼",
+          "소비자",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 마케팅, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "267d8866f62c5109a1cfeb829026c77fd58c08a7ab397573febe33679eceec19",
+        "title": "누베이, 남아공 현지 결제 수납 서비스 허가 획득",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261015231002",
+        "published_at": "2026-10-15T23:10:02+09:00",
+        "summary": "[지디넷코리아] 남아공은 아프리카 최대 규모를 다투는 디지털 커머스 시장, 이를 계기로 '모든 결제를 어디서나' 전략 고도화 박차…현지 매입 인프라를 52개 시장으로 확대 몬트리올, 2026년 10월 15일 /PRNewswire/ -- 모든 결제를 어디서나 처리할 수 있는 인프라를 구축하는 글로벌 핀테크 기업 누베이(Nuvei)가 남아프리카공화국 결제협회(Payments Association of South Africa, PASA)로부터 남아공 내 가맹점 결제 서비스 제공을 위한 허가를 획득했다고 발표했다. 글로벌 결제 플랫폼을 통해 글로벌 브랜드와 현지 기업을 지원하는 역량이 더 커지는 계기가 됐다. 이번 허가 획득으로 각국 결제 생태계 내 입지를 넓혀 기업이 사업을 영위하는 시장 어디서나 결제 성과를 최적화하도록 지원하는 누베이의 '모든 결제를 어디서나(Every Payment Everywhere)' 전략이 탄력을 받게 됐다. 남아공이 누베이 네트워크에 추가됨으로써 현지 매입…",
+        "category_score": 53,
+        "score_reason": "커머스, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "커머스",
+          "플랫폼",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 커머스, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "805c06216ac71e9f297f979737c151f9b10c877750bb7abd4c492e886f0ca4a9",
+        "title": "실행은 도메인별로, 문맥은 한 레포에",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/dw-airflow-migration",
+        "published_at": "2026-10-16T15:15:00+09:00",
+        "summary": "중앙 DW Airflow를 멈추지 않고 도메인별 DW로 나눈 9개월",
+        "category_score": 41,
+        "score_reason": "AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI"
+        ],
+        "planning_insight": "이 항목은 AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "3f63a910c48a30441c9de83707fd818d22bd1821f753d10e00baf72e6c09ee68",
+        "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/package-management-2",
+        "published_at": "2026-10-16T10:00:00+09:00",
+        "summary": "안정성, 예측 가능성, 디버깅 편의성. 패키지가 갖춰야 할 세 가지 기준과, 문법 변환과 번들링을 사용하는 서비스에 맡긴 이유를 소개해요.",
+        "category_score": 33,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "8a3f5ceecd45945a6345be2d0c742bc0553dfb71535c58be4bbe09b6355d3e63",
+        "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/package-management-1",
+        "published_at": "2026-10-15T18:23:00+09:00",
+        "summary": "ESM과 CJS를 함께 제공할 때 생길 수 있는 상태 분리와 타입 누락 문제를 살펴보고, 패키지를 ESM-only로 전환한 이유를 소개해요.",
+        "category_score": 28,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "485f3ac72c81d44f5b97398102b4ecc4f5b17817dc847a83d4bc83f7bfdd3205",
+        "title": "MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.20632",
+        "published_at": "2026-10-16T13:00:00+09:00",
+        "summary": "arXiv:2610.20632v1 Announce Type: new Abstract: Modern healthcare generates increasingly complex medical reports that challenge clinical professionals in terms of time and interpretive burden. Manual review processes are slow, error-prone, and difficult to scale. This paper presents MeddeX, a Medical Report Analyzer that combines a QLoRA fine-tuned LLaMA-3 (8B) model with Retrieval-Augmented Gen eration (RAG) and a multimodal Gemini Vision layer to deliver accurate, concise, and evidence-backed…",
+        "category_score": 63,
+        "score_reason": "RAG, multimodal, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "multimodal",
+          "model",
+          "Gemini",
+          "retrieval"
+        ],
+        "planning_insight": "이 항목은 RAG, multimodal, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "429f03568f25e5f9d84c5dfed4c82dd1e447a2702fe0660066336555486babb0",
+        "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.20628",
+        "published_at": "2026-10-16T13:00:00+09:00",
+        "summary": "arXiv:2610.20628v1 Announce Type: new Abstract: Multi-agent systems (MAS) based on large language models (LLMs) have become a powerful way to address complex problems, and their effectiveness depends critically on the collaboration topology that decides which agents participate and how they communicate. Recent work learns to generate this topology from the task query, fitting the generator to corpora of execution-verified graphs. The post-training method for such generators remains a limitation…",
+        "category_score": 61,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "9e05be0c3128d65aad35db719883ab2417821839b4bc606733191dcbd8cd746d",
+        "title": "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.20634",
+        "published_at": "2026-10-16T13:00:00+09:00",
+        "summary": "arXiv:2610.20634v1 Announce Type: new Abstract: Retrieval-augmented generation asks one question at volume: does this evidence support this claim? The answer is one bit, yet most pipelines obtain it from a text generator and pay generation prices for the prose wrapped around it. We compare a non-generative decision model, which returns a typed value from a declared enumeration together with a native probability and no text, against a frontier LLM configured as an engineer would deploy it for bi…",
+        "category_score": 61,
+        "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "RAG",
+          "model",
+          "retrieval",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "431627325019ff1b4af4e10f6e934514023d1345e6f8b4584741bcb595cb2541",
+        "title": "CoTS: Competitive Token Selection for Latent Reasoning in Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.20642",
+        "published_at": "2026-10-16T13:00:00+09:00",
+        "summary": "arXiv:2610.20642v1 Announce Type: new Abstract: Recent latent reasoning methods move beyond discrete Chain-of-Thought (CoT) by replacing sampled tokens with continuous soft embeddings or hidden states, enabling richer intermediate representations and preserving alternative reasoning paths. However, the need for latent reasoning varies across decoding steps: confident predictions favor discrete commitment, whereas ambiguous steps benefit from preserving multiple plausible alternatives. Existing…",
+        "category_score": 50,
+        "score_reason": "embedding, model, reasoning 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "embedding",
+          "model",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 embedding, model, reasoning 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "dc748a30b008b26d43d5968c88c8c9191378c416f41283ca6f420d92d3202334",
+        "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.20615",
+        "published_at": "2026-10-16T13:00:00+09:00",
+        "summary": "arXiv:2610.20615v1 Announce Type: new Abstract: Adaptive optimization workflows in machine learning, federated learning, quantum machine learning, and hybrid classical quantum systems often embed controller logic directly inside task specific training scripts. This coupling limits reuse, reproducibility, safety validation, and fair comparison across execution environments. This paper presents DeepUnfolding Agent, a schema-driven FastAPI platform that exposes deep unfolded adaptive control as an…",
+        "category_score": 48,
+        "score_reason": "agent, API, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "API",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, API, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "17e701f0c8451fb1e6f2d72c3bb0985a8280932cc8094a1457e270f34b12918b",
+      "title": "와디즈, 소상공인 온라인 진출 돕는 ‘보탬상회’로 8.5억원 자금 조달",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261016155550",
+      "published_at": "2026-10-16T16:02:50+09:00",
+      "summary": "[지디넷코리아]펀딩 플랫폼 와디즈가 서울신용보증재단과 공동 진행한 소상공인 지원 기획전 '보탬상회'를 통해 107개 참가사가 누적 8억 5000만원의 펀딩 성과를 달성했다.16일 회사에 따르면, 이번 기획전은 우수한 제품을 갖추고도 판로 확보에 어려움을 겪는 서울 지역 소상공인의 온라인 진출을 돕기 위해 마련됐다. 지난 8월 3일부터 9월 18일까지 운영됐으며, 1만 5000여명의 서포터가 참여한 가운데 개별 프로젝트의 약 80%가 목표 금액을 넘기며 이달 7일 펀딩을 성공적으로 마무리했다.와디즈는 전용 페이지 노출과 SNS 홍보, 주간 할인쿠폰 발행 등을 추가 비용 없이 지원해 마케팅 여력이 부족한 참가사들의 홍보 부담을 대폭 낮췄다. 참가 기업들은 '선주문 후제작' 방식으로 초기 재고 리스크 없이 소비자 반응을 확인하고 생산 자금을 원활히 조달했다. 특히 국가유산진흥원의 '2026 K-Heritage' 및 '2026 대한민국 서울 공식 디자인'에 선정된 브랜드 '대한민국 무궁화…",
+      "category_score": 58,
+      "score_reason": "마케팅, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "마케팅",
+        "플랫폼",
+        "소비자",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 마케팅, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]펀딩 플랫폼 와디즈가 서울신용보증재단과 공동 진행한 소상공인 지원 기획전 '보탬상회'를 통해 107개 참가사가 누적 8억 5000만원의 펀딩 성과를 달성했다.16일 회사에 따르면, 이번 기획전은 우수한…",
+      "importance_reason": "마케팅, 플랫폼, 소비자 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "267d8866f62c5109a1cfeb829026c77fd58c08a7ab397573febe33679eceec19",
+      "title": "누베이, 남아공 현지 결제 수납 서비스 허가 획득",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261015231002",
+      "published_at": "2026-10-15T23:10:02+09:00",
+      "summary": "[지디넷코리아] 남아공은 아프리카 최대 규모를 다투는 디지털 커머스 시장, 이를 계기로 '모든 결제를 어디서나' 전략 고도화 박차…현지 매입 인프라를 52개 시장으로 확대 몬트리올, 2026년 10월 15일 /PRNewswire/ -- 모든 결제를 어디서나 처리할 수 있는 인프라를 구축하는 글로벌 핀테크 기업 누베이(Nuvei)가 남아프리카공화국 결제협회(Payments Association of South Africa, PASA)로부터 남아공 내 가맹점 결제 서비스 제공을 위한 허가를 획득했다고 발표했다. 글로벌 결제 플랫폼을 통해 글로벌 브랜드와 현지 기업을 지원하는 역량이 더 커지는 계기가 됐다. 이번 허가 획득으로 각국 결제 생태계 내 입지를 넓혀 기업이 사업을 영위하는 시장 어디서나 결제 성과를 최적화하도록 지원하는 누베이의 '모든 결제를 어디서나(Every Payment Everywhere)' 전략이 탄력을 받게 됐다. 남아공이 누베이 네트워크에 추가됨으로써 현지 매입…",
+      "category_score": 53,
+      "score_reason": "커머스, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "커머스",
+        "플랫폼",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 커머스, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 70,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아] 남아공은 아프리카 최대 규모를 다투는 디지털 커머스 시장, 이를 계기로 '모든 결제를 어디서나' 전략 고도화 박차…현지 매입 인프라를 52개 시장으로 확대 몬트리올, 2026년 10월 15일 /PRN…",
+      "importance_reason": "커머스, 플랫폼, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "b4033592861168d09bf5a4bf614eb85e4355dc01983b5cb48ab72dba7ea4b172",
+      "title": "AB180, ‘브레이즈 커넥션 서울’서 티머니 개인화 마케팅 혁신 사례 공개",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261016171542",
+      "published_at": "2026-10-16T17:21:30+09:00",
+      "summary": "[지디넷코리아]풀스택 AI 마케팅 기업 에이비일팔공(AB180)이 지난 15일 서울 강남구 조선 팰리스에서 열린 '브레이즈 커넥션 서울'에 스폰서로 참가해 티머니모빌리티의 실시간 행동 데이터 기반 개인화 성공 사례와 AI 시대 마테크 활용 전략을 공유했다.16일 회사에 따르면, 이번 행사에서 티머니모빌리티 전재영·조수빈 매니저는 '티머니GO' 이용자 여정에 맞춘 예약 발송과 인앱 광고 운영 성과를 발표했다. 티머니모빌리티는 AB180의 컨설팅을 거쳐 별도 서버 개발 없이 브레이즈의 '컨텍스트 스텝'과 '퍼스널라이즈 딜레이' 기능을 활용해 맞춤형 알림 시나리오를 구축했다. 아울러 '콘텐츠 카드'를 통해 지역별 맞춤 배너 노출과 외부 운영 위탁 시스템을 구현함으로써 앱 지면을 활용한 신규 매출을 확보하고, 고속·시외버스 승객 대상 택시 할인 쿠폰을 연계한 교차 마케팅으로 휴면 고객의 재이용을 이끌어냈다.이어 진행된 세션에서는 박주렬 AB180 솔루션즈 아키텍트가 연사로 나서 AI 마테…",
+      "category_score": 63,
+      "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "마케팅",
+        "개인화",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 68,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]풀스택 AI 마케팅 기업 에이비일팔공(AB180)이 지난 15일 서울 강남구 조선 팰리스에서 열린 '브레이즈 커넥션 서울'에 스폰서로 참가해 티머니모빌리티의 실시간 행동 데이터 기반 개인화 성공 사례와…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "429f03568f25e5f9d84c5dfed4c82dd1e447a2702fe0660066336555486babb0",
+      "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.20628",
+      "published_at": "2026-10-16T13:00:00+09:00",
+      "summary": "arXiv:2610.20628v1 Announce Type: new Abstract: Multi-agent systems (MAS) based on large language models (LLMs) have become a powerful way to address complex problems, and their effectiveness depends critically on the collaboration topology that decides which agents participate and how they communicate. Recent work learns to generate this topology from the task query, fitting the generator to corpora of execution-verified graphs. The post-training method for such generators remains a limitation…",
+      "category_score": 61,
+      "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "agent",
+        "agents",
+        "model",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.20628v1 Announce Type: new Abstract: Multi-agent systems (MAS) based on large language models (LLMs) have bec…",
+      "importance_reason": "LLM, agent, agents 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "9e05be0c3128d65aad35db719883ab2417821839b4bc606733191dcbd8cd746d",
+      "title": "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.20634",
+      "published_at": "2026-10-16T13:00:00+09:00",
+      "summary": "arXiv:2610.20634v1 Announce Type: new Abstract: Retrieval-augmented generation asks one question at volume: does this evidence support this claim? The answer is one bit, yet most pipelines obtain it from a text generator and pay generation prices for the prose wrapped around it. We compare a non-generative decision model, which returns a typed value from a declared enumeration together with a native probability and no text, against a frontier LLM configured as an engineer would deploy it for bi…",
+      "category_score": 61,
+      "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "RAG",
+        "model",
+        "retrieval",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.20634v1 Announce Type: new Abstract: Retrieval-augmented generation asks one question at volume: does this ev…",
+      "importance_reason": "LLM, RAG, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 62,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "Hugging Face Blog",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 마케팅, 플랫폼, 브랜드, LLM 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}

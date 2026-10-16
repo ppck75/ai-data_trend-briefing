@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-16T17:25:24.732154+09:00",
+  "updated_at": "2026-10-16T22:27:38.961440+09:00",
   "archives": [
+    {
+      "id": "2026-10-16_22-27",
+      "date": "2026-10-16",
+      "time": "22:27",
+      "label": "2026-10-16 22:27",
+      "generated_at": "2026-10-16T22:27:35.571105+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "분석"
+      ],
+      "integrated_titles": [
+        "와디즈, 소상공인 온라인 진출 돕는 ‘보탬상회’로 8.5억원 자금 조달",
+        "누베이, 남아공 현지 결제 수납 서비스 허가 획득",
+        "AB180, ‘브레이즈 커넥션 서울’서 티머니 개인화 마케팅 혁신 사례 공개",
+        "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
+        "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM"
+      ],
+      "path_json": "archive/2026-10-16/22-27.json",
+      "path_md": "archive/2026-10-16/22-27.md"
+    },
     {
       "id": "2026-10-16_17-35",
       "date": "2026-10-16",
