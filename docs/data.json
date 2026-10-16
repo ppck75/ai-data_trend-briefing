@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T01:02:17.424512+09:00",
+  "updated_at": "2026-10-17T01:32:20.271101+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2019,6 +2019,24 @@
       "planning_insight": ""
     },
     {
+      "id": "8aa4f93382a9999045138203b7e743e43d6ecad05139648754f4aceeee79588b",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published_at": "2026-10-16T09:00:00+09:00",
+      "entry_updated_at": "2026-10-16T09:00:00+09:00",
+      "fetched_at": "2026-10-17T01:32:20.061743+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "b986132892d7fdc7711efbef2db10ff7519cc0544a37441af69b6ad830b9c0d6",
       "source": "매일경제 기업",
       "group": "news",
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261015135608",
       "published_at": "2026-10-15T13:56:17+09:00",
       "entry_updated_at": "2026-10-15T13:56:17+09:00",
-      "fetched_at": "2026-10-15T15:10:34.889883+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "5680f2916fe6d131ed5c6e53bf988d9656e8f875bb3433f9cc59987a2a207fd6",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "[인사]한국원자력연구원",
-      "summary": "[지디넷코리아]< 부원장 >▲부원장 최기용< 본부장 >▲원자력진흥전략본부장 이영준▲경영기획본부장 이영철",
-      "url": "https://zdnet.co.kr/view/?no=20261015135515",
-      "published_at": "2026-10-15T13:55:15+09:00",
-      "entry_updated_at": "2026-10-15T13:55:15+09:00",
       "fetched_at": "2026-10-15T15:10:34.889883+09:00",
       "language": "ko",
       "importance_weight": 0.85,
