@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-16T22:27:38.961440+09:00",
+  "updated_at": "2026-10-17T09:42:14.490830+09:00",
   "archives": [
+    {
+      "id": "2026-10-17_09-42",
+      "date": "2026-10-17",
+      "time": "09:42",
+      "label": "2026-10-17 09:42",
+      "generated_at": "2026-10-17T09:42:01.020574+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "“신혼가전 추천해줘” AI에 물었더니 경쟁사 제품만 줄줄…임원회의 ‘발칵’",
+        "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장",
+        "실행은 도메인별로, 문맥은 한 레포에",
+        "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM"
+      ],
+      "path_json": "archive/2026-10-17/09-42.json",
+      "path_md": "archive/2026-10-17/09-42.md"
+    },
     {
       "id": "2026-10-16_22-27",
       "date": "2026-10-16",
