@@ -1,6 +1,6 @@
 {
-  "briefing_date": "2026-10-19",
-  "generated_at": "2026-10-19T18:12:51.405870+09:00",
+  "briefing_date": "2026-10-20",
+  "generated_at": "2026-10-20T00:49:00.049075+09:00",
   "source_total": 200,
   "category_counts": {
     "news": 189,
@@ -11,102 +11,102 @@
     "news": [
       {
         "rank": 1,
-        "id": "36f60bf0b22c9a00899ba38e57c09ef3a0d680bf46df396311c7a9aedae45bc8",
-        "title": "인스타·페북 상업용 계정, AI 학습 강제 활용...\"언론사 비상\"",
+        "id": "d8d35ee7390a051ef3ca7fd8632d5f0fc8fc9d28ccc2510fed364628113dd40d",
+        "title": "영화만을 위한 OTT '무비랩'...\"사람이 직접 추천\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261017091913",
-        "published_at": "2026-10-17T09:23:50+09:00",
-        "summary": "[지디넷코리아]페이스북과 인스타그램을 운영하는 메타(Meta)가 상업용 이용 약관을 개정해 논란이 일고 있다. 새 약관에 따르면, 메타 플랫폼에 비즈니스 계정을 가진 기업이나 언론사, 유명인은 자사 웹사이트의 데이터를 메타가 인공지능(AI) 학습용으로 수집(스크래핑)하는 데 강제로 동의한 것으로 간주된다.하버드대 저널리즘 연구 프로젝트인 '니먼 랩(Nieman Lab)' 등 외신에 따르면, 메타는 이달 초 비즈니스 헬프 센터와 메타 비즈니스 스위트를 통해 '상업용 이용 약관' 업데이트를 공지했다. 이달 30일부터 효력이 발생하는 이 새 약관에는 웹 크롤링과 관련된 광범위한 데이터 수집 조항이 신설됐다.신설된 약관에는 \"고객(비즈니스 계정 이용자)은 당사가 자동화된 소프트웨어(웹 스크래퍼, 봇, 크롤러 등)를 사용해 고객의 제품이나 서비스와 연결된 도메인, 웹페이지, URL 등에 접근해 콘텐츠를 수집, 인덱스화, 크롤링하는 것을 허용한다\"고 명시돼 있다. 또 메타는 이렇게 수집한 콘…",
-        "category_score": 98,
-        "score_reason": "메타의 AI 데이터 학습 강제화는 전 세계 플랫폼 비즈니스와 콘텐츠 창작 생태계에 직접적인 영향을 미치는 핵심 변화 신호입니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261018210527",
+        "published_at": "2026-10-19T08:55:44+09:00",
+        "summary": "[지디넷코리아]1분짜리 쇼츠와 짧고 자극적인 콘텐츠가 넘쳐나는 시대, 오직 영화에 집중하는 온라인동영상서비스(OTT)가 등장했다. 지난 1일 출범한 '무비랩'이다. 영화 감상부터 작품에 관한 이야기, 굿즈 구매와 오프라인 공간 탐색까지 영화와 관련된 다양한 경험을 하나의 플랫폼에 담았다.무비랩이 기존 OTT와 가장 크게 구별되는 지점은 콘텐츠 추천 방식이다. 인기 순위나 이용자 시청 기록을 분석하는 알고리즘 대신 사람이 직접 고른 작품을 소개한다. 이용자가 어떤 영화를 선택하더라도 만족할 수 있도록 작품 선정과 큐레이션에 집중하겠다는 구상이다.무비랩 관계자는 “기존 OTT의 톱10 순위와 알고리즘 기반 개인화 추천에 회의를 느꼈다”며 “추천받은 콘텐츠를 보고도 감흥이 없어 허무했던 경험이 많았다”고 말했다. 이어 “좋은 영화가 알고리즘에서 선택받지 못했다는 이유로 빛을 보지 못하고 사라지는 것이 안타까웠다”며 “오래 간직할 만한 영화를 하나하나 엄선해 소개하고 있다”고 설명했다.무…",
+        "category_score": 67,
+        "score_reason": "플랫폼, 개인화, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI",
           "플랫폼",
-          "데이터권리",
-          "저작권"
+          "개인화",
+          "추천",
+          "알고리즘",
+          "콘텐츠"
         ],
-        "planning_insight": "플랫폼의 데이터 수집 약관 변화가 콘텐츠 제작자의 생존권 및 법적 대응 전략으로 이어지는 흐름을 지속 추적하여, 크리에이터 경제 보호를 위한 인사이트 확보 필요."
+        "planning_insight": "이 항목은 플랫폼, 개인화, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "3c00d20040406820d5bd2f37dfa435cbeb88be7b36a315c3378e8bbb592802c4",
-        "title": "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라”",
+        "id": "9e98cd2d79ef6e73e68902b87003dc243c4d005baf05f05faa7e5f54e3802868",
+        "title": "LG CNS, IDC 글로벌 평가서 '메이저 플레이어'…국내 기업 최초",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261016211936",
-        "published_at": "2026-10-17T07:30:02+09:00",
-        "summary": "[지디넷코리아]일본 성우와 배우들이 자신의 목소리를 AI 학습이나 음성 합성에 이용하려면 사전에 허락을 받고 별도의 대가를 지급하라는 지침을 마련했다. AI가 실제 성우를 대신해 목소리를 생성하는 것은 물론 기존 음성을 학습하는 단계부터 권리자의 동의를 받겠다는 뜻이다.16일 일본 IT 전문매체인 IT미디어에 따르면 약 2600명의 성우와 배우가 가입한 일본배우연합은 '음성 생성AI 이용 가이드라인'을 발표했다. 발표에 따르면 AI 개발사와 콘텐츠 제작사, 서비스 사업자 등이 성우의 목소리를 이용할 때 지켜야 할 기준을 제시하면서 향후 법제화 추진 계획도 내놨다.먼저 가이드라인은 사전 동의와 음성 데이터 관리, 적정한 보수 지급을 3대 원칙으로 삼았다. AI 학습과 음성 생성, 공개 및 이용 등 모든 단계에서 목소리 주인의 허락을 받아야 하며, 한 번의 계약으로 향후 모든 이용을 허용하는 포괄적 동의는 인정하지 않는다.동의 유효기간도 원칙적으로 최장 1년으로 제한했다. AI 모델을…",
-        "category_score": 95,
-        "score_reason": "AI 기술의 발전에 따라 인간 고유의 영역인 '목소리'를 보호하려는 노동계의 능동적 대응은 향후 콘텐츠 산업의 표준 가이드라인으로 확산 가능성이 높습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261019133713",
+        "published_at": "2026-10-19T13:37:35+09:00",
+        "summary": "[지디넷코리아]LG CNS가 글로벌 시장조사기관 IDC의 디지털 워크플레이스 서비스 평가에서 '메이저 플레이어'로 선정되며 기업용 인공지능(AI) 업무혁신 역량을 인정받았다.자체 에이전틱 AI 플랫폼을 기반으로 업무 자동화와 생산성 향상을 지원하고 금융·공공 등 보안이 중요한 산업에서 축적한 사업 경험이 주요 경쟁력으로 평가된 모습이다.LG CNS는 IDC의 '2026년 전 세계 디지털 워크플레이스 서비스(DWS) 부문 벤더 평가'에서 메이저 플레이어로 선정됐다고 19일 밝혔다.국내 기업이 해당 평가에 포함된 것은 이번이 처음이며 LG CNS가 유일하다는 게 회사 측 설명이다. 이번 평가에는 타타컨설턴시서비스(TCS), 인포시스, NTT데이터, 코그니전트, 델, HP 등 글로벌 IT 기업 18개사가 참여했다.IDC 마켓스케이프는 글로벌 IT 기업의 현재 사업 역량과 향후 전략을 종합적으로 분석하는 평가 모델이다. 제품과 서비스 경쟁력뿐 아니라 고객사 적용 사례와 실제 고객 경험 등…",
+        "category_score": 59,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "콘텐츠 저작권",
-          "디지털 권리"
+          "플랫폼",
+          "데이터",
+          "자동화"
         ],
-        "planning_insight": "AI 생성 콘텐츠 시대에 인간 창작자의 권리 확보가 핵심 이슈가 됨에 따라, AI 윤리 가이드라인 및 플랫폼 내 저작물 보호 기능을 강조하는 콘텐츠 구성 전략 수립."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 3,
-        "id": "6c24ac67406adcc0561bc40b59da117ed2c4ab59f42447bf886dfa7590b2dce7",
-        "title": "AI 열풍에 서버값 최대 4배↑…\"가격 안정은 2028년 이후에나\"",
+        "id": "260c0ff765c807de1e44b9c5bbbca1edd9cf578562535b1ab89ddcba71b88a54",
+        "title": "문화유산 디지털 전환, 승부처는 ‘사용자 경험’…기술을 서비스로 잇는다",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261017215532",
-        "published_at": "2026-10-18T09:07:42+09:00",
-        "summary": "[지디넷코리아]인공지능(AI) 인프라 투자 확대로 메모리 공급이 대형 데이터센터에 집중되면서 일반 기업용 서버 가격이 지난해 대비 최대 4배 상승한 것으로 나타났다.메모리 공급 부족이 장기화할 것으로 예상되는 만큼 기업들이 서버 교체 시기를 조정하고 IT 인프라 투자 계획을 재검토해야 한다는 제언이 나왔다.18일 글로벌 시장조사기관 가트너가 발표한 'AI 붐 속 2027년 서버 및 스토리지 비용' 보고서에 따르면 올해 서버 가격은 지난해 대비 2~4배, 스토리지 가격은 최대 2배 상승했다.가트너는 이러한 가격 상승세가 내년까지 이어지고 실질적인 가격 안정은 2028년 이후에나 가능할 것으로 전망했다.가격 상승의 주요 원인은 AI 인프라로의 메모리 공급 집중이다. 메모리 제조업체들이 그래픽처리장치(GPU)에 사용되는 고대역폭메모리(HBM)와 대형 클라우드 사업자에 D램 공급을 우선 배정하면서 일반 서버에 사용되는 메모리 공급이 줄어들고 있는 양상이다. 낸드플래시 역시 AI 관련 스토…",
-        "category_score": 92,
-        "score_reason": "AI 열풍이 IT 인프라 비용 상승으로 전이되는 현상은 기술 생태계의 지속 가능성에 영향을 주는 거시적 트렌드입니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261018153224",
+        "published_at": "2026-10-18T15:32:24+09:00",
+        "summary": "[지디넷코리아]문화유산을 기록하고 복원하는 디지털 기술을 실제 콘텐츠와 서비스로 연결하기 위한 현장의 과제가 제시됐다. AI가 역사 기록을 정확하게 읽도록 데이터를 정비하고, 관람객의 배움과 참여를 설계하는 한편, 완성된 콘텐츠가 일상에서 지속적으로 소비될 통로까지 마련해야 한다는 제언이다.18일 국립공주박물관 강당에서 진행된 ‘2026 디지털헤리티지페스타 산업 컨퍼런스’ 두 번째 세션은 ‘기술에서 콘텐츠와 서비스로’를 주제로 구성됐다. 유승민 텍스트웨이 대표, 이애진 플로우디엑스 대표, 김군호 에이콘팩토리 대표, 이경태 엘팩토리 대표가 데이터와 교육, 전시공간, 플랫폼의 관점에서 활용 방안을 다뤘다.유승민 대표는 문화유산 자료의 디지털화와 AI가 이를 정확하게 이해하는 작업은 별개의 과제라고 짚었다. 고해상도 촬영과 3D 스캔, 보고서 전자화가 이뤄졌어도 문장 사이의 맥락과 인물의 역할, 출처, 추정과 확정의 구분까지 AI에 전달되는 것은 아니라는 설명이다.그는 문화유산 기록에…",
+        "category_score": 59,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "IT 인프라",
-          "비용 경제",
-          "시장 변화"
+          "플랫폼",
+          "데이터",
+          "콘텐츠"
         ],
-        "planning_insight": "AI 도입의 경제적 부담을 역설하는 현상은 향후 '효율성 중심의 AI(Small AI)' 또는 '클라우드 비용 절감형 솔루션' 시장으로의 콘텐츠 이동을 예고함."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "f62bb7357c8c63b69596c3b0e4f176e0fdaa1e9a5a9ae3b0b8d95cd026952bae",
-        "title": "AI 쓰는 HR 늘었지만 성과 더딘 이유…\"열쇠는 조직 맥락\"",
+        "id": "128a14570a02209562667e646b5bbda43fcb2e625bda33531a28c40805b095c8",
+        "title": "군인 30만명, NHN두레이로 업무 본다…전군 협업 플랫폼 '국방이음' 운영 시작",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261018215613",
-        "published_at": "2026-10-19T09:00:01+09:00",
-        "summary": "[지디넷코리아]기업 전반에 AI 활용이 확산되면서 인적자원(HR) 부서에서도 반복 업무를 자동화하고 인사 근데 판단의 객관성을 높이려는 움직임이 늘어나고 있다. 하지만 휴먼컨설팅그룹(HCG)은 실제 활용이 아직 개인 업무 등 표면적인 수준에 머물러 있다고 진단, \"AI를 인사 업무에 정착시키고 생산성을 확대하려면 조직 고유의 판단 기준과 맥락을 담는 시스템이 뒷받침돼야 한다\"는 판단이다.국내외 조사도 같은 흐름을 보여준다. 올해 3월 다우오피스HR이 국내 인사담당자 259명을 대상으로 진행한 설문조사에 따르면, 응답자의 83.4%가 업무에 AI를 쓰고 있지만 전사 도입이나 반복 업무 자동화까지 나아간 경우는 24.7%에 그쳤다. 해외사례도 비슷하다. 컬처앰프가 지난 7월 발표한 ‘2026 AI in HR’ 조사에서 HR 담당자의 AI 활용은 콘텐츠 작성(86%) 같은 개인 업무에 집중됐고, HR 운영 자동화에 적용한 비율은 39%였다. 또 맥킨지가 지난 8월 발표한 ‘2026년 A…",
-        "category_score": 89,
-        "score_reason": "기업들이 AI를 도입하고도 성과를 내지 못하는 원인을 '조직 맥락 부재'로 진단하는 점은 AI 플랫폼 구축 시 실무 효율성 중심의 전략적 관점을 제시합니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261019184242",
+        "published_at": "2026-10-19T18:42:42+09:00",
+        "summary": "[지디넷코리아]NHN두레이가 국방부와 육·해·공군 등 전군 30만명이 사용하는 통합 협업 플랫폼 '국방이음' 구축을 마쳤다. 군 내부에 분산돼 있던 메신저와 메일, 문서 공유 등 업무 기능을 하나로 통합하고, 향후 인공지능(AI) 기능까지 확대하는 방안을 검토한다.NHN두레이는 자사 협업 서비스 '두레이(Dooray!)'를 기반으로 구축한 국방이음이 공식 운영을 시작했다고 19일 밝혔다.국방이음은 국방부와 육·해·공군, 국방부 직할부대 등 전군 30만명이 사용하는 공식 협업 플랫폼이다. 기존에 조직과 부대별로 나뉘어 있던 업무 도구를 하나로 통합해 부대 간 자료 공유와 협업을 지원한다.NHN두레이는 2024년 말부터 국방통합데이터센터에 두레이를 구축하고 국방부와 일부 부대에 서비스를 제공해 왔다. 이후 적용 범위를 단계적으로 확대해 이번에 전군 대상 공식 서비스를 개통했다.국방이음에서는 메신저와 메일, 프로젝트 관리, 드라이브, 캘린더, 화상회의 등 주요 협업 기능을 이용할 수 있…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "HR",
-          "조직 변화",
-          "업무 혁신"
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "기술 만능주의에서 벗어나 실질적인 생산성 향상을 위한 '조직 맞춤형 AI 구축 사례'를 발굴하여 기업용 AI 성공 전략 콘텐츠로 확장 가능."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "6b812032dc92dd79dc3639bca8b751c01bd1fdc2943a8a25c656876162260b60",
-        "title": "배민, 중소형마트 퀵커머스 확대…전국 5000여곳 POS 연동",
-        "source": "ZDNet Korea",
+        "id": "7878d4355a68d911d52d536cd5f689fb197ac5dc531877dfa1ae3f103e2fd5dc",
+        "title": "KISTI, AI로 연구성과·기업 연결…‘아폴로 2.0’ 공개",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261018112439",
-        "published_at": "2026-10-18T12:01:48+09:00",
-        "summary": "[지디넷코리아]배달의민족이 전국 중소형마트를 대상으로 퀵커머스 입점 확대에 나선다.배달의민족 운영사 우아한형제들은 마트용 판매시점정보관리(POS) 업체 투게더스와 협약을 맺고, 투게더스의 POS와 배민 앱을 연동하는 시스템을 구축했다고 18일 밝혔다.이에 따라 투게더스 POS를 사용하는 약 5000곳의 중소형마트는 기존 시스템을 그대로 이용하면서 배민을 통한 주문을 받을 수 있게 된다.기존에는 배민 주문을 처리하기 위해 별도 프로그램을 이용하고, 앱에서 판매된 상품과 재고 정보도 따로 입력해야 했다. 이번 연동으로 주문 접수와 상품 등록, 재고 관리, 결제 등을 기존 POS에서 처리할 수 있게 됐다.배민은 이달 초 ‘토마토식자재마트’를 첫 입점 브랜드로 추가했으며 다음 달부터 참여 마트를 확대할 예정이다.투게더스의 시스템을 사용하는 곳에는 식자재마트와 동네마트 등 지역 중소형 유통업체가 포함돼 있다. 이들 매장은 일반 소비자뿐 아니라 인근 음식점 등 소상공인에게 식자재를 공급하는…",
-        "category_score": 86,
-        "score_reason": "오프라인 중소형 마트와 퀵커머스 플랫폼의 시스템 연동은 전통적인 유통 체인이 디지털 플랫폼으로 편입되는 전형적인 디지털 전환 트렌드입니다.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12179202",
+        "published_at": "2026-10-19T08:54:06+09:00",
+        "summary": "22일 과학기술사업화 포럼서 기술사업화 플랫폼 ‘아폴로’ 런칭 AI로 데이터 5.6억건 분석해 공공기술 필요한 기업 연결 수요 맞춤 기술 523건 발굴 기술 이전·사업화 기회 ..",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "커머스",
+          "AI",
           "플랫폼",
-          "퀵커머스",
-          "디지털 전환"
+          "데이터"
         ],
-        "planning_insight": "온-오프라인 통합(OMO) 전략의 핵심은 실시간 데이터 연동임을 강조하며, 커머스 생태계의 확장에 따른 소상공인 상생 모델 사례로 발전."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -120,14 +120,10 @@
         "url": "https://toss.tech/article/nic-interrupt-bottleneck",
         "published_at": "2026-10-19T12:07:00+09:00",
         "summary": "NIC 인터럽트에서 찾은 병목",
-        "category_score": 75,
-        "score_reason": "토스 서비스의 대규모 트래픽 처리 과정에서 발생하는 물리적 병목 현상을 분석하여 서비스 안정성 확보를 위한 기술적 통찰을 제공함.",
-        "keywords": [
-          "인프라 최적화",
-          "병목 분석",
-          "서비스 안정성"
-        ],
-        "planning_insight": "서비스 성능 이슈가 단순 하드웨어 사양의 문제가 아닌 특정 네트워크 인터럽트와 같은 세밀한 지점에서 발생할 수 있음을 인지하고, 안정적인 사용자 경험을 위한 기술적 모니터링 체계의 중요성을 도출함."
+        "category_score": 33,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
       }
     ],
     "ai_data": [
@@ -141,33 +137,37 @@
         "url": "https://arxiv.org/abs/2610.22511",
         "published_at": "2026-10-19T13:00:00+09:00",
         "summary": "arXiv:2610.22511v1 Announce Type: new Abstract: Evaluating language models and agents requires combining benchmark accuracy, judge-based assessment, runtime performance, tool-use behavior, and retrieval quality. Differences in interfaces, metric semantics, and trace formats complicate these comparisons and can hide failures in agentic workflows. We present AuditKIT, a source-available evaluation library that records these measurements in one result representation, with direction-aware metric co…",
-        "category_score": 95,
-        "score_reason": "에이전트 및 LLM 시스템의 성과를 통합적으로 평가하는 프레임워크는 실무에서 AI 도입 시 가장 중요한 신뢰성 검증 도구가 됨.",
+        "category_score": 67,
+        "score_reason": "agent, agents, benchmark 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "LLM",
-          "에이전트",
-          "평가프레임워크"
+          "agent",
+          "agents",
+          "benchmark",
+          "model",
+          "retrieval"
         ],
-        "planning_insight": "AI 자동화 서비스 기획 시, 모델의 성능과 도구 활용 능력을 측정하는 표준화된 평가 지표 수립이 프로젝트 성공의 핵심임."
+        "planning_insight": "이 항목은 agent, agents, benchmark 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "51298e075b2247d11b3193508f3e87bb076b82254f1b5cce7b1cf591d4591060",
-        "title": "Learning User Representations to Improve Simulation Fidelity",
+        "id": "383e46772f268ece3a4d2f0673bc8442004d4bc7bd7f749bf1de897b767e490b",
+        "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.22518",
+        "url": "https://arxiv.org/abs/2610.22515",
         "published_at": "2026-10-19T13:00:00+09:00",
-        "summary": "arXiv:2610.22518v1 Announce Type: new Abstract: User simulators enable interactive training and evaluation of AI assistants at scale. Yet current simulators struggle to reproduce the diverse behaviors of real users, leading to assistants that generalize poorly to underrepresented users. We identify user representations as an underexplored bottleneck in user simulation. User representations are natural-language descriptions that condition simulators to reproduce a particular user's behavior. A r…",
-        "category_score": 92,
-        "score_reason": "사용자 행동 시뮬레이션을 위한 표현 학습은 콘텐츠 추천 알고리즘과 개인화 서비스 최적화에 직결됨.",
+        "summary": "arXiv:2610.22515v1 Announce Type: new Abstract: We describe our submission to Subtask~1b of ImageEval 2026. The task consists of selecting the single visually valid statement from three candidates paired with an image, and is in both English and Modern Standard Arabic (MSA). Our system uses a pre-trained 7B vision--language model in a zero-shot setting, without task-specific training or fine-tuning. We formulate the task as a constrained selection problem and choose the answer using next-token…",
+        "category_score": 61,
+        "score_reason": "RAG, multimodal, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "사용자시뮬레이션",
-          "개인화",
-          "AI어시스턴트"
+          "RAG",
+          "multimodal",
+          "model",
+          "fine-tuning",
+          "AI"
         ],
-        "planning_insight": "실제 사용자 데이터를 확보하기 전, 고도화된 사용자 시뮬레이션을 통해 콘텐츠 추천 모델의 학습 효율을 비약적으로 높일 수 있음."
+        "planning_insight": "이 항목은 RAG, multimodal, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 3,
@@ -179,244 +179,245 @@
         "url": "https://arxiv.org/abs/2610.22507",
         "published_at": "2026-10-19T13:00:00+09:00",
         "summary": "arXiv:2610.22507v1 Announce Type: new Abstract: Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes without capturing runtime collaboration quality. In this paper, we present REALCLI, a paired benchmark that unifies the evaluation of task execution and human-agent collaboration quality on realistic CLI tasks. To comprehensively measure collaboration…",
-        "category_score": 88,
-        "score_reason": "인간-에이전트 협업의 질을 측정하는 벤치마크는 복잡한 업무를 AI로 자동화하려는 기획자에게 필수적인 인사이트를 제공.",
+        "category_score": 58,
+        "score_reason": "agent, agents, benchmark 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "에이전트",
-          "워크플로우",
-          "협업"
+          "agent",
+          "agents",
+          "benchmark",
+          "evaluation",
+          "AI"
         ],
-        "planning_insight": "단순 명령 수행이 아닌, 인간과 협업하는 에이전트 설계 시 워크플로우 중간 과정의 정성적 품질 관리가 중요함."
+        "planning_insight": "이 항목은 agent, agents, benchmark 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "383e46772f268ece3a4d2f0673bc8442004d4bc7bd7f749bf1de897b767e490b",
-        "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
+        "id": "20f63b2bf9dcc25dc0bb66b86b6f548d99a451266c467daf4eb48d90b7e3e377",
+        "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.22515",
+        "url": "https://arxiv.org/abs/2610.22428",
         "published_at": "2026-10-19T13:00:00+09:00",
-        "summary": "arXiv:2610.22515v1 Announce Type: new Abstract: We describe our submission to Subtask~1b of ImageEval 2026. The task consists of selecting the single visually valid statement from three candidates paired with an image, and is in both English and Modern Standard Arabic (MSA). Our system uses a pre-trained 7B vision--language model in a zero-shot setting, without task-specific training or fine-tuning. We formulate the task as a constrained selection problem and choose the answer using next-token…",
-        "category_score": 85,
-        "score_reason": "멀티모달 모델의 환각(Hallucination) 현상을 탐지하고 제어하는 기술은 이미지 기반 콘텐츠 생성/검증 시스템에 필수적임.",
+        "summary": "arXiv:2610.22428v1 Announce Type: new Abstract: In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, it is also most of the file once the rest of the model is compressed. We ask what that table actually buys. We replace it with one frozen table of 512-bit codes, 16 MB, with no trainable parameters, derived once from a pretrained embedding by principa…",
+        "category_score": 45,
+        "score_reason": "embedding, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "멀티모달",
-          "환각탐지",
-          "콘텐츠검증"
+          "embedding",
+          "model",
+          "AI"
         ],
-        "planning_insight": "AI 기반 자동 콘텐츠 생성 파이프라인에서 시각적 정확도를 보장하기 위해 환각 탐지 모듈을 필터링 단계로 도입해야 함."
+        "planning_insight": "이 항목은 embedding, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "acf594d143148ca942c90068cf9f33d4221fc937a03582c5b138926e618dd0df",
-        "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
+        "id": "cc25efa963b58930b5bab42c1d30226ef6dd87f5a8d41c89e7361628efd142a0",
+        "title": "Literal Lock-In: How Test Language Shifts Literal Attraction in Typed Decision Models on Bengali Idioms",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.22454",
+        "url": "https://arxiv.org/abs/2610.22526",
         "published_at": "2026-10-19T13:00:00+09:00",
-        "summary": "arXiv:2610.22454v1 Announce Type: new Abstract: Running prompt tokens through fewer routed experts during prefill is a simple way to make mixture-of-experts (MoE) serving cheaper, yet it is unclear what this damages. We locate the damage with token-, layer- and attention-path interventions on short-answer question answering in four MoE families. At half the experts the F1 loss of three families is mostly answer form: the model still finds the answer but stops answering briefly. In Qwen3-30B-A3B…",
-        "category_score": 82,
-        "score_reason": "MoE 모델의 최적화 관련 이슈는 비용 효율적인 대규모 AI 서비스를 구축하는 실무 기획자에게 운영적 가이드가 됨.",
+        "summary": "arXiv:2610.22526v1 Announce Type: new Abstract: Decision models, non-generative scorers that report a probability over caller-supplied options and emit no text, are increasingly deployed as routers, classifiers and guardrails. Because they generate nothing, rationales and chain-of-thought do not apply. We audit three: an encoder scorer, a decoder scorer and a closed API, entirely through interventions on their input, using expert-annotated Bengali idioms carrying a gold figurative and a gold li…",
+        "category_score": 45,
+        "score_reason": "model, API, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "MoE",
-          "모델최적화",
-          "서빙비용"
+          "model",
+          "API",
+          "AI"
         ],
-        "planning_insight": "프롬프트 입력 단계에서의 최적화가 전체 모델 성능 및 운영 비용에 미치는 영향을 파악하여 최적의 가성비 모델을 선택해야 함."
+        "planning_insight": "이 항목은 model, API, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "36f60bf0b22c9a00899ba38e57c09ef3a0d680bf46df396311c7a9aedae45bc8",
-      "title": "인스타·페북 상업용 계정, AI 학습 강제 활용...\"언론사 비상\"",
+      "id": "d8d35ee7390a051ef3ca7fd8632d5f0fc8fc9d28ccc2510fed364628113dd40d",
+      "title": "영화만을 위한 OTT '무비랩'...\"사람이 직접 추천\"",
       "source": "ZDNet Korea",
       "group": "news",
       "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261017091913",
-      "published_at": "2026-10-17T09:23:50+09:00",
-      "summary": "[지디넷코리아]페이스북과 인스타그램을 운영하는 메타(Meta)가 상업용 이용 약관을 개정해 논란이 일고 있다. 새 약관에 따르면, 메타 플랫폼에 비즈니스 계정을 가진 기업이나 언론사, 유명인은 자사 웹사이트의 데이터를 메타가 인공지능(AI) 학습용으로 수집(스크래핑)하는 데 강제로 동의한 것으로 간주된다.하버드대 저널리즘 연구 프로젝트인 '니먼 랩(Nieman Lab)' 등 외신에 따르면, 메타는 이달 초 비즈니스 헬프 센터와 메타 비즈니스 스위트를 통해 '상업용 이용 약관' 업데이트를 공지했다. 이달 30일부터 효력이 발생하는 이 새 약관에는 웹 크롤링과 관련된 광범위한 데이터 수집 조항이 신설됐다.신설된 약관에는 \"고객(비즈니스 계정 이용자)은 당사가 자동화된 소프트웨어(웹 스크래퍼, 봇, 크롤러 등)를 사용해 고객의 제품이나 서비스와 연결된 도메인, 웹페이지, URL 등에 접근해 콘텐츠를 수집, 인덱스화, 크롤링하는 것을 허용한다\"고 명시돼 있다. 또 메타는 이렇게 수집한 콘…",
-      "category_score": 98,
-      "score_reason": "메타의 AI 데이터 학습 강제화는 전 세계 플랫폼 비즈니스와 콘텐츠 창작 생태계에 직접적인 영향을 미치는 핵심 변화 신호입니다.",
+      "url": "https://zdnet.co.kr/view/?no=20261018210527",
+      "published_at": "2026-10-19T08:55:44+09:00",
+      "summary": "[지디넷코리아]1분짜리 쇼츠와 짧고 자극적인 콘텐츠가 넘쳐나는 시대, 오직 영화에 집중하는 온라인동영상서비스(OTT)가 등장했다. 지난 1일 출범한 '무비랩'이다. 영화 감상부터 작품에 관한 이야기, 굿즈 구매와 오프라인 공간 탐색까지 영화와 관련된 다양한 경험을 하나의 플랫폼에 담았다.무비랩이 기존 OTT와 가장 크게 구별되는 지점은 콘텐츠 추천 방식이다. 인기 순위나 이용자 시청 기록을 분석하는 알고리즘 대신 사람이 직접 고른 작품을 소개한다. 이용자가 어떤 영화를 선택하더라도 만족할 수 있도록 작품 선정과 큐레이션에 집중하겠다는 구상이다.무비랩 관계자는 “기존 OTT의 톱10 순위와 알고리즘 기반 개인화 추천에 회의를 느꼈다”며 “추천받은 콘텐츠를 보고도 감흥이 없어 허무했던 경험이 많았다”고 말했다. 이어 “좋은 영화가 알고리즘에서 선택받지 못했다는 이유로 빛을 보지 못하고 사라지는 것이 안타까웠다”며 “오래 간직할 만한 영화를 하나하나 엄선해 소개하고 있다”고 설명했다.무…",
+      "category_score": 67,
+      "score_reason": "플랫폼, 개인화, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "메타",
-        "데이터권리",
-        "저작권",
-        "크롤링"
+        "플랫폼",
+        "개인화",
+        "추천",
+        "알고리즘",
+        "콘텐츠"
       ],
-      "planning_insight": "플랫폼 종속적 데이터 전략의 위험성을 경고하고, 기업 자체 자사몰(Owned Media) 데이터 보호 및 로컬 데이터베이스 구축의 필요성을 강조하는 콘텐츠 기획이 시급함.",
-      "integrated_score": 96,
+      "planning_insight": "이 항목은 플랫폼, 개인화, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
       "criteria_scores": {
-        "content_strategy": 25,
+        "content_strategy": 14,
         "trend_signal_timeliness": 25,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 16
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "메타(Meta), 상업용 계정 데이터의 AI 학습 강제 수집 약관 개정으로 저작권 논란 가속화",
-      "importance_reason": "플랫폼의 데이터 수집권과 콘텐츠 저작권 간의 직접적 충돌을 보여주는 사례로, 향후 디지털 마케팅 환경과 콘텐츠 유통 전략의 패러다임을 바꿀 중대 사안임."
+      "one_line_summary": "[지디넷코리아]1분짜리 쇼츠와 짧고 자극적인 콘텐츠가 넘쳐나는 시대, 오직 영화에 집중하는 온라인동영상서비스(OTT)가 등장했다. 지난 1일 출범한 '무비랩'이다. 영화 감상부터 작품에 관한 이야기, 굿즈 구매와 오…",
+      "importance_reason": "플랫폼, 개인화, 추천 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 2,
-      "id": "8753583f44281801a75b923731f914214df3084c051b61ac4b1faeba77757a5e",
-      "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.22511",
-      "published_at": "2026-10-19T13:00:00+09:00",
-      "summary": "arXiv:2610.22511v1 Announce Type: new Abstract: Evaluating language models and agents requires combining benchmark accuracy, judge-based assessment, runtime performance, tool-use behavior, and retrieval quality. Differences in interfaces, metric semantics, and trace formats complicate these comparisons and can hide failures in agentic workflows. We present AuditKIT, a source-available evaluation library that records these measurements in one result representation, with direction-aware metric co…",
-      "category_score": 95,
-      "score_reason": "에이전트 및 LLM 시스템의 성과를 통합적으로 평가하는 프레임워크는 실무에서 AI 도입 시 가장 중요한 신뢰성 검증 도구가 됨.",
+      "id": "260c0ff765c807de1e44b9c5bbbca1edd9cf578562535b1ab89ddcba71b88a54",
+      "title": "문화유산 디지털 전환, 승부처는 ‘사용자 경험’…기술을 서비스로 잇는다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261018153224",
+      "published_at": "2026-10-18T15:32:24+09:00",
+      "summary": "[지디넷코리아]문화유산을 기록하고 복원하는 디지털 기술을 실제 콘텐츠와 서비스로 연결하기 위한 현장의 과제가 제시됐다. AI가 역사 기록을 정확하게 읽도록 데이터를 정비하고, 관람객의 배움과 참여를 설계하는 한편, 완성된 콘텐츠가 일상에서 지속적으로 소비될 통로까지 마련해야 한다는 제언이다.18일 국립공주박물관 강당에서 진행된 ‘2026 디지털헤리티지페스타 산업 컨퍼런스’ 두 번째 세션은 ‘기술에서 콘텐츠와 서비스로’를 주제로 구성됐다. 유승민 텍스트웨이 대표, 이애진 플로우디엑스 대표, 김군호 에이콘팩토리 대표, 이경태 엘팩토리 대표가 데이터와 교육, 전시공간, 플랫폼의 관점에서 활용 방안을 다뤘다.유승민 대표는 문화유산 자료의 디지털화와 AI가 이를 정확하게 이해하는 작업은 별개의 과제라고 짚었다. 고해상도 촬영과 3D 스캔, 보고서 전자화가 이뤄졌어도 문장 사이의 맥락과 인물의 역할, 출처, 추정과 확정의 구분까지 AI에 전달되는 것은 아니라는 설명이다.그는 문화유산 기록에…",
+      "category_score": 59,
+      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "LLM",
-        "에이전트",
-        "평가프레임워크",
-        "신뢰성"
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠"
       ],
-      "planning_insight": "사내 AI 도입 및 자동화 솔루션 기획 시, 모호한 성능 측정에서 벗어나 구체적이고 표준화된 KPI를 설계하는 데이터 기반 의사결정 체계 구축이 가능함.",
-      "integrated_score": 93,
+      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
       "criteria_scores": {
-        "content_strategy": 22,
+        "content_strategy": 14,
         "trend_signal_timeliness": 24,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 22
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 16
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "LLM 및 에이전트 시스템의 성과를 통합적으로 검증하는 프레임워크 'AuditKIT' 등장",
-      "importance_reason": "AI 도입 시 단순 성능을 넘어 도구 활용 능력과 워크플로우 품질을 평가하는 것이 핵심 과제로 부상함에 따라 실무 도입 기준을 제시함."
+      "one_line_summary": "[지디넷코리아]문화유산을 기록하고 복원하는 디지털 기술을 실제 콘텐츠와 서비스로 연결하기 위한 현장의 과제가 제시됐다. AI가 역사 기록을 정확하게 읽도록 데이터를 정비하고, 관람객의 배움과 참여를 설계하는 한편,…",
+      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 3,
-      "id": "3c00d20040406820d5bd2f37dfa435cbeb88be7b36a315c3378e8bbb592802c4",
-      "title": "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라”",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261016211936",
-      "published_at": "2026-10-17T07:30:02+09:00",
-      "summary": "[지디넷코리아]일본 성우와 배우들이 자신의 목소리를 AI 학습이나 음성 합성에 이용하려면 사전에 허락을 받고 별도의 대가를 지급하라는 지침을 마련했다. AI가 실제 성우를 대신해 목소리를 생성하는 것은 물론 기존 음성을 학습하는 단계부터 권리자의 동의를 받겠다는 뜻이다.16일 일본 IT 전문매체인 IT미디어에 따르면 약 2600명의 성우와 배우가 가입한 일본배우연합은 '음성 생성AI 이용 가이드라인'을 발표했다. 발표에 따르면 AI 개발사와 콘텐츠 제작사, 서비스 사업자 등이 성우의 목소리를 이용할 때 지켜야 할 기준을 제시하면서 향후 법제화 추진 계획도 내놨다.먼저 가이드라인은 사전 동의와 음성 데이터 관리, 적정한 보수 지급을 3대 원칙으로 삼았다. AI 학습과 음성 생성, 공개 및 이용 등 모든 단계에서 목소리 주인의 허락을 받아야 하며, 한 번의 계약으로 향후 모든 이용을 허용하는 포괄적 동의는 인정하지 않는다.동의 유효기간도 원칙적으로 최장 1년으로 제한했다. AI 모델을…",
-      "category_score": 95,
-      "score_reason": "AI 기술의 발전에 따라 인간 고유의 영역인 '목소리'를 보호하려는 노동계의 능동적 대응은 향후 콘텐츠 산업의 표준 가이드라인으로 확산 가능성이 높습니다.",
-      "keywords": [
-        "AI 생성물",
-        "저작권",
-        "디지털권리",
-        "윤리"
-      ],
-      "planning_insight": "브랜드 모델 및 인플루언서 마케팅 기획 시, 디지털 초상권과 목소리 권리에 대한 리스크 관리 매뉴얼을 수립하고 AI 윤리 가이드라인을 마케팅 전략에 포함해야 함.",
-      "integrated_score": 91,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "일본 성우 연합, 'AI 목소리 복제' 사전 동의 및 대가 지급 의무화 가이드라인 발표",
-      "importance_reason": "생성형 AI가 인간의 고유성을 대체함에 따라 발생하는 윤리적, 법적 대응의 표준화가 콘텐츠 산업 전반으로 확산되는 신호탄."
-    },
-    {
-      "rank": 4,
-      "id": "51298e075b2247d11b3193508f3e87bb076b82254f1b5cce7b1cf591d4591060",
-      "title": "Learning User Representations to Improve Simulation Fidelity",
+      "id": "383e46772f268ece3a4d2f0673bc8442004d4bc7bd7f749bf1de897b767e490b",
+      "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
       "source": "arXiv cs.CL",
       "group": "ai_data",
       "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.22518",
+      "url": "https://arxiv.org/abs/2610.22515",
       "published_at": "2026-10-19T13:00:00+09:00",
-      "summary": "arXiv:2610.22518v1 Announce Type: new Abstract: User simulators enable interactive training and evaluation of AI assistants at scale. Yet current simulators struggle to reproduce the diverse behaviors of real users, leading to assistants that generalize poorly to underrepresented users. We identify user representations as an underexplored bottleneck in user simulation. User representations are natural-language descriptions that condition simulators to reproduce a particular user's behavior. A r…",
-      "category_score": 92,
-      "score_reason": "사용자 행동 시뮬레이션을 위한 표현 학습은 콘텐츠 추천 알고리즘과 개인화 서비스 최적화에 직결됨.",
+      "summary": "arXiv:2610.22515v1 Announce Type: new Abstract: We describe our submission to Subtask~1b of ImageEval 2026. The task consists of selecting the single visually valid statement from three candidates paired with an image, and is in both English and Modern Standard Arabic (MSA). Our system uses a pre-trained 7B vision--language model in a zero-shot setting, without task-specific training or fine-tuning. We formulate the task as a constrained selection problem and choose the answer using next-token…",
+      "category_score": 61,
+      "score_reason": "RAG, multimodal, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "사용자시뮬레이션",
-        "개인화",
-        "AI어시스턴트"
+        "RAG",
+        "multimodal",
+        "model",
+        "fine-tuning",
+        "AI"
       ],
-      "planning_insight": "콘텐츠 추천 엔진 고도화 및 고객 세그먼트별 시뮬레이션 환경 구축을 통해 마케팅 가설 검증 비용을 최소화하고 의사결정의 정확도를 높이는 전략 가능.",
-      "integrated_score": 89,
+      "planning_insight": "이 항목은 RAG, multimodal, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
       "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 21,
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
         "ai_data_relevance": 24,
-        "market_consumer_impact": 21
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "사용자 행동 시뮬레이션을 위한 표현 학습(User Representation Learning) 연구 등장",
-      "importance_reason": "실제 유저 데이터 확보 전, AI 에이전트가 특정 페르소나의 행동을 학습하게 함으로써 개인화된 경험 최적화의 한계를 돌파할 수 있는 기술적 돌파구 제공."
-    },
-    {
-      "rank": 5,
-      "id": "6c24ac67406adcc0561bc40b59da117ed2c4ab59f42447bf886dfa7590b2dce7",
-      "title": "AI 열풍에 서버값 최대 4배↑…\"가격 안정은 2028년 이후에나\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261017215532",
-      "published_at": "2026-10-18T09:07:42+09:00",
-      "summary": "[지디넷코리아]인공지능(AI) 인프라 투자 확대로 메모리 공급이 대형 데이터센터에 집중되면서 일반 기업용 서버 가격이 지난해 대비 최대 4배 상승한 것으로 나타났다.메모리 공급 부족이 장기화할 것으로 예상되는 만큼 기업들이 서버 교체 시기를 조정하고 IT 인프라 투자 계획을 재검토해야 한다는 제언이 나왔다.18일 글로벌 시장조사기관 가트너가 발표한 'AI 붐 속 2027년 서버 및 스토리지 비용' 보고서에 따르면 올해 서버 가격은 지난해 대비 2~4배, 스토리지 가격은 최대 2배 상승했다.가트너는 이러한 가격 상승세가 내년까지 이어지고 실질적인 가격 안정은 2028년 이후에나 가능할 것으로 전망했다.가격 상승의 주요 원인은 AI 인프라로의 메모리 공급 집중이다. 메모리 제조업체들이 그래픽처리장치(GPU)에 사용되는 고대역폭메모리(HBM)와 대형 클라우드 사업자에 D램 공급을 우선 배정하면서 일반 서버에 사용되는 메모리 공급이 줄어들고 있는 양상이다. 낸드플래시 역시 AI 관련 스토…",
-      "category_score": 92,
-      "score_reason": "AI 열풍이 IT 인프라 비용 상승으로 전이되는 현상은 기술 생태계의 지속 가능성에 영향을 주는 거시적 트렌드입니다.",
-      "keywords": [
-        "IT 인프라",
-        "비용 경제",
-        "서버 가격",
-        "AI 생태계"
-      ],
-      "planning_insight": "막연한 거대 모델(LLM) 의존 전략에서 벗어나, 경량형 모델(sLLM)과 효율적 클라우드 리소스 최적화 전략이 차기 콘텐츠 서비스 기획의 핵심 생존 요소가 될 것임을 시사.",
-      "integrated_score": 86,
-      "criteria_scores": {
-        "content_strategy": 20,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 22
+        "market_consumer_impact": 8
       },
       "applied_criteria": [
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "AI 인프라 투자 집중으로 일반 기업 서버 가격 4배 상승, 2028년까지 안정화 난망",
-      "importance_reason": "기술적 AI 열풍 이면에 존재하는 하드웨어 공급망 및 비용 구조의 한계를 짚어주는 거시적 신호."
+      "one_line_summary": "arXiv:2610.22515v1 Announce Type: new Abstract: We describe our submission to Subtask~1b of ImageEval 2026. The task con…",
+      "importance_reason": "RAG, multimodal, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "9e98cd2d79ef6e73e68902b87003dc243c4d005baf05f05faa7e5f54e3802868",
+      "title": "LG CNS, IDC 글로벌 평가서 '메이저 플레이어'…국내 기업 최초",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261019133713",
+      "published_at": "2026-10-19T13:37:35+09:00",
+      "summary": "[지디넷코리아]LG CNS가 글로벌 시장조사기관 IDC의 디지털 워크플레이스 서비스 평가에서 '메이저 플레이어'로 선정되며 기업용 인공지능(AI) 업무혁신 역량을 인정받았다.자체 에이전틱 AI 플랫폼을 기반으로 업무 자동화와 생산성 향상을 지원하고 금융·공공 등 보안이 중요한 산업에서 축적한 사업 경험이 주요 경쟁력으로 평가된 모습이다.LG CNS는 IDC의 '2026년 전 세계 디지털 워크플레이스 서비스(DWS) 부문 벤더 평가'에서 메이저 플레이어로 선정됐다고 19일 밝혔다.국내 기업이 해당 평가에 포함된 것은 이번이 처음이며 LG CNS가 유일하다는 게 회사 측 설명이다. 이번 평가에는 타타컨설턴시서비스(TCS), 인포시스, NTT데이터, 코그니전트, 델, HP 등 글로벌 IT 기업 18개사가 참여했다.IDC 마켓스케이프는 글로벌 IT 기업의 현재 사업 역량과 향후 전략을 종합적으로 분석하는 평가 모델이다. 제품과 서비스 경쟁력뿐 아니라 고객사 적용 사례와 실제 고객 경험 등…",
+      "category_score": 59,
+      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "자동화"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]LG CNS가 글로벌 시장조사기관 IDC의 디지털 워크플레이스 서비스 평가에서 '메이저 플레이어'로 선정되며 기업용 인공지능(AI) 업무혁신 역량을 인정받았다.자체 에이전틱 AI 플랫폼을 기반으로 업무…",
+      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "65a9ff75bc99489a7553e56a6cd604411f0037810818729dba367e39f70e734a",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.22507",
+      "published_at": "2026-10-19T13:00:00+09:00",
+      "summary": "arXiv:2610.22507v1 Announce Type: new Abstract: Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes without capturing runtime collaboration quality. In this paper, we present REALCLI, a paired benchmark that unifies the evaluation of task execution and human-agent collaboration quality on realistic CLI tasks. To comprehensively measure collaboration…",
+      "category_score": 58,
+      "score_reason": "agent, agents, benchmark 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "agent",
+        "agents",
+        "benchmark",
+        "evaluation",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 agent, agents, benchmark 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.22507v1 Announce Type: new Abstract: Command-line interface (CLI) agents increasingly execute longer-horizon…",
+      "importance_reason": "agent, agents, benchmark 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 82,
+      "count": 79,
       "groups": [
         "ai_data",
         "news"
       ],
       "sources": [
         "BBC Technology",
+        "NYT Technology",
         "ZDNet Korea",
         "arXiv cs.CL",
         "매일경제 기업"
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 20,
+      "keyword": "플랫폼",
+      "count": 17,
       "groups": [
         "news"
       ],
@@ -426,8 +427,8 @@
       ]
     },
     {
-      "keyword": "플랫폼",
-      "count": 20,
+      "keyword": "데이터",
+      "count": 16,
       "groups": [
         "news"
       ],
@@ -438,7 +439,7 @@
     },
     {
       "keyword": "콘텐츠",
-      "count": 17,
+      "count": 15,
       "groups": [
         "news"
       ],
@@ -448,7 +449,7 @@
     },
     {
       "keyword": "분석",
-      "count": 17,
+      "count": 13,
       "groups": [
         "news"
       ],
@@ -459,16 +460,16 @@
     }
   ],
   "overall_summary": [
-    "플랫폼의 데이터 수집과 창작자의 권리 사이의 법적/윤리적 경계가 더욱 뚜렷해지고 있으며, 이는 콘텐츠 기획 시 저작권 관리를 필수 요소로 격상시키고 있습니다.",
-    "AI 에이전트와 LLM의 도입이 성숙기에 접어들면서, 단순 도입을 넘어 실제 성과를 측정하고 검증하는 '표준화'와 '최적화'된 도구들이 데이터 전략의 핵심이 되고 있습니다.",
-    "하드웨어 인프라 비용 상승과 생산성 부재 현상은 실무 기획자들에게 '효율적인 경량화 AI'와 '조직 맥락 기반의 실질적인 워크플로우 구축'이라는 과제를 던지고 있습니다."
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 콘텐츠, 데이터, 개인화 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
-  "method": "gemini",
-  "fallback_used": false,
-  "gemini_call_count": 4,
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
   "category_methods": {
-    "news": "gemini",
-    "tech_blog": "gemini",
-    "ai_data": "gemini"
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
   }
 }

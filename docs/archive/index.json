@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-19T18:13:10.917113+09:00",
+  "updated_at": "2026-10-20T00:49:02.429997+09:00",
   "archives": [
+    {
+      "id": "2026-10-20_00-49",
+      "date": "2026-10-20",
+      "time": "00:49",
+      "label": "2026-10-20 00:49",
+      "generated_at": "2026-10-20T00:49:00.049075+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "영화만을 위한 OTT '무비랩'...\"사람이 직접 추천\"",
+        "문화유산 디지털 전환, 승부처는 ‘사용자 경험’…기술을 서비스로 잇는다",
+        "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
+        "LG CNS, IDC 글로벌 평가서 '메이저 플레이어'…국내 기업 최초",
+        "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents"
+      ],
+      "path_json": "archive/2026-10-20/00-49.json",
+      "path_md": "archive/2026-10-20/00-49.md"
+    },
     {
       "id": "2026-10-19_17-35",
       "date": "2026-10-19",
