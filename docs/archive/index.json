@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-19T09:23:27.172614+09:00",
+  "updated_at": "2026-10-19T18:13:10.917113+09:00",
   "archives": [
+    {
+      "id": "2026-10-19_17-35",
+      "date": "2026-10-19",
+      "time": "17:35",
+      "label": "2026-10-19 17:35",
+      "generated_at": "2026-10-19T18:12:51.405870+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "인스타·페북 상업용 계정, AI 학습 강제 활용...\"언론사 비상\"",
+        "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
+        "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라”",
+        "Learning User Representations to Improve Simulation Fidelity",
+        "AI 열풍에 서버값 최대 4배↑…\"가격 안정은 2028년 이후에나\""
+      ],
+      "path_json": "archive/2026-10-19/17-35.json",
+      "path_md": "archive/2026-10-19/17-35.md"
+    },
     {
       "id": "2026-10-19_09-23",
       "date": "2026-10-19",
