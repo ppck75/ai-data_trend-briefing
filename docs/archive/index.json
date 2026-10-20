@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-20T10:10:38.564143+09:00",
+  "updated_at": "2026-10-20T17:47:50.813812+09:00",
   "archives": [
+    {
+      "id": "2026-10-20_17-35",
+      "date": "2026-10-20",
+      "time": "17:35",
+      "label": "2026-10-20 17:35",
+      "generated_at": "2026-10-20T17:47:47.465171+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "유엠에이지, ‘유믹스’로 인디 아티스트 돕는다…\"글로벌 유통 노하우 전수\"",
+        "방미심위, SNS 혐오·조롱 집중 단속…\"무관용 대응”",
+        "LG CNS, IDC 글로벌 평가서 '메이저 플레이어'…국내 기업 최초",
+        "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+        "AI 답변 1만 5663회 분석했더니…지디넷코리아, 국내 언론 중 인용 1위"
+      ],
+      "path_json": "archive/2026-10-20/17-35.json",
+      "path_md": "archive/2026-10-20/17-35.md"
+    },
     {
       "id": "2026-10-20_10-09",
       "date": "2026-10-20",
