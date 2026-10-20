@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-20T00:49:02.429997+09:00",
+  "updated_at": "2026-10-20T10:10:38.564143+09:00",
   "archives": [
+    {
+      "id": "2026-10-20_10-09",
+      "date": "2026-10-20",
+      "time": "10:09",
+      "label": "2026-10-20 10:09",
+      "generated_at": "2026-10-20T10:09:57.802160+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
+        "코어위브가 남긴 교훈 … AI서열 가르는 새 기준 생겼다",
+        "에너지 IT 플랫폼 엔라이튼, 'ESG 친환경대전' 참가",
+        "코나미 \"생성형AI는 도구일 뿐, 혁신 본질은 사람\"",
+        "\"예뻐도 관리 어려우면 안 사요\"…4050여성, 옷 살 때 따지는 것은"
+      ],
+      "path_json": "archive/2026-10-20/10-09.json",
+      "path_md": "archive/2026-10-20/10-09.md"
+    },
     {
       "id": "2026-10-20_00-49",
       "date": "2026-10-20",
