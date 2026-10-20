@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:34:59.643911+09:00",
+  "updated_at": "2026-10-21T06:32:20.088058+09:00",
   "total_items": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       "fetched_at": "2026-10-21T03:34:59.639593+09:00",
       "language": "en",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "bf6be0510a917394ee16fdc3e63c0bdbf72d52257307133108cbf0d070f30a2f",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "published_at": "2026-10-21T03:17:47+09:00",
+      "entry_updated_at": "2026-10-21T03:17:47+09:00",
+      "fetched_at": "2026-10-21T06:32:19.957827+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261019134825",
       "published_at": "2026-10-19T13:49:16+09:00",
       "entry_updated_at": "2026-10-19T13:49:16+09:00",
-      "fetched_at": "2026-10-19T16:16:42.315356+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "0da1d4fee08b95943c2249d2ca068d42f3dcbb082e4463879e788f42e66b13ae",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "라이엇게임즈, K/DA 신곡 'FIRESTARTER' 발표",
-      "summary": "[지디넷코리아]'리그 오브 레전드(LoL)' 기반 가상 아티스트 K/DA가 6년 만에 새 싱글을 들고 복귀했다.라이엇 게임즈는 가상 아티스트 K/DA의 신곡 'FIRESTARTER' 공식 뮤직비디오를 19일 공개했다고 밝혔다.K/DA는 아리(보컬), 아칼리(래퍼), 이블린(보컬), 카이사(보컬·안무)로 이뤄진 가상 음악 그룹이다. 실제 아티스트가 보컬을 맡는 프로젝트로, 그룹 (여자)아이들의 미연과 소연이 각각 아리와 아칼리로 다시 참여했다. 이블린 역에는 싱어송라이터 소피 파워스가, 카이사 역에는 미미 웹이 새롭게 합류했다.이번 신곡은 K/DA가 2020년 선보인 'ALL OUT' 앨범 타이틀곡 'MORE' 이후 약 6년 만에 발표한 작업물이다. 영상은 새로운 비주얼 콘셉트와 음악 스타일을 바탕으로 그룹 고유의 개성을 재해석했다.뮤직비디오 제작과 연출은 데뷔곡 'POP/STARS'와 애니메이션 시리즈 '아케인'을 제작한 포티셰 프로덕션이 맡아 완성도를 더했다.'FIRESTARTE…",
-      "url": "https://zdnet.co.kr/view/?no=20261019131337",
-      "published_at": "2026-10-19T13:47:01+09:00",
-      "entry_updated_at": "2026-10-19T13:47:01+09:00",
       "fetched_at": "2026-10-19T16:16:42.315356+09:00",
       "language": "ko",
       "importance_weight": 0.85,
