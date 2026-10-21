@@ -1,0 +1,490 @@
+{
+  "briefing_date": "2026-10-21",
+  "generated_at": "2026-10-21T09:48:05.688462+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 182,
+    "tech_blog": 2,
+    "ai_data": 16
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "ef0d27c3c6f89713c090ea66fa511be73be9f0555949face82568e65f41f0480",
+        "title": "유엠에이지, ‘유믹스’로 인디 아티스트 돕는다…\"글로벌 유통 노하우 전수\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261020101840",
+        "published_at": "2026-10-20T10:18:40+09:00",
+        "summary": "[지디넷코리아]음악 IP 기업 유엠에이지가 이달 28일부터 30일까지 서울 동교동 본사에서 개인 뮤지션과 인디 아티스트, 신생 기획사를 위한 뮤직 비즈니스 밋업 '유믹스(U:MIX)'를 개최한다.20일 회사에 따르면, 이번 행사는 '음악을 만드는 사람들의 다음 스테이지'를 주제로 창작자들이 겪는 실무적 고민을 해소하고 자생력을 높이기 위해 기획됐다. CJ ENM·FLO·지니뮤직 등 주요 음악 및 콘텐츠 기업 출신의 유통·마케팅 실무 책임자들이 직접 멘토로 나서 국내외 음원 유통, 정산 구조, 음악 권리 관리, 콘텐츠 마케팅 전반에 대한 1:1 심층 상담을 제공한다. 참가 신청은 22일까지 전용 안내 페이지에서 진행되며, 사전 검토를 거쳐 26일 최종 일정을 개별 안내한다.유엠에이지는 음악 IP 투자·제작·유통부터 저작권 관리, 콘텐츠 마케팅, 라이브 공연까지 아우르는 글로벌 음악 IP 기업이다. 전 세계 180개국 음원 플랫폼 공급망을 갖추고 있으며 유튜브 공식 파트너로서 콘텐츠…",
+        "category_score": 61,
+        "score_reason": "마케팅, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "마케팅",
+          "플랫폼",
+          "유튜브",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 마케팅, 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "317b7623c83a72bf4cea26307e06eb1dfb1ab68d97e3eab2b59c9c3aa4695ed3",
+        "title": "방미심위, SNS 혐오·조롱 집중 단속…\"무관용 대응”",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261020101411",
+        "published_at": "2026-10-20T10:14:11+09:00",
+        "summary": "[지디넷코리아]방송미디어통신심의위원회가 청소년 사이에서 놀이처럼 소비되는 혐오·조롱 콘텐츠에 대한 고강도 집중 감시에 착수한다. 숏폼 영상과 인터넷 밈(meme)을 통해 확산하는 차별 혐오 표현을 집중적으로 들여다보고, 사회적 소외계층을 겨냥한 악의적인 콘텐츠에는 무관용 원칙을 적용한다.방송미디어통신심의위원회는 SNS 추천 알고리즘을 통해 빠르게 퍼지는 혐오, 조롱, 차별 정보를 대상으로 중점 모니터링을 강화한다고 밝혔다. 청소년들이 이러한 표현을 단순한 유행이나 놀이로 받아들이면서 차별과 편견에 무감각해질 수 있다는 이유에서다.방미심위는 지난 7월 개정 정보통신망법 시행을 계기로 성별과 장애, 연령 등을 이유로 폭력을 선동하거나 인간의 존엄성을 심각하게 훼손하는 게시물에 대한 감시를 강화해 왔다.실제 지난 4월부터 현재까지 특정 계층과 사회적 소외계층을 겨냥한 악의적인 혐오·조롱·차별 정보 625건에 대해 삭제와 접속차단 등 시정요구를 내렸다.이번 조치는 혐오 표현이 SNS에서…",
+        "category_score": 61,
+        "score_reason": "숏폼, 추천, 알고리즘 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "숏폼",
+          "추천",
+          "알고리즘",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 숏폼, 추천, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "02c83e6df945d74e2125d093fdd8e3f00f0617cc29fbbe14abec20fc4ce96d33",
+        "title": "AI 답변 1만 5663회 분석했더니…지디넷코리아, 국내 언론 중 인용 1위",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261018130759",
+        "published_at": "2026-10-20T10:07:17+09:00",
+        "summary": "[지디넷코리아]생성형 인공지능(AI)이 이용자 질문에 답변할 때 언론 기사를 출처로 활용하는 비중이 6%대에 그친다는 조사 결과가 나왔다. 블로그와 기업 자체 웹사이트 등이 주요 정보원으로 활용되는 가운데 국내 언론 중에서는 지디넷코리아가 가장 많이 인용된 것으로 나타났다.20일 AI 답변 노출 측정 서비스 '메드애드(medad)'를 운영하는 이십구퍼에 따르면 생성형 AI 5종의 답변 2323개를 분석한 결과 출처로 인용된 국내 언론 매체의 비중은 6.3%로 집계됐다.이번 조사는 지난 9월 5일부터 이달 11일까지 총 6차례에 걸쳐 진행됐다. 이십구퍼는 챗GPT와 구글 제미나이, 퍼플렉시티, 앤트로픽 클로드, 네이버 등 5개 AI 서비스에 마케팅과 AI 검색 노출 관련 질문을 반복 입력해 답변과 출처를 수집했다. 회차별 질문은 45~120개로 구성됐다.수집된 답변은 총 2323개로, 출처로 활용된 사이트는 2149곳이었다. 전체 출처 인용 횟수는 1만5663회로 나타났다. 동일한…",
+        "category_score": 61,
+        "score_reason": "AI, 생성형 AI, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "생성형 AI",
+          "마케팅",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 생성형 AI, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "3f82cee684033b4cedb6b4b463a10541866b3ed476c88d9e21ac155ee6a57176",
+        "title": "타오바오, 배우 장릉혁과 11.11 쇼핑 캠페인 전개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261020211023",
+        "published_at": "2026-10-20T21:10:23+09:00",
+        "summary": "[지디넷코리아]중국 본토 외 소비자에게 새로워진 여섯 가지 쇼핑 경험 선보여 서울, 한국, 2026년 10월 20일 /PRNewswire/ -- 타오바오 티몰 월드(Taobao Tmall World, 이하 타오바오)가 인기 배우 장릉혁(張凌赫•장링허)과의 협업을 발표하고, 장릉혁이 출연한 새 브랜드 영상을 주요 온라인 플랫폼에 공개했다. 영상 공개와 함께 주요 도시의 명소에서 대형 영상•인쇄 광고판과 테마 지하철, 무안경 3D 광고 등을 활용한 옥외광고 캠페인도 선보인다. 타오바오는 이번 협업을 통해 중국 외 시장의 고객들에게 품질(Quality), 취향(Taste), 트렌드(Trendy), 라이프스타일(Lifestyle), 스마트(Smart), 새로운 발견(Surprise)을 중심으로 새로워진 여섯 가지 쇼핑 경험을 선보일 계획이다. 캠페인은 타오바오 11.11 쇼핑 행사(이하 11.11)를 시작으로 전개된다. 이번 캠페인에 맞춰 타오바오는 앱 화면을 장릉혁 테마로 꾸민다. 또한…",
+        "category_score": 55,
+        "score_reason": "광고, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "플랫폼",
+          "소비자",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 광고, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "63d74df08d69f79c656291d6fb5db0049ca522865f66551a05ebac13cb2c9ba0",
+        "title": "광고 없애고 추적 끄고…AI로 스마트TV 개조하는 이용자 증가",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261020223659",
+        "published_at": "2026-10-20T22:36:59+09:00",
+        "summary": "[지디넷코리아]스마트TV 이용자들이 AI 코딩 에이전트를 활용해 TV의 광고와 시청 기록 추적 기능을 제거하고 있다고 테크크런치가 현지 시각 10월 19일 보도했다. 이용자들은 앤트로픽의 클로드 코드와 딥시크 V4.1 플래시 같은 AI 도구로 TV 설정을 변경해 홈 화면 광고를 제거하고 앱 실행 속도를 개선하고 있다. AI 코딩 에이전트는 이용자의 요청에 따라 명령어를 작성하고 실행까지 하는 AI 도구다. 상당수 스마트TV에는 화면 캡처나 소리를 분석해 이용자가 시청하는 콘텐츠를 파악하는 자동 콘텐츠 인식(ACR) 기능이 탑재돼 있다.개발자 무잠밀 야신 사부왈라가 공개한 '덤TV(dumbtv)' 프로젝트는 TV 자체 광고와 시청 추적, 원하지 않는 업데이트를 차단하는 것이 목표다. 아마존 파이어 TV 에디션 TV와 소니, TCL, 필립스, 하이센스, 샤오미의 안드로이드 TV와 구글 TV 기기에서 시험을 마쳤으며, 개발에는 딥시크 V4.1 플래시와 클로드 오퍼스 5.5, 클로드 소네…",
+        "category_score": 53,
+        "score_reason": "AI, 광고, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "e51bae32289f1c0b8b253fe4c1937aeb817f0238f1a281c0c8c20de974c70875",
+        "title": "빠른 기기가 왜 기다려야 하지?",
+        "source": "무신사 테크",
+        "group": "tech_blog",
+        "category": "fashion_commerce",
+        "url": "https://techblog.musinsa.com/%EB%B9%A0%EB%A5%B8-%EA%B8%B0%EA%B8%B0%EA%B0%80-%EC%99%9C-%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%95%BC-%ED%95%98%EC%A7%80-a0533ee53dd2",
+        "published_at": "2026-10-20T07:01:02+09:00",
+        "summary": "테스트 자동화 Framework 3.0 전환기 안녕하세요. MUSINSA Automation QE팀 정다정입니다. 저희는 앱 빌드나 웹 프론트엔드(FE) 배포가 끝날 때마다 실기기에서 BVT(Build Verification Test, 새 빌드의 핵심 기능이 정상 동작하는지 확인하는 테스트)를 자동으로 수행합니다. 결과는 Slack과 TMS(Test Management System, 테스트 케이스와 결과를 관리하는 도구)로 전달합니다. 이 글에서 ‘런(run)’은 이 BVT를 한 번 실행하는 단위를 뜻합니다. 운영하다 보니 두 가지가 눈에 걸리기 시작했습니다. 어떤 기기는 배정된 시나리오를 일찍 끝내고 놀고 있는데, BVT 전체 수행은 배정된 작업을 가장 늦게 끝내는 기기가 끝날 때까지 이어졌습니다. 시나리오가 늘수록 이 기다림도 길어졌습니다. 또 기기 한 대를 추가하려면 기기 전용 스크립트 파일을 새로 작성해야 했고, 그 과정에서 설정이 어긋나는 실수가 종종 생겼습니다. “빠른…",
+        "category_score": 85,
+        "score_reason": "테스트 자동화 환경에서의 리소스 효율화 및 운영 최적화 사례로, 단순 개발을 넘어 플랫폼 운영 생산성을 높이는 제품 전략적 접근이 돋보임.",
+        "keywords": [
+          "테스트 자동화",
+          "운영 효율화",
+          "플랫폼 전략",
+          "QE"
+        ],
+        "planning_insight": "서비스 배포 및 검증 과정에서의 병목을 데이터 기반으로 분석하여 운영 프로세스를 개선하는 방식은 제품 안정성 확보를 위한 콘텐츠 기획의 토대가 됨."
+      },
+      {
+        "rank": 2,
+        "id": "0d76b4ded7c509879f8fc98b15aadab122dde0d9b2fe85f6048f4ce805aa9297",
+        "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2675915",
+        "published_at": "2026-10-20T14:51:56+09:00",
+        "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다. 달라진 것은 명세만이 아닙니다. 2020년에는 상상하기 어려웠던 방식으로 코드를 쓰는 사람이 늘었습니다. AI 코딩 도구가 코드의 상당 부분을 작성하고, 사람이 방향을 정하면 AI 에이전트가 브라우저 엔진의 JavaScript 엔진 코드를 다른 언어로 옮기는 일까지 생겼습니다. 2025년 GitHub Octoverse에서 TypeScript가 처음으로 가장 많이 쓰인 언어 1위에 올랐고, GitHub은 그 배경으로 AI를 꼽았습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScri…",
+        "category_score": 75,
+        "score_reason": "AI 코딩 도구 도입에 따른 개발 환경 변화와 에이전트 기반 서비스 모델로의 전환을 다루고 있어 기술적 통찰력이 있으나 서비스 기획 적용 점수는 상대적으로 낮음.",
+        "keywords": [
+          "AI 에이전트",
+          "JavaScript",
+          "개발 생산성",
+          "기술 동향"
+        ],
+        "planning_insight": "AI 에이전트가 코딩을 주도하는 환경 변화를 이해함으로써, 차세대 플랫폼의 기능 명세 및 개발 프로세스 재설계에 대한 전략적 대응이 가능함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "4cc43fc29258401f8ba7fc92b6e723c90b510c891771deab3639312603fdbf67",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "published_at": "2026-10-21T00:19:48+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "학습된 메모리(learned memory)를 활용해 범용 모델 없이 특정 도메인(고객 서비스)에서 최고 성능을 달성한 사례로, 비용 효율적인 AI 서비스 구축의 실질적인 방법론을 제시함.",
+        "keywords": [
+          "메모리 기반 AI",
+          "고객 서비스",
+          "효율적 모델"
+        ],
+        "planning_insight": "초거대 모델에만 의존하지 않고 도메인 특화 데이터와 메모리 최적화를 통해 실용적인 AI 자동화 시스템을 기획하는 전략이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "1682f0b63d12b1be557c88d1e7cd2f86e717b0914f9bc7ab19ce72a17b33e2d8",
+        "title": "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24157",
+        "published_at": "2026-10-20T13:00:00+09:00",
+        "summary": "arXiv:2610.24157v1 Announce Type: new Abstract: We present CoDA, an open-source human-LM collaborative codebook development assistant that helps domain experts develop annotation guidelines for annotating new variables in unstructured text with language models. Existing language model annotation systems primarily focus on downstream classification performance, while assuming the availability of high-quality annotation guidelines, or codebooks. In practice, developing these codebooks is time-con…",
+        "category_score": 92,
+        "score_reason": "도메인 전문가와 LLM이 협업하여 텍스트 데이터의 주석(Annotation)을 자동화하는 도구로, 고품질 데이터셋 구축이 필수적인 콘텐츠 기획 단계에 직접적으로 활용 가능함.",
+        "keywords": [
+          "데이터 어노테이션",
+          "협업 AI",
+          "데이터셋 구축"
+        ],
+        "planning_insight": "수작업이 많은 데이터 라벨링 과정을 LLM 협업 방식으로 전환하여 데이터 분석 및 개인화 추천을 위한 학습 데이터 품질과 속도를 비약적으로 높일 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "87fe0062844abcc4e9b0abe2efa4af23c9e93e1fbf03cc4592024e034c06a480",
+        "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24087",
+        "published_at": "2026-10-20T13:00:00+09:00",
+        "summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self-contained descriptions or predefined optimization tasks, underrepresenting the translation of original business materials into professionally validated solutions. We introduce OR-License, an end-to-end benchmark of 31 instances acr…",
+        "category_score": 89,
+        "score_reason": "복잡한 운영 연구(OR) 문제를 전문가 도움 없이 해결하는 에이전트 연구로, 기획 및 전략 수립 업무 자동화의 가능성을 제시함.",
+        "keywords": [
+          "LLM 에이전트",
+          "운영 전략",
+          "자동화"
+        ],
+        "planning_insight": "단순 콘텐츠 생성을 넘어 실무적인 의사결정 모델링이나 리소스 최적화 문제를 해결하는 에이전트 기반 기획 프로세스를 도입할 수 있음."
+      },
+      {
+        "rank": 4,
+        "id": "5f258cb48b3e6d89ecf8c7bcd8ff1569762fc4efd9a1b57c1ee60856aefcc2bf",
+        "title": "Discuss More, Comment Less: Boosting Automated Research via Multi-Perspective Collaborative Review",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24050",
+        "published_at": "2026-10-20T13:00:00+09:00",
+        "summary": "arXiv:2610.24050v1 Announce Type: new Abstract: As automated research is increasingly adopted for writing papers, automated review has become a critical link between paper generation and quality control. However, existing methods largely rely on single-model feedback or simple review aggregation, failing to explicitly model expert responsibilities or collective deliberation in actual peer reviews, which limits effective cross-examination and reliable decision-making. Therefore, we formulate pap…",
+        "category_score": 86,
+        "score_reason": "멀티 페르스펙티브 협업 리뷰를 통한 자동화된 연구/콘텐츠 검토 방식은 자동화된 콘텐츠 품질 관리(QC) 시스템을 설계하는 데 핵심적인 가이드를 제공함.",
+        "keywords": [
+          "자동화 검토",
+          "품질 관리",
+          "멀티 에이전트"
+        ],
+        "planning_insight": "단일 LLM의 한계를 넘어서는 다중 리뷰 시스템을 구축함으로써 콘텐츠 생산의 신뢰성을 확보하고 자동화 워크플로우의 완성도를 높일 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "e9d832b353a5bb62eff87a532b46bfc83492f669c265e5aa4c0895cee043cbbf",
+        "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+        "published_at": "2026-10-20T09:00:00+09:00",
+        "summary": "",
+        "category_score": 84,
+        "score_reason": "로컬 디바이스에서의 모델 활용은 데이터 프라이버시가 중요한 콘텐츠 기획과 온디바이스 AI 서비스 환경 조성에 매우 중요한 기술적 변화임.",
+        "keywords": [
+          "온디바이스 AI",
+          "로컬 LLM",
+          "개인화"
+        ],
+        "planning_insight": "클라우드 통신 없이 작동하는 로컬 모델을 활용하여 보안이 중요한 사내 데이터 기반의 콘텐츠 개인화 추천 시스템 구축을 검토할 시점임."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "ef0d27c3c6f89713c090ea66fa511be73be9f0555949face82568e65f41f0480",
+      "title": "유엠에이지, ‘유믹스’로 인디 아티스트 돕는다…\"글로벌 유통 노하우 전수\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261020101840",
+      "published_at": "2026-10-20T10:18:40+09:00",
+      "summary": "[지디넷코리아]음악 IP 기업 유엠에이지가 이달 28일부터 30일까지 서울 동교동 본사에서 개인 뮤지션과 인디 아티스트, 신생 기획사를 위한 뮤직 비즈니스 밋업 '유믹스(U:MIX)'를 개최한다.20일 회사에 따르면, 이번 행사는 '음악을 만드는 사람들의 다음 스테이지'를 주제로 창작자들이 겪는 실무적 고민을 해소하고 자생력을 높이기 위해 기획됐다. CJ ENM·FLO·지니뮤직 등 주요 음악 및 콘텐츠 기업 출신의 유통·마케팅 실무 책임자들이 직접 멘토로 나서 국내외 음원 유통, 정산 구조, 음악 권리 관리, 콘텐츠 마케팅 전반에 대한 1:1 심층 상담을 제공한다. 참가 신청은 22일까지 전용 안내 페이지에서 진행되며, 사전 검토를 거쳐 26일 최종 일정을 개별 안내한다.유엠에이지는 음악 IP 투자·제작·유통부터 저작권 관리, 콘텐츠 마케팅, 라이브 공연까지 아우르는 글로벌 음악 IP 기업이다. 전 세계 180개국 음원 플랫폼 공급망을 갖추고 있으며 유튜브 공식 파트너로서 콘텐츠…",
+      "category_score": 61,
+      "score_reason": "마케팅, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "마케팅",
+        "플랫폼",
+        "유튜브",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 마케팅, 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 70,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]음악 IP 기업 유엠에이지가 이달 28일부터 30일까지 서울 동교동 본사에서 개인 뮤지션과 인디 아티스트, 신생 기획사를 위한 뮤직 비즈니스 밋업 '유믹스(U:MIX)'를 개최한다.20일 회사에 따르면…",
+      "importance_reason": "마케팅, 플랫폼, 유튜브 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "317b7623c83a72bf4cea26307e06eb1dfb1ab68d97e3eab2b59c9c3aa4695ed3",
+      "title": "방미심위, SNS 혐오·조롱 집중 단속…\"무관용 대응”",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261020101411",
+      "published_at": "2026-10-20T10:14:11+09:00",
+      "summary": "[지디넷코리아]방송미디어통신심의위원회가 청소년 사이에서 놀이처럼 소비되는 혐오·조롱 콘텐츠에 대한 고강도 집중 감시에 착수한다. 숏폼 영상과 인터넷 밈(meme)을 통해 확산하는 차별 혐오 표현을 집중적으로 들여다보고, 사회적 소외계층을 겨냥한 악의적인 콘텐츠에는 무관용 원칙을 적용한다.방송미디어통신심의위원회는 SNS 추천 알고리즘을 통해 빠르게 퍼지는 혐오, 조롱, 차별 정보를 대상으로 중점 모니터링을 강화한다고 밝혔다. 청소년들이 이러한 표현을 단순한 유행이나 놀이로 받아들이면서 차별과 편견에 무감각해질 수 있다는 이유에서다.방미심위는 지난 7월 개정 정보통신망법 시행을 계기로 성별과 장애, 연령 등을 이유로 폭력을 선동하거나 인간의 존엄성을 심각하게 훼손하는 게시물에 대한 감시를 강화해 왔다.실제 지난 4월부터 현재까지 특정 계층과 사회적 소외계층을 겨냥한 악의적인 혐오·조롱·차별 정보 625건에 대해 삭제와 접속차단 등 시정요구를 내렸다.이번 조치는 혐오 표현이 SNS에서…",
+      "category_score": 61,
+      "score_reason": "숏폼, 추천, 알고리즘 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "숏폼",
+        "추천",
+        "알고리즘",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 숏폼, 추천, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]방송미디어통신심의위원회가 청소년 사이에서 놀이처럼 소비되는 혐오·조롱 콘텐츠에 대한 고강도 집중 감시에 착수한다. 숏폼 영상과 인터넷 밈(meme)을 통해 확산하는 차별 혐오 표현을 집중적으로 들여다보…",
+      "importance_reason": "숏폼, 추천, 알고리즘 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "3f82cee684033b4cedb6b4b463a10541866b3ed476c88d9e21ac155ee6a57176",
+      "title": "타오바오, 배우 장릉혁과 11.11 쇼핑 캠페인 전개",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261020211023",
+      "published_at": "2026-10-20T21:10:23+09:00",
+      "summary": "[지디넷코리아]중국 본토 외 소비자에게 새로워진 여섯 가지 쇼핑 경험 선보여 서울, 한국, 2026년 10월 20일 /PRNewswire/ -- 타오바오 티몰 월드(Taobao Tmall World, 이하 타오바오)가 인기 배우 장릉혁(張凌赫•장링허)과의 협업을 발표하고, 장릉혁이 출연한 새 브랜드 영상을 주요 온라인 플랫폼에 공개했다. 영상 공개와 함께 주요 도시의 명소에서 대형 영상•인쇄 광고판과 테마 지하철, 무안경 3D 광고 등을 활용한 옥외광고 캠페인도 선보인다. 타오바오는 이번 협업을 통해 중국 외 시장의 고객들에게 품질(Quality), 취향(Taste), 트렌드(Trendy), 라이프스타일(Lifestyle), 스마트(Smart), 새로운 발견(Surprise)을 중심으로 새로워진 여섯 가지 쇼핑 경험을 선보일 계획이다. 캠페인은 타오바오 11.11 쇼핑 행사(이하 11.11)를 시작으로 전개된다. 이번 캠페인에 맞춰 타오바오는 앱 화면을 장릉혁 테마로 꾸민다. 또한…",
+      "category_score": 55,
+      "score_reason": "광고, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "광고",
+        "플랫폼",
+        "소비자",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 광고, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]중국 본토 외 소비자에게 새로워진 여섯 가지 쇼핑 경험 선보여 서울, 한국, 2026년 10월 20일 /PRNewswire/ -- 타오바오 티몰 월드(Taobao Tmall World, 이하 타오바오)…",
+      "importance_reason": "광고, 플랫폼, 소비자 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "02c83e6df945d74e2125d093fdd8e3f00f0617cc29fbbe14abec20fc4ce96d33",
+      "title": "AI 답변 1만 5663회 분석했더니…지디넷코리아, 국내 언론 중 인용 1위",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261018130759",
+      "published_at": "2026-10-20T10:07:17+09:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI)이 이용자 질문에 답변할 때 언론 기사를 출처로 활용하는 비중이 6%대에 그친다는 조사 결과가 나왔다. 블로그와 기업 자체 웹사이트 등이 주요 정보원으로 활용되는 가운데 국내 언론 중에서는 지디넷코리아가 가장 많이 인용된 것으로 나타났다.20일 AI 답변 노출 측정 서비스 '메드애드(medad)'를 운영하는 이십구퍼에 따르면 생성형 AI 5종의 답변 2323개를 분석한 결과 출처로 인용된 국내 언론 매체의 비중은 6.3%로 집계됐다.이번 조사는 지난 9월 5일부터 이달 11일까지 총 6차례에 걸쳐 진행됐다. 이십구퍼는 챗GPT와 구글 제미나이, 퍼플렉시티, 앤트로픽 클로드, 네이버 등 5개 AI 서비스에 마케팅과 AI 검색 노출 관련 질문을 반복 입력해 답변과 출처를 수집했다. 회차별 질문은 45~120개로 구성됐다.수집된 답변은 총 2323개로, 출처로 활용된 사이트는 2149곳이었다. 전체 출처 인용 횟수는 1만5663회로 나타났다. 동일한…",
+      "category_score": 61,
+      "score_reason": "AI, 생성형 AI, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "생성형 AI",
+        "마케팅",
+        "검색"
+      ],
+      "planning_insight": "이 항목은 AI, 생성형 AI, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]생성형 인공지능(AI)이 이용자 질문에 답변할 때 언론 기사를 출처로 활용하는 비중이 6%대에 그친다는 조사 결과가 나왔다. 블로그와 기업 자체 웹사이트 등이 주요 정보원으로 활용되는 가운데 국내 언론…",
+      "importance_reason": "AI, 생성형 AI, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "87fe0062844abcc4e9b0abe2efa4af23c9e93e1fbf03cc4592024e034c06a480",
+      "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.24087",
+      "published_at": "2026-10-20T13:00:00+09:00",
+      "summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self-contained descriptions or predefined optimization tasks, underrepresenting the translation of original business materials into professionally validated solutions. We introduce OR-License, an end-to-end benchmark of 31 instances acr…",
+      "category_score": 89,
+      "score_reason": "복잡한 운영 연구(OR) 문제를 전문가 도움 없이 해결하는 에이전트 연구로, 기획 및 전략 수립 업무 자동화의 가능성을 제시함.",
+      "keywords": [
+        "LLM 에이전트",
+        "운영 전략",
+        "자동화"
+      ],
+      "planning_insight": "이 항목은 LLM 에이전트, 운영 전략, 자동화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 57,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations re…",
+      "importance_reason": "LLM 에이전트, 운영 전략, 자동화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 70,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 마케팅, 플랫폼, 콘텐츠, 유튜브, 숏폼 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
