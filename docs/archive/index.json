@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-21T09:49:10.420923+09:00",
+  "updated_at": "2026-10-21T17:48:45.058565+09:00",
   "archives": [
+    {
+      "id": "2026-10-21_17-35",
+      "date": "2026-10-21",
+      "time": "17:35",
+      "label": "2026-10-21 17:35",
+      "generated_at": "2026-10-21T17:48:10.496001+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "분석",
+        "데이터",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "광고 없애고 추적 끄고…AI로 스마트TV 개조하는 이용자 증가",
+        "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
+        "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
+        "빠른 기기가 왜 기다려야 하지?"
+      ],
+      "path_json": "archive/2026-10-21/17-35.json",
+      "path_md": "archive/2026-10-21/17-35.md"
+    },
     {
       "id": "2026-10-21_09-48",
       "date": "2026-10-21",
