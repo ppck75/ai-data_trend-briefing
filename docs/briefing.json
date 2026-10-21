@@ -1,129 +1,134 @@
 {
   "briefing_date": "2026-10-21",
-  "generated_at": "2026-10-21T17:48:10.496001+09:00",
+  "generated_at": "2026-10-21T23:02:48.563676+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 180,
+    "news": 182,
     "tech_blog": 4,
-    "ai_data": 16
+    "ai_data": 14
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "63d74df08d69f79c656291d6fb5db0049ca522865f66551a05ebac13cb2c9ba0",
-        "title": "광고 없애고 추적 끄고…AI로 스마트TV 개조하는 이용자 증가",
+        "id": "c6339a823ff77022a3636a937c36d6cf3ddf73a0214db57a96887bf6aacb1745",
+        "title": "재난정보 보려는데 광고부터...KBS 유튜브 수익화 논란",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261020223659",
-        "published_at": "2026-10-20T22:36:59+09:00",
-        "summary": "[지디넷코리아]스마트TV 이용자들이 AI 코딩 에이전트를 활용해 TV의 광고와 시청 기록 추적 기능을 제거하고 있다고 테크크런치가 현지 시각 10월 19일 보도했다. 이용자들은 앤트로픽의 클로드 코드와 딥시크 V4.1 플래시 같은 AI 도구로 TV 설정을 변경해 홈 화면 광고를 제거하고 앱 실행 속도를 개선하고 있다. AI 코딩 에이전트는 이용자의 요청에 따라 명령어를 작성하고 실행까지 하는 AI 도구다. 상당수 스마트TV에는 화면 캡처나 소리를 분석해 이용자가 시청하는 콘텐츠를 파악하는 자동 콘텐츠 인식(ACR) 기능이 탑재돼 있다.개발자 무잠밀 야신 사부왈라가 공개한 '덤TV(dumbtv)' 프로젝트는 TV 자체 광고와 시청 추적, 원하지 않는 업데이트를 차단하는 것이 목표다. 아마존 파이어 TV 에디션 TV와 소니, TCL, 필립스, 하이센스, 샤오미의 안드로이드 TV와 구글 TV 기기에서 시험을 마쳤으며, 개발에는 딥시크 V4.1 플래시와 클로드 오퍼스 5.5, 클로드 소네…",
-        "category_score": 98,
-        "score_reason": "AI 에이전트를 활용해 스마트TV의 광고와 추적을 차단하는 이용자 행태는 기존 플랫폼 비즈니스 모델에 대한 강력한 소비자 저항 신호로, 콘텐츠·광고 생태계의 근본적 변화를 예고함.",
+        "url": "https://zdnet.co.kr/view/?no=20261021172407",
+        "published_at": "2026-10-21T17:24:07+09:00",
+        "summary": "[지디넷코리아]공영방송 KBS가 국민의 생명과 안전에 직결되는 재난 관련 긴급뉴스에도 유튜브 광고를 적용하고 있는 것으로 나타났다. 위험 지역과 대피 장소, 행동요령을 신속하게 확인해야 하는 상황에서 광고가 정보 전달을 지연시킬 수 있다는 지적이다. 특히 KBS가 광고 적용 이유로 제시한 영상 노출도와 도달률은 유튜브의 공식 설명과도 맞지 않아 논란이 예상된다.국회 과학기술정보방송통신위원회 소속 이주희 의원(더불어민주당)은 KBS가 제출한 자료에서 재난·긴급뉴스·공익정보의 광고 제외 기준을 묻자 “현재는 알고리즘 노출도, 도달률 등을 고려하여 유튜브 광고를 적용하고 있음”이라고 답했다고 밝혔다.KBS가 지난해 10월1일부터 시행한 '디지털 플랫폼 수익 포트폴리오 확장 방안'에 따르면 유튜브 영상에는 건너뛸 수 없는 광고와 중간광고를 기본적으로 활성화하도록 했다. 보도와 공익 콘텐츠는 신속성과 신뢰성 등을 고려해 광고를 끌 수 있도록 했지만, 재난 긴급정보에 대해서는 별도의 광고 제…",
+        "category_score": 66,
+        "score_reason": "광고, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI",
           "광고",
-          "소비자 행동"
+          "플랫폼",
+          "유튜브",
+          "알고리즘",
+          "콘텐츠"
         ],
-        "planning_insight": "광고 기반 플랫폼 모델의 한계가 명확해짐. 사용자가 능동적으로 광고를 제어하는 '광고 프리(Ad-free)' 시대를 대비한 수익 모델 다각화 전략 필요."
+        "planning_insight": "이 항목은 광고, 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "bd295c59f431f46aff77acfbdf0bf697ae1df9b79dd8e1a67e3fe21556944b5d",
-        "title": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
+        "id": "ab654ecc0460dcfb66558b10ca439899fb6a70d9ce0ec80bca455286a84a7922",
+        "title": "이스트소프트, JDC 내부망에 AI 구축…공공시장 확대",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261021133930",
-        "published_at": "2026-10-21T13:39:42+09:00",
-        "summary": "[지디넷코리아]아웃시스템즈가 기업의 에이전틱 인공지능(AI) 도입 현황을 분석한 보고서를 발표했다. 기업 임원 상당수가 AI 에이전트를 관리할 역량을 갖췄다고 평가했지만, 에이전트 간 충돌을 해결할 준비가 됐다고 답한 비율은 26%에 그쳤다.AI 에이전트 활용이 개별 업무 자동화에서 여러 시스템과 프로세스를 연계하는 단계로 확대되면서, 실제 운영 환경에 적합한 관리 체계 마련이 과제로 떠올랐다.아웃시스템즈는 CIO 다이브(CIO Dive), KPMG와 공동으로 작성한 '비즈니스 성과 창출을 위한 에이전틱 시스템으로의 전환(Engineering Business Outcomes: The Shift to Agentic systems)' 보고서에서 이 같은 조사 결과를 공개했다고 21일 밝혔다.조사에 참여한 기업 임원의 82%는 AI 에이전트가 실제 운영 환경에 도입되더라도 관리·통합·모니터링 역량을 유지할 수 있다고 답했다. 그러나 AI 에이전트와 기존 시스템, 자동화된 워크플로우 사이…",
-        "category_score": 95,
-        "score_reason": "기업들이 개별 AI 도구 도입 단계를 넘어 여러 AI 에이전트를 연계하는 '에이전틱 시스템'으로 전환 중이나, 관리 체계의 미비(충돌 대응)가 새로운 병목으로 등장함.",
+        "url": "https://zdnet.co.kr/view/?no=20261021170509",
+        "published_at": "2026-10-21T17:05:09+09:00",
+        "summary": "[지디넷코리아]이스트소프트가 공공기관 내부 자료를 활용해 문서 검색부터 업무 실행까지 지원하는 인공지능(AI) 플랫폼 구축에 나선다. 이스트소프트는 제주국제자유도시개발센터(JDC)가 발주한 '사내 생성형 AI 언어모델(sLLM) 구축 사업'을 수주했다고 21일 밝혔다. 계약일로부터 6개월간 JDC 내부 서버에 언어모델과 AI 에이전트를 결합한 업무지원 플랫폼을 구축할 방침이다.이번 사업은 보안과 개인정보 관련 규정으로 외부 인터넷 기반 생성형 AI 서비스에서 활용하기 어려웠던 기관 자료를 내부에서 활용하는 데 초점을 맞췄다. 부서별로 흩어진 업무 지식을 연결해 임직원이 필요한 정보를 찾고 근거에 기반해 판단하도록 지원한다.업무지원 챗봇은 개발사업·면세사업·예산·안전관리·계약·인사 등 주요 업무별로 구축한다. 일상적인 질의응답에는 매개변수 300억 개 이상 모델을 적용하고 복잡한 장문 추론에는 1200억 개 이상 모델을 활용해 업무 성격에 맞춰 대응한다.이스트소프트는 약 3.8테라바…",
+        "category_score": 60,
+        "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
+          "생성형 AI",
           "플랫폼",
-          "엔터프라이즈"
+          "검색",
+          "LLM"
         ],
-        "planning_insight": "단일 AI 도구 도입 홍보를 넘어, 복잡한 에이전트 간의 조율과 안정적인 운영을 돕는 'AI 오케스트레이션' 서비스가 차세대 기업용 솔루션의 핵심이 될 것."
+        "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 3,
-        "id": "ddb5c635fe54ee021e6507db4d68c4ef9bd90426da6a5029e750ad4466225651",
-        "title": "[유미's 픽] \"GPU만 늘려선 안 돼\"…시스코, AI 데이터센터 병목 해법 꺼냈다",
-        "source": "ZDNet Korea",
+        "id": "8cbac8b91bb5055ab90e8d1fb9346b9a823cd13f640fec6dc77d4da14de7458a",
+        "title": "\"피지컬AI시대, 국가·산업 데이터 플랫폼 필요\"",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261020152215",
-        "published_at": "2026-10-20T16:51:22+09:00",
-        "summary": "[지디넷코리아]\"인공지능(AI) 데이터센터 성능을 높이는 과정에서 가장 큰 병목은 그래픽처리장치(GPU)와 GPU를 연결하는 백엔드 네트워크에서 발생합니다. 이를 해결하려면 네트워크 데이터 처리를 담당하는 고성능 스위칭 반도체(ASIC)와 800Gbps(초당 800기가비트)·1600Gbps급 스위치, 듀얼·멀티플레인 네트워크 같은 구조적 개선이 필요합니다.\"최수영 시스코코리아 테크놀로지 스트래티지&어드바이저리 그룹(TSAG) 상무는 20일 서울 삼성동에서 열린 시스코코리아 미디어 테크 세션에서 AI 데이터센터의 주요 병목으로 GPU 백엔드 네트워크를 꼽았다. GPU 클러스터 규모가 커질수록 GPU 간 통신량이 급증하고 서버 한 대당 필요한 네트워크 포트 수도 늘어나면서 백엔드 네트워크의 처리 성능과 확장성이 전체 시스템 성능을 좌우하는 비중이 커지고 있다고 봐서다.GPU 서버에는 관리망과 서비스용 프런트엔드, 스토리지, GPU 간 통신을 담당하는 백엔드 네트워크가 함께 연결된다.…",
-        "category_score": 92,
-        "score_reason": "AI 데이터센터의 핵심 병목이 GPU 확보에서 네트워크 병목으로 이동하고 있다는 분석은 하드웨어 인프라 시장의 다음 격전지가 어디인지 보여주는 핵심 변화 신호임.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12181879",
+        "published_at": "2026-10-21T16:58:31+09:00",
+        "summary": "피지컬 인공지능(AI) 시대를 맞아 산업·기업별로 분산된 제조 데이터를 표준화해야 한다는 주장이 나왔다. 21일 중소기업중앙회가 제주 서귀포시 롯데호텔 제주에서 제19회 중소기업 ..",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "데이터센터",
-          "인프라"
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "AI 인프라 경쟁은 단순히 컴퓨팅 파워뿐만 아니라 처리 속도와 네트워크 효율성 중심으로 재편됨. 인프라 최적화 기술 중심의 콘텐츠 전송 및 처리 전략 수립 필요."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "24f19d3a167c85982bfccb8c4cc49e882d54e75fdb2f9dddad8c9661f2524559",
-        "title": "AI 도입했더니 업무시간 90% 줄었다…산업별 AX 성과 가시화",
+        "id": "0860d84717e54ec10ee69e2692cee247e22fee30a4e9f00f362a229ac1a36fe9",
+        "title": "티맥스티베로, 내년 초 차세대 DBMS 출시…AI 데이터 플랫폼 강화",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261020180309",
-        "published_at": "2026-10-20T18:03:09+09:00",
-        "summary": "[지디넷코리아]인공지능(AI) 도입이 기업의 업무 효율 개선을 넘어 실질적인 비용 절감과 매출 증대로 이어지고 있는 것으로 나타났다.국내 원전 분야에선 기술서류 검토 시간이 90% 단축됐으며 해외 유통 분야에서도 AI 기반 상품 콘텐츠 자동화로 60일 만에 1700만 달러의 추가 매출을 거둔 것으로 조사됐다.20일 베스핀글로벌이 발간한 '2026 산업별 AX 고객 사례집'에 따르면 금융·공공·제조·유통·서비스 등 주요 산업에서 AI를 활용한 업무 자동화와 생산성 개선 성과가 확인됐다.이번 사례집에는 글로벌 선도 기업과 국내 기업·기관의 실제 적용 사례, 베스핀글로벌의 자체 AI 전환(AX) 성과 등 총 34건이 수록됐다.사례집은 글로벌 기업들의 AI 활용 성과와 국내 현장 적용 사례를 비교해 산업별 도입 방식과 기대 효과를 제시했다. 특히 국내에선 KB라이프와 우리금융지주, 한국수력원자력, 산림청 등 14개 프로젝트를 통해 AI가 실제 업무에 적용되는 과정을 소개했다.금융 분야에선…",
-        "category_score": 89,
-        "score_reason": "산업 전반에서 AI 도입을 통한 업무 시간 90% 단축 등 정량적인 AX(AI 전환) 성과가 가시화되면서, 향후 전 산업 영역으로 AI 도입이 폭발적으로 확산될 강력한 근거 확보.",
+        "url": "https://zdnet.co.kr/view/?no=20261021135521",
+        "published_at": "2026-10-21T13:55:38+09:00",
+        "summary": "[지디넷코리아]티맥스티베로가 기업 인공지능(AI) 활용 확대에 대응해 차세대 데이터베이스 관리시스템(DBMS) 개발과 AI 기반 데이터 플랫폼 사업 강화에 나선다.티맥스티베로는 오는 22일 더그랜드롯데 서울에서 국내 주요 기업과 금융권 IT 리더를 초청한 프라이빗 세미나 '티테이블: 이그제큐티브 세미나(T-Table: executive Seminar) 2026'을 개최한다고 21일 밝혔다.이번 세미나는 기업 업무 전반으로 AI 활용이 확대되는 가운데 데이터 인프라 혁신 경험을 공유하고 AI 시대에 필요한 데이터 전략과 차세대 인프라 방향을 논의하기 위해 마련됐다.특히 데이터 주권 확보와 총소유비용(TCO) 절감, 안정적인 데이터 운영 등 기업이 직면한 주요 과제를 살펴보고 AI 활용을 지원하는 차세대 데이터 플랫폼 역할을 제시할 예정이다.주요 프로그램은 '워크 AI(Work AI)' 시대를 위한 차세대 데이터 플랫폼 전략과 데이터 주권·비용 효율을 고려한 인프라 운영 방안, 기업별…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "비즈니스",
-          "산업 변화"
+          "플랫폼",
+          "데이터"
         ],
-        "planning_insight": "AI 도입의 당위성이 '효율'에서 '실질적 매출 창출'로 이동. 산업별로 특화된 AI 워크플로우를 구성하는 것이 시장 선점의 핵심 요소."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "80ce3e8365563e40fbeccc922d20baeb82249fa84adace0609a81e99c0fb5832",
-        "title": "\"韓 기업 70% 데이터 주권 전략 없다…경영진 88%는 책임 우려\"",
+        "id": "702cedae2d3b1442dc24e2dd0041201f61d14bbd1c10716664346b4ed6420a98",
+        "title": "동아ST, 솔티드와 ‘뉴로게이트’ 국내 독점 판매 계약",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261021134509",
-        "published_at": "2026-10-21T13:45:48+09:00",
-        "summary": "[지디넷코리아]국내 기업 10곳 중 7곳이 데이터 주권 확보를 위한 공식 전략을 마련하지 못했다는 조사 결과가 나왔다. 데이터 주권 문제가 발생하면 경영진 직위까지 영향을 받을 수 있다는 우려가 높지만, 실제 데이터 접근과 통제 현황을 파악하거나 서비스 중단에 대비하는 수준은 여전히 미흡하다는 분석이다.21일 에버퓨어가 발표한 '2026 글로벌 데이터 주권 보고서'에 따르면 한국 기업 중 70%가 공식 데이터 주권 전략을 갖추지 않은 것으로 조사됐다. 이는 글로벌 평균인 64%보다 6%포인트 높은 수치다.이번 조사는 에버퓨어가 시장조사기관 밴슨 본에 의뢰해 지난 6월 한국을 비롯한 8개국 대기업 최고경영진과 IT 리더 2100명을 대상으로 진행했으며 한국 응답자는 200명이다.데이터 주권은 기업이 자사 데이터에 대한 접근과 저장, 관리 권한을 통제하고 관련 법률과 규제에 대응할 수 있는 능력을 뜻한다. 해외 정부의 데이터 접근 요구나 지정학적 갈등에 따른 서비스 중단 위험이 커지면…",
-        "category_score": 85,
-        "score_reason": "데이터 주권 전략 부재와 경영진의 책임 우려는 기업의 AI 도입 속도를 늦추는 강력한 규제이자 리스크 요인으로, 향후 '신뢰 가능한 AI' 시장이 형성될 수밖에 없는 흐름을 보여줌.",
+        "url": "https://zdnet.co.kr/view/?no=20261021132859",
+        "published_at": "2026-10-21T13:28:59+09:00",
+        "summary": "[지디넷코리아]동아에스티(동아ST)는 디지털 헬스케어기업 솔티드와 인공지능(AI) 보행분석 솔루션 ‘뉴로게이트’(NEUROGAIT)의 국내 독점 판매 계약을 체결했다고 밝혔다.이번 계약에 따라 동아에스티는 솔티드의 뉴로게이트 국내 독점 유통과 영업 및 마케팅을 담당하며, 솔티드는 제품 공급과 기술 지원, 소프트웨어 고도화를 맡는다.동아에스티는 척추·관절 전문병원을 중심으로 뉴로게이트 공급을 본격화하고, 향후 종합병원과 병·의원 등으로 공급을 확대할 계획이다. 특히 척추관협착증 치료제 ‘오팔몬’을 비롯한 근골격계 분야 전문의약품 영업을 통해 구축한 의료기관 네트워크를 활용해 뉴로게이트의 시장 확대에 나설 방침이다.뉴로게이트는 신발 안에 착용하는 스마트 인솔(깔창)을 통해 환자의 보행 데이터를 수집하고 분석해 의료진에게 객관적인 신체 기능 평가 지표를 제공하는 솔루션이다. 보행 주기, 지면 접촉 시간, 압력중심 이동, 보폭, 보행 속도 등을 정량적으로 분석할 수 있으며, 간이신체기능검…",
+        "category_score": 56,
+        "score_reason": "AI, 마케팅, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "데이터 주권",
-          "거버넌스"
+          "마케팅",
+          "데이터"
         ],
-        "planning_insight": "기업이 AI를 더 공격적으로 활용하게 하려면 보안과 데이터 주권을 보장하는 '신뢰 인프라'를 제공하는 것이 콘텐츠 및 플랫폼 사업자에게 새로운 기회가 됨."
+        "planning_insight": "이 항목은 AI, 마케팅, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
       {
         "rank": 1,
-        "id": "e51bae32289f1c0b8b253fe4c1937aeb817f0238f1a281c0c8c20de974c70875",
-        "title": "빠른 기기가 왜 기다려야 하지?",
-        "source": "무신사 테크",
+        "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+        "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+        "source": "당근 기술블로그",
         "group": "tech_blog",
-        "category": "fashion_commerce",
-        "url": "https://techblog.musinsa.com/%EB%B9%A0%EB%A5%B8-%EA%B8%B0%EA%B8%B0%EA%B0%80-%EC%99%9C-%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%95%BC-%ED%95%98%EC%A7%80-a0533ee53dd2",
-        "published_at": "2026-10-20T07:01:02+09:00",
-        "summary": "테스트 자동화 Framework 3.0 전환기 안녕하세요. MUSINSA Automation QE팀 정다정입니다. 저희는 앱 빌드나 웹 프론트엔드(FE) 배포가 끝날 때마다 실기기에서 BVT(Build Verification Test, 새 빌드의 핵심 기능이 정상 동작하는지 확인하는 테스트)를 자동으로 수행합니다. 결과는 Slack과 TMS(Test Management System, 테스트 케이스와 결과를 관리하는 도구)로 전달합니다. 이 글에서 ‘런(run)’은 이 BVT를 한 번 실행하는 단위를 뜻합니다. 운영하다 보니 두 가지가 눈에 걸리기 시작했습니다. 어떤 기기는 배정된 시나리오를 일찍 끝내고 놀고 있는데, BVT 전체 수행은 배정된 작업을 가장 늦게 끝내는 기기가 끝날 때까지 이어졌습니다. 시나리오가 늘수록 이 기다림도 길어졌습니다. 또 기기 한 대를 추가하려면 기기 전용 스크립트 파일을 새로 작성해야 했고, 그 과정에서 설정이 어긋나는 실수가 종종 생겼습니다. “빠른…",
-        "category_score": 92,
-        "score_reason": "서비스 배포 및 테스트 자동화 인프라 최적화를 통해 운영 효율성을 개선한 실질적인 사례. 리소스 효율화 관점에서 기획자에게 즉각적인 인사이트를 제공함.",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+        "published_at": "2026-10-21T18:28:26+09:00",
+        "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+        "category_score": 95,
+        "score_reason": "LLM을 활용한 콘텐츠 분류 및 추천 시스템 개선 과정을 실제 서비스 피드 전략과 연결하여, 콘텐츠 기획자가 데이터 기반으로 의사결정하는 구체적인 실무 사례를 제공함.",
         "keywords": [
-          "테스트 자동화",
-          "운영 효율화",
-          "서비스 운영"
+          "LLM",
+          "추천 알고리즘",
+          "콘텐츠 분류",
+          "서비스 최적화"
         ],
-        "planning_insight": "병목 지점(유휴 자원)을 찾아 프로세스를 개선하는 방식은 서비스 기획자가 운영 환경의 UX를 개선할 때 필수적인 관점임."
+        "planning_insight": "AI 메타데이터 추출을 통해 기존의 추천 품질을 고도화하고, 서비스 운영 효율을 높이는 프로덕트 데이터 전략 수립에 활용 가능."
       },
       {
         "rank": 2,
@@ -135,14 +140,15 @@
         "url": "https://tech.kakao.com/posts/840",
         "published_at": "2026-10-21T00:00:00+09:00",
         "summary": "안녕하세요. 카카오 Multimodal Model Training팀에서 카나나를 연구·개발하는 Polar(엄지환)입니다. 카카오가 자체 기술력만으로 밑바닥부터(from scratch) 개발한 독자 비전 인코더, Kanana-2-vision-encoder를 소개합니다. Kanana-2-vision-encoder는 카카오 언어모델 Kanana-2 LLM[1]의 가중치와 구조를 활용해 학습과 추론 모두에서 높은 효율성을 자랑합니다. 또한, 고해상도 이미지 ...",
-        "category_score": 88,
-        "score_reason": "자체 모델 개발을 통한 플랫폼 경쟁력 강화 사례. AI 기술을 제품 전략의 핵심으로 어떻게 통합하는지 보여줌.",
+        "category_score": 85,
+        "score_reason": "멀티모달 모델 학습 및 효율성 개선 사례로, 대규모 플랫폼의 비전 AI 도입 전략과 서비스 인프라 운영 관점의 기술적 인사이트를 제공함.",
         "keywords": [
-          "AI",
           "멀티모달",
-          "플랫폼 전략"
+          "비전 인코더",
+          "플랫폼 기술",
+          "AI 인프라"
         ],
-        "planning_insight": "자체 기술 내재화가 서비스 고도화(고해상도 처리, 추론 효율)에 미치는 영향력을 이해하여 서비스의 기술적 차별점을 기획하는 데 활용."
+        "planning_insight": "플랫폼 내 시각 콘텐츠의 효율적인 인덱싱 및 검색 경험 고도화를 위한 기술적 토대 마련 전략으로 참고 가능."
       },
       {
         "rank": 3,
@@ -154,14 +160,15 @@
         "url": "https://d2.naver.com/helloworld/2675915",
         "published_at": "2026-10-20T14:51:56+09:00",
         "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다. 달라진 것은 명세만이 아닙니다. 2020년에는 상상하기 어려웠던 방식으로 코드를 쓰는 사람이 늘었습니다. AI 코딩 도구가 코드의 상당 부분을 작성하고, 사람이 방향을 정하면 AI 에이전트가 브라우저 엔진의 JavaScript 엔진 코드를 다른 언어로 옮기는 일까지 생겼습니다. 2025년 GitHub Octoverse에서 TypeScript가 처음으로 가장 많이 쓰인 언어 1위에 올랐고, GitHub은 그 배경으로 AI를 꼽았습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScri…",
-        "category_score": 82,
-        "score_reason": "AI 코딩 도구의 확산으로 인한 개발 환경 변화를 다룸. 서비스 개발 생산성 전략을 수립하는 데 참고 가능.",
+        "category_score": 75,
+        "score_reason": "기술 트렌드 분석을 통해 AI 에이전트 시대의 개발 환경 변화를 조명함. 서비스 개발 및 콘텐츠 생산 방식의 구조적 변화를 예측하는 데 유용함.",
         "keywords": [
+          "JavaScript",
           "AI 에이전트",
-          "개발 트렌드",
-          "생산성"
+          "기술 트렌드",
+          "개발 생산성"
         ],
-        "planning_insight": "AI 에이전트 도입이 기획 단계에서의 요구사항 정의와 구현 속도에 끼칠 영향력을 예측하고 전략을 수립하는 자료로 활용."
+        "planning_insight": "AI 코딩 도구가 표준이 된 시대에 맞춰, 콘텐츠 자동화 도구 및 웹 서비스 기획 구조를 재설계하는 근거로 활용 가능."
       },
       {
         "rank": 4,
@@ -173,79 +180,20 @@
         "url": "https://d2.naver.com/helloworld/1443473",
         "published_at": "2026-10-21T12:38:48+09:00",
         "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub Package Registry 같은 도전자가 등장했다고 전했습니다. 7년이 지난 지금 Node.js는 연 1회 릴리스로 일정을 바꾸기로 했습니다. Node.js 호환을 목표로 삼게 된 Deno와 Bun은 각각 Cloudflare와 Anthropic에 합류했고, npm은 GitHub의 일부가 되어 공급망 공격과 싸우고 있습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와…",
-        "category_score": 75,
-        "score_reason": "백엔드 및 런타임 환경의 변화를 다루고 있으나, 서비스 기획보다는 인프라 아키텍처 의존도가 높음.",
+        "category_score": 70,
+        "score_reason": "브라우저 밖 환경에서의 자바스크립트 생태계 변화를 다루며, 플랫폼의 확장 전략과 기술 스택 선택의 중요성을 보여줌.",
         "keywords": [
           "Node.js",
           "런타임",
-          "플랫폼 생태계"
+          "플랫폼 생태계",
+          "웹 인프라"
         ],
-        "planning_insight": "서비스 확장성을 고려한 기술 스택 선택 시 플랫폼 생태계의 변화와 지속가능성을 판단하는 기준 수립에 참고."
+        "planning_insight": "차세대 웹 환경에서 서비스 안정성 및 성능 최적화를 위한 플랫폼 기술 스택 선정의 전략적 가이드라인 제공."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "4cc43fc29258401f8ba7fc92b6e723c90b510c891771deab3639312603fdbf67",
-        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-        "published_at": "2026-10-21T00:19:48+09:00",
-        "summary": "",
-        "category_score": 98,
-        "score_reason": "경량 모델을 활용한 고효율 메모리 학습 기법으로, 기업이 고비용의 Frontier 모델 없이도 실무(고객 서비스)에 최적화된 AI를 구축할 수 있는 실질적이고 경제적인 전략을 제시함.",
-        "keywords": [
-          "LLM",
-          "고객 서비스",
-          "효율적 학습",
-          "온프레미스"
-        ],
-        "planning_insight": "범용 모델에 의존하기보다 특정 도메인 데이터와 메모리 학습을 결합하여 가성비 높은 고성능 AI 서비스를 기획할 수 있음."
-      },
-      {
-        "rank": 2,
-        "id": "1682f0b63d12b1be557c88d1e7cd2f86e717b0914f9bc7ab19ce72a17b33e2d8",
-        "title": "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.24157",
-        "published_at": "2026-10-20T13:00:00+09:00",
-        "summary": "arXiv:2610.24157v1 Announce Type: new Abstract: We present CoDA, an open-source human-LM collaborative codebook development assistant that helps domain experts develop annotation guidelines for annotating new variables in unstructured text with language models. Existing language model annotation systems primarily focus on downstream classification performance, while assuming the availability of high-quality annotation guidelines, or codebooks. In practice, developing these codebooks is time-con…",
-        "category_score": 95,
-        "score_reason": "비정형 데이터의 주석(Annotation) 과정을 자동화하는 협업 도구로, 콘텐츠 분석 및 데이터 분류 작업의 생산성을 극대화할 수 있는 실무 밀착형 기술임.",
-        "keywords": [
-          "데이터 라벨링",
-          "생산성",
-          "워크플로우 자동화",
-          "도메인 특화"
-        ],
-        "planning_insight": "방대한 사내 데이터를 정제하고 모델 학습용 데이터셋으로 전환하는 파이프라인 구축에 즉시 도입 가능한 도구임."
-      },
-      {
-        "rank": 3,
-        "id": "81ec3a667c80fd75ecbe8b3eef80ca6ca773ce1ce8a84cbc805071bc5ee54ef2",
-        "title": "Translating in style: An open-weight alternative to GPT-4 for culturally aligned machine translation",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.23868",
-        "published_at": "2026-10-20T13:00:00+09:00",
-        "summary": "arXiv:2610.23868v1 Announce Type: new Abstract: Machine translation systems often preserve meaning but systematically flatten linguistic style, a failure that is most acute when translating into non-Western languages. The RASTA framework of Havaldar et al. (2025a) addresses this through retrieval-augmented stylistic alignment, but relies on GPT-4, a closed, proprietary model. We investigate whether an open-weight translation specialist, Hunyuan-MT-7B, can serve as an open-weight alternative. We…",
-        "category_score": 92,
-        "score_reason": "기존 상용 모델(GPT-4)의 한계인 문체 보존 문제와 비용 문제를 RAG 기반 스타일 정렬 기술로 해결하는 대안적 프레임워크를 제시함.",
-        "keywords": [
-          "RAG",
-          "번역",
-          "스타일 정렬",
-          "오픈소스"
-        ],
-        "planning_insight": "글로벌 콘텐츠 서비스 시 단순 의미 전달을 넘어 브랜드 고유의 톤앤매너를 유지한 자동 번역 환경 구축에 활용 가능함."
-      },
-      {
-        "rank": 4,
         "id": "87fe0062844abcc4e9b0abe2efa4af23c9e93e1fbf03cc4592024e034c06a480",
         "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
         "source": "arXiv cs.CL",
@@ -254,94 +202,123 @@
         "url": "https://arxiv.org/abs/2610.24087",
         "published_at": "2026-10-20T13:00:00+09:00",
         "summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self-contained descriptions or predefined optimization tasks, underrepresenting the translation of original business materials into professionally validated solutions. We introduce OR-License, an end-to-end benchmark of 31 instances acr…",
-        "category_score": 89,
-        "score_reason": "LLM 에이전트가 복잡한 운영 리서치(OR) 문제를 직접 해결할 수 있음을 입증하며, 자동화된 의사결정 에이전트의 실무 적용 가능성을 제시함.",
+        "category_score": 61,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 에이전트",
-          "운영 효율화",
-          "의사결정",
-          "자동화"
+          "LLM",
+          "agent",
+          "agents",
+          "benchmark",
+          "model"
         ],
-        "planning_insight": "단순 콘텐츠 생성을 넘어 비즈니스 로직과 연동된 '문제 해결형 에이전트' 설계 시 유용한 아키텍처임."
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 5,
-        "id": "5f258cb48b3e6d89ecf8c7bcd8ff1569762fc4efd9a1b57c1ee60856aefcc2bf",
-        "title": "Discuss More, Comment Less: Boosting Automated Research via Multi-Perspective Collaborative Review",
+        "rank": 2,
+        "id": "b95b2f2949287636d7625603faa47e5c0ece8b73c8ab61d6ed6309fe5e993f27",
+        "title": "The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.24050",
+        "url": "https://arxiv.org/abs/2610.24048",
         "published_at": "2026-10-20T13:00:00+09:00",
-        "summary": "arXiv:2610.24050v1 Announce Type: new Abstract: As automated research is increasingly adopted for writing papers, automated review has become a critical link between paper generation and quality control. However, existing methods largely rely on single-model feedback or simple review aggregation, failing to explicitly model expert responsibilities or collective deliberation in actual peer reviews, which limits effective cross-examination and reliable decision-making. Therefore, we formulate pap…",
-        "category_score": 87,
-        "score_reason": "콘텐츠 품질 관리를 위한 다중 관점 협업 검토 프레임워크로, AI가 생성한 결과물의 정합성을 높이는 관리 프로세스임.",
+        "summary": "arXiv:2610.24048v1 Announce Type: new Abstract: LLM agents that read untrusted content can be hijacked by prompt injections. Runtime monitors that try to catch a hijack before the agent acts, and benchmarks that score each task with a single run, share an assumption: whether an agent follows an injection is settled when the injection is read. We test this assumption with branching rollouts that replay an episode exactly up to the step at which the agent reads an injection and then resample the…",
+        "category_score": 58,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "자동화 검토",
-          "품질 관리",
-          "멀티 에이전트",
-          "콘텐츠 전략"
+          "LLM",
+          "agent",
+          "agents",
+          "benchmark",
+          "reasoning"
         ],
-        "planning_insight": "자동 생성 콘텐츠의 사내 검수 시스템에 적용하여 인간의 개입을 최소화하면서도 높은 퀄리티를 유지하는 가이드라인 설계에 유리함."
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "c80f3ce0ea96d43b8c2fb41e4e84937a3b68c633b9b6a1cd9fa9bb61969e6cb9",
+        "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/allenai/fairstress",
+        "published_at": "2026-10-21T01:09:19+09:00",
+        "summary": "",
+        "category_score": 57,
+        "score_reason": "LLM, evaluation, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "evaluation",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, evaluation, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "c9382d89e5b3552b7e5d754338f650cd111fc5dc07b4f79897a14dfabac4b115",
+        "title": "Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.23860",
+        "published_at": "2026-10-20T13:00:00+09:00",
+        "summary": "arXiv:2610.23860v1 Announce Type: new Abstract: The Prisoner's Dilemma has long served as a foundational framework for studying human decision-making and cooperative outcomes across social scenarios, yet human behavior consistently deviates from predictions of fully rational economic theory. Previous works have studied human and LLM outcomes in the Prisoner's Dilemma; however, these studies have lacked at least one key feature: a memory component for LLM agents, accessible open-source models, o…",
+        "category_score": 53,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "50ba416b990b8645cd756adc57b4564245394d0b8725544634a1c9d9337d6963",
+        "title": "Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24123",
+        "published_at": "2026-10-20T13:00:00+09:00",
+        "summary": "arXiv:2610.24123v1 Announce Type: new Abstract: Prefix-tuning is a parameter-efficient fine-tuning method for large language models (LLMs) that steers model outputs by prepending task-specific prefix representations to the input sequence. Despite its practical success, the theoretical understanding of the expressiveness of prefixes remains incomplete. In particular, the following question remains open: Given a pretrained autoregressive Transformer, for any input-output sequence pair $(\\mathtt{x…",
+        "category_score": 53,
+        "score_reason": "LLM, model, fine-tuning 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "fine-tuning",
+          "transformer",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, fine-tuning 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "63d74df08d69f79c656291d6fb5db0049ca522865f66551a05ebac13cb2c9ba0",
-      "title": "광고 없애고 추적 끄고…AI로 스마트TV 개조하는 이용자 증가",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261020223659",
-      "published_at": "2026-10-20T22:36:59+09:00",
-      "summary": "[지디넷코리아]스마트TV 이용자들이 AI 코딩 에이전트를 활용해 TV의 광고와 시청 기록 추적 기능을 제거하고 있다고 테크크런치가 현지 시각 10월 19일 보도했다. 이용자들은 앤트로픽의 클로드 코드와 딥시크 V4.1 플래시 같은 AI 도구로 TV 설정을 변경해 홈 화면 광고를 제거하고 앱 실행 속도를 개선하고 있다. AI 코딩 에이전트는 이용자의 요청에 따라 명령어를 작성하고 실행까지 하는 AI 도구다. 상당수 스마트TV에는 화면 캡처나 소리를 분석해 이용자가 시청하는 콘텐츠를 파악하는 자동 콘텐츠 인식(ACR) 기능이 탑재돼 있다.개발자 무잠밀 야신 사부왈라가 공개한 '덤TV(dumbtv)' 프로젝트는 TV 자체 광고와 시청 추적, 원하지 않는 업데이트를 차단하는 것이 목표다. 아마존 파이어 TV 에디션 TV와 소니, TCL, 필립스, 하이센스, 샤오미의 안드로이드 TV와 구글 TV 기기에서 시험을 마쳤으며, 개발에는 딥시크 V4.1 플래시와 클로드 오퍼스 5.5, 클로드 소네…",
-      "category_score": 98,
-      "score_reason": "AI 에이전트를 활용해 스마트TV의 광고와 추적을 차단하는 이용자 행태는 기존 플랫폼 비즈니스 모델에 대한 강력한 소비자 저항 신호로, 콘텐츠·광고 생태계의 근본적 변화를 예고함.",
+      "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+      "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+      "published_at": "2026-10-21T18:28:26+09:00",
+      "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+      "category_score": 95,
+      "score_reason": "LLM을 활용한 콘텐츠 분류 및 추천 시스템 개선 과정을 실제 서비스 피드 전략과 연결하여, 콘텐츠 기획자가 데이터 기반으로 의사결정하는 구체적인 실무 사례를 제공함.",
       "keywords": [
-        "AI 에이전트",
-        "광고 차단",
-        "소비자 행동 변화"
+        "LLM",
+        "추천 알고리즘",
+        "비용 최적화",
+        "콘텐츠 분류"
       ],
-      "planning_insight": "광고 기반 플랫폼 모델의 한계가 도래함에 따라, 사용자에게 '광고 이상의 가치'를 제공하거나 광고를 보상 시스템으로 전환하는 서비스 모델 기획이 필수적임.",
-      "integrated_score": 98,
+      "planning_insight": "콘텐츠 전략에서 자동화 도입 시 '무조건적인 모델 활용'보다 '비용 대비 효율적 메타데이터 추출 방식'으로의 전환을 위한 베스트 프랙티스로 활용 가능합니다.",
+      "integrated_score": 96,
       "criteria_scores": {
         "content_strategy": 25,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 24
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "AI 에이전트를 이용한 플랫폼 광고 회피 현상 가속화",
-      "importance_reason": "사용자가 직접 AI 도구로 플랫폼의 비즈니스 모델을 무력화하는 현상은 기존 미디어 및 콘텐츠 전략의 근본적 재설계를 요구하는 강력한 시장 신호임."
-    },
-    {
-      "rank": 2,
-      "id": "bd295c59f431f46aff77acfbdf0bf697ae1df9b79dd8e1a67e3fe21556944b5d",
-      "title": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261021133930",
-      "published_at": "2026-10-21T13:39:42+09:00",
-      "summary": "[지디넷코리아]아웃시스템즈가 기업의 에이전틱 인공지능(AI) 도입 현황을 분석한 보고서를 발표했다. 기업 임원 상당수가 AI 에이전트를 관리할 역량을 갖췄다고 평가했지만, 에이전트 간 충돌을 해결할 준비가 됐다고 답한 비율은 26%에 그쳤다.AI 에이전트 활용이 개별 업무 자동화에서 여러 시스템과 프로세스를 연계하는 단계로 확대되면서, 실제 운영 환경에 적합한 관리 체계 마련이 과제로 떠올랐다.아웃시스템즈는 CIO 다이브(CIO Dive), KPMG와 공동으로 작성한 '비즈니스 성과 창출을 위한 에이전틱 시스템으로의 전환(Engineering Business Outcomes: The Shift to Agentic systems)' 보고서에서 이 같은 조사 결과를 공개했다고 21일 밝혔다.조사에 참여한 기업 임원의 82%는 AI 에이전트가 실제 운영 환경에 도입되더라도 관리·통합·모니터링 역량을 유지할 수 있다고 답했다. 그러나 AI 에이전트와 기존 시스템, 자동화된 워크플로우 사이…",
-      "category_score": 95,
-      "score_reason": "기업들이 개별 AI 도구 도입 단계를 넘어 여러 AI 에이전트를 연계하는 '에이전틱 시스템'으로 전환 중이나, 관리 체계의 미비(충돌 대응)가 새로운 병목으로 등장함.",
-      "keywords": [
-        "AI 에이전트",
-        "에이전틱 시스템",
-        "운영 관리"
-      ],
-      "planning_insight": "개별 AI 기능 구현보다 복수의 AI 도구와 기존 시스템을 유기적으로 연결하고 충돌을 방지하는 'AI 오케스트레이션' 프로세스 구축이 전략적 우위를 결정함.",
-      "integrated_score": 95,
-      "criteria_scores": {
-        "content_strategy": 24,
         "trend_signal_timeliness": 24,
         "ai_data_relevance": 24,
         "market_consumer_impact": 23
@@ -349,114 +326,148 @@
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "기업형 AI 에이전트 도입의 핵심은 개별 툴이 아닌 '에이전트 간 조율(오케스트레이션)'",
-      "importance_reason": "AI 도입 단계가 개별 자동화에서 복합 에이전트 시스템으로 진화하고 있으며, 이에 따른 관리 부실이 차세대 비즈니스 리스크로 부상함."
+      "one_line_summary": "당근의 LLM 기반 콘텐츠 분류 최적화 및 비용 효율화 사례",
+      "importance_reason": "실제 서비스 현장에서 LLM 도입 시 겪는 비용 문제를 기술적 최적화로 해결한 구체적인 데이터 기반 의사결정 사례이기 때문입니다."
     },
     {
-      "rank": 3,
-      "id": "4cc43fc29258401f8ba7fc92b6e723c90b510c891771deab3639312603fdbf67",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published_at": "2026-10-21T00:19:48+09:00",
-      "summary": "",
-      "category_score": 98,
-      "score_reason": "경량 모델을 활용한 고효율 메모리 학습 기법으로, 기업이 고비용의 Frontier 모델 없이도 실무(고객 서비스)에 최적화된 AI를 구축할 수 있는 실질적이고 경제적인 전략을 제시함.",
+      "rank": 2,
+      "id": "0860d84717e54ec10ee69e2692cee247e22fee30a4e9f00f362a229ac1a36fe9",
+      "title": "티맥스티베로, 내년 초 차세대 DBMS 출시…AI 데이터 플랫폼 강화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021135521",
+      "published_at": "2026-10-21T13:55:38+09:00",
+      "summary": "[지디넷코리아]티맥스티베로가 기업 인공지능(AI) 활용 확대에 대응해 차세대 데이터베이스 관리시스템(DBMS) 개발과 AI 기반 데이터 플랫폼 사업 강화에 나선다.티맥스티베로는 오는 22일 더그랜드롯데 서울에서 국내 주요 기업과 금융권 IT 리더를 초청한 프라이빗 세미나 '티테이블: 이그제큐티브 세미나(T-Table: executive Seminar) 2026'을 개최한다고 21일 밝혔다.이번 세미나는 기업 업무 전반으로 AI 활용이 확대되는 가운데 데이터 인프라 혁신 경험을 공유하고 AI 시대에 필요한 데이터 전략과 차세대 인프라 방향을 논의하기 위해 마련됐다.특히 데이터 주권 확보와 총소유비용(TCO) 절감, 안정적인 데이터 운영 등 기업이 직면한 주요 과제를 살펴보고 AI 활용을 지원하는 차세대 데이터 플랫폼 역할을 제시할 예정이다.주요 프로그램은 '워크 AI(Work AI)' 시대를 위한 차세대 데이터 플랫폼 전략과 데이터 주권·비용 효율을 고려한 인프라 운영 방안, 기업별…",
+      "category_score": 56,
+      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "경량 모델",
-        "고효율 메모리",
-        "도메인 특화"
+        "AI 데이터 플랫폼",
+        "워크 AI",
+        "데이터 주권"
       ],
-      "planning_insight": "범용 LLM의 한계를 데이터 기반의 '학습 메모리'로 극복하여 비용 효율적이고 브랜드 전문성을 극대화한 서비스 운영이 가능함.",
-      "integrated_score": 94,
-      "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "프론티어 모델 없이도 고성능 AI 구현 가능한 도메인 특화 메모리 학습 기법",
-      "importance_reason": "막대한 비용이 드는 거대 모델 의존에서 벗어나 특정 비즈니스 도메인에 최적화된 경량 AI 구축 전략을 제시함."
-    },
-    {
-      "rank": 4,
-      "id": "1682f0b63d12b1be557c88d1e7cd2f86e717b0914f9bc7ab19ce72a17b33e2d8",
-      "title": "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.24157",
-      "published_at": "2026-10-20T13:00:00+09:00",
-      "summary": "arXiv:2610.24157v1 Announce Type: new Abstract: We present CoDA, an open-source human-LM collaborative codebook development assistant that helps domain experts develop annotation guidelines for annotating new variables in unstructured text with language models. Existing language model annotation systems primarily focus on downstream classification performance, while assuming the availability of high-quality annotation guidelines, or codebooks. In practice, developing these codebooks is time-con…",
-      "category_score": 95,
-      "score_reason": "비정형 데이터의 주석(Annotation) 과정을 자동화하는 협업 도구로, 콘텐츠 분석 및 데이터 분류 작업의 생산성을 극대화할 수 있는 실무 밀착형 기술임.",
-      "keywords": [
-        "데이터 라벨링",
-        "협업 도구",
-        "워크플로우 자동화"
-      ],
-      "planning_insight": "사내 데이터 파이프라인 구축 시, 단순 데이터 축적을 넘어 AI와 도메인 전문가가 함께 가이드라인을 고도화하는 체계적인 라벨링 워크플로우 도입이 필요함.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "비정형 데이터의 효율적 라벨링을 위한 인간-AI 협업 도구 개발",
-      "importance_reason": "AI 콘텐츠 및 데이터 전략의 성패는 고품질의 학습 데이터 정제에 달려있으며, 이를 가속화하는 실무 도구의 등장은 생산성에 직접적인 영향을 줌."
-    },
-    {
-      "rank": 5,
-      "id": "e51bae32289f1c0b8b253fe4c1937aeb817f0238f1a281c0c8c20de974c70875",
-      "title": "빠른 기기가 왜 기다려야 하지?",
-      "source": "무신사 테크",
-      "group": "tech_blog",
-      "category": "fashion_commerce",
-      "url": "https://techblog.musinsa.com/%EB%B9%A0%EB%A5%B8-%EA%B8%B0%EA%B8%B0%EA%B0%80-%EC%99%9C-%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%95%BC-%ED%95%98%EC%A7%80-a0533ee53dd2",
-      "published_at": "2026-10-20T07:01:02+09:00",
-      "summary": "테스트 자동화 Framework 3.0 전환기 안녕하세요. MUSINSA Automation QE팀 정다정입니다. 저희는 앱 빌드나 웹 프론트엔드(FE) 배포가 끝날 때마다 실기기에서 BVT(Build Verification Test, 새 빌드의 핵심 기능이 정상 동작하는지 확인하는 테스트)를 자동으로 수행합니다. 결과는 Slack과 TMS(Test Management System, 테스트 케이스와 결과를 관리하는 도구)로 전달합니다. 이 글에서 ‘런(run)’은 이 BVT를 한 번 실행하는 단위를 뜻합니다. 운영하다 보니 두 가지가 눈에 걸리기 시작했습니다. 어떤 기기는 배정된 시나리오를 일찍 끝내고 놀고 있는데, BVT 전체 수행은 배정된 작업을 가장 늦게 끝내는 기기가 끝날 때까지 이어졌습니다. 시나리오가 늘수록 이 기다림도 길어졌습니다. 또 기기 한 대를 추가하려면 기기 전용 스크립트 파일을 새로 작성해야 했고, 그 과정에서 설정이 어긋나는 실수가 종종 생겼습니다. “빠른…",
-      "category_score": 92,
-      "score_reason": "서비스 배포 및 테스트 자동화 인프라 최적화를 통해 운영 효율성을 개선한 실질적인 사례. 리소스 효율화 관점에서 기획자에게 즉각적인 인사이트를 제공함.",
-      "keywords": [
-        "테스트 자동화",
-        "리소스 효율화",
-        "서비스 운영"
-      ],
-      "planning_insight": "운영 프로세스 내 유휴 자원과 병목 구간을 시각화하고 이를 자동화하는 시도는 모든 서비스 기획자가 갖춰야 할 '운영 최적화'의 기본 역량임.",
+      "planning_insight": "사내 데이터의 구조화가 향후 AI 기반의 콘텐츠 생성 및 마케팅 자동화의 핵심 경쟁력이 될 것임을 시사합니다.",
       "integrated_score": 90,
       "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 22,
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
         "market_consumer_impact": 22
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성"
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "자동화 테스트 인프라 최적화를 통한 운영 생산성 개선 실례",
-      "importance_reason": "콘텐츠 관리 및 서비스 배포 과정에서 발생하는 병목 현상을 해결하는 실무적 접근법을 담고 있어 기획자의 운영 효율성 제고에 실질적 도움을 줌."
+      "one_line_summary": "워크 AI(Work AI) 시대를 대비한 기업용 데이터 플랫폼의 전략적 변화",
+      "importance_reason": "AI 기술의 도입이 단순 툴 사용을 넘어 기업 내부의 데이터 인프라 재편으로 확장되는 거시적 흐름을 잘 보여줍니다."
+    },
+    {
+      "rank": 3,
+      "id": "0d76b4ded7c509879f8fc98b15aadab122dde0d9b2fe85f6048f4ce805aa9297",
+      "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/2675915",
+      "published_at": "2026-10-20T14:51:56+09:00",
+      "summary": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Chrome과 Firefox, Node.js에서 플래그 없이 쓸 수 있습니다. 달라진 것은 명세만이 아닙니다. 2020년에는 상상하기 어려웠던 방식으로 코드를 쓰는 사람이 늘었습니다. AI 코딩 도구가 코드의 상당 부분을 작성하고, 사람이 방향을 정하면 AI 에이전트가 브라우저 엔진의 JavaScript 엔진 코드를 다른 언어로 옮기는 일까지 생겼습니다. 2025년 GitHub Octoverse에서 TypeScript가 처음으로 가장 많이 쓰인 언어 1위에 올랐고, GitHub은 그 배경으로 AI를 꼽았습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScri…",
+      "category_score": 75,
+      "score_reason": "기술 트렌드 분석을 통해 AI 에이전트 시대의 개발 환경 변화를 조명함. 서비스 개발 및 콘텐츠 생산 방식의 구조적 변화를 예측하는 데 유용함.",
+      "keywords": [
+        "AI 에이전트",
+        "개발 생산성",
+        "웹 생태계"
+      ],
+      "planning_insight": "콘텐츠 생산 도구의 환경 변화를 이해하고, 향후 '사람-AI 협업형 콘텐츠 생산 프로세스'를 설계하는 기초 자료로 활용됩니다.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트가 주도하는 개발 및 콘텐츠 생산 방식의 구조적 변화",
+      "importance_reason": "AI 도구가 단순 보조를 넘어 작업의 방향을 결정하는 주체로 진화하고 있음을 시사하는 미래지향적 트렌드입니다."
+    },
+    {
+      "rank": 4,
+      "id": "c05f898abffdb01e326a29312badd5ce01d06a5c4d8ae7aecf4a8b569f633be7",
+      "title": "글로벌 최고 수준의 자체 비전 인코더, Kanana-2-vision-encoder 개발기",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/840",
+      "published_at": "2026-10-21T00:00:00+09:00",
+      "summary": "안녕하세요. 카카오 Multimodal Model Training팀에서 카나나를 연구·개발하는 Polar(엄지환)입니다. 카카오가 자체 기술력만으로 밑바닥부터(from scratch) 개발한 독자 비전 인코더, Kanana-2-vision-encoder를 소개합니다. Kanana-2-vision-encoder는 카카오 언어모델 Kanana-2 LLM[1]의 가중치와 구조를 활용해 학습과 추론 모두에서 높은 효율성을 자랑합니다. 또한, 고해상도 이미지 ...",
+      "category_score": 85,
+      "score_reason": "멀티모달 모델 학습 및 효율성 개선 사례로, 대규모 플랫폼의 비전 AI 도입 전략과 서비스 인프라 운영 관점의 기술적 인사이트를 제공함.",
+      "keywords": [
+        "멀티모달",
+        "비전 인코더",
+        "플랫폼 기술"
+      ],
+      "planning_insight": "비주얼 콘텐츠의 인덱싱 및 맞춤형 추천 시스템 기획 시 멀티모달 인코딩 기술을 도입한 데이터 전략 수립에 기여합니다.",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 20,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "카카오의 자체 비전 인코더 개발을 통한 멀티모달 AI 경쟁력 강화",
+      "importance_reason": "텍스트를 넘어 이미지와 시각 데이터를 이해하는 멀티모달 모델이 차세대 콘텐츠 경험의 핵심임을 증명합니다."
+    },
+    {
+      "rank": 5,
+      "id": "c6339a823ff77022a3636a937c36d6cf3ddf73a0214db57a96887bf6aacb1745",
+      "title": "재난정보 보려는데 광고부터...KBS 유튜브 수익화 논란",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021172407",
+      "published_at": "2026-10-21T17:24:07+09:00",
+      "summary": "[지디넷코리아]공영방송 KBS가 국민의 생명과 안전에 직결되는 재난 관련 긴급뉴스에도 유튜브 광고를 적용하고 있는 것으로 나타났다. 위험 지역과 대피 장소, 행동요령을 신속하게 확인해야 하는 상황에서 광고가 정보 전달을 지연시킬 수 있다는 지적이다. 특히 KBS가 광고 적용 이유로 제시한 영상 노출도와 도달률은 유튜브의 공식 설명과도 맞지 않아 논란이 예상된다.국회 과학기술정보방송통신위원회 소속 이주희 의원(더불어민주당)은 KBS가 제출한 자료에서 재난·긴급뉴스·공익정보의 광고 제외 기준을 묻자 “현재는 알고리즘 노출도, 도달률 등을 고려하여 유튜브 광고를 적용하고 있음”이라고 답했다고 밝혔다.KBS가 지난해 10월1일부터 시행한 '디지털 플랫폼 수익 포트폴리오 확장 방안'에 따르면 유튜브 영상에는 건너뛸 수 없는 광고와 중간광고를 기본적으로 활성화하도록 했다. 보도와 공익 콘텐츠는 신속성과 신뢰성 등을 고려해 광고를 끌 수 있도록 했지만, 재난 긴급정보에 대해서는 별도의 광고 제…",
+      "category_score": 66,
+      "score_reason": "광고, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "플랫폼 수익화",
+        "사용자 경험",
+        "알고리즘 광고"
+      ],
+      "planning_insight": "브랜디드 콘텐츠나 서비스 기획 시 '수익화 효율'과 '사용자 경험 가치' 사이의 최적 균형점을 찾기 위한 리서치 주제로 적합합니다.",
+      "integrated_score": 82,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 18,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "공영성과 수익화 사이에서 발생하는 플랫폼 광고 알고리즘의 갈등",
+      "importance_reason": "수익 모델과 사용자 경험의 상충 문제는 모든 콘텐츠 플랫폼 운영자가 반드시 직면하는 시의적절한 비즈니스 윤리 과제입니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 79,
+      "count": 80,
       "groups": [
         "ai_data",
         "news",
@@ -471,8 +482,21 @@
       ]
     },
     {
-      "keyword": "플랫폼",
+      "keyword": "데이터",
       "count": 22,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 21,
       "groups": [
         "news"
       ],
@@ -483,7 +507,7 @@
     },
     {
       "keyword": "분석",
-      "count": 18,
+      "count": 16,
       "groups": [
         "news"
       ],
@@ -493,38 +517,28 @@
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 17,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "콘텐츠",
+      "keyword": "브랜드",
       "count": 13,
       "groups": [
         "news"
       ],
       "sources": [
-        "ZDNet Korea"
+        "ZDNet Korea",
+        "매일경제 기업"
       ]
     }
   ],
   "overall_summary": [
-    "소비자가 직접 AI 도구를 활용해 광고를 차단하는 등 플랫폼 주도권이 소비자에게 이동하는 변화가 시작되었습니다.",
-    "AI 도입의 초점이 '단순 업무 자동화'에서 복합적인 '에이전트 조율 및 실무 워크플로우 효율화'로 급격히 전환되고 있습니다.",
-    "비싼 프론티어 모델 의존도를 낮추고 도메인 데이터와 최적화된 인프라를 결합하여 비용 대비 효율을 극대화하는 '현실적 AI 전략'이 핵심 경쟁력으로 떠오르고 있습니다."
+    "기술블로그와 연구 분야에서 AI 에이전트와 LLM 최적화 등 실무적인 효율 향상 사례가 구체화되고 있습니다.",
+    "기업들은 단순 도입을 넘어 내부 데이터 인프라와 자체 모델을 활용한 '데이터 주권 및 최적화' 단계로 진입하고 있습니다.",
+    "플랫폼의 수익화 알고리즘이 사용자의 경험과 공익적 가치에 미치는 영향력이 중요하게 논의되기 시작했습니다."
   ],
   "method": "gemini",
-  "fallback_used": false,
+  "fallback_used": true,
   "gemini_call_count": 4,
   "category_methods": {
-    "news": "gemini",
+    "news": "fallback",
     "tech_blog": "gemini",
-    "ai_data": "gemini"
+    "ai_data": "fallback"
   }
 }
