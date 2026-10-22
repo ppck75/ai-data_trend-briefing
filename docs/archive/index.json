@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-22T09:50:25.553539+09:00",
+  "updated_at": "2026-10-22T17:50:44.275017+09:00",
   "archives": [
+    {
+      "id": "2026-10-22_17-35",
+      "date": "2026-10-22",
+      "time": "17:35",
+      "label": "2026-10-22 17:35",
+      "generated_at": "2026-10-22T17:50:29.357649+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+        "Where Do Legal Factors Live in LLMs?",
+        "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+        "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability"
+      ],
+      "path_json": "archive/2026-10-22/17-35.json",
+      "path_md": "archive/2026-10-22/17-35.md"
+    },
     {
       "id": "2026-10-22_09-49",
       "date": "2026-10-22",

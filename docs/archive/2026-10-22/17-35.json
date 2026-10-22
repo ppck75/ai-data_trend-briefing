@@ -1,0 +1,469 @@
+{
+  "briefing_date": "2026-10-22",
+  "generated_at": "2026-10-22T17:50:29.357649+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 183,
+    "tech_blog": 1,
+    "ai_data": 16
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+        "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021213208",
+        "published_at": "2026-10-21T21:32:08+09:00",
+        "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+        "category_score": 98,
+        "score_reason": "생성형 AI 검색(GEO)은 광고/커머스 시장의 핵심 패러다임 변화를 예고하며, 브랜드 마케팅의 필수 전략으로 확산될 가능성이 매우 높음.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅"
+        ],
+        "planning_insight": "브랜드 검색 경험 최적화를 위한 에이전트 기반 콘텐츠 마케팅 전략 수립 및 SEO(검색 엔진 최적화)를 넘어선 GEO 전략 강화 필요."
+      },
+      {
+        "rank": 2,
+        "id": "e11454c68e7e7de7218af24c7ed7ddfbc986d08056de5c1e960c9f0a850a56d2",
+        "title": "AX 속도내는 HD현대, 디지털트윈 활용해 4년내 자율조선소 구축",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12181832",
+        "published_at": "2026-10-21T16:22:04+09:00",
+        "summary": "HD현대가 반세기 동안 축적한 조선소 현장의 경험과 노하우를 인공지능(AI)을 활용해 데이터화한다. 숙련 인력 감소와 중국을 비롯한 경쟁국의 추격에 대응해 2030년까지 AI가 생..",
+        "category_score": 95,
+        "score_reason": "전통 제조 기업이 DX/AX 전환을 통해 실제 자율조선소 등 구체적 사업 모델을 구축하는 과정으로, 향후 산업별 AI 도입의 표준 사례가 될 가능성.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "디지털트윈"
+        ],
+        "planning_insight": "현장 숙련도 데이터를 자산화하여 AI 에이전트로 전환하는 방법론을 콘텐츠화하여 B2B 시장의 DX 가이드라인 제시."
+      },
+      {
+        "rank": 3,
+        "id": "1b6b46295afe0cf3498a11964e5175748bb05a991e357ec812abe630defa41de",
+        "title": "현대차그룹 AX 가속…2년 잡은 TFT, 1년여 만에 끝낸다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021154450",
+        "published_at": "2026-10-22T08:30:01+09:00",
+        "summary": "[지디넷코리아]“일단 1년을 해보고, 무조건 2년 내에는 끝내겠다는 생각으로 지난 4월 태스크포스팀(TFT)을 시작했다. (…) 현재 TFT 종료 조건 다수를 완료했고 내년 6월쯤 종료할 것으로 보고 있다.”진은숙 현대차·기아 ICT담당 사장은 지난 21일 현대차그룹이 주최한 ‘소프티어 테크톡 오프데이 2026’ 기조연설자로 나서 장재훈 현대차그룹 부회장 직속 ‘인공지능(AI) 거버넌스 TFT’ 운영 현황을 이같이 공유했다.현대차그룹은 지난 4월 이 TFT를 신설하고, 진은숙 사장을 TFT장으로 배치했다. 그룹 내 500개 이상 법인의 인공지능 전환(AX)을 추진하기 위해 출범했다해당 TFT는 AX PMO, AI 리스크 대응, AI 기반 조성, AI 프로젝트 총괄, AI 역량 향상 등 5개 분과로 구성됐다. TFT와 함께 부회장 직속으로 AI에 대한 그룹사 철학을 논의하는 AI 윤리위원회를 포함해 AX 추진 체계를 구축했다. 진 사장은 “가령 보스턴다이내믹스란 로봇 회사에 대해,…",
+        "category_score": 92,
+        "score_reason": "대기업 그룹 차원의 AI 전환(AX) 거버넌스 및 TFT 운영은 모든 기업의 경영 화두이며, 조직적 변화의 표준 트렌드를 반영함.",
+        "keywords": [
+          "AI",
+          "조직 변화",
+          "플랫폼"
+        ],
+        "planning_insight": "기업 내 AI 거버넌스 구축 및 리스크 관리 체계에 관한 실무적인 인사이트 콘텐츠 기획."
+      },
+      {
+        "rank": 4,
+        "id": "6ea8326b4666104f3d9493ae7333e1cae6a7597d999c71ecc00f00c64dac74dc",
+        "title": "줌 \"회의 넘어 업무 실행까지\"…아태 기업용 AI 강화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022130731",
+        "published_at": "2026-10-22T14:13:06+09:00",
+        "summary": "[지디넷코리아]줌(Zoom)이 화상회의와 협업 도구를 넘어 인공지능(AI)이 실제 업무까지 수행하는 플랫폼으로 전환에 속도를 낸다. 회의와 채팅에서 발생한 정보를 AI 에이전트가 분석해 후속 업무를 자동으로 처리하도록 지원하고 아시아태평양(APAC) 시장에서 기업용 AI 도입을 확대한다는 전략이다.에릭 위안 줌 최고경영자(CEO)는 22일 온·오프라인으로 진행된 '줌토피아 APAC 2026' 행사에서 \"과거에는 줌 통화가 끝나면 고객이 직접 시스템에 접속해 후속 업무를 처리해야 했다\"며 \"AI를 활용해 이 두 단계를 하나로 통합하는 것이 우리 목표\"라고 밝혔다.줌은 AI 기반 업무 자동화를 통해 기존 커뮤니케이션 플랫폼을 실제 업무를 실행하는 시스템으로 발전시킬 계획이다. AI 에이전트가 회의 내용을 분석한 뒤 고객관계관리(CRM) 시스템에 정보를 기록하거나 발표 자료를 만드는 방식이다.위안 CEO는 \"AI 에이전트가 자동으로 CRM에 접속해 필요한 정보를 기록하게 될 것\"이라며…",
+        "category_score": 90,
+        "score_reason": "플랫폼의 서비스 영역이 '소통'에서 '업무 실행'으로 확장되는 에이전틱 AI 트렌드는 전 산업군으로 일반화될 흐름임.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "업무 자동화"
+        ],
+        "planning_insight": "협업 도구와 AI 에이전트 결합에 따른 '워크플로우 자동화' 관점의 생산성 콘텐츠 생산."
+      },
+      {
+        "rank": 5,
+        "id": "bd295c59f431f46aff77acfbdf0bf697ae1df9b79dd8e1a67e3fe21556944b5d",
+        "title": "아웃시스템즈 \"AI 에이전트 운영 자신감 높지만 충돌 대응 준비 부족\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021133930",
+        "published_at": "2026-10-21T13:39:42+09:00",
+        "summary": "[지디넷코리아]아웃시스템즈가 기업의 에이전틱 인공지능(AI) 도입 현황을 분석한 보고서를 발표했다. 기업 임원 상당수가 AI 에이전트를 관리할 역량을 갖췄다고 평가했지만, 에이전트 간 충돌을 해결할 준비가 됐다고 답한 비율은 26%에 그쳤다.AI 에이전트 활용이 개별 업무 자동화에서 여러 시스템과 프로세스를 연계하는 단계로 확대되면서, 실제 운영 환경에 적합한 관리 체계 마련이 과제로 떠올랐다.아웃시스템즈는 CIO 다이브(CIO Dive), KPMG와 공동으로 작성한 '비즈니스 성과 창출을 위한 에이전틱 시스템으로의 전환(Engineering Business Outcomes: The Shift to Agentic systems)' 보고서에서 이 같은 조사 결과를 공개했다고 21일 밝혔다.조사에 참여한 기업 임원의 82%는 AI 에이전트가 실제 운영 환경에 도입되더라도 관리·통합·모니터링 역량을 유지할 수 있다고 답했다. 그러나 AI 에이전트와 기존 시스템, 자동화된 워크플로우 사이…",
+        "category_score": 88,
+        "score_reason": "AI 에이전트 도입이 증가함에 따라 '에이전트 간 충돌'이라는 실질적인 관리 이슈를 제기, 차후 기업 관리 솔루션 시장의 새로운 키워드로 성장 가능.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "비즈니스 관리"
+        ],
+        "planning_insight": "AI 에이전트 도입 이후의 리스크 관리 및 거버넌스 체계 구축을 주제로 한 심층 분석 콘텐츠."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+        "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+        "published_at": "2026-10-21T18:28:26+09:00",
+        "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+        "category_score": 92,
+        "score_reason": "추천 시스템 개선을 위해 LLM을 활용한 메타데이터 추출 및 분류 전략을 상세히 다루며, 기술 도입 시 발생하는 비용 최적화 이슈를 비즈니스적 관점에서 분석함.",
+        "keywords": [
+          "LLM",
+          "추천 시스템",
+          "메타데이터",
+          "비용 최적화"
+        ],
+        "planning_insight": "단순 모델 고도화를 넘어, 대규모 트래픽 환경에서 LLM을 추천 시스템에 통합할 때 발생하는 비용 효율성과 데이터 분류 전략의 중요성을 보여줌."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "99d92f0b84e40061555d144eb062c7a61f981bf6497986945b1a7f5573f07e4d",
+        "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28787",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading.…",
+        "category_score": 63,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "70480fb6d65a572e7839a622b632c385c7fbca773dd2feb2367738a348e3fe17",
+        "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28767",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28767v1 Announce Type: new Abstract: Current evaluation of LLMs on benchmarks typically aggregates performance over individual examples into a single scalar score. This approach is overly coarse and ignores the diverse scope of skills covered by benchmark datasets. To address this limitation and better exploit benchmark data, we propose SkillEval, a new evaluation framework that performs cross-model, skill-level analysis. The framework integrates advances from two areas: (1) it lever…",
+        "category_score": 60,
+        "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "benchmark",
+          "model",
+          "dataset",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "dfbef6a082e83338cf611cc12e12c51e5d83d9aacaf27daf909fa7db1b7f1e59",
+        "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28772",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28772v1 Announce Type: new Abstract: Psychotherapy fidelity assessment measures how faithfully a therapist adheres to a treatment protocol, a critical determinant of positive patient outcomes. However, fidelity assessment is bottlenecked by manual expert review, rendering the process labor-intensive and unscalable. To scale therapy supervision and support clinician self-learning, we present an integrated application of large language models (LLMs) that automates psychotherapy fidelit…",
+        "category_score": 53,
+        "score_reason": "LLM, model, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "API",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "7f8df14a4ba784b55e0b27d41224b0d040255aab34374dfc7fe93e70162720f8",
+        "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+        "published_at": "2026-10-21T21:51:24+09:00",
+        "summary": "",
+        "category_score": 49,
+        "score_reason": "retrieval, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "retrieval",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 retrieval, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "c51536100c7a1922825171eff55809cee5282ba8d8c4217a8f4c32b3fba55158",
+        "title": "Where Do Legal Factors Live in LLMs?",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28799",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28799v1 Announce Type: new Abstract: In case-based legal reasoning, legal professionals identify legally significant fact patterns in a new dispute and compare them with those of decided cases. In AI & Law, HYPO dimensions and CATO factors represent these patterns symbolically, organizing expert knowledge distilled from case narratives as explicit, structured, interpretable, and auditable legal concepts and relations that support case comparison, legal argument, and precedent-based r…",
+        "category_score": 48,
+        "score_reason": "LLM, reasoning, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, reasoning, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "dfbef6a082e83338cf611cc12e12c51e5d83d9aacaf27daf909fa7db1b7f1e59",
+      "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.28772",
+      "published_at": "2026-10-22T13:00:00+09:00",
+      "summary": "arXiv:2610.28772v1 Announce Type: new Abstract: Psychotherapy fidelity assessment measures how faithfully a therapist adheres to a treatment protocol, a critical determinant of positive patient outcomes. However, fidelity assessment is bottlenecked by manual expert review, rendering the process labor-intensive and unscalable. To scale therapy supervision and support clinician self-learning, we present an integrated application of large language models (LLMs) that automates psychotherapy fidelit…",
+      "category_score": 53,
+      "score_reason": "LLM, model, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "model",
+        "API",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, model, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.28772v1 Announce Type: new Abstract: Psychotherapy fidelity assessment measures how faithfully a therapist ad…",
+      "importance_reason": "LLM, model, API 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "c51536100c7a1922825171eff55809cee5282ba8d8c4217a8f4c32b3fba55158",
+      "title": "Where Do Legal Factors Live in LLMs?",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.28799",
+      "published_at": "2026-10-22T13:00:00+09:00",
+      "summary": "arXiv:2610.28799v1 Announce Type: new Abstract: In case-based legal reasoning, legal professionals identify legally significant fact patterns in a new dispute and compare them with those of decided cases. In AI & Law, HYPO dimensions and CATO factors represent these patterns symbolically, organizing expert knowledge distilled from case narratives as explicit, structured, interpretable, and auditable legal concepts and relations that support case comparison, legal argument, and precedent-based r…",
+      "category_score": 48,
+      "score_reason": "LLM, reasoning, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "reasoning",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, reasoning, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.28799v1 Announce Type: new Abstract: In case-based legal reasoning, legal professionals identify legally sign…",
+      "importance_reason": "LLM, reasoning, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+      "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021213208",
+      "published_at": "2026-10-21T21:32:08+09:00",
+      "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+      "category_score": 98,
+      "score_reason": "생성형 AI 검색(GEO)은 광고/커머스 시장의 핵심 패러다임 변화를 예고하며, 브랜드 마케팅의 필수 전략으로 확산될 가능성이 매우 높음.",
+      "keywords": [
+        "AI",
+        "광고",
+        "마케팅"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "99d92f0b84e40061555d144eb062c7a61f981bf6497986945b1a7f5573f07e4d",
+      "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.28787",
+      "published_at": "2026-10-22T13:00:00+09:00",
+      "summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading.…",
+      "category_score": 63,
+      "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "agent",
+        "agents",
+        "model",
+        "evaluation"
+      ],
+      "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 61,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing age…",
+      "importance_reason": "LLM, agent, agents 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "7f8df14a4ba784b55e0b27d41224b0d040255aab34374dfc7fe93e70162720f8",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "published_at": "2026-10-21T21:51:24+09:00",
+      "summary": "",
+      "category_score": 49,
+      "score_reason": "retrieval, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "retrieval",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 retrieval, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 59,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "importance_reason": "retrieval, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 90,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 30,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 20,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, LLM, model, API, reasoning 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "fallback"
+  }
+}
