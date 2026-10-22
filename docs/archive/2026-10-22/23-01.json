@@ -1,0 +1,494 @@
+{
+  "briefing_date": "2026-10-22",
+  "generated_at": "2026-10-22T23:01:12.493869+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 178,
+    "tech_blog": 2,
+    "ai_data": 20
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "a3ba911e159263a736b21907c5be37c8ea72d8ceae08e6507f763b1188f69934",
+        "title": "[단독] 삼성전기, 테슬라·엔비디아 3.7조 투자받는다…AI칩기판 라인구축",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12182880",
+        "published_at": "2026-10-22T15:34:12+09:00",
+        "summary": "테슬라 1.1조·엔비디아 2.6조 투자 삼성전기 ‘차세대기판 생산시설’ 증설 자율차·휴머노이드·AI칩에 장기 공급 2028년 양산·2029년부터 5년간 제공테슬라와 엔비디아가 각각..",
+        "category_score": 98,
+        "score_reason": "AI 인프라의 핵심인 '전력 및 기판' 공급망 변화를 보여주는 대규모 투자 건으로, 향후 산업 생태계 전반에 미칠 파급력이 매우 큼",
+        "keywords": [
+          "AI인프라",
+          "기판",
+          "반도체",
+          "공급망"
+        ],
+        "planning_insight": "AI 하드웨어 가치사슬의 중심이 GPU에서 패키징 기판으로 확장됨에 따라, B2B 공급망 및 인프라 구축 관련 전략 콘텐츠 생산이 필요함"
+      },
+      {
+        "rank": 2,
+        "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+        "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021213208",
+        "published_at": "2026-10-21T21:32:08+09:00",
+        "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+        "category_score": 95,
+        "score_reason": "생성형 AI 검색(GEO)이라는 신규 광고/마케팅 시장의 변화를 가장 명확하게 짚고 있는 솔루션 출시 사례임",
+        "keywords": [
+          "GEO",
+          "AI검색",
+          "마케팅",
+          "광고"
+        ],
+        "planning_insight": "검색 엔진 최적화(SEO)가 생성형 AI 환경으로 이동하는 트렌드를 반영, 브랜드의 AI 검색 대응 매뉴얼 및 전략적 콘텐츠를 기획해야 함"
+      },
+      {
+        "rank": 3,
+        "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+        "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022145856",
+        "published_at": "2026-10-22T15:00:44+09:00",
+        "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+        "category_score": 92,
+        "score_reason": "AI 도입 초기 단계를 지나 '가성비/수익성' 중심의 실용주의적 AI 활용 단계로 시장의 화두가 옮겨가고 있음을 보여줌",
+        "keywords": [
+          "AI수익성",
+          "MS",
+          "비용효율화"
+        ],
+        "planning_insight": "기업들이 AI 도입 효과를 '비용 대비 성과(ROI)'로 평가하기 시작함에 따라, 구체적인 업무 생산성 향상 데이터 중심의 콘텐츠 전략 강화"
+      },
+      {
+        "rank": 4,
+        "id": "a27f523587dfdff44852a076b44e3fd248a0d2849ce58b3f5959f35a029f710b",
+        "title": "\"말 끊김 없이 사람처럼 통화”…채널톡, AI 전화 ‘보이스 알프’ 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021194514",
+        "published_at": "2026-10-21T19:45:14+09:00",
+        "summary": "[지디넷코리아]채널코퍼레이션이 음성 AI 상담을 지원하는 AI 전화 '보이스 알프'를 정식 출시하고, 고객에게 먼저 전화를 거는 '알프 마케팅'을 선보인다.21일 회사에 따르면, 보이스 알프는 대화형 생성 AI 에이전트로 기존 채팅 상담 AI '알프'의 영역을 전화로 확장한 솔루션이다. 고객 문의에 응대하는 인바운드 상담은 물론, 특정 조건의 고객에게 AI가 자동으로 전화를 거는 아웃바운드 기능 '알프 마케팅'을 새롭게 지원한다. 이를 통해 잠재 고객의 B2B 영업 기초 상담이나 A/S 센터의 제품 정상 작동 확인 및 문자 안내 등을 자동화할 수 있다. 기술적 완성도 역시 끌어올렸다. 보이스 알프에는 고객의 억양과 머뭇거림을 분석해 발화 종료를 판단하는 '턴 감지(Turn Detection)' 모델이 적용돼 AI가 고객의 말을 끊는 현상을 최소화했다. 사내 카페의 AI 주문 데이터 1만여건을 분석한 결과, AI가 발화 미종료로 판단해 대기한 사례의 87%에서 1.5초 이내에 실제…",
+        "category_score": 90,
+        "score_reason": "채팅을 넘어 'AI 보이스 커머스/상담'이라는 실질적 고객 접점으로 AI가 침투하는 강력한 소비자 행동 변화 신호임",
+        "keywords": [
+          "음성AI",
+          "커머스",
+          "상담자동화"
+        ],
+        "planning_insight": "AI 에이전트가 고객 응대 및 아웃바운드 마케팅의 주체로 자리 잡는 현상에 주목, 음성 기반 커머스 경험 및 자동화 서비스 확산에 대비"
+      },
+      {
+        "rank": 5,
+        "id": "1b6b46295afe0cf3498a11964e5175748bb05a991e357ec812abe630defa41de",
+        "title": "현대차그룹 AX 가속…2년 잡은 TFT, 1년여 만에 끝낸다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021154450",
+        "published_at": "2026-10-22T08:30:01+09:00",
+        "summary": "[지디넷코리아]“일단 1년을 해보고, 무조건 2년 내에는 끝내겠다는 생각으로 지난 4월 태스크포스팀(TFT)을 시작했다. (…) 현재 TFT 종료 조건 다수를 완료했고 내년 6월쯤 종료할 것으로 보고 있다.”진은숙 현대차·기아 ICT담당 사장은 지난 21일 현대차그룹이 주최한 ‘소프티어 테크톡 오프데이 2026’ 기조연설자로 나서 장재훈 현대차그룹 부회장 직속 ‘인공지능(AI) 거버넌스 TFT’ 운영 현황을 이같이 공유했다.현대차그룹은 지난 4월 이 TFT를 신설하고, 진은숙 사장을 TFT장으로 배치했다. 그룹 내 500개 이상 법인의 인공지능 전환(AX)을 추진하기 위해 출범했다해당 TFT는 AX PMO, AI 리스크 대응, AI 기반 조성, AI 프로젝트 총괄, AI 역량 향상 등 5개 분과로 구성됐다. TFT와 함께 부회장 직속으로 AI에 대한 그룹사 철학을 논의하는 AI 윤리위원회를 포함해 AX 추진 체계를 구축했다. 진 사장은 “가령 보스턴다이내믹스란 로봇 회사에 대해,…",
+        "category_score": 88,
+        "score_reason": "대기업 그룹 차원의 AI 전환(AX) 가속화 현상을 상징하며, 조직 내 AI 거버넌스 구축 및 내재화의 중요성을 잘 보여줌",
+        "keywords": [
+          "AX",
+          "AI전환",
+          "기업조직"
+        ],
+        "planning_insight": "AI 전환은 일회성 기술 도입이 아닌 전사적 조직 체계의 변화임을 알리고, 기업들의 AI 내재화 성공 사례를 벤치마킹하는 콘텐츠 구성 필요"
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+        "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+        "published_at": "2026-10-21T18:28:26+09:00",
+        "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+        "category_score": 95,
+        "score_reason": "추천 시스템 개선을 위한 LLM 메타데이터 활용 및 비용 최적화 전략을 상세히 다루어, 서비스 기획과 데이터 활용 측면에서 실질적인 인사이트를 제공함.",
+        "keywords": [
+          "LLM",
+          "추천 시스템",
+          "비용 최적화",
+          "서비스 기획"
+        ],
+        "planning_insight": "AI 기반의 개인화 추천 시스템을 구현할 때, 메타데이터 생성 전략이 전체 인프라 비용과 비즈니스 효율성에 미치는 영향을 분석하여 비용 효율적인 아키텍처 수립의 중요성을 시사함."
+      },
+      {
+        "rank": 2,
+        "id": "8e3da00d434560c2bf4750f1f1ac230e1ddb3fdf2fdcd3308665993b013d3e01",
+        "title": "카카오 AI 돛 Summit 26 다시보기 공개 — AI 인프라부터 서비스 적용, 개발과 창업까지",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/842",
+        "published_at": "2026-10-22T00:00:00+09:00",
+        "summary": "지난 9월 29일 부산에서 약 800명의 참가자와 함께한 ‘카카오 AI 돛 Summit 26’의 주요 세션 VOD를 공개합니다. 👉 카카오 AI 돛 Summit 26 세션 VOD 보러 가기 AI와 함께 개발하는 방식부터 실제 서비스에 AI를 적용하는 과정, 연구를 창업으로 연결하는 경험까지. 현장에 참석하지 못했거나 동시에 진행되어 놓쳤던 발표를 이제 온라인에서 만나보세요. 어떤 세션부터 볼지 고민된다면, 지금 여러분의 관심사와 가장 가까운 이야기부터...",
+        "category_score": 75,
+        "score_reason": "AI 기술의 서비스 적용 사례와 제품화 과정을 포괄적으로 다룬 컨퍼런스 아카이브로, 플랫폼 비즈니스 전반의 AI 적용 전략을 조망할 수 있음.",
+        "keywords": [
+          "AI 서비스",
+          "플랫폼 전략",
+          "인프라",
+          "비즈니스 모델"
+        ],
+        "planning_insight": "기술 개발 단계부터 비즈니스 가치 창출까지의 엔드투엔드(End-to-End) 과정을 파악하여, 대규모 플랫폼의 AI 도입 로드맵과 성공적인 서비스 적용 사례를 참고할 수 있음."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "99d92f0b84e40061555d144eb062c7a61f981bf6497986945b1a7f5573f07e4d",
+        "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28787",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading.…",
+        "category_score": 63,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "70480fb6d65a572e7839a622b632c385c7fbca773dd2feb2367738a348e3fe17",
+        "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28767",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28767v1 Announce Type: new Abstract: Current evaluation of LLMs on benchmarks typically aggregates performance over individual examples into a single scalar score. This approach is overly coarse and ignores the diverse scope of skills covered by benchmark datasets. To address this limitation and better exploit benchmark data, we propose SkillEval, a new evaluation framework that performs cross-model, skill-level analysis. The framework integrates advances from two areas: (1) it lever…",
+        "category_score": 60,
+        "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "benchmark",
+          "model",
+          "dataset",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "dfbef6a082e83338cf611cc12e12c51e5d83d9aacaf27daf909fa7db1b7f1e59",
+        "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28772",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28772v1 Announce Type: new Abstract: Psychotherapy fidelity assessment measures how faithfully a therapist adheres to a treatment protocol, a critical determinant of positive patient outcomes. However, fidelity assessment is bottlenecked by manual expert review, rendering the process labor-intensive and unscalable. To scale therapy supervision and support clinician self-learning, we present an integrated application of large language models (LLMs) that automates psychotherapy fidelit…",
+        "category_score": 53,
+        "score_reason": "LLM, model, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "API",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "c51536100c7a1922825171eff55809cee5282ba8d8c4217a8f4c32b3fba55158",
+        "title": "Where Do Legal Factors Live in LLMs?",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28799",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28799v1 Announce Type: new Abstract: In case-based legal reasoning, legal professionals identify legally significant fact patterns in a new dispute and compare them with those of decided cases. In AI & Law, HYPO dimensions and CATO factors represent these patterns symbolically, organizing expert knowledge distilled from case narratives as explicit, structured, interpretable, and auditable legal concepts and relations that support case comparison, legal argument, and precedent-based r…",
+        "category_score": 48,
+        "score_reason": "LLM, reasoning, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, reasoning, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "3aea528be83e323baf7d662dd6fd76baff58c787154f2d489b28c0f3712faa4e",
+        "title": "Ensemble forecasting with IBM Granite time-series models",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "published_at": "2026-10-22T16:51:31+09:00",
+        "summary": "",
+        "category_score": 46,
+        "score_reason": "model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "model"
+        ],
+        "planning_insight": "이 항목은 model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+      "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021213208",
+      "published_at": "2026-10-21T21:32:08+09:00",
+      "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+      "category_score": 95,
+      "score_reason": "생성형 AI 검색(GEO)이라는 신규 광고/마케팅 시장의 변화를 가장 명확하게 짚고 있는 솔루션 출시 사례임",
+      "keywords": [
+        "GEO",
+        "생성형 검색",
+        "마케팅 전략"
+      ],
+      "planning_insight": "브랜드의 AI 검색 최적화 가이드라인 제작 및 생성형 AI 검색 환경에서의 데이터 점유 전략 수립 필요",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "검색 엔진 최적화(SEO)를 넘어선 생성형 엔진 최적화(GEO) 솔루션 등장",
+      "importance_reason": "전통적인 검색 환경이 AI 답변 중심으로 재편됨에 따라 마케팅의 성패가 브랜드 노출 방식 변화에 달려있기 때문"
+    },
+    {
+      "rank": 2,
+      "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+      "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+      "published_at": "2026-10-21T18:28:26+09:00",
+      "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+      "category_score": 95,
+      "score_reason": "추천 시스템 개선을 위한 LLM 메타데이터 활용 및 비용 최적화 전략을 상세히 다루어, 서비스 기획과 데이터 활용 측면에서 실질적인 인사이트를 제공함.",
+      "keywords": [
+        "LLM",
+        "비용 최적화",
+        "추천 알고리즘"
+      ],
+      "planning_insight": "AI 서비스 기획 시 모델 선택부터 프롬프트 효율화까지 실질적인 '비용 대비 성능' 분석 리포트 제작 가능",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM을 활용한 개인화 추천 시스템의 비용 효율화 및 기술적 개선 사례",
+      "importance_reason": "AI 도입 기업들이 기술 실증 단계를 지나 구체적인 운영 비용 최적화(FinOps) 단계로 진입하고 있음을 시사함"
+    },
+    {
+      "rank": 3,
+      "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+      "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261022145856",
+      "published_at": "2026-10-22T15:00:44+09:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+      "category_score": 92,
+      "score_reason": "AI 도입 초기 단계를 지나 '가성비/수익성' 중심의 실용주의적 AI 활용 단계로 시장의 화두가 옮겨가고 있음을 보여줌",
+      "keywords": [
+        "AI 수익성",
+        "MS",
+        "비용효율화"
+      ],
+      "planning_insight": "AI 도입 기업들을 대상으로 생산성 향상 지표를 데이터화하는 성과 측청 방법론 중심의 콘텐츠 기획",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "MS가 강조하는 'AI 가성비', 기술 도입에서 비즈니스 성과 증명으로의 시장 전환",
+      "importance_reason": "AI 기술의 가치가 토큰 비용 대비 얼마나 실제 성과를 창출하는지에 대한 '실용주의'적 평가 기준 확립"
+    },
+    {
+      "rank": 4,
+      "id": "a3ba911e159263a736b21907c5be37c8ea72d8ceae08e6507f763b1188f69934",
+      "title": "[단독] 삼성전기, 테슬라·엔비디아 3.7조 투자받는다…AI칩기판 라인구축",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12182880",
+      "published_at": "2026-10-22T15:34:12+09:00",
+      "summary": "테슬라 1.1조·엔비디아 2.6조 투자 삼성전기 ‘차세대기판 생산시설’ 증설 자율차·휴머노이드·AI칩에 장기 공급 2028년 양산·2029년부터 5년간 제공테슬라와 엔비디아가 각각..",
+      "category_score": 98,
+      "score_reason": "AI 인프라의 핵심인 '전력 및 기판' 공급망 변화를 보여주는 대규모 투자 건으로, 향후 산업 생태계 전반에 미칠 파급력이 매우 큼",
+      "keywords": [
+        "AI 인프라",
+        "공급망",
+        "반도체"
+      ],
+      "planning_insight": "기술 블로그와 연계하여 AI 인프라 가치사슬이 마케팅/콘텐츠 시장에 미치는 간접적 영향력 분석 콘텐츠 생성",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "글로벌 빅테크의 대규모 AI 기판 투자, 하드웨어 생태계 중심 이동",
+      "importance_reason": "AI 서비스의 고도화가 결국 물리적 인프라(기판/전력)의 제약과 맞물려 있으며, B2B 생태계 전체의 변화를 예고함"
+    },
+    {
+      "rank": 5,
+      "id": "1b6b46295afe0cf3498a11964e5175748bb05a991e357ec812abe630defa41de",
+      "title": "현대차그룹 AX 가속…2년 잡은 TFT, 1년여 만에 끝낸다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021154450",
+      "published_at": "2026-10-22T08:30:01+09:00",
+      "summary": "[지디넷코리아]“일단 1년을 해보고, 무조건 2년 내에는 끝내겠다는 생각으로 지난 4월 태스크포스팀(TFT)을 시작했다. (…) 현재 TFT 종료 조건 다수를 완료했고 내년 6월쯤 종료할 것으로 보고 있다.”진은숙 현대차·기아 ICT담당 사장은 지난 21일 현대차그룹이 주최한 ‘소프티어 테크톡 오프데이 2026’ 기조연설자로 나서 장재훈 현대차그룹 부회장 직속 ‘인공지능(AI) 거버넌스 TFT’ 운영 현황을 이같이 공유했다.현대차그룹은 지난 4월 이 TFT를 신설하고, 진은숙 사장을 TFT장으로 배치했다. 그룹 내 500개 이상 법인의 인공지능 전환(AX)을 추진하기 위해 출범했다해당 TFT는 AX PMO, AI 리스크 대응, AI 기반 조성, AI 프로젝트 총괄, AI 역량 향상 등 5개 분과로 구성됐다. TFT와 함께 부회장 직속으로 AI에 대한 그룹사 철학을 논의하는 AI 윤리위원회를 포함해 AX 추진 체계를 구축했다. 진 사장은 “가령 보스턴다이내믹스란 로봇 회사에 대해,…",
+      "category_score": 88,
+      "score_reason": "대기업 그룹 차원의 AI 전환(AX) 가속화 현상을 상징하며, 조직 내 AI 거버넌스 구축 및 내재화의 중요성을 잘 보여줌",
+      "keywords": [
+        "AX",
+        "AI 거버넌스",
+        "조직 변화"
+      ],
+      "planning_insight": "대기업의 AX 사례를 벤치마킹하여 중소/중견 기업들이 도입해야 할 단계별 AI 거버넌스 매뉴얼 카드뉴스 제작",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "기업의 AI 전환(AX)은 프로젝트 단위를 넘어 조직 철학과 거버넌스 구축으로의 진화",
+      "importance_reason": "단순 기술 도입을 넘어 사내 AI 윤리 및 거버넌스 체계를 잡는 것이 차세대 기업 경영의 핵심 역량이 됨"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 86,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 24,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 20,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 검색(GEO)의 등장으로 기존 콘텐츠 마케팅 방식이 근본적인 전환을 맞이하고 있습니다.",
+    "기술의 도입 단계를 넘어 비용 효율화와 비즈니스 ROI를 검증하는 실용주의적 AI 전략이 강조됩니다.",
+    "AI 내재화를 위해 조직 거버넌스 재정비와 인프라 생태계에 대한 이해가 콘텐츠 전략가에게 필수적인 역량으로 요구됩니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "fallback"
+  }
+}
