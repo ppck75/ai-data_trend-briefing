@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-21T23:03:59.480329+09:00",
+  "updated_at": "2026-10-22T09:50:25.553539+09:00",
   "archives": [
+    {
+      "id": "2026-10-22_09-49",
+      "date": "2026-10-22",
+      "time": "09:49",
+      "label": "2026-10-22 09:49",
+      "generated_at": "2026-10-22T09:49:54.727396+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "글로벌 OTT 리더들 서울 집결...스트리밍 산업 미래 논의",
+        "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "재난정보 보려는데 광고부터...KBS 유튜브 수익화 논란",
+        "KISTI, AI 기반 과학기술사업화 플랫폼 '아폴로 2.0 런칭",
+        "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners"
+      ],
+      "path_json": "archive/2026-10-22/09-49.json",
+      "path_md": "archive/2026-10-22/09-49.md"
+    },
     {
       "id": "2026-10-21_23-02",
       "date": "2026-10-21",

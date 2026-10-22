@@ -1,0 +1,524 @@
+{
+  "briefing_date": "2026-10-22",
+  "generated_at": "2026-10-22T09:49:54.727396+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 178,
+    "tech_blog": 3,
+    "ai_data": 19
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "315a29739092f456a5a7ef894f97131d9331855d9c993aa8b438f386f1905234",
+        "title": "글로벌 OTT 리더들 서울 집결...스트리밍 산업 미래 논의",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022053911",
+        "published_at": "2026-10-22T05:39:11+09:00",
+        "summary": "[지디넷코리아]글로벌 OTT와 미디어 업계 전문가들이 서울에 모여 스트리밍 시장의 변화와 콘텐츠 수익화 전략을 논의한다. 광고 기반 무료 스트리밍부터 팬덤 비즈니스, 콘텐츠 지식재산권(IP) 확장, AI 기술 활용까지 다양한 산업 현안을 다룰 예정이다.방송미디어통신위원회는 한국방송광고진흥공사와 함께 오는 11월5일 서울 광화문 포시즌스 호텔에서 '2026 국제 OTT 포럼'을 개최한다.올해로 5주년을 맞은 포럼에서는 글로벌 광고 기반 무료 스트리밍 플랫폼 투비(Tubi)의 데이비드 살몬 부사장이 기조연설을 맡는다. 팬덤과 시청자 취향에 기반한 콘텐츠 추천, 크리에이터 협업 등을 중심으로 글로벌 스트리밍 산업의 발전 방향을 제시한다.이어 중국 소셜미디어 플랫폼 샤오홍슈의 성샹 마케팅 연구소장과 서황욱 구글코리아 유튜브 한국·중화권 총괄이 광고와 커머스를 결합한 플랫폼 수익화 모델을 소개한다.국내 OTT 해외 진출 전략도 주요 의제다. 강유진 티빙 전략총괄헤드는 특별세션에서 지난 5년…",
+        "category_score": 67,
+        "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅",
+          "커머스",
+          "플랫폼"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+        "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021213208",
+        "published_at": "2026-10-21T21:32:08+09:00",
+        "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+        "category_score": 67,
+        "score_reason": "AI, 생성형 AI, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "생성형 AI",
+          "마케팅",
+          "브랜드",
+          "추천"
+        ],
+        "planning_insight": "이 항목은 AI, 생성형 AI, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "c6339a823ff77022a3636a937c36d6cf3ddf73a0214db57a96887bf6aacb1745",
+        "title": "재난정보 보려는데 광고부터...KBS 유튜브 수익화 논란",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021172407",
+        "published_at": "2026-10-21T17:24:07+09:00",
+        "summary": "[지디넷코리아]공영방송 KBS가 국민의 생명과 안전에 직결되는 재난 관련 긴급뉴스에도 유튜브 광고를 적용하고 있는 것으로 나타났다. 위험 지역과 대피 장소, 행동요령을 신속하게 확인해야 하는 상황에서 광고가 정보 전달을 지연시킬 수 있다는 지적이다. 특히 KBS가 광고 적용 이유로 제시한 영상 노출도와 도달률은 유튜브의 공식 설명과도 맞지 않아 논란이 예상된다.국회 과학기술정보방송통신위원회 소속 이주희 의원(더불어민주당)은 KBS가 제출한 자료에서 재난·긴급뉴스·공익정보의 광고 제외 기준을 묻자 “현재는 알고리즘 노출도, 도달률 등을 고려하여 유튜브 광고를 적용하고 있음”이라고 답했다고 밝혔다.KBS가 지난해 10월1일부터 시행한 '디지털 플랫폼 수익 포트폴리오 확장 방안'에 따르면 유튜브 영상에는 건너뛸 수 없는 광고와 중간광고를 기본적으로 활성화하도록 했다. 보도와 공익 콘텐츠는 신속성과 신뢰성 등을 고려해 광고를 끌 수 있도록 했지만, 재난 긴급정보에 대해서는 별도의 광고 제…",
+        "category_score": 66,
+        "score_reason": "광고, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "플랫폼",
+          "유튜브",
+          "알고리즘",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 광고, 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "b9930eb7b470fd245aa60818bf3a6a7e6493b6d539a2b9b93d15016929a079d8",
+        "title": "KISTI, AI 기반 과학기술사업화 플랫폼 '아폴로 2.0 런칭",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021114302",
+        "published_at": "2026-10-21T18:44:52+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기반 과학기술사업화 플랫폼 '아폴로(APOLLO) 2.0’을 공개하는 자리가 마련됐다.한국과학기술정보연구원(KISTI)은 22일 JW 메리어트 동대문 스퀘어 서울에서 개최하는 ‘2026 과학기술사업화·ASTI 리더스 포럼’에서 이를 공식 런칭할 예정이다.이 플랫폼은 국가 R&D 성과를 실제 산업 현장과 연결하기 위해 구축된 국내 최초의 AI 기반 기술사업화 분석 플랫폼이다. 기업 특성을 분석해 사업화 유망성이 높은 국가 R&D 성과를 알려주거나, 국가 R&D 성과를 검색하면 이를 활용할 수 있는 수요기업과 적용가능한 제품·시장을 찾아준다.KISTI는 이 아폴로 버전을 ASTI와 연계, 지역 산업 현장의 AI 전환(AX)을 추진 중이다. 아폴로가 데이터와 AI 기술을 통해 '기술-기업 매칭 솔루션'을 제공하면 ASTI는 플랫폼을 활용할 현장을 실시간 잇는 '휴먼웨어(Humanware)' 역할을 한다. ASTI는 전국 9,000여 개 기업 및 14,000…",
+        "category_score": 64,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "3f2f1147f575729b697dd0f75fb2230dbe81dff950eab4562f7947274fcef61c",
+        "title": "직장인 10명 중 9명 \"업무에 AI 활용\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021193355",
+        "published_at": "2026-10-21T19:33:55+09:00",
+        "summary": "[지디넷코리아]업무에 AI를 활용하는 직장인의 95% 이상이 생산성 향상을 체감하고 있으며, 62% 이상이 유료 서비스를 이용 중인 것으로 나타났다.오피스미디어 기업 스페이스애드는 직장인 881명을 대상으로 진행한 '2026 직장인 AI 활용 현황' 설문조사를 21일 공개했다. 그 결과 응답자의 95.2%가 업무에 AI를 활용하고 있으며 주 1시간 이상 AI를 쓰는 직장인(766명)의 95.4%가 생산성이 향상됐다고 답했다. 주 활용 서비스는 챗봇·검색 AI(89.9%)가 압도적이었으며 문서·보고서 작성(70.6%)과 데이터 분석·정리(69.6%)에 주로 투입됐다. 체감 효과로는 '같은 시간에 더 많은 업무 처리'(62.4%), '업무 시작 단축'(57.7%), '결과물 퀄리티 향상'(56.5%), '미숙지 분야 자체 해결'(51.0%) 순으로 집계됐다.AI 활용자의 62.4%는 유료 구독 서비스를 이용 중이었으며, 이들 중 70%는 비용을 전액 사비로 부담하거나 회사 지원금에 본…",
+        "category_score": 61,
+        "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "데이터",
+          "검색",
+          "구독"
+        ],
+        "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "29c028d89a955ebd2e64e17d5ac1c215e671d19b533b48d7714d088c2dacacdc",
+        "title": "모델만 바꿨는데 LLM 비용이 3배가 된 이유",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EB%B0%94%EA%BF%A8%EB%8A%94%EB%8D%B0-llm-%EB%B9%84%EC%9A%A9%EC%9D%B4-3%EB%B0%B0%EA%B0%80-%EB%90%9C-%EC%9D%B4%EC%9C%A0-5ae60ab5108b",
+        "published_at": "2026-10-21T18:28:26+09:00",
+        "summary": "안녕하세요, 당근 커뮤니티홈팀에서 백엔드를 개발하는 제이(Jay)예요. 당근 앱의 커뮤니티 탭에는 이웃이 알려 주는 동네 정보부터 소소한 일상과 취미까지 나누는 동네생활, 모임, 카페, 아파트가 모여 있어요. 커뮤니티홈팀은 이 서비스들의 글을 한데 모아 보여 주는 피드를 맡고 있어요. 피드를 맡으며 가장 고민하는 건 사용자에게 더 알맞은 글을 어떻게 보여 줄지예요. 그래서 기존 머신러닝 추천에 더해, LLM으로 글의 다양한 메타데이터를 뽑아 추천에 쓰고 있어요. 그중 하나가 LLM에 카테고리 목록과 글을 주고 어느 주제에 속하는지 고르게 하는 주제 분류예요. 추천은 보여 줄 글 후보를 모으는 단계와 그 순서를 정하는 단계로 나뉘는데, 글마다 주제가 붙어 있으면 첫 단계부터 사용자가 관심 있는 주제의 글을 골라 올 수 있어요. 주제 분류를 할 때 LLM에 보내는 요청을 열어 보면 대부분이 매번 똑같은 지시문과 카테고리 목록이고, 글 본문은 끝에 조금 붙어 있을 뿐이에요. 이 글에서는…",
+        "category_score": 95,
+        "score_reason": "LLM을 활용한 콘텐츠 메타데이터 추출 및 사용자 맞춤형 피드 추천이라는 구체적인 서비스 기획과 데이터 활용 사례를 제시함. 비용 효율성이라는 운영적 관점까지 포함하여 콘텐츠 전략가에게 매우 실무적인 인사이트를 제공함.",
+        "keywords": [
+          "LLM",
+          "추천 시스템",
+          "피드 최적화",
+          "데이터 활용"
+        ],
+        "planning_insight": "LLM은 단순히 텍스트 생성용이 아니라, 콘텐츠 메타데이터를 구조화하여 기존의 ML 기반 추천 시스템의 성능과 정확도를 개선하는 핵심 인프라로 활용할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "c05f898abffdb01e326a29312badd5ce01d06a5c4d8ae7aecf4a8b569f633be7",
+        "title": "글로벌 최고 수준의 자체 비전 인코더, Kanana-2-vision-encoder 개발기",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/840",
+        "published_at": "2026-10-21T00:00:00+09:00",
+        "summary": "안녕하세요. 카카오 Multimodal Model Training팀에서 카나나를 연구·개발하는 Polar(엄지환)입니다. 카카오가 자체 기술력만으로 밑바닥부터(from scratch) 개발한 독자 비전 인코더, Kanana-2-vision-encoder를 소개합니다. Kanana-2-vision-encoder는 카카오 언어모델 Kanana-2 LLM[1]의 가중치와 구조를 활용해 학습과 추론 모두에서 높은 효율성을 자랑합니다. 또한, 고해상도 이미지 ...",
+        "category_score": 85,
+        "score_reason": "자체 멀티모달 모델 개발을 통해 플랫폼 내 비전 처리 효율을 높이는 제품 전략을 보여줌. 향후 이미지 기반 콘텐츠 서비스나 검색 고도화 전략을 설계할 때 인프라적 근거로 참고할 가치가 높음.",
+        "keywords": [
+          "멀티모달",
+          "비전 인코더",
+          "플랫폼 전략",
+          "자체 모델"
+        ],
+        "planning_insight": "플랫폼의 서비스 도메인에 특화된 경량화 모델을 확보함으로써 콘텐츠 분석 정확도와 추론 비용 효율을 동시에 제어하는 전략적 의사결정이 중요함."
+      },
+      {
+        "rank": 3,
+        "id": "32dfa7917a656661cf538ba5f57d25acbdaad908c3541d72eed013e8381daa15",
+        "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1443473",
+        "published_at": "2026-10-21T12:38:48+09:00",
+        "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub Package Registry 같은 도전자가 등장했다고 전했습니다. 7년이 지난 지금 Node.js는 연 1회 릴리스로 일정을 바꾸기로 했습니다. Node.js 호환을 목표로 삼게 된 Deno와 Bun은 각각 Cloudflare와 Anthropic에 합류했고, npm은 GitHub의 일부가 되어 공급망 공격과 싸우고 있습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와…",
+        "category_score": 75,
+        "score_reason": "웹 생태계의 흐름을 분석하여 서비스 기반 인프라를 결정하는 데 필요한 기술적 시사점을 담고 있음. 당장의 서비스 로직은 아니나 웹 플랫폼의 확장성과 기술 선택지에 대한 거시적 전략 인사이트를 제공함.",
+        "keywords": [
+          "웹 생태계",
+          "JavaScript",
+          "플랫폼 운영",
+          "기술 트렌드"
+        ],
+        "planning_insight": "콘텐츠 서비스의 성능 최적화를 위해 브라우저 환경과 서버 사이드 실행 환경의 기술 스택 변화를 지속적으로 모니터링하여 기술 부채를 방지해야 함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "e85eba07371d4e195d1ef73c4e1669afdcaa8c82604cb9a24be0dff693b8d93a",
+        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+        "published_at": "2026-10-22T02:35:36+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "SLM의 어휘 최적화를 통해 추론 비용을 77% 절감한 사례로, 콘텐츠 자동화 서비스의 수익성과 실현 가능성을 극대화할 수 있는 핵심 기술 변화임.",
+        "keywords": [
+          "SLM",
+          "비용 절감",
+          "추론 최적화"
+        ],
+        "planning_insight": "대규모 모델 도입이 어려운 서비스 환경에서 비용 효율적인 AI 기반 콘텐츠 생성 전략 수립에 필수적임."
+      },
+      {
+        "rank": 2,
+        "id": "cd481da0851fdb08dc6479ce0867bdabb41c00c81ce5d417a10bfd5b973bfb23",
+        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+        "published_at": "2026-10-22T03:26:30+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "별도의 학습 없이 관계형 데이터를 처리하는 방식은 기업 내부 데이터 기반의 콘텐츠 추천 및 분석 자동화를 매우 빠르게 구현하게 함.",
+        "keywords": [
+          "데이터 분석",
+          "관계형 AI",
+          "노코드"
+        ],
+        "planning_insight": "복잡한 파이프라인 없이 사내 데이터를 활용한 개인화 추천 엔진이나 고객 세그먼트 분석 자동화 도구로 즉시 활용 가능함."
+      },
+      {
+        "rank": 3,
+        "id": "87fe0062844abcc4e9b0abe2efa4af23c9e93e1fbf03cc4592024e034c06a480",
+        "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24087",
+        "published_at": "2026-10-21T13:00:00+09:00",
+        "summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self-contained descriptions or predefined optimization tasks, underrepresenting the translation of original business materials into professionally validated solutions. We introduce OR-License, an end-to-end benchmark of 31 instances acr…",
+        "category_score": 92,
+        "score_reason": "LLM 에이전트가 복잡한 운영 최적화 업무를 수행하는 기술은 콘텐츠 기획 프로세스 전반을 자동화하는 '에이전트 워크플로우' 구성의 핵심임.",
+        "keywords": [
+          "에이전트",
+          "운영 효율화",
+          "LLM"
+        ],
+        "planning_insight": "단순 텍스트 생성을 넘어 콘텐츠 기획-생산-배포의 전 과정을 관리하는 자율형 에이전트 시스템 도입을 검토할 때 유용함."
+      },
+      {
+        "rank": 4,
+        "id": "1682f0b63d12b1be557c88d1e7cd2f86e717b0914f9bc7ab19ce72a17b33e2d8",
+        "title": "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.24157",
+        "published_at": "2026-10-21T13:00:00+09:00",
+        "summary": "arXiv:2610.24157v1 Announce Type: new Abstract: We present CoDA, an open-source human-LM collaborative codebook development assistant that helps domain experts develop annotation guidelines for annotating new variables in unstructured text with language models. Existing language model annotation systems primarily focus on downstream classification performance, while assuming the availability of high-quality annotation guidelines, or codebooks. In practice, developing these codebooks is time-con…",
+        "category_score": 90,
+        "score_reason": "비정형 데이터의 효율적인 라벨링을 돕는 협업 도구는 고품질 데이터셋 구축이 필수적인 LLM 튜닝 및 검색 증강(RAG) 콘텐츠 전략에 직접적 도움을 줌.",
+        "keywords": [
+          "데이터 라벨링",
+          "RAG",
+          "도메인 특화"
+        ],
+        "planning_insight": "기업 고유의 톤앤매너나 도메인 지식을 LLM에 학습시키거나 RAG 지식베이스로 구축할 때 기획자가 직접 활용할 수 있는 프레임워크임."
+      },
+      {
+        "rank": 5,
+        "id": "15990ce5e51618766087362c07fae58067836180f38b6ad4203a98cd4eb57f75",
+        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+        "published_at": "2026-10-21T23:58:18+09:00",
+        "summary": "",
+        "category_score": 88,
+        "score_reason": "음성 인식 및 번역의 정확도와 속도 향상은 멀티모달 콘텐츠(영상, 숏폼)의 다국어 서비스 확장 및 자동화에 실질적인 기술 기반이 됨.",
+        "keywords": [
+          "멀티모달",
+          "음성 자동화",
+          "글로벌 콘텐츠"
+        ],
+        "planning_insight": "다국어 콘텐츠 제작 자동화 파이프라인 구축 시, 모델 선택의 기준이 될 고성능 오픈 소스 솔루션으로 활용 가능함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "315a29739092f456a5a7ef894f97131d9331855d9c993aa8b438f386f1905234",
+      "title": "글로벌 OTT 리더들 서울 집결...스트리밍 산업 미래 논의",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261022053911",
+      "published_at": "2026-10-22T05:39:11+09:00",
+      "summary": "[지디넷코리아]글로벌 OTT와 미디어 업계 전문가들이 서울에 모여 스트리밍 시장의 변화와 콘텐츠 수익화 전략을 논의한다. 광고 기반 무료 스트리밍부터 팬덤 비즈니스, 콘텐츠 지식재산권(IP) 확장, AI 기술 활용까지 다양한 산업 현안을 다룰 예정이다.방송미디어통신위원회는 한국방송광고진흥공사와 함께 오는 11월5일 서울 광화문 포시즌스 호텔에서 '2026 국제 OTT 포럼'을 개최한다.올해로 5주년을 맞은 포럼에서는 글로벌 광고 기반 무료 스트리밍 플랫폼 투비(Tubi)의 데이비드 살몬 부사장이 기조연설을 맡는다. 팬덤과 시청자 취향에 기반한 콘텐츠 추천, 크리에이터 협업 등을 중심으로 글로벌 스트리밍 산업의 발전 방향을 제시한다.이어 중국 소셜미디어 플랫폼 샤오홍슈의 성샹 마케팅 연구소장과 서황욱 구글코리아 유튜브 한국·중화권 총괄이 광고와 커머스를 결합한 플랫폼 수익화 모델을 소개한다.국내 OTT 해외 진출 전략도 주요 의제다. 강유진 티빙 전략총괄헤드는 특별세션에서 지난 5년…",
+      "category_score": 67,
+      "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "마케팅",
+        "커머스",
+        "플랫폼"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]글로벌 OTT와 미디어 업계 전문가들이 서울에 모여 스트리밍 시장의 변화와 콘텐츠 수익화 전략을 논의한다. 광고 기반 무료 스트리밍부터 팬덤 비즈니스, 콘텐츠 지식재산권(IP) 확장, AI 기술 활용까…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+      "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021213208",
+      "published_at": "2026-10-21T21:32:08+09:00",
+      "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+      "category_score": 67,
+      "score_reason": "AI, 생성형 AI, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "생성형 AI",
+        "마케팅",
+        "브랜드",
+        "추천"
+      ],
+      "planning_insight": "이 항목은 AI, 생성형 AI, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플…",
+      "importance_reason": "AI, 생성형 AI, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "c6339a823ff77022a3636a937c36d6cf3ddf73a0214db57a96887bf6aacb1745",
+      "title": "재난정보 보려는데 광고부터...KBS 유튜브 수익화 논란",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021172407",
+      "published_at": "2026-10-21T17:24:07+09:00",
+      "summary": "[지디넷코리아]공영방송 KBS가 국민의 생명과 안전에 직결되는 재난 관련 긴급뉴스에도 유튜브 광고를 적용하고 있는 것으로 나타났다. 위험 지역과 대피 장소, 행동요령을 신속하게 확인해야 하는 상황에서 광고가 정보 전달을 지연시킬 수 있다는 지적이다. 특히 KBS가 광고 적용 이유로 제시한 영상 노출도와 도달률은 유튜브의 공식 설명과도 맞지 않아 논란이 예상된다.국회 과학기술정보방송통신위원회 소속 이주희 의원(더불어민주당)은 KBS가 제출한 자료에서 재난·긴급뉴스·공익정보의 광고 제외 기준을 묻자 “현재는 알고리즘 노출도, 도달률 등을 고려하여 유튜브 광고를 적용하고 있음”이라고 답했다고 밝혔다.KBS가 지난해 10월1일부터 시행한 '디지털 플랫폼 수익 포트폴리오 확장 방안'에 따르면 유튜브 영상에는 건너뛸 수 없는 광고와 중간광고를 기본적으로 활성화하도록 했다. 보도와 공익 콘텐츠는 신속성과 신뢰성 등을 고려해 광고를 끌 수 있도록 했지만, 재난 긴급정보에 대해서는 별도의 광고 제…",
+      "category_score": 66,
+      "score_reason": "광고, 플랫폼, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "광고",
+        "플랫폼",
+        "유튜브",
+        "알고리즘",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 광고, 플랫폼, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]공영방송 KBS가 국민의 생명과 안전에 직결되는 재난 관련 긴급뉴스에도 유튜브 광고를 적용하고 있는 것으로 나타났다. 위험 지역과 대피 장소, 행동요령을 신속하게 확인해야 하는 상황에서 광고가 정보 전…",
+      "importance_reason": "광고, 플랫폼, 유튜브 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "b9930eb7b470fd245aa60818bf3a6a7e6493b6d539a2b9b93d15016929a079d8",
+      "title": "KISTI, AI 기반 과학기술사업화 플랫폼 '아폴로 2.0 런칭",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021114302",
+      "published_at": "2026-10-21T18:44:52+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 과학기술사업화 플랫폼 '아폴로(APOLLO) 2.0’을 공개하는 자리가 마련됐다.한국과학기술정보연구원(KISTI)은 22일 JW 메리어트 동대문 스퀘어 서울에서 개최하는 ‘2026 과학기술사업화·ASTI 리더스 포럼’에서 이를 공식 런칭할 예정이다.이 플랫폼은 국가 R&D 성과를 실제 산업 현장과 연결하기 위해 구축된 국내 최초의 AI 기반 기술사업화 분석 플랫폼이다. 기업 특성을 분석해 사업화 유망성이 높은 국가 R&D 성과를 알려주거나, 국가 R&D 성과를 검색하면 이를 활용할 수 있는 수요기업과 적용가능한 제품·시장을 찾아준다.KISTI는 이 아폴로 버전을 ASTI와 연계, 지역 산업 현장의 AI 전환(AX)을 추진 중이다. 아폴로가 데이터와 AI 기술을 통해 '기술-기업 매칭 솔루션'을 제공하면 ASTI는 플랫폼을 활용할 현장을 실시간 잇는 '휴먼웨어(Humanware)' 역할을 한다. ASTI는 전국 9,000여 개 기업 및 14,000…",
+      "category_score": 64,
+      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "검색"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]인공지능(AI) 기반 과학기술사업화 플랫폼 '아폴로(APOLLO) 2.0’을 공개하는 자리가 마련됐다.한국과학기술정보연구원(KISTI)은 22일 JW 메리어트 동대문 스퀘어 서울에서 개최하는 ‘2026…",
+      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "87fe0062844abcc4e9b0abe2efa4af23c9e93e1fbf03cc4592024e034c06a480",
+      "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.24087",
+      "published_at": "2026-10-21T13:00:00+09:00",
+      "summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self-contained descriptions or predefined optimization tasks, underrepresenting the translation of original business materials into professionally validated solutions. We introduce OR-License, an end-to-end benchmark of 31 instances acr…",
+      "category_score": 92,
+      "score_reason": "LLM 에이전트가 복잡한 운영 최적화 업무를 수행하는 기술은 콘텐츠 기획 프로세스 전반을 자동화하는 '에이전트 워크플로우' 구성의 핵심임.",
+      "keywords": [
+        "에이전트",
+        "운영 효율화",
+        "LLM"
+      ],
+      "planning_insight": "이 항목은 에이전트, 운영 효율화, LLM 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 57,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "arXiv:2610.24087v1 Announce Type: new Abstract: Can large language model (LLM) agents deliver expert-level operations re…",
+      "importance_reason": "에이전트, 운영 효율화, LLM 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 90,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 25,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 12,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 광고, 마케팅, 커머스 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
