@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-22T22:05:14.451689+09:00",
+  "updated_at": "2026-10-23T02:03:56.694637+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "df2bad29adaab3251e3d8dc30ad2707f478b1760d2190abd22978a429ba38166",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "published_at": "2026-10-23T01:11:31+09:00",
+      "entry_updated_at": "2026-10-23T01:11:31+09:00",
+      "fetched_at": "2026-10-23T02:03:56.548892+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "4a0989fd43c01d9f3a1761f19aa3353b5b0da64bab24d9e43d2bde56cf2a448a",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-10-21T20:07:39.342774+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "7b8ec226dbceec730adfce17628a1f42f95b804b9ea19f4a6b529b3508a8f0cb",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "\"로봇, 민간에 맡기면 대기업 독식…정부가 주도해야\"",
-      "summary": "[지디넷코리아]\"K-로봇 생태계를 민간 자율에 맡기면 수직계열화한 소수 대기업만 승자가 될 것\"이란 주장이 나왔다. 이정호 레인보우로보틱스 대표는 21일 국회에서 열린 'AI(인공지능)·로봇 산업 생태계 전략 포럼'에서 국내 로봇 생태계의 구조적 한계를 이처럼 진단하며 \"정부가 후방 지원을 넘어 산업을 이끄는 리더가 돼야 한다\"고 제안했다. 이 대표는 로봇이 실제 고객사에서 활용되려면 ▲로봇 제작 기업 ▲AI 개발 기업 ▲시스템통합(SI) 기업 ▲최종 고객 등 4개 주체가 필요하다고 짚었다.그러면서 \"AI 핵심은 데이터베이스인데, 4개 주체가 연합된 공간에서 데이터 주도권은 당연히 이를 실제 활용하는 원천 수요기관이 가지려 할 것\"이라며 \"국내 1등 기업이 자사 제조 공간을 개방해 데이터를 민간에서 활용할 수 있도록 개방할 가능성은 절대 없다\"고 단언했다. 제조 현장 데이터 공유가 막힌 상황에서 AI 로봇을 구현할 수 있는 주체는 전 과정을 내재화한 대기업뿐이라는 설명이다. 그는…",
-      "url": "https://zdnet.co.kr/view/?no=20261021164953",
-      "published_at": "2026-10-21T17:42:30+09:00",
-      "entry_updated_at": "2026-10-21T17:42:30+09:00",
-      "fetched_at": "2026-10-21T20:07:39.198435+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
