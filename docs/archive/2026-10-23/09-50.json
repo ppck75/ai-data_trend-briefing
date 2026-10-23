@@ -1,0 +1,465 @@
+{
+  "briefing_date": "2026-10-23",
+  "generated_at": "2026-10-23T09:50:42.519722+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 178,
+    "tech_blog": 1,
+    "ai_data": 21
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "78fbbc33a849e0b1873fcb86c17a03fad38c3c9416e2c5dfc7b87ea36d08c370",
+        "title": "삼성전기, 엔비디아 전용 반도체기판 공장 구축",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021204750",
+        "published_at": "2026-10-21T20:58:32+09:00",
+        "summary": "[지디넷코리아]삼성전기와 엔비디아가 세종과 부산사업장에 전용 반도체 기판 공장을 함께 구축한다. 삼성전기는 올해부터 다년간 엔비디아에 인공지능(AI) 반도체용 패키지 기판을 장기 공급할 예정이다. 삼성전기는 엔비디아와 AI 반도체 공급망을 강화하고 차세대 AI 인프라 확장을 가속하기 위해 전략 비즈니스 파트너십을 체결했다고 21일 밝혔다. 삼성전기는 세종과 부산사업장에 엔비디아 전용 반도체 기판 생산라인을 새롭게 구축한다. 공급품목은 엔비디아의 연산 칩셋용 기판, 그리고 데이터센터 내 칩 간 초고속 연결을 담당하는 네트워크(스위치)용 패키지 기판 등이다. 2026년부터 공급한다.삼성전기는 \"올해를 기점으로 다년간 패키지 기판 사업부에서 엔비디아에 공급하는 물량은 연평균 두 자릿수 이상 성장할 것\"이라며 \"2028년에는 삼성전기 연간 패키지 기판 전체 생산능력의 상당 부분을 차지할 것\"이라고 전망했다.엔비디아는 AI 반도체 양산에 필요한 반도체 기판 공급망을 선제 확보할 수 있다.…",
+        "category_score": 98,
+        "score_reason": "AI 데이터센터와 자율주행 시장의 폭발적 성장에 따른 핵심 부품(FC-BGA 기판) 공급망 재편을 다룬 뉴스. 테크/비즈니스 관점에서 가장 파급력이 큰 구조적 변화를 보여줌.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "공급망"
+        ],
+        "planning_insight": "하드웨어 인프라 중심의 AI 생태계 확장 전략 수립 및 관련 소재·부품 기업 협업 기회 모색"
+      },
+      {
+        "rank": 2,
+        "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+        "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261021213208",
+        "published_at": "2026-10-21T21:32:08+09:00",
+        "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+        "category_score": 95,
+        "score_reason": "검색의 중심이 기존 키워드에서 생성형 AI(GEO)로 이동하는 소비자 행동 변화를 포착. 마케팅 패러다임 변화를 상징함.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "검색엔진최적화"
+        ],
+        "planning_insight": "생성형 AI 시대에 맞춘 새로운 브랜드 커뮤니케이션 및 디지털 콘텐츠 노출 전략으로의 전환 필요"
+      },
+      {
+        "rank": 3,
+        "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+        "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022145856",
+        "published_at": "2026-10-22T15:00:44+09:00",
+        "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+        "category_score": 92,
+        "score_reason": "AI 도입의 초기 단계를 지나 '가성비'와 '투자 대비 성과'를 중시하는 실질적 비즈니스 도입기로 진입했음을 보여주는 시사점.",
+        "keywords": [
+          "AI",
+          "비즈니스",
+          "수익성"
+        ],
+        "planning_insight": "AI 도입 시 단순 기능성보다는 ROI(투자 대비 효율)를 입증할 수 있는 구체적인 성과 모델 제안 전략"
+      },
+      {
+        "rank": 4,
+        "id": "8daf2d69c7578fc6a5161fa1f663560fb463d766645fa1ea8743b616b549ae63",
+        "title": "[현장] 팔란티어 \"한국 AI 경쟁력, 모델 개발보다 산업 현장에 달렸다\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022113613",
+        "published_at": "2026-10-22T14:04:36+09:00",
+        "summary": "[지디넷코리아]\"한국이 인공지능(AI) 경쟁에서 앞서가려면 새로운 모델 개발보다 산업 현장에서 AI를 제대로 활용하는 데 집중해야 합니다.\"채드 월퀴스트 팔란티어 AI 아키텍처 총괄은 22일 서울 용산구 한남동에서 열린 팔란티어 팝업스토어에서 한국 AI 경쟁력을 높일 방안으로 산업 현장 활용을 꼽았다. 그는 현재 공개된 AI 모델만으로도 충분한 성과를 낼 수 있다며 지금은 실제 업무에 맞게 기술을 적용하는 역량이 중요하다고 강조했다.월퀴스트 총괄은 \"공장에 필요한 건 박사 학위자가 아니라 현장을 잘 아는 숙련공과 전문가\"라며 \"이미 나온 AI도 적절한 곳에 활용하면 상당한 가치를 만들어낼 수 있다\"고 말했다.팔란티어는 미국 데이터 분석·AI 소프트웨어 기업으로 국방과 제조업 등 다양한 분야에 기술을 공급하고 있다. 기업이 보유한 데이터와 업무 시스템을 연결해 AI를 실제 현장에 적용하도록 지원한다.아크셰이 크리슈나스와미 팔란티어 수석 아키텍트는 한국이 축적한 제조 기술을 활용해 산…",
+        "category_score": 89,
+        "score_reason": "모델 개발 경쟁에서 현장 중심의 AI 실무 적용으로 무게 중심이 이동하고 있음을 지적. 기업 현장 전략가들에게 핵심적인 트렌드.",
+        "keywords": [
+          "AI",
+          "산업현장",
+          "디지털전환"
+        ],
+        "planning_insight": "현장 숙련도와 AI 기술을 결합하는 '산업 맞춤형 AI 에이전트' 도입 로드맵 구상"
+      },
+      {
+        "rank": 5,
+        "id": "315a29739092f456a5a7ef894f97131d9331855d9c993aa8b438f386f1905234",
+        "title": "글로벌 OTT 리더들 서울 집결...스트리밍 산업 미래 논의",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022053911",
+        "published_at": "2026-10-22T05:39:11+09:00",
+        "summary": "[지디넷코리아]글로벌 OTT와 미디어 업계 전문가들이 서울에 모여 스트리밍 시장의 변화와 콘텐츠 수익화 전략을 논의한다. 광고 기반 무료 스트리밍부터 팬덤 비즈니스, 콘텐츠 지식재산권(IP) 확장, AI 기술 활용까지 다양한 산업 현안을 다룰 예정이다.방송미디어통신위원회는 한국방송광고진흥공사와 함께 오는 11월5일 서울 광화문 포시즌스 호텔에서 '2026 국제 OTT 포럼'을 개최한다.올해로 5주년을 맞은 포럼에서는 글로벌 광고 기반 무료 스트리밍 플랫폼 투비(Tubi)의 데이비드 살몬 부사장이 기조연설을 맡는다. 팬덤과 시청자 취향에 기반한 콘텐츠 추천, 크리에이터 협업 등을 중심으로 글로벌 스트리밍 산업의 발전 방향을 제시한다.이어 중국 소셜미디어 플랫폼 샤오홍슈의 성샹 마케팅 연구소장과 서황욱 구글코리아 유튜브 한국·중화권 총괄이 광고와 커머스를 결합한 플랫폼 수익화 모델을 소개한다.국내 OTT 해외 진출 전략도 주요 의제다. 강유진 티빙 전략총괄헤드는 특별세션에서 지난 5년…",
+        "category_score": 85,
+        "score_reason": "콘텐츠 수익화와 AI 결합 등 글로벌 OTT 시장의 변화 양상을 포괄적으로 다루고 있어 향후 콘텐츠 산업 트렌드 확장이 명확함.",
+        "keywords": [
+          "OTT",
+          "콘텐츠",
+          "AI"
+        ],
+        "planning_insight": "콘텐츠 추천 알고리즘과 광고 모델을 통합한 팬덤 비즈니스 강화 전략 수립"
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "8e3da00d434560c2bf4750f1f1ac230e1ddb3fdf2fdcd3308665993b013d3e01",
+        "title": "카카오 AI 돛 Summit 26 다시보기 공개 — AI 인프라부터 서비스 적용, 개발과 창업까지",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/842",
+        "published_at": "2026-10-22T00:00:00+09:00",
+        "summary": "지난 9월 29일 부산에서 약 800명의 참가자와 함께한 ‘카카오 AI 돛 Summit 26’의 주요 세션 VOD를 공개합니다. 👉 카카오 AI 돛 Summit 26 세션 VOD 보러 가기 AI와 함께 개발하는 방식부터 실제 서비스에 AI를 적용하는 과정, 연구를 창업으로 연결하는 경험까지. 현장에 참석하지 못했거나 동시에 진행되어 놓쳤던 발표를 이제 온라인에서 만나보세요. 어떤 세션부터 볼지 고민된다면, 지금 여러분의 관심사와 가장 가까운 이야기부터...",
+        "category_score": 35,
+        "score_reason": "AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI"
+        ],
+        "planning_insight": "이 항목은 AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "e85eba07371d4e195d1ef73c4e1669afdcaa8c82604cb9a24be0dff693b8d93a",
+        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+        "published_at": "2026-10-22T02:35:36+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "SLM(소형 언어 모델)의 보캐불러리 최적화를 통해 추론 비용을 77% 절감하는 기술은 실제 서비스 운영 및 비용 효율적 AI 배포 측면에서 기획자에게 매우 실질적인 인사이트를 제공함.",
+        "keywords": [
+          "SLM",
+          "비용 최적화",
+          "추론 효율"
+        ],
+        "planning_insight": "AI 서비스 도입 시 무조건적인 고성능 모델 지향보다 도메인 특화 어휘 학습을 통한 비용 효율성을 최우선으로 고려하는 전략 수립이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "15990ce5e51618766087362c07fae58067836180f38b6ad4203a98cd4eb57f75",
+        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+        "published_at": "2026-10-21T23:58:18+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "음성 인식, 번역, 속성 추출은 콘텐츠 자동화 및 다국어 서비스 확장의 핵심 요소임. Granite Speech 5.0은 콘텐츠 생산 파이프라인 자동화에 즉각 활용 가능한 기술임.",
+        "keywords": [
+          "음성 인식",
+          "번역",
+          "콘텐츠 자동화"
+        ],
+        "planning_insight": "글로벌 콘텐츠 제작 파이프라인 구축 시, 정확도와 속도가 개선된 오픈 소스 모델을 활용해 리소스를 절감하는 데이터 파이프라인 설계 가능."
+      },
+      {
+        "rank": 3,
+        "id": "cd481da0851fdb08dc6479ce0867bdabb41c00c81ce5d417a10bfd5b973bfb23",
+        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+        "published_at": "2026-10-22T03:26:30+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "관계형 데이터에서 학습 없이(Zero-shot/Few-shot 성격) 예측 성능을 내는 기술은 데이터 분석 및 추천 시스템 구축에 있어 데이터 전처리 비용을 획기적으로 줄여줌.",
+        "keywords": [
+          "데이터 분석",
+          "관계형 데이터",
+          "예측"
+        ],
+        "planning_insight": "복잡한 파이프라인 구축 없이 사내 관계형 DB를 직접 연결해 즉시 인사이트를 도출하는 추천/예측 엔진 기획에 활용."
+      },
+      {
+        "rank": 4,
+        "id": "70480fb6d65a572e7839a622b632c385c7fbca773dd2feb2367738a348e3fe17",
+        "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28767",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28767v1 Announce Type: new Abstract: Current evaluation of LLMs on benchmarks typically aggregates performance over individual examples into a single scalar score. This approach is overly coarse and ignores the diverse scope of skills covered by benchmark datasets. To address this limitation and better exploit benchmark data, we propose SkillEval, a new evaluation framework that performs cross-model, skill-level analysis. The framework integrates advances from two areas: (1) it lever…",
+        "category_score": 88,
+        "score_reason": "LLM의 능력을 단순히 점수가 아닌 '인지 진단 모델'로 평가하는 방식은 서비스 맞춤형 모델 선정 시 기획자가 의사결정을 내릴 수 있는 논리적 근거를 제공함.",
+        "keywords": [
+          "LLM 평가",
+          "인지 진단",
+          "기술 프로파일"
+        ],
+        "planning_insight": "막연한 성능 평가가 아닌, 우리 서비스에 필요한 구체적 역량(추론, 요약 등)을 진단하고 적합한 모델을 도입하는 평가 체계 구축."
+      },
+      {
+        "rank": 5,
+        "id": "99d92f0b84e40061555d144eb062c7a61f981bf6497986945b1a7f5573f07e4d",
+        "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.28787",
+        "published_at": "2026-10-22T13:00:00+09:00",
+        "summary": "arXiv:2610.28787v1 Announce Type: new Abstract: Evaluations of large language model (LLM) agents report that pricing agents collude at others' expense. Yet collusion is defined by enforcement: a cartel, in which competitors share monopoly profits, holds only if a member who cheats is punished. We introduce an audit that tests enforcement by forcing a member to cheat in counterfactual copies of a market, and use it to study what reinforcement learning (RL) teaches agents in pricing and trading.…",
+        "category_score": 85,
+        "score_reason": "LLM 에이전트 간의 상호작용과 시장 담합 가능성을 탐구한 연구로, 자동화된 에이전트 시스템 기획 시 리스크 관리와 정책 설계에 중요한 시사점을 줌.",
+        "keywords": [
+          "LLM 에이전트",
+          "AI 거버넌스",
+          "시장 자동화"
+        ],
+        "planning_insight": "여러 에이전트가 연동되는 자동화 시스템 설계 시, 예상치 못한 상호작용이나 편향된 결과값이 생성되지 않도록 하는 가드레일 설계의 중요성 인지."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e85eba07371d4e195d1ef73c4e1669afdcaa8c82604cb9a24be0dff693b8d93a",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published_at": "2026-10-22T02:35:36+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "SLM(소형 언어 모델)의 보캐불러리 최적화를 통해 추론 비용을 77% 절감하는 기술은 실제 서비스 운영 및 비용 효율적 AI 배포 측면에서 기획자에게 매우 실질적인 인사이트를 제공함.",
+      "keywords": [
+        "SLM",
+        "비용 최적화",
+        "AI 배포"
+      ],
+      "planning_insight": "서비스 기획 시 범용 고성능 모델만 고집할 것이 아니라, 도메인 특화 SLM을 전략적으로 도입하여 비즈니스 지속 가능성을 확보해야 함",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "소형 언어 모델(SLM)의 어휘 최적화를 통해 추론 비용을 77% 절감하는 기술적 돌파구",
+      "importance_reason": "AI 서비스 도입의 핵심 장애물인 '비용' 문제를 모델 경량화와 최적화로 해결하는 실질적인 대안 제시"
+    },
+    {
+      "rank": 2,
+      "id": "91852d014234ec9896ab6343868629d9f4621fdc18945efe9b92bdf95b646bb0",
+      "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261021213208",
+      "published_at": "2026-10-21T21:32:08+09:00",
+      "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운데, 원더스랩은 자체 AI 에이전트 기술을 접목해 브랜드 정보와 콘텐츠를 AI 검색 환경에 맞게 지속적으로 최적화하도록 설계했다.원더GEO는 ▲브랜드별 GEO 현황 진단 ▲핵심 질문·키워드 기반 전략 수립 ▲홈페이지 AI 최적화 ▲AI 에이전트 기반 콘텐츠 생성·운영 ▲성과 재측정·개선 등 5단계로 체계화됐다. 진단 결과를 실제 콘텐츠 개선으로 즉시 연결하고, 최적화 전후의 검색 결과를 비…",
+      "category_score": 95,
+      "score_reason": "검색의 중심이 기존 키워드에서 생성형 AI(GEO)로 이동하는 소비자 행동 변화를 포착. 마케팅 패러다임 변화를 상징함.",
+      "keywords": [
+        "GEO",
+        "생성형 AI 검색",
+        "마케팅 전략"
+      ],
+      "planning_insight": "기존 SEO 중심의 콘텐츠 제작에서 벗어나 AI 에이전트가 브랜드를 올바르게 인식하고 추천하도록 하는 'AI 친화적 콘텐츠' 제작 프로세스 구축",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "검색의 시대에서 '생성형 엔진 최적화(GEO)'로의 마케팅 패러다임 전환",
+      "importance_reason": "사용자가 정보를 찾는 경로가 기존 검색엔진에서 생성형 AI로 이동함에 따라 콘텐츠 노출 및 브랜딩 전략의 근본적 수정이 필요함"
+    },
+    {
+      "rank": 3,
+      "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+      "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261022145856",
+      "published_at": "2026-10-22T15:00:44+09:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+      "category_score": 92,
+      "score_reason": "AI 도입의 초기 단계를 지나 '가성비'와 '투자 대비 성과'를 중시하는 실질적 비즈니스 도입기로 진입했음을 보여주는 시사점.",
+      "keywords": [
+        "가성비",
+        "AI 비즈니스 모델",
+        "ROI"
+      ],
+      "planning_insight": "콘텐츠/서비스 프로젝트 기획 시 AI 도입의 성패는 성능뿐 아니라 사용자에게 제공하는 유용성이 비용 대비 얼마나 높은가에 달림",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "마이크로소프트 사례로 보는 'AI 가성비' 중심의 서비스 운영 전략",
+      "importance_reason": "AI 도입 초기 시장의 '성능 경쟁'이 '비용 효율성 경쟁'으로 진화하고 있음을 시사"
+    },
+    {
+      "rank": 4,
+      "id": "8daf2d69c7578fc6a5161fa1f663560fb463d766645fa1ea8743b616b549ae63",
+      "title": "[현장] 팔란티어 \"한국 AI 경쟁력, 모델 개발보다 산업 현장에 달렸다\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261022113613",
+      "published_at": "2026-10-22T14:04:36+09:00",
+      "summary": "[지디넷코리아]\"한국이 인공지능(AI) 경쟁에서 앞서가려면 새로운 모델 개발보다 산업 현장에서 AI를 제대로 활용하는 데 집중해야 합니다.\"채드 월퀴스트 팔란티어 AI 아키텍처 총괄은 22일 서울 용산구 한남동에서 열린 팔란티어 팝업스토어에서 한국 AI 경쟁력을 높일 방안으로 산업 현장 활용을 꼽았다. 그는 현재 공개된 AI 모델만으로도 충분한 성과를 낼 수 있다며 지금은 실제 업무에 맞게 기술을 적용하는 역량이 중요하다고 강조했다.월퀴스트 총괄은 \"공장에 필요한 건 박사 학위자가 아니라 현장을 잘 아는 숙련공과 전문가\"라며 \"이미 나온 AI도 적절한 곳에 활용하면 상당한 가치를 만들어낼 수 있다\"고 말했다.팔란티어는 미국 데이터 분석·AI 소프트웨어 기업으로 국방과 제조업 등 다양한 분야에 기술을 공급하고 있다. 기업이 보유한 데이터와 업무 시스템을 연결해 AI를 실제 현장에 적용하도록 지원한다.아크셰이 크리슈나스와미 팔란티어 수석 아키텍트는 한국이 축적한 제조 기술을 활용해 산…",
+      "category_score": 89,
+      "score_reason": "모델 개발 경쟁에서 현장 중심의 AI 실무 적용으로 무게 중심이 이동하고 있음을 지적. 기업 현장 전략가들에게 핵심적인 트렌드.",
+      "keywords": [
+        "산업 현장 AI",
+        "디지털 전환",
+        "AI 실무"
+      ],
+      "planning_insight": "범용적인 AI 도구 교육보다 실무자의 업무 흐름 내에서 즉각적인 생산성을 높이는 '현장 맞춤형 AI 활용 워크플로우' 설계가 필요함",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "새로운 모델 개발보다 '현장 적용' 역량이 기업의 실질적 AI 경쟁력을 결정",
+      "importance_reason": "AI 기술의 범람 속에서 실제 현장의 도메인 지식과 AI 기술을 결합하는 '현장 최적화'의 중요성 강조"
+    },
+    {
+      "rank": 5,
+      "id": "15990ce5e51618766087362c07fae58067836180f38b6ad4203a98cd4eb57f75",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published_at": "2026-10-21T23:58:18+09:00",
+      "summary": "",
+      "category_score": 95,
+      "score_reason": "음성 인식, 번역, 속성 추출은 콘텐츠 자동화 및 다국어 서비스 확장의 핵심 요소임. Granite Speech 5.0은 콘텐츠 생산 파이프라인 자동화에 즉각 활용 가능한 기술임.",
+      "keywords": [
+        "음성 인식",
+        "다국어 콘텐츠",
+        "자동화"
+      ],
+      "planning_insight": "글로벌 타겟 콘텐츠 제작 시 수동 번역 의존도를 낮추고 AI 파이프라인을 도입하여 제작 공정의 속도와 정확도를 극대화할 수 있음",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "고정밀 음성-텍스트 변환 모델을 활용한 콘텐츠 제작 파이프라인 자동화",
+      "importance_reason": "다국어 시장 확장과 영상 콘텐츠 자막/번역 등 리소스가 많이 드는 작업을 자동화할 수 있는 강력한 기술 도구"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 88,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 19,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업의 무게중심이 단순 모델 개발에서 '비용 효율성' 및 '현장 적용'으로 빠르게 이동하고 있습니다.",
+    "검색 환경의 변화로 인해 콘텐츠 전략가들에게 '생성형 엔진 최적화(GEO)'라는 새로운 핵심 역량이 요구되고 있습니다.",
+    "기술적으로는 고가의 범용 AI 대신 도메인에 최적화된 SLM과 자동화 파이프라인을 구축하는 것이 기업의 경쟁력을 좌우할 핵심 전략으로 부상했습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
