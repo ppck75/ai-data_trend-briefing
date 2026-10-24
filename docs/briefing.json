@@ -1,6 +1,6 @@
 {
   "briefing_date": "2026-10-24",
-  "generated_at": "2026-10-24T17:20:09.340642+09:00",
+  "generated_at": "2026-10-24T21:52:26.930292+09:00",
   "source_total": 200,
   "category_counts": {
     "news": 183,
@@ -19,93 +19,98 @@
         "url": "https://zdnet.co.kr/view/?no=20261023161243",
         "published_at": "2026-10-23T16:12:43+09:00",
         "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
-        "category_score": 98,
-        "score_reason": "AI 추천, 숏폼, 커넥티드 TV 등 소비자의 제품 발견 경로 변화에 따른 광고 생태계 재편은 플랫폼과 광고 전략의 핵심 트렌드임.",
+        "category_score": 62,
+        "score_reason": "AI, 광고, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
-          "광고 생태계",
+          "광고",
+          "커머스",
           "플랫폼",
-          "소비자 행동"
+          "소비자"
         ],
-        "planning_insight": "광고 효율이 개인화된 AI 추천 엔진으로 이동함에 따라, 단순히 도달 범위를 넓히는 것보다 특정 접점에서 소비자의 구매 여정을 설계하는 콘텐츠 전략 필요."
+        "planning_insight": "이 항목은 AI, 광고, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "478d15e635062b0f9f30ddf8933b9140bdcd2fc0752c709b89d212c2e925199a",
-        "title": "오픈AI, 개발자 AI 비용 부담 낮춘다…챗GPT 유료 혜택 외부 앱으로 확대",
+        "id": "bb5e4dad79f3858172c54b936339cd905f40b0005d4a82156b5cf04f58dc554d",
+        "title": "기업 폰트 관리 '골칫거리'…응답자 62%가 문제 지적",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261022183455",
-        "published_at": "2026-10-22T18:45:24+09:00",
-        "summary": "[지디넷코리아]오픈AI가 챗GPT 유료 이용자에게 제공하는 인공지능(AI) 사용량을 다른 앱에서도 쓸 수 있도록 지원한다.앨버트 입 오픈AI 아시아태평양 테크니컬 석세스 총괄은 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 이용자가 이미 결제한 챗GPT 구독을 활용해 개발자 AI 비용 부담을 줄이겠다고 밝혔다.개발자가 오픈AI 모델을 활용해 앱을 만들면 이용자가 AI 기능을 쓸 때마다 비용이 발생한다. 오픈AI는 이 비용을 개발자가 부담하는 대신 이용자에게 주어진 챗GPT 사용량으로 처리할 수 있도록 했다. 이용자는 기존 구독을 활용해 새로운 앱을 써볼 수 있고 개발자는 서비스를 체험할 고객에게 드는 AI 비용을 줄일 수 있다.이를 지원하는 기능이 '챗GPT로 로그인(Sign in with ChatGPT)'이다. 챗GPT 플러스·프로 이용자가 지원 앱에서 챗GPT 계정으로 로그인하고 사용량 연동에 동의하면 된다. 오픈AI는 AI 코딩 도구 '…",
-        "category_score": 95,
-        "score_reason": "유료 구독 모델을 개발자 생태계로 확장하여 AI 비용 부담을 줄이는 모델은 SaaS 플랫폼의 서비스 표준화 신호탄임.",
+        "url": "https://zdnet.co.kr/view/?no=20261024145325",
+        "published_at": "2026-10-24T14:53:59+09:00",
+        "summary": "[지디넷코리아]기업 실무자 10명 중 6명 이상이 글꼴 누락이나 불일치를 주요 업무 과제로 꼽았다. 기업이 정한 글꼴을 여러 부서와 협력사가 동일하게 사용하는 데 어려움을 겪고 있다는 조사 결과다.글로벌 폰트 기업 모노타입이 중견기업과 대기업을 대상으로 조사한 결과 응답자 62%가 '폰트 누락 또는 불일치'를 업무에서 겪는 가장 큰 어려움 3가지 중 하나로 선택했다. 글꼴 관리가 디자인을 넘어 브랜드 이미지와 업무 효율에도 영향을 미친다는 분석이다.기업마다 글꼴을 확보하는 경로도 달랐다. 응답자 56%는 여러 디자인 플랫폼을 통해 폰트 사용권을 확보한다고 답했다. 한 플랫폼만 이용한다는 응답은 38%였으며 나머지는 외부 대행사나 폰트 제작사를 통해 직접 확보했다.기업은 브랜드 이미지를 통일하기 위해 로고와 색상, 글꼴 등 디자인 기준을 정한다. 하지만 광고나 웹사이트, 제품을 제작할 때는 디자인팀뿐 아니라 마케팅팀과 개발팀, 외부 협력사까지 작업에 참여한다. 같은 글꼴을 여러 업무…",
+        "category_score": 58,
+        "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "오픈AI",
-          "AI 구독",
+          "광고",
+          "마케팅",
           "플랫폼",
-          "비용 최적화"
+          "브랜드"
         ],
-        "planning_insight": "AI 구독 모델이 API 형태로 외부 앱에 결합되는 추세임. 자체 앱 개발 시 유료 구독 고객 가치를 어떻게 공유·연동할지에 대한 전략 수립이 중요함."
+        "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 3,
-        "id": "5eb75eeb8841980a9be058a0990d96e16dcab428c8eba5fb6f5b7e59c53b8f91",
-        "title": "질문에 답하던 AI, 이젠 직접 일한다…오픈AI-AWS가 그린 미래",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261023150615",
-        "published_at": "2026-10-23T15:34:29+09:00",
-        "summary": "[지디넷코리아]오픈AI와 아마존웹서비스(AWS)가 인공지능(AI)을 단순한 대화형 도구를 넘어 실제 기업 업무를 수행하는 에이전트로 활용해야 한다고 강조했다. AI가 스스로 업무를 계획하고 실행·검증할 수 있는 환경을 구축해 기업 업무 전반 효율을 높이고 실질적인 사업 성과로 연결해야 한다는 제언이다.김정원 오픈AI 파트너 AI 디플로이먼트 엔지니어는 23일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 'AWS AI 웨이브 2026'에서 \"과거에는 사람이 AI에 질문하고 답변을 받는 방식이었다면 이제는 에이전트가 스스로 문제를 정의하고 추론해 해결하는 단계로 발전했다\"며 \"기업도 AI에 단순히 업무를 지시하는 수준을 넘어 실제 업무를 얼마나 맡길 수 있는지 고민해야 한다\"고 말했다.김 엔지니어는 AI 발전 과정을 대화와 추론, 도구 활용, 자율 업무 수행 단계로 구분했다. 지난 2024년에는 복잡한 문제를 해결하기 위한 추론 능력 강화에 집중했고 지난해에는 외부 도구와…",
-        "category_score": 92,
-        "score_reason": "AI를 대화형 도구에서 실제 업무를 수행하는 '에이전트'로 정의하는 흐름은 기업 업무 프로세스 자동화의 차세대 트렌드임.",
-        "keywords": [
-          "AI 에이전트",
-          "워크플로우",
-          "업무 자동화"
-        ],
-        "planning_insight": "콘텐츠 생성/관리 단계에서 수동 작업을 제거하고, AI가 스스로 문제를 정의하고 결과를 도출하는 '에이전트 기반 콘텐츠 운영' 모델로의 전환을 시도해야 함."
-      },
-      {
-        "rank": 4,
-        "id": "d024e0d70dd90dfd683940dab5357fa4a1af4f50bdd86d4af8bfb6bf19f5caae",
-        "title": "엔비디아 올라탄 LG이노텍… 피지컬 AI ‘로봇의 눈’ 만든다",
+        "id": "232f81a1a2fd9f612385c2ae4d7c74bbd00e8cdf533f46b420b7b215c3d4a1cf",
+        "title": "\"K뷰티 매력, 콘텐츠로 제작해 해외 알리죠\"",
         "source": "매일경제 기업",
         "group": "news",
         "category": "business",
-        "url": "https://www.mk.co.kr/news/business/12182889",
-        "published_at": "2026-10-22T15:37:35+09:00",
-        "summary": "GTC서 HSB 센싱 라인업 첫 공개 300만화소 모듈·멀티모달 비전 CPU 안 거치고 데이터 직송해 눈길 CES서 차세대 플랫폼 연동 선보일듯LG이노텍이 엔비디아와 손잡고 엔비..",
-        "category_score": 89,
-        "score_reason": "피지컬 AI(로봇)와 멀티모달 비전 센싱 기술의 결합은 오프라인 공간 및 디바이스 환경에서의 데이터 처리를 혁신하는 하드웨어-소프트웨어 통합 트렌드임.",
+        "url": "https://www.mk.co.kr/news/business/12184349",
+        "published_at": "2026-10-23T17:09:44+09:00",
+        "summary": "\"한국 제품이 해외에서 팔리게 하려면 현지 소비자에게 브랜드를 설명해 줄 크리에이터, 판매 가능성을 검증할 데이터 그리고 유통사와 접점이 모두 필요합니다.\" 백아람 누리하우스 대표..",
+        "category_score": 58,
+        "score_reason": "소비자, 브랜드, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "피지컬 AI",
-          "멀티모달",
-          "비전 AI"
+          "소비자",
+          "브랜드",
+          "데이터",
+          "콘텐츠",
+          "크리에이터"
         ],
-        "planning_insight": "가상 공간의 데이터를 넘어 물리적 환경의 데이터를 실시간 분석하는 AI 시대로 진입 중. 오프라인 소비자 경험(CX) 향상을 위한 하드웨어 연동 콘텐츠 전략 검토 필요."
+        "planning_insight": "이 항목은 소비자, 브랜드, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 5,
-        "id": "4ea45429e5abf50c58633f98a0b616fd12679d3efb1592940e2f4a5616907b5c",
-        "title": "허블, AI 뉴스 에이전트 ‘탭뷰 AI’ 지스타 2026서 공개",
+        "rank": 4,
+        "id": "48f9fdcbc25d609de054de00fba09b1455f43719c1abb1d5f48954ce6c8bf1f9",
+        "title": "포티투마루, 부산 공무원 맞춤 AI 개발 나선다",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261022215032",
-        "published_at": "2026-10-22T21:50:32+09:00",
-        "summary": "[지디넷코리아]모바일 콘텐츠 기업 허블이 이용자의 뉴스 소비 성향에 맞춰 정보의 깊이를 조절하는 AI 뉴스 에이전트 '탭뷰 AI'를 선보인다.22일 회사에 따르면, 탭뷰 AI는 별도의 앱 설치나 회원가입 절차 없이 기존 제휴 앱 안에서 곧바로 구동되는 인앱 서비스다. 이용자의 개인정보를 수집하지 않고 접속 앱·시간대·지역 정보만으로 소비 성향을 정밀 추정해 맞춤형 뉴스를 제공한다. 특히 화면 스크롤에 따라 정보의 깊이가 단계적으로 심화되는 단일 인터페이스를 갖췄다. 홈 피드의 '유저 맞춤 제목'과 한 줄짜리 '이슈 타임라인'을 필두로, 기사 속 이미지를 모은 '시각 자료 모아보기', 핵심을 세 문장으로 압축한 '3줄 요약', 상황·원인·영향·대응과 입장별 체크포인트를 분석하는 심층 'AI 전문 리포트'까지 5가지 기능을 수직으로 배치했다. 이를 통해 제목만 훑는 독자부터 30초 내 요약을 원하는 독자, 심층 맥락을 파악하려는 독자까지 모드 전환 없이 스크롤만으로 원하는 깊이의 뉴스…",
-        "category_score": 86,
-        "score_reason": "개인화된 콘텐츠 소비 패턴에 맞춘 '인터페이스의 깊이 조절'은 뉴스/콘텐츠 플랫폼이 취해야 할 최적의 사용자 경험(UX) 전략임.",
+        "url": "https://zdnet.co.kr/view/?no=20261023160658",
+        "published_at": "2026-10-23T16:07:12+09:00",
+        "summary": "[지디넷코리아]포티투마루가 부산시 공무원의 문서 작성과 자료 검색을 돕는 행정 AI를 고도화한다. 행정 업무에 특화된 AI 모델을 개발해 부서별 맞춤 검색과 자료 취합까지 지원 범위를 넓힌다.포티투마루는 클라이온, 어기야팩토리와 컨소시엄을 구성해 '부산형 AI 서비스 확대 구축' 사업에 참여한다고 23일 밝혔다. 지난해 부산시 행정 AI 서비스 'AI부기주무관' 구축에 이어 이번 2단계 사업에서도 핵심 AI 모델 개발을 맡는다.부산시는 지난해 시정 데이터와 행정문서 약 16만 건을 학습한 경량언어모델(sLLM)과 검색증강생성(RAG) 기술을 도입해 AI부기주무관을 구축했다. 행정문서 11종 초안 작성과 조례·예산 자료 검색, 메신저 기반 질의응답 등을 지원한다.이번 확대 사업에서는 공무원이 담당 업무에 맞춰 AI를 활용하도록 기능을 강화한다. 컨소시엄은 업무에 따라 여러 경량언어모델을 활용하는 체계를 마련하고 부서·개인별 자료를 검색해 답변하는 RAG 환경을 구축한다. AI 간편취…",
+        "category_score": 57,
+        "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 뉴스 에이전트",
-          "맞춤형 콘텐츠",
-          "UX",
-          "콘텐츠 소비"
+          "AI",
+          "데이터",
+          "검색",
+          "LLM",
+          "RAG"
         ],
-        "planning_insight": "사용자의 스크롤 깊이에 따라 정보량을 동적으로 제공하는 인터페이스는 모바일 콘텐츠 소비 피로도를 낮추는 핵심 UX 전략으로 확산될 가능성이 높음."
+        "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "f87fe1bb5fedaace35f8ee53e2c1073d069ac2f05e76728ea1b8ee0187697c11",
+        "title": "솔트룩스·다이퀘스트, 복지혜택 5600종 AI로 찾아준다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261023112311",
+        "published_at": "2026-10-23T11:25:19+09:00",
+        "summary": "[지디넷코리아]솔트룩스와 다이퀘스트가 경남 지역 복지사업 5600여 종을 인공지능(AI)으로 검색하고 개인 상황에 맞는 지원제도와 신청 방법을 안내하는 서비스를 선보였다.솔트룩스는 다이퀘스트와 공동 구축한 '경남통합복지플랫폼'이 5개월간 시범운영을 거쳐 지난 15일 정식 개통됐다고 23일 밝혔다. 경상남도에 따르면 광역자치단체가 복지 분야에 AI를 접목해 통합서비스를 제공하는 사례는 전국 최초다.경남통합복지플랫폼은 여러 기관에 흩어진 복지정보를 통합해 도민에게 맞춤형 지원제도를 안내하는 서비스다. 복잡한 행정용어나 복지사업명을 몰라도 자신의 상황을 일상 언어로 설명하면 AI가 관련 지원사업을 찾아준다.플랫폼에는 솔트룩스의 거대언어모델(LLM) '루시아 32B'를 기반으로 개발한 복지 특화 AI 시스템이 적용됐다. 복지사업 정보와 관련 법령, 업무편람 등을 분석해 이용자 질문에 답변한다.다이퀘스트는 경상남도와 도내 18개 시·군에 흩어진 복지자료를 통합 관리·검색하는 체계를 구축했다…",
+        "category_score": 54,
+        "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "검색",
+          "LLM"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -119,13 +124,15 @@
         "url": "https://toss.tech/article/dataops-log-definition-skill",
         "published_at": "2026-10-23T10:53:00+09:00",
         "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
-        "category_score": 41,
-        "score_reason": "로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "category_score": 95,
+        "score_reason": "데이터 거버넌스를 AI 자동화 도구로 해결하여 조직 내 데이터 정의 표준화를 달성한 사례로, 데이터 기반 의사결정의 신뢰성을 높이는 플랫폼 운영 전략이 매우 탁월함.",
         "keywords": [
-          "로그",
-          "AI"
+          "데이터 거버넌스",
+          "AI",
+          "로그 정의",
+          "운영 효율화"
         ],
-        "planning_insight": "이 항목은 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "데이터 품질 관리의 병목을 '사람의 규정'이 아닌 '도구와 AI의 협업 프로세스'로 전환하여, 조직 전체의 데이터 활용 역량을 상향 평준화하는 전략적 구조를 제시함."
       }
     ],
     "ai_data": [
@@ -233,6 +240,143 @@
   "integrated_top5": [
     {
       "rank": 1,
+      "id": "232f81a1a2fd9f612385c2ae4d7c74bbd00e8cdf533f46b420b7b215c3d4a1cf",
+      "title": "\"K뷰티 매력, 콘텐츠로 제작해 해외 알리죠\"",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12184349",
+      "published_at": "2026-10-23T17:09:44+09:00",
+      "summary": "\"한국 제품이 해외에서 팔리게 하려면 현지 소비자에게 브랜드를 설명해 줄 크리에이터, 판매 가능성을 검증할 데이터 그리고 유통사와 접점이 모두 필요합니다.\" 백아람 누리하우스 대표..",
+      "category_score": 58,
+      "score_reason": "소비자, 브랜드, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "소비자",
+        "브랜드",
+        "데이터",
+        "콘텐츠",
+        "크리에이터"
+      ],
+      "planning_insight": "이 항목은 소비자, 브랜드, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 71,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "\"한국 제품이 해외에서 팔리게 하려면 현지 소비자에게 브랜드를 설명해 줄 크리에이터, 판매 가능성을 검증할 데이터 그리고 유통사와 접점이 모두 필요합니다.\" 백아람 누리하우스 대표..",
+      "importance_reason": "소비자, 브랜드, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "bb5e4dad79f3858172c54b936339cd905f40b0005d4a82156b5cf04f58dc554d",
+      "title": "기업 폰트 관리 '골칫거리'…응답자 62%가 문제 지적",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261024145325",
+      "published_at": "2026-10-24T14:53:59+09:00",
+      "summary": "[지디넷코리아]기업 실무자 10명 중 6명 이상이 글꼴 누락이나 불일치를 주요 업무 과제로 꼽았다. 기업이 정한 글꼴을 여러 부서와 협력사가 동일하게 사용하는 데 어려움을 겪고 있다는 조사 결과다.글로벌 폰트 기업 모노타입이 중견기업과 대기업을 대상으로 조사한 결과 응답자 62%가 '폰트 누락 또는 불일치'를 업무에서 겪는 가장 큰 어려움 3가지 중 하나로 선택했다. 글꼴 관리가 디자인을 넘어 브랜드 이미지와 업무 효율에도 영향을 미친다는 분석이다.기업마다 글꼴을 확보하는 경로도 달랐다. 응답자 56%는 여러 디자인 플랫폼을 통해 폰트 사용권을 확보한다고 답했다. 한 플랫폼만 이용한다는 응답은 38%였으며 나머지는 외부 대행사나 폰트 제작사를 통해 직접 확보했다.기업은 브랜드 이미지를 통일하기 위해 로고와 색상, 글꼴 등 디자인 기준을 정한다. 하지만 광고나 웹사이트, 제품을 제작할 때는 디자인팀뿐 아니라 마케팅팀과 개발팀, 외부 협력사까지 작업에 참여한다. 같은 글꼴을 여러 업무…",
+      "category_score": 58,
+      "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "광고",
+        "마케팅",
+        "플랫폼",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 70,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]기업 실무자 10명 중 6명 이상이 글꼴 누락이나 불일치를 주요 업무 과제로 꼽았다. 기업이 정한 글꼴을 여러 부서와 협력사가 동일하게 사용하는 데 어려움을 겪고 있다는 조사 결과다.글로벌 폰트 기업…",
+      "importance_reason": "광고, 마케팅, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
+      "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261023161243",
+      "published_at": "2026-10-23T16:12:43+09:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
+      "category_score": 62,
+      "score_reason": "AI, 광고, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "커머스",
+        "플랫폼",
+        "소비자"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기…",
+      "importance_reason": "AI, 광고, 커머스 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "48f9fdcbc25d609de054de00fba09b1455f43719c1abb1d5f48954ce6c8bf1f9",
+      "title": "포티투마루, 부산 공무원 맞춤 AI 개발 나선다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261023160658",
+      "published_at": "2026-10-23T16:07:12+09:00",
+      "summary": "[지디넷코리아]포티투마루가 부산시 공무원의 문서 작성과 자료 검색을 돕는 행정 AI를 고도화한다. 행정 업무에 특화된 AI 모델을 개발해 부서별 맞춤 검색과 자료 취합까지 지원 범위를 넓힌다.포티투마루는 클라이온, 어기야팩토리와 컨소시엄을 구성해 '부산형 AI 서비스 확대 구축' 사업에 참여한다고 23일 밝혔다. 지난해 부산시 행정 AI 서비스 'AI부기주무관' 구축에 이어 이번 2단계 사업에서도 핵심 AI 모델 개발을 맡는다.부산시는 지난해 시정 데이터와 행정문서 약 16만 건을 학습한 경량언어모델(sLLM)과 검색증강생성(RAG) 기술을 도입해 AI부기주무관을 구축했다. 행정문서 11종 초안 작성과 조례·예산 자료 검색, 메신저 기반 질의응답 등을 지원한다.이번 확대 사업에서는 공무원이 담당 업무에 맞춰 AI를 활용하도록 기능을 강화한다. 컨소시엄은 업무에 따라 여러 경량언어모델을 활용하는 체계를 마련하고 부서·개인별 자료를 검색해 답변하는 RAG 환경을 구축한다. AI 간편취…",
+      "category_score": 57,
+      "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "데이터",
+        "검색",
+        "LLM",
+        "RAG"
+      ],
+      "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 65,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]포티투마루가 부산시 공무원의 문서 작성과 자료 검색을 돕는 행정 AI를 고도화한다. 행정 업무에 특화된 AI 모델을 개발해 부서별 맞춤 검색과 자료 취합까지 지원 범위를 넓힌다.포티투마루는 클라이온,…",
+      "importance_reason": "AI, 데이터, 검색 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
       "id": "e094bd12e039d0cad4aecf5fe878410ffb8f929f486e45d9fded56cef910c7ec",
       "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
       "source": "arXiv cs.CL",
@@ -263,140 +407,12 @@
       ],
       "one_line_summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-…",
       "importance_reason": "LLM, agent, agents 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 2,
-      "id": "3e89f1ab74065cdc6a11e35523f11758f0cc6d12f256f66419267c5d746014c1",
-      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.30161",
-      "published_at": "2026-10-23T13:00:00+09:00",
-      "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the proce…",
-      "category_score": 53,
-      "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "agent",
-        "agents",
-        "model",
-        "evaluation",
-        "AI"
-      ],
-      "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 58,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 20,
-        "ai_data_relevance": 20,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbot…",
-      "importance_reason": "agent, agents, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 3,
-      "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published_at": "2026-10-23T07:24:34+09:00",
-      "summary": "",
-      "category_score": 52,
-      "score_reason": "agent, agents, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "agent",
-        "agents",
-        "AI"
-      ],
-      "planning_insight": "이 항목은 agent, agents, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 58,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 20,
-        "ai_data_relevance": 20,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "importance_reason": "agent, agents, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 4,
-      "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
-      "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261023161243",
-      "published_at": "2026-10-23T16:12:43+09:00",
-      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
-      "category_score": 98,
-      "score_reason": "AI 추천, 숏폼, 커넥티드 TV 등 소비자의 제품 발견 경로 변화에 따른 광고 생태계 재편은 플랫폼과 광고 전략의 핵심 트렌드임.",
-      "keywords": [
-        "AI",
-        "광고 생태계",
-        "플랫폼",
-        "소비자 행동"
-      ],
-      "planning_insight": "이 항목은 AI, 광고 생태계, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 55,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 11,
-        "market_consumer_impact": 12
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기…",
-      "importance_reason": "AI, 광고 생태계, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 5,
-      "id": "0f3d05251e2bfb4810f6e4ef4e52ad32ac7751131250ea40236d78283f9225ad",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "published_at": "2026-10-23T09:00:00+09:00",
-      "summary": "",
-      "category_score": 44,
-      "score_reason": "model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "model",
-        "AI"
-      ],
-      "planning_insight": "이 항목은 model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 54,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 20,
-        "ai_data_relevance": 16,
-        "market_consumer_impact": 8
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "Does Your Model Run on AWS Trainium? Look It Up",
-      "importance_reason": "model, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 79,
+      "count": 77,
       "groups": [
         "ai_data",
         "news",
@@ -412,7 +428,7 @@
     },
     {
       "keyword": "데이터",
-      "count": 23,
+      "count": 22,
       "groups": [
         "news"
       ],
@@ -423,12 +439,23 @@
     },
     {
       "keyword": "분석",
-      "count": 15,
+      "count": 16,
       "groups": [
         "news"
       ],
       "sources": [
         "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
       ]
     },
     {
@@ -444,30 +471,19 @@
         "ZDNet Korea",
         "arXiv cs.CL"
       ]
-    },
-    {
-      "keyword": "플랫폼",
-      "count": 13,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
-      ]
     }
   ],
   "overall_summary": [
-    "AI 기술이 대화형 도구에서 실제 업무를 수행하는 '에이전트' 및 '하드웨어 연동형(피지컬 AI)'으로 진화하며 실질적 효율화 단계에 진입했습니다.",
-    "광고 및 콘텐츠 소비 방식은 소비자의 복잡한 구매 여정과 정보 탐색 깊이에 최적화된 초개인화 인터페이스로 이동하고 있습니다.",
-    "오픈AI의 구독 모델 확장처럼 기업들은 독자적인 기술 생태계를 구축하여 외부 플랫폼과 데이터를 결합하는 비용 효율적 비즈니스 전략에 집중하고 있습니다."
+    "오늘 선별된 주요 흐름은 AI, 소비자, 브랜드, 데이터, 광고 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
   "method": "gemini",
   "fallback_used": true,
   "gemini_call_count": 4,
   "category_methods": {
-    "news": "gemini",
-    "tech_blog": "fallback",
+    "news": "fallback",
+    "tech_blog": "gemini",
     "ai_data": "fallback"
   }
 }
