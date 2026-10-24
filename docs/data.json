@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-25T05:40:40.305197+09:00",
+  "updated_at": "2026-10-25T07:37:16.071167+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "01aeb2a02ac14faca631a9e7d10b9d309bdccccc28fe7491c94eafc21b3b5229",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "icon": "🏢",
+      "title": "엔비디아·테슬라, 삼성전기에 조 단위 투자하는 이유는? [뉴스 쉽게보기]",
+      "summary": "엔비디아와 테슬라가 같은 한국 기업에 조 단위로 투자했다는 소식, 혹시 들으셨나요? 이번 주 국내 경제 뉴스 중 투자자들의 시선을 강하게 잡아끌 만한 소식이었는데요. 첨단 기술 분..",
+      "url": "https://www.mk.co.kr/news/economy/12184187",
+      "published_at": "2026-10-25T06:00:00+09:00",
+      "entry_updated_at": "2026-10-25T06:00:00+09:00",
+      "fetched_at": "2026-10-25T07:37:13.609275+09:00",
+      "language": "ko",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "bc18e04f71361a7f1a363ad597dddd9d04f0397bd27fffc2c76b7706db85b1e9",
       "source": "ZDNet Korea",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-10-22T22:05:12.676789+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "dec15bd9ca8af13cc0a7a9d40ca973adb25915ac54f5ffdd6c418598252c65b5",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-      "published_at": "2026-10-22T17:23:42+09:00",
-      "entry_updated_at": "2026-10-22T17:23:42+09:00",
-      "fetched_at": "2026-10-25T02:31:12.407356+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
