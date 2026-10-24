@@ -1,11 +1,11 @@
 {
-  "briefing_date": "2026-10-23",
-  "generated_at": "2026-10-23T22:43:37.508976+09:00",
+  "briefing_date": "2026-10-24",
+  "generated_at": "2026-10-24T09:57:57.339842+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 175,
+    "news": 183,
     "tech_blog": 1,
-    "ai_data": 24
+    "ai_data": 16
   },
   "category_top5": {
     "news": [
@@ -20,35 +20,16 @@
         "published_at": "2026-10-23T15:34:29+09:00",
         "summary": "[지디넷코리아]오픈AI와 아마존웹서비스(AWS)가 인공지능(AI)을 단순한 대화형 도구를 넘어 실제 기업 업무를 수행하는 에이전트로 활용해야 한다고 강조했다. AI가 스스로 업무를 계획하고 실행·검증할 수 있는 환경을 구축해 기업 업무 전반 효율을 높이고 실질적인 사업 성과로 연결해야 한다는 제언이다.김정원 오픈AI 파트너 AI 디플로이먼트 엔지니어는 23일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 'AWS AI 웨이브 2026'에서 \"과거에는 사람이 AI에 질문하고 답변을 받는 방식이었다면 이제는 에이전트가 스스로 문제를 정의하고 추론해 해결하는 단계로 발전했다\"며 \"기업도 AI에 단순히 업무를 지시하는 수준을 넘어 실제 업무를 얼마나 맡길 수 있는지 고민해야 한다\"고 말했다.김 엔지니어는 AI 발전 과정을 대화와 추론, 도구 활용, 자율 업무 수행 단계로 구분했다. 지난 2024년에는 복잡한 문제를 해결하기 위한 추론 능력 강화에 집중했고 지난해에는 외부 도구와…",
         "category_score": 98,
-        "score_reason": "AI가 단순 질문 응답을 넘어 스스로 문제를 정의하고 실행하는 '에이전트'로 진화하는 거시적 흐름을 포착함.",
+        "score_reason": "AI가 단순 챗봇을 넘어 스스로 계획하고 실행하는 '에이전트'로 진화하는 거대한 시장 변화 신호를 담고 있음.",
         "keywords": [
-          "AI 에이전트",
-          "업무 자동화",
-          "생산성"
+          "AI",
+          "에이전트",
+          "업무 자동화"
         ],
-        "planning_insight": "AI 도입 전략을 '챗봇 활용'에서 '에이전트 중심의 워크플로우 재설계'로 전환해야 함."
+        "planning_insight": "AI 에이전트 기반의 업무 워크플로우 자동화 콘텐츠를 제작하여 B2B 생산성 향상 가이드를 제시해야 함."
       },
       {
         "rank": 2,
-        "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
-        "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261022145856",
-        "published_at": "2026-10-22T15:00:44+09:00",
-        "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
-        "category_score": 95,
-        "score_reason": "AI 투자의 효율성(ROI)이 빅테크 기업의 최우선 과제로 부상하며 시장의 성숙도를 보여줌.",
-        "keywords": [
-          "AI ROI",
-          "가성비",
-          "인프라 최적화"
-        ],
-        "planning_insight": "AI 콘텐츠/서비스 기획 시 화려한 기능보다 명확한 비용 대비 성과(Value-per-Token) 모델 구축 필수."
-      },
-      {
-        "rank": 3,
         "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
         "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
         "source": "ZDNet Korea",
@@ -57,52 +38,71 @@
         "url": "https://zdnet.co.kr/view/?no=20261023161243",
         "published_at": "2026-10-23T16:12:43+09:00",
         "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
-        "category_score": 92,
-        "score_reason": "소비자의 제품 발견 경로가 숏폼, 커머스, 검색 등으로 파편화되는 현상을 반영한 광고 생태계 변화 예측.",
+        "category_score": 95,
+        "score_reason": "소비자의 제품 발견 경로 다변화(숏폼, 커넥티드 TV 등)와 AI 광고 생태계의 연결성을 잘 보여주는 트렌드성 뉴스임.",
         "keywords": [
-          "광고 생태계",
-          "커머스 플랫폼",
-          "소비자 경로"
+          "AI 광고",
+          "커머스",
+          "플랫폼"
         ],
-        "planning_insight": "파편화된 접점을 하나로 잇는 멀티 채널 기반의 통합 AI 마케팅 전략 수립이 요구됨."
+        "planning_insight": "파편화된 디지털 접점에서 AI를 활용해 소비자를 타기팅하고 전환을 유도하는 '퍼포먼스 마케팅의 미래'를 분석하는 콘텐츠 추천."
       },
       {
-        "rank": 4,
-        "id": "83a84d454c67d7b46a2f48a4202e3d77e93cd129304543ae8672739d64d71c0e",
-        "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원",
+        "rank": 3,
+        "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+        "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261022191127",
-        "published_at": "2026-10-22T19:20:43+09:00",
-        "summary": "[지디넷코리아]LG CNS가 기업용 인공지능(AI) 서비스 '챗GPT 엔터프라이즈' 국내 이용자 약 3만 명을 확보했다고 밝혔다.LG CNS는 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 챗GPT 엔터프라이즈 공급 현황을 공개했다. 올해 2월 시작한 오픈AI 리셀러 사업을 통해 금융과 유통, 바이오, 제조 등 고객사 임직원 약 3만 명이 챗GPT 엔터프라이즈 서비스를 사용하고 있다고 했다.이날 발표에 나선 진요한 LG CNS AI센터장 상무는 기업 고객에게 제품 공급뿐 아니라 업무 적용과 직원 교육, 보안·비용 관리도 지원한다고 설명했다. 기업에서는 챗GPT를 사내 데이터와 업무 시스템에 연결하고 직원별 접근 권한과 사용 비용도 관리해야 하기 때문이다.LG CNS는 고객사에서 챗GPT를 활용할 업무를 찾는 작업도 맡는다. 한 법무법인에서는 업무를 수십 개 영역으로 나눠 챗GPT를 어디에, 어느 정도까지 적용할 수 있는지 분석했다. 이후 법무…",
-        "category_score": 89,
-        "score_reason": "기업용 생성형 AI의 실질적 적용이 금융, 유통, 제조 등 전 산업으로 확대되는 구체적 지표를 제시.",
+        "url": "https://zdnet.co.kr/view/?no=20261022145856",
+        "published_at": "2026-10-22T15:00:44+09:00",
+        "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+        "category_score": 92,
+        "score_reason": "AI 도입의 초기 단계를 지나 '가성비'와 '투자 대비 성과(ROI)'가 기업 AI 전략의 핵심 지표로 부상하고 있음을 보여줌.",
         "keywords": [
-          "B2B AI",
-          "기업 데이터",
-          "보안"
+          "AI 가성비",
+          "기업 AI 전략",
+          "인프라"
         ],
-        "planning_insight": "사내 데이터 결합과 보안이 보장된 산업별 버티컬 AI 도입이 향후 기업 경쟁력의 핵심."
+        "planning_insight": "기업들이 AI 도입 시 고려해야 할 '비용 효율적 모델 선택 가이드' 및 '성과 측정 모델'에 관한 큐레이션 콘텐츠 기획 필요."
       },
       {
-        "rank": 5,
-        "id": "4986fc045669cd9e7e2369d57d190fe1e033c3d12fb3e8ea5c6d6d1bc9335cd6",
-        "title": "[단독] “돈 댈 테니 공장 지어달라”… 엔비디아·테슬라, 삼성전기에 러브콜",
+        "rank": 4,
+        "id": "85c675b4c4084f3357940fa8244cc63f745fe4e14fdf81f18db52c2bc0f97310",
+        "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
         "source": "매일경제 기업",
         "group": "news",
         "category": "business",
-        "url": "https://www.mk.co.kr/news/business/12183072",
-        "published_at": "2026-10-22T17:50:00+09:00",
-        "summary": "AI 데이터센터·자율주행 기판 합작 생산 엔비디아 2.6조 투자해 부산·세종 증설 테슬라 1.1조 분담 세종에 전용 라인 구축 AI 데이터센터발 ‘FC-BGA’ 수요 50% 초과 ..",
-        "category_score": 86,
-        "score_reason": "AI 인프라 수요 폭증으로 인한 반도체 기판 공급난이 하드웨어 생태계의 물리적 한계를 시사.",
+        "url": "https://www.mk.co.kr/news/business/12183246",
+        "published_at": "2026-10-22T17:50:21+09:00",
+        "summary": "인공지능(AI) 열풍이 반도체를 넘어 기판으로 옮겨붙고 있다. AI 데이터센터 투자가 급증하면서 고성능 반도체뿐 아니라 여기에 들어가는 첨단 기판까지 품귀 현상을 빚고 있어서다. ..",
+        "category_score": 90,
+        "score_reason": "AI 열풍이 소프트웨어를 넘어 하드웨어 인프라(첨단 기판 등)로 확산되는 연쇄적인 시장 변화를 구체적으로 짚어줌.",
         "keywords": [
           "AI 인프라",
-          "데이터센터",
-          "공급망"
+          "반도체",
+          "글로벌 공급망"
         ],
-        "planning_insight": "소프트웨어 AI 트렌드뿐만 아니라 이를 뒷받침하는 하드웨어 공급망 이슈를 모니터링해야 함."
+        "planning_insight": "AI 산업의 근간이 되는 하드웨어 생태계의 변화가 향후 기술 트렌드에 미칠 영향력을 다루는 기술 심층 분석 콘텐츠."
+      },
+      {
+        "rank": 5,
+        "id": "4a06fb14fa57b6eda228b817b62fc52b03cdbcc19f41ae957030da8fa47d3ef1",
+        "title": "[유미's 픽] 신세계I&C 체질 바꾼 양윤지, 그룹서 실력 인정받았다…AI 사업 탄력",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261023114339",
+        "published_at": "2026-10-23T11:47:49+09:00",
+        "summary": "[지디넷코리아]신세계그룹이 수익성 개선을 이끈 신세계아이앤씨 양윤지 대표 체제에 힘을 실었다. 사업 재편으로 이익을 늘리고 재무 체력을 높인 경영진을 중용하는 동시에 클라우드 사업 책임자를 임원으로 발탁해 미래 성장동력 확보에도 고삐를 죄는 모습이다.23일 신세계그룹이 발표한 2027년 정기 임원인사에 따르면 양윤지 신세계아이앤씨 대표는 전무로 승진했다. 정필승 클라우드비즈(Biz)담당도 상무보로 승진하며 신규 임원 명단에 이름을 올렸다.이번 그룹 인사는 성과주의를 바탕으로 조직 안정과 변화를 동시에 추구한 것이 특징이다. 주요 계열사와 경영전략실에 새로운 인물을 배치하고 역대 최대인 36명의 신규 임원을 발탁하는 동시에 성과를 낸 주요 계열사 대표는 유임시켰다. 신세계아이앤씨에선 양 대표의 승진을 통해 경영 연속성을 확보하고 클라우드 사업 담당자를 임원으로 발탁하며 성장사업 확대를 뒷받침했다.지난해 3월 취임한 양 대표는 플랫폼 운영과 IT서비스 사업을 두루 경험한 내부 출신 경…",
+        "category_score": 88,
+        "score_reason": "전통 기업(신세계)이 AI 사업 중심으로 체질 개선을 시도하며 조직 인사까지 단행하는 구조적 변화를 잘 반영함.",
+        "keywords": [
+          "디지털 전환",
+          "조직 인사",
+          "AI 사업"
+        ],
+        "planning_insight": "디지털 전환기에 기업이 AI 조직을 어떻게 구성하고 경영진을 변화시키는지를 추적하여, 성공적인 DX 사례 연구 콘텐츠로 활용."
       }
     ],
     "tech_blog": [
@@ -117,14 +117,14 @@
         "published_at": "2026-10-23T10:53:00+09:00",
         "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
         "category_score": 95,
-        "score_reason": "데이터 거버넌스의 복잡성을 AI와 도구화를 통해 해결한 사례로, 플랫폼 운영의 핵심인 '데이터 일관성'을 제품 전략 관점에서 잘 풀어냄.",
+        "score_reason": "데이터 거버넌스의 핵심인 로그 정의 과정을 AI 자동화 도구로 시스템화하여, 조직 전체의 데이터 활용 역량을 상향 평준화한 점이 서비스 운영 전략 측면에서 매우 탁월함.",
         "keywords": [
           "데이터 거버넌스",
-          "AI 기반 도구",
-          "로그 설계",
-          "데이터 표준화"
+          "AI 도구",
+          "로그 정의",
+          "데이터 활용"
         ],
-        "planning_insight": "데이터 분석의 파편화를 방지하기 위해 사내 로그 정의를 자동화·시스템화하는 접근은 대규모 서비스 기획 및 데이터 전략 구축 시 필수적인 구조적 인사이트를 제공함."
+        "planning_insight": "데이터 분석의 출발점인 로그 정의를 중앙 집중식 규칙이 아닌 AI 기반의 협업형 프로세스로 전환함으로써, 데이터 품질 관리의 병목 현상을 해결하고 서비스 기획팀의 데이터 리터러시를 높이는 구조적 개선 사례임."
       }
     ],
     "ai_data": [
@@ -139,34 +139,32 @@
         "published_at": "2026-10-23T07:24:34+09:00",
         "summary": "",
         "category_score": 98,
-        "score_reason": "RL(강화학습)을 활용한 에이전트 성능 최적화 및 자동화 프로세스 구축에 대한 실질적인 방법론을 제시함.",
+        "score_reason": "RLHF를 통한 에이전트의 추론 능력 향상과 데이터 품질 개선 방안을 다루고 있어 실무 활용 가치가 매우 높음",
         "keywords": [
-          "RL",
           "에이전트",
-          "자동화",
-          "데이터 품질"
+          "강화학습",
+          "데이터 자동화"
         ],
-        "planning_insight": "AI 에이전트의 의사결정 신뢰도를 높이기 위한 데이터 보상 체계(Reward) 설계 전략 수립에 활용 가능."
+        "planning_insight": "AI 에이전트의 답변 품질을 높이기 위해 사용자 피드백이나 데이터베이스 결과를 보상 체계로 연결하는 모델 파인튜닝 전략 도입이 필요함"
       },
       {
         "rank": 2,
-        "id": "3aea528be83e323baf7d662dd6fd76baff58c787154f2d489b28c0f3712faa4e",
-        "title": "Ensemble forecasting with IBM Granite time-series models",
-        "source": "Hugging Face Blog",
+        "id": "c4c012b8b7455d3bef532269e8cded5efa431aea42807a75072f4f2bda05a3b0",
+        "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+        "source": "arXiv cs.CL",
         "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "published_at": "2026-10-22T16:51:31+09:00",
-        "summary": "",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30355",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteResolve, a benchmark of 423 real-world hallucinated citations annotated for source recoverability. We f…",
         "category_score": 95,
-        "score_reason": "시계열 예측 모델의 앙상블 기법은 비즈니스 데이터 분석 및 미래 예측 콘텐츠 자동화에 즉각적인 효용성을 제공함.",
+        "score_reason": "RAG 시스템 구축 시 가장 큰 문제인 환각 현상(Hallucination)과 출처 검증 문제를 정면으로 다룸",
         "keywords": [
-          "시계열",
-          "앙상블",
-          "예측",
-          "데이터 분석"
+          "RAG",
+          "환각 방지",
+          "콘텐츠 검증"
         ],
-        "planning_insight": "트렌드 예측 기반의 콘텐츠 자동 생성 및 수요 예측형 마케팅 전략 수립에 기술적 토대를 마련할 수 있음."
+        "planning_insight": "신뢰도 높은 콘텐츠 생성을 위한 RAG 아키텍처 설계 시, 출처 확인(Citation) 및 근거 기반의 자동화 프로세스 구축이 핵심 역량임"
       },
       {
         "rank": 3,
@@ -179,53 +177,51 @@
         "published_at": "2026-10-23T13:00:00+09:00",
         "summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-horizon planners is costly and prone to hallucinated or invalid actions. This paper targets a different role for LLMs: constrained bridges between language and symbolic planning. We propose MemPlan, a memory-conditioned PDDL planning framework for partially observable interactive text environments. MemPlan keeps the PDDL domain fixed and reconstructs the PDDL problem at each s…",
         "category_score": 92,
-        "score_reason": "LLM을 단순 챗봇이 아닌 '기획적 플래너'로 활용하기 위한 메모리 기반 제어 방식을 제시하여 에이전트 실무 활용도를 높임.",
+        "score_reason": "복잡한 기획 작업을 수행하는 AI 에이전트의 효율적인 계획 수립과 메모리 제어 기술을 제시",
         "keywords": [
-          "LLM",
           "에이전트",
-          "플래닝",
-          "메모리"
+          "LLM",
+          "기획 자동화"
         ],
-        "planning_insight": "복잡한 단계가 필요한 콘텐츠 기획 및 프로젝트 관리 에이전트 구축 시 할루시네이션을 제어하는 핵심 아키텍처로 참고 가능."
+        "planning_insight": "단순 답변 생성을 넘어 긴 호흡의 기획 업무를 자동화하려면, 외부 메모리 체계와 결합된 구조적 계획 도구가 필수적임"
       },
       {
         "rank": 4,
-        "id": "c4c012b8b7455d3bef532269e8cded5efa431aea42807a75072f4f2bda05a3b0",
-        "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.30355",
-        "published_at": "2026-10-23T13:00:00+09:00",
-        "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteResolve, a benchmark of 423 real-world hallucinated citations annotated for source recoverability. We f…",
-        "category_score": 88,
-        "score_reason": "RAG 기반 콘텐츠 생성 시 가장 큰 문제인 '출처 조작(할루시네이션)'을 방지하는 기술적 방법론을 다룸.",
-        "keywords": [
-          "RAG",
-          "할루시네이션",
-          "검증",
-          "신뢰성"
-        ],
-        "planning_insight": "AI 기반 정보성 콘텐츠 자동 생성 서비스 기획 시 필수적인 신뢰성 확보 및 검증 프로세스 설계에 반영."
-      },
-      {
-        "rank": 5,
-        "id": "df2bad29adaab3251e3d8dc30ad2707f478b1760d2190abd22978a429ba38166",
-        "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "id": "3aea528be83e323baf7d662dd6fd76baff58c787154f2d489b28c0f3712faa4e",
+        "title": "Ensemble forecasting with IBM Granite time-series models",
         "source": "Hugging Face Blog",
         "group": "ai_data",
         "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-        "published_at": "2026-10-23T01:11:31+09:00",
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "published_at": "2026-10-22T16:51:31+09:00",
         "summary": "",
-        "category_score": 85,
-        "score_reason": "고성능 임베딩 모델의 등장은 콘텐츠 추천, 검색, 벡터 데이터베이스 성능 최적화의 기본 인프라 변화임.",
+        "category_score": 89,
+        "score_reason": "시계열 데이터를 다루는 LLM의 실무 적용 사례로, 비즈니스 지표 예측 및 분석 자동화에 직접 활용 가능",
         "keywords": [
-          "임베딩",
-          "검색",
-          "추천 시스템"
+          "데이터 분석",
+          "IBM Granite",
+          "시계열 모델"
         ],
-        "planning_insight": "개인화 추천 시스템 고도화 및 콘텐츠 검색 품질 개선을 위해 최신 오픈소스 임베딩 모델 도입을 고려할 시점."
+        "planning_insight": "AI 기반의 콘텐츠 전략 수립 시, 과거 지표를 예측하고 성과를 추정하는 시계열 특화 모델의 도입으로 데이터 분석 효율성을 극대화할 수 있음"
+      },
+      {
+        "rank": 5,
+        "id": "ade77536e2d7eb5d11c9d8386aecd4a4848f3e30117389021b09f753badf3ad6",
+        "title": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30158",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30158v1 Announce Type: new Abstract: Artificial intelligence (AI), as a decision-support aid, provides new tools for studying history effectively using multimodal data, including text, images, and audio. We present, to our knowledge, the first digital assistant named Lighthouse--commonly called a chatbot--for exploring the Civil Rights period of the United States using data from South Carolina. From an AI perspective, the system's novelty lies in its guiding design principles of (a)…",
+        "category_score": 86,
+        "score_reason": "텍스트, 이미지, 오디오 등 멀티모달 데이터를 활용한 아카이빙 및 정보 탐색 어시스턴트의 프로토타입 제시",
+        "keywords": [
+          "멀티모달",
+          "디지털 어시스턴트",
+          "지식 관리"
+        ],
+        "planning_insight": "기업 내부 비정형 데이터(멀티미디어 자산)를 활용한 지식 관리 시스템 구축 시 참고할 수 있는 최적의 모델 아키텍처 사례"
       }
     ]
   },
@@ -241,19 +237,19 @@
       "published_at": "2026-10-23T15:34:29+09:00",
       "summary": "[지디넷코리아]오픈AI와 아마존웹서비스(AWS)가 인공지능(AI)을 단순한 대화형 도구를 넘어 실제 기업 업무를 수행하는 에이전트로 활용해야 한다고 강조했다. AI가 스스로 업무를 계획하고 실행·검증할 수 있는 환경을 구축해 기업 업무 전반 효율을 높이고 실질적인 사업 성과로 연결해야 한다는 제언이다.김정원 오픈AI 파트너 AI 디플로이먼트 엔지니어는 23일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 'AWS AI 웨이브 2026'에서 \"과거에는 사람이 AI에 질문하고 답변을 받는 방식이었다면 이제는 에이전트가 스스로 문제를 정의하고 추론해 해결하는 단계로 발전했다\"며 \"기업도 AI에 단순히 업무를 지시하는 수준을 넘어 실제 업무를 얼마나 맡길 수 있는지 고민해야 한다\"고 말했다.김 엔지니어는 AI 발전 과정을 대화와 추론, 도구 활용, 자율 업무 수행 단계로 구분했다. 지난 2024년에는 복잡한 문제를 해결하기 위한 추론 능력 강화에 집중했고 지난해에는 외부 도구와…",
       "category_score": 98,
-      "score_reason": "AI가 단순 질문 응답을 넘어 스스로 문제를 정의하고 실행하는 '에이전트'로 진화하는 거시적 흐름을 포착함.",
+      "score_reason": "AI가 단순 챗봇을 넘어 스스로 계획하고 실행하는 '에이전트'로 진화하는 거대한 시장 변화 신호를 담고 있음.",
       "keywords": [
         "AI 에이전트",
         "업무 자동화",
         "생산성"
       ],
-      "planning_insight": "단순한 챗봇 서비스 기획을 넘어, 고객의 특정 페르소나와 워크플로우를 완결하는 '에이전트 중심 서비스'로 전략을 전면 수정해야 함.",
-      "integrated_score": 96,
+      "planning_insight": "기획자는 'AI에게 무엇을 물을까'가 아닌 '어떤 업무 워크플로우를 AI 에이전트에게 위임할 것인가'로 전략적 사고를 전환해야 함",
+      "integrated_score": 97,
       "criteria_scores": {
         "content_strategy": 25,
         "trend_signal_timeliness": 25,
         "ai_data_relevance": 24,
-        "market_consumer_impact": 22
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
@@ -261,8 +257,8 @@
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "단순 질의응답을 넘어 스스로 문제를 정의하고 수행하는 'AI 에이전트' 시대로의 전환",
-      "importance_reason": "AI 활용의 패러다임이 단순 생성에서 자율적 업무 수행으로 완전히 변화하는 변곡점에 있음."
+      "one_line_summary": "AI가 대화형 도구에서 자율적 업무 수행 에이전트로 진화하는 거대한 시장 변곡점",
+      "importance_reason": "AI 활용의 패러다임이 '질의응답'에서 '실행 및 문제 해결'로 전면 전환됨을 시사함"
     },
     {
       "rank": 2,
@@ -275,97 +271,30 @@
       "published_at": "2026-10-23T10:53:00+09:00",
       "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
       "category_score": 95,
-      "score_reason": "데이터 거버넌스의 복잡성을 AI와 도구화를 통해 해결한 사례로, 플랫폼 운영의 핵심인 '데이터 일관성'을 제품 전략 관점에서 잘 풀어냄.",
+      "score_reason": "데이터 거버넌스의 핵심인 로그 정의 과정을 AI 자동화 도구로 시스템화하여, 조직 전체의 데이터 활용 역량을 상향 평준화한 점이 서비스 운영 전략 측면에서 매우 탁월함.",
       "keywords": [
         "데이터 거버넌스",
-        "AI 기반 도구",
-        "데이터 표준화"
+        "로그 정의",
+        "AI 자동화"
       ],
-      "planning_insight": "데이터 분석의 비효율성을 해소하기 위해 기획자와 개발자가 소통하는 로그 설계 단계에 생성형 AI를 가이드 도구로 도입하는 체계 구축 필요.",
-      "integrated_score": 93,
+      "planning_insight": "조직 내 데이터 사일로를 제거하고 분석 일관성을 확보하기 위해 내부 가이드를 AI 엔진과 결합하는 로컬 거버넌스 모델 구축이 필수적임",
+      "integrated_score": 95,
       "criteria_scores": {
         "content_strategy": 24,
         "trend_signal_timeliness": 23,
-        "ai_data_relevance": 23,
+        "ai_data_relevance": 25,
         "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "AI를 활용하여 사내 데이터 로그 정의를 자동화·표준화한 토스의 사례",
-      "importance_reason": "데이터 기반 의사결정의 핵심인 '데이터 일관성' 문제를 AI로 해결함으로써 조직 내 데이터 리터러시 수준을 상향 평준화함."
+      "one_line_summary": "데이터 분석의 표준화를 AI와 협업하여 시스템화한 실무적 DX 혁신 사례",
+      "importance_reason": "데이터 품질 관리의 병목인 '로그 정의'를 AI가 보조하여 조직 전체의 데이터 리터러시를 상향 표준화함"
     },
     {
       "rank": 3,
-      "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
-      "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261022145856",
-      "published_at": "2026-10-22T15:00:44+09:00",
-      "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
-      "category_score": 95,
-      "score_reason": "AI 투자의 효율성(ROI)이 빅테크 기업의 최우선 과제로 부상하며 시장의 성숙도를 보여줌.",
-      "keywords": [
-        "AI ROI",
-        "가성비",
-        "인프라 최적화"
-      ],
-      "planning_insight": "콘텐츠 자동화 및 AI 기능 도입 시 단순히 '신기술 적용'에 그치지 말고, 실제 생성된 결과물의 비즈니스 가치(Value-per-Token)를 측정하는 프레임워크가 필수.",
-      "integrated_score": 91,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "AI 사용량 급증에 따른 추론 비용 최적화와 '비용 대비 성과' 중심의 전략 변화",
-      "importance_reason": "AI 투자가 실험 단계를 지나 실질적인 수익성과 효율성을 검증하는 성숙기 시장으로 진입했음을 시사."
-    },
-    {
-      "rank": 4,
-      "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "published_at": "2026-10-23T07:24:34+09:00",
-      "summary": "",
-      "category_score": 98,
-      "score_reason": "RL(강화학습)을 활용한 에이전트 성능 최적화 및 자동화 프로세스 구축에 대한 실질적인 방법론을 제시함.",
-      "keywords": [
-        "RL(강화학습)",
-        "에이전트 성능",
-        "데이터 보상"
-      ],
-      "planning_insight": "AI 기반의 자동화 콘텐츠를 기획할 때 모델의 학습 목표(Reward)를 어떻게 정의하느냐에 따라 서비스 품질이 결정됨. 데이터 피드백 루프 설계의 중요성.",
-      "integrated_score": 89,
-      "criteria_scores": {
-        "content_strategy": 21,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "강화학습을 통해 AI 에이전트의 의사결정 프로세스를 최적화하는 방법론",
-      "importance_reason": "AI 모델이 단순 답변을 넘어 실제 업무를 수행할 때 필요한 '보상 체계'를 정립하는 기술적 토대 마련."
-    },
-    {
-      "rank": 5,
       "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
       "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
       "source": "ZDNet Korea",
@@ -374,34 +303,97 @@
       "url": "https://zdnet.co.kr/view/?no=20261023161243",
       "published_at": "2026-10-23T16:12:43+09:00",
       "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
-      "category_score": 92,
-      "score_reason": "소비자의 제품 발견 경로가 숏폼, 커머스, 검색 등으로 파편화되는 현상을 반영한 광고 생태계 변화 예측.",
+      "category_score": 95,
+      "score_reason": "소비자의 제품 발견 경로 다변화(숏폼, 커넥티드 TV 등)와 AI 광고 생태계의 연결성을 잘 보여주는 트렌드성 뉴스임.",
       "keywords": [
-        "광고 생태계",
-        "커머스 플랫폼",
-        "소비자 경로"
+        "AI 광고",
+        "소비자 여정",
+        "퍼포먼스 마케팅"
       ],
-      "planning_insight": "단일 채널 콘텐츠 전략에서 벗어나 고객의 여정(Customer Journey) 전반을 AI 시스템으로 연결하고, 접점별 데이터를 기반으로 성과를 최적화하는 마케팅 자동화 환경 필요.",
-      "integrated_score": 88,
+      "planning_insight": "마케팅 콘텐츠를 단일 채널이 아닌 고객 접점(커넥티드 TV, 커머스 미디어 등) 전체를 아우르는 AI 통합 성과 지표 관리 체계로 재편할 것",
+      "integrated_score": 92,
       "criteria_scores": {
         "content_strategy": 23,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 21,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
         "market_consumer_impact": 23
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "숏폼, 커머스 등 파편화된 소비자 발견 경로를 통합 AI로 연결하는 마케팅 전략",
-      "importance_reason": "마케팅 접점이 파편화되는 현시점에서 AI 시스템을 통한 통합 마케팅의 필요성이 어느 때보다 강조됨."
+      "one_line_summary": "숏폼, 커머스 등 파편화된 접점 내에서 AI 기반 고객 도달 최적화가 필수적인 시대",
+      "importance_reason": "소비자의 제품 발견 경로가 다변화됨에 따라 단순 광고 노출이 아닌 AI 시스템 기반의 개인화 성과 관리가 중요해짐"
+    },
+    {
+      "rank": 4,
+      "id": "ef9453ff77a6bfec79c0f4db0ae43752494a2dece908c9615fd357d4623c4d1f",
+      "title": "[AI는 지금] 자체 칩 늘리고 모델 골라 쓴다…MS, 'AI 가성비' 높이기 총력",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261022145856",
+      "published_at": "2026-10-22T15:00:44+09:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 인공지능(AI) 사업의 경쟁력 강화 기준으로 '가성비'를 내세웠다. 자체 반도체 활용을 늘리고 업무마다 적합한 AI 모델을 선택해 고객의 비용 대비 업무 성과를 높이는 동시에 자사 인프라의 수익성도 끌어올리겠다는 구상이다.사티아 나델라 MS 최고경영자(CEO)는 22일 공개한 2026년 연례 주주서한에서 '비용 대비 성과'를 강조했다. AI 사용량이 늘수록 추론 비용도 커지는 만큼 고객이 지출한 비용으로 얼마나 유용한 결과를 얻는지가 중요하다고 봤다.나델라 CEO는 \"고객은 토큰에 지출한 비용을 그것이 만들어내는 성과와 비교해 평가하게 될 것\"이라며 \"우리는 이 비용 대비 성과를 최적화하는 데 집중하고 있다\"고 밝혔다.MS는 이를 위해 자체 반도체 활용 비중을 확대할 계획이다. 데이터센터 설계부터 반도체, 시스템 소프트웨어, AI 모델까지 함께 최적화해 전력과 투자 비용 대비 처리 성능을 높이는 데 주력한다는 방침이다.MS에 따르면 올해 선보인…",
+      "category_score": 92,
+      "score_reason": "AI 도입의 초기 단계를 지나 '가성비'와 '투자 대비 성과(ROI)'가 기업 AI 전략의 핵심 지표로 부상하고 있음을 보여줌.",
+      "keywords": [
+        "AI 가성비",
+        "ROI",
+        "기업 전략"
+      ],
+      "planning_insight": "콘텐츠/서비스 기획 시 AI 기술 자체의 매력도보다, 이를 활용했을 때의 비용 최적화와 성과 지표를 우선적으로 커뮤니케이션해야 함",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "시장·소비자 영향력",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 도입의 성숙기 진입, '기능 중심'에서 '비용 대비 성과 중심'으로의 전략 변화",
+      "importance_reason": "기업이 AI를 단순 도입하는 시기를 지나, 실질적인 수익성과 비즈니스 효율을 검증하는 단계로 진입했음을 보여줌"
+    },
+    {
+      "rank": 5,
+      "id": "c4c012b8b7455d3bef532269e8cded5efa431aea42807a75072f4f2bda05a3b0",
+      "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.30355",
+      "published_at": "2026-10-23T13:00:00+09:00",
+      "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteResolve, a benchmark of 423 real-world hallucinated citations annotated for source recoverability. We f…",
+      "category_score": 95,
+      "score_reason": "RAG 시스템 구축 시 가장 큰 문제인 환각 현상(Hallucination)과 출처 검증 문제를 정면으로 다룸",
+      "keywords": [
+        "RAG",
+        "환각 방지",
+        "콘텐츠 신뢰도"
+      ],
+      "planning_insight": "고품질의 AI 생성 콘텐츠 발행 시, 출처 확인(Citation) 자동화 프로세스를 구축하여 브랜디드 콘텐츠의 신뢰 자산을 보호해야 함",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "콘텐츠 전략 활용성"
+      ],
+      "one_line_summary": "AI 생성 콘텐츠의 신뢰성 확보를 위한 '근거 기반(Grounding)' 기술의 중요성",
+      "importance_reason": "AI 콘텐츠 확산에 따른 환각 문제를 해결하는 실질적인 엔지니어링 접근법 제시"
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 88,
+      "count": 81,
       "groups": [
         "ai_data",
         "news",
@@ -417,23 +409,13 @@
     },
     {
       "keyword": "데이터",
-      "count": 24,
+      "count": 23,
       "groups": [
         "news"
       ],
       "sources": [
         "ZDNet Korea",
         "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "분석",
-      "count": 16,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea"
       ]
     },
     {
@@ -448,21 +430,34 @@
       ]
     },
     {
-      "keyword": "model",
+      "keyword": "UI",
       "count": 13,
       "groups": [
-        "ai_data"
+        "ai_data",
+        "news"
       ],
       "sources": [
-        "Hugging Face Blog",
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
         "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
       ]
     }
   ],
   "overall_summary": [
-    "AI는 단순한 질의응답 도구에서 스스로 업무를 정의하고 수행하는 '에이전트' 체제로 빠르게 진화하고 있습니다.",
-    "기술적 성숙도가 높아짐에 따라 AI 투자의 핵심은 '기술 도입' 자체에서 '비용 대비 성과(ROI) 최적화'로 무게중심이 이동하고 있습니다.",
-    "조직 내 데이터 관리와 콘텐츠 전략 역시 파편화된 채널을 통합하고 AI를 활용해 업무 자동화와 데이터 표준화를 달성하는 방향으로 재편되고 있습니다."
+    "AI 패러다임이 단순 생성형 도구에서 자율 업무를 수행하는 에이전트 기반으로 완전히 이동하고 있습니다.",
+    "기업들은 AI 도입의 초기 탐색기를 지나 실질적인 비용 효율(ROI)과 데이터 품질 관리를 중심으로 한 성숙기 단계에 접어들었습니다.",
+    "기술과 마케팅의 결합이 심화됨에 따라, 파편화된 채널 속에서 AI를 활용한 고객 여정의 정밀한 타기팅과 콘텐츠 신뢰성 확보가 핵심 경쟁력이 되고 있습니다."
   ],
   "method": "gemini",
   "fallback_used": false,
