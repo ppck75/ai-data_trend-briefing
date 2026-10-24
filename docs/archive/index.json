@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-24T09:58:44.000782+09:00",
+  "updated_at": "2026-10-24T17:21:09.065220+09:00",
   "archives": [
+    {
+      "id": "2026-10-24_17-35",
+      "date": "2026-10-24",
+      "time": "17:35",
+      "label": "2026-10-24 17:35",
+      "generated_at": "2026-10-24T17:20:09.340642+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "UI",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+        "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+        "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+        "Does Your Model Run on AWS Trainium? Look It Up"
+      ],
+      "path_json": "archive/2026-10-24/17-35.json",
+      "path_md": "archive/2026-10-24/17-35.md"
+    },
     {
       "id": "2026-10-24_09-57",
       "date": "2026-10-24",

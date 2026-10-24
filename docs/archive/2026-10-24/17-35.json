@@ -1,0 +1,473 @@
+{
+  "briefing_date": "2026-10-24",
+  "generated_at": "2026-10-24T17:20:09.340642+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 183,
+    "tech_blog": 1,
+    "ai_data": 16
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
+        "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261023161243",
+        "published_at": "2026-10-23T16:12:43+09:00",
+        "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
+        "category_score": 98,
+        "score_reason": "AI 추천, 숏폼, 커넥티드 TV 등 소비자의 제품 발견 경로 변화에 따른 광고 생태계 재편은 플랫폼과 광고 전략의 핵심 트렌드임.",
+        "keywords": [
+          "AI",
+          "광고 생태계",
+          "플랫폼",
+          "소비자 행동"
+        ],
+        "planning_insight": "광고 효율이 개인화된 AI 추천 엔진으로 이동함에 따라, 단순히 도달 범위를 넓히는 것보다 특정 접점에서 소비자의 구매 여정을 설계하는 콘텐츠 전략 필요."
+      },
+      {
+        "rank": 2,
+        "id": "478d15e635062b0f9f30ddf8933b9140bdcd2fc0752c709b89d212c2e925199a",
+        "title": "오픈AI, 개발자 AI 비용 부담 낮춘다…챗GPT 유료 혜택 외부 앱으로 확대",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022183455",
+        "published_at": "2026-10-22T18:45:24+09:00",
+        "summary": "[지디넷코리아]오픈AI가 챗GPT 유료 이용자에게 제공하는 인공지능(AI) 사용량을 다른 앱에서도 쓸 수 있도록 지원한다.앨버트 입 오픈AI 아시아태평양 테크니컬 석세스 총괄은 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 이용자가 이미 결제한 챗GPT 구독을 활용해 개발자 AI 비용 부담을 줄이겠다고 밝혔다.개발자가 오픈AI 모델을 활용해 앱을 만들면 이용자가 AI 기능을 쓸 때마다 비용이 발생한다. 오픈AI는 이 비용을 개발자가 부담하는 대신 이용자에게 주어진 챗GPT 사용량으로 처리할 수 있도록 했다. 이용자는 기존 구독을 활용해 새로운 앱을 써볼 수 있고 개발자는 서비스를 체험할 고객에게 드는 AI 비용을 줄일 수 있다.이를 지원하는 기능이 '챗GPT로 로그인(Sign in with ChatGPT)'이다. 챗GPT 플러스·프로 이용자가 지원 앱에서 챗GPT 계정으로 로그인하고 사용량 연동에 동의하면 된다. 오픈AI는 AI 코딩 도구 '…",
+        "category_score": 95,
+        "score_reason": "유료 구독 모델을 개발자 생태계로 확장하여 AI 비용 부담을 줄이는 모델은 SaaS 플랫폼의 서비스 표준화 신호탄임.",
+        "keywords": [
+          "오픈AI",
+          "AI 구독",
+          "플랫폼",
+          "비용 최적화"
+        ],
+        "planning_insight": "AI 구독 모델이 API 형태로 외부 앱에 결합되는 추세임. 자체 앱 개발 시 유료 구독 고객 가치를 어떻게 공유·연동할지에 대한 전략 수립이 중요함."
+      },
+      {
+        "rank": 3,
+        "id": "5eb75eeb8841980a9be058a0990d96e16dcab428c8eba5fb6f5b7e59c53b8f91",
+        "title": "질문에 답하던 AI, 이젠 직접 일한다…오픈AI-AWS가 그린 미래",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261023150615",
+        "published_at": "2026-10-23T15:34:29+09:00",
+        "summary": "[지디넷코리아]오픈AI와 아마존웹서비스(AWS)가 인공지능(AI)을 단순한 대화형 도구를 넘어 실제 기업 업무를 수행하는 에이전트로 활용해야 한다고 강조했다. AI가 스스로 업무를 계획하고 실행·검증할 수 있는 환경을 구축해 기업 업무 전반 효율을 높이고 실질적인 사업 성과로 연결해야 한다는 제언이다.김정원 오픈AI 파트너 AI 디플로이먼트 엔지니어는 23일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 'AWS AI 웨이브 2026'에서 \"과거에는 사람이 AI에 질문하고 답변을 받는 방식이었다면 이제는 에이전트가 스스로 문제를 정의하고 추론해 해결하는 단계로 발전했다\"며 \"기업도 AI에 단순히 업무를 지시하는 수준을 넘어 실제 업무를 얼마나 맡길 수 있는지 고민해야 한다\"고 말했다.김 엔지니어는 AI 발전 과정을 대화와 추론, 도구 활용, 자율 업무 수행 단계로 구분했다. 지난 2024년에는 복잡한 문제를 해결하기 위한 추론 능력 강화에 집중했고 지난해에는 외부 도구와…",
+        "category_score": 92,
+        "score_reason": "AI를 대화형 도구에서 실제 업무를 수행하는 '에이전트'로 정의하는 흐름은 기업 업무 프로세스 자동화의 차세대 트렌드임.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우",
+          "업무 자동화"
+        ],
+        "planning_insight": "콘텐츠 생성/관리 단계에서 수동 작업을 제거하고, AI가 스스로 문제를 정의하고 결과를 도출하는 '에이전트 기반 콘텐츠 운영' 모델로의 전환을 시도해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "d024e0d70dd90dfd683940dab5357fa4a1af4f50bdd86d4af8bfb6bf19f5caae",
+        "title": "엔비디아 올라탄 LG이노텍… 피지컬 AI ‘로봇의 눈’ 만든다",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12182889",
+        "published_at": "2026-10-22T15:37:35+09:00",
+        "summary": "GTC서 HSB 센싱 라인업 첫 공개 300만화소 모듈·멀티모달 비전 CPU 안 거치고 데이터 직송해 눈길 CES서 차세대 플랫폼 연동 선보일듯LG이노텍이 엔비디아와 손잡고 엔비..",
+        "category_score": 89,
+        "score_reason": "피지컬 AI(로봇)와 멀티모달 비전 센싱 기술의 결합은 오프라인 공간 및 디바이스 환경에서의 데이터 처리를 혁신하는 하드웨어-소프트웨어 통합 트렌드임.",
+        "keywords": [
+          "피지컬 AI",
+          "멀티모달",
+          "비전 AI"
+        ],
+        "planning_insight": "가상 공간의 데이터를 넘어 물리적 환경의 데이터를 실시간 분석하는 AI 시대로 진입 중. 오프라인 소비자 경험(CX) 향상을 위한 하드웨어 연동 콘텐츠 전략 검토 필요."
+      },
+      {
+        "rank": 5,
+        "id": "4ea45429e5abf50c58633f98a0b616fd12679d3efb1592940e2f4a5616907b5c",
+        "title": "허블, AI 뉴스 에이전트 ‘탭뷰 AI’ 지스타 2026서 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261022215032",
+        "published_at": "2026-10-22T21:50:32+09:00",
+        "summary": "[지디넷코리아]모바일 콘텐츠 기업 허블이 이용자의 뉴스 소비 성향에 맞춰 정보의 깊이를 조절하는 AI 뉴스 에이전트 '탭뷰 AI'를 선보인다.22일 회사에 따르면, 탭뷰 AI는 별도의 앱 설치나 회원가입 절차 없이 기존 제휴 앱 안에서 곧바로 구동되는 인앱 서비스다. 이용자의 개인정보를 수집하지 않고 접속 앱·시간대·지역 정보만으로 소비 성향을 정밀 추정해 맞춤형 뉴스를 제공한다. 특히 화면 스크롤에 따라 정보의 깊이가 단계적으로 심화되는 단일 인터페이스를 갖췄다. 홈 피드의 '유저 맞춤 제목'과 한 줄짜리 '이슈 타임라인'을 필두로, 기사 속 이미지를 모은 '시각 자료 모아보기', 핵심을 세 문장으로 압축한 '3줄 요약', 상황·원인·영향·대응과 입장별 체크포인트를 분석하는 심층 'AI 전문 리포트'까지 5가지 기능을 수직으로 배치했다. 이를 통해 제목만 훑는 독자부터 30초 내 요약을 원하는 독자, 심층 맥락을 파악하려는 독자까지 모드 전환 없이 스크롤만으로 원하는 깊이의 뉴스…",
+        "category_score": 86,
+        "score_reason": "개인화된 콘텐츠 소비 패턴에 맞춘 '인터페이스의 깊이 조절'은 뉴스/콘텐츠 플랫폼이 취해야 할 최적의 사용자 경험(UX) 전략임.",
+        "keywords": [
+          "AI 뉴스 에이전트",
+          "맞춤형 콘텐츠",
+          "UX",
+          "콘텐츠 소비"
+        ],
+        "planning_insight": "사용자의 스크롤 깊이에 따라 정보량을 동적으로 제공하는 인터페이스는 모바일 콘텐츠 소비 피로도를 낮추는 핵심 UX 전략으로 확산될 가능성이 높음."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "c49eb3100ce529c6a1490af43eb12e5097a60d41435676e413beca0ed6608a78",
+        "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/dataops-log-definition-skill",
+        "published_at": "2026-10-23T10:53:00+09:00",
+        "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
+        "category_score": 41,
+        "score_reason": "로그, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "로그",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 로그, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "4ecfbdbc97d188f20522d29b1bc9e2b5d99504cf176b8de0a483fc9856066150",
+        "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30162",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30162v1 Announce Type: new Abstract: Model fusion aims to integrate the capabilities of multi-expert models into a single model. Existing evaluations offer limited coverage of reasoning with long chains of thought and tool use, while strong average performance can mask substantial losses in individual expert capabilities. We introduce FusionEval, a benchmark that provides controlled expert pools, integrates fusion methods with and without additional training, and offers a unified eva…",
+        "category_score": 58,
+        "score_reason": "RAG, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "benchmark",
+          "model",
+          "evaluation",
+          "reasoning"
+        ],
+        "planning_insight": "이 항목은 RAG, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "3e89f1ab74065cdc6a11e35523f11758f0cc6d12f256f66419267c5d746014c1",
+        "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30161",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the proce…",
+        "category_score": 53,
+        "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "agents",
+          "model",
+          "evaluation",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "published_at": "2026-10-23T07:24:34+09:00",
+        "summary": "",
+        "category_score": 52,
+        "score_reason": "agent, agents, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "agents",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, agents, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "e094bd12e039d0cad4aecf5fe878410ffb8f929f486e45d9fded56cef910c7ec",
+        "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30379",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-horizon planners is costly and prone to hallucinated or invalid actions. This paper targets a different role for LLMs: constrained bridges between language and symbolic planning. We propose MemPlan, a memory-conditioned PDDL planning framework for partially observable interactive text environments. MemPlan keeps the PDDL domain fixed and reconstructs the PDDL problem at each s…",
+        "category_score": 51,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "0f3d05251e2bfb4810f6e4ef4e52ad32ac7751131250ea40236d78283f9225ad",
+        "title": "Does Your Model Run on AWS Trainium? Look It Up",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+        "published_at": "2026-10-23T09:00:00+09:00",
+        "summary": "",
+        "category_score": 44,
+        "score_reason": "model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e094bd12e039d0cad4aecf5fe878410ffb8f929f486e45d9fded56cef910c7ec",
+      "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.30379",
+      "published_at": "2026-10-23T13:00:00+09:00",
+      "summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-horizon planners is costly and prone to hallucinated or invalid actions. This paper targets a different role for LLMs: constrained bridges between language and symbolic planning. We propose MemPlan, a memory-conditioned PDDL planning framework for partially observable interactive text environments. MemPlan keeps the PDDL domain fixed and reconstructs the PDDL problem at each s…",
+      "category_score": 51,
+      "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "agent",
+        "agents",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-…",
+      "importance_reason": "LLM, agent, agents 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "3e89f1ab74065cdc6a11e35523f11758f0cc6d12f256f66419267c5d746014c1",
+      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.30161",
+      "published_at": "2026-10-23T13:00:00+09:00",
+      "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the proce…",
+      "category_score": 53,
+      "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "agent",
+        "agents",
+        "model",
+        "evaluation",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 58,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbot…",
+      "importance_reason": "agent, agents, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published_at": "2026-10-23T07:24:34+09:00",
+      "summary": "",
+      "category_score": 52,
+      "score_reason": "agent, agents, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "agent",
+        "agents",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 agent, agents, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 58,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "importance_reason": "agent, agents, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
+      "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261023161243",
+      "published_at": "2026-10-23T16:12:43+09:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
+      "category_score": 98,
+      "score_reason": "AI 추천, 숏폼, 커넥티드 TV 등 소비자의 제품 발견 경로 변화에 따른 광고 생태계 재편은 플랫폼과 광고 전략의 핵심 트렌드임.",
+      "keywords": [
+        "AI",
+        "광고 생태계",
+        "플랫폼",
+        "소비자 행동"
+      ],
+      "planning_insight": "이 항목은 AI, 광고 생태계, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 55,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기…",
+      "importance_reason": "AI, 광고 생태계, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "0f3d05251e2bfb4810f6e4ef4e52ad32ac7751131250ea40236d78283f9225ad",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published_at": "2026-10-23T09:00:00+09:00",
+      "summary": "",
+      "category_score": 44,
+      "score_reason": "model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "model",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 54,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "Does Your Model Run on AWS Trainium? Look It Up",
+      "importance_reason": "model, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 79,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 23,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 13,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 대화형 도구에서 실제 업무를 수행하는 '에이전트' 및 '하드웨어 연동형(피지컬 AI)'으로 진화하며 실질적 효율화 단계에 진입했습니다.",
+    "광고 및 콘텐츠 소비 방식은 소비자의 복잡한 구매 여정과 정보 탐색 깊이에 최적화된 초개인화 인터페이스로 이동하고 있습니다.",
+    "오픈AI의 구독 모델 확장처럼 기업들은 독자적인 기술 생태계를 구축하여 외부 플랫폼과 데이터를 결합하는 비용 효율적 비즈니스 전략에 집중하고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}
