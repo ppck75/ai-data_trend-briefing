@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-25T09:28:52.014571+09:00",
+  "updated_at": "2026-10-25T17:39:07.487047+09:00",
   "archives": [
+    {
+      "id": "2026-10-25_17-35",
+      "date": "2026-10-25",
+      "time": "17:35",
+      "label": "2026-10-25 17:35",
+      "generated_at": "2026-10-25T17:38:40.285026+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "분석",
+        "플랫폼",
+        "UI"
+      ],
+      "integrated_titles": [
+        "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+        "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+        "오픈AI, 개발자 AI 비용 부담 낮춘다…챗GPT 유료 혜택 외부 앱으로 확대",
+        "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+      ],
+      "path_json": "archive/2026-10-25/17-35.json",
+      "path_md": "archive/2026-10-25/17-35.md"
+    },
     {
       "id": "2026-10-25_09-27",
       "date": "2026-10-25",
