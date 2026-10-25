@@ -1,0 +1,470 @@
+{
+  "briefing_date": "2026-10-25",
+  "generated_at": "2026-10-25T22:18:40.733906+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 1,
+    "ai_data": 14
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "68dcf53120aabf3d1213b28a63bdf6a9411bcc5ec8627a1c7cbffe90ea368601",
+        "title": "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261024132650",
+        "published_at": "2026-10-25T09:30:35+09:00",
+        "summary": "[지디넷코리아]SK텔레콤이 2300만 가입자와 통신 네트워크, AI 서비스, AI 데이터센터(AIDC)를 연결하는 '토큰 게이트웨이'를 새로운 성장 사업으로 낙점했다. AI 모델 자체의 성능 경쟁을 넘어 고객에게 적합한 모델을 공급하고 사용량과 비용까지 관리하는 시장을 선점하겠다는 구상이다.정재헌 SK텔레콤 CEO는 지난 8일 서울 을지로 T타워에서 열린 임직원 대상 타운홀에서 “AI 경쟁의 축이 모델과 인프라를 넘어 토큰을 안정적으로 생성 공급 활용하는 생태계로 확대되고 있다”며 “통신과 AI 역량을 응집해온 SKT에는 새로운 성장 기회”라고 밝혔다.토큰은 생성형 AI가 텍스트와 데이터를 처리하는 기본 단위로, AI 이용량과 비용을 산정하는 기준이 된다. 고성능 AI 모델이 다양해지면서 모든 작업에 동일한 모델을 사용하기보다 업무 특성에 맞춰 모델을 선택하고 토큰 비용을 최적화하는 것이 중요해지고 있다.SK텔레콤은 통신사가 확보한 대규모 고객 접점과 인증, 결제, 과금 체계에 주…",
+        "category_score": 98,
+        "score_reason": "AI 모델 경쟁을 넘어 '토큰 기반 생태계'라는 새로운 비즈니스 패러다임을 제시하며, 플랫폼 전략의 핵심 변화 신호를 포착함.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "SKT"
+        ],
+        "planning_insight": "AI 모델 자체의 성능을 넘어, AI 사용량과 비용을 최적화하는 '토큰 경제' 모델을 콘텐츠 유통 및 서비스 기획에 도입할 필요가 있음."
+      },
+      {
+        "rank": 2,
+        "id": "efa6c5c626d87ef2137f91a7fe4922ceb6602723a14d69b76f1a6a14208a70fa",
+        "title": "오픈AI '닷츠' vs 앤트로픽 '듀엣'…내 일 맡길 AI 비서는",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261025111619",
+        "published_at": "2026-10-25T13:48:51+09:00",
+        "summary": "[지디넷코리아]퇴근길에도 내일 할 일이 머릿속을 맴돈다면 휴대전화로 일을 시킬 수 있는 인공지능(AI) 비서를 두면 어떨까.오픈AI와 앤트로픽이 사용자가 자리를 비운 동안에도 업무를 처리하는 AI 비서를 잇달아 선보였다. 오픈AI는 지난달 29일 '닷츠'를 공개했고 앤트로픽은 지난 21일(현지시간) '클로드 듀엣'을 시험 공개했다.김경훈 오픈AI코리아 대표는 지난 22일 '오픈AI 데브데이 익스체인지: 서울'에서 한국이 닷츠 주간 활성 이용자 수 기준 세계 3위라고 밝혔다. 공개한 지 한 달도 지나지 않아 한국이 주요 이용 국가에 이름을 올렸다.두 서비스 모두 자료를 조사하고 문서와 발표 자료, 웹 프로그램을 만든다. 이메일과 캘린더 등 앱을 연결하면 그 안에 담긴 정보를 참고하고 이전에 알려준 내용도 활용한다. 일을 맡길 때마다 같은 설명을 반복하는 수고를 줄여준다. 별도 클라우드 컴퓨터에서 작업하므로 개인 노트북을 덮어도 맡긴 일을 이어간다.비서를 부르고 작업을 확인하는 방법은…",
+        "category_score": 95,
+        "score_reason": "사용자를 대신해 업무를 처리하는 'AI 에이전트' 시대로의 급격한 전환을 보여주며, 생산성 도구 시장의 큰 변화를 예고함.",
+        "keywords": [
+          "AI",
+          "AI 에이전트",
+          "생산성"
+        ],
+        "planning_insight": "AI가 단순 정보 제공을 넘어 실행 주체가 되는 상황에서, 이용자의 업무 프로세스 전반을 자동화해주는 큐레이션 및 워크플로우 콘텐츠 수요가 급증할 것임."
+      },
+      {
+        "rank": 3,
+        "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
+        "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261023161243",
+        "published_at": "2026-10-23T16:12:43+09:00",
+        "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
+        "category_score": 92,
+        "score_reason": "소비자의 제품 발견 경로가 숏폼, 커넥티드 TV, AI 추천 등으로 다변화됨을 지적하며, 광고 생태계의 구조적 변화를 시사함.",
+        "keywords": [
+          "AI",
+          "광고",
+          "커머스"
+        ],
+        "planning_insight": "파편화된 고객 접점을 통합 관리하고 소비자 발견 경로를 추적하는 AI 광고 솔루션 기반의 콘텐츠 마케팅 전략이 필수적임."
+      },
+      {
+        "rank": 4,
+        "id": "bc18e04f71361a7f1a363ad597dddd9d04f0397bd27fffc2c76b7706db85b1e9",
+        "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…\"국산화 노력 수혜\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261024160155",
+        "published_at": "2026-10-24T22:00:03+09:00",
+        "summary": "[지디넷코리아]중국 인공지능(AI) 반도체 팹리스 캠브리콘 3분기 매출이 급등했다고 사우스차이나모닝포스트(SCMP) 등이 23일(현지시간) 보도했다. 캠브리콘의 3분기 매출은 35억 3000만위안(약 6900억원)으로 전년 동기 대비 105% 뛰었다. 순이익은 148% 증가한 14억위안(2700억원)이다.캠브리콘은 지난 2016년 설립된 팹리스다. '중국판 엔비디아'로 불린다. AI 데이터센터와 에지 AI용 프로세서 'MLU' 시리즈를 개발해 왔다. 화웨이와 알리바바 등 현지 대형 IT 기업이 고객사다. 캠브리콘의 매출 급등은 AI 인프라 투자 확대와 더불어, 엔비디아 칩을 자국산 제품으로 대체하려는 중국 정부 노력의 결과다. SCMP는 \"캠브리콘 2분기 매출은 전년 동기 대비 76% 증가했는데, 3분기 성장세는 이보다 가팔랐다\"며 \"자립 가능한 AI 컴퓨팅 생태계를 개발하려는 중국 정부 전략에 힘입은 결과\"라고 평가했다. 올해 연간으로도 높은 성장세가 예상된다. 캠브리콘은 올해…",
+        "category_score": 89,
+        "score_reason": "글로벌 AI 반도체 자급화와 인프라 투자 확대라는 거시적 시장 흐름을 반영하며, 엔비디아 의존도 완화라는 트렌드 확장을 보여줌.",
+        "keywords": [
+          "AI",
+          "반도체",
+          "인프라"
+        ],
+        "planning_insight": "AI 하드웨어의 자급화 트렌드는 향후 서비스 영역에도 적용될 것임. 특정 빅테크에 의존하지 않는 '소버린 AI' 서비스 기획에 주목해야 함."
+      },
+      {
+        "rank": 5,
+        "id": "7786b221381efb1cc836623ef46038ba5ad2eacc79dcde4d51ca872c2436a067",
+        "title": "가상공간서 땅 파며 학습…HD현대, 무인 굴착기 개발 속도",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261025170107",
+        "published_at": "2026-10-25T17:01:07+09:00",
+        "summary": "[지디넷코리아]HD현대사이트솔루션이 가상공간에서 장비 움직임과 흙의 반응을 재현해 무인 굴착기 개발 속도를 높인다.HD현대사이트솔루션은 산업통상부 '인공지능(AI) 무인 자율 굴착기 개발을 위한 고정밀 시뮬레이션 기반 디지털 트윈 플랫폼 개발' 국책과제 사업자로 선정됐다고 25일 밝혔다.과제는 총사업비 63억 3000만원 규모로 2029년 12월까지 진행된다. HD현대사이트솔루션과 심지, 한국건설기계연구원, 한국생산기술연구원, 한국건설기계산업협회가 컨소시엄으로 참여한다.개발 목표는 건설장비 설계와 AI 학습, 자율작업 성능 검증을 지원하는 가상환경 플랫폼이다. 굴착기뿐 아니라 휠로더와 굴절식 덤프트럭 등 주요 장비를 대상으로 한다.플랫폼에는 유압장치와 동력전달계통의 작동, 여러 부품이 연결돼 움직이는 방식 등을 구현한다. 장비가 땅을 파거나 흙을 옮길 때 발생하는 장비와 토사의 물리적 상호작용도 재현할 계획이다.실제 건설 현장에서는 장비 확보와 작업환경, 안전 문제 등으로 다양한…",
+        "category_score": 86,
+        "score_reason": "가상환경(디지털 트윈)을 활용한 AI 학습 방식이 전통 제조 산업으로 확산되고 있음을 보여주며, 산업 트렌드로서 확장성이 매우 높음.",
+        "keywords": [
+          "AI",
+          "디지털 트윈",
+          "피지컬 AI"
+        ],
+        "planning_insight": "시뮬레이션 기반의 AI 학습 데이터는 신사업 검증에 중요한 콘텐츠임. 전통 산업의 AI 전환 과정을 리포트나 인사이트 콘텐츠로 구조화하는 가치가 큼."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "c49eb3100ce529c6a1490af43eb12e5097a60d41435676e413beca0ed6608a78",
+        "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/dataops-log-definition-skill",
+        "published_at": "2026-10-23T10:53:00+09:00",
+        "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
+        "category_score": 95,
+        "score_reason": "데이터 거버넌스 문제를 AI 도구로 해결하여 전사적인 데이터 활용 효율을 극대화한 사례로, 서비스 기획 및 데이터 인프라 운영 측면에서 높은 전략적 가치를 가짐.",
+        "keywords": [
+          "데이터 거버넌스",
+          "AI",
+          "로그 정의",
+          "데이터 품질"
+        ],
+        "planning_insight": "데이터 정의를 자동화하고 규격화하는 시스템은 파편화된 데이터를 통합하고 서비스 기획의 의사결정 속도를 높이는 핵심 콘텐츠 기반 인프라가 됨."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "published_at": "2026-10-23T07:24:34+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "RLHF를 통한 에이전트 강화학습 최적화는 기획자가 지향하는 고도화된 자동화 프로세스의 핵심입니다. 데이터베이스 피드백을 보상으로 전환하는 방식은 콘텐츠 추천 및 자동화 시스템 구축에 즉각적인 방법론을 제시합니다.",
+        "keywords": [
+          "에이전트",
+          "강화학습",
+          "자동화"
+        ],
+        "planning_insight": "AI 에이전트의 품질을 데이터 기반으로 정량화하고, 피드백 루프를 통해 지속적으로 성능을 개선하는 운영 체계를 구축할 수 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "e094bd12e039d0cad4aecf5fe878410ffb8f929f486e45d9fded56cef910c7ec",
+        "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30379",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30379v1 Announce Type: new Abstract: LLM agents are flexible in language interaction, but using them as long-horizon planners is costly and prone to hallucinated or invalid actions. This paper targets a different role for LLMs: constrained bridges between language and symbolic planning. We propose MemPlan, a memory-conditioned PDDL planning framework for partially observable interactive text environments. MemPlan keeps the PDDL domain fixed and reconstructs the PDDL problem at each s…",
+        "category_score": 95,
+        "score_reason": "LLM 에이전트의 환각 문제를 완화하는 기획적 접근을 다룹니다. 언어 모델과 기호적 계획(Symbolic Planning)을 연결하여 복잡한 태스크를 안정적으로 수행하게 하는 기술은 기업용 서비스 기획에 매우 중요합니다.",
+        "keywords": [
+          "LLM 에이전트",
+          "플래닝",
+          "환각제거"
+        ],
+        "planning_insight": "LLM 기반 자동화 서비스 설계 시 논리적 오류를 줄이기 위해 언어 모델 외부의 구조화된 제약 조건을 연동하는 하이브리드 설계가 필수적입니다."
+      },
+      {
+        "rank": 3,
+        "id": "db9277664df9d5299e26ff84de310356dba377dd2ba4dd60c7a277694079b032",
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "published_at": "2026-10-24T01:15:50+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "방대한 문헌 데이터를 동적으로 맥락화하여 기획 아이디어를 도출하는 도구입니다. 콘텐츠 전략 기획 단계에서 리서치 업무를 자동화하고 인사이트를 추출하는 데 직접적으로 활용 가능합니다.",
+        "keywords": [
+          "데이터 분석",
+          "콘텐츠 전략",
+          "지식 관리"
+        ],
+        "planning_insight": "복잡한 파편적 데이터를 실시간으로 맥락화하여 콘텐츠 기획의 논리적 근거를 자동으로 생성하는 환경을 구축하는 데 활용할 수 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "c4c012b8b7455d3bef532269e8cded5efa431aea42807a75072f4f2bda05a3b0",
+        "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30355",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteResolve, a benchmark of 423 real-world hallucinated citations annotated for source recoverability. We f…",
+        "category_score": 88,
+        "score_reason": "RAG 기반 콘텐츠 생성의 신뢰성을 확보하기 위한 핵심 기술입니다. 생성된 콘텐츠의 출처 확인 및 환각 탐지는 신뢰도 높은 자동화 콘텐츠 서비스 운영을 위해 필수적인 요소입니다.",
+        "keywords": [
+          "RAG",
+          "환각 탐지",
+          "신뢰성"
+        ],
+        "planning_insight": "AI 자동 콘텐츠 생성 서비스를 기획할 때, 정보의 출처(Citation)를 명확히 하고 이를 사후 검증하는 파이프라인 설계는 서비스 신뢰도의 성패를 결정합니다."
+      },
+      {
+        "rank": 5,
+        "id": "3e89f1ab74065cdc6a11e35523f11758f0cc6d12f256f66419267c5d746014c1",
+        "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.30161",
+        "published_at": "2026-10-23T13:00:00+09:00",
+        "summary": "arXiv:2610.30161v1 Announce Type: new Abstract: Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they give correct information and follow the bank's rules. These rules prescribe a procedure, a set of required steps, such as obtaining a closure quote before closing a deposit. Adapting models to this domain requires measuring how well they follow the proce…",
+        "category_score": 85,
+        "score_reason": "절차 중심의 에이전트 평가 프레임워크를 제공합니다. 비즈니스 룰을 따르는 챗봇 설계 시 기획자가 의도한 시나리오대로 AI가 동작하는지 검증하는 구체적인 가이드를 제공합니다.",
+        "keywords": [
+          "에이전트",
+          "평가",
+          "비즈니스 룰"
+        ],
+        "planning_insight": "자유로운 생성형 AI 모델에 비즈니스 규칙(Compliance/Rule)을 강제하고 이를 평가하여, 실제 서비스 투입 가능한 수준의 봇을 설계하는 데 유용합니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "efa6c5c626d87ef2137f91a7fe4922ceb6602723a14d69b76f1a6a14208a70fa",
+      "title": "오픈AI '닷츠' vs 앤트로픽 '듀엣'…내 일 맡길 AI 비서는",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261025111619",
+      "published_at": "2026-10-25T13:48:51+09:00",
+      "summary": "[지디넷코리아]퇴근길에도 내일 할 일이 머릿속을 맴돈다면 휴대전화로 일을 시킬 수 있는 인공지능(AI) 비서를 두면 어떨까.오픈AI와 앤트로픽이 사용자가 자리를 비운 동안에도 업무를 처리하는 AI 비서를 잇달아 선보였다. 오픈AI는 지난달 29일 '닷츠'를 공개했고 앤트로픽은 지난 21일(현지시간) '클로드 듀엣'을 시험 공개했다.김경훈 오픈AI코리아 대표는 지난 22일 '오픈AI 데브데이 익스체인지: 서울'에서 한국이 닷츠 주간 활성 이용자 수 기준 세계 3위라고 밝혔다. 공개한 지 한 달도 지나지 않아 한국이 주요 이용 국가에 이름을 올렸다.두 서비스 모두 자료를 조사하고 문서와 발표 자료, 웹 프로그램을 만든다. 이메일과 캘린더 등 앱을 연결하면 그 안에 담긴 정보를 참고하고 이전에 알려준 내용도 활용한다. 일을 맡길 때마다 같은 설명을 반복하는 수고를 줄여준다. 별도 클라우드 컴퓨터에서 작업하므로 개인 노트북을 덮어도 맡긴 일을 이어간다.비서를 부르고 작업을 확인하는 방법은…",
+      "category_score": 95,
+      "score_reason": "사용자를 대신해 업무를 처리하는 'AI 에이전트' 시대로의 급격한 전환을 보여주며, 생산성 도구 시장의 큰 변화를 예고함.",
+      "keywords": [
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "생산성"
+      ],
+      "planning_insight": "개별 콘텐츠 제공을 넘어 이용자의 업무 여정을 돕는 '워크플로우 기반 콘텐츠' 및 '에이전트 맞춤형 큐레이션' 설계로 전략 수정 필요.",
+      "integrated_score": 97,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "오픈AI와 앤트로픽의 업무 자동화 AI 비서 경쟁 본격화",
+      "importance_reason": "AI가 단순 정보 제공에서 '실행 주체(Agent)'로 진화하며 콘텐츠와 서비스의 이용 방식을 근본적으로 재편하고 있음."
+    },
+    {
+      "rank": 2,
+      "id": "68dcf53120aabf3d1213b28a63bdf6a9411bcc5ec8627a1c7cbffe90ea368601",
+      "title": "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261024132650",
+      "published_at": "2026-10-25T09:30:35+09:00",
+      "summary": "[지디넷코리아]SK텔레콤이 2300만 가입자와 통신 네트워크, AI 서비스, AI 데이터센터(AIDC)를 연결하는 '토큰 게이트웨이'를 새로운 성장 사업으로 낙점했다. AI 모델 자체의 성능 경쟁을 넘어 고객에게 적합한 모델을 공급하고 사용량과 비용까지 관리하는 시장을 선점하겠다는 구상이다.정재헌 SK텔레콤 CEO는 지난 8일 서울 을지로 T타워에서 열린 임직원 대상 타운홀에서 “AI 경쟁의 축이 모델과 인프라를 넘어 토큰을 안정적으로 생성 공급 활용하는 생태계로 확대되고 있다”며 “통신과 AI 역량을 응집해온 SKT에는 새로운 성장 기회”라고 밝혔다.토큰은 생성형 AI가 텍스트와 데이터를 처리하는 기본 단위로, AI 이용량과 비용을 산정하는 기준이 된다. 고성능 AI 모델이 다양해지면서 모든 작업에 동일한 모델을 사용하기보다 업무 특성에 맞춰 모델을 선택하고 토큰 비용을 최적화하는 것이 중요해지고 있다.SK텔레콤은 통신사가 확보한 대규모 고객 접점과 인증, 결제, 과금 체계에 주…",
+      "category_score": 98,
+      "score_reason": "AI 모델 경쟁을 넘어 '토큰 기반 생태계'라는 새로운 비즈니스 패러다임을 제시하며, 플랫폼 전략의 핵심 변화 신호를 포착함.",
+      "keywords": [
+        "토큰 경제",
+        "AI 비용 최적화",
+        "플랫폼 전략"
+      ],
+      "planning_insight": "AI 기반 서비스 기획 시 모델의 성능만큼이나 '토큰 효율성'과 '비용 최적화'를 고려한 최적 모델 매칭 전략이 필수적임.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "SKT가 주목한 '토큰 게이트웨이', AI 비즈니스 생태계의 핵심 지표로 부상",
+      "importance_reason": "AI 서비스의 핵심 원가 구조인 '토큰'을 제어하는 플랫폼이 향후 비즈니스 가치를 결정짓는 신호탄이 됨."
+    },
+    {
+      "rank": 3,
+      "id": "c49eb3100ce529c6a1490af43eb12e5097a60d41435676e413beca0ed6608a78",
+      "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/dataops-log-definition-skill",
+      "published_at": "2026-10-23T10:53:00+09:00",
+      "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
+      "category_score": 95,
+      "score_reason": "데이터 거버넌스 문제를 AI 도구로 해결하여 전사적인 데이터 활용 효율을 극대화한 사례로, 서비스 기획 및 데이터 인프라 운영 측면에서 높은 전략적 가치를 가짐.",
+      "keywords": [
+        "데이터 거버넌스",
+        "로그 표준화",
+        "사내 AI 도구"
+      ],
+      "planning_insight": "콘텐츠 기획자가 데이터를 다룰 때 겪는 정의의 모호함을 AI로 자동화하여 실무 데이터 분석의 진입장벽을 낮추는 내부 도구로 활용 가능.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "토스의 'AI 기반 로그 정의 자동화'로 살펴본 전사적 데이터 품질 관리",
+      "importance_reason": "데이터 기반 의사결정을 저해하는 '데이터 파편화' 문제를 AI가 어떻게 실질적으로 해결할 수 있는지 보여주는 모범 사례."
+    },
+    {
+      "rank": 4,
+      "id": "0729b929825aabfdba0fb1ca5360368722236c82df769e3408bf536edf924a73",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published_at": "2026-10-23T07:24:34+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "RLHF를 통한 에이전트 강화학습 최적화는 기획자가 지향하는 고도화된 자동화 프로세스의 핵심입니다. 데이터베이스 피드백을 보상으로 전환하는 방식은 콘텐츠 추천 및 자동화 시스템 구축에 즉각적인 방법론을 제시합니다.",
+      "keywords": [
+        "강화학습",
+        "피드백 루프",
+        "에이전트 고도화"
+      ],
+      "planning_insight": "고객 반응(좋아요, 클릭 등)을 AI 학습의 보상값으로 연결하여 콘텐츠 자동 추천 시스템의 개인화 정밀도를 높이는 전략으로 응용 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "데이터베이스 피드백을 강화학습 보상으로 활용하는 에이전트 최적화 방법론",
+      "importance_reason": "AI 모델이 비즈니스 환경에서 더 정교한 답변을 내놓게 하기 위한 기술적 루프를 구체적으로 제시함."
+    },
+    {
+      "rank": 5,
+      "id": "702a9ecd5db6e537eabdcc54c607889997e09e03a54aadea61e752fdb29fbf20",
+      "title": "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261023161243",
+      "published_at": "2026-10-23T16:12:43+09:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆몰로코가 제시한 AI 시대 광고 생태계는몰로코가 내달 5일 서울 광진구 파이팩토리 스튜디오에서 연례 플래그십 행사 '몰로콘 26'을 개최하고 참가 신청을 받는다.몰로코는 AI 추천과 검색, 숏폼, 커넥티드 TV, 커머스 플랫폼으로 소비자가 제품을 발견하는 경로가 갈수록 다양해지고 있다고 본다. 이에 따라 필요한 순간에 적합한 고객에게 도달하고 이를 성과로 연결하는 일이 마케터의 핵심 과제가 됐다. 몰로코는 앱 광고와 커넥티드 TV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러의 성장을 지원하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 '성장, 그…",
+      "category_score": 92,
+      "score_reason": "소비자의 제품 발견 경로가 숏폼, 커넥티드 TV, AI 추천 등으로 다변화됨을 지적하며, 광고 생태계의 구조적 변화를 시사함.",
+      "keywords": [
+        "광고 기술",
+        "커머스 발견 경로",
+        "멀티 채널 마케팅"
+      ],
+      "planning_insight": "단순 노출 중심 광고에서 벗어나, 소비자의 발견 경로(숏폼, 검색, 커머스)를 통합 분석하여 성과를 최적화하는 AI 광고 솔루션 도입이 시급함.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "숏폼과 AI 추천으로 파편화된 소비자 접점, 광고 생태계의 재편 흐름",
+      "importance_reason": "소비자가 제품을 발견하는 경로가 급변함에 따라 마케터가 대응해야 할 데이터·콘텐츠 전략의 방향을 명확히 함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 76,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 11,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트의 실무 투입이 가속화되며 업무 프로세스 자동화가 마케팅 및 운영의 핵심 화두로 부상함.",
+    "기술 경쟁을 넘어 비용 효율성(토큰 최적화)과 신뢰성(환각제거) 확보가 서비스 상용화의 결정적 요인으로 자리 잡음.",
+    "데이터 거버넌스 및 파편화된 마케팅 채널의 통합 관리를 위해 AI 솔루션 활용이 필수적인 생존 전략이 되고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

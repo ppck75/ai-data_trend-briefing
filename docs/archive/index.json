@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-25T17:39:07.487047+09:00",
+  "updated_at": "2026-10-25T22:18:52.949637+09:00",
   "archives": [
+    {
+      "id": "2026-10-25_22-18",
+      "date": "2026-10-25",
+      "time": "22:18",
+      "label": "2026-10-25 22:18",
+      "generated_at": "2026-10-25T22:18:40.733906+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "오픈AI '닷츠' vs 앤트로픽 '듀엣'…내 일 맡길 AI 비서는",
+        "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+        "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "[ZD SW 투데이] 몰로코가 제시한 AI 시대 광고 생태계는 外"
+      ],
+      "path_json": "archive/2026-10-25/22-18.json",
+      "path_md": "archive/2026-10-25/22-18.md"
+    },
     {
       "id": "2026-10-25_17-35",
       "date": "2026-10-25",
