@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-26T09:36:23.785378+09:00",
+  "updated_at": "2026-10-26T18:16:05.780411+09:00",
   "archives": [
+    {
+      "id": "2026-10-26_17-35",
+      "date": "2026-10-26",
+      "time": "17:35",
+      "label": "2026-10-26 17:35",
+      "generated_at": "2026-10-26T18:15:38.383548+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "콘텐츠",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "\"기업 내 흩어진 업무, AI가 통합하고 수행\"…조호, 에이전틱 AI 전략 제시",
+        "AI 에이전트 위협 5계층 통제 모델 제안",
+        "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+        "최고 품질 책임지는 ‘AI 에이전시’… 광고 콘텐츠 시장 패러다임 바꾼다"
+      ],
+      "path_json": "archive/2026-10-26/17-35.json",
+      "path_md": "archive/2026-10-26/17-35.md"
+    },
     {
       "id": "2026-10-26_09-36",
       "date": "2026-10-26",

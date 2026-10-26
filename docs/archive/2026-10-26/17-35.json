@@ -1,0 +1,447 @@
+{
+  "briefing_date": "2026-10-26",
+  "generated_at": "2026-10-26T18:15:38.383548+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 189,
+    "tech_blog": 0,
+    "ai_data": 11
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "425d5f88a4fc763ba71376b66d05ee052466c91d20f00a8ed8c6d2c0eecb6851",
+        "title": "\"기업 내 흩어진 업무, AI가 통합하고 수행\"…조호, 에이전틱 AI 전략 제시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261026121127",
+        "published_at": "2026-10-26T14:12:44+09:00",
+        "summary": "[지디넷코리아]기업 곳곳에 흩어진 업무와 데이터를 인공지능(AI)이 하나로 묶어 처리하는 업무 생산성 전략이 제시됐다. 여러 애플리케이션에 파편화된 데이터를 연결해 AI가 업무 맥락을 이해하고 반복 업무를 직접 수행하도록 하는 것이 핵심이다.조호(Zoho)는 26일 서울에서 미디어 라운드테이블을 열고 에이전틱 AI 전략을 공개했다. 인도 첸나이에 본사를 둔 조호는 1996년 네트워크 장비용 소프트웨어 개발사로 출발해 CRM, 협업, 회계, 인사 등 60개 이상의 업무용 애플리케이션을 제공하고 있다. 최근에는 이들 애플리케이션을 AI로 연결하는 업무 통합·자동화로 사업을 넓히고 있다.지부 매튜 조호 아시아태평양 지역 총괄은 기업 AI 도입을 가로막는 요인으로 분산된 업무 환경을 꼽았다. 업무 데이터가 고객 관계 관리(CRM), 회계, 문서 등 여러 애플리케이션에 나뉘어 있으면 AI가 업무 맥락을 파악하기 어렵다는 것이다.지부 매튜 총괄은 \"AI와 LLM은 주어진 맥락만큼만 똑똑해지지…",
+        "category_score": 96,
+        "score_reason": "파편화된 기업 업무를 AI 에이전트가 통합·자동화하는 '에이전틱 AI'는 단순한 기술 도입을 넘어 B2B SaaS 및 업무 생산성 시장의 근본적인 패러다임 변화를 예고하는 핵심 신호입니다.",
+        "keywords": [
+          "AI 에이전트",
+          "업무 통합",
+          "생산성"
+        ],
+        "planning_insight": "개별 툴 위주의 콘텐츠에서 '워크플로우 자동화 중심'의 통합적 솔루션 콘텐츠로 전략 전환 필요"
+      },
+      {
+        "rank": 2,
+        "id": "ecb01f20301e20859364a534c341a394767a9b00ce068e4210512fab8a3e39a6",
+        "title": "SKT, AI에이전트도 통제...개발부터 폐기까지 관리 강화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261026090016",
+        "published_at": "2026-10-26T09:00:16+09:00",
+        "summary": "[지디넷코리아]SK텔레콤이 AI 에이전트 개발부터 운영, 종료까지 전 과정을 관리하는 책임체계를 강화한다. AI가 스스로 판단하고 업무를 수행하는 환경에 맞춰 개인정보 보호와 위험 관리를 통합하고, 기술의 안전성과 신뢰성을 확보하겠다는 구상이다.SK텔레콤은 26일 AI 거버넌스 원칙과 책임체계, 실행 방안 및 성과를 담은 'AI 거버넌스 리포트'를 발간했다고 밝혔다. 리포트는 단순한 윤리 원칙 선언을 넘어 실제 서비스와 사내 업무에 적용하는 관리 기준을 구체화한 것이 핵심이다.특히 AI가 자율적으로 업무를 수행하는 과정에서 발생할 수 있는 위험을 관리하는 데 초점을 맞췄다. 사내 AI 에이전트 개발과 테스트, 운영, 종료 등 전 과정에 일관된 관리 기준을 적용하고 책임 있는 활용을 위한 가이드라인을 제시했다.개인정보 보호도 AI 관리체계의 핵심 기준으로 삼았다. 최고개인정보보호책임자(CPO)가 개인정보 보호와 AI 거버넌스를 통합 관리하며, 서비스 기획 단계부터 개인정보 보호를 설…",
+        "category_score": 94,
+        "score_reason": "AI의 자율성이 높아짐에 따라 개발부터 폐기까지 관리하는 'AI 거버넌스'는 기업의 필수 생존 전략으로 부상하고 있으며, 표준화된 가이드라인 요구가 지속될 트렌드입니다.",
+        "keywords": [
+          "AI 거버넌스",
+          "책임체계",
+          "리스크 관리"
+        ],
+        "planning_insight": "AI 도입을 고민하는 기업들을 타겟으로 한 '신뢰 가능한 AI(Responsible AI)' 구축 가이드 콘텐츠 기획"
+      },
+      {
+        "rank": 3,
+        "id": "6a0f540c736217f8cadd235091db5e04f866690d7a68de6c5793927b820a9e7d",
+        "title": "AI 에이전트 위협 5계층 통제 모델 제안",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261026083940",
+        "published_at": "2026-10-26T13:52:19+09:00",
+        "summary": "[지디넷코리아]국제사이버보안인증협회(CSC) 연구진이 인공지능(AI) 에이전트의 악성 지시 오인과 과도한 권한이 겹친 위협을 단계적 보안 통제 모델로 끊는 방안을 제안했다. 이 모델은 외부 데이터에 숨은 악성 지시를 업무 지시로 오인하는 '간접 프롬프트 인젝션' 공격을 완벽히 걸러내기는 불가능하다는 전제에서 출발한다. 대신 컨텍스트 오염이 실제 권한을 가진 실행으로 전환되는 지점을 단계별로 차단해 피해를 최소화하는 방식이다.CSC와 한국인터넷정보학회가 공동 운영하는 '인공지능 사이버보안 연구회'는 23일 강원 강릉시 세인트존스 호텔에서 열린 2026년도 추계학술발표대회에서 인공지능 사이버보안 특별세션을 운영, 13명이 이 같은 내용의 논문을 발표했다고 26일 밝혔다.남혁우 CSC 이사는 'AI 에이전트 환경에서의 과도한 권한 및 간접 프롬프트 인젝션 위협 대응 방안'을 발표했다. AI 에이전트가 이메일, 웹 문서, 검색증강생성(RAG) 등 외부 데이터에 숨은 악성 지시를 업무 지시…",
+        "category_score": 92,
+        "score_reason": "AI 에이전트 확산의 이면에는 '간접 프롬프트 인젝션'과 같은 보안 위협이 필연적으로 동반됩니다. 이는 보안이 AI 생태계의 성숙도를 결정짓는 가장 중요한 관문임을 시사합니다.",
+        "keywords": [
+          "AI 보안",
+          "프롬프트 인젝션",
+          "보안 통제 모델"
+        ],
+        "planning_insight": "AI 활용의 부작용을 예방하고 안전한 사용 환경을 강조하는 교육적 차원의 콘텐츠 강화"
+      },
+      {
+        "rank": 4,
+        "id": "68dcf53120aabf3d1213b28a63bdf6a9411bcc5ec8627a1c7cbffe90ea368601",
+        "title": "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261024132650",
+        "published_at": "2026-10-25T09:30:35+09:00",
+        "summary": "[지디넷코리아]SK텔레콤이 2300만 가입자와 통신 네트워크, AI 서비스, AI 데이터센터(AIDC)를 연결하는 '토큰 게이트웨이'를 새로운 성장 사업으로 낙점했다. AI 모델 자체의 성능 경쟁을 넘어 고객에게 적합한 모델을 공급하고 사용량과 비용까지 관리하는 시장을 선점하겠다는 구상이다.정재헌 SK텔레콤 CEO는 지난 8일 서울 을지로 T타워에서 열린 임직원 대상 타운홀에서 “AI 경쟁의 축이 모델과 인프라를 넘어 토큰을 안정적으로 생성 공급 활용하는 생태계로 확대되고 있다”며 “통신과 AI 역량을 응집해온 SKT에는 새로운 성장 기회”라고 밝혔다.토큰은 생성형 AI가 텍스트와 데이터를 처리하는 기본 단위로, AI 이용량과 비용을 산정하는 기준이 된다. 고성능 AI 모델이 다양해지면서 모든 작업에 동일한 모델을 사용하기보다 업무 특성에 맞춰 모델을 선택하고 토큰 비용을 최적화하는 것이 중요해지고 있다.SK텔레콤은 통신사가 확보한 대규모 고객 접점과 인증, 결제, 과금 체계에 주…",
+        "category_score": 90,
+        "score_reason": "AI 모델 간 성능 경쟁이 범용화되면서 '토큰 게이트웨이'를 통해 효율적인 모델 공급과 사용량을 관리하는 생태계 선점 경쟁이 새로운 비즈니스 모델로 부상하고 있습니다.",
+        "keywords": [
+          "토큰 게이트웨이",
+          "AI 생태계",
+          "비즈니스 모델"
+        ],
+        "planning_insight": "모델 자체의 소개를 넘어, 기업의 AI 비용 최적화 및 모델 최적화 전략을 다루는 B2B 콘텐츠 발굴"
+      },
+      {
+        "rank": 5,
+        "id": "7023bedf0876aca062d2814b36b70811e126e55a4036ea06b999259e3131b7ee",
+        "title": "최고 품질 책임지는 ‘AI 에이전시’… 광고 콘텐츠 시장 패러다임 바꾼다",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12185765",
+        "published_at": "2026-10-26T14:46:09+09:00",
+        "summary": "[2026 판교 창업존 입주기업 인터뷰 ⑤] 최기문 프롬프트팩토리(Prompt Factory) 대표 핵심 인력으로 대형 프로젝트 소화… B2B 콘텐츠 제작 시장의 하이브리드 혁신 ..",
+        "category_score": 88,
+        "score_reason": "광고 콘텐츠 제작 시장에서 'AI 에이전시'의 등장은 전문 인력과 AI의 하이브리드 조합이 새로운 제작 표준으로 자리 잡고 있음을 보여주는 트렌드입니다.",
+        "keywords": [
+          "AI 에이전시",
+          "광고 콘텐츠",
+          "제작 패러다임"
+        ],
+        "planning_insight": "생성형 AI를 통한 콘텐츠 제작 효율화 사례 연구(Case Study) 중심의 실무 콘텐츠 생산"
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "6a045b52161fbe88eb0d896cdf3662b94b399e4ce43f4648a94e52472d233b0e",
+        "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.31685",
+        "published_at": "2026-10-26T13:00:00+09:00",
+        "summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the error. We address this problem with an agentic framework for traceable multimodal emotion reasoning and p…",
+        "category_score": 95,
+        "score_reason": "에이전트 아키텍처를 통한 멀티모달 감정 추론 및 검증 로직은 고객 경험 개선을 위한 자동화 서비스 기획에 직접적인 방법론을 제시함.",
+        "keywords": [
+          "에이전트",
+          "멀티모달",
+          "자동화"
+        ],
+        "planning_insight": "서비스 기획 시 단순히 LLM을 출력하는 것을 넘어, 에이전트 기반의 검증 단계를 설계하여 콘텐츠의 신뢰도와 사용자 몰입도를 동시에 높이는 전략이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "52a83804eaace8cf0b4c08afe25ce2f25c03d8d64a13c5813815e3897691348f",
+        "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.31684",
+        "published_at": "2026-10-26T13:00:00+09:00",
+        "summary": "arXiv:2610.31684v1 Announce Type: new Abstract: Knowledge Graphs (KGs) have been popularized during the last few decades and are increasingly constructed and consumed by Large Language Models (LLMs). Various applications therefore rely on KGs to provide concise, complete, accurate, faithful, fresh, and traceable answers. However, what is the quality of those KGs? In which cases should a KG be used, and can it be trusted to ground an LLM? How might it be evaluated? We reviewed the literature on…",
+        "category_score": 92,
+        "score_reason": "RAG의 핵심인 지식 그래프(KG) 품질 평가 프레임워크를 다루고 있어, 데이터 기반 콘텐츠 생성 및 답변의 정확성 제고에 필수적임.",
+        "keywords": [
+          "RAG",
+          "지식 그래프",
+          "데이터 품질"
+        ],
+        "planning_insight": "LLM 기반 추천/답변 서비스의 핵심은 데이터 품질임. KG를 구축하거나 활용하는 기획 단계에서 정확성과 추적 가능성을 확보하는 평가 지표 적용이 필수적임."
+      },
+      {
+        "rank": 3,
+        "id": "db9277664df9d5299e26ff84de310356dba377dd2ba4dd60c7a277694079b032",
+        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "published_at": "2026-10-24T01:15:50+09:00",
+        "summary": "",
+        "category_score": 88,
+        "score_reason": "문헌 데이터의 동적 맥락화 기술은 방대한 내부 데이터셋을 활용한 콘텐츠 기획 및 자동화된 시장 분석 도구 구축에 매우 유용함.",
+        "keywords": [
+          "데이터셋",
+          "콘텐츠 분석",
+          "동적 맥락화"
+        ],
+        "planning_insight": "기획자는 축적된 데이터를 정적으로 보지 않고, LLM을 활용해 실시간으로 인사이트를 추출하고 재배치하는 '동적 콘텐츠 파이프라인' 구축을 고려해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "3772c8dcf3675fa59c0546df2a33f5e50019db136b4e2eb6e51702ec7cff8e21",
+        "title": "Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.31681",
+        "published_at": "2026-10-26T13:00:00+09:00",
+        "summary": "arXiv:2610.31681v1 Announce Type: new Abstract: Structured generation is typically formulated as a deterministic mapping from input to a single structured output. This assumption is fundamentally misaligned with natural language, which often admits multiple structurally distinct yet semantically valid interpretations. As a result, existing methods rely on single-reference supervision that collapses ambiguity into one prediction, leading to unstable and inconsistent outputs under underspecified…",
+        "category_score": 85,
+        "score_reason": "구조화된 생성(Structured Generation)에서의 모호성 해결은 데이터 추출 및 폼(Form) 기반 콘텐츠 자동화 품질과 직결됨.",
+        "keywords": [
+          "구조화 생성",
+          "LLM",
+          "데이터 자동화"
+        ],
+        "planning_insight": "단순 텍스트 생성을 넘어 데이터베이스와 연동되는 자동화 콘텐츠를 기획할 때, LLM이 가진 모호성을 해결할 수 있는 구조적 접근법이 필수적임."
+      },
+      {
+        "rank": 5,
+        "id": "b2419c9674a42aa326312af92e26866bbd8f0caf13bc1da827e2034b18f63d1e",
+        "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.31679",
+        "published_at": "2026-10-26T13:00:00+09:00",
+        "summary": "arXiv:2610.31679v1 Announce Type: new Abstract: Large language models are increasingly used as math tutors, raising two questions: can a single LLM detect a student's error, diagnose the underlying misconception, and remediate it through multi-turn dialogue - and can we trust the numbers that report how well it does? We address both with MISCONCEPTDIALOGUE, a fully automated framework that runs the full pipeline on five open-weight LLM tutors (7B-14B) interacting with LLM-simulated students ove…",
+        "category_score": 82,
+        "score_reason": "LLM의 진단 및 대화형 피드백 성능에 대한 평가 기준을 제시하여, 에듀테크나 상담 서비스 등 챗봇 콘텐츠 기획자에게 시사하는 바가 큼.",
+        "keywords": [
+          "평가 기준",
+          "대화형 AI",
+          "서비스 품질"
+        ],
+        "planning_insight": "사용자 맞춤형 대화형 서비스를 기획할 때, 시스템이 제공하는 피드백의 질을 정량적으로 측정할 수 있는 평가 모델을 기획 프로세스에 포함해야 함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "425d5f88a4fc763ba71376b66d05ee052466c91d20f00a8ed8c6d2c0eecb6851",
+      "title": "\"기업 내 흩어진 업무, AI가 통합하고 수행\"…조호, 에이전틱 AI 전략 제시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261026121127",
+      "published_at": "2026-10-26T14:12:44+09:00",
+      "summary": "[지디넷코리아]기업 곳곳에 흩어진 업무와 데이터를 인공지능(AI)이 하나로 묶어 처리하는 업무 생산성 전략이 제시됐다. 여러 애플리케이션에 파편화된 데이터를 연결해 AI가 업무 맥락을 이해하고 반복 업무를 직접 수행하도록 하는 것이 핵심이다.조호(Zoho)는 26일 서울에서 미디어 라운드테이블을 열고 에이전틱 AI 전략을 공개했다. 인도 첸나이에 본사를 둔 조호는 1996년 네트워크 장비용 소프트웨어 개발사로 출발해 CRM, 협업, 회계, 인사 등 60개 이상의 업무용 애플리케이션을 제공하고 있다. 최근에는 이들 애플리케이션을 AI로 연결하는 업무 통합·자동화로 사업을 넓히고 있다.지부 매튜 조호 아시아태평양 지역 총괄은 기업 AI 도입을 가로막는 요인으로 분산된 업무 환경을 꼽았다. 업무 데이터가 고객 관계 관리(CRM), 회계, 문서 등 여러 애플리케이션에 나뉘어 있으면 AI가 업무 맥락을 파악하기 어렵다는 것이다.지부 매튜 총괄은 \"AI와 LLM은 주어진 맥락만큼만 똑똑해지지…",
+      "category_score": 96,
+      "score_reason": "파편화된 기업 업무를 AI 에이전트가 통합·자동화하는 '에이전틱 AI'는 단순한 기술 도입을 넘어 B2B SaaS 및 업무 생산성 시장의 근본적인 패러다임 변화를 예고하는 핵심 신호입니다.",
+      "keywords": [
+        "에이전틱 AI",
+        "업무 통합",
+        "자동화"
+      ],
+      "planning_insight": "개별 솔루션 소개를 넘어, 워크플로우를 자동화하고 최적화하는 '솔루션 통합형 콘텐츠'로의 기획 전략 전환이 필수적입니다.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "기업 업무 데이터를 통합·수행하는 '에이전틱 AI' 시대의 도래",
+      "importance_reason": "AI가 단순 검색을 넘어 실제 업무 흐름을 제어하는 에이전트 단계로 진화하고 있으며, 이는 기업 비즈니스 프로세스 혁신의 핵심 동력이기 때문입니다."
+    },
+    {
+      "rank": 2,
+      "id": "6a0f540c736217f8cadd235091db5e04f866690d7a68de6c5793927b820a9e7d",
+      "title": "AI 에이전트 위협 5계층 통제 모델 제안",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261026083940",
+      "published_at": "2026-10-26T13:52:19+09:00",
+      "summary": "[지디넷코리아]국제사이버보안인증협회(CSC) 연구진이 인공지능(AI) 에이전트의 악성 지시 오인과 과도한 권한이 겹친 위협을 단계적 보안 통제 모델로 끊는 방안을 제안했다. 이 모델은 외부 데이터에 숨은 악성 지시를 업무 지시로 오인하는 '간접 프롬프트 인젝션' 공격을 완벽히 걸러내기는 불가능하다는 전제에서 출발한다. 대신 컨텍스트 오염이 실제 권한을 가진 실행으로 전환되는 지점을 단계별로 차단해 피해를 최소화하는 방식이다.CSC와 한국인터넷정보학회가 공동 운영하는 '인공지능 사이버보안 연구회'는 23일 강원 강릉시 세인트존스 호텔에서 열린 2026년도 추계학술발표대회에서 인공지능 사이버보안 특별세션을 운영, 13명이 이 같은 내용의 논문을 발표했다고 26일 밝혔다.남혁우 CSC 이사는 'AI 에이전트 환경에서의 과도한 권한 및 간접 프롬프트 인젝션 위협 대응 방안'을 발표했다. AI 에이전트가 이메일, 웹 문서, 검색증강생성(RAG) 등 외부 데이터에 숨은 악성 지시를 업무 지시…",
+      "category_score": 92,
+      "score_reason": "AI 에이전트 확산의 이면에는 '간접 프롬프트 인젝션'과 같은 보안 위협이 필연적으로 동반됩니다. 이는 보안이 AI 생태계의 성숙도를 결정짓는 가장 중요한 관문임을 시사합니다.",
+      "keywords": [
+        "AI 보안",
+        "프롬프트 인젝션",
+        "리스크 관리"
+      ],
+      "planning_insight": "콘텐츠 기획자 및 마케터는 AI 도구 활용 시 신뢰성과 안전성을 보장하는 '거버넌스 준수 콘텐츠'를 브랜드 신뢰 지표로 활용해야 합니다.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트의 보안 위협을 방어하는 5계층 통제 모델 제시",
+      "importance_reason": "AI의 자율적 판단이 늘어날수록 '프롬프트 인젝션'과 같은 보안 사고는 마케팅 및 콘텐츠 환경에서 치명적인 리스크가 될 것입니다."
+    },
+    {
+      "rank": 3,
+      "id": "68dcf53120aabf3d1213b28a63bdf6a9411bcc5ec8627a1c7cbffe90ea368601",
+      "title": "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261024132650",
+      "published_at": "2026-10-25T09:30:35+09:00",
+      "summary": "[지디넷코리아]SK텔레콤이 2300만 가입자와 통신 네트워크, AI 서비스, AI 데이터센터(AIDC)를 연결하는 '토큰 게이트웨이'를 새로운 성장 사업으로 낙점했다. AI 모델 자체의 성능 경쟁을 넘어 고객에게 적합한 모델을 공급하고 사용량과 비용까지 관리하는 시장을 선점하겠다는 구상이다.정재헌 SK텔레콤 CEO는 지난 8일 서울 을지로 T타워에서 열린 임직원 대상 타운홀에서 “AI 경쟁의 축이 모델과 인프라를 넘어 토큰을 안정적으로 생성 공급 활용하는 생태계로 확대되고 있다”며 “통신과 AI 역량을 응집해온 SKT에는 새로운 성장 기회”라고 밝혔다.토큰은 생성형 AI가 텍스트와 데이터를 처리하는 기본 단위로, AI 이용량과 비용을 산정하는 기준이 된다. 고성능 AI 모델이 다양해지면서 모든 작업에 동일한 모델을 사용하기보다 업무 특성에 맞춰 모델을 선택하고 토큰 비용을 최적화하는 것이 중요해지고 있다.SK텔레콤은 통신사가 확보한 대규모 고객 접점과 인증, 결제, 과금 체계에 주…",
+      "category_score": 90,
+      "score_reason": "AI 모델 간 성능 경쟁이 범용화되면서 '토큰 게이트웨이'를 통해 효율적인 모델 공급과 사용량을 관리하는 생태계 선점 경쟁이 새로운 비즈니스 모델로 부상하고 있습니다.",
+      "keywords": [
+        "토큰 게이트웨이",
+        "비즈니스 모델",
+        "AI 비용 최적화"
+      ],
+      "planning_insight": "단순 AI 기술 소개를 넘어, 기업이 비용 대비 성능(ROI)을 최적화할 수 있는 데이터 기반 모델 선택 가이드 콘텐츠를 기획하십시오.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 모델 선택과 비용 최적화를 지원하는 '토큰 게이트웨이' 전략 부상",
+      "importance_reason": "모델 성능 평준화 시대에 진입하며, 운영 효율과 비용 관리가 AI 도입 성패를 좌우하는 핵심 비즈니스 요소가 되었습니다."
+    },
+    {
+      "rank": 4,
+      "id": "52a83804eaace8cf0b4c08afe25ce2f25c03d8d64a13c5813815e3897691348f",
+      "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.31684",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "summary": "arXiv:2610.31684v1 Announce Type: new Abstract: Knowledge Graphs (KGs) have been popularized during the last few decades and are increasingly constructed and consumed by Large Language Models (LLMs). Various applications therefore rely on KGs to provide concise, complete, accurate, faithful, fresh, and traceable answers. However, what is the quality of those KGs? In which cases should a KG be used, and can it be trusted to ground an LLM? How might it be evaluated? We reviewed the literature on…",
+      "category_score": 92,
+      "score_reason": "RAG의 핵심인 지식 그래프(KG) 품질 평가 프레임워크를 다루고 있어, 데이터 기반 콘텐츠 생성 및 답변의 정확성 제고에 필수적임.",
+      "keywords": [
+        "RAG",
+        "지식 그래프",
+        "데이터 품질"
+      ],
+      "planning_insight": "LLM 기반 챗봇이나 자동화 서비스 기획 시, 모델이 참조하는 데이터 소스의 품질을 평가하고 검증하는 구조적 프로세스 마련이 필요합니다.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "콘텐츠 전략 활용성"
+      ],
+      "one_line_summary": "LLM 신뢰성을 담보하는 지식 그래프(KG) 품질 평가 프레임워크",
+      "importance_reason": "RAG(검색증강생성)가 일반화되면서 데이터의 정확성과 신뢰도가 콘텐츠 결과물의 질을 결정하는 핵심 변수가 되었습니다."
+    },
+    {
+      "rank": 5,
+      "id": "7023bedf0876aca062d2814b36b70811e126e55a4036ea06b999259e3131b7ee",
+      "title": "최고 품질 책임지는 ‘AI 에이전시’… 광고 콘텐츠 시장 패러다임 바꾼다",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12185765",
+      "published_at": "2026-10-26T14:46:09+09:00",
+      "summary": "[2026 판교 창업존 입주기업 인터뷰 ⑤] 최기문 프롬프트팩토리(Prompt Factory) 대표 핵심 인력으로 대형 프로젝트 소화… B2B 콘텐츠 제작 시장의 하이브리드 혁신 ..",
+      "category_score": 88,
+      "score_reason": "광고 콘텐츠 제작 시장에서 'AI 에이전시'의 등장은 전문 인력과 AI의 하이브리드 조합이 새로운 제작 표준으로 자리 잡고 있음을 보여주는 트렌드입니다.",
+      "keywords": [
+        "AI 에이전시",
+        "콘텐츠 제작",
+        "하이브리드 생산"
+      ],
+      "planning_insight": "실제 생성형 AI를 활용한 콘텐츠 제작 프로세스 사례(Case Study)를 공유하여 내부 제작 효율을 극대화하는 실무 가이드로 활용하십시오.",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "광고 콘텐츠 제작 시장의 판도를 바꾸는 'AI 에이전시' 모델",
+      "importance_reason": "AI를 활용한 하이브리드 제작 방식은 콘텐츠 마케팅 시장의 생산성 혁명을 일으키는 직접적인 실무 사례이기 때문입니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 68,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 '단순 도구' 단계에서 특정 업무를 스스로 수행하는 '에이전틱 AI(Agentic AI)' 생태계로 급격히 전이되고 있습니다.",
+    "기업들은 AI의 자율성 증대에 따른 보안 위협 및 프롬프트 오염을 막기 위한 구체적인 관리 체계(거버넌스) 구축을 필수 과제로 인식하고 있습니다.",
+    "비즈니스 현장에서는 모델의 지능적 성능 못지않게 비용 효율성과 데이터 품질(KG/RAG)을 정량적으로 제어하려는 움직임이 강화되고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
