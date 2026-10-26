@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-26T18:16:05.780411+09:00",
+  "updated_at": "2026-10-27T00:24:00.717853+09:00",
   "archives": [
+    {
+      "id": "2026-10-27_00-23",
+      "date": "2026-10-27",
+      "time": "00:23",
+      "label": "2026-10-27 00:23",
+      "generated_at": "2026-10-27T00:23:32.724949+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+        "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+        "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나",
+        "셀렉트스타, AI 모델 자동 선택 기술 공개…비용 28% 절감",
+        "SKT, AI에이전트도 통제...개발부터 폐기까지 관리 강화"
+      ],
+      "path_json": "archive/2026-10-27/00-23.json",
+      "path_md": "archive/2026-10-27/00-23.md"
+    },
     {
       "id": "2026-10-26_17-35",
       "date": "2026-10-26",
