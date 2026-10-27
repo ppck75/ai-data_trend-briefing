@@ -1,11 +1,11 @@
 {
   "briefing_date": "2026-10-27",
-  "generated_at": "2026-10-27T10:34:53.034354+09:00",
+  "generated_at": "2026-10-27T18:15:29.992543+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 189,
-    "tech_blog": 1,
-    "ai_data": 10
+    "news": 178,
+    "tech_blog": 2,
+    "ai_data": 20
   },
   "category_top5": {
     "news": [
@@ -19,7 +19,7 @@
         "url": "https://zdnet.co.kr/view/?no=20261026171138",
         "published_at": "2026-10-26T17:11:38+09:00",
         "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆제논, AI 보안 솔루션 ‘젠가드’ 출시제논이 기업 보안 정책에 따라 생성형 AI 입력과 응답을 검사하고 차단하는 AI 가드레일 솔루션 '젠가드'를 출시했다. 기존 AI 플랫폼 '제노스'에서 제공하던 가드레일 기능을 별도 제품으로 개발해 제노스를 도입하지 않은 기업도 사용할 수 있도록 했다.젠가드는 모델을 다시 학습시키지 않고도 일상 언어로 보안 정책을 설정할 수 있다. 금융 서비스에서 '개별 종목 추천은 차단한다'는 기준을 입력하면 AI 요청과 응답에 해당 정책을 적용하는 방식이다. 유해 콘텐츠와 안전장치 우회 공격을 차단하고 개인정보를 탐지해 가리는 기능도 갖췄다.기업 내부 서버…",
-        "category_score": 67,
+        "category_score": 62,
         "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
@@ -40,7 +40,7 @@
         "url": "https://zdnet.co.kr/view/?no=20261026165830",
         "published_at": "2026-10-26T17:03:02+09:00",
         "summary": "[지디넷코리아]오라클이 국내 인공지능(AI) 스타트업을 대상으로 클라우드 인프라 공급을 확대하며 AI 시장 공략에 속도를 내고 있다. 전자상거래부터 바이오, 산업용 영상관제까지 서로 다른 분야에서 오라클 클라우드 인프라스트럭처(OCI)를 활용한 서비스 구축 사례를 확보하며 산업별 AI 수요를 공략하는 모습이다.한국오라클은 팜킷, 실리코팜, 슈퍼브에이아이 등 국내 AI 스타트업 3곳이 OCI를 기반으로 AI 서비스를 개발하고 글로벌 사업 확대를 추진하고 있다고 26일 밝혔다.이번에 공개된 사례는 오라클이 국내 AI 스타트업을 통해 클라우드 사업 기반을 넓히고 있다는 점에서 주목된다. AI 모델 개발에 필요한 컴퓨팅 자원뿐 아니라 데이터 저장·관리, 애플리케이션 운영 등 실제 서비스 구축에 필요한 인프라를 공급하면서 고객 접점을 확대하는 전략이다.먼저 AI 기반 개인화·추천 플랫폼 '테이스트큐(TasteQ)'를 운영하는 팜킷은 미국 시장 진출과 AI 커머스 서비스 개발을 위해 OCI를…",
-        "category_score": 67,
+        "category_score": 62,
         "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
@@ -53,26 +53,6 @@
       },
       {
         "rank": 3,
-        "id": "6a0f540c736217f8cadd235091db5e04f866690d7a68de6c5793927b820a9e7d",
-        "title": "AI 에이전트 위협 5계층 통제 모델 제안",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261026083940",
-        "published_at": "2026-10-26T13:52:19+09:00",
-        "summary": "[지디넷코리아]국제사이버보안인증협회(CSC) 연구진이 인공지능(AI) 에이전트의 악성 지시 오인과 과도한 권한이 겹친 위협을 단계적 보안 통제 모델로 끊는 방안을 제안했다. 이 모델은 외부 데이터에 숨은 악성 지시를 업무 지시로 오인하는 '간접 프롬프트 인젝션' 공격을 완벽히 걸러내기는 불가능하다는 전제에서 출발한다. 대신 컨텍스트 오염이 실제 권한을 가진 실행으로 전환되는 지점을 단계별로 차단해 피해를 최소화하는 방식이다.CSC와 한국인터넷정보학회가 공동 운영하는 '인공지능 사이버보안 연구회'는 23일 강원 강릉시 세인트존스 호텔에서 열린 2026년도 추계학술발표대회에서 인공지능 사이버보안 특별세션을 운영, 13명이 이 같은 내용의 논문을 발표했다고 26일 밝혔다.남혁우 CSC 이사는 'AI 에이전트 환경에서의 과도한 권한 및 간접 프롬프트 인젝션 위협 대응 방안'을 발표했다. AI 에이전트가 이메일, 웹 문서, 검색증강생성(RAG) 등 외부 데이터에 숨은 악성 지시를 업무 지시…",
-        "category_score": 59,
-        "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "AI",
-          "데이터",
-          "검색",
-          "RAG"
-        ],
-        "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 4,
         "id": "d6c7536ac664efad71bb3384eae2283931c51b287e155892b7430fefa5d495ec",
         "title": "마이크 시실리아 오라클 CEO \"SW 조작은 AI…사람은 업무 집중\"",
         "source": "ZDNet Korea",
@@ -91,7 +71,7 @@
         "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "e49c5db90a5a7031da68d46b228f1ccf5c2e102a1a970e93c89a1eea1eef1ea5",
         "title": "미국이냐, 중국이냐…AI 냉전에 선택 압박 거세다",
         "source": "ZDNet Korea",
@@ -108,6 +88,26 @@
           "데이터"
         ],
         "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "6a0f540c736217f8cadd235091db5e04f866690d7a68de6c5793927b820a9e7d",
+        "title": "AI 에이전트 위협 5계층 통제 모델 제안",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261026083940",
+        "published_at": "2026-10-26T13:52:19+09:00",
+        "summary": "[지디넷코리아]국제사이버보안인증협회(CSC) 연구진이 인공지능(AI) 에이전트의 악성 지시 오인과 과도한 권한이 겹친 위협을 단계적 보안 통제 모델로 끊는 방안을 제안했다. 이 모델은 외부 데이터에 숨은 악성 지시를 업무 지시로 오인하는 '간접 프롬프트 인젝션' 공격을 완벽히 걸러내기는 불가능하다는 전제에서 출발한다. 대신 컨텍스트 오염이 실제 권한을 가진 실행으로 전환되는 지점을 단계별로 차단해 피해를 최소화하는 방식이다.CSC와 한국인터넷정보학회가 공동 운영하는 '인공지능 사이버보안 연구회'는 23일 강원 강릉시 세인트존스 호텔에서 열린 2026년도 추계학술발표대회에서 인공지능 사이버보안 특별세션을 운영, 13명이 이 같은 내용의 논문을 발표했다고 26일 밝혔다.남혁우 CSC 이사는 'AI 에이전트 환경에서의 과도한 권한 및 간접 프롬프트 인젝션 위협 대응 방안'을 발표했다. AI 에이전트가 이메일, 웹 문서, 검색증강생성(RAG) 등 외부 데이터에 숨은 악성 지시를 업무 지시…",
+        "category_score": 54,
+        "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "데이터",
+          "검색",
+          "RAG"
+        ],
+        "planning_insight": "이 항목은 AI, 데이터, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -122,19 +122,58 @@
         "published_at": "2026-10-27T07:01:01+09:00",
         "summary": "1인 1작업에서 1인 N작업으로, 병목이 코딩에서 판단으로 옮겨간 시대에 일하는 방식은 어떻게 달라지는가 들어가며 무신사 물류플랫폼팀에서 백엔드를 개발하고 있습니다. 먼저 밝혀두자면, 무언가를 가르치거나 교훈을 전하려는 목적은 없습니다. AI 코딩 에이전트와 본격적으로 일하기 시작한 뒤 제 일하는 방식이 어떻게 바뀌었고 어디에서 넘어졌는지, 그래서 지금은 어떤 방식으로 일하는지를 돌아보는 글에 가깝습니다. 저도 아직 이 방식이 맞는지 의심하는 중입니다. 요즘 제 모니터에는 터미널 창이 여러 개 떠 있습니다. 각 창에서는 서로 다른 작업을 맡은 에이전트가 돌고 있고, 저는 그 사이를 오가며 결과를 읽고, 승인하고, 다음 지시를 내립니다. 몇 년 전의 저라면 이 화면을 보고 “저렇게 하면 하나도 제대로 못 끝낸다”고 했을 겁니다. 실제로 그때는 그 말이 맞았습니다. 이 글은 세 가지 질문을 따라갑니다. 왜 예전에는 한 번에 하나만 했는가. 무엇이 바뀌어서 지금은 여러 개를 동시에 굴리…",
         "category_score": 85,
-        "score_reason": "AI 에이전트를 도입하여 기존의 '1인 1작업' 구조를 '1인 N작업'의 오케스트레이션 모델로 전환한 운영 방식의 변화를 다룸. 개발 생산성을 넘어 제품 개발 워크플로우와 의사결정 방식의 혁신을 보여주어 서비스 기획 전략가에게 시사점이 큼.",
+        "score_reason": "AI 에이전트 도입을 통한 워크플로우 변화와 생산성 재정의 사례로, 기획 및 개발 조직의 운영 방식 변화에 대한 구체적인 인사이트를 제공함.",
         "keywords": [
           "AI 에이전트",
           "워크플로우",
-          "생산성",
-          "플랫폼 운영"
+          "생산성"
         ],
-        "planning_insight": "기술 도구의 변화가 실무자의 역할을 '코더'에서 '오케스트레이터(판단자)'로 재정의함에 따라, 향후 서비스 개발 및 콘텐츠 운영 조직의 구조 설계 시 AI 에이전트를 내재화한 병렬 작업 프로세스 도입이 필수적임."
+        "planning_insight": "AI 도구를 단순한 보조 수단이 아닌, '판단' 중심의 의사결정 체계로 전환하는 조직 구조적 실험 모델로 활용 가능함."
+      },
+      {
+        "rank": 2,
+        "id": "027566db080192d84d42916be0a52710f70e5511d531bfbe672ea9dc2e3c3605",
+        "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1975819",
+        "published_at": "2026-10-27T13:20:00+09:00",
+        "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말 설문으로 질문을 받아 후속편을 작성했습니다. ​ 그동안 저도 경험과 지식을 더 쌓았습니다. 하지만 지금 학생 개발자들이 한 질문에는 답하기가 더 어려워졌습니다. 개발자의 역할과 같은 큰 주제를 묻는 질문이 많았는데, 지금은 AI로 인한 변화가 큰 시기이기 때문입니다. 스스로도 확신이 없는 시기에 이런 글을 쓰는 것이 적절할지 고민도 했습니다. ​ 그럼에도 2018년의 글에 보내 주신 관심에 용기를 얻어서 이 글을 발행합니다. 최근의 경험을 나누고 미래를 함께 상상해 보는 일이 지금 시점에는 더 의…",
+        "category_score": 75,
+        "score_reason": "AI 시대 개발자의 역할 변화와 역량에 대한 메타 인지적 관점을 제시함. 직접적인 서비스 기획 사례는 적으나 직무 구조 개편의 방향성을 담고 있음.",
+        "keywords": [
+          "개발자 역량",
+          "AI 시대",
+          "커리어"
+        ],
+        "planning_insight": "기술 중심이 아닌 '문제 해결' 중심으로 개발 조직의 R&R을 재설계해야 하는 시대적 요구를 반영함."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
+        "id": "6fded078dc4f070b7dfca02e28f30d09ce3bde679072092d37599552ea247178",
+        "title": "Recursive Semantic Divergence for LLM Agent Consistency",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.33012",
+        "published_at": "2026-10-27T13:00:00+09:00",
+        "summary": "arXiv:2610.33012v1 Announce Type: new Abstract: Large Language Model (LLM) agents with tool use exhibit inconsistent behavior across independent runs from identical states, calling different tools, producing contradictory outputs, or pursuing divergent strategies. This variability compounds over time and undermines deployment reliability. Existing evaluation metrics primarily measure task correctness via completion-based scores and do not capture consistency in agent behavior across executions.…",
+        "category_score": 63,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "evaluation"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
         "id": "6a045b52161fbe88eb0d896cdf3662b94b399e4ce43f4648a94e52472d233b0e",
         "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
         "source": "arXiv cs.CL",
@@ -143,7 +182,7 @@
         "url": "https://arxiv.org/abs/2610.31685",
         "published_at": "2026-10-26T13:00:00+09:00",
         "summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the error. We address this problem with an agentic framework for traceable multimodal emotion reasoning and p…",
-        "category_score": 67,
+        "category_score": 62,
         "score_reason": "LLM, agent, multimodal 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "LLM",
@@ -155,119 +194,101 @@
         "planning_insight": "이 항목은 LLM, agent, multimodal 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 2,
-        "id": "790b2cb746adb4a6588624fbe37753e4eca17ceb9c19c3afbe9d7d6227aedc4f",
-        "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.31678",
-        "published_at": "2026-10-26T13:00:00+09:00",
-        "summary": "arXiv:2610.31678v1 Announce Type: new Abstract: Many LLM studies compare how models respond to different follow-up prompts. For example, one prompt may neutrally ask a model to reconsider, while another insists that an invented film really exists. The difference is used to measure the effect of conversational pressure. An automatic scorer then labels whether each response makes an unsupported factual claim. Researchers commonly validate the scorer with one overall accuracy or $F_1$ score. Howev…",
-        "category_score": 53,
-        "score_reason": "LLM, model, evaluation 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "LLM",
-          "model",
-          "evaluation",
-          "AI"
-        ],
-        "planning_insight": "이 항목은 LLM, model, evaluation 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
         "rank": 3,
-        "id": "b2419c9674a42aa326312af92e26866bbd8f0caf13bc1da827e2034b18f63d1e",
-        "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
+        "id": "159fca1a2d109e3f20d7074eb0c89143f1c55f8c8b39208b938876a56b58864a",
+        "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.31679",
-        "published_at": "2026-10-26T13:00:00+09:00",
-        "summary": "arXiv:2610.31679v1 Announce Type: new Abstract: Large language models are increasingly used as math tutors, raising two questions: can a single LLM detect a student's error, diagnose the underlying misconception, and remediate it through multi-turn dialogue - and can we trust the numbers that report how well it does? We address both with MISCONCEPTDIALOGUE, a fully automated framework that runs the full pipeline on five open-weight LLM tutors (7B-14B) interacting with LLM-simulated students ove…",
-        "category_score": 53,
-        "score_reason": "LLM, model, evaluation 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://arxiv.org/abs/2610.33015",
+        "published_at": "2026-10-27T13:00:00+09:00",
+        "summary": "arXiv:2610.33015v1 Announce Type: new Abstract: Long-term memory enables large language model (LLM) agents to maintain personalized and temporally coherent interactions, but repeated LLM inference for memory admission, extraction, and organization introduces substantial cost and latency. We present SLICE-Mem, a lightweight memory framework that combines salience-guided admission and predicate-centered information extraction. A compact classifier identifies user turns worth retaining, and a sema…",
+        "category_score": 61,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "LLM",
+          "agent",
+          "agents",
           "model",
-          "evaluation",
           "AI"
         ],
-        "planning_insight": "이 항목은 LLM, model, evaluation 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "34959b67efc947d62709f42e95276fe38952aadeefc36191e090bd6180cfe25f",
-        "title": "The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition",
+        "id": "095ae988df102f3fb4f4c8241b3cc09990382e426199c9d88b1441494fb68309",
+        "title": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.31683",
-        "published_at": "2026-10-26T13:00:00+09:00",
-        "summary": "arXiv:2610.31683v1 Announce Type: new Abstract: Persona-conditioned language models are used as simulated patients and affective agents, but there is no validated way to ask whether a belief assigned to such a model organizes its behaviour or whether the model has merely adopted a mood. We present the Schema Coherence Inventory (SCI): 96 forced-choice items at eight levels of Beck's cognitive model, each offering six replies keyed to three negative self-schemas and their positive counterparts,…",
+        "url": "https://arxiv.org/abs/2610.32997",
+        "published_at": "2026-10-27T13:00:00+09:00",
+        "summary": "arXiv:2610.32997v1 Announce Type: new Abstract: Automatic Speech Recognition (ASR) models such as OpenAIs Whisper have substantially improved speech recognition quality but remain expensive to fine-tune, especially when large amounts of transcribed audio are available. This makes it challenging for many practitioners to adapt these models to new languages or domains. In this work, we introduce an embedding-based subset selection approach for selecting smaller training sets for ASR fine-tuning.…",
         "category_score": 50,
-        "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "score_reason": "embedding, model, fine-tuning 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "agent",
-          "agents",
-          "model"
+          "embedding",
+          "model",
+          "fine-tuning",
+          "AI"
         ],
-        "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "이 항목은 embedding, model, fine-tuning 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "52a83804eaace8cf0b4c08afe25ce2f25c03d8d64a13c5813815e3897691348f",
-        "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+        "id": "71ee0ef3f4e46b44b2cfda21ce1708e1b62df7e8b8643c8f8ed42617f4399697",
+        "title": "Linear-Time Context Compression with State-Space Encoding",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.31684",
-        "published_at": "2026-10-26T13:00:00+09:00",
-        "summary": "arXiv:2610.31684v1 Announce Type: new Abstract: Knowledge Graphs (KGs) have been popularized during the last few decades and are increasingly constructed and consumed by Large Language Models (LLMs). Various applications therefore rely on KGs to provide concise, complete, accurate, faithful, fresh, and traceable answers. However, what is the quality of those KGs? In which cases should a KG be used, and can it be trusted to ground an LLM? How might it be evaluated? We reviewed the literature on…",
-        "category_score": 48,
-        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://arxiv.org/abs/2610.33006",
+        "published_at": "2026-10-27T13:00:00+09:00",
+        "summary": "arXiv:2610.33006v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) impose substantial computation and memory costs as context sizes increase, motivating methods that compress a context into a shorter representation before inference. Existing soft-prompt compression methods typically use the same Transformer backbone as used in the target model, where producing the compressed representation leads to significant latency overheads. This restricts them to the offline set…",
+        "category_score": 50,
+        "score_reason": "LLM, model, transformer 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "LLM",
           "model",
-          "AI"
+          "transformer"
         ],
-        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "이 항목은 LLM, model, transformer 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "ec7921cc5e6946462a9ccae1c7bc514a486234a4bdffb83907bf6fbdbdfc4a64",
-      "title": "오라클, 국내 클라우드 사업 확대 속도…AI 스타트업 고객 확보 박차",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261026165830",
-      "published_at": "2026-10-26T17:03:02+09:00",
-      "summary": "[지디넷코리아]오라클이 국내 인공지능(AI) 스타트업을 대상으로 클라우드 인프라 공급을 확대하며 AI 시장 공략에 속도를 내고 있다. 전자상거래부터 바이오, 산업용 영상관제까지 서로 다른 분야에서 오라클 클라우드 인프라스트럭처(OCI)를 활용한 서비스 구축 사례를 확보하며 산업별 AI 수요를 공략하는 모습이다.한국오라클은 팜킷, 실리코팜, 슈퍼브에이아이 등 국내 AI 스타트업 3곳이 OCI를 기반으로 AI 서비스를 개발하고 글로벌 사업 확대를 추진하고 있다고 26일 밝혔다.이번에 공개된 사례는 오라클이 국내 AI 스타트업을 통해 클라우드 사업 기반을 넓히고 있다는 점에서 주목된다. AI 모델 개발에 필요한 컴퓨팅 자원뿐 아니라 데이터 저장·관리, 애플리케이션 운영 등 실제 서비스 구축에 필요한 인프라를 공급하면서 고객 접점을 확대하는 전략이다.먼저 AI 기반 개인화·추천 플랫폼 '테이스트큐(TasteQ)'를 운영하는 팜킷은 미국 시장 진출과 AI 커머스 서비스 개발을 위해 OCI를…",
-      "category_score": 67,
-      "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "9ca1d76b87bd2673b15f050f63945cf5b48246e61dc496b2e560e9835600be72",
+      "title": "대AI시대에 일하는 방식의 변화에 대한 고찰",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "url": "https://techblog.musinsa.com/%EB%8C%80ai%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%B3%80%ED%99%94%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-6d11e0b1fead",
+      "published_at": "2026-10-27T07:01:01+09:00",
+      "summary": "1인 1작업에서 1인 N작업으로, 병목이 코딩에서 판단으로 옮겨간 시대에 일하는 방식은 어떻게 달라지는가 들어가며 무신사 물류플랫폼팀에서 백엔드를 개발하고 있습니다. 먼저 밝혀두자면, 무언가를 가르치거나 교훈을 전하려는 목적은 없습니다. AI 코딩 에이전트와 본격적으로 일하기 시작한 뒤 제 일하는 방식이 어떻게 바뀌었고 어디에서 넘어졌는지, 그래서 지금은 어떤 방식으로 일하는지를 돌아보는 글에 가깝습니다. 저도 아직 이 방식이 맞는지 의심하는 중입니다. 요즘 제 모니터에는 터미널 창이 여러 개 떠 있습니다. 각 창에서는 서로 다른 작업을 맡은 에이전트가 돌고 있고, 저는 그 사이를 오가며 결과를 읽고, 승인하고, 다음 지시를 내립니다. 몇 년 전의 저라면 이 화면을 보고 “저렇게 하면 하나도 제대로 못 끝낸다”고 했을 겁니다. 실제로 그때는 그 말이 맞았습니다. 이 글은 세 가지 질문을 따라갑니다. 왜 예전에는 한 번에 하나만 했는가. 무엇이 바뀌어서 지금은 여러 개를 동시에 굴리…",
+      "category_score": 85,
+      "score_reason": "AI 에이전트 도입을 통한 워크플로우 변화와 생산성 재정의 사례로, 기획 및 개발 조직의 운영 방식 변화에 대한 구체적인 인사이트를 제공함.",
       "keywords": [
-        "AI",
-        "커머스",
-        "플랫폼",
-        "개인화",
-        "추천"
+        "AI 에이전트",
+        "워크플로우",
+        "생산성 재정의"
       ],
-      "planning_insight": "이 항목은 AI, 커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 74,
+      "planning_insight": "AI 에이전트를 활용한 업무 자동화 및 판단 의사결정 효율화 프로세스에 대한 실무 리포트나 인터뷰 콘텐츠로 가공 가능",
+      "integrated_score": 95,
       "criteria_scores": {
-        "content_strategy": 14,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 19,
-        "market_consumer_impact": 16
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "[지디넷코리아]오라클이 국내 인공지능(AI) 스타트업을 대상으로 클라우드 인프라 공급을 확대하며 AI 시장 공략에 속도를 내고 있다. 전자상거래부터 바이오, 산업용 영상관제까지 서로 다른 분야에서 오라클 클라우드 인…",
-      "importance_reason": "AI, 커머스, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "AI 에이전트 도입으로 인한 '판단' 중심의 업무 방식 변화와 실무적 경험 공유",
+      "importance_reason": "기술 도입을 넘어 조직의 일하는 방식과 사고 체계 자체가 변화하는 현장을 생생하게 보여줌"
     },
     {
       "rank": 2,
@@ -279,134 +300,134 @@
       "url": "https://zdnet.co.kr/view/?no=20261026171138",
       "published_at": "2026-10-26T17:11:38+09:00",
       "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆제논, AI 보안 솔루션 ‘젠가드’ 출시제논이 기업 보안 정책에 따라 생성형 AI 입력과 응답을 검사하고 차단하는 AI 가드레일 솔루션 '젠가드'를 출시했다. 기존 AI 플랫폼 '제노스'에서 제공하던 가드레일 기능을 별도 제품으로 개발해 제노스를 도입하지 않은 기업도 사용할 수 있도록 했다.젠가드는 모델을 다시 학습시키지 않고도 일상 언어로 보안 정책을 설정할 수 있다. 금융 서비스에서 '개별 종목 추천은 차단한다'는 기준을 입력하면 AI 요청과 응답에 해당 정책을 적용하는 방식이다. 유해 콘텐츠와 안전장치 우회 공격을 차단하고 개인정보를 탐지해 가리는 기능도 갖췄다.기업 내부 서버…",
-      "category_score": 67,
+      "category_score": 62,
       "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "AI",
-        "생성형 AI",
-        "플랫폼",
-        "추천",
-        "콘텐츠"
+        "AI 가드레일",
+        "보안 정책",
+        "생성형 AI 운용"
       ],
-      "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 70,
+      "planning_insight": "기업 내 AI 활용 가이드라인이나 보안 정책 수립에 관한 체크리스트 카드뉴스 발행으로 콘텐츠화",
+      "integrated_score": 90,
       "criteria_scores": {
-        "content_strategy": 14,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 15,
-        "market_consumer_impact": 16
+        "content_strategy": 23,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
-        "트렌드 신호성·시의성"
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기…",
-      "importance_reason": "AI, 생성형 AI, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "생성형 AI 도입 기업을 위한 실시간 보안 및 제어 솔루션(가드레일)의 확산",
+      "importance_reason": "AI 도입 시 가장 큰 걸림돌인 보안 문제를 해결하는 것이 향후 기업용 AI 서비스 표준으로 자리 잡을 것임"
     },
     {
       "rank": 3,
-      "id": "6a045b52161fbe88eb0d896cdf3662b94b399e4ce43f4648a94e52472d233b0e",
-      "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.31685",
-      "published_at": "2026-10-26T13:00:00+09:00",
-      "summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the error. We address this problem with an agentic framework for traceable multimodal emotion reasoning and p…",
-      "category_score": 67,
-      "score_reason": "LLM, agent, multimodal 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "ec7921cc5e6946462a9ccae1c7bc514a486234a4bdffb83907bf6fbdbdfc4a64",
+      "title": "오라클, 국내 클라우드 사업 확대 속도…AI 스타트업 고객 확보 박차",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261026165830",
+      "published_at": "2026-10-26T17:03:02+09:00",
+      "summary": "[지디넷코리아]오라클이 국내 인공지능(AI) 스타트업을 대상으로 클라우드 인프라 공급을 확대하며 AI 시장 공략에 속도를 내고 있다. 전자상거래부터 바이오, 산업용 영상관제까지 서로 다른 분야에서 오라클 클라우드 인프라스트럭처(OCI)를 활용한 서비스 구축 사례를 확보하며 산업별 AI 수요를 공략하는 모습이다.한국오라클은 팜킷, 실리코팜, 슈퍼브에이아이 등 국내 AI 스타트업 3곳이 OCI를 기반으로 AI 서비스를 개발하고 글로벌 사업 확대를 추진하고 있다고 26일 밝혔다.이번에 공개된 사례는 오라클이 국내 AI 스타트업을 통해 클라우드 사업 기반을 넓히고 있다는 점에서 주목된다. AI 모델 개발에 필요한 컴퓨팅 자원뿐 아니라 데이터 저장·관리, 애플리케이션 운영 등 실제 서비스 구축에 필요한 인프라를 공급하면서 고객 접점을 확대하는 전략이다.먼저 AI 기반 개인화·추천 플랫폼 '테이스트큐(TasteQ)'를 운영하는 팜킷은 미국 시장 진출과 AI 커머스 서비스 개발을 위해 OCI를…",
+      "category_score": 62,
+      "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "LLM",
-        "agent",
-        "multimodal",
-        "benchmark",
-        "model"
+        "AI 커머스",
+        "개인화",
+        "클라우드 인프라"
       ],
-      "planning_insight": "이 항목은 LLM, agent, multimodal 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 65,
+      "planning_insight": "개인화 추천 시스템을 도입하려는 브랜드 매니저를 위한 'AI 도입 성공 사례 분석' 리포트 기획",
+      "integrated_score": 88,
       "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 8
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard…",
-      "importance_reason": "LLM, agent, multimodal 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "클라우드 인프라를 활용한 스타트업의 고도화된 개인화·추천 커머스 서비스 사례",
+      "importance_reason": "AI 기술이 실제 비즈니스 모델(커머스)에 어떻게 적용되어 매출과 고객 경험을 바꾸는지 보여주는 실질적 지표"
     },
     {
       "rank": 4,
-      "id": "790b2cb746adb4a6588624fbe37753e4eca17ceb9c19c3afbe9d7d6227aedc4f",
-      "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.31678",
-      "published_at": "2026-10-26T13:00:00+09:00",
-      "summary": "arXiv:2610.31678v1 Announce Type: new Abstract: Many LLM studies compare how models respond to different follow-up prompts. For example, one prompt may neutrally ask a model to reconsider, while another insists that an invented film really exists. The difference is used to measure the effect of conversational pressure. An automatic scorer then labels whether each response makes an unsupported factual claim. Researchers commonly validate the scorer with one overall accuracy or $F_1$ score. Howev…",
-      "category_score": 53,
-      "score_reason": "LLM, model, evaluation 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "6a0f540c736217f8cadd235091db5e04f866690d7a68de6c5793927b820a9e7d",
+      "title": "AI 에이전트 위협 5계층 통제 모델 제안",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261026083940",
+      "published_at": "2026-10-26T13:52:19+09:00",
+      "summary": "[지디넷코리아]국제사이버보안인증협회(CSC) 연구진이 인공지능(AI) 에이전트의 악성 지시 오인과 과도한 권한이 겹친 위협을 단계적 보안 통제 모델로 끊는 방안을 제안했다. 이 모델은 외부 데이터에 숨은 악성 지시를 업무 지시로 오인하는 '간접 프롬프트 인젝션' 공격을 완벽히 걸러내기는 불가능하다는 전제에서 출발한다. 대신 컨텍스트 오염이 실제 권한을 가진 실행으로 전환되는 지점을 단계별로 차단해 피해를 최소화하는 방식이다.CSC와 한국인터넷정보학회가 공동 운영하는 '인공지능 사이버보안 연구회'는 23일 강원 강릉시 세인트존스 호텔에서 열린 2026년도 추계학술발표대회에서 인공지능 사이버보안 특별세션을 운영, 13명이 이 같은 내용의 논문을 발표했다고 26일 밝혔다.남혁우 CSC 이사는 'AI 에이전트 환경에서의 과도한 권한 및 간접 프롬프트 인젝션 위협 대응 방안'을 발표했다. AI 에이전트가 이메일, 웹 문서, 검색증강생성(RAG) 등 외부 데이터에 숨은 악성 지시를 업무 지시…",
+      "category_score": 54,
+      "score_reason": "AI, 데이터, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "LLM",
-        "model",
-        "evaluation",
-        "AI"
+        "AI 에이전트",
+        "보안 통제",
+        "RAG"
       ],
-      "planning_insight": "이 항목은 LLM, model, evaluation 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 63,
+      "planning_insight": "개발자/운영자를 타겟으로 한 'AI 시스템의 리스크 매니지먼트' 기술 블로그 형식의 심층 콘텐츠 가능",
+      "integrated_score": 85,
       "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 20,
-        "market_consumer_impact": 8
+        "content_strategy": 20,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "arXiv:2610.31678v1 Announce Type: new Abstract: Many LLM studies compare how models respond to different follow-up promp…",
-      "importance_reason": "LLM, model, evaluation 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "AI 에이전트의 오작동 및 보안 위협을 제어하기 위한 단계적 통제 모델 제안",
+      "importance_reason": "AI 에이전트 환경의 필수적인 안전장치로서 기술적 완성도와 신뢰성 확보가 중요해지는 추세"
     },
     {
       "rank": 5,
-      "id": "b2419c9674a42aa326312af92e26866bbd8f0caf13bc1da827e2034b18f63d1e",
-      "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.31679",
-      "published_at": "2026-10-26T13:00:00+09:00",
-      "summary": "arXiv:2610.31679v1 Announce Type: new Abstract: Large language models are increasingly used as math tutors, raising two questions: can a single LLM detect a student's error, diagnose the underlying misconception, and remediate it through multi-turn dialogue - and can we trust the numbers that report how well it does? We address both with MISCONCEPTDIALOGUE, a fully automated framework that runs the full pipeline on five open-weight LLM tutors (7B-14B) interacting with LLM-simulated students ove…",
-      "category_score": 53,
-      "score_reason": "LLM, model, evaluation 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "027566db080192d84d42916be0a52710f70e5511d531bfbe672ea9dc2e3c3605",
+      "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/1975819",
+      "published_at": "2026-10-27T13:20:00+09:00",
+      "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말 설문으로 질문을 받아 후속편을 작성했습니다. ​ 그동안 저도 경험과 지식을 더 쌓았습니다. 하지만 지금 학생 개발자들이 한 질문에는 답하기가 더 어려워졌습니다. 개발자의 역할과 같은 큰 주제를 묻는 질문이 많았는데, 지금은 AI로 인한 변화가 큰 시기이기 때문입니다. 스스로도 확신이 없는 시기에 이런 글을 쓰는 것이 적절할지 고민도 했습니다. ​ 그럼에도 2018년의 글에 보내 주신 관심에 용기를 얻어서 이 글을 발행합니다. 최근의 경험을 나누고 미래를 함께 상상해 보는 일이 지금 시점에는 더 의…",
+      "category_score": 75,
+      "score_reason": "AI 시대 개발자의 역할 변화와 역량에 대한 메타 인지적 관점을 제시함. 직접적인 서비스 기획 사례는 적으나 직무 구조 개편의 방향성을 담고 있음.",
       "keywords": [
-        "LLM",
-        "model",
-        "evaluation",
-        "AI"
+        "개발자 역량",
+        "커리어",
+        "AI 시대"
       ],
-      "planning_insight": "이 항목은 LLM, model, evaluation 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 63,
+      "planning_insight": "AI와 협업하는 모든 직군을 대상으로 한 '미래지향적 커리어 빌딩' 리포트나 시리즈물로 확장 가능",
+      "integrated_score": 82,
       "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 25,
+        "content_strategy": 22,
+        "trend_signal_timeliness": 20,
         "ai_data_relevance": 20,
-        "market_consumer_impact": 8
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "arXiv:2610.31679v1 Announce Type: new Abstract: Large language models are increasingly used as math tutors, raising two…",
-      "importance_reason": "LLM, model, evaluation 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "AI 시대 변화에 따른 개발자의 역할 변화와 미래 지향적 관점 제시",
+      "importance_reason": "단순 기술 숙달을 넘어 '문제 해결' 중심으로 변하는 직무의 방향성을 제시하여 기획자들에게도 시사점이 큼"
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 84,
+      "count": 94,
       "groups": [
         "ai_data",
         "news",
@@ -417,12 +438,12 @@
         "NYT Technology",
         "ZDNet Korea",
         "arXiv cs.CL",
-        "매일경제 기업"
+        "네이버 D2"
       ]
     },
     {
       "keyword": "데이터",
-      "count": 21,
+      "count": 19,
       "groups": [
         "news"
       ],
@@ -432,8 +453,18 @@
       ]
     },
     {
+      "keyword": "model",
+      "count": 16,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
       "keyword": "플랫폼",
-      "count": 19,
+      "count": 15,
       "groups": [
         "news",
         "tech_blog"
@@ -446,18 +477,7 @@
     },
     {
       "keyword": "콘텐츠",
-      "count": 15,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "브랜드",
-      "count": 12,
+      "count": 14,
       "groups": [
         "news"
       ],
@@ -468,9 +488,9 @@
     }
   ],
   "overall_summary": [
-    "오늘 선별된 주요 흐름은 AI, LLM, model, 플랫폼, 추천 키워드를 중심으로 나타났습니다.",
-    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
-    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+    "AI는 이제 단순 도구를 넘어 실무진의 워크플로우를 재정의하는 '에이전트' 중심의 체제로 진화하고 있습니다.",
+    "기업들은 AI 도입의 핵심 과제로 '보안(가드레일)'을 최우선으로 고려하며, 이를 플랫폼화하여 서비스 효율을 극대화하고 있습니다.",
+    "데이터 기반 추천 및 개인화 커머스는 클라우드 인프라와 결합하여 구체적인 비즈니스 성과를 창출하는 시장 트렌드로 자리 잡았습니다."
   ],
   "method": "gemini",
   "fallback_used": true,
