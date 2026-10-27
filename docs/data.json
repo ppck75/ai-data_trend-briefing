@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:34:27.664731+09:00",
+  "updated_at": "2026-10-27T21:01:14.821820+09:00",
   "total_items": 200,
   "items": [
     {
@@ -394,6 +394,24 @@
       "fetched_at": "2026-10-27T18:34:25.441631+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "bc970d95756f82c1eafa1197d4180696cd02b38dc9fdad361f14f724448cbaeb",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "icon": "💳",
+      "title": "손가락 튕기기로 LLM 비용 줄이기",
+      "summary": "토스에서 늘어나는 LLM 비용을 빠르게 줄이는 방법을 소개합니다.",
+      "url": "https://toss.tech/article/snap-llm-cost-reduction",
+      "published_at": "2026-10-27T16:05:00+09:00",
+      "entry_updated_at": "2026-10-27T16:05:00+09:00",
+      "fetched_at": "2026-10-27T21:01:05.994424+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/it/12185468",
       "published_at": "2026-10-26T10:13:13+09:00",
       "entry_updated_at": "2026-10-26T10:13:13+09:00",
-      "fetched_at": "2026-10-26T10:28:10.828906+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "4a03e24046474e48c757c0ba57966827e61d77d3c8eed4efaf77cdabbc8375d0",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "[매경경영지원본부 칼럼] 조직문화의 정의, 방향 그리고 5개 틀 구축",
-      "summary": "왜 조직문화인가?조직문화는 기업의 성과와 구성원의 행동을 좌우하는 중요한 경영 요소이며, 보이지 않는 운영체계다. 전략이 기업의 방향을 정하고 제도가 업무의 틀을 만든다면, 조직문..",
-      "url": "https://www.mk.co.kr/news/business/12185459",
-      "published_at": "2026-10-26T10:01:37+09:00",
-      "entry_updated_at": "2026-10-26T10:01:37+09:00",
       "fetched_at": "2026-10-26T10:28:10.828906+09:00",
       "language": "ko",
       "importance_weight": 0.85,
