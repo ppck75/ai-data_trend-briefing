@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-28T10:34:30.696829+09:00",
+  "updated_at": "2026-10-28T18:56:43.824839+09:00",
   "archives": [
+    {
+      "id": "2026-10-28_17-35",
+      "date": "2026-10-28",
+      "time": "17:35",
+      "label": "2026-10-28 17:35",
+      "generated_at": "2026-10-28T18:55:57.142434+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "UI"
+      ],
+      "integrated_titles": [
+        "김범석 배민 \"주문 전부터 AI가 준비...기다림 '제로'에 가깝게\"",
+        "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+        "애플, 한국어 '시리 AI' 출시…메시지 찾고 일정 등록",
+        "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
+        "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원"
+      ],
+      "path_json": "archive/2026-10-28/17-35.json",
+      "path_md": "archive/2026-10-28/17-35.md"
+    },
     {
       "id": "2026-10-28_10-33",
       "date": "2026-10-28",
