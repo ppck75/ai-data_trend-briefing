@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-27T23:50:31.732192+09:00",
+  "updated_at": "2026-10-28T10:34:30.696829+09:00",
   "archives": [
+    {
+      "id": "2026-10-28_10-33",
+      "date": "2026-10-28",
+      "time": "10:33",
+      "label": "2026-10-28 10:33",
+      "generated_at": "2026-10-28T10:33:41.676898+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
+        "손가락 튕기기로 LLM 비용 줄이기",
+        "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
+        "Build specialized multimodal models with LFM3",
+        "LGU+ \"통합 플랫폼 U+one, 8월 MAU 최고치 기록\""
+      ],
+      "path_json": "archive/2026-10-28/10-33.json",
+      "path_md": "archive/2026-10-28/10-33.md"
+    },
     {
       "id": "2026-10-27_23-50",
       "date": "2026-10-27",
