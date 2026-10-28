@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T06:29:42.671063+09:00",
+  "updated_at": "2026-10-29T07:29:56.329587+09:00",
   "total_items": 200,
   "items": [
     {
@@ -178,6 +178,24 @@
       "fetched_at": "2026-10-29T06:29:42.538319+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "a29c7daf6716f2c6eefebf9bb021a0de8f0c73ac213f2f68c5a3a707b84a3b2f",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published_at": "2026-10-28T23:58:17+09:00",
+      "entry_updated_at": "2026-10-28T23:58:17+09:00",
+      "fetched_at": "2026-10-29T07:29:56.132867+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3575,24 +3593,6 @@
       "title": "OpenESM: Energy-Steered Models Are Scalable Foundation Learners",
       "summary": "arXiv:2610.33005v1 Announce Type: new Abstract: Energy-based models have shown promising properties for domain-specific tasks but remain challenging in modeling general-purpose scenarios. To bridge this gap, we design energy-steered models (ESMs) for foundational language modeling. ESMs integrate energy steering and token generation within a single architecture to leverage the energy-guided search to refine token generation. Specifically, ESMs first optimize a latent state over the energy lands…",
       "url": "https://arxiv.org/abs/2610.33005",
-      "published_at": "2026-10-27T13:00:00+09:00",
-      "entry_updated_at": "2026-10-27T13:00:00+09:00",
-      "fetched_at": "2026-10-27T13:52:50.537078+09:00",
-      "language": "en",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "71ee0ef3f4e46b44b2cfda21ce1708e1b62df7e8b8643c8f8ed42617f4399697",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "icon": "📄",
-      "title": "Linear-Time Context Compression with State-Space Encoding",
-      "summary": "arXiv:2610.33006v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) impose substantial computation and memory costs as context sizes increase, motivating methods that compress a context into a shorter representation before inference. Existing soft-prompt compression methods typically use the same Transformer backbone as used in the target model, where producing the compressed representation leads to significant latency overheads. This restricts them to the offline set…",
-      "url": "https://arxiv.org/abs/2610.33006",
       "published_at": "2026-10-27T13:00:00+09:00",
       "entry_updated_at": "2026-10-27T13:00:00+09:00",
       "fetched_at": "2026-10-27T13:52:50.537078+09:00",
