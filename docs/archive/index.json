@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-28T18:56:43.824839+09:00",
+  "updated_at": "2026-10-29T00:21:21.738057+09:00",
   "archives": [
+    {
+      "id": "2026-10-29_00-21",
+      "date": "2026-10-29",
+      "time": "00:21",
+      "label": "2026-10-29 00:21",
+      "generated_at": "2026-10-29T00:21:13.770986+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "model",
+        "플랫폼",
+        "분석"
+      ],
+      "integrated_titles": [
+        "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
+        "LGU+ \"통합 플랫폼 U+one, 8월 MAU 최고치 기록\"",
+        "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+        "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+        "데이터 분석 36년 위세아이텍, 구독·광고서 새 성장동력 찾는다"
+      ],
+      "path_json": "archive/2026-10-29/00-21.json",
+      "path_md": "archive/2026-10-29/00-21.md"
+    },
     {
       "id": "2026-10-28_17-35",
       "date": "2026-10-28",

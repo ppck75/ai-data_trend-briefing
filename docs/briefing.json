@@ -1,95 +1,16 @@
 {
-  "briefing_date": "2026-10-28",
-  "generated_at": "2026-10-28T18:55:57.142434+09:00",
+  "briefing_date": "2026-10-29",
+  "generated_at": "2026-10-29T00:21:13.770986+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 174,
-    "tech_blog": 4,
+    "news": 175,
+    "tech_blog": 3,
     "ai_data": 22
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "ee42eb99e6d6a19a48e5b2705fc3d98034d79d546fbad79da24d95aca2602c40",
-        "title": "김범석 배민 \"주문 전부터 AI가 준비...기다림 '제로'에 가깝게\"",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261028110907",
-        "published_at": "2026-10-28T11:28:29+09:00",
-        "summary": "[지디넷코리아]배달의민족 운영사 우아한형제들이 인공지능(AI)을 활용해 고객이 주문하기 전부터 수요를 예측하고, 음식 조리와 라이더 배차를 선제적으로 준비하는 미래 배달 서비스 청사진을 공개했다. AI 에이전트가 고객의 취향을 파악해 메뉴를 추천하고, 조리부터 배달까지 전 과정을 실시간으로 연결해 기다리는 시간을 최소화하겠다는 구상이다.김범석 우아한형제들 최고경영자(CEO)와 고명석 최고기술책임자(CTO)는 28일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '우아한테크콘퍼런스 2026(우아콘)' 오프닝 키노트에서 이 같은 AI 기술 전략과 주요 성과를 발표했다.김 CEO는 이날 AI를 활용해 고객에게 필요한 음식과 상품을 필요한 순간 제공하는 '심리스 시티(Seamless City)' 비전을 제시했다.사용자가 메뉴를 고민하고 검색하는 시간까지 줄이겠다는 의미다. AI가 사용자 주문 습관과 취향을 분석해 메뉴를 추천하고, 음식점은 예상 수요에 맞춰 조리를 준비하며, 라이…",
-        "category_score": 98,
-        "score_reason": "AI 에이전트를 통해 플랫폼의 핵심 가치인 '효율성'과 '경험'을 완전히 재정의하는 모델 제시. 단순 기술 도입을 넘어 비즈니스 운영 프로세스의 근본적인 변화를 시사함.",
-        "keywords": [
-          "AI",
-          "플랫폼",
-          "커머스",
-          "수요예측"
-        ],
-        "planning_insight": "고객 주문 '전' 단계로 개입하는 예측형 AI 모델은 초개인화 마케팅과 운영 효율화의 차세대 표준이 될 것임."
-      },
-      {
-        "rank": 2,
-        "id": "1d7d8c74719278d8ec45a8ca3ab32280201775756742e0835012082cba6eb85c",
-        "title": "애플, 한국어 '시리 AI' 출시…메시지 찾고 일정 등록",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261027174711",
-        "published_at": "2026-10-27T17:47:58+09:00",
-        "summary": "[지디넷코리아]애플이 메시지와 이메일에서 정보를 찾고 여러 앱에서 후속 작업까지 처리하는 한국어 '시리 AI'를 출시했다. 사용자가 앱마다 들어가 내용을 확인하고 옮겨 적던 일을 AI 비서에 맡길 수 있도록 기능을 확대했다.애플은 27일 배포한 27.2 소프트웨어 업데이트를 통해 시리 AI에 한국어를 추가했다고 밝혔다. 시리 AI는 사용자 개인 맥락과 화면 내용을 이해해 정보를 찾고 일정 등록과 문서 작성 등 앱 기능을 실행한다.일례로 \"엄마가 주말에 무엇을 하자고 했지?\"라고 물으면 시리는 메시지에서 함께 호박죽을 만들자는 내용을 찾는다. 이어 할머니가 이메일로 보낸 요리법을 불러오고 필요한 재료를 미리 알림 앱 장보기 목록에 추가할 수 있다. 애플은 여러 앱에 흩어진 정보를 연결하는 기능을 이처럼 설명했다.앞선 답변에 질문을 이어가는 기능도 제공한다. 친구가 메시지에서 추천한 오대산국립공원 숲길을 찾은 뒤 길이가 얼마나 되는지, 아이와 함께 걷기에 적당한지 물을 수 있다. 시리…",
-        "category_score": 95,
-        "score_reason": "OS 레벨의 AI 도입은 소비자 행동 양식(UX)의 혁명적 변화를 예고함. 플랫폼 생태계 전반의 AI 에이전트 접점 확장 신호임.",
-        "keywords": [
-          "AI",
-          "플랫폼",
-          "소비자 행동"
-        ],
-        "planning_insight": "OS 차원의 맥락 이해 기술은 기존 앱 기반 서비스의 존재 방식에 위협이자 새로운 기능 확장 기회가 될 것임."
-      },
-      {
-        "rank": 3,
-        "id": "a73e42b42b91911e11d75c22324d0c346f6bbcfb663841c9ad7cca14f5e3c56d",
-        "title": "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261027154918",
-        "published_at": "2026-10-27T15:53:22+09:00",
-        "summary": "[지디넷코리아]라인플러스가 인공지능(AI)을 활용해 국내 K뷰티 브랜드의 해외 판매용 상품 이미지와 설명 문구 제작을 지원한다. 아마존 입점 과정에서 필요한 콘텐츠 제작과 현지화 작업을 자동화해 국내 기업의 글로벌 진출 부담을 줄이겠다는 구상이다.라인플러스는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '아마존 뷰티 인 서울 2026'에 참가해 AI 마케팅 솔루션 '워너블 AI(Oneable AI)'를 선보였다고 밝혔다.이날 행사에서 라인플러스는 체험형 부스를 운영하고 K뷰티 셀러와 브랜드 관계자를 대상으로 상품 콘텐츠 제작 시연과 상담을 진행했다.방문객들은 실제 판매 중인 상품 정보를 입력하고 아마존 상품 페이지에 활용할 이미지와 설명 문구가 생성되는 과정을 직접 체험했다.지난 7일 출시된 워너블 AI는 아마존 판매자를 위한 AI 기반 마케팅 솔루션이다. 상품과 시장 분석부터 콘텐츠 기획·제작, 아마존 이미지 가이드라인 점검, 현지화 등을 지원한다.국내에서 판매…",
-        "category_score": 92,
-        "score_reason": "글로벌 커머스 진출에 필수적인 콘텐츠 제작을 AI로 자동화하는 사례. 광고/마케팅 효율화와 글로벌 확장성이 결합된 강력한 실무 사례임.",
-        "keywords": [
-          "AI",
-          "커머스",
-          "광고",
-          "글로벌"
-        ],
-        "planning_insight": "콘텐츠 제작 자동화는 중소 브랜드의 글로벌 시장 진입 장벽을 낮추며, 플랫폼 내 '콘텐츠 생산성' 지표를 핵심 경쟁력으로 부상시킬 것임."
-      },
-      {
-        "rank": 4,
-        "id": "afb003c6d06262e49d535e4c68187b065abc02a0a6dd6bd44f4e6cd165785dff",
-        "title": "쇼핑몰 데이터, 의사결정 인사이트로…카페24, 'AI 리포트' 공개",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261027093608",
-        "published_at": "2026-10-27T10:29:49+09:00",
-        "summary": "[지디넷코리아]카페24는 자사 데이터 분석 서비스 '카페24 애널리틱스'에 인공지능(AI) 기술을 기반으로 쇼핑몰 데이터를 비즈니스 의사결정에 활용할 수 있는 인사이트로 분석해 제공하는 'AI 리포트'를 새롭게 공개했다고 28일 밝혔다.AI 리포트는 온라인 쇼핑몰 운영 과정에서 축적된 데이터를 분석해 주요 실적과 변화 양상을 보여주는 기능이다. 매출 등 각종 지표를 정리하는 것뿐만 아니라 운영상 개선이 필요한 부분과 대응 방안, 예상되는 효과까지 보고서 형태로 제공한다.쇼핑몰 운영자는 분석 목적에 따라 '기간 리포트' 또는 '맞춤 리포트'를 이용할 수 있다. 기간 리포트는 ▲하루 ▲일주일 ▲한 달 등 설정한 기간을 기준으로 쇼핑몰의 운영 성과와 변동 사항을 분석한다.맞춤 리포트에서는 운영자가 원하는 분석 내용을 직접 입력할 수 있다. 특정 제품의 판매 흐름이나 광고 매체별 성과 등 궁금한 사항을 자연어로 질문하면 AI가 관련 데이터를 추출해 분석 보고서를 생성하는 방식이다.보고서의…",
-        "category_score": 89,
-        "score_reason": "데이터를 단순 시각화하는 수준을 넘어 AI가 직접 인사이트와 실행 전략을 제시하는 방향으로 진화. 플랫폼 데이터 비즈니스의 고도화 모델임.",
-        "keywords": [
-          "AI",
-          "데이터",
-          "플랫폼",
-          "커머스"
-        ],
-        "planning_insight": "데이터 분석의 주체가 '운영자'에서 'AI 에이전트'로 이동함에 따라, 인사이트 제공 서비스가 플랫폼의 락인(Lock-in) 전략의 핵심이 될 것임."
-      },
-      {
-        "rank": 5,
         "id": "76697d0c0e39d13758f071f3233f5d473aeed3faee9101882a696b44b97d95f2",
         "title": "데이터 분석 36년 위세아이텍, 구독·광고서 새 성장동력 찾는다",
         "source": "ZDNet Korea",
@@ -98,15 +19,99 @@
         "url": "https://zdnet.co.kr/view/?no=20261028111351",
         "published_at": "2026-10-28T11:15:57+09:00",
         "summary": "[지디넷코리아]36년간 기업과 공공기관의 데이터를 다뤄온 위세아이텍이 플랫폼 사업으로 보폭을 넓힌다. 유튜브 분석 서비스로 구독·광고 시장에 진입하고 감정 인식 AI 연구로 기술 활용 분야도 확대한다.김다산 위세아이텍 대표는 지난 27일 서울 중구 보코 명동에서 열린 기자간담회에서 기업·공공기관 중심 고객층을 넓히고 구독과 광고 매칭으로 수익원을 확대하겠다는 사업 방향을 밝혔다. 새로 출시한 유튜브 분석 서비스 '튜밋'으로 채널 운영자를 확보하고 향후 광고주와 연결할 계획이다.튜밋은 유튜브 시장 흐름과 개별 채널 성과를 분석해 콘텐츠 기획과 운영을 돕는 구독형 서비스다. 위세아이텍은 기업·공공기관에 솔루션을 공급해온 사업 기반을 개인 크리에이터와 콘텐츠 제작사로 넓힌다.코스닥 상장사인 위세아이텍은 대중 인지도 제고도 기대하고 있다. 김 대표는 많은 사람이 사용하는 서비스를 확보하면 기업가치뿐 아니라 기존 기업간거래(B2B) 고객이 바라보는 회사 이미지와 분석 역량 평가에도 도움이…",
-        "category_score": 87,
-        "score_reason": "데이터 분석 기업이 유튜브 분석/광고 매칭으로 비즈니스 모델을 확장하는 트렌드. 콘텐츠 데이터가 광고 성과와 직결되는 흐름을 보여줌.",
+        "category_score": 67,
+        "score_reason": "AI, 광고, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "데이터",
+          "AI",
           "광고",
           "플랫폼",
+          "유튜브",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "a73e42b42b91911e11d75c22324d0c346f6bbcfb663841c9ad7cca14f5e3c56d",
+        "title": "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261027154918",
+        "published_at": "2026-10-27T15:53:22+09:00",
+        "summary": "[지디넷코리아]라인플러스가 인공지능(AI)을 활용해 국내 K뷰티 브랜드의 해외 판매용 상품 이미지와 설명 문구 제작을 지원한다. 아마존 입점 과정에서 필요한 콘텐츠 제작과 현지화 작업을 자동화해 국내 기업의 글로벌 진출 부담을 줄이겠다는 구상이다.라인플러스는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '아마존 뷰티 인 서울 2026'에 참가해 AI 마케팅 솔루션 '워너블 AI(Oneable AI)'를 선보였다고 밝혔다.이날 행사에서 라인플러스는 체험형 부스를 운영하고 K뷰티 셀러와 브랜드 관계자를 대상으로 상품 콘텐츠 제작 시연과 상담을 진행했다.방문객들은 실제 판매 중인 상품 정보를 입력하고 아마존 상품 페이지에 활용할 이미지와 설명 문구가 생성되는 과정을 직접 체험했다.지난 7일 출시된 워너블 AI는 아마존 판매자를 위한 AI 기반 마케팅 솔루션이다. 상품과 시장 분석부터 콘텐츠 기획·제작, 아마존 이미지 가이드라인 점검, 현지화 등을 지원한다.국내에서 판매…",
+        "category_score": 62,
+        "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅",
+          "브랜드",
           "콘텐츠"
         ],
-        "planning_insight": "광고 효율이 데이터 분석력에 의해 결정되는 시대, 콘텐츠 운영 지표를 광고주 매칭 솔루션으로 변환하는 전략적 확장이 유효함."
+        "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "6f06eb54c349f4bd5214f9659f6fadb0b2eb4dc76b9b0a57b0754b90f74a9304",
+        "title": "LGU+ \"통합 플랫폼 U+one, 8월 MAU 최고치 기록\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261027153004",
+        "published_at": "2026-10-27T15:50:31+09:00",
+        "summary": "[지디넷코리아]LG유플러스는 통합 가입자 응대 플랫폼 유플러스원(U+one)이 출시 후 지난 8월 월간활성이용자 수(MAU) 최고치인 약 610만명을 기록했다고 27일 밝혔다.고객센터와 멤버십 앱 통합 전인 지난해 10월 대비 약 20%, 출시 직후인 지난해 11월 대비 2배 이상 증가한 수치다.이용자 증가 주요 원인으로 AI 기반 업무 처리와 콘텐츠, 멤버십 강화가 꼽힌다.대표 기능 AI 검색은 일상적인 표현으로 요금이나 미납 여부 등 정보를 쉽게 찾을 수 있도록 고도화됐다. 최근엔 로밍 상품 추천과 가입, 요금 납부 등 대화 안에서 직접 업무를 처리하는 AI 에이전트로 발전하고 있다.통신 업무가 없을 때도 찾는 콘텐츠, 멤버십 페이지인 플러스(+)는 전문 협력사와 참여형 콘텐츠 확대에 힘입어 월 이용자가 출시 초기보다 2배 이상 늘었다.이 같은 혁신에 힘입어 LG유플러스는 디지털고객경험지수(DCXI) 이동통신 부문 3년 연속 1위를 차지했으며, 플러스는 ICT 어워드 코리아 2…",
+        "category_score": 62,
+        "score_reason": "AI, 플랫폼, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "추천",
+          "검색",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "626dd8ddb43dbb5ba42a28e9394d942031fab7ab716ff3cad9b54708992326c7",
+        "title": "다이소 고객센터에 생성형AI 도입, KTcs 상담 플랫폼 적용",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261027153329",
+        "published_at": "2026-10-27T15:33:29+09:00",
+        "summary": "[지디넷코리아]다이소가 고객센터에 생성형 AI를 도입해 상품 검색부터 배송, 교환, 환불까지 상담 업무를 자동화한다. 자주 발생하는 문의는 AI가 처리하고 사람의 판단이 필요한 상담은 기존 상담사가 맡는 방식이다.KTcs는 자사 AI 컨택센터(AICC) 솔루션 '하이큐리(HiQri)'를 다이소 고객센터에 적용했다고 밝혔다. 고객이 문의한 내용을 분석하고 기업 내부 자료에서 적절한 답변을 찾아 제공하는 검색증강생성(RAG) 기술을 활용했다.이용자는 전화 또는 채팅으로 AI 상담을 받을 수 있다. 음성 상담 시스템은 고객의 질문을 인식해 안내하며, 챗봇은 필요한 내용을 문자로 전달한다. 특히 챗봇은 시간과 요일에 관계없이 연중무휴 운영된다.이 서비스는 사전에 등록한 문답을 단순히 출력하는 방식에서 벗어난 것이 특징이다. AI가 질문의 의도를 파악한 뒤 다이소의 상담 데이터에서 관련 내용을 검색해 응답을 구성한다.예컨대 고객이 상품 정보나 매장 위치를 묻거나 주문한 물품의 배송 및 환불…",
+        "category_score": 62,
+        "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "생성형 AI",
+          "플랫폼",
+          "데이터",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "5c021846213f0aa2e0fbbfa8d5c72d0f1983a1798b130876dbeaf539e6f4fefa",
+        "title": "[카드뉴스] 친구를 때린 영상이 돈벌이가 된다면",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261028084409",
+        "published_at": "2026-10-28T18:25:09+09:00",
+        "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 친구를 때린 영상이 돈벌이가 된다면 어떨까요? 요즘 학생들의 싸움을 멋진 격투처럼 꾸며 찍은 이른바 '야차룰' 영상이 문제가 되고 있어요. 이 영상들은 텔레그램 같은 유료 단톡방이나 생중계로 퍼지고, 그 대가로 후원금이 들어오거나 도박 광고 수익이 생기기도 해요. 사람들의 관심이 곧 돈이 되다 보니 멈추기가 쉽지 않은데요. 영상을 올리면 조회수가 늘고, 조회수가 오르면 추천 화면에 더 많이 노출돼요. 그러면 수익이 생기고, 영상을 올린 사람은 더 센 영상을 기획하게 되는 악순환이 이어진답니다. 그래서 막아야 할 대상은 사람만이 아니라 바로 이 '돈줄'이에요.그렇다면 어떻게 막을 수 있을까요? 영상을 퍼뜨렸다고 해서 모두 가해자로 보지는 않아요. 대신 촬영을 지시했는지, 수익을 나눠 가졌는지, 계속 반복해서 올렸는지, 이 세 가지가 디지털 기록으로 확인되면 공범으로 무겁게 책임을 물어요. 플랫폼 대응도 중요한데요. AI가 미리 모두…",
+        "category_score": 61,
+        "score_reason": "AI, 광고, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "플랫폼",
+          "추천"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -120,58 +125,19 @@
         "url": "https://tech.kakao.com/posts/844",
         "published_at": "2026-10-28T00:00:00+09:00",
         "summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서(CLAUDE.md)를 읽고 SQL을 작성해 기존 Hadoop 환경에서 실행한 뒤 집계 결과를 리포트로 완성합니다. 지난 글에서는 데이터 엔지니어, 분석가만 알고 있던 로그 데이터 접근 방법과 분석 기준을 AI를 통해 조회하는 사례를 소개했습...",
-        "category_score": 95,
-        "score_reason": "AI를 활용한 데이터 분석 프로세스 효율화 및 추천팀의 컨텍스트 설계 방식을 구체적으로 다루고 있어, 데이터 기반 의사결정 전략에 최상의 인사이트를 제공함.",
+        "category_score": 61,
+        "score_reason": "추천, 데이터, 로그 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 에이전트",
-          "추천 시스템",
-          "데이터 분석",
-          "프로세스 자동화"
+          "추천",
+          "데이터",
+          "로그",
+          "분석",
+          "AI"
         ],
-        "planning_insight": "분석 기준과 로그의 표준화(CLAUDE.md 등)를 통해 AI가 일관된 데이터 리포트를 생성하게 함으로써 조직의 데이터 접근성을 높이는 전략적 시사점 제공"
+        "planning_insight": "이 항목은 추천, 데이터, 로그 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "bc970d95756f82c1eafa1197d4180696cd02b38dc9fdad361f14f724448cbaeb",
-        "title": "손가락 튕기기로 LLM 비용 줄이기",
-        "source": "토스 기술블로그",
-        "group": "tech_blog",
-        "category": "product_tech",
-        "url": "https://toss.tech/article/snap-llm-cost-reduction",
-        "published_at": "2026-10-27T16:05:00+09:00",
-        "summary": "토스에서 늘어나는 LLM 비용을 빠르게 줄이는 방법을 소개합니다.",
-        "category_score": 92,
-        "score_reason": "제품 내 LLM 도입 시 발생하는 운영 비용 문제와 이를 해결하기 위한 실무적 최적화 전략을 다루고 있어, 제품 기획 단계에서의 비용 효율성을 검토하는 데 필수적임.",
-        "keywords": [
-          "LLM",
-          "비용 최적화",
-          "제품 운영",
-          "기술 전략"
-        ],
-        "planning_insight": "LLM 도입 시 단순히 모델의 성능뿐만 아니라 실시간 서비스 환경에서의 인프라/비용 구조를 고려한 제품 설계의 중요성 강조"
-      },
-      {
-        "rank": 3,
-        "id": "9ca1d76b87bd2673b15f050f63945cf5b48246e61dc496b2e560e9835600be72",
-        "title": "대AI시대에 일하는 방식의 변화에 대한 고찰",
-        "source": "무신사 테크",
-        "group": "tech_blog",
-        "category": "fashion_commerce",
-        "url": "https://techblog.musinsa.com/%EB%8C%80ai%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EB%B3%80%ED%99%94%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-6d11e0b1fead",
-        "published_at": "2026-10-27T07:01:01+09:00",
-        "summary": "1인 1작업에서 1인 N작업으로, 병목이 코딩에서 판단으로 옮겨간 시대에 일하는 방식은 어떻게 달라지는가 들어가며 무신사 물류플랫폼팀에서 백엔드를 개발하고 있습니다. 먼저 밝혀두자면, 무언가를 가르치거나 교훈을 전하려는 목적은 없습니다. AI 코딩 에이전트와 본격적으로 일하기 시작한 뒤 제 일하는 방식이 어떻게 바뀌었고 어디에서 넘어졌는지, 그래서 지금은 어떤 방식으로 일하는지를 돌아보는 글에 가깝습니다. 저도 아직 이 방식이 맞는지 의심하는 중입니다. 요즘 제 모니터에는 터미널 창이 여러 개 떠 있습니다. 각 창에서는 서로 다른 작업을 맡은 에이전트가 돌고 있고, 저는 그 사이를 오가며 결과를 읽고, 승인하고, 다음 지시를 내립니다. 몇 년 전의 저라면 이 화면을 보고 “저렇게 하면 하나도 제대로 못 끝낸다”고 했을 겁니다. 실제로 그때는 그 말이 맞았습니다. 이 글은 세 가지 질문을 따라갑니다. 왜 예전에는 한 번에 하나만 했는가. 무엇이 바뀌어서 지금은 여러 개를 동시에 굴리…",
-        "category_score": 85,
-        "score_reason": "코딩 에이전트 도입에 따른 업무 방식의 변화를 다룸. 개발 생산성을 넘어 기획과 실행 사이의 병목 지점을 판단 역량으로 해결하는 운영 방식 변화를 잘 보여줌.",
-        "keywords": [
-          "AI 에이전트",
-          "생산성",
-          "워크플로우",
-          "조직 문화"
-        ],
-        "planning_insight": "AI 도구 도입이 단순한 업무 자동화를 넘어 제품 팀의 의사결정 방식과 리소스 배분 전략을 어떻게 재편해야 하는지에 대한 가이드라인 제시"
-      },
-      {
-        "rank": 4,
         "id": "027566db080192d84d42916be0a52710f70e5511d531bfbe672ea9dc2e3c3605",
         "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
         "source": "네이버 D2",
@@ -180,58 +146,57 @@
         "url": "https://d2.naver.com/helloworld/1975819",
         "published_at": "2026-10-27T13:20:00+09:00",
         "summary": "시작하며: 2018년과 2026년 사이의 간격과 격변기의 고민 ​ 2018년에 저는 ' 백엔드 개발자를 꿈꾸는 학생개발자에게 '라는 글을 이곳 D2 블로그에 공유했습니다. 당시 학생 개발자들과의 미트업 행사에서 나왔던 질문과 답변을 정리한 글이었습니다. 그 후 8년의 시간이 흘렀기에 그 글만 노출된다면 학생들에게 현시점에 적절한 정보를 주지 못할까 봐 걱정되었습니다. 그래서 2025년 말 설문으로 질문을 받아 후속편을 작성했습니다. ​ 그동안 저도 경험과 지식을 더 쌓았습니다. 하지만 지금 학생 개발자들이 한 질문에는 답하기가 더 어려워졌습니다. 개발자의 역할과 같은 큰 주제를 묻는 질문이 많았는데, 지금은 AI로 인한 변화가 큰 시기이기 때문입니다. 스스로도 확신이 없는 시기에 이런 글을 쓰는 것이 적절할지 고민도 했습니다. ​ 그럼에도 2018년의 글에 보내 주신 관심에 용기를 얻어서 이 글을 발행합니다. 최근의 경험을 나누고 미래를 함께 상상해 보는 일이 지금 시점에는 더 의…",
-        "category_score": 78,
-        "score_reason": "AI 시대의 개발자 역량에 대한 거시적 담론을 다룸. 직접적인 서비스 기획 도구는 아니나, 기술 조직의 인재상 변화가 곧 제품 전략과 연결됨을 시사함.",
+        "category_score": 46,
+        "score_reason": "로그, AI, 백엔드 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 시대",
-          "인재상",
-          "기술 전략",
-          "커리어"
+          "로그",
+          "AI",
+          "백엔드"
         ],
-        "planning_insight": "기술의 변화가 조직의 문법과 업무 우선순위를 어떻게 바꾸는지 통찰하며, 기술 중심의 제품 문화 형성을 위한 조직적 고민 필요성 확인"
+        "planning_insight": "이 항목은 로그, AI, 백엔드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "bc970d95756f82c1eafa1197d4180696cd02b38dc9fdad361f14f724448cbaeb",
+        "title": "손가락 튕기기로 LLM 비용 줄이기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/snap-llm-cost-reduction",
+        "published_at": "2026-10-27T16:05:00+09:00",
+        "summary": "토스에서 늘어나는 LLM 비용을 빠르게 줄이는 방법을 소개합니다.",
+        "category_score": 31,
+        "score_reason": "LLM 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM"
+        ],
+        "planning_insight": "이 항목은 LLM 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "b22251121bede6db1957808be451c3c1d91ada16f8f1b008702eecb5bb9170a9",
-        "title": "Build specialized multimodal models with LFM3",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-        "published_at": "2026-10-28T02:16:52+09:00",
-        "summary": "",
-        "category_score": 98,
-        "score_reason": "콘텐츠 제작의 핵심인 멀티모달 모델을 전문화할 수 있는 LFM3 도구는 기획자가 직접 맞춤형 생성 환경을 구축하는 데 필수적인 기술적 변화임.",
-        "keywords": [
-          "멀티모달",
-          "오픈소스",
-          "모델 커스터마이징"
-        ],
-        "planning_insight": "특정 도메인에 특화된 멀티모달 모델 구축을 통해 타사 대비 차별화된 콘텐츠 자동화 파이프라인 구성 가능."
-      },
-      {
-        "rank": 2,
-        "id": "159fca1a2d109e3f20d7074eb0c89143f1c55f8c8b39208b938876a56b58864a",
-        "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
+        "id": "9cc80001ca77d61b93ea563b6c385fdc07c4d24a21b2283f86de131475a30818",
+        "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.33015",
-        "published_at": "2026-10-27T13:00:00+09:00",
-        "summary": "arXiv:2610.33015v1 Announce Type: new Abstract: Long-term memory enables large language model (LLM) agents to maintain personalized and temporally coherent interactions, but repeated LLM inference for memory admission, extraction, and organization introduces substantial cost and latency. We present SLICE-Mem, a lightweight memory framework that combines salience-guided admission and predicate-centered information extraction. A compact classifier identifies user turns worth retaining, and a sema…",
-        "category_score": 95,
-        "score_reason": "LLM 에이전트의 메모리 효율화는 긴 맥락을 유지해야 하는 자동화된 콘텐츠 추천 및 분석 시스템 운영 비용을 대폭 절감함.",
+        "url": "https://arxiv.org/abs/2610.36013",
+        "published_at": "2026-10-28T13:00:00+09:00",
+        "summary": "arXiv:2610.36013v1 Announce Type: new Abstract: General-purpose embodied intelligence requires robots to coordinate diverse skills over long horizons, track task progress, and recover from failures. Specialist policies alone do not ensure task-level reliability, while powerful multimodal agents rely on costly reasoning and external experience that compact models struggle to reproduce. We introduce OmniBrain-0, a lightweight unified embodied agent that coordinates manipulation and navigation thr…",
+        "category_score": 66,
+        "score_reason": "agent, agents, multimodal 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "LLM 에이전트",
-          "메모리 최적화",
-          "비용 효율"
+          "agent",
+          "agents",
+          "multimodal",
+          "model",
+          "reasoning"
         ],
-        "planning_insight": "개인화된 대화형 서비스나 장기 기억 기반의 콘텐츠 추천 시 성능과 운영 비용 간 균형을 맞추는 핵심 전략임."
+        "planning_insight": "이 항목은 agent, agents, multimodal 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": "6fded078dc4f070b7dfca02e28f30d09ce3bde679072092d37599552ea247178",
         "title": "Recursive Semantic Divergence for LLM Agent Consistency",
         "source": "arXiv cs.CL",
@@ -240,194 +205,81 @@
         "url": "https://arxiv.org/abs/2610.33012",
         "published_at": "2026-10-27T13:00:00+09:00",
         "summary": "arXiv:2610.33012v1 Announce Type: new Abstract: Large Language Model (LLM) agents with tool use exhibit inconsistent behavior across independent runs from identical states, calling different tools, producing contradictory outputs, or pursuing divergent strategies. This variability compounds over time and undermines deployment reliability. Existing evaluation metrics primarily measure task correctness via completion-based scores and do not capture consistency in agent behavior across executions.…",
-        "category_score": 92,
-        "score_reason": "에이전트의 일관성 문제는 기업용 AI 에이전트 배포 시 신뢰도를 결정짓는 가장 중요한 이슈로, 기획 단계에서 제어 체계 마련이 필수적임.",
+        "category_score": 58,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 에이전트",
-          "일관성",
-          "신뢰성"
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "evaluation"
         ],
-        "planning_insight": "에이전트 활용 서비스 기획 시 결과값의 변동성을 제어하는 워크플로우 설계가 실무 배포의 성패를 가름함."
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "159fca1a2d109e3f20d7074eb0c89143f1c55f8c8b39208b938876a56b58864a",
+        "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.33015",
+        "published_at": "2026-10-27T13:00:00+09:00",
+        "summary": "arXiv:2610.33015v1 Announce Type: new Abstract: Long-term memory enables large language model (LLM) agents to maintain personalized and temporally coherent interactions, but repeated LLM inference for memory admission, extraction, and organization introduces substantial cost and latency. We present SLICE-Mem, a lightweight memory framework that combines salience-guided admission and predicate-centered information extraction. A compact classifier identifies user turns worth retaining, and a sema…",
+        "category_score": 56,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 4,
-        "id": "3389f5758b16b5c734efe91a411837da072f4c4c3cc0bee9ab2f167ec8c39ba9",
-        "title": "LLM Hallucination Detection via Low-rank Multilinear Decomposition",
-        "source": "arXiv cs.CL",
+        "id": "b22251121bede6db1957808be451c3c1d91ada16f8f1b008702eecb5bb9170a9",
+        "title": "Build specialized multimodal models with LFM3",
+        "source": "Hugging Face Blog",
         "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.36191",
-        "published_at": "2026-10-28T13:00:00+09:00",
-        "summary": "arXiv:2610.36191v1 Announce Type: new Abstract: Large language models (LLMs) frequently generate fluent yet factually incorrect responses, raising concerns about their reliability. Recent hallucination detectors increasingly exploit internal representations, but extracting informative signals from high-dimensional hidden states remains challenging. Existing approaches often rely on selected activations or pooling-based compression, potentially overlooking discriminative information distributed…",
-        "category_score": 88,
-        "score_reason": "할루시네이션(환각) 탐지 기술은 자동화된 콘텐츠 생성 시스템의 무결성을 보장하는 안전장치로 기획자의 기술 이해도가 높아야 함.",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "published_at": "2026-10-28T02:16:52+09:00",
+        "summary": "",
+        "category_score": 54,
+        "score_reason": "multimodal, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "환각 탐지",
-          "신뢰성",
-          "자동화"
+          "multimodal",
+          "model"
         ],
-        "planning_insight": "AI 기반 자동 생성 콘텐츠 배포 전 반드시 도입해야 할 품질 관리 및 검증 시스템 구축의 근거 자료가 됨."
+        "planning_insight": "이 항목은 multimodal, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 5,
-        "id": "8f9faf4313292909d7cee11f308f8a0aeefd95c0ce356c11a8c5854ebb2dd0dc",
-        "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
+        "id": "7572599a9554ce5631fd654c0a00e00874096ec5ca775632dc445547e16dacde",
+        "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.36083",
+        "url": "https://arxiv.org/abs/2610.36006",
         "published_at": "2026-10-28T13:00:00+09:00",
-        "summary": "arXiv:2610.36083v1 Announce Type: new Abstract: Recent advances in Generative AI have substantially improved financial sentiment analysis through post-trained financial large language models (LLMs). However, existing approaches remain confined to predicting the sentiment of each article in isolation and operate as black boxes, which limits contextual understanding and hinders deployment in high-stakes financial decision-making. To this end, we introduce FinLLM-KG, a model-agnostic framework tha…",
-        "category_score": 85,
-        "score_reason": "지식 그래프와 LLM을 결합하여 분석의 깊이를 더하는 방식은 비즈니스 데이터 기반의 콘텐츠 분석 자동화에 최적화된 기법임.",
+        "summary": "arXiv:2610.36006v1 Announce Type: new Abstract: System One decision models such as Jev answer structured questions in a single forward pass without generating text, offering fast and computationally efficient clinical decision support. We evaluate MedJev, an open System One model that runs locally on a laptop, across ten medical benchmarks spanning medical knowledge, diagnosis, and patient level prediction using MIMIC IV and MIMIC IV ED. We compare MedJev against zero shot LLM baselines, publis…",
+        "category_score": 53,
+        "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "지식 그래프",
-          "데이터 분석",
-          "의사결정 AI"
+          "LLM",
+          "benchmark",
+          "model",
+          "AI"
         ],
-        "planning_insight": "데이터 간 관계성을 활용하여 단순 요약을 넘어 인사이트가 도출되는 지능형 분석 보고서 자동 생성에 활용 가능."
+        "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "ee42eb99e6d6a19a48e5b2705fc3d98034d79d546fbad79da24d95aca2602c40",
-      "title": "김범석 배민 \"주문 전부터 AI가 준비...기다림 '제로'에 가깝게\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261028110907",
-      "published_at": "2026-10-28T11:28:29+09:00",
-      "summary": "[지디넷코리아]배달의민족 운영사 우아한형제들이 인공지능(AI)을 활용해 고객이 주문하기 전부터 수요를 예측하고, 음식 조리와 라이더 배차를 선제적으로 준비하는 미래 배달 서비스 청사진을 공개했다. AI 에이전트가 고객의 취향을 파악해 메뉴를 추천하고, 조리부터 배달까지 전 과정을 실시간으로 연결해 기다리는 시간을 최소화하겠다는 구상이다.김범석 우아한형제들 최고경영자(CEO)와 고명석 최고기술책임자(CTO)는 28일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '우아한테크콘퍼런스 2026(우아콘)' 오프닝 키노트에서 이 같은 AI 기술 전략과 주요 성과를 발표했다.김 CEO는 이날 AI를 활용해 고객에게 필요한 음식과 상품을 필요한 순간 제공하는 '심리스 시티(Seamless City)' 비전을 제시했다.사용자가 메뉴를 고민하고 검색하는 시간까지 줄이겠다는 의미다. AI가 사용자 주문 습관과 취향을 분석해 메뉴를 추천하고, 음식점은 예상 수요에 맞춰 조리를 준비하며, 라이…",
-      "category_score": 98,
-      "score_reason": "AI 에이전트를 통해 플랫폼의 핵심 가치인 '효율성'과 '경험'을 완전히 재정의하는 모델 제시. 단순 기술 도입을 넘어 비즈니스 운영 프로세스의 근본적인 변화를 시사함.",
-      "keywords": [
-        "AI",
-        "수요예측",
-        "초개인화",
-        "플랫폼 전략"
-      ],
-      "planning_insight": "기다림을 없애는 '예측형 서비스'는 콘텐츠 및 마케팅 전략에서 고객의 탐색 비용을 극단적으로 줄이는 초개인화 설계의 기준이 될 것임.",
-      "integrated_score": 96,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "배달의민족, 주문 전 수요 예측 및 메뉴 추천으로 '심리스 시티' 비전 제시",
-      "importance_reason": "AI가 수동적 반응을 넘어 사용자 행동 예측을 통해 플랫폼 운영 프로세스 자체를 선제적으로 재설계하는 강력한 실례를 제공함."
-    },
-    {
-      "rank": 2,
-      "id": "987f2d8e5e76dfc796265a584a11d8e3531d653c62f4328a6c505aae920cdbbb",
-      "title": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
-      "source": "카카오 기술블로그",
-      "group": "tech_blog",
-      "category": "platform_tech",
-      "url": "https://tech.kakao.com/posts/844",
-      "published_at": "2026-10-28T00:00:00+09:00",
-      "summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서(CLAUDE.md)를 읽고 SQL을 작성해 기존 Hadoop 환경에서 실행한 뒤 집계 결과를 리포트로 완성합니다. 지난 글에서는 데이터 엔지니어, 분석가만 알고 있던 로그 데이터 접근 방법과 분석 기준을 AI를 통해 조회하는 사례를 소개했습...",
-      "category_score": 95,
-      "score_reason": "AI를 활용한 데이터 분석 프로세스 효율화 및 추천팀의 컨텍스트 설계 방식을 구체적으로 다루고 있어, 데이터 기반 의사결정 전략에 최상의 인사이트를 제공함.",
-      "keywords": [
-        "AI 에이전트",
-        "데이터 분석",
-        "프로세스 자동화"
-      ],
-      "planning_insight": "데이터 접근성의 표준화(지침 문서 설계)는 실무자가 AI를 도구로 활용해 리포트 생성 및 의사결정을 자동화할 수 있는 필수적 워크플로우임.",
-      "integrated_score": 94,
-      "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "카카오 추천팀의 AI 에이전트 기반 데이터 분석 및 지침 설계(CLAUDE.md) 노하우",
-      "importance_reason": "분석 전문가가 아니어도 AI를 통해 복잡한 로그 데이터를 인사이트로 변환하는 조직 내 효율화 모델을 구체적으로 제시함."
-    },
-    {
-      "rank": 3,
-      "id": "1d7d8c74719278d8ec45a8ca3ab32280201775756742e0835012082cba6eb85c",
-      "title": "애플, 한국어 '시리 AI' 출시…메시지 찾고 일정 등록",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261027174711",
-      "published_at": "2026-10-27T17:47:58+09:00",
-      "summary": "[지디넷코리아]애플이 메시지와 이메일에서 정보를 찾고 여러 앱에서 후속 작업까지 처리하는 한국어 '시리 AI'를 출시했다. 사용자가 앱마다 들어가 내용을 확인하고 옮겨 적던 일을 AI 비서에 맡길 수 있도록 기능을 확대했다.애플은 27일 배포한 27.2 소프트웨어 업데이트를 통해 시리 AI에 한국어를 추가했다고 밝혔다. 시리 AI는 사용자 개인 맥락과 화면 내용을 이해해 정보를 찾고 일정 등록과 문서 작성 등 앱 기능을 실행한다.일례로 \"엄마가 주말에 무엇을 하자고 했지?\"라고 물으면 시리는 메시지에서 함께 호박죽을 만들자는 내용을 찾는다. 이어 할머니가 이메일로 보낸 요리법을 불러오고 필요한 재료를 미리 알림 앱 장보기 목록에 추가할 수 있다. 애플은 여러 앱에 흩어진 정보를 연결하는 기능을 이처럼 설명했다.앞선 답변에 질문을 이어가는 기능도 제공한다. 친구가 메시지에서 추천한 오대산국립공원 숲길을 찾은 뒤 길이가 얼마나 되는지, 아이와 함께 걷기에 적당한지 물을 수 있다. 시리…",
-      "category_score": 95,
-      "score_reason": "OS 레벨의 AI 도입은 소비자 행동 양식(UX)의 혁명적 변화를 예고함. 플랫폼 생태계 전반의 AI 에이전트 접점 확장 신호임.",
-      "keywords": [
-        "OS 레벨 AI",
-        "UX 혁신",
-        "시리 AI"
-      ],
-      "planning_insight": "앱 간 장벽이 허물어지는 환경에서, 서비스 기획자는 자사 앱 내부 데이터뿐만 아니라 OS와 어떻게 유기적으로 연결될지를 고민해야 함.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "애플, 한국어 '시리 AI' 출시로 앱 간 맥락 이해 및 정보 연결 강화",
-      "importance_reason": "사용자가 앱을 개별적으로 실행하지 않고도 AI 비서가 OS 내 정보를 연결하는 구조는 기존 서비스의 UX를 근본적으로 위협함."
-    },
-    {
-      "rank": 4,
-      "id": "159fca1a2d109e3f20d7074eb0c89143f1c55f8c8b39208b938876a56b58864a",
-      "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.33015",
-      "published_at": "2026-10-27T13:00:00+09:00",
-      "summary": "arXiv:2610.33015v1 Announce Type: new Abstract: Long-term memory enables large language model (LLM) agents to maintain personalized and temporally coherent interactions, but repeated LLM inference for memory admission, extraction, and organization introduces substantial cost and latency. We present SLICE-Mem, a lightweight memory framework that combines salience-guided admission and predicate-centered information extraction. A compact classifier identifies user turns worth retaining, and a sema…",
-      "category_score": 95,
-      "score_reason": "LLM 에이전트의 메모리 효율화는 긴 맥락을 유지해야 하는 자동화된 콘텐츠 추천 및 분석 시스템 운영 비용을 대폭 절감함.",
-      "keywords": [
-        "LLM 에이전트",
-        "메모리 최적화",
-        "비용 절감"
-      ],
-      "planning_insight": "장기 기억 기반의 개인화 콘텐츠 추천 시스템 구축 시, 서비스 품질과 인프라 비용 사이의 균형점을 찾기 위한 필수 기술 리서치 대상.",
-      "integrated_score": 90,
-      "criteria_scores": {
-        "content_strategy": 21,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "SLIC-Mem 프레임워크를 통한 LLM 에이전트 메모리 효율성 및 운영 비용 최적화",
-      "importance_reason": "에이전트 기술이 고도화될수록 발생하는 고비용/지연 문제를 해결하는 핵심적인 기술적 방법론임."
-    },
-    {
-      "rank": 5,
       "id": "a73e42b42b91911e11d75c22324d0c346f6bbcfb663841c9ad7cca14f5e3c56d",
       "title": "라인플러스, AI로 아마존 상품 이미지·광고 문구 제작 지원",
       "source": "ZDNet Korea",
@@ -436,50 +288,185 @@
       "url": "https://zdnet.co.kr/view/?no=20261027154918",
       "published_at": "2026-10-27T15:53:22+09:00",
       "summary": "[지디넷코리아]라인플러스가 인공지능(AI)을 활용해 국내 K뷰티 브랜드의 해외 판매용 상품 이미지와 설명 문구 제작을 지원한다. 아마존 입점 과정에서 필요한 콘텐츠 제작과 현지화 작업을 자동화해 국내 기업의 글로벌 진출 부담을 줄이겠다는 구상이다.라인플러스는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '아마존 뷰티 인 서울 2026'에 참가해 AI 마케팅 솔루션 '워너블 AI(Oneable AI)'를 선보였다고 밝혔다.이날 행사에서 라인플러스는 체험형 부스를 운영하고 K뷰티 셀러와 브랜드 관계자를 대상으로 상품 콘텐츠 제작 시연과 상담을 진행했다.방문객들은 실제 판매 중인 상품 정보를 입력하고 아마존 상품 페이지에 활용할 이미지와 설명 문구가 생성되는 과정을 직접 체험했다.지난 7일 출시된 워너블 AI는 아마존 판매자를 위한 AI 기반 마케팅 솔루션이다. 상품과 시장 분석부터 콘텐츠 기획·제작, 아마존 이미지 가이드라인 점검, 현지화 등을 지원한다.국내에서 판매…",
-      "category_score": 92,
-      "score_reason": "글로벌 커머스 진출에 필수적인 콘텐츠 제작을 AI로 자동화하는 사례. 광고/마케팅 효율화와 글로벌 확장성이 결합된 강력한 실무 사례임.",
+      "category_score": 62,
+      "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "AI 광고 생성",
-        "콘텐츠 자동화",
-        "글로벌 커머스"
+        "AI",
+        "광고",
+        "마케팅",
+        "브랜드",
+        "콘텐츠"
       ],
-      "planning_insight": "글로벌 진출 시 현지화 콘텐츠 제작 병목 현상을 해결하는 AI 자동화 도구는 이커머스 운영 효율화의 핵심 동력이 될 것임.",
-      "integrated_score": 88,
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 73,
       "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 22
+        "content_strategy": 22,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]라인플러스가 인공지능(AI)을 활용해 국내 K뷰티 브랜드의 해외 판매용 상품 이미지와 설명 문구 제작을 지원한다. 아마존 입점 과정에서 필요한 콘텐츠 제작과 현지화 작업을 자동화해 국내 기업의 글로벌…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "6f06eb54c349f4bd5214f9659f6fadb0b2eb4dc76b9b0a57b0754b90f74a9304",
+      "title": "LGU+ \"통합 플랫폼 U+one, 8월 MAU 최고치 기록\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261027153004",
+      "published_at": "2026-10-27T15:50:31+09:00",
+      "summary": "[지디넷코리아]LG유플러스는 통합 가입자 응대 플랫폼 유플러스원(U+one)이 출시 후 지난 8월 월간활성이용자 수(MAU) 최고치인 약 610만명을 기록했다고 27일 밝혔다.고객센터와 멤버십 앱 통합 전인 지난해 10월 대비 약 20%, 출시 직후인 지난해 11월 대비 2배 이상 증가한 수치다.이용자 증가 주요 원인으로 AI 기반 업무 처리와 콘텐츠, 멤버십 강화가 꼽힌다.대표 기능 AI 검색은 일상적인 표현으로 요금이나 미납 여부 등 정보를 쉽게 찾을 수 있도록 고도화됐다. 최근엔 로밍 상품 추천과 가입, 요금 납부 등 대화 안에서 직접 업무를 처리하는 AI 에이전트로 발전하고 있다.통신 업무가 없을 때도 찾는 콘텐츠, 멤버십 페이지인 플러스(+)는 전문 협력사와 참여형 콘텐츠 확대에 힘입어 월 이용자가 출시 초기보다 2배 이상 늘었다.이 같은 혁신에 힘입어 LG유플러스는 디지털고객경험지수(DCXI) 이동통신 부문 3년 연속 1위를 차지했으며, 플러스는 ICT 어워드 코리아 2…",
+      "category_score": 62,
+      "score_reason": "AI, 플랫폼, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "추천",
+        "검색",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 70,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]LG유플러스는 통합 가입자 응대 플랫폼 유플러스원(U+one)이 출시 후 지난 8월 월간활성이용자 수(MAU) 최고치인 약 610만명을 기록했다고 27일 밝혔다.고객센터와 멤버십 앱 통합 전인 지난해…",
+      "importance_reason": "AI, 플랫폼, 추천 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "987f2d8e5e76dfc796265a584a11d8e3531d653c62f4328a6c505aae920cdbbb",
+      "title": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/844",
+      "published_at": "2026-10-28T00:00:00+09:00",
+      "summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서(CLAUDE.md)를 읽고 SQL을 작성해 기존 Hadoop 환경에서 실행한 뒤 집계 결과를 리포트로 완성합니다. 지난 글에서는 데이터 엔지니어, 분석가만 알고 있던 로그 데이터 접근 방법과 분석 기준을 AI를 통해 조회하는 사례를 소개했습...",
+      "category_score": 61,
+      "score_reason": "추천, 데이터, 로그 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "추천",
+        "데이터",
+        "로그",
+        "분석",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 추천, 데이터, 로그 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 65,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "라인플러스 '워너블 AI', 아마존 입점용 상품 이미지 및 광고 문구 자동화 지원",
-      "importance_reason": "실제 커머스 환경에서 콘텐츠 생산성 문제를 AI로 해결하는 구체적인 B2B 솔루션 사례임."
+      "one_line_summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서…",
+      "importance_reason": "추천, 데이터, 로그 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "7572599a9554ce5631fd654c0a00e00874096ec5ca775632dc445547e16dacde",
+      "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.36006",
+      "published_at": "2026-10-28T13:00:00+09:00",
+      "summary": "arXiv:2610.36006v1 Announce Type: new Abstract: System One decision models such as Jev answer structured questions in a single forward pass without generating text, offering fast and computationally efficient clinical decision support. We evaluate MedJev, an open System One model that runs locally on a laptop, across ten medical benchmarks spanning medical knowledge, diagnosis, and patient level prediction using MIMIC IV and MIMIC IV ED. We compare MedJev against zero shot LLM baselines, publis…",
+      "category_score": 53,
+      "score_reason": "LLM, benchmark, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "benchmark",
+        "model",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2610.36006v1 Announce Type: new Abstract: System One decision models such as Jev answer structured questions in a…",
+      "importance_reason": "LLM, benchmark, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "76697d0c0e39d13758f071f3233f5d473aeed3faee9101882a696b44b97d95f2",
+      "title": "데이터 분석 36년 위세아이텍, 구독·광고서 새 성장동력 찾는다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261028111351",
+      "published_at": "2026-10-28T11:15:57+09:00",
+      "summary": "[지디넷코리아]36년간 기업과 공공기관의 데이터를 다뤄온 위세아이텍이 플랫폼 사업으로 보폭을 넓힌다. 유튜브 분석 서비스로 구독·광고 시장에 진입하고 감정 인식 AI 연구로 기술 활용 분야도 확대한다.김다산 위세아이텍 대표는 지난 27일 서울 중구 보코 명동에서 열린 기자간담회에서 기업·공공기관 중심 고객층을 넓히고 구독과 광고 매칭으로 수익원을 확대하겠다는 사업 방향을 밝혔다. 새로 출시한 유튜브 분석 서비스 '튜밋'으로 채널 운영자를 확보하고 향후 광고주와 연결할 계획이다.튜밋은 유튜브 시장 흐름과 개별 채널 성과를 분석해 콘텐츠 기획과 운영을 돕는 구독형 서비스다. 위세아이텍은 기업·공공기관에 솔루션을 공급해온 사업 기반을 개인 크리에이터와 콘텐츠 제작사로 넓힌다.코스닥 상장사인 위세아이텍은 대중 인지도 제고도 기대하고 있다. 김 대표는 많은 사람이 사용하는 서비스를 확보하면 기업가치뿐 아니라 기존 기업간거래(B2B) 고객이 바라보는 회사 이미지와 분석 역량 평가에도 도움이…",
+      "category_score": 67,
+      "score_reason": "AI, 광고, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "플랫폼",
+        "유튜브",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 62,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]36년간 기업과 공공기관의 데이터를 다뤄온 위세아이텍이 플랫폼 사업으로 보폭을 넓힌다. 유튜브 분석 서비스로 구독·광고 시장에 진입하고 감정 인식 AI 연구로 기술 활용 분야도 확대한다.김다산 위세아이…",
+      "importance_reason": "AI, 광고, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 88,
+      "count": 84,
       "groups": [
         "ai_data",
         "news",
         "tech_blog"
       ],
       "sources": [
-        "BBC Technology",
         "NYT Technology",
         "ZDNet Korea",
         "arXiv cs.CL",
-        "네이버 D2"
+        "네이버 D2",
+        "매일경제 기업"
       ]
     },
     {
       "keyword": "데이터",
-      "count": 27,
+      "count": 28,
       "groups": [
         "news",
         "tech_blog"
@@ -488,19 +475,6 @@
         "ZDNet Korea",
         "매일경제 기업",
         "카카오 기술블로그"
-      ]
-    },
-    {
-      "keyword": "플랫폼",
-      "count": 18,
-      "groups": [
-        "news",
-        "tech_blog"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "매일경제 기업",
-        "무신사 테크"
       ]
     },
     {
@@ -515,32 +489,41 @@
       ]
     },
     {
-      "keyword": "UI",
+      "keyword": "플랫폼",
       "count": 15,
       "groups": [
-        "ai_data",
         "news"
       ],
       "sources": [
-        "BBC Technology",
-        "Hugging Face Blog",
-        "NYT Technology",
         "ZDNet Korea",
-        "arXiv cs.CL"
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 14,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업",
+        "카카오 기술블로그"
       ]
     }
   ],
   "overall_summary": [
-    "AI가 플랫폼의 운영 프로세스 및 사용자 경험의 근간(OS, 배달)을 재정의하는 단계로 진입 중",
-    "조직 내에서 AI 에이전트를 활용한 데이터 접근성 확대 및 비용 효율화가 실질적인 비즈니스 성과로 연결되는 사례 증가",
-    "콘텐츠 전략 기획자에게는 '생산성 향상'을 넘어 '예측형 고객 대응'과 '비용 최적화된 에이전트 구축' 역량이 필수적인 시점이 도래함"
+    "오늘 선별된 주요 흐름은 AI, 광고, 콘텐츠, 플랫폼, 추천 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
-  "method": "gemini",
-  "fallback_used": false,
-  "gemini_call_count": 4,
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
   "category_methods": {
-    "news": "gemini",
-    "tech_blog": "gemini",
-    "ai_data": "gemini"
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
   }
 }
