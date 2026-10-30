@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T11:06:14.268015+09:00",
+  "updated_at": "2026-10-30T19:21:15.928630+09:00",
   "archives": [
+    {
+      "id": "2026-10-30_19-20",
+      "date": "2026-10-30",
+      "time": "19:20",
+      "label": "2026-10-30 19:20",
+      "generated_at": "2026-10-30T19:20:56.267794+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "자동화"
+      ],
+      "integrated_titles": [
+        "[AI는 지금] 구글, 제미나이에 외부 앱 연결 확대…에이전트 생태계 키운다",
+        "AI도 가성비 시대...'토큰 다이어트'에 빠진 빅테크",
+        "AI가 고객센터 상담원 일자리 뺏을 줄 알았는데",
+        "퀸잇, 메타 손잡고 입점 셀러 광고 지원…인스타그램·페이스북 활용",
+        "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+      ],
+      "path_json": "archive/2026-10-30/19-20.json",
+      "path_md": "archive/2026-10-30/19-20.md"
+    },
     {
       "id": "2026-10-30_12-35",
       "date": "2026-10-30",
