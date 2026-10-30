@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T19:21:15.928630+09:00",
+  "updated_at": "2026-10-31T00:13:19.994476+09:00",
   "archives": [
+    {
+      "id": "2026-10-31_00-13",
+      "date": "2026-10-31",
+      "time": "00:13",
+      "label": "2026-10-31 00:13",
+      "generated_at": "2026-10-31T00:13:04.967917+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "Granite Switch 4.1.1 — Update models like you update software",
+        "AI가 고객센터 상담원 일자리 뺏을 줄 알았는데",
+        "미리디 미리캔버스, 챗GPT 연동 디자인 솔루션 ‘AI 커넥터’ 선보여",
+        "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models"
+      ],
+      "path_json": "archive/2026-10-31/00-13.json",
+      "path_md": "archive/2026-10-31/00-13.md"
+    },
     {
       "id": "2026-10-30_19-20",
       "date": "2026-10-30",
