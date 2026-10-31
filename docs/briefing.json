@@ -1,10 +1,10 @@
 {
   "briefing_date": "2026-10-31",
-  "generated_at": "2026-10-31T10:54:31.863174+09:00",
+  "generated_at": "2026-10-31T18:52:46.506373+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 186,
-    "tech_blog": 2,
+    "news": 187,
+    "tech_blog": 1,
     "ai_data": 12
   },
   "category_top5": {
@@ -19,74 +19,19 @@
         "url": "https://zdnet.co.kr/view/?no=20261030173553",
         "published_at": "2026-10-30T17:39:00+09:00",
         "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
-        "category_score": 98,
-        "score_reason": "AI가 단순 검색을 넘어 구매까지 수행하는 '에이전틱 커머스'의 본격화는 커머스 시장의 패러다임을 근본적으로 바꾸는 강력한 시장 신호입니다.",
+        "category_score": 62,
+        "score_reason": "AI, 커머스, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
           "커머스",
-          "에이전틱 커머스"
+          "소비자",
+          "추천",
+          "데이터"
         ],
-        "planning_insight": "소비자 여정이 '검색→선택→구매'에서 'AI 에이전트 위임'으로 이동함에 따라, 브랜드는 AI 모델 학습을 위한 데이터 최적화 전략이 필수적입니다."
+        "planning_insight": "이 항목은 AI, 커머스, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
-        "id": "ccf7daacbab3487344c1e8b9ce4ffc1490bb9817f691e9017bf27e956e6d87a2",
-        "title": "AI가 고객센터 상담원 일자리 뺏을 줄 알았는데",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261030113643",
-        "published_at": "2026-10-30T11:36:43+09:00",
-        "summary": "[지디넷코리아]인공지능(AI)이 고객센터 상담원의 일자리를 대거 축소할 것이라는 통념과 달리, 실제 도입 기업 현장에서는 인력 감축보다 '충원' 및 '업무 재배치'가 훨씬 활발하게 이뤄지고 있다는 조사 결과가 나왔다.30일 회사에 따르면, 리멤버앤컴퍼니는 자사 '리멤버 리서치'를 통해 제조·건설, 금융·보험·증권, 유통·이커머스, IT·통신·서비스 등 4개 업종의 고객 응대(CS) 실무자와 의사결정자를 대상으로 조사한 'AI 고객경험 리포트'를 발표했다. 조사 결과 AI를 도입하지 않은 기업의 36%는 인력 감축을 예상했으나, 실제 AI를 운용 중인 기업 가운데 인력을 줄인 곳은 18%에 그쳤다. 반면 인력을 충원한 기업은 29%에 달했고, 인력 감축 없이 업무를 재배치했다는 응답이 45%로 가장 높았다. 고객 반응 역시 기업의 초기 예상과 달랐다. AI 도입 이후 접한 주된 고객 반응으로는 상담원 연결 요구(50%)와 동일 문의 재접수(45%)가 꼽혀 고객의 대면 상담사 의존도가…",
-        "category_score": 95,
-        "score_reason": "AI 도입이 일자리 대체가 아닌 '업무 재배치 및 충원'으로 이어지고 있다는 조사 결과는 산업계의 AI 도입 공포를 해소하고 실무적 트렌드 변화를 시사합니다.",
-        "keywords": [
-          "AI",
-          "고객경험",
-          "노동시장"
-        ],
-        "planning_insight": "AI 도입은 자동화 비용 절감을 넘어 '고객 서비스 품질 고도화'를 위한 리소스 재배치 관점에서 콘텐츠 전략을 수립해야 합니다."
-      },
-      {
-        "rank": 3,
-        "id": "93efb032a1dda1087997d2bb2bf2594f2090e9f4faee0dcb074601d2318fe375",
-        "title": "[AI 고속도로] AI에 클라우드 판 '흔들'…구글·MS 맹추격에 아마존 1위 수성 '비상'",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261030113437",
-        "published_at": "2026-10-30T11:38:15+09:00",
-        "summary": "[지디넷코리아]글로벌 클라우드 시장을 주도하는 아마존과 마이크로소프트(MS), 구글의 경쟁이 인공지능(AI) 인프라를 중심으로 한층 치열해지고 있다. 아마존웹서비스(AWS)가 시장점유율 1위를 유지하고 있지만 MS와 구글이 AI 수요 확대에 힘입어 더 높은 매출 성장률을 기록하며 추격에 속도를 내고 있다. 자체 AI 반도체와 데이터센터에 대한 대규모 투자가 실적에 반영되면서 클라우드 시장의 주도권 경쟁도 한층 더 가열되는 모습이다.30일 업계에 따르면 아마존과 MS, 구글은 지난 28~29일(현지시간) 발표한 분기 실적에서 모두 AI 수요에 힘입은 클라우드 사업 성장세를 확인했다. 특히 구글클라우드는 전년 동기 대비 매출이 두 배 이상 증가했고 MS 애저도 50%에 가까운 성장률을 기록했다. AWS 역시 최근 5년 만에 가장 높은 매출 증가율을 달성했지만 경쟁사들의 성장 속도에는 미치지 못했다.시장조사업체 시너지리서치그룹에 따르면 올해 2분기 글로벌 클라우드 인프라 서비스 시장 규…",
-        "category_score": 92,
-        "score_reason": "클라우드 시장이 AI 인프라 중심으로 재편되며 아마존, MS, 구글의 경쟁이 심화되는 양상은 향후 플랫폼 생태계 전반의 판도를 결정할 핵심 요소입니다.",
-        "keywords": [
-          "클라우드",
-          "AI 인프라",
-          "플랫폼 경쟁"
-        ],
-        "planning_insight": "빅테크 간 AI 인프라 경쟁은 콘텐츠 플랫폼의 기술적 기반을 좌우하므로, 플랫폼 종속성을 최소화하는 멀티 클라우드 및 자체 데이터 전략이 중요합니다."
-      },
-      {
-        "rank": 4,
-        "id": "7c1cce6ab97d2974920ed797aa078bf9f543b7b8c0b6b55971bafd652389c607",
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "source": "BBC Technology",
-        "group": "news",
-        "category": "global_tech",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-        "published_at": "2026-10-30T21:04:02+09:00",
-        "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-        "category_score": 90,
-        "score_reason": "AI 검색이 기존 광고 수익 모델을 잠식하여 주가 급락을 초래한 사례는 플랫폼 비즈니스 모델의 위기와 혁신이 동시에 진행되고 있음을 보여줍니다.",
-        "keywords": [
-          "플랫폼",
-          "광고",
-          "수익 모델"
-        ],
-        "planning_insight": "AI 검색 최적화가 기존 광고 모델을 위협함에 따라, 콘텐츠 생태계는 검색 엔진 의존도를 낮추고 '팬덤 기반의 직거래 광고 모델'로 전환을 고려해야 합니다."
-      },
-      {
-        "rank": 5,
         "id": "690be5c672e15f2066272b4c88395458922460f5c12904b4d666e5abca1f2739",
         "title": "퀸잇, 메타 손잡고 입점 셀러 광고 지원…인스타그램·페이스북 활용",
         "source": "ZDNet Korea",
@@ -95,39 +40,81 @@
         "url": "https://zdnet.co.kr/view/?no=20261029184004",
         "published_at": "2026-10-29T18:40:04+09:00",
         "summary": "[지디넷코리아]4050 라이프스타일 플랫폼 퀸잇이 메타와 손잡고 입점 셀러의 외부 광고 채널 확대에 나선다. 퀸잇에서 판매하는 상품을 페이스북과 인스타그램에 광고하고, 고객 구매 데이터를 활용해 광고 대상을 최적화하는 방식이다.퀸잇 운영사 라포랩스는 최근 메타와 파트너십을 맺고 입점 셀러를 대상으로 '메타 협력 광고'를 도입했다고 29일 밝혔다.메타 협력 광고는 셀러가 퀸잇에서 판매하는 상품 정보를 메타 광고 시스템과 연동해 페이스북과 인스타그램에 광고를 노출하는 서비스다. 이용자가 광고를 클릭하면 퀸잇 내 해당 상품 상세 페이지로 연결된다.이를 통해 셀러는 별도 자사몰 없이도 외부 SNS 채널에서 상품을 홍보하고 신규 고객을 유치할 수 있다.퀸잇은 월 300만명이 방문하는 플랫폼에 축적된 상품 정보와 구매 전환 데이터를 광고에 활용한다.상품 구매와 장바구니 담기, 콘텐츠 조회 등 고객 행동 데이터를 바탕으로 구매 가능성이 높은 이용자에게 광고를 노출하는 방식이다.기존에 상품에 관…",
-        "category_score": 88,
-        "score_reason": "버티컬 커머스가 메타와 같은 글로벌 SNS 광고 시스템과 결합하여 데이터 최적화를 이뤄내는 모델은 소규모 플랫폼이 생존할 수 있는 강력한 트렌드입니다.",
+        "category_score": 56,
+        "score_reason": "광고, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "커머스",
           "광고",
-          "데이터 최적화"
+          "플랫폼",
+          "데이터",
+          "콘텐츠"
         ],
-        "planning_insight": "자사몰이 없는 셀러도 외부 광고 채널을 통해 타겟 최적화가 가능한 '플랫폼 연동형 마케팅'이 D2C 전략의 표준으로 자리 잡을 것입니다."
+        "planning_insight": "이 항목은 광고, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "ca9572703ee6d8d76af475dbb61807348fb242abae9abce9c060fc0e9752ef7a",
+        "title": "\"자율 SOC 실현 촉진\"...이글루, AI에이전트 '에어' 3종으로 확대",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261029212655",
+        "published_at": "2026-10-29T21:26:55+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonomous SOC, 이하 자율형 SOC)’ 실현을 앞당긴다는 계획이다.사이버 공격자들은 AI를 활용해 정찰, 취약점 탐색, 공격 코드 작성 과정을 자동화하고 있다. 한정된 인력이 경보를 일일이 확인하는 수동 대응 및 단편적인 AI 도구 도입 방식으로는 기계 속도의 공격 대응에 한계가 있다. 이에 따라 위협 탐지부터 대응까지 전 과정이 자율 운영되는 자율형 SOC 모델이 주목받고 있다. 이를 구…",
+        "category_score": 54,
+        "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "브랜드",
+          "자동화",
+          "agent"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "9eb779bc58172041b8fe24f69026fbc6f24cd4223e7f34a2eed9f0b4f0c057c1",
+        "title": "쇼비, AI 숏드라마 공모전 개최...참가작 모두 수익화 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261031072415",
+        "published_at": "2026-10-31T07:24:15+09:00",
+        "summary": "[지디넷코리아]글로벌 AI 숏드라마 플랫폼 쇼비(SHOWVY)가 AI 영상 창작자를 대상으로 공모전 'SHOWVY NEXT'를 개최한다.공모전은 AI로 제작한 숏폼 드라마를 대상으로 하며, 장르나 제작 도구에 제한 없이 누구나 무료로 참가할 수 있다. 수상작은 심사위원 평가가 아닌 시청자 투표로 결정된다.특히 수상 여부와 관계없이 모든 참가 작품은 공모전 종료 후 쇼비 플랫폼에서 유료 연재로 전환된다. 창작자가 유료화 시작 회차를 직접 정할 수 있으며, 수익 배분을 통해 수익을 창출할 수 있다.상위 3개 작품에는 AI 영상 제작 플랫폼 힉스필드(Higgsfield) 1년 이용권과 추가 수익 배분 혜택이 주어진다.1위는 힉스필드 울트라 1년 이용권과 6개월간 작품 수익의 100%를 받는다. 2위는 힉스필드 플러스 1년 이용권과 수익 배분율 90%, 3위는 힉스필드 스타터 1년 이용권과 80%를 각각 제공받는다.나머지 참가자에게도 유료 연재 기회와 함께 6개월간 기본 수익 배분율에 5…",
+        "category_score": 53,
+        "score_reason": "AI, 플랫폼, 숏폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "숏폼"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 숏폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "2a38c640b8db6f7a99bcdea82702be388e93ad68b99dc39a641ae0ffaa4889e2",
+        "title": "SOOP \"스트리머 생태계 경쟁력 확보…'수피어' 내년 1분기 출시\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030172136",
+        "published_at": "2026-10-30T17:35:15+09:00",
+        "summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역량을 결집한다.이민원 숲 대표는 30일 3분기 실적발표 컨퍼런스 콜에서 “스트리머의 활동 무대가 다변화되면서 콘텐츠 확보 경쟁도 심화되고 있으며, 당사의 핵심 매출 수단인 기부 경제에도 영향을 미치고 있다”고 말했다.이어 \"광고 사업 성장에도, 플랫폼 매출 회복에는 예상보다 시간이 걸리고 있다\"면서 \"일회성 비용 완화에 안주하지 않고 스트리머 생태계의 경쟁력을 회복해 이용자의 활동과 매출 성장으로 연결하는 데 집중하겠다\"고 덧붙였다.특히, 스트리머의 외부 이탈을 막고 신규 스트리머를 정착시키기 위해 SOOP은 지난달 스트리머의 누적 활동 성과를 인증하고 활동 동기를 높이는 ‘엠블럼 시스템’을 도입했다. 이달에는 MCN과 파트너 스트리머가 참여하는 ‘파트너스 멘토링’을 운…",
+        "category_score": 53,
+        "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "마케팅",
+          "플랫폼",
+          "브랜드",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
       {
         "rank": 1,
-        "id": "ecbf60036920c493216a9fd98ded9d7576703100e8293ca17c34229ca33086d8",
-        "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
-        "source": "네이버 D2",
-        "group": "tech_blog",
-        "category": "search_ai",
-        "url": "https://d2.naver.com/helloworld/2983631",
-        "published_at": "2026-10-29T17:22:22+09:00",
-        "summary": "Kubernetes에서 서비스를 운영하다 보면 메인 컨테이너 옆에 사이드카(sidecar) 컨테이너를 붙이는 일이 흔합니다. 사이드카에는 로그와 메트릭 수집, 프록시처럼 주 기능은 아니지만 같은 Pod 안에서 함께 실행되어야 하는 기능이 포함됩니다. 저희 팀이 운영하는 관리형 데이터베이스 서비스도 DB 인스턴스를 Pod 단위로 실행하고, 그 Pod에 DB 컨테이너 외에 헬스 체크, 메트릭과 로그 수집 등을 위한 사이드카를 함께 둡니다. 이 사이드카들은 DB와 같은 데이터 볼륨에 접근해야 하므로 같은 Pod 안에 있어야 하지만, 라이프사이클은 DB와 다릅니다. DB는 한 번 실행하면 몇 달씩 그대로 운영하는 반면, 사이드카는 기능 추가와 버그 수정, 보안 패치로 훨씬 자주 바뀝니다. 사이드카가 바뀔 때마다 그 변경을 모든 인스턴스에 반영해야 하는데, DB 서비스는 유지한 채 실행 중인 Pod의 사이드카만 바꿔야 합니다. 사이드카는 모든 DB Pod에 붙으므로 이 작업은 인스턴스 수만…",
-        "category_score": 82,
-        "score_reason": "서비스 운영 관점에서 Pod 내 사이드카 컨테이너의 라이프사이클 관리 문제를 해결한 사례로, 인프라 최적화가 사용자 서비스 품질(데이터베이스 안정성)에 직접적인 영향을 미치는 구체적인 운영 전략을 보여줌.",
-        "keywords": [
-          "Kubernetes",
-          "서비스 운영",
-          "플랫폼 아키텍처",
-          "컨테이너 관리"
-        ],
-        "planning_insight": "기술적 복잡도를 해결하여 운영 효율성을 높이는 '선언적 관리' 방식은 데이터 기반 서비스 기획 시 리소스 최적화 및 안정적인 시스템 확장 전략 수립에 중요한 참고 지표가 됨."
-      },
-      {
-        "rank": 2,
         "id": "de065fa933e90d509749733985430819dc68c34c8f3e5540a2bd616715b5a485",
         "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
         "source": "네이버 D2",
@@ -136,96 +123,18 @@
         "url": "https://d2.naver.com/news/0907869",
         "published_at": "2026-10-30T13:26:27+09:00",
         "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고 각자의 업무 문제를 함께 해결하는 장으로 꾸준히 확장돼 왔습니다. ​ 특히 AI가 특정 직군의 전문 도구를 넘어 일하는 방식 전반을 바꾸기 시작하면서 기술을 나눈다는 말의 의미도 달라졌습니다. 중요한 것은 새로운 도구를 아는 데 그치지 않고, 내 문제에 적용해 보고 막히는 지점을 동료와 함께 풀어 보는 경험입니다. ​ 10주년 Engineering Day는 이러한 변화에 맞춰 전 직군이 함께…",
-        "category_score": 75,
-        "score_reason": "조직 내 기술 공유 플랫폼 운영 사례로, AI 시대에 일하는 방식의 변화를 다루고 있으나 특정 기술적 해결책보다 조직 문화 및 방법론에 초점이 맞춰져 있음.",
+        "category_score": 44,
+        "score_reason": "플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI",
-          "조직문화",
-          "플랫폼 운영",
-          "엔지니어링"
+          "플랫폼",
+          "AI"
         ],
-        "planning_insight": "기술 조직의 지식 공유 체계가 플랫폼 고도화에 미치는 영향력을 확인할 수 있으며, 사내 데이터 및 AI 활용 문화 정착을 위한 전략적 접근 방식이 드러남."
+        "planning_insight": "이 항목은 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "2991e858c7dcc01d36e31179bd1466981d139a4b2fceeeca2f0931632ba5e93a",
-        "title": "Granite Switch 4.1.1 — Update models like you update software",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-        "published_at": "2026-10-29T22:37:07+09:00",
-        "summary": "",
-        "category_score": 95,
-        "score_reason": "모델 관리 방식의 혁신(소프트웨어 업데이트 방식의 모델 관리)은 LLM을 실제 프로덕션 환경에 배포·운영해야 하는 기획자에게 매우 중요한 방법론을 제시함.",
-        "keywords": [
-          "LLM",
-          "모델 배포",
-          "운영 자동화"
-        ],
-        "planning_insight": "모델 교체 주기를 시스템적으로 관리하여 콘텐츠 서비스에 최신 모델을 안정적으로 유지할 수 있는 운영 전략 수립 가능."
-      },
-      {
-        "rank": 2,
-        "id": "f536a0c90b04597c1697a1f6637fc1a0769f2efca7bb2ac8a69340a55ba5a937",
-        "title": "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.37680",
-        "published_at": "2026-10-30T13:00:00+09:00",
-        "summary": "arXiv:2610.37680v1 Announce Type: new Abstract: Closing the gap between frontier and smaller language models is usually approached by distillation: fine-tuning the small model (student) on a frontier model's (teacher) outputs, which binds transfer to training compute and leaves the transferred knowledge largely opaque. We propose Artifact Distillation: a teacher solves training instances and externalizes its problem-solving procedure into an artifact bank that a student queries at inference tim…",
-        "category_score": 92,
-        "score_reason": "별도의 재학습 없이 고성능 모델의 능력을 소형 모델로 전이하는 기술로, 비용 효율적인 AI 콘텐츠 서비스 구현에 핵심적임.",
-        "keywords": [
-          "모델 최적화",
-          "추론 효율화",
-          "비용 절감"
-        ],
-        "planning_insight": "제작 비용 부담을 줄이면서도 고품질의 생성 결과물을 확보할 수 있는 가성비 높은 AI 인프라 기획에 활용."
-      },
-      {
-        "rank": 3,
-        "id": "08b47dc63712c177ad65e7fcb30e611e58a7f9d19287be1fd58e7a51d200399b",
-        "title": "Prompt-agnostic Language Models",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.37683",
-        "published_at": "2026-10-30T13:00:00+09:00",
-        "summary": "arXiv:2610.37683v1 Announce Type: new Abstract: Despite their strong performance, large language models remain highly sensitive to prompt formulation. This issue is typically addressed at inference-time through manual prompt optimization, which introduces overhead and lacks scalability. Conversely, we focus on train-time approaches that build prompt robustness into the model during instruction tuning. A common strategy is to mix multiple paraphrases of each prompt into training. We demonstrate…",
-        "category_score": 88,
-        "score_reason": "프롬프트 엔지니어링의 의존도를 줄이는 기술로, 콘텐츠 자동화 시스템의 신뢰성과 확장성을 높이는 데 필수적임.",
-        "keywords": [
-          "프롬프트 엔지니어링",
-          "자동화",
-          "모델 성능 향상"
-        ],
-        "planning_insight": "프롬프트 최적화 작업의 공수를 줄이고 일관된 콘텐츠 품질을 유지하는 자동화 파이프라인 설계에 적용."
-      },
-      {
-        "rank": 4,
-        "id": "b2012b58d9c0414a183b5ad30e89dfd48497a2f02ea9bf2cc68702a0094c9d20",
-        "title": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.37681",
-        "published_at": "2026-10-30T13:00:00+09:00",
-        "summary": "arXiv:2610.37681v1 Announce Type: new Abstract: Large reasoning models have recently demonstrated remarkable capabilities in solving complex tasks, where supervised fine-tuning (SFT) on long chain-of-thought data serves as a crucial foundation for eliciting and enhancing their reasoning abilities. Despite rapid progress in both improving and analyzing reasoning-oriented SFT, the field still lacks a systematic survey that consolidates its fast-growing literature. To fill this gap, we present a c…",
-        "category_score": 85,
-        "score_reason": "추론 능력 강화를 위한 SFT(지도 미세 조정) 흐름은 복잡한 분석이나 창의적 콘텐츠 기획 업무를 자동화하는 모델 구축의 기초 지식임.",
-        "keywords": [
-          "SFT",
-          "LLM",
-          "추론 모델"
-        ],
-        "planning_insight": "단순 텍스트 생성을 넘어 논리적 추론이 필요한 데이터 분석이나 기획 업무 자동화 솔루션 도입 시 가이드라인으로 활용."
-      },
-      {
-        "rank": 5,
         "id": "d948fe1059d0a73c6413c9b23068d2df92c14b5a4fafed6fa74ef27733dbf6e5",
         "title": "Exposure Is Not Commitment: Double-Stratified Evaluation of Latent Monitors for Tool-Using Agents",
         "source": "arXiv cs.CL",
@@ -234,14 +143,94 @@
         "url": "https://arxiv.org/abs/2610.37679",
         "published_at": "2026-10-30T13:00:00+09:00",
         "summary": "arXiv:2610.37679v1 Announce Type: new Abstract: Tool-using language agents are vulnerable to indirect prompt injection, and a growing literature probes model internals to catch unsafe actions before they execute, with sharply conflicting results. We argue much of the conflict is an evaluation artifact, and propose a double-stratification protocol: separate injection exposure from behavioral commitment, in both the evaluation and the training population. On the primary Qwen AgentDojo grid, monit…",
-        "category_score": 82,
-        "score_reason": "에이전트 시스템에서 발생하는 보안(프롬프트 인젝션)과 평가 문제를 다루고 있어, 실제 AI 에이전트 서비스 배포 시 고려해야 할 위험 관리 전략을 담고 있음.",
+        "category_score": 53,
+        "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "AI 에이전트",
-          "보안",
-          "평가 프로토콜"
+          "agent",
+          "agents",
+          "model",
+          "evaluation",
+          "AI"
         ],
-        "planning_insight": "사용자 접점의 에이전트 서비스 기획 시, 안정성을 담보하기 위한 검증 체계 및 위험 방지 로직 설계에 참고."
+        "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "b2012b58d9c0414a183b5ad30e89dfd48497a2f02ea9bf2cc68702a0094c9d20",
+        "title": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37681",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37681v1 Announce Type: new Abstract: Large reasoning models have recently demonstrated remarkable capabilities in solving complex tasks, where supervised fine-tuning (SFT) on long chain-of-thought data serves as a crucial foundation for eliciting and enhancing their reasoning abilities. Despite rapid progress in both improving and analyzing reasoning-oriented SFT, the field still lacks a systematic survey that consolidates its fast-growing literature. To fill this gap, we present a c…",
+        "category_score": 50,
+        "score_reason": "model, fine-tuning, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "model",
+          "fine-tuning",
+          "API",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 model, fine-tuning, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "fe6ff2f1a261fcb4fef6c75dff07005cdd2f75b8db07fd4773f0e3d1afc6ffb6",
+        "title": "An Introduction to Large Language Models for Scientists and Professionals",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37684",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37684v1 Announce Type: new Abstract: Large Language Models (LLMs) have rapidly become important tools for science, education, medicine, and professional work. Despite their apparent simplicity from the user's perspective, effective and responsible use requires an understanding of how these systems work, what their limitations are, and how their outputs should be evaluated. I wrote this document as a basis for my lecture on LLM in the master in artificial intelligence in medicine at t…",
+        "category_score": 45,
+        "score_reason": "LLM, model, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "API"
+        ],
+        "planning_insight": "이 항목은 LLM, model, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "f54e1537bb418091bd5048660eaf01207f00b119d0eff67bebcccebbd00c30ea",
+        "title": "Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37682",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37682v1 Announce Type: new Abstract: Listwise preference feedback offers richer supervision for large language model (LLMs) alignment than pairwise comparisons, but a full ranking also reveals more sensitive user preferences. Existing privacy-preserving alignment methods focus mainly on pairwise feedback, while listwise alignment under local differential privacy (LDP) remains unexplored. Extending LDP to this listwise domain raises a critical challenge: the high sensitivity of the fu…",
+        "category_score": 43,
+        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "ce976b8991b2769bb023f86d201688dd7b2071e0c5519b9cf51e6544d2af2a50",
+        "title": "From Geometry to Behavior: How Instruction Exposure Unlocks Latent Rhetorical Directions in LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37685",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37685v1 Announce Type: new Abstract: Language models do not merely memorize facts; they absorb rhetorical strategies from pretraining data, including the human tendency to reason by analogy. We ask: is this absorbed capability geometrically accessible before any instruction tuning, and what determines whether it can be activated at inference time? We extract an \"Analogy Vector\" from the residual stream via difference-in-means and show it enables steerable explanation style across sev…",
+        "category_score": 43,
+        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
@@ -256,167 +245,165 @@
       "url": "https://zdnet.co.kr/view/?no=20261030173553",
       "published_at": "2026-10-30T17:39:00+09:00",
       "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
-      "category_score": 98,
-      "score_reason": "AI가 단순 검색을 넘어 구매까지 수행하는 '에이전틱 커머스'의 본격화는 커머스 시장의 패러다임을 근본적으로 바꾸는 강력한 시장 신호입니다.",
+      "category_score": 62,
+      "score_reason": "AI, 커머스, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "에이전틱 커머스",
-        "AI 추천",
-        "데이터 전략"
+        "AI",
+        "커머스",
+        "소비자",
+        "추천",
+        "데이터"
       ],
-      "planning_insight": "소비자 여정이 '검색'에서 'AI 위임'으로 변화함에 따라, 브랜드는 가독성 높은 콘텐츠보다 AI가 읽고 우선순위를 부여할 수 있는 '구조화된 데이터 자산' 확보가 필수적임.",
-      "integrated_score": 98,
+      "planning_insight": "이 항목은 AI, 커머스, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
       "criteria_scores": {
-        "content_strategy": 25,
+        "content_strategy": 14,
         "trend_signal_timeliness": 25,
-        "ai_data_relevance": 24,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부…",
+      "importance_reason": "AI, 커머스, 소비자 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "ca9572703ee6d8d76af475dbb61807348fb242abae9abce9c060fc0e9752ef7a",
+      "title": "\"자율 SOC 실현 촉진\"...이글루, AI에이전트 '에어' 3종으로 확대",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261029212655",
+      "published_at": "2026-10-29T21:26:55+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonomous SOC, 이하 자율형 SOC)’ 실현을 앞당긴다는 계획이다.사이버 공격자들은 AI를 활용해 정찰, 취약점 탐색, 공격 코드 작성 과정을 자동화하고 있다. 한정된 인력이 경보를 일일이 확인하는 수동 대응 및 단편적인 AI 도구 도입 방식으로는 기계 속도의 공격 대응에 한계가 있다. 이에 따라 위협 탐지부터 대응까지 전 과정이 자율 운영되는 자율형 SOC 모델이 주목받고 있다. 이를 구…",
+      "category_score": 54,
+      "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "브랜드",
+        "자동화",
+        "agent"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 71,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍…",
+      "importance_reason": "AI, 플랫폼, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "2a38c640b8db6f7a99bcdea82702be388e93ad68b99dc39a641ae0ffaa4889e2",
+      "title": "SOOP \"스트리머 생태계 경쟁력 확보…'수피어' 내년 1분기 출시\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030172136",
+      "published_at": "2026-10-30T17:35:15+09:00",
+      "summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역량을 결집한다.이민원 숲 대표는 30일 3분기 실적발표 컨퍼런스 콜에서 “스트리머의 활동 무대가 다변화되면서 콘텐츠 확보 경쟁도 심화되고 있으며, 당사의 핵심 매출 수단인 기부 경제에도 영향을 미치고 있다”고 말했다.이어 \"광고 사업 성장에도, 플랫폼 매출 회복에는 예상보다 시간이 걸리고 있다\"면서 \"일회성 비용 완화에 안주하지 않고 스트리머 생태계의 경쟁력을 회복해 이용자의 활동과 매출 성장으로 연결하는 데 집중하겠다\"고 덧붙였다.특히, 스트리머의 외부 이탈을 막고 신규 스트리머를 정착시키기 위해 SOOP은 지난달 스트리머의 누적 활동 성과를 인증하고 활동 동기를 높이는 ‘엠블럼 시스템’을 도입했다. 이달에는 MCN과 파트너 스트리머가 참여하는 ‘파트너스 멘토링’을 운…",
+      "category_score": 53,
+      "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "광고",
+        "마케팅",
+        "플랫폼",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 16,
+        "ai_data_relevance": 7,
         "market_consumer_impact": 24
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "구글-닐슨IQ 협력으로 본 '에이전틱 커머스(Agentic Commerce)' 시대의 개막",
-      "importance_reason": "AI가 검색을 넘어 구매까지 대행하는 에이전트 시장은 콘텐츠와 커머스의 경계를 허무는 가장 강력한 변화의 신호임."
-    },
-    {
-      "rank": 2,
-      "id": "f536a0c90b04597c1697a1f6637fc1a0769f2efca7bb2ac8a69340a55ba5a937",
-      "title": "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.37680",
-      "published_at": "2026-10-30T13:00:00+09:00",
-      "summary": "arXiv:2610.37680v1 Announce Type: new Abstract: Closing the gap between frontier and smaller language models is usually approached by distillation: fine-tuning the small model (student) on a frontier model's (teacher) outputs, which binds transfer to training compute and leaves the transferred knowledge largely opaque. We propose Artifact Distillation: a teacher solves training instances and externalizes its problem-solving procedure into an artifact bank that a student queries at inference tim…",
-      "category_score": 92,
-      "score_reason": "별도의 재학습 없이 고성능 모델의 능력을 소형 모델로 전이하는 기술로, 비용 효율적인 AI 콘텐츠 서비스 구현에 핵심적임.",
-      "keywords": [
-        "모델 증류",
-        "비용 효율화",
-        "AI 추론"
-      ],
-      "planning_insight": "고성능 AI 콘텐츠 제작 도구를 구축할 때, 전체 인프라를 거대 모델로 돌리는 대신 추론 효율화를 위한 기술적 아키텍처를 우선 고려해야 함.",
-      "integrated_score": 94,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "AI·데이터 관련성",
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "재학습 없이 고성능 모델의 능력을 소형 모델로 전이하는 'Artifact Distillation' 기술",
-      "importance_reason": "고비용의 대형 모델 의존도를 낮추고 소형 모델로 실제 서비스 배포를 가능케 하는 핵심 기술로, AI 서비스의 경제성 확보에 직결됨."
-    },
-    {
-      "rank": 3,
-      "id": "ccf7daacbab3487344c1e8b9ce4ffc1490bb9817f691e9017bf27e956e6d87a2",
-      "title": "AI가 고객센터 상담원 일자리 뺏을 줄 알았는데",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261030113643",
-      "published_at": "2026-10-30T11:36:43+09:00",
-      "summary": "[지디넷코리아]인공지능(AI)이 고객센터 상담원의 일자리를 대거 축소할 것이라는 통념과 달리, 실제 도입 기업 현장에서는 인력 감축보다 '충원' 및 '업무 재배치'가 훨씬 활발하게 이뤄지고 있다는 조사 결과가 나왔다.30일 회사에 따르면, 리멤버앤컴퍼니는 자사 '리멤버 리서치'를 통해 제조·건설, 금융·보험·증권, 유통·이커머스, IT·통신·서비스 등 4개 업종의 고객 응대(CS) 실무자와 의사결정자를 대상으로 조사한 'AI 고객경험 리포트'를 발표했다. 조사 결과 AI를 도입하지 않은 기업의 36%는 인력 감축을 예상했으나, 실제 AI를 운용 중인 기업 가운데 인력을 줄인 곳은 18%에 그쳤다. 반면 인력을 충원한 기업은 29%에 달했고, 인력 감축 없이 업무를 재배치했다는 응답이 45%로 가장 높았다. 고객 반응 역시 기업의 초기 예상과 달랐다. AI 도입 이후 접한 주된 고객 반응으로는 상담원 연결 요구(50%)와 동일 문의 재접수(45%)가 꼽혀 고객의 대면 상담사 의존도가…",
-      "category_score": 95,
-      "score_reason": "AI 도입이 일자리 대체가 아닌 '업무 재배치 및 충원'으로 이어지고 있다는 조사 결과는 산업계의 AI 도입 공포를 해소하고 실무적 트렌드 변화를 시사합니다.",
-      "keywords": [
-        "고객경험",
-        "업무 재배치",
-        "AI 도입"
-      ],
-      "planning_insight": "AI 전략 수립 시 '자동화에 의한 인력 대체'가 아닌 '콘텐츠 고도화 및 고객 경험 강화를 위한 인력의 크리에이티브 전환' 전략으로 내부 설득을 진행해야 함.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "AI 도입 현장의 실제, 인력 감축보다 '업무 재배치'가 우선인 산업계의 움직임",
-      "importance_reason": "AI 도입의 막연한 공포를 데이터 기반 조사로 상쇄하며, 현장 실무자들에게 실질적인 역할 변화 가이드를 제시함."
+      "one_line_summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역…",
+      "importance_reason": "광고, 마케팅, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 4,
-      "id": "2991e858c7dcc01d36e31179bd1466981d139a4b2fceeeca2f0931632ba5e93a",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "published_at": "2026-10-29T22:37:07+09:00",
-      "summary": "",
-      "category_score": 95,
-      "score_reason": "모델 관리 방식의 혁신(소프트웨어 업데이트 방식의 모델 관리)은 LLM을 실제 프로덕션 환경에 배포·운영해야 하는 기획자에게 매우 중요한 방법론을 제시함.",
+      "id": "690be5c672e15f2066272b4c88395458922460f5c12904b4d666e5abca1f2739",
+      "title": "퀸잇, 메타 손잡고 입점 셀러 광고 지원…인스타그램·페이스북 활용",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261029184004",
+      "published_at": "2026-10-29T18:40:04+09:00",
+      "summary": "[지디넷코리아]4050 라이프스타일 플랫폼 퀸잇이 메타와 손잡고 입점 셀러의 외부 광고 채널 확대에 나선다. 퀸잇에서 판매하는 상품을 페이스북과 인스타그램에 광고하고, 고객 구매 데이터를 활용해 광고 대상을 최적화하는 방식이다.퀸잇 운영사 라포랩스는 최근 메타와 파트너십을 맺고 입점 셀러를 대상으로 '메타 협력 광고'를 도입했다고 29일 밝혔다.메타 협력 광고는 셀러가 퀸잇에서 판매하는 상품 정보를 메타 광고 시스템과 연동해 페이스북과 인스타그램에 광고를 노출하는 서비스다. 이용자가 광고를 클릭하면 퀸잇 내 해당 상품 상세 페이지로 연결된다.이를 통해 셀러는 별도 자사몰 없이도 외부 SNS 채널에서 상품을 홍보하고 신규 고객을 유치할 수 있다.퀸잇은 월 300만명이 방문하는 플랫폼에 축적된 상품 정보와 구매 전환 데이터를 광고에 활용한다.상품 구매와 장바구니 담기, 콘텐츠 조회 등 고객 행동 데이터를 바탕으로 구매 가능성이 높은 이용자에게 광고를 노출하는 방식이다.기존에 상품에 관…",
+      "category_score": 56,
+      "score_reason": "광고, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "모델 운영",
-        "소프트웨어 업데이트",
-        "LLM 라이프사이클"
+        "광고",
+        "플랫폼",
+        "데이터",
+        "콘텐츠"
       ],
-      "planning_insight": "콘텐츠 생성 모델의 버전 관리 및 교체 전략을 시스템화하여, 급변하는 기술 환경에서도 일관된 출력 품질을 보장하는 파이프라인 기획이 필요함.",
-      "integrated_score": 90,
+      "planning_insight": "이 항목은 광고, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
       "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 20
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 16
       },
       "applied_criteria": [
-        "AI·데이터 관련성",
-        "트렌드 신호성·시의성",
-        "콘텐츠 전략 활용성"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "소프트웨어 배포 방식처럼 관리하는 LLM 운영 모델(Granite Switch) 등장",
-      "importance_reason": "AI 모델이 고정된 자산이 아니라 지속적으로 업데이트되는 소프트웨어임을 시사하며, AI 서비스 기획자에게 운영의 정석을 보여줌."
+      "one_line_summary": "[지디넷코리아]4050 라이프스타일 플랫폼 퀸잇이 메타와 손잡고 입점 셀러의 외부 광고 채널 확대에 나선다. 퀸잇에서 판매하는 상품을 페이스북과 인스타그램에 광고하고, 고객 구매 데이터를 활용해 광고 대상을 최적화하…",
+      "importance_reason": "광고, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 5,
-      "id": "7c1cce6ab97d2974920ed797aa078bf9f543b7b8c0b6b55971bafd652389c607",
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
-      "published_at": "2026-10-30T21:04:02+09:00",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-      "category_score": 90,
-      "score_reason": "AI 검색이 기존 광고 수익 모델을 잠식하여 주가 급락을 초래한 사례는 플랫폼 비즈니스 모델의 위기와 혁신이 동시에 진행되고 있음을 보여줍니다.",
+      "id": "de065fa933e90d509749733985430819dc68c34c8f3e5540a2bd616715b5a485",
+      "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/news/0907869",
+      "published_at": "2026-10-30T13:26:27+09:00",
+      "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고 각자의 업무 문제를 함께 해결하는 장으로 꾸준히 확장돼 왔습니다. ​ 특히 AI가 특정 직군의 전문 도구를 넘어 일하는 방식 전반을 바꾸기 시작하면서 기술을 나눈다는 말의 의미도 달라졌습니다. 중요한 것은 새로운 도구를 아는 데 그치지 않고, 내 문제에 적용해 보고 막히는 지점을 동료와 함께 풀어 보는 경험입니다. ​ 10주년 Engineering Day는 이러한 변화에 맞춰 전 직군이 함께…",
+      "category_score": 44,
+      "score_reason": "플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "검색엔진 변화",
-        "광고 모델",
-        "수익 구조 위기"
+        "플랫폼",
+        "AI"
       ],
-      "planning_insight": "검색 결과 페이지(SERP)에 의존하는 콘텐츠 전략은 위험함. 검색 엔진의 트래픽 의존도를 낮추고 '팬덤 확보'와 '직거래 채널 구축'으로 리스크를 분산해야 함.",
-      "integrated_score": 88,
+      "planning_insight": "이 항목은 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 59,
       "criteria_scores": {
-        "content_strategy": 23,
+        "content_strategy": 14,
         "trend_signal_timeliness": 22,
-        "ai_data_relevance": 21,
-        "market_consumer_impact": 22
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "시장·소비자 영향력",
         "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "AI 검색이 광고 수익 모델을 잠식하는 '구글 주가 하락' 사례",
-      "importance_reason": "플랫폼 생태계의 광고 수익 모델이 AI 도입으로 인해 위협받고 있다는 증거로, 콘텐츠 마케팅의 근간이 흔들리고 있음을 경고함."
+      "one_line_summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day…",
+      "importance_reason": "플랫폼, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 73,
+      "count": 85,
       "groups": [
         "ai_data",
         "news",
@@ -431,21 +418,8 @@
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 15,
-      "groups": [
-        "news",
-        "tech_blog"
-      ],
-      "sources": [
-        "ZDNet Korea",
-        "네이버 D2",
-        "매일경제 기업"
-      ]
-    },
-    {
       "keyword": "플랫폼",
-      "count": 15,
+      "count": 19,
       "groups": [
         "news",
         "tech_blog"
@@ -457,8 +431,8 @@
       ]
     },
     {
-      "keyword": "브랜드",
-      "count": 11,
+      "keyword": "데이터",
+      "count": 17,
       "groups": [
         "news"
       ],
@@ -469,27 +443,40 @@
     },
     {
       "keyword": "model",
-      "count": 10,
+      "count": 11,
       "groups": [
-        "ai_data"
+        "ai_data",
+        "news"
       ],
       "sources": [
         "Hugging Face Blog",
+        "ZDNet Korea",
         "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
       ]
     }
   ],
   "overall_summary": [
-    "AI가 검색과 광고라는 기존의 플랫폼 생태계를 근본적으로 재편하며 '에이전틱 커머스'와 '수익 모델의 위기'라는 양면성을 드러내고 있음.",
-    "기술 도입의 실체는 인력 대체가 아닌 '운영 방식의 효율화'와 '업무의 재배치'로 구체화되고 있으며, 모델 배포 및 관리가 소프트웨어 개발 방법론을 따라가고 있음.",
-    "콘텐츠 기획자는 이제 단순 콘텐츠 생산을 넘어, AI 에이전트가 이해하기 쉬운 구조화된 데이터 생성과 고비용 모델을 대체할 효율적인 AI 인프라 최적화 전략을 준비해야 함."
+    "오늘 선별된 주요 흐름은 플랫폼, AI, 데이터, 브랜드, 광고 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
-  "method": "gemini",
-  "fallback_used": false,
-  "gemini_call_count": 4,
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
   "category_methods": {
-    "news": "gemini",
-    "tech_blog": "gemini",
-    "ai_data": "gemini"
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
   }
 }
