@@ -1,0 +1,483 @@
+{
+  "briefing_date": "2026-10-31",
+  "generated_at": "2026-10-31T23:40:39.315046+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 187,
+    "tech_blog": 1,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "9d99ade23f0af76160d76426dc59b4173e99d882bc05c30d8ae88faa78a6741c",
+        "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030173553",
+        "published_at": "2026-10-30T17:39:00+09:00",
+        "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
+        "category_score": 62,
+        "score_reason": "AI, 커머스, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "소비자",
+          "추천",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 커머스, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "ca9572703ee6d8d76af475dbb61807348fb242abae9abce9c060fc0e9752ef7a",
+        "title": "\"자율 SOC 실현 촉진\"...이글루, AI에이전트 '에어' 3종으로 확대",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261029212655",
+        "published_at": "2026-10-29T21:26:55+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonomous SOC, 이하 자율형 SOC)’ 실현을 앞당긴다는 계획이다.사이버 공격자들은 AI를 활용해 정찰, 취약점 탐색, 공격 코드 작성 과정을 자동화하고 있다. 한정된 인력이 경보를 일일이 확인하는 수동 대응 및 단편적인 AI 도구 도입 방식으로는 기계 속도의 공격 대응에 한계가 있다. 이에 따라 위협 탐지부터 대응까지 전 과정이 자율 운영되는 자율형 SOC 모델이 주목받고 있다. 이를 구…",
+        "category_score": 54,
+        "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "브랜드",
+          "자동화",
+          "agent"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "9eb779bc58172041b8fe24f69026fbc6f24cd4223e7f34a2eed9f0b4f0c057c1",
+        "title": "쇼비, AI 숏드라마 공모전 개최...참가작 모두 수익화 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261031072415",
+        "published_at": "2026-10-31T07:24:15+09:00",
+        "summary": "[지디넷코리아]글로벌 AI 숏드라마 플랫폼 쇼비(SHOWVY)가 AI 영상 창작자를 대상으로 공모전 'SHOWVY NEXT'를 개최한다.공모전은 AI로 제작한 숏폼 드라마를 대상으로 하며, 장르나 제작 도구에 제한 없이 누구나 무료로 참가할 수 있다. 수상작은 심사위원 평가가 아닌 시청자 투표로 결정된다.특히 수상 여부와 관계없이 모든 참가 작품은 공모전 종료 후 쇼비 플랫폼에서 유료 연재로 전환된다. 창작자가 유료화 시작 회차를 직접 정할 수 있으며, 수익 배분을 통해 수익을 창출할 수 있다.상위 3개 작품에는 AI 영상 제작 플랫폼 힉스필드(Higgsfield) 1년 이용권과 추가 수익 배분 혜택이 주어진다.1위는 힉스필드 울트라 1년 이용권과 6개월간 작품 수익의 100%를 받는다. 2위는 힉스필드 플러스 1년 이용권과 수익 배분율 90%, 3위는 힉스필드 스타터 1년 이용권과 80%를 각각 제공받는다.나머지 참가자에게도 유료 연재 기회와 함께 6개월간 기본 수익 배분율에 5…",
+        "category_score": 53,
+        "score_reason": "AI, 플랫폼, 숏폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "숏폼"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 숏폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "2a38c640b8db6f7a99bcdea82702be388e93ad68b99dc39a641ae0ffaa4889e2",
+        "title": "SOOP \"스트리머 생태계 경쟁력 확보…'수피어' 내년 1분기 출시\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030172136",
+        "published_at": "2026-10-30T17:35:15+09:00",
+        "summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역량을 결집한다.이민원 숲 대표는 30일 3분기 실적발표 컨퍼런스 콜에서 “스트리머의 활동 무대가 다변화되면서 콘텐츠 확보 경쟁도 심화되고 있으며, 당사의 핵심 매출 수단인 기부 경제에도 영향을 미치고 있다”고 말했다.이어 \"광고 사업 성장에도, 플랫폼 매출 회복에는 예상보다 시간이 걸리고 있다\"면서 \"일회성 비용 완화에 안주하지 않고 스트리머 생태계의 경쟁력을 회복해 이용자의 활동과 매출 성장으로 연결하는 데 집중하겠다\"고 덧붙였다.특히, 스트리머의 외부 이탈을 막고 신규 스트리머를 정착시키기 위해 SOOP은 지난달 스트리머의 누적 활동 성과를 인증하고 활동 동기를 높이는 ‘엠블럼 시스템’을 도입했다. 이달에는 MCN과 파트너 스트리머가 참여하는 ‘파트너스 멘토링’을 운…",
+        "category_score": 53,
+        "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "광고",
+          "마케팅",
+          "플랫폼",
+          "브랜드",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "085d23837cf318db4d7af7f69ba0b5072bc6b3d455e2add264e7aca008a5f2d0",
+        "title": "위고페어, 화장품 가품 단속 위한 ‘시범구매’ 기능 정식 도입",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030114808",
+        "published_at": "2026-10-30T11:48:08+09:00",
+        "summary": "[지디넷코리아]AI 기반 온라인 브랜드 보호 기업 위고페어가 뷰티 브랜드의 위조상품(가품) 단속 실효성을 높이기 위해 의심 상품을 직접 구매해 진위를 가려내는 '시범구매' 기능을 정식 서비스로 선보였다.30일 회사에 따르면, 최근 화장품 가품 유통은 해외 플랫폼뿐 아니라 국내 오픈마켓, 소셜미디어 라이브 방송과 공동구매 등으로 빠르게 확산하고 있다. 국회 보건복지위원회 백종헌 의원이 지식재산처로부터 제출받은 자료에 따르면 올해 1~8월 온라인 플랫폼에서 판매 차단된 위조 화장품은 3만7544건으로 전년 동기(1만6270건) 대비 2.3배 증가했다. 한국소비자원 조사에서도 해외 위조 화장품 34개 중 11개에서 유해물질이 기준치를 초과하고 일부 향수에서는 메탄올이 허용치의 484배까지 검출되는 등 소비자 안전을 크게 위협하는 실정이다. 그러나 외관 복제가 정교해 화면상으로는 식별이 어려운 데다, 플랫폼 신고 시 정품 대조 실물 근거가 없으면 신고가 반려되거나 판매자와의 법적 분쟁으로…",
+        "category_score": 53,
+        "score_reason": "AI, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "소비자",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "de065fa933e90d509749733985430819dc68c34c8f3e5540a2bd616715b5a485",
+        "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/news/0907869",
+        "published_at": "2026-10-30T13:26:27+09:00",
+        "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고 각자의 업무 문제를 함께 해결하는 장으로 꾸준히 확장돼 왔습니다. ​ 특히 AI가 특정 직군의 전문 도구를 넘어 일하는 방식 전반을 바꾸기 시작하면서 기술을 나눈다는 말의 의미도 달라졌습니다. 중요한 것은 새로운 도구를 아는 데 그치지 않고, 내 문제에 적용해 보고 막히는 지점을 동료와 함께 풀어 보는 경험입니다. ​ 10주년 Engineering Day는 이러한 변화에 맞춰 전 직군이 함께…",
+        "category_score": 44,
+        "score_reason": "플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "d948fe1059d0a73c6413c9b23068d2df92c14b5a4fafed6fa74ef27733dbf6e5",
+        "title": "Exposure Is Not Commitment: Double-Stratified Evaluation of Latent Monitors for Tool-Using Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37679",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37679v1 Announce Type: new Abstract: Tool-using language agents are vulnerable to indirect prompt injection, and a growing literature probes model internals to catch unsafe actions before they execute, with sharply conflicting results. We argue much of the conflict is an evaluation artifact, and propose a double-stratification protocol: separate injection exposure from behavioral commitment, in both the evaluation and the training population. On the primary Qwen AgentDojo grid, monit…",
+        "category_score": 53,
+        "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "agents",
+          "model",
+          "evaluation",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "b2012b58d9c0414a183b5ad30e89dfd48497a2f02ea9bf2cc68702a0094c9d20",
+        "title": "Supervised Fine-Tuning for Reasoning Large Language Models: A Survey",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37681",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37681v1 Announce Type: new Abstract: Large reasoning models have recently demonstrated remarkable capabilities in solving complex tasks, where supervised fine-tuning (SFT) on long chain-of-thought data serves as a crucial foundation for eliciting and enhancing their reasoning abilities. Despite rapid progress in both improving and analyzing reasoning-oriented SFT, the field still lacks a systematic survey that consolidates its fast-growing literature. To fill this gap, we present a c…",
+        "category_score": 50,
+        "score_reason": "model, fine-tuning, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "model",
+          "fine-tuning",
+          "API",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 model, fine-tuning, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "fe6ff2f1a261fcb4fef6c75dff07005cdd2f75b8db07fd4773f0e3d1afc6ffb6",
+        "title": "An Introduction to Large Language Models for Scientists and Professionals",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37684",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37684v1 Announce Type: new Abstract: Large Language Models (LLMs) have rapidly become important tools for science, education, medicine, and professional work. Despite their apparent simplicity from the user's perspective, effective and responsible use requires an understanding of how these systems work, what their limitations are, and how their outputs should be evaluated. I wrote this document as a basis for my lecture on LLM in the master in artificial intelligence in medicine at t…",
+        "category_score": 45,
+        "score_reason": "LLM, model, API 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "API"
+        ],
+        "planning_insight": "이 항목은 LLM, model, API 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "f54e1537bb418091bd5048660eaf01207f00b119d0eff67bebcccebbd00c30ea",
+        "title": "Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37682",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37682v1 Announce Type: new Abstract: Listwise preference feedback offers richer supervision for large language model (LLMs) alignment than pairwise comparisons, but a full ranking also reveals more sensitive user preferences. Existing privacy-preserving alignment methods focus mainly on pairwise feedback, while listwise alignment under local differential privacy (LDP) remains unexplored. Extending LDP to this listwise domain raises a critical challenge: the high sensitivity of the fu…",
+        "category_score": 43,
+        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "ce976b8991b2769bb023f86d201688dd7b2071e0c5519b9cf51e6544d2af2a50",
+        "title": "From Geometry to Behavior: How Instruction Exposure Unlocks Latent Rhetorical Directions in LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37685",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37685v1 Announce Type: new Abstract: Language models do not merely memorize facts; they absorb rhetorical strategies from pretraining data, including the human tendency to reason by analogy. We ask: is this absorbed capability geometrically accessible before any instruction tuning, and what determines whether it can be activated at inference time? We extract an \"Analogy Vector\" from the residual stream via difference-in-means and show it enables steerable explanation style across sev…",
+        "category_score": 43,
+        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "9d99ade23f0af76160d76426dc59b4173e99d882bc05c30d8ae88faa78a6741c",
+      "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030173553",
+      "published_at": "2026-10-30T17:39:00+09:00",
+      "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
+      "category_score": 62,
+      "score_reason": "AI, 커머스, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "커머스",
+        "소비자",
+        "추천",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 AI, 커머스, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부…",
+      "importance_reason": "AI, 커머스, 소비자 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "ca9572703ee6d8d76af475dbb61807348fb242abae9abce9c060fc0e9752ef7a",
+      "title": "\"자율 SOC 실현 촉진\"...이글루, AI에이전트 '에어' 3종으로 확대",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261029212655",
+      "published_at": "2026-10-29T21:26:55+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonomous SOC, 이하 자율형 SOC)’ 실현을 앞당긴다는 계획이다.사이버 공격자들은 AI를 활용해 정찰, 취약점 탐색, 공격 코드 작성 과정을 자동화하고 있다. 한정된 인력이 경보를 일일이 확인하는 수동 대응 및 단편적인 AI 도구 도입 방식으로는 기계 속도의 공격 대응에 한계가 있다. 이에 따라 위협 탐지부터 대응까지 전 과정이 자율 운영되는 자율형 SOC 모델이 주목받고 있다. 이를 구…",
+      "category_score": 54,
+      "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "브랜드",
+        "자동화",
+        "agent"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 71,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍…",
+      "importance_reason": "AI, 플랫폼, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "2a38c640b8db6f7a99bcdea82702be388e93ad68b99dc39a641ae0ffaa4889e2",
+      "title": "SOOP \"스트리머 생태계 경쟁력 확보…'수피어' 내년 1분기 출시\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030172136",
+      "published_at": "2026-10-30T17:35:15+09:00",
+      "summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역량을 결집한다.이민원 숲 대표는 30일 3분기 실적발표 컨퍼런스 콜에서 “스트리머의 활동 무대가 다변화되면서 콘텐츠 확보 경쟁도 심화되고 있으며, 당사의 핵심 매출 수단인 기부 경제에도 영향을 미치고 있다”고 말했다.이어 \"광고 사업 성장에도, 플랫폼 매출 회복에는 예상보다 시간이 걸리고 있다\"면서 \"일회성 비용 완화에 안주하지 않고 스트리머 생태계의 경쟁력을 회복해 이용자의 활동과 매출 성장으로 연결하는 데 집중하겠다\"고 덧붙였다.특히, 스트리머의 외부 이탈을 막고 신규 스트리머를 정착시키기 위해 SOOP은 지난달 스트리머의 누적 활동 성과를 인증하고 활동 동기를 높이는 ‘엠블럼 시스템’을 도입했다. 이달에는 MCN과 파트너 스트리머가 참여하는 ‘파트너스 멘토링’을 운…",
+      "category_score": 53,
+      "score_reason": "광고, 마케팅, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "광고",
+        "마케팅",
+        "플랫폼",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 광고, 마케팅, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 16,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]스트리머 활동 무대 다변화로 콘텐츠 확보 경쟁이 심화되는 환경 속에서 숲(SOOP)이 스트리머 생태계 경쟁력 확보에 주력한다. 이외에도 통합 마케팅 브랜드 ‘수피어’를 출시해 콘텐츠·스트리머·마케팅 역…",
+      "importance_reason": "광고, 마케팅, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "085d23837cf318db4d7af7f69ba0b5072bc6b3d455e2add264e7aca008a5f2d0",
+      "title": "위고페어, 화장품 가품 단속 위한 ‘시범구매’ 기능 정식 도입",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030114808",
+      "published_at": "2026-10-30T11:48:08+09:00",
+      "summary": "[지디넷코리아]AI 기반 온라인 브랜드 보호 기업 위고페어가 뷰티 브랜드의 위조상품(가품) 단속 실효성을 높이기 위해 의심 상품을 직접 구매해 진위를 가려내는 '시범구매' 기능을 정식 서비스로 선보였다.30일 회사에 따르면, 최근 화장품 가품 유통은 해외 플랫폼뿐 아니라 국내 오픈마켓, 소셜미디어 라이브 방송과 공동구매 등으로 빠르게 확산하고 있다. 국회 보건복지위원회 백종헌 의원이 지식재산처로부터 제출받은 자료에 따르면 올해 1~8월 온라인 플랫폼에서 판매 차단된 위조 화장품은 3만7544건으로 전년 동기(1만6270건) 대비 2.3배 증가했다. 한국소비자원 조사에서도 해외 위조 화장품 34개 중 11개에서 유해물질이 기준치를 초과하고 일부 향수에서는 메탄올이 허용치의 484배까지 검출되는 등 소비자 안전을 크게 위협하는 실정이다. 그러나 외관 복제가 정교해 화면상으로는 식별이 어려운 데다, 플랫폼 신고 시 정품 대조 실물 근거가 없으면 신고가 반려되거나 판매자와의 법적 분쟁으로…",
+      "category_score": 53,
+      "score_reason": "AI, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "소비자",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 69,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]AI 기반 온라인 브랜드 보호 기업 위고페어가 뷰티 브랜드의 위조상품(가품) 단속 실효성을 높이기 위해 의심 상품을 직접 구매해 진위를 가려내는 '시범구매' 기능을 정식 서비스로 선보였다.30일 회사에…",
+      "importance_reason": "AI, 플랫폼, 소비자 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "de065fa933e90d509749733985430819dc68c34c8f3e5540a2bd616715b5a485",
+      "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/news/0907869",
+      "published_at": "2026-10-30T13:26:27+09:00",
+      "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고 각자의 업무 문제를 함께 해결하는 장으로 꾸준히 확장돼 왔습니다. ​ 특히 AI가 특정 직군의 전문 도구를 넘어 일하는 방식 전반을 바꾸기 시작하면서 기술을 나눈다는 말의 의미도 달라졌습니다. 중요한 것은 새로운 도구를 아는 데 그치지 않고, 내 문제에 적용해 보고 막히는 지점을 동료와 함께 풀어 보는 경험입니다. ​ 10주년 Engineering Day는 이러한 변화에 맞춰 전 직군이 함께…",
+      "category_score": 44,
+      "score_reason": "플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "플랫폼",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 59,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day…",
+      "importance_reason": "플랫폼, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 86,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 18,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 11,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "브랜드",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 브랜드, 소비자, 커머스 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}
