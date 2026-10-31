@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-31T00:13:19.994476+09:00",
+  "updated_at": "2026-10-31T10:54:46.383207+09:00",
   "archives": [
+    {
+      "id": "2026-10-31_10-54",
+      "date": "2026-10-31",
+      "time": "10:54",
+      "label": "2026-10-31 10:54",
+      "generated_at": "2026-10-31T10:54:31.863174+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "브랜드",
+        "model"
+      ],
+      "integrated_titles": [
+        "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+        "AI가 고객센터 상담원 일자리 뺏을 줄 알았는데",
+        "Granite Switch 4.1.1 — Update models like you update software",
+        "Google value plunges by $500bn as its own AI search hits ad sales"
+      ],
+      "path_json": "archive/2026-10-31/10-54.json",
+      "path_md": "archive/2026-10-31/10-54.md"
+    },
     {
       "id": "2026-10-31_00-13",
       "date": "2026-10-31",
