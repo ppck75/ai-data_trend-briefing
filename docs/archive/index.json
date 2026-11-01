@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-01T10:22:50.676569+09:00",
+  "updated_at": "2026-11-01T19:43:52.952329+09:00",
   "archives": [
+    {
+      "id": "2026-11-01_19-43",
+      "date": "2026-11-01",
+      "time": "19:43",
+      "label": "2026-11-01 19:43",
+      "generated_at": "2026-11-01T19:43:40.870329+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "소비자",
+        "model"
+      ],
+      "integrated_titles": [
+        "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+        "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
+        "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+        "An Introduction to Large Language Models for Scientists and Professionals"
+      ],
+      "path_json": "archive/2026-11-01/19-43.json",
+      "path_md": "archive/2026-11-01/19-43.md"
+    },
     {
       "id": "2026-11-01_10-22",
       "date": "2026-11-01",
