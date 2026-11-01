@@ -1,0 +1,468 @@
+{
+  "briefing_date": "2026-11-02",
+  "generated_at": "2026-11-02T00:24:16.167944+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 1,
+    "ai_data": 11
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "9d99ade23f0af76160d76426dc59b4173e99d882bc05c30d8ae88faa78a6741c",
+        "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030173553",
+        "published_at": "2026-10-30T17:39:00+09:00",
+        "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
+        "category_score": 98,
+        "score_reason": "구글과 닐슨IQ의 협력은 '에이전틱 커머스(Agentic Commerce)'의 본격화를 의미하며, 소비자 구매 여정의 근본적인 변화를 예고하는 시장의 핵심 신호임.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "데이터"
+        ],
+        "planning_insight": "AI가 단순 검색을 넘어 실제 구매 결정을 수행하는 '에이전틱 커머스' 시대에 대응하기 위해 브랜드의 상품 데이터 표준화와 AI 최적화 전략이 필수적임."
+      },
+      {
+        "rank": 2,
+        "id": "76346012f76720ee3d0b523b5f1fe07d2e507c02b125cdb37937521a3e5fb632",
+        "title": "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261101134510",
+        "published_at": "2026-11-01T14:44:35+09:00",
+        "summary": "[지디넷코리아]앞으로 웹사이트 운영자가 설정 한번 만으로 주요 인공지능(AI) 기업에 콘텐츠 학습 거부 의사를 전달할 수 있게 된다.그동안 AI 기업마다 별도의 크롤러 차단 규칙을 설정해야 했지만 앞으로는 공통 규칙을 적용해 여러 기업에 한꺼번에 학습 거부 의사를 표시할 수 있다.1일 오픈AI, 구글, 마이크로소프트, 앤트로픽은 웹사이트의 AI 학습 관련 공통 신호를 수용하겠다는 계획을 발표했다. 국제인터넷표준화기구(IETF)의 AI 선호도(AIPREF) 작업반에서 논의 중인 기술을 기반으로 한다.핵심은 웹사이트의 '로봇 배제 표준(robots.txt)' 파일에 AI 학습 거부 의사를 공통으로 표시하는 것이다. robots.txt는 검색엔진이나 AI 크롤러가 웹사이트 콘텐츠에 접근하는 방식을 설정하는 파일이다.기존에는 오픈AI의 'GPT봇', 구글의 '구글 익스텐디드' 등 기업별로 다른 크롤러나 정책 식별자를 지정해 각각 규칙을 관리해야 했다.새로운 방식은 공통 식별자를 사용해 여…",
+        "category_score": 95,
+        "score_reason": "주요 AI 기업들이 공통 학습 거부 신호를 도입한 것은 생성형 AI 생태계의 데이터 주권과 저작권 문제가 산업 표준으로 정립되고 있음을 시사하는 중대한 변화임.",
+        "keywords": [
+          "AI",
+          "콘텐츠 저작권",
+          "산업 표준"
+        ],
+        "planning_insight": "AI 시대 콘텐츠 전략 수립 시, 데이터 자산의 가치를 보호하고 AI 학습 활용 여부를 능동적으로 제어할 수 있는 표준 규격 도입을 우선적으로 검토해야 함."
+      },
+      {
+        "rank": 3,
+        "id": "67f88eb4b4beb9d6f5ea0b0a6d9a1bbcdc0a29832b0b37ce23423b77eada37ac",
+        "title": "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261101155847",
+        "published_at": "2026-11-01T15:58:47+09:00",
+        "summary": "[지디넷코리아]HD현대로보틱스가 팔란티어와 인공지능(AI) 에이전트를 활용해 현장 문제 해결에 걸리는 시간을 줄이고 로봇 프로그래밍 업무 개선에 나선다.HD현대로보틱스는 최근 미국 뉴욕에서 열린 팔란티어 '소버리니티 부트캠프'에서 피지컬 AI 적용 전략과 양사 협력 성과를 소개했다고 1일 밝혔다. 기조연설은 안성환 최고기술책임자(CTO) 상무가 맡았다.회사는 지난 8월부터 문제 해결 과정에 AI 에이전트를 도입한 결과, 업무에 소요되는 기간이 평균 21.5일에서 7.9일로 약 63% 단축됐다고 설명했다.양사는 숙련 엔지니어 경험에 의존하던 로봇 작업 조정에 AI와 시뮬레이션을 접목하고 있다. 기존에는 엔지니어가 현장에서 로봇 움직임을 확인하며 작업 순서와 이동 경로, 속도를 반복적으로 조정해야 해 업무를 표준화하는 데 한계가 있었다.새로운 방식은 AI 에이전트가 기존 로봇 프로그램을 분석해 개선안을 제시하면 엔지니어가 현장 경험을 바탕으로 보완하는 구조다. HD현대로보틱스는 이를…",
+        "category_score": 92,
+        "score_reason": "제조 현장에 AI 에이전트를 도입하여 업무 효율을 63% 이상 개선한 사례는 B2B 피지컬 AI(Physical AI) 시장이 이론 단계를 넘어 실질적 생산성 혁신 모델로 안착했음을 보여줌.",
+        "keywords": [
+          "AI 에이전트",
+          "피지컬 AI",
+          "제조업 혁신"
+        ],
+        "planning_insight": "AI의 적용 범위를 단순 정보 처리가 아닌 물리적 작업 최적화로 확장하여, 고비용·고난도 업무를 자동화하는 '기업 맞춤형 에이전트' 솔루션 수요가 급증할 것임."
+      },
+      {
+        "rank": 4,
+        "id": "e3791f3bf9a8e6a4bebc8db72a2d7860412e68c493e35db065dca9365bd514de",
+        "title": "한국딥러닝·IBK기업은행, 보이스피싱 피해구제 서류 처리시간 88% 단축",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261030172506",
+        "published_at": "2026-10-30T17:25:24+09:00",
+        "summary": "[지디넷코리아]한국딥러닝(대표 김지현)이 IBK기업은행과 비전언어모델(VLM) 기반 인공지능(AI) 에이전트를 활용해 보이스피싱 피해구제 업무를 자동화하는 기술을 검증했다. 기존 수작업으로 진행하던 서류 처리시간을 88% 줄이고 문서 인식 정확도도 개선했다.한국딥러닝은 IBK기업은행 금융소비자지원부와 공동으로 보이스피싱 피해구제 업무 자동화 실증을 완료했다고 30일 밝혔다.이번 실증은 지난 4월부터 8월까지 진행됐다. 보이스피싱 피해구제 과정에서 팩스로 접수되는 신청서와 신분증 등을 AI가 분석하고 필요한 정보를 추출해 담당자의 업무 부담을 줄이는 것이 목적이다.기존에는 은행 직원이 접수된 서류를 일일이 확인하고 관련 정보를 시스템에 입력해야 했다. 이 때문에 서류 처리에 상당한 시간이 소요돼 신속한 피해 대응에 어려움이 있었다.양사는 한국딥러닝의 금융 특화 AI 에이전트 '딥 에이전트 포 파이낸스(DEEP Agent for Finance)'를 활용해 업무 자동화 시스템을 구축했다…",
+        "category_score": 89,
+        "score_reason": "금융권의 VLM(비전언어모델) 기반 업무 자동화는 AI 기술이 기존 수작업 위주의 비정형 데이터 처리 영역을 효과적으로 대체하고 있음을 입증하는 강력한 트렌드임.",
+        "keywords": [
+          "AI",
+          "금융",
+          "업무 자동화"
+        ],
+        "planning_insight": "기업은 정형 데이터 외에도 팩스, 서류 등 비정형 데이터 기반의 업무 흐름을 AI로 변환함으로써 상당한 운영 비용 절감 및 정확도 향상을 기대할 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "c54bb9c94ee99ea6171944b92d73c37cbb995f9875d178d1c2461269855e4048",
+        "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261031002306",
+        "published_at": "2026-10-31T09:43:50+09:00",
+        "summary": "[지디넷코리아]기업공개(IPO)를 앞둔 앤트로픽이 기업용 인공지능(AI) 사업 확대에 속도를 낸다. 클로드에 맡길 전문 업무를 늘리고 비용과 보안 관리까지 지원해 기업 시장 입지를 강화한다는 전략이다.31일 AI 업계에 따르면 앤트로픽은 기업이 AI를 실제 업무에 정착시키는 데 필요한 기능을 잇달아 선보이고 있다. 업무 처리뿐 아니라 결과를 평가하고 사용 규모를 늘리는 과정까지 지원 범위에 포함했다.앤트로픽은 최근 금융·법무 분야 서비스를 확대하고 신약 개발 협력 성과를 공개했다. 팀별 업무 결과와 지출을 분석하는 보고서, 공동 예산 관리 기능도 추가했다.이 같은 서비스 확대는 상장 준비와 맞물려 진행되고 있다. 앤트로픽은 지난 26일(현지시간) 미국 증권거래위원회(SEC)에 상장 등록 서류를 공개했다.앤트로픽은 금융과 법무 등 전문 분야에 맞춘 서비스를 잇달아 선보이며 기업 고객 접점을 넓히고 있다.지난 27일에는 금융 자문가를 위한 '클로드 포 파이낸셜 어드바이저스'를 선보였다…",
+        "category_score": 87,
+        "score_reason": "앤트로픽의 기업용 AI 시장 공략 강화는 AI 플랫폼이 기술 성능 중심에서 성과 분석, 보안, 비용 관리 등 엔터프라이즈 레벨의 운영 체제로 진화하고 있음을 보여줌.",
+        "keywords": [
+          "AI",
+          "엔터프라이즈",
+          "플랫폼"
+        ],
+        "planning_insight": "향후 기업용 AI 선택의 기준은 모델의 추론 능력뿐만 아니라 기업 내부 시스템과의 정교한 보안 통합 및 성과 측정 보고 기능을 포함하는 방향으로 고도화될 것임."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "de065fa933e90d509749733985430819dc68c34c8f3e5540a2bd616715b5a485",
+        "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/news/0907869",
+        "published_at": "2026-10-30T13:26:27+09:00",
+        "summary": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하며 배운 점을 나누는 사내 개발자 행사로 시작해 올해 10주년을 맞았습니다. 그동안 Engineering Day는 발표자가 정리한 지식을 듣는 자리를 넘어, 서로의 경험을 연결하고 각자의 업무 문제를 함께 해결하는 장으로 꾸준히 확장돼 왔습니다. ​ 특히 AI가 특정 직군의 전문 도구를 넘어 일하는 방식 전반을 바꾸기 시작하면서 기술을 나눈다는 말의 의미도 달라졌습니다. 중요한 것은 새로운 도구를 아는 데 그치지 않고, 내 문제에 적용해 보고 막히는 지점을 동료와 함께 풀어 보는 경험입니다. ​ 10주년 Engineering Day는 이러한 변화에 맞춰 전 직군이 함께…",
+        "category_score": 82,
+        "score_reason": "네이버의 10년간 기술 공유 문화와 조직 내 AI 도입 사례를 다루며, 대규모 조직에서의 플랫폼 성장 전략과 지식 공유 체계 구축 방식을 잘 보여줌.",
+        "keywords": [
+          "기술 공유",
+          "AI 도입",
+          "조직 전략"
+        ],
+        "planning_insight": "기술 블로그나 사내 기술 축제가 단순 행사를 넘어 조직 내 AI 전환과 일하는 방식의 변화를 이끄는 전략적 플랫폼으로 기능하는 구조적 인사이트 제공."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "fe6ff2f1a261fcb4fef6c75dff07005cdd2f75b8db07fd4773f0e3d1afc6ffb6",
+        "title": "An Introduction to Large Language Models for Scientists and Professionals",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37684",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37684v1 Announce Type: new Abstract: Large Language Models (LLMs) have rapidly become important tools for science, education, medicine, and professional work. Despite their apparent simplicity from the user's perspective, effective and responsible use requires an understanding of how these systems work, what their limitations are, and how their outputs should be evaluated. I wrote this document as a basis for my lecture on LLM in the master in artificial intelligence in medicine at t…",
+        "category_score": 95,
+        "score_reason": "AI 기술의 근본적인 이해와 실무적 활용 능력을 동시에 다루고 있어, 기획자가 기술적 문해력을 갖추고 업무에 적용하는 데 가장 기초적이고 중요한 가이드라인을 제공함.",
+        "keywords": [
+          "LLM",
+          "기초 가이드",
+          "실무 활용"
+        ],
+        "planning_insight": "LLM을 단순히 도구가 아닌 파트너로 활용하기 위한 한계와 기술 원리 이해는 콘텐츠 기획의 논리적 설득력을 높이는 핵심 역량임."
+      },
+      {
+        "rank": 2,
+        "id": "f536a0c90b04597c1697a1f6637fc1a0769f2efca7bb2ac8a69340a55ba5a937",
+        "title": "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37680",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37680v1 Announce Type: new Abstract: Closing the gap between frontier and smaller language models is usually approached by distillation: fine-tuning the small model (student) on a frontier model's (teacher) outputs, which binds transfer to training compute and leaves the transferred knowledge largely opaque. We propose Artifact Distillation: a teacher solves training instances and externalizes its problem-solving procedure into an artifact bank that a student queries at inference tim…",
+        "category_score": 92,
+        "score_reason": "고성능 모델의 지식을 효율적으로 작은 모델에 이식하는 기법으로, 고비용 AI 서비스를 경량화하여 콘텐츠 자동화 서비스에 활용할 가능성이 높음.",
+        "keywords": [
+          "지식 증류",
+          "모델 최적화",
+          "비용 효율화"
+        ],
+        "planning_insight": "고성능 인프라 없이도 특정 도메인에 특화된 소형 모델을 운영함으로써, 콘텐츠 개인화와 자동화의 운영 비용을 혁신적으로 절감할 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "d948fe1059d0a73c6413c9b23068d2df92c14b5a4fafed6fa74ef27733dbf6e5",
+        "title": "Exposure Is Not Commitment: Double-Stratified Evaluation of Latent Monitors for Tool-Using Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37679",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37679v1 Announce Type: new Abstract: Tool-using language agents are vulnerable to indirect prompt injection, and a growing literature probes model internals to catch unsafe actions before they execute, with sharply conflicting results. We argue much of the conflict is an evaluation artifact, and propose a double-stratification protocol: separate injection exposure from behavioral commitment, in both the evaluation and the training population. On the primary Qwen AgentDojo grid, monit…",
+        "category_score": 88,
+        "score_reason": "AI 에이전트의 보안 및 안전성 평가를 다루며, 이는 향후 콘텐츠 생성 에이전트를 도입하려는 기획자에게 필수적인 리스크 관리 프레임워크를 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "보안",
+          "프롬프트 인젝션"
+        ],
+        "planning_insight": "자동화된 콘텐츠 생성 에이전트를 기획할 때 발생할 수 있는 취약점을 선제적으로 파악하여, 브랜드 신뢰도를 보호하는 가드레일 설계에 활용 가능."
+      },
+      {
+        "rank": 4,
+        "id": "08b47dc63712c177ad65e7fcb30e611e58a7f9d19287be1fd58e7a51d200399b",
+        "title": "Prompt-agnostic Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37683",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37683v1 Announce Type: new Abstract: Despite their strong performance, large language models remain highly sensitive to prompt formulation. This issue is typically addressed at inference-time through manual prompt optimization, which introduces overhead and lacks scalability. Conversely, we focus on train-time approaches that build prompt robustness into the model during instruction tuning. A common strategy is to mix multiple paraphrases of each prompt into training. We demonstrate…",
+        "category_score": 85,
+        "score_reason": "프롬프트 민감도를 극복하려는 접근은 콘텐츠 일관성을 유지해야 하는 마케팅 업무 자동화에 있어 매우 중요한 기술적 진전임.",
+        "keywords": [
+          "프롬프트 최적화",
+          "일관성",
+          "자동화"
+        ],
+        "planning_insight": "프롬프트 의존도를 줄이는 모델링 방식은 시스템화된 콘텐츠 제작 파이프라인에서 결과물의 품질을 표준화하고 유지하는 데 기여함."
+      },
+      {
+        "rank": 5,
+        "id": "31231ccd2f214ad8bf8e687c0b7bd16166a0e54cecbe295d801b369f62672970",
+        "title": "The Best Second Opinion Is Right Where the Primary Is Wrong: Partner Selection for Selective Span Tagging",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.37678",
+        "published_at": "2026-10-30T13:00:00+09:00",
+        "summary": "arXiv:2610.37678v1 Announce Type: new Abstract: A span tagger that ranks its outputs by risk can defer the riskiest ones to a person, and a second model can sharpen this ranking. Which second model should it be? Partner selection is conditional, not global: the best second opinion is the model that is right where the primary is wrong. Across eight tagger types, three seeds and three English benchmarks (576 evaluated primary-partner pairings), choosing the partner by held-out accuracy on the pri…",
+        "category_score": 82,
+        "score_reason": "AI의 오류를 보완하는 협업 구조(파트너 선택)에 대한 인사이트로, AI 기반 검수 프로세스 설계 시 매우 유용한 모델임.",
+        "keywords": [
+          "AI 협업",
+          "검수 프로세스",
+          "위험 관리"
+        ],
+        "planning_insight": "단일 AI의 결과물을 그대로 믿지 않고, 특정 상황에 특화된 모델을 교차 검증하는 시스템을 구축하여 콘텐츠의 정확도를 높이는 전략으로 활용 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "9d99ade23f0af76160d76426dc59b4173e99d882bc05c30d8ae88faa78a6741c",
+      "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030173553",
+      "published_at": "2026-10-30T17:39:00+09:00",
+      "summary": "[지디넷코리아]글로벌 소비자 데이터 기업 닐슨IQ가 구글과 손잡고 인공지능(AI) 쇼핑 서비스 고도화에 나선다. 방대한 상품 정보와 유통 데이터를 활용해 AI가 소비자에게 적합한 제품을 추천하고 실제 구매 가능 여부까지 파악하도록 지원할 계획이다.닐슨IQ는 구글과 AI 기반 상품 검색과 구매를 지원하는 '에이전틱 커머스' 분야에서 협력한다고 30일 밝혔다. 양사는 구글이 보유한 600억 개 이상 상품 목록에 닐슨IQ 제품·유통 데이터를 접목하는 방안을 추진한다.에이전틱 커머스는 AI가 소비자의 요구를 파악해 상품을 찾고 비교하며 구매 과정까지 지원하는 기술이다. 기존 온라인 쇼핑이 소비자가 직접 상품을 검색하고 선택하는 방식이었다면 AI가 이러한 과정을 대신 수행하도록 돕는 데 초점을 맞춘다.이번 협력에서 닐슨IQ는 2억 5000만 개 이상 상품 정보와 전 세계 90개국에서 수집한 매장 위치·판매 데이터를 활용한다. 구글 AI 쇼핑 서비스에 이러한 정보를 연결해 상품 추천 정확도를…",
+      "category_score": 98,
+      "score_reason": "구글과 닐슨IQ의 협력은 '에이전틱 커머스(Agentic Commerce)'의 본격화를 의미하며, 소비자 구매 여정의 근본적인 변화를 예고하는 시장의 핵심 신호임.",
+      "keywords": [
+        "에이전틱 커머스",
+        "데이터 표준화",
+        "AI 쇼핑"
+      ],
+      "planning_insight": "브랜드는 검색 엔진 최적화(SEO)를 넘어 AI 에이전트가 탐색하기 쉬운 '데이터 표준화'와 추천 로직 대응 전략을 수립해야 함.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글과 닐슨IQ의 협업을 통한 '에이전틱 커머스'의 본격적인 시장 진입",
+      "importance_reason": "소비자 구매 여정이 검색 기반에서 AI 대행 기반으로 전환되는 근본적 변화를 의미함."
+    },
+    {
+      "rank": 2,
+      "id": "76346012f76720ee3d0b523b5f1fe07d2e507c02b125cdb37937521a3e5fb632",
+      "title": "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261101134510",
+      "published_at": "2026-11-01T14:44:35+09:00",
+      "summary": "[지디넷코리아]앞으로 웹사이트 운영자가 설정 한번 만으로 주요 인공지능(AI) 기업에 콘텐츠 학습 거부 의사를 전달할 수 있게 된다.그동안 AI 기업마다 별도의 크롤러 차단 규칙을 설정해야 했지만 앞으로는 공통 규칙을 적용해 여러 기업에 한꺼번에 학습 거부 의사를 표시할 수 있다.1일 오픈AI, 구글, 마이크로소프트, 앤트로픽은 웹사이트의 AI 학습 관련 공통 신호를 수용하겠다는 계획을 발표했다. 국제인터넷표준화기구(IETF)의 AI 선호도(AIPREF) 작업반에서 논의 중인 기술을 기반으로 한다.핵심은 웹사이트의 '로봇 배제 표준(robots.txt)' 파일에 AI 학습 거부 의사를 공통으로 표시하는 것이다. robots.txt는 검색엔진이나 AI 크롤러가 웹사이트 콘텐츠에 접근하는 방식을 설정하는 파일이다.기존에는 오픈AI의 'GPT봇', 구글의 '구글 익스텐디드' 등 기업별로 다른 크롤러나 정책 식별자를 지정해 각각 규칙을 관리해야 했다.새로운 방식은 공통 식별자를 사용해 여…",
+      "category_score": 95,
+      "score_reason": "주요 AI 기업들이 공통 학습 거부 신호를 도입한 것은 생성형 AI 생태계의 데이터 주권과 저작권 문제가 산업 표준으로 정립되고 있음을 시사하는 중대한 변화임.",
+      "keywords": [
+        "데이터 주권",
+        "robots.txt",
+        "AI 학습 거부"
+      ],
+      "planning_insight": "자사 콘텐츠의 AI 학습 허용 여부를 명확히 결정하고, 로봇 배제 표준을 통한 전략적인 데이터 자산 관리 가이드라인 마련이 필요함.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "주요 AI 기업들의 공통 AI 학습 거부 신호 표준화 도입",
+      "importance_reason": "AI 콘텐츠 생태계에서 저작권 보호와 데이터 주권 문제가 산업 표준(Standard)으로 자리 잡기 시작함."
+    },
+    {
+      "rank": 3,
+      "id": "67f88eb4b4beb9d6f5ea0b0a6d9a1bbcdc0a29832b0b37ce23423b77eada37ac",
+      "title": "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261101155847",
+      "published_at": "2026-11-01T15:58:47+09:00",
+      "summary": "[지디넷코리아]HD현대로보틱스가 팔란티어와 인공지능(AI) 에이전트를 활용해 현장 문제 해결에 걸리는 시간을 줄이고 로봇 프로그래밍 업무 개선에 나선다.HD현대로보틱스는 최근 미국 뉴욕에서 열린 팔란티어 '소버리니티 부트캠프'에서 피지컬 AI 적용 전략과 양사 협력 성과를 소개했다고 1일 밝혔다. 기조연설은 안성환 최고기술책임자(CTO) 상무가 맡았다.회사는 지난 8월부터 문제 해결 과정에 AI 에이전트를 도입한 결과, 업무에 소요되는 기간이 평균 21.5일에서 7.9일로 약 63% 단축됐다고 설명했다.양사는 숙련 엔지니어 경험에 의존하던 로봇 작업 조정에 AI와 시뮬레이션을 접목하고 있다. 기존에는 엔지니어가 현장에서 로봇 움직임을 확인하며 작업 순서와 이동 경로, 속도를 반복적으로 조정해야 해 업무를 표준화하는 데 한계가 있었다.새로운 방식은 AI 에이전트가 기존 로봇 프로그램을 분석해 개선안을 제시하면 엔지니어가 현장 경험을 바탕으로 보완하는 구조다. HD현대로보틱스는 이를…",
+      "category_score": 92,
+      "score_reason": "제조 현장에 AI 에이전트를 도입하여 업무 효율을 63% 이상 개선한 사례는 B2B 피지컬 AI(Physical AI) 시장이 이론 단계를 넘어 실질적 생산성 혁신 모델로 안착했음을 보여줌.",
+      "keywords": [
+        "피지컬 AI",
+        "업무 자동화",
+        "AI 에이전트"
+      ],
+      "planning_insight": "기업 내 고비용 반복 업무를 AI 에이전트로 전환하는 B2B 자동화 모델을 참조하여, 사내 워크플로우를 최적화하는 전략 기획 가능.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "제조업 현장에 AI 에이전트를 도입해 업무 시간을 63% 단축한 사례",
+      "importance_reason": "AI가 단순 텍스트 생성을 넘어 물리적 현장의 공정 효율화까지 실질적인 생산성 혁신을 견인함."
+    },
+    {
+      "rank": 4,
+      "id": "f536a0c90b04597c1697a1f6637fc1a0769f2efca7bb2ac8a69340a55ba5a937",
+      "title": "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.37680",
+      "published_at": "2026-10-30T13:00:00+09:00",
+      "summary": "arXiv:2610.37680v1 Announce Type: new Abstract: Closing the gap between frontier and smaller language models is usually approached by distillation: fine-tuning the small model (student) on a frontier model's (teacher) outputs, which binds transfer to training compute and leaves the transferred knowledge largely opaque. We propose Artifact Distillation: a teacher solves training instances and externalizes its problem-solving procedure into an artifact bank that a student queries at inference tim…",
+      "category_score": 92,
+      "score_reason": "고성능 모델의 지식을 효율적으로 작은 모델에 이식하는 기법으로, 고비용 AI 서비스를 경량화하여 콘텐츠 자동화 서비스에 활용할 가능성이 높음.",
+      "keywords": [
+        "지식 증류",
+        "모델 경량화",
+        "비용 최적화"
+      ],
+      "planning_insight": "콘텐츠 자동화 서비스 기획 시, 범용 모델의 비싼 비용을 우회하고 특정 목적에 최적화된 소형 모델(sLLM) 구축에 활용할 수 있음.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "콘텐츠 전략 활용성"
+      ],
+      "one_line_summary": "고성능 모델의 지식을 소형 모델에 이식하는 'Artifact Distillation' 기법 제시",
+      "importance_reason": "고비용의 대형 모델 인프라 없이도 고품질의 자동화 서비스 운영이 가능한 기술적 돌파구 마련."
+    },
+    {
+      "rank": 5,
+      "id": "e3791f3bf9a8e6a4bebc8db72a2d7860412e68c493e35db065dca9365bd514de",
+      "title": "한국딥러닝·IBK기업은행, 보이스피싱 피해구제 서류 처리시간 88% 단축",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261030172506",
+      "published_at": "2026-10-30T17:25:24+09:00",
+      "summary": "[지디넷코리아]한국딥러닝(대표 김지현)이 IBK기업은행과 비전언어모델(VLM) 기반 인공지능(AI) 에이전트를 활용해 보이스피싱 피해구제 업무를 자동화하는 기술을 검증했다. 기존 수작업으로 진행하던 서류 처리시간을 88% 줄이고 문서 인식 정확도도 개선했다.한국딥러닝은 IBK기업은행 금융소비자지원부와 공동으로 보이스피싱 피해구제 업무 자동화 실증을 완료했다고 30일 밝혔다.이번 실증은 지난 4월부터 8월까지 진행됐다. 보이스피싱 피해구제 과정에서 팩스로 접수되는 신청서와 신분증 등을 AI가 분석하고 필요한 정보를 추출해 담당자의 업무 부담을 줄이는 것이 목적이다.기존에는 은행 직원이 접수된 서류를 일일이 확인하고 관련 정보를 시스템에 입력해야 했다. 이 때문에 서류 처리에 상당한 시간이 소요돼 신속한 피해 대응에 어려움이 있었다.양사는 한국딥러닝의 금융 특화 AI 에이전트 '딥 에이전트 포 파이낸스(DEEP Agent for Finance)'를 활용해 업무 자동화 시스템을 구축했다…",
+      "category_score": 89,
+      "score_reason": "금융권의 VLM(비전언어모델) 기반 업무 자동화는 AI 기술이 기존 수작업 위주의 비정형 데이터 처리 영역을 효과적으로 대체하고 있음을 입증하는 강력한 트렌드임.",
+      "keywords": [
+        "VLM",
+        "비정형 데이터",
+        "금융 자동화"
+      ],
+      "planning_insight": "데이터화되지 않은 오프라인 문서나 이미지 중심의 콘텐츠를 AI가 분석 가능한 자산으로 전환하는 디지털 자산화 전략 수립의 모범 사례.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "비전언어모델(VLM)을 활용한 금융권 서류 처리 업무 88% 자동화",
+      "importance_reason": "전통적인 수작업 비정형 데이터(서류, 팩스)의 디지털 전환이 AI를 통해 가속화되는 흐름 반영."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 87,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 17,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "소비자",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 10,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "소비자 접점에서의 에이전틱 커머스 전환과 데이터 자산 주권 보호가 핵심 의제로 부상함.",
+    "제조 및 금융업 분야에서 AI 에이전트를 통한 실질적 업무 효율화 사례가 가시적인 성과로 입증됨.",
+    "고비용 AI 인프라를 경량화하거나 비정형 데이터를 자동화하는 실무 기술이 현장 도입 단계로 진화 중임."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

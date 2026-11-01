@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-01T19:43:52.952329+09:00",
+  "updated_at": "2026-11-02T00:24:28.377748+09:00",
   "archives": [
+    {
+      "id": "2026-11-02_00-24",
+      "date": "2026-11-02",
+      "time": "00:24",
+      "label": "2026-11-02 00:24",
+      "generated_at": "2026-11-02T00:24:16.167944+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "소비자",
+        "model"
+      ],
+      "integrated_titles": [
+        "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화",
+        "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+        "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
+        "Artifact Distillation: Training-Free Transfer from Frontier to Small Language Models",
+        "한국딥러닝·IBK기업은행, 보이스피싱 피해구제 서류 처리시간 88% 단축"
+      ],
+      "path_json": "archive/2026-11-02/00-24.json",
+      "path_md": "archive/2026-11-02/00-24.md"
+    },
     {
       "id": "2026-11-01_19-43",
       "date": "2026-11-01",
