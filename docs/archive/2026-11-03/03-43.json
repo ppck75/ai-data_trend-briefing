@@ -1,0 +1,472 @@
+{
+  "briefing_date": "2026-11-03",
+  "generated_at": "2026-11-03T03:43:27.385255+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 1,
+    "ai_data": 11
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "af0c2d07aa7151cc0df6021e3e657613d70e0ab0b07f15b525009330ede421a3",
+        "title": "디어비, AI 캐릭터 교감 플랫폼 '디어비' 출시…창작 생태계 구축",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261102185350",
+        "published_at": "2026-11-02T18:55:01+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 캐릭터 교감과 이용자 창작 콘텐츠(UGC) 생태계를 결합한 신규 플랫폼이 나온다.디어비(대표 배준석)는 차세대 AI 컴패니언 및 AI 사용자 생성 콘텐츠(UGC) 플랫폼 '디어비'를 구글 플레이와 공식 웹페이지를 통해 정식 출시했다고 2일 밝혔다.'디어비'는 AI 캐릭터와의 대화를 통해 유대감을 형성하고, 이용자가 직접 캐릭터와 스토리를 제작해 공유할 수 있는 플랫폼이다.이 플랫폼은 ▲가상 무대에서 서사를 즐기는 '테마' 콘텐츠 ▲캐릭터 피규어 제작 ▲옷 입히기 ▲전용 오리지널 사운드트랙(OST) 생성 ▲영상관 ▲미니게임 등 다채로운 상호작용 요소를 지원한다.플랫폼 구조는 이용자가 독자, 창작자, 수집가의 역할을 넘나들며 자생적인 생태계를 형성하도록 설계됐다. 타 이용자가 제작한 캐릭터와 서사를 소비하는 단계에서 직접 세계관을 창작하는 생산자로 전환할 수 있으며, 피규어나 음원, 의상 등 파생 콘텐츠를 수집하는 경험도 함께 제공한다.디어비는 정식 출시…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "dde28b3997bbdc54a4fe041978543344089c886e77d675d035b13b92cfcf3832",
+        "title": "인젠트, AI 통한 기업 정보 유출 막는다…데이터 관리 전략 제시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261102181520",
+        "published_at": "2026-11-02T18:15:40+09:00",
+        "summary": "[지디넷코리아]인젠트가 기업 내부 문서와 데이터베이스(DB)를 연결해 인공지능(AI) 업무에 활용하는 데이터 관리 전략을 공개했다. 문서중앙화 시스템을 단순한 자료 보관 공간에서 벗어나 AI가 신뢰할 수 있는 정보를 제공하는 기반으로 발전시킨다는 구상이다.인젠트는 '문서중앙화에서 AX 플랫폼으로-AI가 신뢰하는 지식은 어디서 오는가'를 주제로 온라인 웨비나를 개최했다고 2일 밝혔다.발표를 맡은 박정권 인젠트 기술2본부장(전무)은 기업이 AI를 업무에 적용하려면 내부 문서와 정형 데이터를 통합적으로 활용할 수 있어야 한다고 강조했다.예를 들어 기업의 대출 한도 증액 여부를 판단하려면 내부 심사 규정뿐 아니라 해당 기업의 최신 재무정보도 함께 확인해야 한다. AI가 정확한 답변을 제공하려면 서로 다른 시스템에 저장된 정보를 연결하고 최신 상태로 유지하는 작업이 필요하다는 설명이다.인젠트는 이러한 문제를 해결하기 위해 문서중앙화 시스템의 역할을 확대해야 한다고 제안했다. 분산된 문서를…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "92d0fc5ac3000f2567bc5c202069018481e5cf5587503943bcd691be0888d9e3",
+        "title": "ADI·이노배트, AI 데이터센터용 지능형 배터리 저장 플랫폼 공동 개발",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261102095838",
+        "published_at": "2026-11-02T11:36:26+09:00",
+        "summary": "[지디넷코리아]아나로그디바이스 유럽의 배터리 제조회사 이노배트(InoBat)는 지능형 배터리 에너지 저장 시스템(BESS) 플랫폼인 'i-Power+'의 공동 개발을 모색하기 위한 양해각서(MOU)를 체결했다고 2일 밝혔다.양사는 아일랜드 리머릭에 위치한 ADI의 최첨단 혁신 액셀러레이터인 ADI 카탈리스트(ADI Catalyst)에서 파일럿 작업을 통해 협력을 시작할 예정이다. ADI 카탈리스트는 고객, 비즈니스 파트너, 공급업체가 ADI 전문가들과 협력해 업계 선도적인 솔루션을 신속하게 개발, 테스트 및 실증할 수 있도록 조성한 시설이다. 파일럿 단계에서 이노배트와 ADI는 i-Power+의 시스템 아키텍처를 정의하고, 공동 개발 파트너 및 주요 공급사를 선정하며, 지능형 LFP BESS 플랫폼의 시제품을 제공할 계획이다.시제품은 배터리 셀과 배터리 관리 장치(BMU) 간의 배선을 없앤 무선 배터리 관리 시스템(wBMS)과 함께, 배터리 수명을 연장하고 배터리 상태(SOH) 및…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "3da56bbb396b161c083e00b0e182fa12e346a49119903bc87637599104fc4791",
+        "title": "F&U신용정보, 컨택센터 사업 인수로 종합 BPO 도약",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12193319",
+        "published_at": "2026-11-02T11:13:51+09:00",
+        "summary": "통신·금융 넘어 플랫폼·커머스·에너지로 고객 기반 다변화 금융 수준의 보안과 생성형 인공지능(AI) 기술 결합해 AICC 경쟁력 강화F&U신용정보(에프앤유신용정보, 대표 이규식)가..",
+        "category_score": 56,
+        "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "플랫폼"
+        ],
+        "planning_insight": "이 항목은 AI, 커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "73dd8e1b8c0373d9c66b38265cc9e63ae275d495da07854e344e04d6f3736370",
+        "title": "[AI 고속도로] \"후티 공격에도 AI에 베팅\"…사우디, 3GW 데이터센터 구축 가능할까",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261102105759",
+        "published_at": "2026-11-02T11:05:34+09:00",
+        "summary": "[지디넷코리아]사우디아라비아가 중동 지역의 군사적 긴장 속에서도 인공지능(AI) 인프라 투자 확대에 나섰다. 국영 석유기업 아람코가 자국 AI 기업 휴메인의 주요 주주로 참여하며 대규모 데이터센터 구축에 힘을 싣고 있지만 최근 후티 반군의 공격이 이어지면서 사업 일정과 시설 안전을 둘러싼 우려도 커지고 있다.아람코는 지난 1일 사우디 국부펀드(PIF)와 AI 기업 휴메인(HUMAIN)의 지분 거래를 완료했다고 2일 발표했다. 이번 거래로 PIF는 지분 51%를 유지하고 아람코는 49%를 확보했다. 아람코는 올해 약 99억 사우디리얄(약 26억 달러)의 현금과 AI 컴퓨팅·디지털 자산을 휴메인에 투입한다.지난해 5월 출범한 휴메인은 데이터센터와 고성능 컴퓨팅 인프라, 클라우드 플랫폼, AI 모델 등을 개발하는 기업이다. 이곳은 오는 2030년까지 3기가와트(GW) 규모의 AI 데이터센터 용량을 구축해 중동과 글로벌 시장의 AI 컴퓨팅 수요에 대응할 계획이다. 또 아랍어 기반 멀티모달…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "c40ad0853cb43372f8f3e62e5a8724dbc9dd81e65a79966db1055237f4984d48",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2265641",
+        "published_at": "2026-11-02T13:46:53+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU NAVER D2 | 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU naver.me ​ 발표 내용 Kubernetes GPU 노드를 VM으로 격리해 나눠 쓰면서, 호스트 수준의 성능까지 최적화한 방법을 소개합니다. ​ 발표 대상 여러 사용자가 GPU node를 함께 쓰는 환경에서 격리를 강화하려는 플랫폼 개발자 Kubernetes에서 kata-containers나 VM 기반 runtime 도입을 검토하는 개발자 DRA로 GPU·NIC 같은 device 할당을 직접 구현하려는 개발자 VM 환경에서 GPU·IB·storage 성능을 bare metal 수준으로 맞추려는 개발자 ​ 목차 도입 배경과 kata-containers의 구조 GPU와 NIC…",
+        "category_score": 75,
+        "score_reason": "GPU 리소스 효율화 및 멀티 테넌시 환경에서의 플랫폼 격리 전략을 다루고 있어, 대규모 AI 서비스 인프라 기획 시 비용 최적화와 안정적인 서비스 운영 관점에서 참고할 가치가 있음.",
+        "keywords": [
+          "Kubernetes",
+          "GPU",
+          "플랫폼",
+          "인프라 전략"
+        ],
+        "planning_insight": "다수 사용자가 점유하는 AI 서비스 환경에서 성능 저하 없이 자원을 효율적으로 배분하는 기술적 격리 전략은 제품의 확장성과 서비스 안정성을 결정짓는 핵심 플랫폼 전략임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "0859780dbd4d9a42ab27b06f373b467c02ef3ce42c8843da2c5335f37c9cfda3",
+        "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40747",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy. We present Mage-VL-Cowork, a 4B hybrid CUA trained from a general multimodally aligned checkpoint through an end-to-end, progressive five-stage curriculum across midtraining, SFT, and RL. To power this curriculum at scale, Mage-CUA-Forge replaces per-task agent construction with reusable, skill-conditioned…",
+        "category_score": 98,
+        "score_reason": "컴퓨터 사용 에이전트(CUA)의 실무적 구현 방식을 제시하며, 시각적 GUI와 코드 실행을 결합해 자동화의 범위를 비약적으로 확장함.",
+        "keywords": [
+          "에이전트",
+          "컴퓨터 자동화",
+          "멀티모달"
+        ],
+        "planning_insight": "반복적인 업무 자동화를 넘어 GUI 기반의 복잡한 소프트웨어 제어까지 가능해짐에 따라, 콘텐츠 운영 및 워크플로우 자동화 설계 시 에이전트 도입을 적극 고려해야 함."
+      },
+      {
+        "rank": 2,
+        "id": "487d109edd034fcbd7cf49a8215e750bbd1b15bdbd7a99061ea359051ca0f8c0",
+        "title": "Adaptive Personalization Under Preference Epistemic Uncertainty",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40930",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40930v1 Announce Type: new Abstract: Human preferences change over time: an established preference may remain valid over time, become uncertain as context shifts, or be explicitly revised. Effective personalization requires conversational AI to adapt its response strategy to evolving preferences rather than relying on passive memory retrieval. We formalize this capability as adaptive personalization under epistemic uncertainty. A human preference study further confirms that people fa…",
+        "category_score": 95,
+        "score_reason": "사용자의 변화하는 선호도를 실시간으로 적응시키는 개인화 기법은 콘텐츠 추천 시스템의 고도화에 핵심적인 기술임.",
+        "keywords": [
+          "개인화",
+          "추천 알고리즘",
+          "적응형 AI"
+        ],
+        "planning_insight": "고정된 사용자 프로필이 아닌, 대화형 AI를 통한 유동적 선호도 추적 기법을 도입하여 더욱 개인화된 콘텐츠 큐레이션 경험을 제공해야 함."
+      },
+      {
+        "rank": 3,
+        "id": "ba58b629e7d971b20224661a3210855c92295c85ba28078316577b9043e2f855",
+        "title": "Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.41012",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.41012v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) can expose language models to misleading evidence in retrieved documents. We investigate whether increasing the number of mutually agreeing poisoned documents affects a model's ability to detect misinformation. We evaluate 200 randomly selected questions from SciFact (random seed 38), comparing contexts with one poisoned and six healthy documents against contexts with six mutually agreeing poisoned documents an…",
+        "category_score": 92,
+        "score_reason": "RAG 시스템에서 발생할 수 있는 동조 편향 문제를 다루며, 이는 신뢰성 있는 AI 콘텐츠 생성에 필수적인 인사이트를 제공함.",
+        "keywords": [
+          "RAG",
+          "할루시네이션",
+          "콘텐츠 신뢰성"
+        ],
+        "planning_insight": "RAG 기반의 콘텐츠 자동 생성 시, 정보의 양보다 출처의 다양성과 검증 로직이 AI의 결과물 신뢰도에 미치는 영향을 제어하는 전략이 중요함."
+      },
+      {
+        "rank": 4,
+        "id": "88e0ce110a994e6f2fbc969cfca5979ed1a9fda624f5318e16e588a6dbf86eda",
+        "title": "Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40966",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40966v1 Announce Type: new Abstract: Conversational RAG benchmarks such as MTRAG and RETECO evaluate retrieval and generation end to end: each system answers from its own retrieval, so abstention must be scored against whether each retrieved context is sufficient. A convenient shortcut reads sufficiency off the relevance judgments and treats a context without gold documents as unanswerable. We re-run the official baselines exactly and test this shortcut on RECOR (RETECO track~2) with…",
+        "category_score": 89,
+        "score_reason": "대화형 RAG의 평가 지표와 관련된 현실적인 문제를 지적하며, 자동화된 서비스의 품질 측정 방법론을 개선하는 가이드라인 제시.",
+        "keywords": [
+          "RAG",
+          "성능 평가",
+          "대화형 AI"
+        ],
+        "planning_insight": "내부 서비스의 RAG 도입 시 시스템이 스스로 답변을 유보해야 할 상황을 정의하고, 이를 올바르게 측정하는 지표 설정이 서비스의 품질을 결정함."
+      },
+      {
+        "rank": 5,
+        "id": "9d5d457a3b9e5bf5653a836e4eb112fc5b1fbef311dece0207106194e1a88d46",
+        "title": "CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40926",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40926v1 Announce Type: new Abstract: Automated red teaming trains an attacker large language model (LLM) to elicit harmful responses from a victim LLM, but reinforcement learning can collapse attackers onto a narrow set of prompts when attack success is the only reward. Such a collapse of attack diversity can bias safety evaluation toward repeatedly testing near-duplicate attack patterns rather than the underlying harmful intents. Existing methods often trade off attack success or in…",
+        "category_score": 85,
+        "score_reason": "자동화된 레드팀 모델을 통한 안전성 확보 전략은 AI 서비스 상용화 시 기획자가 반드시 고려해야 할 리스크 관리 기술임.",
+        "keywords": [
+          "레드팀",
+          "안전성",
+          "LLM 최적화"
+        ],
+        "planning_insight": "AI 기반 콘텐츠 자동 생성 시스템 구축 시, 단순 유해성 필터링을 넘어 다양한 공격 시나리오에 대비한 동적 안전 평가 프레임워크를 수립해야 함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "0859780dbd4d9a42ab27b06f373b467c02ef3ce42c8843da2c5335f37c9cfda3",
+      "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.40747",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy. We present Mage-VL-Cowork, a 4B hybrid CUA trained from a general multimodally aligned checkpoint through an end-to-end, progressive five-stage curriculum across midtraining, SFT, and RL. To power this curriculum at scale, Mage-CUA-Forge replaces per-task agent construction with reusable, skill-conditioned…",
+      "category_score": 98,
+      "score_reason": "컴퓨터 사용 에이전트(CUA)의 실무적 구현 방식을 제시하며, 시각적 GUI와 코드 실행을 결합해 자동화의 범위를 비약적으로 확장함.",
+      "keywords": [
+        "에이전트",
+        "컴퓨터 자동화",
+        "멀티모달"
+      ],
+      "planning_insight": "기존의 콘텐츠 제작 파이프라인을 '사람 중심'에서 '에이전트 중심'으로 재설계하여, GUI 기반 툴 연동이 필요한 반복 작업의 무인화 전략을 수립해야 함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "시각적 GUI와 터미널을 결합해 복잡한 소프트웨어를 스스로 제어하는 '컴퓨터 사용 에이전트(CUA)'의 진화",
+      "importance_reason": "단순 텍스트 생성을 넘어, 실제 도구를 다루는 에이전트 모델로의 전환은 기업의 업무 자동화와 콘텐츠 워크플로우를 근본적으로 변화시킴."
+    },
+    {
+      "rank": 2,
+      "id": "487d109edd034fcbd7cf49a8215e750bbd1b15bdbd7a99061ea359051ca0f8c0",
+      "title": "Adaptive Personalization Under Preference Epistemic Uncertainty",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.40930",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "summary": "arXiv:2610.40930v1 Announce Type: new Abstract: Human preferences change over time: an established preference may remain valid over time, become uncertain as context shifts, or be explicitly revised. Effective personalization requires conversational AI to adapt its response strategy to evolving preferences rather than relying on passive memory retrieval. We formalize this capability as adaptive personalization under epistemic uncertainty. A human preference study further confirms that people fa…",
+      "category_score": 95,
+      "score_reason": "사용자의 변화하는 선호도를 실시간으로 적응시키는 개인화 기법은 콘텐츠 추천 시스템의 고도화에 핵심적인 기술임.",
+      "keywords": [
+        "개인화",
+        "추천 알고리즘",
+        "적응형 AI"
+      ],
+      "planning_insight": "사용자의 과거 기록에 의존하는 대신, 대화 중에 확인되는 유동적 취향을 즉각적으로 콘텐츠 큐레이션 로직에 반영하는 '적응형 개인화' 시스템을 기획해야 함.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "시간 흐름에 따라 변화하는 사용자 선호도를 실시간으로 추적·반영하는 적응형 개인화 기법 연구",
+      "importance_reason": "정적 데이터 기반의 기존 개인화 추천 방식에서 벗어나, 대화와 상황 맥락 변화에 실시간으로 반응하는 고도화된 개인화 경험이 표준이 되고 있음."
+    },
+    {
+      "rank": 3,
+      "id": "ba58b629e7d971b20224661a3210855c92295c85ba28078316577b9043e2f855",
+      "title": "Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2610.41012",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "summary": "arXiv:2610.41012v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) can expose language models to misleading evidence in retrieved documents. We investigate whether increasing the number of mutually agreeing poisoned documents affects a model's ability to detect misinformation. We evaluate 200 randomly selected questions from SciFact (random seed 38), comparing contexts with one poisoned and six healthy documents against contexts with six mutually agreeing poisoned documents an…",
+      "category_score": 92,
+      "score_reason": "RAG 시스템에서 발생할 수 있는 동조 편향 문제를 다루며, 이는 신뢰성 있는 AI 콘텐츠 생성에 필수적인 인사이트를 제공함.",
+      "keywords": [
+        "RAG",
+        "할루시네이션",
+        "콘텐츠 신뢰성"
+      ],
+      "planning_insight": "AI 기반 정보 생성 서비스 운영 시, 단순 RAG 연결을 넘어 소스 데이터의 다양성 확보와 교차 검증을 포함하는 품질 관리 프로세스 도입이 필수적임.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "RAG 시스템에서 다수의 검색 문서가 오염되었을 때 발생하는 '동조 편향' 현상 및 대응 방안",
+      "importance_reason": "기업이 AI를 통해 정보성 콘텐츠를 생성할 때 발생하는 기술적 오류(동조 편향)를 이해하고, 이를 방어하는 전략은 서비스 신뢰도와 직결됨."
+    },
+    {
+      "rank": 4,
+      "id": "c40ad0853cb43372f8f3e62e5a8724dbc9dd81e65a79966db1055237f4984d48",
+      "title": "컨테이너처럼 쓰고, VM처럼 격리하기",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/2265641",
+      "published_at": "2026-11-02T13:46:53+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU NAVER D2 | 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU naver.me ​ 발표 내용 Kubernetes GPU 노드를 VM으로 격리해 나눠 쓰면서, 호스트 수준의 성능까지 최적화한 방법을 소개합니다. ​ 발표 대상 여러 사용자가 GPU node를 함께 쓰는 환경에서 격리를 강화하려는 플랫폼 개발자 Kubernetes에서 kata-containers나 VM 기반 runtime 도입을 검토하는 개발자 DRA로 GPU·NIC 같은 device 할당을 직접 구현하려는 개발자 VM 환경에서 GPU·IB·storage 성능을 bare metal 수준으로 맞추려는 개발자 ​ 목차 도입 배경과 kata-containers의 구조 GPU와 NIC…",
+      "category_score": 75,
+      "score_reason": "GPU 리소스 효율화 및 멀티 테넌시 환경에서의 플랫폼 격리 전략을 다루고 있어, 대규모 AI 서비스 인프라 기획 시 비용 최적화와 안정적인 서비스 운영 관점에서 참고할 가치가 있음.",
+      "keywords": [
+        "Kubernetes",
+        "GPU",
+        "플랫폼 전략"
+      ],
+      "planning_insight": "대규모 서비스 기획 시 컴퓨팅 리소스 효율화를 고려한 인프라 구조를 선제적으로 설계하여 서비스 마진을 개선하고 운영 안정성을 높여야 함.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 20,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "대규모 AI 환경에서 GPU 자원을 효율적으로 격리·공유하는 인프라 최적화 및 플랫폼 격리 전략",
+      "importance_reason": "AI 서비스의 규모가 커짐에 따라 운영 비용 최적화와 서비스 성능 유지 사이의 균형을 잡는 플랫폼 기술력은 서비스 지속가능성의 핵심임."
+    },
+    {
+      "rank": 5,
+      "id": "af0c2d07aa7151cc0df6021e3e657613d70e0ab0b07f15b525009330ede421a3",
+      "title": "디어비, AI 캐릭터 교감 플랫폼 '디어비' 출시…창작 생태계 구축",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261102185350",
+      "published_at": "2026-11-02T18:55:01+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 캐릭터 교감과 이용자 창작 콘텐츠(UGC) 생태계를 결합한 신규 플랫폼이 나온다.디어비(대표 배준석)는 차세대 AI 컴패니언 및 AI 사용자 생성 콘텐츠(UGC) 플랫폼 '디어비'를 구글 플레이와 공식 웹페이지를 통해 정식 출시했다고 2일 밝혔다.'디어비'는 AI 캐릭터와의 대화를 통해 유대감을 형성하고, 이용자가 직접 캐릭터와 스토리를 제작해 공유할 수 있는 플랫폼이다.이 플랫폼은 ▲가상 무대에서 서사를 즐기는 '테마' 콘텐츠 ▲캐릭터 피규어 제작 ▲옷 입히기 ▲전용 오리지널 사운드트랙(OST) 생성 ▲영상관 ▲미니게임 등 다채로운 상호작용 요소를 지원한다.플랫폼 구조는 이용자가 독자, 창작자, 수집가의 역할을 넘나들며 자생적인 생태계를 형성하도록 설계됐다. 타 이용자가 제작한 캐릭터와 서사를 소비하는 단계에서 직접 세계관을 창작하는 생산자로 전환할 수 있으며, 피규어나 음원, 의상 등 파생 콘텐츠를 수집하는 경험도 함께 제공한다.디어비는 정식 출시…",
+      "category_score": 56,
+      "score_reason": "AI, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI 캐릭터",
+        "플랫폼",
+        "UGC"
+      ],
+      "planning_insight": "소비자가 수동적 이용자를 넘어 창작자로 참여하게 만드는 AI 활용 인터랙티브 기획은 향후 팬덤 중심 마케팅과 커뮤니티 강화에 핵심적인 모델이 될 것임.",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 캐릭터와의 교감과 사용자 생성 콘텐츠(UGC) 생태계를 결합한 신규 플랫폼 출시",
+      "importance_reason": "AI와 사용자가 직접 참여하는 창작 생태계(UGC)가 결합되는 양상은 소비자 참여형 마케팅과 미래 콘텐츠 플랫폼 전략의 중요한 방향성을 제시함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 82,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 23,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "소비자",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 8,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 텍스트 생성을 넘어 GUI 제어(CUA)가 가능한 단계로 진화하며 서비스 자동화의 범위가 급격히 확장되고 있음.",
+    "정적인 사용자 데이터 기반에서 실시간 변화하는 선호도를 추적하는 적응형 개인화 기술이 서비스 고도화의 핵심으로 부상함.",
+    "기업 도입을 위한 AI 인프라 최적화(자원 효율화)와 RAG 시스템의 신뢰성 검증 등 실무적 이슈가 콘텐츠 전략의 필수 요소로 자리 잡고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
