@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-03T03:43:44.096270+09:00",
+  "updated_at": "2026-11-03T12:39:04.350445+09:00",
   "archives": [
+    {
+      "id": "2026-11-03_12-35",
+      "date": "2026-11-03",
+      "time": "12:35",
+      "label": "2026-11-03 12:35",
+      "generated_at": "2026-11-03T12:38:44.775146+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+        "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+        "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+        "Adaptive Personalization Under Preference Epistemic Uncertainty",
+        "Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim"
+      ],
+      "path_json": "archive/2026-11-03/12-35.json",
+      "path_md": "archive/2026-11-03/12-35.md"
+    },
     {
       "id": "2026-11-03_03-43",
       "date": "2026-11-03",
