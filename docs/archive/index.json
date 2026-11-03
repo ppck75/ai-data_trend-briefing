@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-03T12:39:04.350445+09:00",
+  "updated_at": "2026-11-03T20:13:17.506412+09:00",
   "archives": [
+    {
+      "id": "2026-11-03_20-12",
+      "date": "2026-11-03",
+      "time": "20:12",
+      "label": "2026-11-03 20:12",
+      "generated_at": "2026-11-03T20:12:40.077029+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향",
+        "크림 패션 브랜드 '아크릴', 모델 카이와 26FW 화보 공개",
+        "모빌테크, 'GISC 2026'서 국가지식재산위원장 표창",
+        "아이비스, LG전자와 AI 기반 차세대 SDV 플랫폼 개발 착수",
+        "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses"
+      ],
+      "path_json": "archive/2026-11-03/20-12.json",
+      "path_md": "archive/2026-11-03/20-12.md"
+    },
     {
       "id": "2026-11-03_12-35",
       "date": "2026-11-03",
