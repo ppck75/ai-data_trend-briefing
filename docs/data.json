@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-03T07:06:40.051421+09:00",
+  "updated_at": "2026-11-03T09:53:48.436993+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "18baba171608a356a567d02359db6cc1f926f9d670db0c27c6d5fdff5fc459ee",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "icon": "👕",
+      "title": "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+      "summary": "안녕하세요. 무신사에서 ML Engineer로서 추천, CRM, 유저 속성, ML 플랫폼 등을 담당하고 있는 Core-E Personalization 팀의 김윤태입니다. 저희 팀에서는 개인화와 관련된 여러 문제를 풀고 그 문제를 서비스에 전달하기 위한 플랫폼을 만들어 가면서 개인화가 앞으로 어떤 방향으로 확장될 수 있을지 고민해 왔습니다. 개인화의 범위가 넓어질수록 ML로 풀어야 하는 문제도 달라집니다. 커머스의 검색과 추천, 광고, 앱 푸시, 쿠폰, 배너 등 다양한 채널이 각각 다른 목적에서 출발했고, 무신사와 29CM에서도 그랬습니다. 하지만 이들은 개인화가 확장될수록 점점 하나의 질문으로 수렴합니다. 이 고객에게 지금 무엇을 보여줄 것인가? 고객이 반응할 확률을 구하는 예측(prediction) 문제만 풀어서는 이 질문에 답할 수 없습니다. 반응할 확률이 높다고 해서 고객에게 모든 것을 무한정 보여줄 수는 없기 때문입니다. 하루에 보낼 수 있는 푸시의 수, 이번 달에 사용할…",
+      "url": "https://techblog.musinsa.com/%EC%98%88%EC%B8%A1%EC%9D%84-%EB%84%98%EC%96%B4-%EA%B2%B0%EC%A0%95%EA%B3%BC-%EB%B0%9C%EA%B2%AC%EC%9C%BC%EB%A1%9C-deciml%EA%B3%BC-nexa%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0-9313debb2a4f",
+      "published_at": "2026-11-03T09:20:59+09:00",
+      "entry_updated_at": "2026-11-03T09:21:18+09:00",
+      "fetched_at": "2026-11-03T09:53:45.236520+09:00",
+      "language": "ko",
+      "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "8201ea59996fbe1f58f44caff78d6d8aa9f0f351dff4caa9db2f21ba23026386",
       "source": "NYT Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-10-31T17:17:27.885895+09:00",
       "language": "ko",
       "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "f16e1bb4cdf920d59935bbe7076f79b6c6346410b1fe40f2abb22d553a99932c",
-      "source": "BBC Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🌍",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-      "published_at": "2026-10-31T11:12:19+09:00",
-      "entry_updated_at": "2026-10-31T11:12:19+09:00",
-      "fetched_at": "2026-10-31T17:17:28.125206+09:00",
-      "language": "en",
-      "importance_weight": 0.8,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
