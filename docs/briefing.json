@@ -1,11 +1,11 @@
 {
-  "briefing_date": "2026-11-03",
-  "generated_at": "2026-11-03T20:12:40.077029+09:00",
+  "briefing_date": "2026-11-04",
+  "generated_at": "2026-11-04T01:27:04.290602+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 188,
-    "tech_blog": 2,
-    "ai_data": 10
+    "news": 174,
+    "tech_blog": 5,
+    "ai_data": 21
   },
   "category_top5": {
     "news": [
@@ -31,6 +31,25 @@
       },
       {
         "rank": 2,
+        "id": "d282c789d14367590971d7253ce0cb311719d814176fdc143f6dda437437e4db",
+        "title": "사람인 '코메이트', 출시 2년 만에 외국인 회원 연평균 260% 증가",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103180800",
+        "published_at": "2026-11-03T18:08:00+09:00",
+        "summary": "[지디넷코리아]사람인의 외국인 채용 플랫폼 '코메이트(KoMate)'가 출시 2년 만에 외국인 회원과 기업 이용자를 빠르게 늘리고 있다. 외국인 구직자의 입사지원과 기업의 채용공고도 함께 증가하면서 외국인 채용 시장에서 사업을 확대하는 모습이다.사람인은 올해 10월 말 기준 코메이트의 외국인 회원 수가 최근 2년간 연평균 260.1% 증가했다고 3일 밝혔다. 같은 기간 외국인 구직자의 입사지원 건수도 연평균 323.4% 늘었다.기업 이용자도 증가했다. 코메이트의 기업회원 수는 최근 2년간 연평균 159.4%, 신규 채용공고 건수는 연평균 349.1% 증가했다.코메이트는 사람인이 2024년 출시한 외국인 특화 채용 플랫폼이다. 국내 취업을 희망하는 외국인과 외국인 인재를 채용하려는 기업을 연결하는 서비스를 제공한다.인공지능(AI) 기반 채용공고 추천과 맞춤형 정보 제공, 30개 언어 번역, 비자 점수 계산기 등의 기능을 운영하고 있다. 외국인 유학생을 대상으로 오프라인 채용박람회와…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 추천 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "추천"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 추천 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
         "id": "cee6bae117ff26ebc5a447394697a8a9bb885ddb25ff02f2315f307fe7e307b2",
         "title": "모빌테크, 'GISC 2026'서 국가지식재산위원장 표창",
         "source": "ZDNet Korea",
@@ -49,7 +68,7 @@
         "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "735190c401eaafb3e7d03cb0a68d5bea5ab1b252ac95d944e3bb7a6ff69017d0",
         "title": "아이비스, LG전자와 AI 기반 차세대 SDV 플랫폼 개발 착수",
         "source": "ZDNet Korea",
@@ -68,42 +87,23 @@
         "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
-        "rank": 4,
-        "id": "6c2aa0a908c4b964143e36038679597c078611764e8ab862ce696e854f2922b5",
-        "title": "크림 패션 브랜드 '아크릴', 모델 카이와 26FW 화보 공개",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261102223329",
-        "published_at": "2026-11-02T22:33:29+09:00",
-        "summary": "[지디넷코리아]한정판 거래 플랫폼 크림(KREAM)이 일본 크리에이티브 디렉터와 함께 선보인 패션 브랜드 '아크릴(AKRYL)'의 첫 가을·겨울(FW) 메인 컬렉션을 출시했다.아크릴은 대만 출신 모델 카이(KAI)와 함께 촬영한 2026 FW 캠페인 화보를 남성 패션 매거진 GQ를 통해 공개했다고 2일 밝혔다.아크릴은 일본 크리에이티브 디렉터 요 다나카(YO TANAKA)와 크림이 공동 론칭한 패션 브랜드다. 빈티지 디자인을 현대적으로 재해석한 의류를 선보이고 있다.지난 7월 2026 FW 프리 컬렉션을 통해 처음 공개됐으며, 이번에 첫 메인 컬렉션을 출시했다.이번 컬렉션은 가을·겨울 시즌에 맞춰 아우터를 중심으로 구성했다. 두께감 있는 소가죽에 에이징 가공을 적용한 카 코트와 빈티지 코트에서 영감을 받은 싱글 래글런 슬리브 롱 코트 등이 대표 상품이다.아웃도어 스타일의 커버올 재킷과 다운 재킷도 선보였다. 울 소재 니트와 셔츠 등으로 상품군을 확대했으며, 활동성을 고려한 실루엣과…",
-        "category_score": 53,
-        "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "AI",
-          "플랫폼",
-          "브랜드"
-        ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
         "rank": 5,
-        "id": "80d0d9a7b5866856fe5163ae0881179417d6a9d2a9f5ecd2de1db07323ac917f",
-        "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시",
+        "id": "6d3835f4d64f318b401414d522866f5a799d0941dd4368f875080fa7cb1f9f73",
+        "title": "에쓰핀테크놀로지, MS 애저 데이터 분석 전문 인증 획득",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261103111215",
-        "published_at": "2026-11-03T11:12:35+09:00",
-        "summary": "[지디넷코리아]유라클(대표 조준희, 권태일)이 기업 내부에서 사용하는 인공지능(AI) 모델과 에이전트를 통합 관리하는 플랫폼을 선보이며 기업용 AI 운영 시장 공략에 나선다.여러 AI 서비스를 하나의 접속 지점으로 연결하고 사용자별 접근 권한부터 이용 비용, 실행 승인까지 관리하는 것이 핵심이다. 기업의 AI 도입이 확대되면서 복잡해진 운영 환경을 효율적으로 관리하려는 수요를 겨냥했다.유라클은 기업용 AI 통합 관리 솔루션 '오르다 API 게이트웨이(AURDA API Gateway)'를 출시했다고 3일 밝혔다.이번 제품은 기업 내부 AI 서비스와 외부 거대언어모델(LLM), 자체 구축 모델, AI 에이전트, 모델 콘텍스트 프로토콜(MCP) 서버 등을 하나의 접속 지점에서 연결하고 관리하는 역할을 한다.각 서비스가 개별 AI 모델에 직접 연결되는 대신 게이트웨이를 거치도록 구성해 모델 교체나 버전 변경에 따른 수정 작업을 줄일 수 있다. 새로운 모델을 일부 요청에 먼저 적용해 성능을…",
-        "category_score": 51,
-        "score_reason": "AI, 플랫폼, LLM 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261103181417",
+        "published_at": "2026-11-03T18:20:01+09:00",
+        "summary": "[지디넷코리아]클라우드 및 인공지능(AI) 플랫폼 전문기업 에쓰핀테크놀로지가 마이크로소프트(MS)의 애저 데이터 분석 분야 전문 인증을 획득했다. 클라우드 인프라 이전부터 데이터 분석과 AI 활용을 위한 플랫폼 구축까지 서비스 범위를 확대한다는 계획이다.에쓰핀테크놀로지는 마이크로소프트의 '애널리틱스 온 마이크로소프트 애저(Analytics on Microsoft Azure)' 전문 기술 역량 인증을 획득했다고 3일 밝혔다.이 인증은 애저 기반 데이터 분석과 데이터 웨어하우스 이전, 비즈니스 인텔리전스(BI) 분야에서 전문성을 갖춘 파트너에게 부여된다. 실제 고객 프로젝트 수행 실적과 아키텍처 설계 역량, 기술 인력의 전문성 등을 종합적으로 평가한다.에쓰핀테크놀로지는 다양한 산업 분야의 고객 프로젝트를 통해 데이터 플랫폼 구축과 현대화, 데이터 관리 체계 및 운영 역량을 축적해 왔다.앞서 지난 5월에는 '인프라 및 데이터베이스 애저 마이그레이션' 전문 기술 역량 인증을 획득했다. 당…",
+        "category_score": 52,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
           "AI",
           "플랫폼",
-          "LLM"
+          "데이터"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, LLM 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "tech_blog": [
@@ -117,18 +117,59 @@
         "url": "https://techblog.musinsa.com/%EC%98%88%EC%B8%A1%EC%9D%84-%EB%84%98%EC%96%B4-%EA%B2%B0%EC%A0%95%EA%B3%BC-%EB%B0%9C%EA%B2%AC%EC%9C%BC%EB%A1%9C-deciml%EA%B3%BC-nexa%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0-9313debb2a4f",
         "published_at": "2026-11-03T09:20:59+09:00",
         "summary": "안녕하세요. 무신사에서 ML Engineer로서 추천, CRM, 유저 속성, ML 플랫폼 등을 담당하고 있는 Core-E Personalization 팀의 김윤태입니다. 저희 팀에서는 개인화와 관련된 여러 문제를 풀고 그 문제를 서비스에 전달하기 위한 플랫폼을 만들어 가면서 개인화가 앞으로 어떤 방향으로 확장될 수 있을지 고민해 왔습니다. 개인화의 범위가 넓어질수록 ML로 풀어야 하는 문제도 달라집니다. 커머스의 검색과 추천, 광고, 앱 푸시, 쿠폰, 배너 등 다양한 채널이 각각 다른 목적에서 출발했고, 무신사와 29CM에서도 그랬습니다. 하지만 이들은 개인화가 확장될수록 점점 하나의 질문으로 수렴합니다. 이 고객에게 지금 무엇을 보여줄 것인가? 고객이 반응할 확률을 구하는 예측(prediction) 문제만 풀어서는 이 질문에 답할 수 없습니다. 반응할 확률이 높다고 해서 고객에게 모든 것을 무한정 보여줄 수는 없기 때문입니다. 하루에 보낼 수 있는 푸시의 수, 이번 달에 사용할…",
-        "category_score": 95,
-        "score_reason": "커머스 개인화 시스템의 본질적인 고민(추천, CRM, 채널별 통합)을 다루고 있으며, 단순 기술 구현을 넘어 서비스의 목적과 사용자 경험을 확장하는 전략적 방향성을 제시함.",
+        "category_score": 66,
+        "score_reason": "추천, 검색, 개인화 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
+          "추천",
+          "검색",
           "개인화",
-          "ML 플랫폼",
-          "커머스 전략",
-          "CRM"
+          "플랫폼",
+          "커머스"
         ],
-        "planning_insight": "파편화된 마케팅 채널을 하나의 개인화 엔진으로 수렴시키는 플랫폼 전략은 서비스의 일관된 사용자 경험을 설계하는 데 핵심적인 참고 자료가 됨."
+        "planning_insight": "이 항목은 추천, 검색, 개인화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       },
       {
         "rank": 2,
+        "id": "6126c1c2d68022d511e13467be47e3aaf81db5a769fc1e1147947da74d191053",
+        "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07",
+        "published_at": "2026-11-03T18:27:47+09:00",
+        "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI 서비스에 “지난주 광고 성과 어땠어?”라고 물으면, AI가 광고 MCP를 거쳐 당근 광고의 계정 정보와 광고 정보, 성과 데이터를 가져와서 답해 줘요. 해외 광고 플랫폼에서는 구글, 메타, 아마존이 이미 MCP를 공개했고, 국내에서는 당근이 처음으로 공식 광고 MCP를 출시했어요. 저는 개발자로 이 프로젝트에 참여하는 줄 알았는데, 하다 보니 로드맵과 PRD부터 출시까지 맡아야 했어요. 이 글…",
+        "category_score": 57,
+        "score_reason": "데이터, 플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "데이터",
+          "플랫폼",
+          "AI",
+          "백엔드"
+        ],
+        "planning_insight": "이 항목은 데이터, 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "3e8ac894c997d013271df8001171458b4dbfb77ecd60e535a1fa529d6e32efa0",
+        "title": "옮기는 것보다 증명이 어렵다",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/845",
+        "published_at": "2026-11-03T00:00:00+09:00",
+        "summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발행되지 않은 변경이 색인에 반영되지 않았고, 건의 체류 시간을 계산하는 기준시각이 무관한 필드 수정에 갱신되는 문제가 있었습니다. 전환보다 어려웠던 작업은 새 색인이 맞다는 것을 보이는 일이었습니다. 누락·값·지연 세 축으로 대조한 결과, 보...",
+        "category_score": 56,
+        "score_reason": "검색, 데이터, 커머스 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "검색",
+          "데이터",
+          "커머스",
+          "로그"
+        ],
+        "planning_insight": "이 항목은 검색, 데이터, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
         "id": "c40ad0853cb43372f8f3e62e5a8724dbc9dd81e65a79966db1055237f4984d48",
         "title": "컨테이너처럼 쓰고, VM처럼 격리하기",
         "source": "네이버 D2",
@@ -137,20 +178,120 @@
         "url": "https://d2.naver.com/helloworld/2265641",
         "published_at": "2026-11-02T13:46:53+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU NAVER D2 | 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU naver.me ​ 발표 내용 Kubernetes GPU 노드를 VM으로 격리해 나눠 쓰면서, 호스트 수준의 성능까지 최적화한 방법을 소개합니다. ​ 발표 대상 여러 사용자가 GPU node를 함께 쓰는 환경에서 격리를 강화하려는 플랫폼 개발자 Kubernetes에서 kata-containers나 VM 기반 runtime 도입을 검토하는 개발자 DRA로 GPU·NIC 같은 device 할당을 직접 구현하려는 개발자 VM 환경에서 GPU·IB·storage 성능을 bare metal 수준으로 맞추려는 개발자 ​ 목차 도입 배경과 kata-containers의 구조 GPU와 NIC…",
-        "category_score": 75,
-        "score_reason": "GPU 자원 공유 및 격리 기술은 대규모 AI 서비스 운영의 기반이 됨. 제품 전략적 관점보다는 인프라 효율화 및 플랫폼 안정성 측면에서 가치가 높음.",
+        "category_score": 52,
+        "score_reason": "플랫폼, AI, 성능 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "Kubernetes",
-          "GPU",
-          "인프라",
-          "격리"
+          "플랫폼",
+          "AI",
+          "성능",
+          "RAG"
         ],
-        "planning_insight": "서비스 성능 최적화와 비용 효율적인 자원 배분은 대규모 사용자 트래픽을 처리하는 제품 운영 전략의 기술적 뒷받침이 됨."
+        "planning_insight": "이 항목은 플랫폼, AI, 성능 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "8b1e46327df89cb633e58ab5cda1c5d6a35eb795290d882de87dcb1324b6b927",
+        "title": "딸깍으로 안되는 Multi-interest 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9639872",
+        "published_at": "2026-11-03T13:45:30+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 딸깍으로 안되는 Multi-interest 개발기 NAVER D2 | 딸깍으로 안되는 Multi-interest 개발기 naver.me ​ 발표 내용 다양한 관심사 추천 모델인 Multi-interest를 여러 지면에 적용하며 겪었던 문제를 해결했던 과정을 공유합니다. ​ 주제: Multi-interest 추천 모델(MINER)의 KREAM 실서비스 적용 사례 문제: 인기 상품 목록에서 특정 상품이 전체 유저에게 동시 노출되는 hubness 발생 분석: 점수를 유저 의존 성분과 유저 무관 성분으로 분해, 가설 3개를 실측으로 검증 조치: 유저 무관 성분 제거(centering, bias 분리), 추천 결과 다양화, 분포 지표 기반 평가 체계 도입 결과: 과노출 상품 전량 제거, 노출 상품 종류 +25%, 구매 지표 유지 시사점: 논문 구조의 실서비스 적용 시 발생하…",
+        "category_score": 46,
+        "score_reason": "추천, 분석 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "추천",
+          "분석"
+        ],
+        "planning_insight": "이 항목은 추천, 분석 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
+        "id": "ddf4f833ed69659a575a12ea7f029c922ff98abdd9429fd8a4aa583839701eff",
+        "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00244",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking behavior. We present MEMENTO, a long-context agent bu…",
+        "category_score": 66,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "GPT"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "914d2dfc727ed8e475e9e036912e1968b0454821c2ca522b3b2b8b6d2414b203",
+        "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00172",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00172v1 Announce Type: new Abstract: Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by modality: the communities develop largely in isolation, seldom exchanging insights. We argue that this fragmentation obscures a deeper convergence. Driven by contrastive learning, Transformer architectures, and a granularity shift, embedding research a…",
+        "category_score": 63,
+        "score_reason": "RAG, embedding, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "embedding",
+          "model",
+          "transformer",
+          "recommendation"
+        ],
+        "planning_insight": "이 항목은 RAG, embedding, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "8212fa75be0c9f93ebac9623e9fabe9024c953316de29fd975d96d162de10b0b",
+        "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00450",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM…",
+        "category_score": 61,
+        "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "RAG",
+          "model",
+          "retrieval",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "2314ff5e9fcd3b5eaa658a275a7ef4b21d91a20704770b7f00bd0d832d5ba1fc",
+        "title": "Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00420",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00420v1 Announce Type: new Abstract: Attribution graphs, an emerging tool in mechanistic interpretability, use transcoders to decompose language model computations into sparse interpretable features connected by causal edges. However, turning a graph into a safety-relevant insight requires hours of manual analysis by experts. We introduce Circuit Oracle, an off-the-shelf LLM equipped with a multi-agent harness and task-specific authored skills, which answers natural-language question…",
+        "category_score": 53,
+        "score_reason": "LLM, agent, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "model"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
         "id": "0d5df1ab3ade9f999da418a418628426e6b43b7695cfbce85b0bd7701c1ed7ba",
         "title": "Qistas: A Pre-Registered, Portable Protocol for Fairness Evaluation of Large Language Models",
         "source": "arXiv cs.CL",
@@ -169,87 +310,6 @@
           "AI"
         ],
         "planning_insight": "이 항목은 LLM, benchmark, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 2,
-        "id": "88e0ce110a994e6f2fbc969cfca5979ed1a9fda624f5318e16e588a6dbf86eda",
-        "title": "Better Retrievers, Worse Labels: How Incomplete Relevance Judgments Distort Abstention Evaluation in Conversational RAG",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.40966",
-        "published_at": "2026-11-02T14:00:00+09:00",
-        "summary": "arXiv:2610.40966v1 Announce Type: new Abstract: Conversational RAG benchmarks such as MTRAG and RETECO evaluate retrieval and generation end to end: each system answers from its own retrieval, so abstention must be scored against whether each retrieved context is sufficient. A convenient shortcut reads sufficiency off the relevance judgments and treats a context without gold documents as unanswerable. We re-run the official baselines exactly and test this shortcut on RECOR (RETECO track~2) with…",
-        "category_score": 53,
-        "score_reason": "RAG, benchmark, retrieval 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "RAG",
-          "benchmark",
-          "retrieval",
-          "evaluation",
-          "AI"
-        ],
-        "planning_insight": "이 항목은 RAG, benchmark, retrieval 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 3,
-        "id": "0859780dbd4d9a42ab27b06f373b467c02ef3ce42c8843da2c5335f37c9cfda3",
-        "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.40747",
-        "published_at": "2026-11-02T14:00:00+09:00",
-        "summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy. We present Mage-VL-Cowork, a 4B hybrid CUA trained from a general multimodally aligned checkpoint through an end-to-end, progressive five-stage curriculum across midtraining, SFT, and RL. To power this curriculum at scale, Mage-CUA-Forge replaces per-task agent construction with reusable, skill-conditioned…",
-        "category_score": 51,
-        "score_reason": "agent, agents, multimodal 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "agent",
-          "agents",
-          "multimodal",
-          "AI"
-        ],
-        "planning_insight": "이 항목은 agent, agents, multimodal 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 4,
-        "id": "9d5d457a3b9e5bf5653a836e4eb112fc5b1fbef311dece0207106194e1a88d46",
-        "title": "CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.40926",
-        "published_at": "2026-11-02T14:00:00+09:00",
-        "summary": "arXiv:2610.40926v1 Announce Type: new Abstract: Automated red teaming trains an attacker large language model (LLM) to elicit harmful responses from a victim LLM, but reinforcement learning can collapse attackers onto a narrow set of prompts when attack success is the only reward. Such a collapse of attack diversity can bias safety evaluation toward repeatedly testing near-duplicate attack patterns rather than the underlying harmful intents. Existing methods often trade off attack success or in…",
-        "category_score": 48,
-        "score_reason": "LLM, model, evaluation 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "LLM",
-          "model",
-          "evaluation",
-          "AI"
-        ],
-        "planning_insight": "이 항목은 LLM, model, evaluation 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
-      },
-      {
-        "rank": 5,
-        "id": "ba58b629e7d971b20224661a3210855c92295c85ba28078316577b9043e2f855",
-        "title": "Language Models Show Conformity Bias in RAG: When the Majority Endorses a Poisoned Claim",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2610.41012",
-        "published_at": "2026-11-02T14:00:00+09:00",
-        "summary": "arXiv:2610.41012v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) can expose language models to misleading evidence in retrieved documents. We investigate whether increasing the number of mutually agreeing poisoned documents affects a model's ability to detect misinformation. We evaluate 200 randomly selected questions from SciFact (random seed 38), comparing contexts with one poisoned and six healthy documents against contexts with six mutually agreeing poisoned documents an…",
-        "category_score": 48,
-        "score_reason": "RAG, model, retrieval 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
-        "keywords": [
-          "RAG",
-          "model",
-          "retrieval",
-          "AI"
-        ],
-        "planning_insight": "이 항목은 RAG, model, retrieval 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ]
   },
@@ -289,120 +349,62 @@
     },
     {
       "rank": 2,
-      "id": "6c2aa0a908c4b964143e36038679597c078611764e8ab862ce696e854f2922b5",
-      "title": "크림 패션 브랜드 '아크릴', 모델 카이와 26FW 화보 공개",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261102223329",
-      "published_at": "2026-11-02T22:33:29+09:00",
-      "summary": "[지디넷코리아]한정판 거래 플랫폼 크림(KREAM)이 일본 크리에이티브 디렉터와 함께 선보인 패션 브랜드 '아크릴(AKRYL)'의 첫 가을·겨울(FW) 메인 컬렉션을 출시했다.아크릴은 대만 출신 모델 카이(KAI)와 함께 촬영한 2026 FW 캠페인 화보를 남성 패션 매거진 GQ를 통해 공개했다고 2일 밝혔다.아크릴은 일본 크리에이티브 디렉터 요 다나카(YO TANAKA)와 크림이 공동 론칭한 패션 브랜드다. 빈티지 디자인을 현대적으로 재해석한 의류를 선보이고 있다.지난 7월 2026 FW 프리 컬렉션을 통해 처음 공개됐으며, 이번에 첫 메인 컬렉션을 출시했다.이번 컬렉션은 가을·겨울 시즌에 맞춰 아우터를 중심으로 구성했다. 두께감 있는 소가죽에 에이징 가공을 적용한 카 코트와 빈티지 코트에서 영감을 받은 싱글 래글런 슬리브 롱 코트 등이 대표 상품이다.아웃도어 스타일의 커버올 재킷과 다운 재킷도 선보였다. 울 소재 니트와 셔츠 등으로 상품군을 확대했으며, 활동성을 고려한 실루엣과…",
-      "category_score": 53,
-      "score_reason": "AI, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "18baba171608a356a567d02359db6cc1f926f9d670db0c27c6d5fdff5fc459ee",
+      "title": "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+      "source": "무신사 테크",
+      "group": "tech_blog",
+      "category": "fashion_commerce",
+      "url": "https://techblog.musinsa.com/%EC%98%88%EC%B8%A1%EC%9D%84-%EB%84%98%EC%96%B4-%EA%B2%B0%EC%A0%95%EA%B3%BC-%EB%B0%9C%EA%B2%AC%EC%9C%BC%EB%A1%9C-deciml%EA%B3%BC-nexa%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0-9313debb2a4f",
+      "published_at": "2026-11-03T09:20:59+09:00",
+      "summary": "안녕하세요. 무신사에서 ML Engineer로서 추천, CRM, 유저 속성, ML 플랫폼 등을 담당하고 있는 Core-E Personalization 팀의 김윤태입니다. 저희 팀에서는 개인화와 관련된 여러 문제를 풀고 그 문제를 서비스에 전달하기 위한 플랫폼을 만들어 가면서 개인화가 앞으로 어떤 방향으로 확장될 수 있을지 고민해 왔습니다. 개인화의 범위가 넓어질수록 ML로 풀어야 하는 문제도 달라집니다. 커머스의 검색과 추천, 광고, 앱 푸시, 쿠폰, 배너 등 다양한 채널이 각각 다른 목적에서 출발했고, 무신사와 29CM에서도 그랬습니다. 하지만 이들은 개인화가 확장될수록 점점 하나의 질문으로 수렴합니다. 이 고객에게 지금 무엇을 보여줄 것인가? 고객이 반응할 확률을 구하는 예측(prediction) 문제만 풀어서는 이 질문에 답할 수 없습니다. 반응할 확률이 높다고 해서 고객에게 모든 것을 무한정 보여줄 수는 없기 때문입니다. 하루에 보낼 수 있는 푸시의 수, 이번 달에 사용할…",
+      "category_score": 66,
+      "score_reason": "추천, 검색, 개인화 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "AI",
+        "추천",
+        "검색",
+        "개인화",
         "플랫폼",
-        "브랜드"
+        "커머스"
       ],
-      "planning_insight": "이 항목은 AI, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 66,
+      "planning_insight": "이 항목은 추천, 검색, 개인화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 74,
       "criteria_scores": {
-        "content_strategy": 14,
+        "content_strategy": 18,
         "trend_signal_timeliness": 25,
-        "ai_data_relevance": 11,
+        "ai_data_relevance": 15,
         "market_consumer_impact": 16
       },
       "applied_criteria": [
+        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "[지디넷코리아]한정판 거래 플랫폼 크림(KREAM)이 일본 크리에이티브 디렉터와 함께 선보인 패션 브랜드 '아크릴(AKRYL)'의 첫 가을·겨울(FW) 메인 컬렉션을 출시했다.아크릴은 대만 출신 모델 카이(KAI)와…",
-      "importance_reason": "AI, 플랫폼, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "안녕하세요. 무신사에서 ML Engineer로서 추천, CRM, 유저 속성, ML 플랫폼 등을 담당하고 있는 Core-E Personalization 팀의 김윤태입니다. 저희 팀에서는 개인화와 관련된 여러 문제를 풀…",
+      "importance_reason": "추천, 검색, 개인화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 3,
-      "id": "cee6bae117ff26ebc5a447394697a8a9bb885ddb25ff02f2315f307fe7e307b2",
-      "title": "모빌테크, 'GISC 2026'서 국가지식재산위원장 표창",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261103105006",
-      "published_at": "2026-11-03T11:04:22+09:00",
-      "summary": "[지디넷코리아]피지컬 인공지능(AI) 공간지능 인프라 기업 모빌테크는 '글로벌 정보통신기술(ICT) 표준 컨퍼런스(GISC) 2026'에서 국가지식재산위원회 위원장 표창을 받았다고 3일 밝혔다.모빌테크는 센서 캘리브레이션과 디지털트윈 기술 등을 중심으로 특허 권리망을 구축했다. 센서 캘리브레이션은 센서가 측정한 데이터의 오차를 바로잡고 기준값과 일치시키는 작업이다.회사는 2021년부터 연평균 8건 이상의 특허를 등록했다. 올해 10월 기준 국내외 등록 특허 74건과 출원 특허 20건을 보유하고 있다. 지난 5월 다중 라이다·카메라 캘리브레이션 기술로 산업통상자원부 신기술(NET) 인증을 획득했고, 6월에는 국제 학술대회 'CVPR 2026' 경진대회에서 1위를 기록했다.확보한 기술은 사업화로 이어지고 있다. 모빌테크는 실측 공간 데이터 기반 시뮬레이션 환경을 국내 완성차 업체에 공급 중이다. 글로벌 플랫폼 사업자에게는 한국형 도로 데이터 에셋을 제공히고 있다.수상 기업 발표회에서는…",
-      "category_score": 56,
-      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "AI",
-        "플랫폼",
-        "데이터"
-      ],
-      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 62,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 15,
-        "market_consumer_impact": 12
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "[지디넷코리아]피지컬 인공지능(AI) 공간지능 인프라 기업 모빌테크는 '글로벌 정보통신기술(ICT) 표준 컨퍼런스(GISC) 2026'에서 국가지식재산위원회 위원장 표창을 받았다고 3일 밝혔다.모빌테크는 센서 캘리브…",
-      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 4,
-      "id": "735190c401eaafb3e7d03cb0a68d5bea5ab1b252ac95d944e3bb7a6ff69017d0",
-      "title": "아이비스, LG전자와 AI 기반 차세대 SDV 플랫폼 개발 착수",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261103110155",
-      "published_at": "2026-11-03T11:02:14+09:00",
-      "summary": "[지디넷코리아]아이비스(대표 남기모)가 LG전자와 함께 인공지능(AI) 기반 소프트웨어 중심 차량(SDV) 플랫폼 개발에 나선다.아이비스는 산업통상부의 자동차산업기술개발 사업 가운데 '오픈소스 기반 AI-SDV 통합 플랫폼 및 클라우드 가상 검증환경' 과제에 공동연구개발기관으로 참여한다고 3일 밝혔다.이번 사업은 LG전자가 연구개발을 총괄하며 아이비스를 비롯해 아렌네, 건우솔루션, 에이브이지니어스, 국민대학교가 참여한다. 연구 기간은 올해 7월부터 2029년 12월까지다.연구진은 글로벌 차량 SW 표준과 호환되는 개방형 AI-SDV 플랫폼을 개발하고, 클라우드에서 차량 소프트웨어를 시험할 수 있는 가상 검증환경을 구축할 계획이다. 이를 통해 국내 자동차 업계가 공동으로 활용할 수 있는 SW 개발 기반을 마련한다는 목표다.아이비스는 이번 사업에서 AI-SDV 플랫폼에 필요한 미들웨어와 차량 데이터 변환, 차세대 전장 통신 기술 개발을 담당한다.핵심 개발 분야는 글로벌 오픈소스 프로젝…",
-      "category_score": 56,
-      "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "AI",
-        "플랫폼",
-        "데이터"
-      ],
-      "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 62,
-      "criteria_scores": {
-        "content_strategy": 10,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 15,
-        "market_consumer_impact": 12
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성"
-      ],
-      "one_line_summary": "[지디넷코리아]아이비스(대표 남기모)가 LG전자와 함께 인공지능(AI) 기반 소프트웨어 중심 차량(SDV) 플랫폼 개발에 나선다.아이비스는 산업통상부의 자동차산업기술개발 사업 가운데 '오픈소스 기반 AI-SDV 통합…",
-      "importance_reason": "AI, 플랫폼, 데이터 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
-    },
-    {
-      "rank": 5,
-      "id": "0859780dbd4d9a42ab27b06f373b467c02ef3ce42c8843da2c5335f37c9cfda3",
-      "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+      "id": "8212fa75be0c9f93ebac9623e9fabe9024c953316de29fd975d96d162de10b0b",
+      "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
       "source": "arXiv cs.CL",
       "group": "ai_data",
       "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2610.40747",
-      "published_at": "2026-11-02T14:00:00+09:00",
-      "summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy. We present Mage-VL-Cowork, a 4B hybrid CUA trained from a general multimodally aligned checkpoint through an end-to-end, progressive five-stage curriculum across midtraining, SFT, and RL. To power this curriculum at scale, Mage-CUA-Forge replaces per-task agent construction with reusable, skill-conditioned…",
-      "category_score": 51,
-      "score_reason": "agent, agents, multimodal 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "url": "https://arxiv.org/abs/2611.00450",
+      "published_at": "2026-11-03T14:00:00+09:00",
+      "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM…",
+      "category_score": 61,
+      "score_reason": "LLM, RAG, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "agent",
-        "agents",
-        "multimodal",
+        "LLM",
+        "RAG",
+        "model",
+        "retrieval",
         "AI"
       ],
-      "planning_insight": "이 항목은 agent, agents, multimodal 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
-      "integrated_score": 62,
+      "planning_insight": "이 항목은 LLM, RAG, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
       "criteria_scores": {
         "content_strategy": 10,
-        "trend_signal_timeliness": 20,
+        "trend_signal_timeliness": 25,
         "ai_data_relevance": 24,
         "market_consumer_impact": 8
       },
@@ -410,14 +412,79 @@
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GU…",
-      "importance_reason": "agent, agents, multimodal 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+      "one_line_summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs)…",
+      "importance_reason": "LLM, RAG, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "6126c1c2d68022d511e13467be47e3aaf81db5a769fc1e1147947da74d191053",
+      "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07",
+      "published_at": "2026-11-03T18:27:47+09:00",
+      "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI 서비스에 “지난주 광고 성과 어땠어?”라고 물으면, AI가 광고 MCP를 거쳐 당근 광고의 계정 정보와 광고 정보, 성과 데이터를 가져와서 답해 줘요. 해외 광고 플랫폼에서는 구글, 메타, 아마존이 이미 MCP를 공개했고, 국내에서는 당근이 처음으로 공식 광고 MCP를 출시했어요. 저는 개발자로 이 프로젝트에 참여하는 줄 알았는데, 하다 보니 로드맵과 PRD부터 출시까지 맡아야 했어요. 이 글…",
+      "category_score": 57,
+      "score_reason": "데이터, 플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "데이터",
+        "플랫폼",
+        "AI",
+        "백엔드"
+      ],
+      "planning_insight": "이 항목은 데이터, 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이…",
+      "importance_reason": "데이터, 플랫폼, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "3e8ac894c997d013271df8001171458b4dbfb77ecd60e535a1fa529d6e32efa0",
+      "title": "옮기는 것보다 증명이 어렵다",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/845",
+      "published_at": "2026-11-03T00:00:00+09:00",
+      "summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발행되지 않은 변경이 색인에 반영되지 않았고, 건의 체류 시간을 계산하는 기준시각이 무관한 필드 수정에 갱신되는 문제가 있었습니다. 전환보다 어려웠던 작업은 새 색인이 맞다는 것을 보이는 일이었습니다. 누락·값·지연 세 축으로 대조한 결과, 보...",
+      "category_score": 56,
+      "score_reason": "검색, 데이터, 커머스 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "검색",
+        "데이터",
+        "커머스",
+        "로그"
+      ],
+      "planning_insight": "이 항목은 검색, 데이터, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발…",
+      "importance_reason": "검색, 데이터, 커머스 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 83,
+      "count": 88,
       "groups": [
         "ai_data",
         "news",
@@ -432,8 +499,22 @@
       ]
     },
     {
+      "keyword": "데이터",
+      "count": 28,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업",
+        "카카오 기술블로그"
+      ]
+    },
+    {
       "keyword": "플랫폼",
-      "count": 25,
+      "count": 23,
       "groups": [
         "news",
         "tech_blog"
@@ -441,55 +522,49 @@
       "sources": [
         "ZDNet Korea",
         "네이버 D2",
+        "당근 기술블로그",
         "매일경제 기업",
         "무신사 테크"
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 23,
+      "keyword": "model",
+      "count": 16,
       "groups": [
-        "news"
+        "ai_data",
+        "tech_blog"
       ],
       "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
+        "Hugging Face Blog",
+        "arXiv cs.CL",
+        "당근 기술블로그"
       ]
     },
     {
-      "keyword": "브랜드",
-      "count": 11,
+      "keyword": "분석",
+      "count": 10,
       "groups": [
-        "news"
+        "news",
+        "tech_blog"
       ],
       "sources": [
         "ZDNet Korea",
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "콘텐츠",
-      "count": 8,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea",
+        "네이버 D2",
         "매일경제 기업"
       ]
     }
   ],
   "overall_summary": [
-    "오늘 선별된 주요 흐름은 AI, 데이터, 플랫폼, 브랜드, 콘텐츠 키워드를 중심으로 나타났습니다.",
-    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "오늘 선별된 주요 흐름은 AI, 데이터, 검색, 플랫폼, 커머스 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
     "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
-  "method": "gemini",
+  "method": "fallback",
   "fallback_used": true,
-  "gemini_call_count": 4,
+  "gemini_call_count": 3,
   "category_methods": {
     "news": "fallback",
-    "tech_blog": "gemini",
+    "tech_blog": "fallback",
     "ai_data": "fallback"
   }
 }

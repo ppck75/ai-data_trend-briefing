@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-03T20:13:17.506412+09:00",
+  "updated_at": "2026-11-04T01:27:08.354945+09:00",
   "archives": [
+    {
+      "id": "2026-11-04_01-27",
+      "date": "2026-11-04",
+      "time": "01:27",
+      "label": "2026-11-04 01:27",
+      "generated_at": "2026-11-04T01:27:04.290602+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향",
+        "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+        "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+        "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+        "옮기는 것보다 증명이 어렵다"
+      ],
+      "path_json": "archive/2026-11-04/01-27.json",
+      "path_md": "archive/2026-11-04/01-27.md"
+    },
     {
       "id": "2026-11-03_20-12",
       "date": "2026-11-03",
