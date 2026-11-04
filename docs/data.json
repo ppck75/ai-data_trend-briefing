@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T05:29:19.025218+09:00",
+  "updated_at": "2026-11-05T08:34:36.545321+09:00",
   "total_items": 200,
   "items": [
     {
@@ -70,6 +70,24 @@
       "fetched_at": "2026-11-05T05:29:18.734372+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "fcaa616ce2a7af112878584e10eb6253b85ac6047550fe21bb4a8ed751ce5591",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published_at": "2026-11-05T02:50:10+09:00",
+      "entry_updated_at": "2026-11-05T02:50:10+09:00",
+      "fetched_at": "2026-11-05T08:34:36.409621+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261103105408",
       "published_at": "2026-11-03T10:54:22+09:00",
       "entry_updated_at": "2026-11-03T10:54:22+09:00",
-      "fetched_at": "2026-11-03T12:34:05.932404+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "43e025caba028f92dd165175295351dd9ef2afe076a363a2870742555b05f371",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "티빙, 아시아 프로야구 챔피언십 전 경기 독점 생중계",
-      "summary": "[지디넷코리아]티빙이 오는 12일부터 15일까지 일본 도쿄돔에서 열리는 '2026 아시아 프로야구 챔피언십(APBC)' 전 경기를 디지털 독점 생중계한다. 한국과 일본, 대만, 호주 4개국의 젊은 야구 선수들이 맞붙는 대회다.가장 관심을 모으는 경기는 13일 오후 7시 열리는 한일전이다. 한국은 앞선 두 차례 대회에서 모두 결승에 올랐지만 일본에 패해 준우승에 머물렀다. 2023년 결승에서는 연장 10회 접전 끝에 3대 4로 패했다.최원호 감독이 이끄는 한국 대표팀은 12일 낮 12시 호주와 첫 경기를 치른다. 이어 13일 일본, 14일 오후 7시 대만과 맞붙는다. 예선 상위 두 팀은 15일 오후 6시 결승전을 치르며, 3·4위 팀은 같은 날 낮 12시 순위 결정전에 나선다.APBC는 각국 프로야구 유망주들의 국제무대 경험을 위해 마련된 대회다. 2017년 초대 대회에 참가했던 이정후와 김하성이 이후 미국 메이저리그에 진출하면서 젊은 선수들의 등용문으로 주목받았다.올해는 2002년…",
-      "url": "https://zdnet.co.kr/view/?no=20261103105325",
-      "published_at": "2026-11-03T10:53:25+09:00",
-      "entry_updated_at": "2026-11-03T10:53:25+09:00",
       "fetched_at": "2026-11-03T12:34:05.932404+09:00",
       "language": "ko",
       "importance_weight": 0.85,
