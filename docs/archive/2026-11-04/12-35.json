@@ -1,0 +1,540 @@
+{
+  "briefing_date": "2026-11-04",
+  "generated_at": "2026-11-04T11:35:23.648788+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 172,
+    "tech_blog": 4,
+    "ai_data": 24
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "31808c50f95bf7b0854087f7c4fc04e52365f39a0559d084eb40c9e4b6e4fe77",
+        "title": "[단독] 해킹 우려에 … 현대차, 핵심부서 AI 사용 전격 금지",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12195136",
+        "published_at": "2026-11-03T17:44:14+09:00",
+        "summary": "현대자동차그룹이 자율주행·로보틱스 등 핵심 연구개발(R&D) 인력을 상대로 외부 인공지능(AI) 서비스 접근을 차단했다. 전 세계적으로 데이터 유출과 해킹 사고가 잇따르자 대대적인..",
+        "category_score": 98,
+        "score_reason": "기업의 AI 전면 도입기에 발생한 보안 리스크 대응 사례로, 향후 'AI 거버넌스 및 보안 정책'이 기업 디지털 전환(DX)의 핵심 의제로 부상할 것임을 보여주는 중요한 신호임.",
+        "keywords": [
+          "AI",
+          "보안",
+          "기업 전략"
+        ],
+        "planning_insight": "기업 내 AI 사용 가이드라인과 'Shadow AI' 방지 전략 콘텐츠로 확장 가능. 안전한 업무 환경 구축에 대한 B2B 마케팅 니즈 급증 예상."
+      },
+      {
+        "rank": 2,
+        "id": "13916e8e7dd74308b001c310b33bc48466800886a8c1b7084696e724745628d6",
+        "title": "삼성, 60조 영남권 투자 첫삽 떴다…구미 AI데이터센터 2028년 준공",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/it/12194009",
+        "published_at": "2026-11-02T22:58:49+09:00",
+        "summary": "피지컬AI 클러스터 구축 시동 영남권 메가투자 첫 가시 성과 최대 120MT로…2028년 준공 제조로봇 AI학습 인프라 구축삼성이 영남권에 60조원을 투자해 ‘글로벌 피지컬 인공지..",
+        "category_score": 95,
+        "score_reason": "단순 데이터센터를 넘어 '피지컬 AI 클러스터'로의 진화는 AI가 물리적 제조 현장으로 이동하는 강력한 트렌드를 대변함.",
+        "keywords": [
+          "피지컬AI",
+          "데이터센터",
+          "제조업"
+        ],
+        "planning_insight": "AI와 하드웨어가 결합된 4차 산업혁명 2.0 시나리오. 제조 현장 DX 성공 사례 및 산업별 AI 내재화 로드맵 콘텐츠로 활용."
+      },
+      {
+        "rank": 3,
+        "id": "81f30d5ab4b9feb1b4c2e86bd77605dccdafd78a6ed58e36a0957ed244941a94",
+        "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103102329",
+        "published_at": "2026-11-03T23:01:02+09:00",
+        "summary": "[지디넷코리아]스노우플레이크가 기업 데이터와 업무 시스템을 연결하는 역량으로 인공지능(AI) 에이전트 시장에서 승부를 건다. 오픈AI, 앤트로픽 모델을 활용하면서 AI가 회사 내부 정보를 이해하고 실제 업무를 처리하도록 만드는 플랫폼으로 차별화한다.스노우플레이크는 3일(현지시간) 개막하는 '엑스페디션 2026'에 맞춰 기업 데이터를 기반으로 업무를 수행하는 '코코·코워크 봇'과 AI 실행을 관리하는 새 기능을 공개했다. 회사 업무를 이해하는 데 필요한 정보부터 작업 수행과 통제까지 자사 플랫폼에서 지원하겠다는 구상이다. 엑스페디션 2026은 스노우플레이크가 데이터·AI 분야 신기술과 제품을 소개하는 온라인 행사로 3일(현지시간)부터 사흘간 열린다.크리스티안 클레이너만 스노우플레이크 제품 담당 수석부사장은 지난달 28일 열린 사전 미디어 간담회에서 오픈AI, 앤트로픽과 차별점을 묻는 질문에 기업 데이터와 업무 맥락을 강조했다. 강력한 모델을 확보해도 회사 내부 정보와 운영 방식을 모…",
+        "category_score": 92,
+        "score_reason": "단순 생성형 AI 모델 경쟁에서 '기업 내부 데이터와 업무 처리 역량'을 갖춘 에이전트 플랫폼 중심으로 시장이 이동하고 있음을 명확히 보여줌.",
+        "keywords": [
+          "AI 에이전트",
+          "데이터 플랫폼",
+          "B2B"
+        ],
+        "planning_insight": "LLM 활용 능력을 넘어 '업무 자동화(Workflow Automation)'를 실현하는 AI 에이전트 도입 전략 가이드 제공 필요."
+      },
+      {
+        "rank": 4,
+        "id": "c250e9a7490a810dc4937ea2566d5e3c502dd17f14fd4d6e6e6fd6b447558dcf",
+        "title": "AI 투자에 현금 쏟는 美 빅테크…주주환원 15년 만에 최저",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261102180403",
+        "published_at": "2026-11-02T18:13:30+09:00",
+        "summary": "[지디넷코리아]미국 주요 빅테크 기업들이 인공지능(AI) 인프라 투자에 막대한 자금을 투입하면서 주주환원 비율이 15년 만에 최저 수준으로 떨어진 것으로 나타났다. 데이터센터와 반도체 확보를 위한 지출이 급증하면서 자사주 매입을 줄이고 현금 확보에 나서는 모습이다.1일(현지시간) 로이터통신이 금융정보업체 LSEG 자료와 기업 공시를 분석한 결과에 따르면 마이크로소프트(MS)·알파벳·아마존·메타·오라클 등 미국 빅테크 5개사가 올해 1~9월 영업활동으로 벌어들인 현금 가운데 배당과 자사주 매입에 사용한 비율은 9.3%로 집계됐다.이는 지난해 같은 기간 27.4%에서 18.1%포인트 하락한 수치로, 관련 통계가 집계된 2011년 이후 가장 낮은 수준이다.이들 기업의 올해 1~9월 영업현금흐름은 총 5429억 달러(약 728조원)로 전년 동기 대비 29% 증가했다. 그러나 AI 데이터센터와 반도체 등 인프라 확충에 따른 자본지출(CAPEX)은 두 배로 늘어난 5569억 달러(약 747조…",
+        "category_score": 89,
+        "score_reason": "AI 인프라 투자에 따른 재무 구조 변화라는 거시적 관점의 뉴스로, AI 산업의 성숙도와 수익화 검증이 올해의 주요 관전 포인트임을 시사함.",
+        "keywords": [
+          "빅테크",
+          "AI 인프라",
+          "재무 트렌드"
+        ],
+        "planning_insight": "AI 투자가 실제 매출과 이익으로 연결되는 ROI(투자 대비 수익) 측정 기준과 기업별 AI 성적표 비교 분석 콘텐츠."
+      },
+      {
+        "rank": 5,
+        "id": "b09592148e4de34f605d3327ccceed710c3dd2c4314d50cc167fdd7a2d0124af",
+        "title": "카카오모빌리티, 육군과 국방 AI 관제체계 개발…드론·로봇 통합운용 추진",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103171650",
+        "published_at": "2026-11-03T17:19:13+09:00",
+        "summary": "[지디넷코리아]카카오모빌리티가 육군과 손잡고 자율주행과 관제, 인공지능(AI) 배차 등 모빌리티 기술을 국방 분야에 적용한다.카카오모빌리티는 3일 충남 계룡시 육군본부에서 육군과 ‘유·무인 복합 전투체계 통합관제기술 등 첨단 과학기술 협력을 위한 업무협약’을 체결했다고 밝혔다.양측은 육군의 유·무인 복합 전투체계 구축에 카카오모빌리티가 보유한 AI와 플랫폼 기술을 접목해 국방 분야에서 실증을 진행할 계획이다.카카오모빌리티는 실시간 경로 탐색과 이동 수요 예측, 군집 분산 제어, 자율주행·로봇 관제 등 민간 모빌리티 서비스에서 활용해온 기술을 군 운용 환경에 맞춰 적용한다.판교와 대전에 위치한 ‘육군 AX 거점’을 중심으로 실증 공간을 구축하고 국방 환경에 특화된 AI 관제 플랫폼도 공동 연구한다.드론과 로봇, 무인지상차량(UGV) 등 여러 무인체계를 한 명의 운용자가 관리하는 일대다 방식의 통합운용 체계 구축도 추진한다. 장기적으로는 여러 무인 이동체를 통합 지휘·통제할 수 있는…",
+        "category_score": 86,
+        "score_reason": "국방/안보라는 폐쇄적 영역이 민간의 모빌리티/플랫폼 기술을 적극 수용하는 AX(AI 전환)의 확장성을 잘 보여줌.",
+        "keywords": [
+          "국방AX",
+          "플랫폼",
+          "자율주행"
+        ],
+        "planning_insight": "공공기관 및 특수 산업의 민간 기술 도입 프로세스 분석. 국가 단위 AI 인프라 사업이 창출할 새로운 비즈니스 생태계 조명."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "8b1e46327df89cb633e58ab5cda1c5d6a35eb795290d882de87dcb1324b6b927",
+        "title": "딸깍으로 안되는 Multi-interest 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9639872",
+        "published_at": "2026-11-03T13:45:30+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 딸깍으로 안되는 Multi-interest 개발기 NAVER D2 | 딸깍으로 안되는 Multi-interest 개발기 naver.me ​ 발표 내용 다양한 관심사 추천 모델인 Multi-interest를 여러 지면에 적용하며 겪었던 문제를 해결했던 과정을 공유합니다. ​ 주제: Multi-interest 추천 모델(MINER)의 KREAM 실서비스 적용 사례 문제: 인기 상품 목록에서 특정 상품이 전체 유저에게 동시 노출되는 hubness 발생 분석: 점수를 유저 의존 성분과 유저 무관 성분으로 분해, 가설 3개를 실측으로 검증 조치: 유저 무관 성분 제거(centering, bias 분리), 추천 결과 다양화, 분포 지표 기반 평가 체계 도입 결과: 과노출 상품 전량 제거, 노출 상품 종류 +25%, 구매 지표 유지 시사점: 논문 구조의 실서비스 적용 시 발생하…",
+        "category_score": 95,
+        "score_reason": "추천 시스템의 고질적 문제인 'Hubness'를 기술적으로 분석하고 실제 서비스(KREAM)에 적용하며 데이터 편향을 해결한 과정이 매우 구체적임.",
+        "keywords": [
+          "추천 알고리즘",
+          "Multi-interest",
+          "데이터 편향",
+          "실서비스 최적화"
+        ],
+        "planning_insight": "사용자 의존/무관 성분 분해를 통한 모델 개선은 개인화 추천의 품질을 결정짓는 핵심적인 전략적 자산임."
+      },
+      {
+        "rank": 2,
+        "id": "18baba171608a356a567d02359db6cc1f926f9d670db0c27c6d5fdff5fc459ee",
+        "title": "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+        "source": "무신사 테크",
+        "group": "tech_blog",
+        "category": "fashion_commerce",
+        "url": "https://techblog.musinsa.com/%EC%98%88%EC%B8%A1%EC%9D%84-%EB%84%98%EC%96%B4-%EA%B2%B0%EC%A0%95%EA%B3%BC-%EB%B0%9C%EA%B2%AC%EC%9C%BC%EB%A1%9C-deciml%EA%B3%BC-nexa%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%9D%B4%EC%9C%A0-9313debb2a4f",
+        "published_at": "2026-11-03T09:20:59+09:00",
+        "summary": "안녕하세요. 무신사에서 ML Engineer로서 추천, CRM, 유저 속성, ML 플랫폼 등을 담당하고 있는 Core-E Personalization 팀의 김윤태입니다. 저희 팀에서는 개인화와 관련된 여러 문제를 풀고 그 문제를 서비스에 전달하기 위한 플랫폼을 만들어 가면서 개인화가 앞으로 어떤 방향으로 확장될 수 있을지 고민해 왔습니다. 개인화의 범위가 넓어질수록 ML로 풀어야 하는 문제도 달라집니다. 커머스의 검색과 추천, 광고, 앱 푸시, 쿠폰, 배너 등 다양한 채널이 각각 다른 목적에서 출발했고, 무신사와 29CM에서도 그랬습니다. 하지만 이들은 개인화가 확장될수록 점점 하나의 질문으로 수렴합니다. 이 고객에게 지금 무엇을 보여줄 것인가? 고객이 반응할 확률을 구하는 예측(prediction) 문제만 풀어서는 이 질문에 답할 수 없습니다. 반응할 확률이 높다고 해서 고객에게 모든 것을 무한정 보여줄 수는 없기 때문입니다. 하루에 보낼 수 있는 푸시의 수, 이번 달에 사용할…",
+        "category_score": 92,
+        "score_reason": "커머스 플랫폼의 다양한 채널(검색, 추천, 광고, CRM)을 개인화라는 하나의 관점으로 통합하려는 플랫폼 전략과 제품 철학이 명확히 드러남.",
+        "keywords": [
+          "개인화",
+          "ML 플랫폼",
+          "커머스 전략",
+          "UX 통합"
+        ],
+        "planning_insight": "개별 마케팅 채널을 파편화하지 않고 '고객 경험의 수렴'이라는 관점에서 통합 운영하는 데이터 기반 조직의 지향점을 보여줌."
+      },
+      {
+        "rank": 3,
+        "id": "6126c1c2d68022d511e13467be47e3aaf81db5a769fc1e1147947da74d191053",
+        "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07",
+        "published_at": "2026-11-03T18:27:47+09:00",
+        "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI 서비스에 “지난주 광고 성과 어땠어?”라고 물으면, AI가 광고 MCP를 거쳐 당근 광고의 계정 정보와 광고 정보, 성과 데이터를 가져와서 답해 줘요. 해외 광고 플랫폼에서는 구글, 메타, 아마존이 이미 MCP를 공개했고, 국내에서는 당근이 처음으로 공식 광고 MCP를 출시했어요. 저는 개발자로 이 프로젝트에 참여하는 줄 알았는데, 하다 보니 로드맵과 PRD부터 출시까지 맡아야 했어요. 이 글…",
+        "category_score": 88,
+        "score_reason": "AI 시대의 플랫폼 데이터 연동 표준인 MCP를 활용하여 B2B 광고주 경험을 확장한 사례로, 데이터 연결성이 사용자 경험을 어떻게 바꾸는지 잘 보여줌.",
+        "keywords": [
+          "AI 서비스",
+          "MCP",
+          "광고주 플랫폼",
+          "데이터 연동"
+        ],
+        "planning_insight": "외부 AI 생태계와 자사 데이터를 표준 규격으로 연결하는 시도는 향후 플랫폼의 확장성을 결정짓는 중요한 레퍼런스가 됨."
+      },
+      {
+        "rank": 4,
+        "id": "3e8ac894c997d013271df8001171458b4dbfb77ecd60e535a1fa529d6e32efa0",
+        "title": "옮기는 것보다 증명이 어렵다",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/845",
+        "published_at": "2026-11-03T00:00:00+09:00",
+        "summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발행되지 않은 변경이 색인에 반영되지 않았고, 건의 체류 시간을 계산하는 기준시각이 무관한 필드 수정에 갱신되는 문제가 있었습니다. 전환보다 어려웠던 작업은 새 색인이 맞다는 것을 보이는 일이었습니다. 누락·값·지연 세 축으로 대조한 결과, 보...",
+        "category_score": 82,
+        "score_reason": "데이터 정합성 확보를 위한 검증 과정(누락, 값, 지연)은 서비스의 안정성을 관리하는 제품 기획자와 데이터 분석가에게 실질적인 참조가 됨.",
+        "keywords": [
+          "데이터 품질",
+          "CDC",
+          "검색 색인",
+          "서비스 안정성"
+        ],
+        "planning_insight": "기술적인 전환보다 중요한 것은 '새로운 데이터가 정확하다는 것을 증명'하는 과정이며, 이는 서비스 기획의 신뢰성을 담보하는 핵심 단계임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "8212fa75be0c9f93ebac9623e9fabe9024c953316de29fd975d96d162de10b0b",
+        "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00450",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM…",
+        "category_score": 98,
+        "score_reason": "RAG의 고질적 문제인 비용과 효율성을 개선하기 위해 검색된 정보를 파라메트릭 메모리로 증류하는 기술은, 실제 기업용 AI 서비스 구현 시 운영 비용 절감과 응답 속도 향상에 직결되는 핵심 인사이트를 제공함.",
+        "keywords": [
+          "RAG",
+          "최적화",
+          "LLM 효율화"
+        ],
+        "planning_insight": "RAG 시스템 구축 시 실시간 검색 의존도를 줄이고 모델 자체의 지식 체계를 고도화하여 가성비 높은 고성능 답변 시스템을 설계하는 전략 필요."
+      },
+      {
+        "rank": 2,
+        "id": "ddf4f833ed69659a575a12ea7f029c922ff98abdd9429fd8a4aa583839701eff",
+        "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00244",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking behavior. We present MEMENTO, a long-context agent bu…",
+        "category_score": 95,
+        "score_reason": "장기 문맥 처리는 에이전트 서비스의 필수 기능임. 컨텍스트 관리(압축 및 요약) 기법은 복잡한 워크플로우를 처리하는 AI 에이전트 기획자에게 필수적인 기술적 고려사항임.",
+        "keywords": [
+          "AI 에이전트",
+          "장기 문맥 처리",
+          "컨텍스트 관리"
+        ],
+        "planning_insight": "사용자와의 대화 히스토리가 긴 서비스 기획 시, 모델이 기억을 효율적으로 유지하도록 '노트 생성 방식'의 컨텍스트 압축 전략을 도입해 서비스의 질을 높일 것."
+      },
+      {
+        "rank": 3,
+        "id": "0859780dbd4d9a42ab27b06f373b467c02ef3ce42c8843da2c5335f37c9cfda3",
+        "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40747",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40747v1 Announce Type: new Abstract: Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy. We present Mage-VL-Cowork, a 4B hybrid CUA trained from a general multimodally aligned checkpoint through an end-to-end, progressive five-stage curriculum across midtraining, SFT, and RL. To power this curriculum at scale, Mage-CUA-Forge replaces per-task agent construction with reusable, skill-conditioned…",
+        "category_score": 92,
+        "score_reason": "시각적 GUI와 터미널 실행을 결합한 하이브리드 에이전트 모델은 업무 자동화의 미래를 보여줌. 단순 텍스트 생성을 넘어 실질적인 '컴퓨터 사용' 자동화를 구현할 수 있는 실무적 모델임.",
+        "keywords": [
+          "컴퓨터 사용 에이전트",
+          "멀티모달",
+          "워크플로우 자동화"
+        ],
+        "planning_insight": "텍스트 답변을 넘어 소프트웨어 인터페이스를 직접 제어하는 자동화 에이전트 기획 시 시각적 정보와 코드 실행의 결합 방식을 벤치마킹할 것."
+      },
+      {
+        "rank": 4,
+        "id": "f4f866a3e7137f66c534b9e5291a68f6f211763f91652559413b6682e774db5a",
+        "title": "Palette: teaching a small model to build decks in your design language",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+        "published_at": "2026-11-04T01:35:36+09:00",
+        "summary": "",
+        "category_score": 90,
+        "score_reason": "브랜드 고유의 디자인 언어를 소형 모델에 학습시키는 사례는, 특정 기업의 톤앤매너를 유지한 자동화 콘텐츠 제작 파이프라인 구축에 매우 실용적인 접근임.",
+        "keywords": [
+          "경량화 모델",
+          "콘텐츠 디자인",
+          "개인화"
+        ],
+        "planning_insight": "범용 LLM 사용을 넘어 특정 브랜드나 가이드라인에 최적화된 소형 특화 모델을 통해 기업 맞춤형 콘텐츠 제작 프로세스를 구축하는 기획 추진 가능."
+      },
+      {
+        "rank": 5,
+        "id": "487d109edd034fcbd7cf49a8215e750bbd1b15bdbd7a99061ea359051ca0f8c0",
+        "title": "Adaptive Personalization Under Preference Epistemic Uncertainty",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2610.40930",
+        "published_at": "2026-11-02T14:00:00+09:00",
+        "summary": "arXiv:2610.40930v1 Announce Type: new Abstract: Human preferences change over time: an established preference may remain valid over time, become uncertain as context shifts, or be explicitly revised. Effective personalization requires conversational AI to adapt its response strategy to evolving preferences rather than relying on passive memory retrieval. We formalize this capability as adaptive personalization under epistemic uncertainty. A human preference study further confirms that people fa…",
+        "category_score": 88,
+        "score_reason": "사용자의 선호도가 시간에 따라 변화한다는 점을 AI가 능동적으로 적응(Adaptive Personalization)하는 기법은 고도화된 개인화 추천/대화 서비스의 핵심 요구사항임.",
+        "keywords": [
+          "개인화",
+          "적응형 AI",
+          "추천 알고리즘"
+        ],
+        "planning_insight": "고정된 사용자 프로필 기반의 추천을 넘어, 사용자의 대화 맥락과 변화하는 선호도를 실시간으로 추적하여 대응하는 동적 서비스 로직 기획이 필요함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "81f30d5ab4b9feb1b4c2e86bd77605dccdafd78a6ed58e36a0957ed244941a94",
+      "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261103102329",
+      "published_at": "2026-11-03T23:01:02+09:00",
+      "summary": "[지디넷코리아]스노우플레이크가 기업 데이터와 업무 시스템을 연결하는 역량으로 인공지능(AI) 에이전트 시장에서 승부를 건다. 오픈AI, 앤트로픽 모델을 활용하면서 AI가 회사 내부 정보를 이해하고 실제 업무를 처리하도록 만드는 플랫폼으로 차별화한다.스노우플레이크는 3일(현지시간) 개막하는 '엑스페디션 2026'에 맞춰 기업 데이터를 기반으로 업무를 수행하는 '코코·코워크 봇'과 AI 실행을 관리하는 새 기능을 공개했다. 회사 업무를 이해하는 데 필요한 정보부터 작업 수행과 통제까지 자사 플랫폼에서 지원하겠다는 구상이다. 엑스페디션 2026은 스노우플레이크가 데이터·AI 분야 신기술과 제품을 소개하는 온라인 행사로 3일(현지시간)부터 사흘간 열린다.크리스티안 클레이너만 스노우플레이크 제품 담당 수석부사장은 지난달 28일 열린 사전 미디어 간담회에서 오픈AI, 앤트로픽과 차별점을 묻는 질문에 기업 데이터와 업무 맥락을 강조했다. 강력한 모델을 확보해도 회사 내부 정보와 운영 방식을 모…",
+      "category_score": 92,
+      "score_reason": "단순 생성형 AI 모델 경쟁에서 '기업 내부 데이터와 업무 처리 역량'을 갖춘 에이전트 플랫폼 중심으로 시장이 이동하고 있음을 명확히 보여줌.",
+      "keywords": [
+        "AI 에이전트",
+        "기업 데이터",
+        "워크플로우 자동화"
+      ],
+      "planning_insight": "LLM 프롬프트 엔지니어링을 넘어, 사내 데이터 워크플로우를 AI가 직접 수행하게 만드는 '에이전트 중심 서비스 기획'으로 전환이 필요함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "범용 모델을 넘어 기업 내부 데이터를 이해하고 업무를 직접 처리하는 'AI 에이전트' 플랫폼으로 시장의 무게중심 이동.",
+      "importance_reason": "단순 챗봇 기능을 넘어 실질적인 업무 자동화와 기업 내부 정보 활용이 경쟁력의 핵심으로 자리 잡았음을 보여줌."
+    },
+    {
+      "rank": 2,
+      "id": "8212fa75be0c9f93ebac9623e9fabe9024c953316de29fd975d96d162de10b0b",
+      "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.00450",
+      "published_at": "2026-11-03T14:00:00+09:00",
+      "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM…",
+      "category_score": 98,
+      "score_reason": "RAG의 고질적 문제인 비용과 효율성을 개선하기 위해 검색된 정보를 파라메트릭 메모리로 증류하는 기술은, 실제 기업용 AI 서비스 구현 시 운영 비용 절감과 응답 속도 향상에 직결되는 핵심 인사이트를 제공함.",
+      "keywords": [
+        "RAG",
+        "비용 최적화",
+        "모델 효율화"
+      ],
+      "planning_insight": "RAG 시스템의 가성비 문제를 해결하기 위해 검색 기반 데이터와 모델 내부 파라메트릭 메모리의 최적 혼합 비율을 연구하는 기획이 중요함.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "RAG의 실시간 검색 의존도를 낮추고 지식을 모델 자체 메모리로 증류(Distill)하여 효율성을 극대화하는 기술적 돌파구 제시.",
+      "importance_reason": "AI 서비스의 운영 비용(Inference Cost)과 지연 시간(Latency) 이슈를 해결할 실질적인 기술적 진보로, 비즈니스 수익화 가능성을 높임."
+    },
+    {
+      "rank": 3,
+      "id": "8b1e46327df89cb633e58ab5cda1c5d6a35eb795290d882de87dcb1324b6b927",
+      "title": "딸깍으로 안되는 Multi-interest 개발기",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/9639872",
+      "published_at": "2026-11-03T13:45:30+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 딸깍으로 안되는 Multi-interest 개발기 NAVER D2 | 딸깍으로 안되는 Multi-interest 개발기 naver.me ​ 발표 내용 다양한 관심사 추천 모델인 Multi-interest를 여러 지면에 적용하며 겪었던 문제를 해결했던 과정을 공유합니다. ​ 주제: Multi-interest 추천 모델(MINER)의 KREAM 실서비스 적용 사례 문제: 인기 상품 목록에서 특정 상품이 전체 유저에게 동시 노출되는 hubness 발생 분석: 점수를 유저 의존 성분과 유저 무관 성분으로 분해, 가설 3개를 실측으로 검증 조치: 유저 무관 성분 제거(centering, bias 분리), 추천 결과 다양화, 분포 지표 기반 평가 체계 도입 결과: 과노출 상품 전량 제거, 노출 상품 종류 +25%, 구매 지표 유지 시사점: 논문 구조의 실서비스 적용 시 발생하…",
+      "category_score": 95,
+      "score_reason": "추천 시스템의 고질적 문제인 'Hubness'를 기술적으로 분석하고 실제 서비스(KREAM)에 적용하며 데이터 편향을 해결한 과정이 매우 구체적임.",
+      "keywords": [
+        "추천 알고리즘",
+        "데이터 편향",
+        "실서비스 적용"
+      ],
+      "planning_insight": "데이터 편향 해결을 위한 가설 검증 프로세스를 정례화하고, 이를 활용해 '추천 서비스 개선 과정'을 담은 투명성 있는 콘텐츠로 브랜딩 가능.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "추천 시스템의 고질적 난제인 'Hubness(쏠림 현상)'를 데이터 분해 기술로 해결하여 서비스 성능을 개선한 실무 사례.",
+      "importance_reason": "이론적 모델링이 실제 서비스의 지표 개선(노출 다양화 등)으로 이어지는 과정을 보여준 최상급 엔지니어링 리포트임."
+    },
+    {
+      "rank": 4,
+      "id": "31808c50f95bf7b0854087f7c4fc04e52365f39a0559d084eb40c9e4b6e4fe77",
+      "title": "[단독] 해킹 우려에 … 현대차, 핵심부서 AI 사용 전격 금지",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12195136",
+      "published_at": "2026-11-03T17:44:14+09:00",
+      "summary": "현대자동차그룹이 자율주행·로보틱스 등 핵심 연구개발(R&D) 인력을 상대로 외부 인공지능(AI) 서비스 접근을 차단했다. 전 세계적으로 데이터 유출과 해킹 사고가 잇따르자 대대적인..",
+      "category_score": 98,
+      "score_reason": "기업의 AI 전면 도입기에 발생한 보안 리스크 대응 사례로, 향후 'AI 거버넌스 및 보안 정책'이 기업 디지털 전환(DX)의 핵심 의제로 부상할 것임을 보여주는 중요한 신호임.",
+      "keywords": [
+        "AI 보안",
+        "기업 거버넌스",
+        "Shadow AI"
+      ],
+      "planning_insight": "기업용 AI 사용 가이드라인, 보안 교육 콘텐츠, 안전한 업무용 AI 툴 큐레이션 등 B2B 타겟의 콘텐츠 전략 기획 가능.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "기업들의 본격적인 AI 도입에 따라 데이터 보안 및 사용 통제가 핵심 의제로 부상하며 'AI 거버넌스' 구축이 시급해짐.",
+      "importance_reason": "AI 도입기에서 확산기로 넘어가는 과정에서 필연적으로 발생하는 보안 이슈를 대기업이 어떻게 다루는지 보여주는 핵심 트렌드 신호."
+    },
+    {
+      "rank": 5,
+      "id": "f4f866a3e7137f66c534b9e5291a68f6f211763f91652559413b6682e774db5a",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published_at": "2026-11-04T01:35:36+09:00",
+      "summary": "",
+      "category_score": 90,
+      "score_reason": "브랜드 고유의 디자인 언어를 소형 모델에 학습시키는 사례는, 특정 기업의 톤앤매너를 유지한 자동화 콘텐츠 제작 파이프라인 구축에 매우 실용적인 접근임.",
+      "keywords": [
+        "경량화 모델",
+        "디자인 언어",
+        "콘텐츠 자동화"
+      ],
+      "planning_insight": "브랜드별 특화된 데이터 셋을 활용한 파인튜닝 사례를 콘텐츠로 만들어 기업 내 AI 자동화 도구 도입을 설득하는 리포트 자료로 활용.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "범용 LLM이 아닌, 우리 브랜드 고유의 디자인 언어를 학습한 소형 모델(sLM)을 통한 브랜드 맞춤형 콘텐츠 제작 파이프라인 구축.",
+      "importance_reason": "LLM의 범용성을 넘어 기업만의 '일관된 톤앤매너'를 AI로 구현하려는 실무적이고 전략적인 접근 방식임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 95,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "당근 기술블로그"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 29,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업",
+        "카카오 기술블로그"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "무신사 테크"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 18,
+      "groups": [
+        "ai_data",
+        "tech_blog"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "arXiv cs.CL",
+        "당근 기술블로그"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업이 '범용 기술 경쟁'에서 '기업별 특화 데이터와 에이전트 중심의 실무 자동화' 단계로 진입하고 있습니다.",
+    "RAG 최적화, 경량화 모델, 알고리즘 편향 해결 등 AI 서비스의 운영 효율성과 품질 신뢰도를 높이는 기술적 성숙도가 중요해졌습니다.",
+    "기술 도입과 동시에 '보안과 거버넌스'라는 관리적 이슈가 대두됨에 따라, 안전하고 전략적인 AI 내재화 로드맵이 기업들의 핵심 화두입니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
