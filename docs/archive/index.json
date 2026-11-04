@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-04T20:24:15.223692+09:00",
+  "updated_at": "2026-11-05T01:29:48.049874+09:00",
   "archives": [
+    {
+      "id": "2026-11-05_01-29",
+      "date": "2026-11-05",
+      "time": "01:29",
+      "label": "2026-11-05 01:29",
+      "generated_at": "2026-11-05T01:29:31.414679+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "플러스제로, AI 검색 최적화로 알뜰폰 기업 추천율 30%·유입률 29% 견인",
+        "예측을 넘어 결정과 발견으로: DeciML과 NeXA를 만든 이유",
+        "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부",
+        "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+        "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?"
+      ],
+      "path_json": "archive/2026-11-05/01-29.json",
+      "path_md": "archive/2026-11-05/01-29.md"
+    },
     {
       "id": "2026-11-04_20-23",
       "date": "2026-11-04",
