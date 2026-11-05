@@ -1,0 +1,546 @@
+{
+  "briefing_date": "2026-11-06",
+  "generated_at": "2026-11-06T01:41:10.387765+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 174,
+    "tech_blog": 5,
+    "ai_data": 21
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "e615e121eec3292b35273f4d3c6c47bb755066c47764209263c8b81b847761f9",
+        "title": "유튜브, OTT 콘텐츠 유통에 쇼핑까지...수익 생태계 확장",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261105140219",
+        "published_at": "2026-11-05T14:25:30+09:00",
+        "summary": "[지디넷코리아]유튜브가 숏폼과 롱폼 콘텐츠를 연결하는 데서 나아가 글로벌 온라인동영상서비스(OTT)와의 협력, 쇼핑 기능을 통해 수익 창출 영역을 넓히고 있다. 콘텐츠 시청을 상품 구매로 연결하는 유튜브 쇼핑에서는 한국 시장이 핵심 시장 중 하나로 주목받고 있다.서황욱 구글코리아 유튜브 한국 중화권 총괄은 5일 국제 OTT 포럼에서 “유튜브는 20억명 이용자 기반을 바탕으로 롱폼과 숏폼 등 다양한 콘텐츠를 결합해 강력한 마케팅 기회를 창출하고 있다”고 밝혔다.서 총괄은 글로벌 유튜브 시청 시간의 60%가 TV에서 소비된다는 점을 짚으며, 유튜브가 모바일 중심의 숏폼 플랫폼을 넘어 TV 화면을 아우르는 프리미엄 롱폼 콘텐츠 플랫폼으로 진화하고 있다고 강조했다.유튜브는 콘텐츠 제작자와 방송사의 주요 유통 채널로도 자리 잡고 있다. 크리에이터들이 자체 디지털 스튜디오를 구축해 프리미엄 콘텐츠를 선보이는 가운데, EBS 등 방송사 역시 유튜브를 단순 홍보 수단이 아닌 콘텐츠 유통과 수익…",
+        "category_score": 98,
+        "score_reason": "콘텐츠 소비가 커머스로 직결되는 '쇼퍼테인먼트' 모델의 핵심 변화를 보여주며, 글로벌 플랫폼의 수익 모델 전환을 명확히 제시함.",
+        "keywords": [
+          "플랫폼",
+          "커머스",
+          "콘텐츠"
+        ],
+        "planning_insight": "단순 시청을 넘어 구매 전환으로 이어지는 쇼핑 경험의 통합이 숏폼/롱폼 콘텐츠 전략의 핵심 기준이 될 것임."
+      },
+      {
+        "rank": 2,
+        "id": "6e4e55f54374888707844315756a3d47b0169913b8436e46d85b7ca2a7aa7491",
+        "title": "플러스제로, AI 검색 최적화로 알뜰폰 기업 추천율 30%·유입률 29% 견인",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261104113308",
+        "published_at": "2026-11-04T12:01:12+09:00",
+        "summary": "[지디넷코리아]알뜰폰 기업이 별도 광고 집행 없이 생성형 AI 검색 최적화(GEO) 기술을 도입한 결과, AI 추천 비율이 늘어나면서 자연 검색 유입과 실구매 전환율도 크게 증가한 것으로 나타났다.GEO 전문기업 플러스제로는 생성형 AI 최적화 엔진을 알뜰폰 기업에 적용해 AI 검색 추천율 30%, 유입률 29% 증가 성과를 거뒀다고 4일 밝혔다.플러스제로는 데이터 마케팅 전문기업으로, 최근 AI 솔루션을 선보이며 주목받고 있다.회사는 지난 6개월간 알뜰폰사에 보이스 인텔리전스 기반 GEO 마케팅을 적용한 결과, 자연어 검색 유입이 29% 늘고 실구매 전환율도 크게 상승했다고 설명했다. 주요 생성형 AI 관련 질문 톱50 추천 비율도 30% 이상 증가했다.정성진 플러스제로 대표는 \"별도 광고 없이 데이터 분석과 콘텐츠 최적화만으로 6개월 만에 거둔 성과로, GEO가 AI 시대의 핵심 마케팅 도구임을 입증했다\"고 강조했다.성과를 이끈 보이스인텔리전스는 커뮤니티, SNS 리뷰를 분석해…",
+        "category_score": 95,
+        "score_reason": "생성형 AI 검색 최적화(GEO)라는 새로운 마케팅 패러다임을 도입해 실질적인 전환율 성과를 도출한 시장 변화 신호임.",
+        "keywords": [
+          "AI",
+          "검색",
+          "마케팅"
+        ],
+        "planning_insight": "전통적인 SEO를 넘어 생성형 AI의 답변 품질에 최적화하는 콘텐츠 기획 및 데이터 최적화가 필수적인 경쟁력으로 부상함."
+      },
+      {
+        "rank": 3,
+        "id": "14f3ab26af0a9b994ff94e8f651f70f4c90be17ae34f9cceefa78f5006d2ec8c",
+        "title": "오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261105135557",
+        "published_at": "2026-11-05T13:55:57+09:00",
+        "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 서비스 챗GPT·코덱스의 이미지 생성 속도와 편집 기능을 강화했다. 오픈AI는 '이미지 2.6'을 공개했다고 5일 밝혔다. 이 모델은 기존보다 이미지를 50% 빠르게 생성할 수 있다. 챗GPT와 코덱스에서 작동하며, 데스크톱·모바일·웹에서 사용 가능하다. 새 모델은 움직이는 이미지 파일인 GIF 제작을 지원한다. 브랜드 마스코트나 제품 이미지에 움직임을 더해 소셜미디어용 밈이나 영상 제작용 스토리보드를 만들 수 있다. 간단한 스케치를 영상이나 게임에 쓸 애니메이션 캐릭터로 구현하는 것도 가능하다.오픈AI는 개발자용 응용프로그램 인터페이스(API)를 통해 생성 속도에 초점을 맞춘 'GPT-이미지-2.6 플레어'와 품질·정밀도를 높인 'GPT-이미지-2.6 선버스트'를 제공한다. 플레어는 품질을 '낮음'으로 설정하면 최단 6초 만에 이미지를 생성한다. 선버스트는 '중간' 또는 '높음' 품질 설정에서 더 정교한 이미지를 만들고 편집할 때 결과의…",
+        "category_score": 92,
+        "score_reason": "오픈AI의 서비스 업데이트가 미디어 제작 도구와 소셜 미디어 마케팅 방식에 즉각적인 변화를 예고함.",
+        "keywords": [
+          "AI",
+          "콘텐츠 제작"
+        ],
+        "planning_insight": "텍스트 기반 AI를 넘어 영상/움직이는 이미지(GIF) 제작 자동화가 일반화되면서 콘텐츠 제작의 기획 속도와 형태가 급변할 것임."
+      },
+      {
+        "rank": 4,
+        "id": "d1c1672ef09bcd1b64a49c2baa50ea58cb38d5dd3b3dddb67032ba8ea2abd522",
+        "title": "“바코드 찍기 귀찮았는데”…기산전자, AI 결제 솔루션 출시",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12198395",
+        "published_at": "2026-11-05T15:27:34+09:00",
+        "summary": "기산전자가 바코드 없이도 여러 종류의 빵을 한 번에 인식하고 결제할 수 있는 인공지능(AI) 솔루션을 출시했다. 구매하려는 상품을 트레이에 올려놓으면 AI가 종류와 가격을 자동으로..",
+        "category_score": 89,
+        "score_reason": "일상적인 오프라인 결제 경험에 AI 비전 기술이 결합된 사례로, 리테일 현장의 소비자 행동 변화를 상징함.",
+        "keywords": [
+          "AI",
+          "리테일",
+          "커머스"
+        ],
+        "planning_insight": "오프라인 현장에서의 AI 기술 적용은 단순한 편의를 넘어 쇼핑 프로세스 자체를 완전히 자동화하는 트렌드로 확산될 가능성이 높음."
+      },
+      {
+        "rank": 5,
+        "id": "6f32aec266907a05ccbb0d703908ea86f903e75c45f7fbf2319dbb83bc1dc01b",
+        "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261105190832",
+        "published_at": "2026-11-05T19:08:32+09:00",
+        "summary": "[지디넷코리아]김지훈 SK텔레콤 AI사업본부장이 \"인공지능(AI) 에이전트가 검색을 넘어 예약과 결제를 대신하는 실행형으로 바뀌면서 권한 통제와 신뢰 확보가 사업의 성패를 가를 것\"이라고 진단했다.김 본부장은 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 '실행형 에이전트로의 시대 전환'을 주제로 발제했다. 그는 정부의 '모두의AI' 사업에서 SK텔레콤(SKT, 대표 정재헌) 컨소시엄의 프로젝트 총괄을 맡고 있다.그는 AI 경쟁의 축이 모델 성능에서 경제성, 주권, 실행력으로 옮겨가고 있다고 설명했다. 이를 바라보는 시장에는 낙관론과 비관론이 병존한다고 짚었다. 대규모 투자가 실제 성과와 맞아떨어지는지 아직은 확신할 수 없는 불분명 상태라고 평가했다.그가 분명히 한 건 다른 나라의 AI 플랫폼에 의존하는 게 위험을 부를 수 있다는 점이다. 미국 정부가 앤트로픽 모델에 제재를 가했고, 중국 정부도 10월 최상위 모델의 외부 공개를 허가제로 바꿨다며 외부 모델 의존을 줄…",
+        "category_score": 87,
+        "score_reason": "단순 정보 탐색형 AI에서 실제 결제와 예약을 수행하는 '실행형 에이전트'로의 전환은 기업 및 서비스 플랫폼의 비즈니스 구조 재편을 의미함.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "에이전트"
+        ],
+        "planning_insight": "플랫폼의 가치가 데이터 제공에서 '사용자의 대리인(에이전트)'으로서의 실행 능력으로 옮겨감에 따라 사용자 신뢰 중심의 콘텐츠 전략이 중요해짐."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "4e8c1abbedd78d9c08bac21608c46e259c8e6a67b633f0625a1d89d7e146238a",
+        "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7134499",
+        "published_at": "2026-11-04T13:54:08+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? NAVER D2 | 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? naver.me ​ 발표 내용 여러 엔티티를 한 공간에 담은 통합 임베딩과 범용 리트리벌이 크림 추천 곳곳에 쓰이는 방식, 운영하며 드러난 한계를 v2에서 해결한 과정, 그리고 확장 방향을 공유합니다. ​ 발표 대상 추천 시스템의 후보 생성(Retrieval) 단계에 관심 있으신 분들 여러 서비스·지면에서 함께 쓰는 공용 임베딩을 설계하고 운영하고 싶으신 ML 엔지니어 조건(필터)이 걸린 벡터 검색의 지연과 메모리를 줄이고 싶으신 분들 구좌·서비스마다 늘어나는 추천 모델을 줄이고 싶은 추천·검색 조직의 엔지니어와 기획자 ​ 키워드 Recommendation System / Candidate Ge…",
+        "category_score": 98,
+        "score_reason": "통합 임베딩을 통한 추천 시스템 고도화 사례로, 검색 및 추천 엔진의 실제 비즈니스 적용 전략을 구체적으로 다룸.",
+        "keywords": [
+          "추천 시스템",
+          "임베딩",
+          "리트리벌",
+          "데이터 전략"
+        ],
+        "planning_insight": "여러 서비스 지면에서 공용으로 활용 가능한 통합 임베딩 설계는 플랫폼의 추천 효율을 극대화하는 핵심 자산임."
+      },
+      {
+        "rank": 2,
+        "id": "f617b244a2ecea955c40e60aeccf3d5c63b68bb9b16ea63401ca4e1650071286",
+        "title": "worklog-system 주간보고 자동화 구축 경험기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5037598",
+        "published_at": "2026-11-05T13:50:54+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며 부딪힌 세 가지 문제를 차례로 다룹니다. 기억이 아니라 기록에서 주간보고를 모으는 방법 재택과 사무실을 오가며 여러 기기와 VPN 환경에서 기록을 빠짐없이 모으는 구조 주간보고 화면에 노트·TODO·일정을 더해 업무 도구로 키우면서 중앙 서버 없이 해결한 과정 ​ <참고> 영상속 사내용어 OSS = 네이버 사내 GitHub Enterprise 인스턴스 ​ 발표 대상 주간보고를 쓰는 모든 직군 반복되는 업무 기록과 보고를 자동화하고 싶은 분 AI 도구와 사내 협업 도구(Slack, Jira, Co…",
+        "category_score": 92,
+        "score_reason": "개인화된 업무 기록 시스템의 자동화 구축 과정을 통해 사내 데이터 수집 및 업무 환경 최적화(UX) 경험을 제시함.",
+        "keywords": [
+          "워크플로우",
+          "데이터 자동화",
+          "업무 최적화"
+        ],
+        "planning_insight": "비정형 데이터의 기록과 수집을 자동화하는 시스템은 조직의 효율적 운영을 결정짓는 중요한 서비스 설계 사례임."
+      },
+      {
+        "rank": 3,
+        "id": "32dfa7917a656661cf538ba5f57d25acbdaad908c3541d72eed013e8381daa15",
+        "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1443473",
+        "published_at": "2026-11-05T11:17:06+09:00",
+        "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub Package Registry 같은 도전자가 등장했다고 전했습니다. 7년이 지난 지금 Node.js는 연 1회 릴리스로 일정을 바꾸기로 했습니다. Node.js 호환을 목표로 삼게 된 Deno와 Bun은 각각 Cloudflare와 Anthropic에 합류했고, npm은 GitHub의 일부가 되어 공급망 공격과 싸우고 있습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와…",
+        "category_score": 85,
+        "score_reason": "런타임 환경(Node.js, Deno, Bun)의 생태계 변화 분석을 통해 플랫폼 기반의 서비스 전략적 선택지를 조망함.",
+        "keywords": [
+          "플랫폼 전략",
+          "런타임",
+          "생태계"
+        ],
+        "planning_insight": "기술 생태계의 패러다임 변화를 이해하는 것은 서비스 인프라 및 운영 전략 수립 시 필수적인 인사이트를 제공함."
+      },
+      {
+        "rank": 4,
+        "id": "f5fd4eadc8de9006c8525a8c18a1d2ab2704cbf062fd915598a28374ba7774db",
+        "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7770448",
+        "published_at": "2026-11-05T10:42:15+09:00",
+        "summary": "2020년 글 은 W3C 권고(1.0) 직후의 WebAssembly(이하 'wasm')를 다뤘습니다. '미래 버전에 포함될 작업'으로 스레드, SIMD(single instruction, multiple data), 참조 타입, 꼬리 호출, ESM(ECMAScript modules) 통합을 소개했고, Bytecode Alliance와 WASI(WebAssembly System Interface)가 그리는 브라우저 밖의 그림을 살펴봤습니다. 그리고 \"아직까지 실서비스에서의 활발한 사용이 눈에 띄지는 않는다\"라는 말과 함께, Sass가 wasm으로 플랫폼별 빌드 문제를 풀 수 있을지 모른다는 기대로 글을 맺었습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와 프레임워크 이 글에서는 2020년 글 이후 6년을 이어서 정리합니다. 2020년에 예고했던 기…",
+        "category_score": 80,
+        "score_reason": "WebAssembly를 활용한 플랫폼별 빌드 문제 해결 등 서비스 퍼포먼스 향상을 위한 기술적 접근 방식을 제시함.",
+        "keywords": [
+          "WebAssembly",
+          "웹 성능",
+          "플랫폼 최적화"
+        ],
+        "planning_insight": "새로운 표준 기술의 도입 시 기존 레거시와의 호환성 및 서비스 확장성을 고려한 구조적 접근이 중요함."
+      },
+      {
+        "rank": 5,
+        "id": "0b41099933252378ab78079ccba9f67be682b46afe837e83c6732cfc5a01925a",
+        "title": "FE News 26년 11월 소식을 전해드립니다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/news/1095957",
+        "published_at": "2026-11-04T10:24:58+09:00",
+        "summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속 MIT 라이선스로 남고 Tailwind 팀이 Shopify의 지원을 받아 유지보수를 이어 가므로, 이미 쓰고 있는 팀이 당장 바꿀 것은 없다. 대신 유료 컴포넌트·템플릿 모음 Tailwind Plus와 에이전트 스킬 모음 ui.sh는 신규 가입을 받지 않으며, Wathan은 사용자와 같은 문제를 겪는 실제 커머스 제품 안에서 프레임워크를 개발하고 싶었다고 배경을 설명한다. ​ ​ ​ Introducing tsrs: a Port of TypeScript to Rust Cloudflare와 VoidZero가 TypeScript 컴파일러를 Rust로 옮기는 tsrs를 Oxc…",
+        "category_score": 75,
+        "score_reason": "외부 오픈소스 생태계의 인수 합병이 서비스 운영에 미치는 영향 분석을 통해 비즈니스 의존도 관리 통찰을 제공함.",
+        "keywords": [
+          "오픈소스",
+          "비즈니스 전략",
+          "플랫폼 영향력"
+        ],
+        "planning_insight": "외부 솔루션에 의존하는 서비스 구성 시, 제공 업체의 전략 변화가 사용자 경험에 미칠 리스크 관리 방안이 필요함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "fcaa616ce2a7af112878584e10eb6253b85ac6047550fe21bb4a8ed751ce5591",
+        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "published_at": "2026-11-05T02:50:10+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "비정형 데이터의 구조화(JSON 추출)는 콘텐츠 자동화 및 데이터 파이프라인 구축의 핵심이며, 실무 활용도가 매우 높음.",
+        "keywords": [
+          "데이터 추출",
+          "자동화",
+          "JSON"
+        ],
+        "planning_insight": "문서 데이터로부터 즉시 활용 가능한 정형 데이터를 추출함으로써 콘텐츠 제작 공정을 자동화하고 업무 효율을 극대화할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "fe2afabdd6d8f0b6d1688b4d0501465091e56e5bc4bf31d35352bec14a002f35",
+        "title": "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.03982",
+        "published_at": "2026-11-04T14:00:00+09:00",
+        "summary": "arXiv:2611.03982v1 Announce Type: new Abstract: Enterprises increasingly want LLM agents to automate standard operating procedures over their software stacks -- mapping each step of a procedure to the right call among thousands of internal APIs, without hand-authored step-to-API mappings. The core difficulty is API selection at scale: choosing and composing the correct tools over a long horizon, judged only by whether the overall task succeeds. Current tool-use benchmarks do not test this regim…",
+        "category_score": 95,
+        "score_reason": "LLM 에이전트가 복잡한 내부 API를 직접 제어하는 기술은 기업형 서비스 자동화와 워크플로우 효율화의 핵심 트렌드임.",
+        "keywords": [
+          "LLM 에이전트",
+          "API 통합",
+          "워크플로우"
+        ],
+        "planning_insight": "반복적인 사내 운영 업무를 API 연결형 에이전트로 전환하여 비용을 절감하고 실시간 서비스 운영 환경을 개선할 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "67c61221e69cfde0891b88b975cd41e7880ad156910a5924f2039725b377652f",
+        "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05596",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05596v1 Announce Type: new Abstract: Different retrievers exist for retrieval-augmented generation, yet none performs best for all queries. Therefore, the key question is: given a query and retrieved passages from different retrievers, which one is most suited for that query? Existing routers usually make predictions from query-specific features and a fixed pool of retrievers; such routers have no output for an unseen retriever and are incapable by design on a new corpus. To fill the…",
+        "category_score": 92,
+        "score_reason": "RAG 시스템 성능의 핵심인 최적의 리트리버 라우팅 기술을 다루며, 이는 검색 품질과 추천 엔진의 고도화에 필수적임.",
+        "keywords": [
+          "RAG",
+          "검색",
+          "라우팅"
+        ],
+        "planning_insight": "질문 의도에 따라 가장 적합한 검색 모델을 자동으로 선택하도록 설계하여 콘텐츠 추천과 답변의 정확도를 비약적으로 높일 수 있음."
+      },
+      {
+        "rank": 4,
+        "id": "51550e3a00320a9fcc77372a1839e1d970259fee28e5a12b19aed03f7b2cd346",
+        "title": "AI-Driven SaaS Platform Integration: AI Express for Unified Generative AI Services with Pay-As-You-Go Credit Systems and Scalable Microservice Architecture",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05389",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05389v1 Announce Type: new Abstract: Generative AI is currently fragmented, with separate subscriptions required for text generation, image synthesis, and code assistance, leading to high costs and workflow disruptions. AI Express is a SaaS platform that consolidates these capabilities into a unified pay-as-you-go service. The platform provides a range of AI tools, including a Core Code Reviewer that evaluates GitHub repositories, a Text-to-Website generator that converts text into f…",
+        "category_score": 89,
+        "score_reason": "분산된 AI 서비스들을 하나의 SaaS 플랫폼으로 통합하는 접근법은 마케팅/기획자의 도구 스택 관리 및 비용 최적화에 실질적인 도움을 줌.",
+        "keywords": [
+          "SaaS",
+          "통합 플랫폼",
+          "비용 최적화"
+        ],
+        "planning_insight": "다양한 생성형 AI 툴을 단일 플랫폼으로 통합 관리하여 워크플로우 중단 없는 콘텐츠 제작 환경을 구축하는 것이 중요함."
+      },
+      {
+        "rank": 5,
+        "id": "c9090fee6fc5c6c9f2fc0cdc1855829e761a4c95adb843ec46ad86bede953464",
+        "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05382",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05382v1 Announce Type: new Abstract: Misinformation spreads faster than professional fact-checkers can manually verify it and write articles explaining their verdicts. This creates a need to automate the production of fact-checking articles. This paper details work done by the DS@GT ARC team for CLEF 2026 CheckThat! Lab Task 3 Fact-Checking Article Generation. We seek to generate a full fact-checking article from a claim, its original verdict, and a set of scraped source documents. O…",
+        "category_score": 86,
+        "score_reason": "팩트체크 콘텐츠 자동 생성 기술은 신뢰성 있는 정보 배포가 중요한 콘텐츠 전략 기획자에게 매우 실용적인 솔루션임.",
+        "keywords": [
+          "팩트체크",
+          "콘텐츠 자동화",
+          "검증"
+        ],
+        "planning_insight": "정보의 정확성을 자동으로 검증하는 파이프라인을 구축하여 신뢰 기반의 뉴스레터나 콘텐츠 서비스 운영이 가능함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "6e4e55f54374888707844315756a3d47b0169913b8436e46d85b7ca2a7aa7491",
+      "title": "플러스제로, AI 검색 최적화로 알뜰폰 기업 추천율 30%·유입률 29% 견인",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261104113308",
+      "published_at": "2026-11-04T12:01:12+09:00",
+      "summary": "[지디넷코리아]알뜰폰 기업이 별도 광고 집행 없이 생성형 AI 검색 최적화(GEO) 기술을 도입한 결과, AI 추천 비율이 늘어나면서 자연 검색 유입과 실구매 전환율도 크게 증가한 것으로 나타났다.GEO 전문기업 플러스제로는 생성형 AI 최적화 엔진을 알뜰폰 기업에 적용해 AI 검색 추천율 30%, 유입률 29% 증가 성과를 거뒀다고 4일 밝혔다.플러스제로는 데이터 마케팅 전문기업으로, 최근 AI 솔루션을 선보이며 주목받고 있다.회사는 지난 6개월간 알뜰폰사에 보이스 인텔리전스 기반 GEO 마케팅을 적용한 결과, 자연어 검색 유입이 29% 늘고 실구매 전환율도 크게 상승했다고 설명했다. 주요 생성형 AI 관련 질문 톱50 추천 비율도 30% 이상 증가했다.정성진 플러스제로 대표는 \"별도 광고 없이 데이터 분석과 콘텐츠 최적화만으로 6개월 만에 거둔 성과로, GEO가 AI 시대의 핵심 마케팅 도구임을 입증했다\"고 강조했다.성과를 이끈 보이스인텔리전스는 커뮤니티, SNS 리뷰를 분석해…",
+      "category_score": 95,
+      "score_reason": "생성형 AI 검색 최적화(GEO)라는 새로운 마케팅 패러다임을 도입해 실질적인 전환율 성과를 도출한 시장 변화 신호임.",
+      "keywords": [
+        "GEO",
+        "AI 검색 최적화",
+        "전환율"
+      ],
+      "planning_insight": "기존 키워드 중심의 SEO에서 탈피해 AI 에이전트가 정보를 탐색하고 추천하는 방식에 맞춘 콘텐츠 가이드라인과 최적화 전략 수립이 시급함.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "생성형 AI 검색 결과 내 노출을 극대화하는 GEO(Generative Engine Optimization)의 실질적 성과 입증",
+      "importance_reason": "전통적인 SEO를 넘어 AI 답변 기반의 검색 환경으로 변화하는 마케팅 패러다임 전환의 핵심 신호임."
+    },
+    {
+      "rank": 2,
+      "id": "fcaa616ce2a7af112878584e10eb6253b85ac6047550fe21bb4a8ed751ce5591",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published_at": "2026-11-05T02:50:10+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "비정형 데이터의 구조화(JSON 추출)는 콘텐츠 자동화 및 데이터 파이프라인 구축의 핵심이며, 실무 활용도가 매우 높음.",
+      "keywords": [
+        "데이터 구조화",
+        "콘텐츠 자동화",
+        "JSON"
+      ],
+      "planning_insight": "수집된 리포트, SNS 반응, 고객 리뷰 등을 즉시 데이터베이스화하여 정량적 인사이트로 도출하는 자동화 프로세스 구축이 가능함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "비정형 문서를 구조화된 JSON 데이터로 자동 변환하는 파이프라인의 실무적 적용",
+      "importance_reason": "콘텐츠 제작의 가장 큰 비용인 '비정형 데이터 처리'를 자동화하여 운영 효율을 극대화할 수 있는 핵심 기술임."
+    },
+    {
+      "rank": 3,
+      "id": "4e8c1abbedd78d9c08bac21608c46e259c8e6a67b633f0625a1d89d7e146238a",
+      "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/7134499",
+      "published_at": "2026-11-04T13:54:08+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? NAVER D2 | 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? naver.me ​ 발표 내용 여러 엔티티를 한 공간에 담은 통합 임베딩과 범용 리트리벌이 크림 추천 곳곳에 쓰이는 방식, 운영하며 드러난 한계를 v2에서 해결한 과정, 그리고 확장 방향을 공유합니다. ​ 발표 대상 추천 시스템의 후보 생성(Retrieval) 단계에 관심 있으신 분들 여러 서비스·지면에서 함께 쓰는 공용 임베딩을 설계하고 운영하고 싶으신 ML 엔지니어 조건(필터)이 걸린 벡터 검색의 지연과 메모리를 줄이고 싶으신 분들 구좌·서비스마다 늘어나는 추천 모델을 줄이고 싶은 추천·검색 조직의 엔지니어와 기획자 ​ 키워드 Recommendation System / Candidate Ge…",
+      "category_score": 98,
+      "score_reason": "통합 임베딩을 통한 추천 시스템 고도화 사례로, 검색 및 추천 엔진의 실제 비즈니스 적용 전략을 구체적으로 다룸.",
+      "keywords": [
+        "통합 임베딩",
+        "추천 시스템",
+        "개인화"
+      ],
+      "planning_insight": "개별 콘텐츠 지면마다 별도 모델을 운영하는 대신, 공통의 임베딩 공간을 설계함으로써 콘텐츠 간 연결성을 극대화하는 플랫폼 전략이 필요함.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "다양한 서비스 지면에서 공용으로 활용 가능한 통합 임베딩 설계 전략",
+      "importance_reason": "파편화된 추천 모델을 통합하여 데이터 효율성을 높이고, 사용자에게 맥락 중심의 정교한 개인화 경험을 제공하는 핵심 자산임."
+    },
+    {
+      "rank": 4,
+      "id": "e615e121eec3292b35273f4d3c6c47bb755066c47764209263c8b81b847761f9",
+      "title": "유튜브, OTT 콘텐츠 유통에 쇼핑까지...수익 생태계 확장",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261105140219",
+      "published_at": "2026-11-05T14:25:30+09:00",
+      "summary": "[지디넷코리아]유튜브가 숏폼과 롱폼 콘텐츠를 연결하는 데서 나아가 글로벌 온라인동영상서비스(OTT)와의 협력, 쇼핑 기능을 통해 수익 창출 영역을 넓히고 있다. 콘텐츠 시청을 상품 구매로 연결하는 유튜브 쇼핑에서는 한국 시장이 핵심 시장 중 하나로 주목받고 있다.서황욱 구글코리아 유튜브 한국 중화권 총괄은 5일 국제 OTT 포럼에서 “유튜브는 20억명 이용자 기반을 바탕으로 롱폼과 숏폼 등 다양한 콘텐츠를 결합해 강력한 마케팅 기회를 창출하고 있다”고 밝혔다.서 총괄은 글로벌 유튜브 시청 시간의 60%가 TV에서 소비된다는 점을 짚으며, 유튜브가 모바일 중심의 숏폼 플랫폼을 넘어 TV 화면을 아우르는 프리미엄 롱폼 콘텐츠 플랫폼으로 진화하고 있다고 강조했다.유튜브는 콘텐츠 제작자와 방송사의 주요 유통 채널로도 자리 잡고 있다. 크리에이터들이 자체 디지털 스튜디오를 구축해 프리미엄 콘텐츠를 선보이는 가운데, EBS 등 방송사 역시 유튜브를 단순 홍보 수단이 아닌 콘텐츠 유통과 수익…",
+      "category_score": 98,
+      "score_reason": "콘텐츠 소비가 커머스로 직결되는 '쇼퍼테인먼트' 모델의 핵심 변화를 보여주며, 글로벌 플랫폼의 수익 모델 전환을 명확히 제시함.",
+      "keywords": [
+        "쇼퍼테인먼트",
+        "플랫폼 확장",
+        "커머스"
+      ],
+      "planning_insight": "브랜디드 콘텐츠 기획 시 영상 콘텐츠의 시청 경로와 제품 구매 동선을 직접 연결하는 '엔드 투 엔드' 사용자 경험 설계가 필수적임.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "유튜브의 롱폼-숏폼-커머스 결합을 통한 콘텐츠 수익 생태계의 완전 통합",
+      "importance_reason": "단순 시청을 넘어 구매로 연결되는 플랫폼의 비즈니스 구조 변화는 콘텐츠 마케터의 필수 지표임."
+    },
+    {
+      "rank": 5,
+      "id": "fe2afabdd6d8f0b6d1688b4d0501465091e56e5bc4bf31d35352bec14a002f35",
+      "title": "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.03982",
+      "published_at": "2026-11-04T14:00:00+09:00",
+      "summary": "arXiv:2611.03982v1 Announce Type: new Abstract: Enterprises increasingly want LLM agents to automate standard operating procedures over their software stacks -- mapping each step of a procedure to the right call among thousands of internal APIs, without hand-authored step-to-API mappings. The core difficulty is API selection at scale: choosing and composing the correct tools over a long horizon, judged only by whether the overall task succeeds. Current tool-use benchmarks do not test this regim…",
+      "category_score": 95,
+      "score_reason": "LLM 에이전트가 복잡한 내부 API를 직접 제어하는 기술은 기업형 서비스 자동화와 워크플로우 효율화의 핵심 트렌드임.",
+      "keywords": [
+        "LLM 에이전트",
+        "API 자동화",
+        "워크플로우"
+      ],
+      "planning_insight": "조직 내 반복되는 수동 업무(데이터 취합, 문서 작성 등)를 LLM 에이전트와 API 연동으로 전환하여 기획자의 리소스를 창의적 영역으로 집중시킬 필요가 있음.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "기업 내부 API를 활용해 복잡한 운영 업무를 자동 수행하는 LLM 에이전트의 발전",
+      "importance_reason": "AI가 정보를 찾는 단계를 넘어, 실제 시스템을 조작하여 업무를 처리하는 '실행형'으로 진화하고 있음을 시사함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 78,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 19,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 11,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "마케팅 전략의 중심이 단순 노출에서 AI 검색 결과 최적화(GEO)로 이동하며, 검색 유입이 실구매로 직결되는 기술적 최적화가 필수화됨.",
+    "추천 시스템과 콘텐츠 파이프라인에서 통합 임베딩과 비정형 데이터 추출 같은 기술적 고도화가 콘텐츠 서비스의 질적 성장을 견인하고 있음.",
+    "플랫폼들은 콘텐츠-커머스 결합과 실행형 AI 에이전트 도입을 통해 사용자 경험을 '시청/탐색'에서 '실행/구매'의 영역으로 급격히 확장 중임."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
