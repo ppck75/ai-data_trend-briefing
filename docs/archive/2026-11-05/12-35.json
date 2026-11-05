@@ -1,0 +1,549 @@
+{
+  "briefing_date": "2026-11-05",
+  "generated_at": "2026-11-05T11:41:45.554642+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 173,
+    "tech_blog": 4,
+    "ai_data": 23
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "6e4e55f54374888707844315756a3d47b0169913b8436e46d85b7ca2a7aa7491",
+        "title": "플러스제로, AI 검색 최적화로 알뜰폰 기업 추천율 30%·유입률 29% 견인",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261104113308",
+        "published_at": "2026-11-04T12:01:12+09:00",
+        "summary": "[지디넷코리아]알뜰폰 기업이 별도 광고 집행 없이 생성형 AI 검색 최적화(GEO) 기술을 도입한 결과, AI 추천 비율이 늘어나면서 자연 검색 유입과 실구매 전환율도 크게 증가한 것으로 나타났다.GEO 전문기업 플러스제로는 생성형 AI 최적화 엔진을 알뜰폰 기업에 적용해 AI 검색 추천율 30%, 유입률 29% 증가 성과를 거뒀다고 4일 밝혔다.플러스제로는 데이터 마케팅 전문기업으로, 최근 AI 솔루션을 선보이며 주목받고 있다.회사는 지난 6개월간 알뜰폰사에 보이스 인텔리전스 기반 GEO 마케팅을 적용한 결과, 자연어 검색 유입이 29% 늘고 실구매 전환율도 크게 상승했다고 설명했다. 주요 생성형 AI 관련 질문 톱50 추천 비율도 30% 이상 증가했다.정성진 플러스제로 대표는 \"별도 광고 없이 데이터 분석과 콘텐츠 최적화만으로 6개월 만에 거둔 성과로, GEO가 AI 시대의 핵심 마케팅 도구임을 입증했다\"고 강조했다.성과를 이끈 보이스인텔리전스는 커뮤니티, SNS 리뷰를 분석해…",
+        "category_score": 98,
+        "score_reason": "AI 검색 최적화(GEO)를 통해 실구매 전환율과 유입률을 직접적으로 증명한 사례로, 플랫폼 마케팅의 패러다임이 SEO에서 GEO로 이동하고 있음을 보여주는 핵심 신호입니다.",
+        "keywords": [
+          "AI",
+          "GEO",
+          "마케팅",
+          "커머스"
+        ],
+        "planning_insight": "콘텐츠 전략 수립 시 검색 알고리즘 변화에 대비한 생성형 AI 친화적 콘텐츠 구조화(GEO) 도입 필수."
+      },
+      {
+        "rank": 2,
+        "id": "099cded6f8ba3d542e545af2f3b6f883ab217cd259f9f7fffe98b08a5f589912",
+        "title": "구글, LLM 재킹 주의보...\"하루 10만 달러 부정 사용 적발\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261104210925",
+        "published_at": "2026-11-04T21:09:25+09:00",
+        "summary": "[지디넷코리아]구글이 인수한 보안기업 맨디언트(Mandiant)와 구글 위협 인텔리전스 그룹(GTIG)이 ‘LLM재킹(LLMJacking)’ 공격의 상세 메커니즘을 분석한 새로운 보고서를 4일 발표했다.무단으로 점유한 컴퓨팅 자원을 점진적으로 소모하는 크립토재킹(CryptoJacking,타인의 컴퓨팅 자원을 무단으로 가로채 암호화폐 채굴에 이용하는 수법)과 달리 LLM재킹은 단기간에 막대한 사용 비용을 발생시킨다. LLM재킹은 해커가 다른 사람이나 기업의 대규모 언어모델(LLM) 계정 또는 API 접근 권한을 탈취해 무단으로 사용하는 사이버 공격을 말한다.최근 조사 결과, 하루 만에 10만 달러 이상의 부정 사용 요금이 발생한 사례가 관찰됐으며, 일부 기업에서는 무단 접근을 차단하기까지 누적 피해액이 100만 달러에 달했다고 구글은 밝혔다. 또 한 위협 행위자는 8시간이 채 되지 않는 시간 동안 50만 건 이상의 LLM API 호출을 실행했다고 보고서는 전했다.아래는 보고서 주요…",
+        "category_score": 95,
+        "score_reason": "기업의 AI 도입 확산에 따라 'LLM재킹'과 같은 새로운 보안 위협이 급부상하고 있습니다. AI 플랫폼의 운영 비용 관리와 보안이 기업의 필수 과제로 자리 잡음을 시사합니다.",
+        "keywords": [
+          "AI",
+          "보안",
+          "LLM",
+          "비용관리"
+        ],
+        "planning_insight": "기업용 AI 서비스 도입 시 보안 정책과 API 사용 효율화에 대한 콘텐츠 기획 필요."
+      },
+      {
+        "rank": 3,
+        "id": "81f30d5ab4b9feb1b4c2e86bd77605dccdafd78a6ed58e36a0957ed244941a94",
+        "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103102329",
+        "published_at": "2026-11-03T23:01:02+09:00",
+        "summary": "[지디넷코리아]스노우플레이크가 기업 데이터와 업무 시스템을 연결하는 역량으로 인공지능(AI) 에이전트 시장에서 승부를 건다. 오픈AI, 앤트로픽 모델을 활용하면서 AI가 회사 내부 정보를 이해하고 실제 업무를 처리하도록 만드는 플랫폼으로 차별화한다.스노우플레이크는 3일(현지시간) 개막하는 '엑스페디션 2026'에 맞춰 기업 데이터를 기반으로 업무를 수행하는 '코코·코워크 봇'과 AI 실행을 관리하는 새 기능을 공개했다. 회사 업무를 이해하는 데 필요한 정보부터 작업 수행과 통제까지 자사 플랫폼에서 지원하겠다는 구상이다. 엑스페디션 2026은 스노우플레이크가 데이터·AI 분야 신기술과 제품을 소개하는 온라인 행사로 3일(현지시간)부터 사흘간 열린다.크리스티안 클레이너만 스노우플레이크 제품 담당 수석부사장은 지난달 28일 열린 사전 미디어 간담회에서 오픈AI, 앤트로픽과 차별점을 묻는 질문에 기업 데이터와 업무 맥락을 강조했다. 강력한 모델을 확보해도 회사 내부 정보와 운영 방식을 모…",
+        "category_score": 92,
+        "score_reason": "범용 모델을 넘어 기업 내부 데이터를 활용한 'AI 에이전트'로 시장의 경쟁 초점이 이동하고 있습니다. 이는 단순 정보 제공을 넘어 업무 수행 영역으로 확장되는 트렌드입니다.",
+        "keywords": [
+          "AI",
+          "에이전트",
+          "데이터플랫폼",
+          "엔터프라이즈"
+        ],
+        "planning_insight": "단순 생성형 AI 활용을 넘어 실무 데이터를 어떻게 연동할지에 대한 전문 콘텐츠 수요 증가."
+      },
+      {
+        "rank": 4,
+        "id": "b09592148e4de34f605d3327ccceed710c3dd2c4314d50cc167fdd7a2d0124af",
+        "title": "카카오모빌리티, 육군과 국방 AI 관제체계 개발…드론·로봇 통합운용 추진",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103171650",
+        "published_at": "2026-11-03T17:19:13+09:00",
+        "summary": "[지디넷코리아]카카오모빌리티가 육군과 손잡고 자율주행과 관제, 인공지능(AI) 배차 등 모빌리티 기술을 국방 분야에 적용한다.카카오모빌리티는 3일 충남 계룡시 육군본부에서 육군과 ‘유·무인 복합 전투체계 통합관제기술 등 첨단 과학기술 협력을 위한 업무협약’을 체결했다고 밝혔다.양측은 육군의 유·무인 복합 전투체계 구축에 카카오모빌리티가 보유한 AI와 플랫폼 기술을 접목해 국방 분야에서 실증을 진행할 계획이다.카카오모빌리티는 실시간 경로 탐색과 이동 수요 예측, 군집 분산 제어, 자율주행·로봇 관제 등 민간 모빌리티 서비스에서 활용해온 기술을 군 운용 환경에 맞춰 적용한다.판교와 대전에 위치한 ‘육군 AX 거점’을 중심으로 실증 공간을 구축하고 국방 환경에 특화된 AI 관제 플랫폼도 공동 연구한다.드론과 로봇, 무인지상차량(UGV) 등 여러 무인체계를 한 명의 운용자가 관리하는 일대다 방식의 통합운용 체계 구축도 추진한다. 장기적으로는 여러 무인 이동체를 통합 지휘·통제할 수 있는…",
+        "category_score": 90,
+        "score_reason": "AI와 모빌리티 기술의 국방 분야 결합은 산업적 경계가 무너지고 있음을 보여줍니다. 유·무인 복합 체계는 향후 다양한 공공/산업 인프라에 적용될 가능성이 높습니다.",
+        "keywords": [
+          "AI",
+          "모빌리티",
+          "관제",
+          "국방"
+        ],
+        "planning_insight": "AI의 도메인 결합형 기술 적용 사례로서, B2G(정부 대상) 비즈니스와 산업 AI 결합 트렌드 공유."
+      },
+      {
+        "rank": 5,
+        "id": "80d0d9a7b5866856fe5163ae0881179417d6a9d2a9f5ecd2de1db07323ac917f",
+        "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261103111215",
+        "published_at": "2026-11-03T11:12:35+09:00",
+        "summary": "[지디넷코리아]유라클(대표 조준희, 권태일)이 기업 내부에서 사용하는 인공지능(AI) 모델과 에이전트를 통합 관리하는 플랫폼을 선보이며 기업용 AI 운영 시장 공략에 나선다.여러 AI 서비스를 하나의 접속 지점으로 연결하고 사용자별 접근 권한부터 이용 비용, 실행 승인까지 관리하는 것이 핵심이다. 기업의 AI 도입이 확대되면서 복잡해진 운영 환경을 효율적으로 관리하려는 수요를 겨냥했다.유라클은 기업용 AI 통합 관리 솔루션 '오르다 API 게이트웨이(AURDA API Gateway)'를 출시했다고 3일 밝혔다.이번 제품은 기업 내부 AI 서비스와 외부 거대언어모델(LLM), 자체 구축 모델, AI 에이전트, 모델 콘텍스트 프로토콜(MCP) 서버 등을 하나의 접속 지점에서 연결하고 관리하는 역할을 한다.각 서비스가 개별 AI 모델에 직접 연결되는 대신 게이트웨이를 거치도록 구성해 모델 교체나 버전 변경에 따른 수정 작업을 줄일 수 있다. 새로운 모델을 일부 요청에 먼저 적용해 성능을…",
+        "category_score": 88,
+        "score_reason": "기업 내부의 복잡한 AI 모델과 에이전트를 효율적으로 관리하려는 수요가 급증하고 있습니다. AI 거버넌스와 비용 관리는 기업 내 AI 도입의 성숙도를 보여주는 척도입니다.",
+        "keywords": [
+          "AI",
+          "API관리",
+          "운영관리",
+          "거버넌스"
+        ],
+        "planning_insight": "기업 대상 B2B 콘텐츠에서 'AI 운영 효율화'와 '비용 관리 전략'을 중심으로 한 가이드라인형 콘텐츠 유망."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "0b41099933252378ab78079ccba9f67be682b46afe837e83c6732cfc5a01925a",
+        "title": "FE News 26년 11월 소식을 전해드립니다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/news/1095957",
+        "published_at": "2026-11-04T10:24:58+09:00",
+        "summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속 MIT 라이선스로 남고 Tailwind 팀이 Shopify의 지원을 받아 유지보수를 이어 가므로, 이미 쓰고 있는 팀이 당장 바꿀 것은 없다. 대신 유료 컴포넌트·템플릿 모음 Tailwind Plus와 에이전트 스킬 모음 ui.sh는 신규 가입을 받지 않으며, Wathan은 사용자와 같은 문제를 겪는 실제 커머스 제품 안에서 프레임워크를 개발하고 싶었다고 배경을 설명한다. ​ ​ ​ Introducing tsrs: a Port of TypeScript to Rust Cloudflare와 VoidZero가 TypeScript 컴파일러를 Rust로 옮기는 tsrs를 Oxc…",
+        "category_score": 54,
+        "score_reason": "UI, 제품, 커머스 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "UI",
+          "제품",
+          "커머스",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 UI, 제품, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "6126c1c2d68022d511e13467be47e3aaf81db5a769fc1e1147947da74d191053",
+        "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07",
+        "published_at": "2026-11-03T18:27:47+09:00",
+        "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI 서비스에 “지난주 광고 성과 어땠어?”라고 물으면, AI가 광고 MCP를 거쳐 당근 광고의 계정 정보와 광고 정보, 성과 데이터를 가져와서 답해 줘요. 해외 광고 플랫폼에서는 구글, 메타, 아마존이 이미 MCP를 공개했고, 국내에서는 당근이 처음으로 공식 광고 MCP를 출시했어요. 저는 개발자로 이 프로젝트에 참여하는 줄 알았는데, 하다 보니 로드맵과 PRD부터 출시까지 맡아야 했어요. 이 글…",
+        "category_score": 52,
+        "score_reason": "데이터, 플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "데이터",
+          "플랫폼",
+          "AI",
+          "백엔드"
+        ],
+        "planning_insight": "이 항목은 데이터, 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "4e8c1abbedd78d9c08bac21608c46e259c8e6a67b633f0625a1d89d7e146238a",
+        "title": "크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7134499",
+        "published_at": "2026-11-04T13:54:08+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? NAVER D2 | 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까? naver.me ​ 발표 내용 여러 엔티티를 한 공간에 담은 통합 임베딩과 범용 리트리벌이 크림 추천 곳곳에 쓰이는 방식, 운영하며 드러난 한계를 v2에서 해결한 과정, 그리고 확장 방향을 공유합니다. ​ 발표 대상 추천 시스템의 후보 생성(Retrieval) 단계에 관심 있으신 분들 여러 서비스·지면에서 함께 쓰는 공용 임베딩을 설계하고 운영하고 싶으신 ML 엔지니어 조건(필터)이 걸린 벡터 검색의 지연과 메모리를 줄이고 싶으신 분들 구좌·서비스마다 늘어나는 추천 모델을 줄이고 싶은 추천·검색 조직의 엔지니어와 기획자 ​ 키워드 Recommendation System / Candidate Ge…",
+        "category_score": 49,
+        "score_reason": "추천, 검색 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "추천",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 추천, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "8b1e46327df89cb633e58ab5cda1c5d6a35eb795290d882de87dcb1324b6b927",
+        "title": "딸깍으로 안되는 Multi-interest 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9639872",
+        "published_at": "2026-11-03T13:45:30+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 딸깍으로 안되는 Multi-interest 개발기 NAVER D2 | 딸깍으로 안되는 Multi-interest 개발기 naver.me ​ 발표 내용 다양한 관심사 추천 모델인 Multi-interest를 여러 지면에 적용하며 겪었던 문제를 해결했던 과정을 공유합니다. ​ 주제: Multi-interest 추천 모델(MINER)의 KREAM 실서비스 적용 사례 문제: 인기 상품 목록에서 특정 상품이 전체 유저에게 동시 노출되는 hubness 발생 분석: 점수를 유저 의존 성분과 유저 무관 성분으로 분해, 가설 3개를 실측으로 검증 조치: 유저 무관 성분 제거(centering, bias 분리), 추천 결과 다양화, 분포 지표 기반 평가 체계 도입 결과: 과노출 상품 전량 제거, 노출 상품 종류 +25%, 구매 지표 유지 시사점: 논문 구조의 실서비스 적용 시 발생하…",
+        "category_score": 41,
+        "score_reason": "추천, 분석 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "추천",
+          "분석"
+        ],
+        "planning_insight": "이 항목은 추천, 분석 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "fe2afabdd6d8f0b6d1688b4d0501465091e56e5bc4bf31d35352bec14a002f35",
+        "title": "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.03982",
+        "published_at": "2026-11-04T14:00:00+09:00",
+        "summary": "arXiv:2611.03982v1 Announce Type: new Abstract: Enterprises increasingly want LLM agents to automate standard operating procedures over their software stacks -- mapping each step of a procedure to the right call among thousands of internal APIs, without hand-authored step-to-API mappings. The core difficulty is API selection at scale: choosing and composing the correct tools over a long horizon, judged only by whether the overall task succeeds. Current tool-use benchmarks do not test this regim…",
+        "category_score": 63,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "benchmark",
+          "API"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "ddf4f833ed69659a575a12ea7f029c922ff98abdd9429fd8a4aa583839701eff",
+        "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00244",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking behavior. We present MEMENTO, a long-context agent bu…",
+        "category_score": 61,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "GPT"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "385b32a031dbb5a24bca9dc307e15b897132776162e4d7b346914aed42fbb3e9",
+        "title": "Rethinking Next-Visit Diagnosis Prediction Beyond Aggregate Metrics: Retrieval--Memory Multi-Agent Adjudication",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.03826",
+        "published_at": "2026-11-04T14:00:00+09:00",
+        "summary": "arXiv:2611.03826v1 Announce Type: new Abstract: Next-visit diagnosis prediction forecasts the diagnoses documented at a patient's next encounter, turning retrospective electronic health records into prospective clinical prediction. However, conventional aggregate evaluation obscures its multifaceted nature: distributionally, models must handle variable-size diagnosis sets and long-tailed labels; temporally, they must distinguish persistent, newly recorded, and recurrent diagnoses; and both vary…",
+        "category_score": 58,
+        "score_reason": "agent, model, retrieval 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "model",
+          "retrieval",
+          "evaluation",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, model, retrieval 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "5cb51286d7347790ffef93b36e33c03d0c602c8bd6f33d01b4788365e3b5bd6f",
+        "title": "Language Model Augmented Decision Transformer for Multi-Task Offline Reinforcement Learning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.04031",
+        "published_at": "2026-11-04T14:00:00+09:00",
+        "summary": "arXiv:2611.04031v1 Announce Type: new Abstract: Offline multi-task reinforcement learning (MTRL) aims to learn a unified policy from heterogeneous offline datasets that generalizes across tasks. However, existing offline MTRL methods often struggle with two fundamental issues: severe per-task data scarcity and limited cross-task generalization. In this paper, we propose Language-Model Augmented Decision Transformer (LaMA-DT), a unified sequence-modeling framework that leverages a single large l…",
+        "category_score": 58,
+        "score_reason": "RAG, model, dataset 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "model",
+          "dataset",
+          "transformer",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 RAG, model, dataset 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "914d2dfc727ed8e475e9e036912e1968b0454821c2ca522b3b2b8b6d2414b203",
+        "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.00172",
+        "published_at": "2026-11-03T14:00:00+09:00",
+        "summary": "arXiv:2611.00172v1 Announce Type: new Abstract: Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by modality: the communities develop largely in isolation, seldom exchanging insights. We argue that this fragmentation obscures a deeper convergence. Driven by contrastive learning, Transformer architectures, and a granularity shift, embedding research a…",
+        "category_score": 58,
+        "score_reason": "RAG, embedding, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "RAG",
+          "embedding",
+          "model",
+          "transformer",
+          "recommendation"
+        ],
+        "planning_insight": "이 항목은 RAG, embedding, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "6e4e55f54374888707844315756a3d47b0169913b8436e46d85b7ca2a7aa7491",
+      "title": "플러스제로, AI 검색 최적화로 알뜰폰 기업 추천율 30%·유입률 29% 견인",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261104113308",
+      "published_at": "2026-11-04T12:01:12+09:00",
+      "summary": "[지디넷코리아]알뜰폰 기업이 별도 광고 집행 없이 생성형 AI 검색 최적화(GEO) 기술을 도입한 결과, AI 추천 비율이 늘어나면서 자연 검색 유입과 실구매 전환율도 크게 증가한 것으로 나타났다.GEO 전문기업 플러스제로는 생성형 AI 최적화 엔진을 알뜰폰 기업에 적용해 AI 검색 추천율 30%, 유입률 29% 증가 성과를 거뒀다고 4일 밝혔다.플러스제로는 데이터 마케팅 전문기업으로, 최근 AI 솔루션을 선보이며 주목받고 있다.회사는 지난 6개월간 알뜰폰사에 보이스 인텔리전스 기반 GEO 마케팅을 적용한 결과, 자연어 검색 유입이 29% 늘고 실구매 전환율도 크게 상승했다고 설명했다. 주요 생성형 AI 관련 질문 톱50 추천 비율도 30% 이상 증가했다.정성진 플러스제로 대표는 \"별도 광고 없이 데이터 분석과 콘텐츠 최적화만으로 6개월 만에 거둔 성과로, GEO가 AI 시대의 핵심 마케팅 도구임을 입증했다\"고 강조했다.성과를 이끈 보이스인텔리전스는 커뮤니티, SNS 리뷰를 분석해…",
+      "category_score": 98,
+      "score_reason": "AI 검색 최적화(GEO)를 통해 실구매 전환율과 유입률을 직접적으로 증명한 사례로, 플랫폼 마케팅의 패러다임이 SEO에서 GEO로 이동하고 있음을 보여주는 핵심 신호입니다.",
+      "keywords": [
+        "AI",
+        "GEO",
+        "마케팅",
+        "커머스"
+      ],
+      "planning_insight": "이 항목은 AI, GEO, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 70,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]알뜰폰 기업이 별도 광고 집행 없이 생성형 AI 검색 최적화(GEO) 기술을 도입한 결과, AI 추천 비율이 늘어나면서 자연 검색 유입과 실구매 전환율도 크게 증가한 것으로 나타났다.GEO 전문기업 플…",
+      "importance_reason": "AI, GEO, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "0b41099933252378ab78079ccba9f67be682b46afe837e83c6732cfc5a01925a",
+      "title": "FE News 26년 11월 소식을 전해드립니다.",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/news/1095957",
+      "published_at": "2026-11-04T10:24:58+09:00",
+      "summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속 MIT 라이선스로 남고 Tailwind 팀이 Shopify의 지원을 받아 유지보수를 이어 가므로, 이미 쓰고 있는 팀이 당장 바꿀 것은 없다. 대신 유료 컴포넌트·템플릿 모음 Tailwind Plus와 에이전트 스킬 모음 ui.sh는 신규 가입을 받지 않으며, Wathan은 사용자와 같은 문제를 겪는 실제 커머스 제품 안에서 프레임워크를 개발하고 싶었다고 배경을 설명한다. ​ ​ ​ Introducing tsrs: a Port of TypeScript to Rust Cloudflare와 VoidZero가 TypeScript 컴파일러를 Rust로 옮기는 tsrs를 Oxc…",
+      "category_score": 54,
+      "score_reason": "UI, 제품, 커머스 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "UI",
+        "제품",
+        "커머스",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 UI, 제품, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 65,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwin…",
+      "importance_reason": "UI, 제품, 커머스 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "385b32a031dbb5a24bca9dc307e15b897132776162e4d7b346914aed42fbb3e9",
+      "title": "Rethinking Next-Visit Diagnosis Prediction Beyond Aggregate Metrics: Retrieval--Memory Multi-Agent Adjudication",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.03826",
+      "published_at": "2026-11-04T14:00:00+09:00",
+      "summary": "arXiv:2611.03826v1 Announce Type: new Abstract: Next-visit diagnosis prediction forecasts the diagnoses documented at a patient's next encounter, turning retrospective electronic health records into prospective clinical prediction. However, conventional aggregate evaluation obscures its multifaceted nature: distributionally, models must handle variable-size diagnosis sets and long-tailed labels; temporally, they must distinguish persistent, newly recorded, and recurrent diagnoses; and both vary…",
+      "category_score": 58,
+      "score_reason": "agent, model, retrieval 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "agent",
+        "model",
+        "retrieval",
+        "evaluation",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 agent, model, retrieval 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.03826v1 Announce Type: new Abstract: Next-visit diagnosis prediction forecasts the diagnoses documented at a…",
+      "importance_reason": "agent, model, retrieval 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "5cb51286d7347790ffef93b36e33c03d0c602c8bd6f33d01b4788365e3b5bd6f",
+      "title": "Language Model Augmented Decision Transformer for Multi-Task Offline Reinforcement Learning",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.04031",
+      "published_at": "2026-11-04T14:00:00+09:00",
+      "summary": "arXiv:2611.04031v1 Announce Type: new Abstract: Offline multi-task reinforcement learning (MTRL) aims to learn a unified policy from heterogeneous offline datasets that generalizes across tasks. However, existing offline MTRL methods often struggle with two fundamental issues: severe per-task data scarcity and limited cross-task generalization. In this paper, we propose Language-Model Augmented Decision Transformer (LaMA-DT), a unified sequence-modeling framework that leverages a single large l…",
+      "category_score": 58,
+      "score_reason": "RAG, model, dataset 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "RAG",
+        "model",
+        "dataset",
+        "transformer",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 RAG, model, dataset 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.04031v1 Announce Type: new Abstract: Offline multi-task reinforcement learning (MTRL) aims to learn a unified…",
+      "importance_reason": "RAG, model, dataset 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "6126c1c2d68022d511e13467be47e3aaf81db5a769fc1e1147947da74d191053",
+      "title": "국내 최초 광고 MCP를 출시하며, 개발자의 역할은 어디까지 넓어졌을까?",
+      "source": "당근 기술블로그",
+      "group": "tech_blog",
+      "category": "community_platform",
+      "url": "https://medium.com/daangn/%EA%B5%AD%EB%82%B4-%EC%B5%9C%EC%B4%88-%EA%B4%91%EA%B3%A0-mcp%EB%A5%BC-%EC%B6%9C%EC%8B%9C%ED%95%98%EB%A9%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EB%84%93%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-8dea7fe41c07",
+      "published_at": "2026-11-03T18:27:47+09:00",
+      "summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이 팀의 경계를 넘어 일하는 이야기였다면, 이번 글은 제가 당근 광고 MCP를 만들며 개발자의 역할을 넓혀 본 이야기 예요. MCP(Model Context Protocol)는 AI 서비스가 외부 서비스의 데이터를 불러올 때 쓰는 표준 연결 방식이에요. 광고주가 Claude 같은 AI 서비스에 “지난주 광고 성과 어땠어?”라고 물으면, AI가 광고 MCP를 거쳐 당근 광고의 계정 정보와 광고 정보, 성과 데이터를 가져와서 답해 줘요. 해외 광고 플랫폼에서는 구글, 메타, 아마존이 이미 MCP를 공개했고, 국내에서는 당근이 처음으로 공식 광고 MCP를 출시했어요. 저는 개발자로 이 프로젝트에 참여하는 줄 알았는데, 하다 보니 로드맵과 PRD부터 출시까지 맡아야 했어요. 이 글…",
+      "category_score": 52,
+      "score_reason": "데이터, 플랫폼, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "데이터",
+        "플랫폼",
+        "AI",
+        "백엔드"
+      ],
+      "planning_insight": "이 항목은 데이터, 플랫폼, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 61,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "안녕하세요. 당근 광고실 광고주플랫폼팀에서 백엔드 엔지니어로 일하는 제이크(Jake)예요. 얼마 전 저희 팀 엔지니어링 매니저 Iltaek이 프론트엔드와 백엔드를 한 팀으로 합친 이야기 를 글로 나눴어요. 그 글이…",
+      "importance_reason": "데이터, 플랫폼, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 89,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 25,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 22,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 17,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 17,
+      "groups": [
+        "ai_data",
+        "tech_blog"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "arXiv cs.CL",
+        "당근 기술블로그"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 커머스, model, GEO, 마케팅 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}
