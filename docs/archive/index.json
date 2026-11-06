@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-06T01:41:24.815635+09:00",
+  "updated_at": "2026-11-06T11:45:01.233236+09:00",
   "archives": [
+    {
+      "id": "2026-11-06_12-35",
+      "date": "2026-11-06",
+      "time": "12:35",
+      "label": "2026-11-06 12:35",
+      "generated_at": "2026-11-06T11:44:30.231620+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
+        "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "유튜브, OTT 콘텐츠 유통에 쇼핑까지...수익 생태계 확장",
+        "worklog-system 주간보고 자동화 구축 경험기",
+        "RAGCompass: Generalizable Retriever Routing via Reranking"
+      ],
+      "path_json": "archive/2026-11-06/12-35.json",
+      "path_md": "archive/2026-11-06/12-35.md"
+    },
     {
       "id": "2026-11-06_01-41",
       "date": "2026-11-06",
