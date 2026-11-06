@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-06T11:45:01.233236+09:00",
+  "updated_at": "2026-11-06T20:20:46.969258+09:00",
   "archives": [
+    {
+      "id": "2026-11-06_20-20",
+      "date": "2026-11-06",
+      "time": "20:20",
+      "label": "2026-11-06 20:20",
+      "generated_at": "2026-11-06T20:20:33.167720+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "UI",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+        "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
+        "유튜브, OTT 콘텐츠 유통에 쇼핑까지...수익 생태계 확장",
+        "RAGCompass: Generalizable Retriever Routing via Reranking",
+        "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles"
+      ],
+      "path_json": "archive/2026-11-06/20-20.json",
+      "path_md": "archive/2026-11-06/20-20.md"
+    },
     {
       "id": "2026-11-06_12-35",
       "date": "2026-11-06",

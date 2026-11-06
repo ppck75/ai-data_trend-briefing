@@ -1,11 +1,11 @@
 {
   "briefing_date": "2026-11-06",
-  "generated_at": "2026-11-06T11:44:30.231620+09:00",
+  "generated_at": "2026-11-06T20:20:33.167720+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 184,
-    "tech_blog": 3,
-    "ai_data": 13
+    "news": 183,
+    "tech_blog": 5,
+    "ai_data": 12
   },
   "category_top5": {
     "news": [
@@ -20,13 +20,13 @@
         "published_at": "2026-11-05T14:25:30+09:00",
         "summary": "[지디넷코리아]유튜브가 숏폼과 롱폼 콘텐츠를 연결하는 데서 나아가 글로벌 온라인동영상서비스(OTT)와의 협력, 쇼핑 기능을 통해 수익 창출 영역을 넓히고 있다. 콘텐츠 시청을 상품 구매로 연결하는 유튜브 쇼핑에서는 한국 시장이 핵심 시장 중 하나로 주목받고 있다.서황욱 구글코리아 유튜브 한국 중화권 총괄은 5일 국제 OTT 포럼에서 “유튜브는 20억명 이용자 기반을 바탕으로 롱폼과 숏폼 등 다양한 콘텐츠를 결합해 강력한 마케팅 기회를 창출하고 있다”고 밝혔다.서 총괄은 글로벌 유튜브 시청 시간의 60%가 TV에서 소비된다는 점을 짚으며, 유튜브가 모바일 중심의 숏폼 플랫폼을 넘어 TV 화면을 아우르는 프리미엄 롱폼 콘텐츠 플랫폼으로 진화하고 있다고 강조했다.유튜브는 콘텐츠 제작자와 방송사의 주요 유통 채널로도 자리 잡고 있다. 크리에이터들이 자체 디지털 스튜디오를 구축해 프리미엄 콘텐츠를 선보이는 가운데, EBS 등 방송사 역시 유튜브를 단순 홍보 수단이 아닌 콘텐츠 유통과 수익…",
         "category_score": 98,
-        "score_reason": "유튜브의 OTT-숏폼-쇼핑 통합 전략은 플랫폼 경제의 핵심 트렌드이자 마케팅 생태계의 거대한 변화 신호임.",
+        "score_reason": "플랫폼(유튜브)이 롱폼/숏폼 콘텐츠와 커머스를 결합하여 수익 생태계를 확장하는 구체적인 시장 변화 신호를 보여줌.",
         "keywords": [
-          "플랫폼",
+          "유튜브",
           "커머스",
-          "콘텐츠"
+          "콘텐츠 생태계"
         ],
-        "planning_insight": "콘텐츠 소비가 곧 구매로 이어지는 풀퍼널(Full-funnel) 쇼핑 경험 설계가 브랜드 마케팅의 필수 전략이 됨."
+        "planning_insight": "단순 시청을 넘어 구매로 이어지는 플랫폼의 '콘텐츠-커머스' 통합 전략은 향후 모든 미디어 기업의 필수 생존 모델이 될 것임."
       },
       {
         "rank": 2,
@@ -39,34 +39,16 @@
         "published_at": "2026-11-05T19:08:32+09:00",
         "summary": "[지디넷코리아]김지훈 SK텔레콤 AI사업본부장이 \"인공지능(AI) 에이전트가 검색을 넘어 예약과 결제를 대신하는 실행형으로 바뀌면서 권한 통제와 신뢰 확보가 사업의 성패를 가를 것\"이라고 진단했다.김 본부장은 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 '실행형 에이전트로의 시대 전환'을 주제로 발제했다. 그는 정부의 '모두의AI' 사업에서 SK텔레콤(SKT, 대표 정재헌) 컨소시엄의 프로젝트 총괄을 맡고 있다.그는 AI 경쟁의 축이 모델 성능에서 경제성, 주권, 실행력으로 옮겨가고 있다고 설명했다. 이를 바라보는 시장에는 낙관론과 비관론이 병존한다고 짚었다. 대규모 투자가 실제 성과와 맞아떨어지는지 아직은 확신할 수 없는 불분명 상태라고 평가했다.그가 분명히 한 건 다른 나라의 AI 플랫폼에 의존하는 게 위험을 부를 수 있다는 점이다. 미국 정부가 앤트로픽 모델에 제재를 가했고, 중국 정부도 10월 최상위 모델의 외부 공개를 허가제로 바꿨다며 외부 모델 의존을 줄…",
         "category_score": 95,
-        "score_reason": "AI 에이전트의 역할이 단순 정보 검색에서 '실행(결제/예약)'으로 진화하는 시점은 소비자 행동 양식의 근본적인 변화를 예고함.",
+        "score_reason": "AI가 단순 검색을 넘어 실제 결제와 실행을 수행하는 '에이전트 AI'로 진화함에 따라 신뢰와 권한 통제가 핵심 화두로 부상함.",
         "keywords": [
           "AI 에이전트",
-          "소비자 행동"
+          "실행형 AI",
+          "결제 보안"
         ],
-        "planning_insight": "AI가 대리하는 소비자 행동에 맞춘 기업의 신뢰성 확보 및 '에이전트 대상 최적화(AO)' 콘텐츠 전략이 필요함."
+        "planning_insight": "AI 에이전트의 상용화는 소비자의 구매 여정(Customer Journey)을 자동화하므로, 이에 최적화된 마케팅 권한 설계와 브랜드 신뢰 확보가 핵심."
       },
       {
         "rank": 3,
-        "id": "998881bcbb560a4b72d2fd9787cd40b25a6f543fcebb2a855e522f13c0c3121d",
-        "title": "\"에이전트 AI 성공하고 싶어 그럼 온톨로지부터 챙겨라\"",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261105194146",
-        "published_at": "2026-11-05T19:52:26+09:00",
-        "summary": "[지디넷코리아]유승재 페르소나AI 대표가 \"기업에 데이터가 없는 게 아니라 데이터 간 관계와 의미가 정의돼 있지 않아 AI 에이전트가 업무를 효율적으로 하지 못하는 것\"이라며 온톨로지가 필수라고 강조했다. 온톨로지는 데이터의 개념과 관계를 체계적으로 정리한 구조다.유 대표는 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 'AI 에이전트 미래변화'를 주제로 발제했다. 그는 인공지능산업협회(KIIA) 부회장이자 포럼 간사다.그는 초자동화 시장이 빠르게 커지고 있다며, 시장조사업체 가트너가 2028년 관련 시장 규모가 약 1644조원까지 성장할 것이란 전망 자료를 언급했다.초자동화를 앞서 구현한 사례로는 팔란티어를 꼽았다. 팔란티어는 에이전트 한 영역이 아니라 데이터 구조화, 지능형 판단, 자율 실행을 하나의 체계로 갖췄다면서, 팔란티어의 현재 기업가치가 473조원, 연 매출은 3년 만에 두 배로 늘어 3조원이 됐다고 소개했다. 시스템통합(SI) 사업을 부정적으로 보는 인…",
-        "category_score": 92,
-        "score_reason": "AI 에이전트의 고도화를 위해 데이터 온톨로지(관계 정의)가 필수적이라는 점은 기업의 콘텐츠 관리 시스템(CMS) 전략에 시사점이 큼.",
-        "keywords": [
-          "AI",
-          "데이터 구조화",
-          "초자동화"
-        ],
-        "planning_insight": "AI가 콘텐츠를 맥락적으로 이해할 수 있도록 데이터 간 의미와 관계를 체계화하는 콘텐츠 온톨로지 구축이 경쟁력임."
-      },
-      {
-        "rank": 4,
         "id": "e9ee29fa5b2b2f4b4312a0b5ca5f44b990e79e1d96dac10b9b3d9c774cd9251c",
         "title": "\"이달 내 소비 습관은\"…앤트로픽, 클로드에 '재무 서비스' 추가",
         "source": "ZDNet Korea",
@@ -75,38 +57,77 @@
         "url": "https://zdnet.co.kr/view/?no=20261106093335",
         "published_at": "2026-11-06T10:09:59+09:00",
         "summary": "[지디넷코리아]앤트로픽이 인공지능(AI) 챗봇 '클로드'에 개인용 지출 분석 기능을 추가해 활용 범위를 넓혔다. 5일(현지시간) 테크크런치에 따르면 앤트로픽은 금융 계정 연동 서비스 '플레이드'를 통해 은행 계좌와 신용카드 계정을 클로드에 연결하는 '개인 재무' 기능을 발표했다. 앤트로픽은 이번 주부터 미국 내 프로·맥스·울트라 요금제 이용자에게 베타 버전을 순차 제공한다.이 기능은 이용자가 연결한 은행 계좌와 신용카드 지출을 합산해 월세와 공과금, 식음료, 쇼핑 등 항목별로 보여준다. 거래 내역을 분석해 중복 결제가 의심되는 항목과 예상치 못한 수수료까지 찾아준다. 이용자는 지출이 수입을 넘어섰는지 확인하거나 지난 1년간 낸 이자를 계산해 달라고 요청할 수도 있다.클로드 조회 범위는 은행 이름과 계정 이름·유형, 계좌번호 끝 네 자리, 잔액, 신용 한도, 최대 2년치 거래 내역이다. 이용자가 연동을 해제하면 클로드는 해당 계정 정보를 더 이상 조회할 수 없다.이용자는 금융 계정…",
-        "category_score": 90,
-        "score_reason": "AI 챗봇 클로드에 재무 서비스가 결합된 것은 생성형 AI가 개인의 일상 재무 관리까지 침투하는 소비자 밀착형 혁신 사례임.",
+        "category_score": 92,
+        "score_reason": "앤트로픽 클로드의 재무 서비스 연동 사례는 AI가 개별 사용자의 라이프스타일 데이터와 밀접하게 결합하는 개인화 서비스로의 확장을 의미함.",
         "keywords": [
-          "AI",
-          "개인화",
-          "금융 서비스"
+          "AI 서비스",
+          "핀테크",
+          "개인화"
         ],
-        "planning_insight": "AI가 사용자의 구매 여정이나 소비 습관 데이터에 직접 접근하는 인터페이스를 고려한 마케팅 포인트 설계 필요."
+        "planning_insight": "AI가 개인의 소비 패턴을 학습하는 '금융 비서' 역할을 수행하게 되면서, 콘텐츠 전략가들은 개인화된 금융 맥락 속에서의 마케팅 접점을 고민해야 함."
       },
       {
-        "rank": 5,
-        "id": "44a6e2b2f1031dd5cdeee92c06702044cc81377329e25847f668a4978fcc6381",
-        "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성",
+        "rank": 4,
+        "id": "998881bcbb560a4b72d2fd9787cd40b25a6f543fcebb2a855e522f13c0c3121d",
+        "title": "\"에이전트 AI 성공하고 싶어 그럼 온톨로지부터 챙겨라\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261106103632",
-        "published_at": "2026-11-06T11:12:43+09:00",
-        "summary": "[지디넷코리아]인공지능(AI)이 다음 세대 AI 개발을 도우면서 기술 발전 속도를 끌어올리고 있다는 연구 결과가 나왔다. 더 강력해진 AI를 연구에 다시 투입하면 개발이 한층 빨라져 위험을 확인하고 대응할 시간이 줄어들 수 있다는 우려도 제기됐다.비영리 AI 평가기관 METR은 5일(현지시간) 앤트로픽 내부 자료를 분석한 보고서에서 지난해 10월 이후 모델 성능 개선 속도가 이전보다 1.9배 빨라졌다고 밝혔다. 연구진은 코드 작성과 실험에 AI를 활용한 점을 주요 배경으로 꼽았다.METR은 지난 8월부터 10월까지 약 11주 동안 공개되지 않은 모델 성능 자료와 내부 연구 문서를 검토하고 직원들을 인터뷰했다. 이를 바탕으로 모델 성능이 얼마나 빠르게 향상됐고 연구 과정에서 AI가 어떤 역할을 맡았는지 등을 조사했다.METR은 수학과 코딩 등 여러 성능 시험 점수를 비교해 모델 성능이 얼마나 빠르게 향상됐는지 분석했다. 그 결과 과거 약 2년이 걸렸던 수준의 성능 향상을 최근에는 약…",
-        "category_score": 88,
-        "score_reason": "AI가 다시 AI를 개발하는 '자기 증식적 기술 발전'은 콘텐츠 제작 환경의 자동화 가속을 의미함.",
+        "url": "https://zdnet.co.kr/view/?no=20261105194146",
+        "published_at": "2026-11-05T19:52:26+09:00",
+        "summary": "[지디넷코리아]유승재 페르소나AI 대표가 \"기업에 데이터가 없는 게 아니라 데이터 간 관계와 의미가 정의돼 있지 않아 AI 에이전트가 업무를 효율적으로 하지 못하는 것\"이라며 온톨로지가 필수라고 강조했다. 온톨로지는 데이터의 개념과 관계를 체계적으로 정리한 구조다.유 대표는 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 'AI 에이전트 미래변화'를 주제로 발제했다. 그는 인공지능산업협회(KIIA) 부회장이자 포럼 간사다.그는 초자동화 시장이 빠르게 커지고 있다며, 시장조사업체 가트너가 2028년 관련 시장 규모가 약 1644조원까지 성장할 것이란 전망 자료를 언급했다.초자동화를 앞서 구현한 사례로는 팔란티어를 꼽았다. 팔란티어는 에이전트 한 영역이 아니라 데이터 구조화, 지능형 판단, 자율 실행을 하나의 체계로 갖췄다면서, 팔란티어의 현재 기업가치가 473조원, 연 매출은 3년 만에 두 배로 늘어 3조원이 됐다고 소개했다. 시스템통합(SI) 사업을 부정적으로 보는 인…",
+        "category_score": 89,
+        "score_reason": "AI 에이전트 성능의 핵심이 단순 모델 파라미터가 아닌, 데이터의 맥락을 연결하는 '온톨로지'에 있다는 본질적 트렌드를 짚음.",
         "keywords": [
-          "AI",
-          "기술 발전",
-          "자동화"
+          "AI 온톨로지",
+          "초자동화",
+          "데이터 구조화"
         ],
-        "planning_insight": "AI 도구의 고도화에 맞춰 단순 제작 시간을 단축하고 기획 및 전략적 가치 창출에 집중하는 프로세스 전환 시급."
+        "planning_insight": "기업 내부 데이터를 AI가 이해할 수 있는 관계형 체계로 정립하는 것이 AI 콘텐츠 성과의 승패를 좌우하는 차별화 포인트가 될 것임."
+      },
+      {
+        "rank": 5,
+        "id": "4572fb1a5d3d0c867567b68a7eff7f7fcbcdf2259f6622290acd53d9ffb164cc",
+        "title": "안찬토, 스탠리블랙앤데커와 파트너십 확대하며 국내 최초 공구 옴니채널 쇼핑 경험 구현",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261106181055",
+        "published_at": "2026-11-06T18:10:55+09:00",
+        "summary": "[지디넷코리아]안찬토의 주문 관리 시스템(Order Management System, OMS)이 판매 채널, 배송업체, 기업용 시스템과의 연동 범위를 확대해 글로벌 공구 제조업체의 한국 내 온·오프라인 판매를 하나의 시스템으로 통합한다. 스탠리블랙앤데커가 안찬토 OMS 활용을 확대해 한국 내 온·오프라인 공구 쇼핑을 연결했다. 고객은 온라인으로 구매한 제품을 체험센터에서 수령하고, 구매한 공구의 사용법도 교육받을 수 있다. 스탠리블랙앤데커는 자사 온라인 스토어와 체험센터에서만 구매할 수 있는 전동공구, 수공구, 액세서리 제품군을 선보일 계획이다. 서울, 한국, 2026년 11월 6일 /PRNewswire/ -- 세계 최대 공구 기업 스탠리블랙앤데커(Stanley Black & Decker, NYSE: SWK)가 안찬토(Anchanto)와의 파트너십을 한 단계 발전시키며 안찬토의 주문 관리 시스템을 활용한 국내 공구 업계 최초의 옴니채널 플랫폼을 출시했다. Anchanto Expan…",
+        "category_score": 85,
+        "score_reason": "온·오프라인 경계를 허무는 옴니채널 쇼핑 경험이 구체적인 기업(스탠리블랙앤데커) 사례로 입증되어 반복 가능성이 높은 트렌드임.",
+        "keywords": [
+          "옴니채널",
+          "커머스",
+          "경험 최적화"
+        ],
+        "planning_insight": "온라인 구매 후 오프라인 체험으로 이어지는 설계는 소비자 접점을 다각화하여 브랜드 충성도를 높이는 효과적인 전략임."
       }
     ],
     "tech_blog": [
       {
         "rank": 1,
+        "id": "2041c1194503a5bfa8ed239c1b07b8bc66c522d0bdd605ed6a5ca002b7d57548",
+        "title": "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/846",
+        "published_at": "2026-11-06T00:00:00+09:00",
+        "summary": "안녕하세요, 카카오 Applied AI Model팀의 Shawn(정성효), Michael(이주영)입니다. 고객 문의를 분류하고, 상품 사진을 확인하고, 에이전트가 다음 작업에 사용할 도구를 고르는 일. 서비스에는 긴 답변보다 명확한 판단이 필요한 순간이 많습니다. 특히 AI 에이전트는 하나의 요청을 처리하는 동안 이러한 판단을 여러 차례 반복합니다. Agentic AI 시대에 각 단계에서 필요한 판단 결과를 빠르게 얻고, 이를 서비스의 다음 동작으로 ...",
+        "category_score": 98,
+        "score_reason": "AI 에이전트의 의사결정 프로세스를 서비스와 직접 연결하고, 멀티모달 데이터 활용 및 도구 선택이라는 구체적인 서비스 설계 인사이트를 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "멀티모달",
+          "의사결정",
+          "서비스 자동화"
+        ],
+        "planning_insight": "AI의 기술적 우수성보다 '서비스의 다음 동작(Next Action)'을 결정하는 워크플로우 설계가 핵심임을 강조함."
+      },
+      {
+        "rank": 2,
         "id": "f617b244a2ecea955c40e60aeccf3d5c63b68bb9b16ea63401ca4e1650071286",
         "title": "worklog-system 주간보고 자동화 구축 경험기",
         "source": "네이버 D2",
@@ -116,17 +137,57 @@
         "published_at": "2026-11-05T13:50:54+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며 부딪힌 세 가지 문제를 차례로 다룹니다. 기억이 아니라 기록에서 주간보고를 모으는 방법 재택과 사무실을 오가며 여러 기기와 VPN 환경에서 기록을 빠짐없이 모으는 구조 주간보고 화면에 노트·TODO·일정을 더해 업무 도구로 키우면서 중앙 서버 없이 해결한 과정 ​ <참고> 영상속 사내용어 OSS = 네이버 사내 GitHub Enterprise 인스턴스 ​ 발표 대상 주간보고를 쓰는 모든 직군 반복되는 업무 기록과 보고를 자동화하고 싶은 분 AI 도구와 사내 협업 도구(Slack, Jira, Co…",
         "category_score": 92,
-        "score_reason": "업무 효율화를 위한 도구 구축 과정에서 데이터 기록의 파편화 문제를 해결하고, 단순 기록을 넘어 '업무 도구'로 확장하는 기획적 고민이 잘 드러나 있음. 서비스 구조 설계와 사용자 경험 최적화 사례로 매우 적합함.",
+        "score_reason": "데이터 수집, 업무 기록의 자동화, 사용자 도구로의 확장 등 내부 운영 효율성을 서비스 제품으로 고도화하는 과정을 상세히 다룸.",
         "keywords": [
           "업무 자동화",
           "데이터 통합",
-          "서비스 기획",
-          "생산성 도구"
+          "운영 전략",
+          " productivity"
         ],
-        "planning_insight": "분산된 사용자 활동 데이터를 중앙화하고, 사용자가 입력한 데이터를 바탕으로 가치를 창출(주간보고 자동화)하는 서비스 설계 로직을 벤치마킹할 수 있음."
+        "planning_insight": "개인화된 기록 데이터를 정형화된 보고서로 변환하는 '데이터 가공의 파이프라인'을 서비스 기획에 적용 가능."
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": "38549be5c53a408fa8d34302e90976dab9e3f564fc2bd0e7d033d56d759a4652",
+        "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/0627744",
+        "published_at": "2026-11-06T11:04:33+09:00",
+        "summary": "\"어느 한 프레임워크가 독보적인 위치를 차지하지 않는 상태는 많은 이들에게 희망과 고통을 동시에 안겨준다.\" 2020년 글 은 이 문장으로 시작했습니다. 6년이 지난 지금, 이 문장은 절반만 맞습니다. 사용률로 보면 React는 독보적인 위치를 굳혔고, 고민은 '어떤 프레임워크를 고를까'에서 'React 위에서 어떤 메타 프레임워크와 빌드 도구를 고를까', 그리고 'AI 도구가 기본값으로 고르는 스택을 그대로 받아들일까'로 옮겨 갔습니다. 여기서 메타 프레임워크는 UI 라이브러리 위에 라우팅, 서버 렌더링(SSR), 빌드 구성을 더한 프레임워크(Next.js, Nuxt 등)를 가리킵니다. 2020년 글은 라이브러리와 프레임워크를 React, Angular 편 과 Vue.js, Svelte, Stimulus 편 으로 나누었지만, 이번에는 한 글로 묶었습니다. 개별 프레임워크의 기능보다 프레임워크 사이에서 함께 일어난 변화(Signals로의 수렴, 서버로의 회귀, Rust 기반 빌드…",
+        "category_score": 85,
+        "score_reason": "AI 도구가 개발 스택의 기본값이 되는 생태계 변화를 분석하여, 플랫폼의 기술 스택 전략과 선택 기준에 대한 구조적 인사이트를 제공함.",
+        "keywords": [
+          "기술 스택",
+          "메타 프레임워크",
+          "AI 도구",
+          "플랫폼 전략"
+        ],
+        "planning_insight": "기술의 선택이 단순히 효율성을 넘어 AI가 제안하는 가이드를 수용할 것인가에 대한 전략적 의사결정을 포함해야 함."
+      },
+      {
+        "rank": 4,
+        "id": "32dfa7917a656661cf538ba5f57d25acbdaad908c3541d72eed013e8381daa15",
+        "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1443473",
+        "published_at": "2026-11-05T11:17:06+09:00",
+        "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub Package Registry 같은 도전자가 등장했다고 전했습니다. 7년이 지난 지금 Node.js는 연 1회 릴리스로 일정을 바꾸기로 했습니다. Node.js 호환을 목표로 삼게 된 Deno와 Bun은 각각 Cloudflare와 Anthropic에 합류했고, npm은 GitHub의 일부가 되어 공급망 공격과 싸우고 있습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와…",
+        "category_score": 78,
+        "score_reason": "Node.js, Deno, Bun 등 플랫폼 환경의 변화와 경쟁 양상을 보여주며, 인프라의 표준화와 플랫폼 운영의 지속 가능성을 다룸.",
+        "keywords": [
+          "런타임",
+          "플랫폼 경쟁",
+          "생태계",
+          "지속가능성"
+        ],
+        "planning_insight": "특정 플랫폼의 의존성을 줄이고 범용적인 서비스 운영을 위한 기술 선택 전략 수립에 도움을 줌."
+      },
+      {
+        "rank": 5,
         "id": "f5fd4eadc8de9006c8525a8c18a1d2ab2704cbf062fd915598a28374ba7774db",
         "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
         "source": "네이버 D2",
@@ -136,77 +197,19 @@
         "published_at": "2026-11-05T10:42:15+09:00",
         "summary": "2020년 글 은 W3C 권고(1.0) 직후의 WebAssembly(이하 'wasm')를 다뤘습니다. '미래 버전에 포함될 작업'으로 스레드, SIMD(single instruction, multiple data), 참조 타입, 꼬리 호출, ESM(ECMAScript modules) 통합을 소개했고, Bytecode Alliance와 WASI(WebAssembly System Interface)가 그리는 브라우저 밖의 그림을 살펴봤습니다. 그리고 \"아직까지 실서비스에서의 활발한 사용이 눈에 띄지는 않는다\"라는 말과 함께, Sass가 wasm으로 플랫폼별 빌드 문제를 풀 수 있을지 모른다는 기대로 글을 맺었습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와 프레임워크 이 글에서는 2020년 글 이후 6년을 이어서 정리합니다. 2020년에 예고했던 기…",
         "category_score": 75,
-        "score_reason": "기술 트렌드 분석이지만, 웹 환경에서 고성능 플랫폼을 구축하려는 전략적 접근이 포함됨. 특히 빌드 문제 해결을 통한 플랫폼 효율화 측면에서 기획자에게 시사하는 바가 있음.",
+        "score_reason": "WebAssembly를 통한 서비스 최적화 가능성을 다룸. UX 성능 향상을 위한 데이터 처리 방식의 변화를 보여줌.",
         "keywords": [
           "WebAssembly",
-          "플랫폼",
-          "기술 트렌드",
-          "성능 최적화"
+          "성능 최적화",
+          "사용자 경험",
+          "기술적 진화"
         ],
-        "planning_insight": "차세대 웹 환경에서 플랫폼의 복잡성을 낮추기 위해 어떤 기술적 선택을 해야 하는지, 서비스 확장 가능성 관점에서 의사결정 참고 가능."
-      },
-      {
-        "rank": 3,
-        "id": "32dfa7917a656661cf538ba5f57d25acbdaad908c3541d72eed013e8381daa15",
-        "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
-        "source": "네이버 D2",
-        "group": "tech_blog",
-        "category": "search_ai",
-        "url": "https://d2.naver.com/helloworld/1443473",
-        "published_at": "2026-11-05T11:17:06+09:00",
-        "summary": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 상황에 맞서 Entropic, Open-Registry, GitHub Package Registry 같은 도전자가 등장했다고 전했습니다. 7년이 지난 지금 Node.js는 연 1회 릴리스로 일정을 바꾸기로 했습니다. Node.js 호환을 목표로 삼게 된 Deno와 Bun은 각각 Cloudflare와 Anthropic에 합류했고, npm은 GitHub의 일부가 되어 공급망 공격과 싸우고 있습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와…",
-        "category_score": 72,
-        "score_reason": "자바스크립트 생태계 변화를 통해 플랫폼 운영 방식의 전환을 보여줌. 패키지 관리자와 런타임 경쟁을 통해 본 플랫폼 지속가능성과 표준화 전략을 읽을 수 있음.",
-        "keywords": [
-          "JavaScript",
-          "플랫폼 전략",
-          "생태계",
-          "기술 운영"
-        ],
-        "planning_insight": "특정 플랫폼이나 도구가 시장에서 어떻게 변화하고 대응하는지를 보며, 제품의 기술 스택을 결정할 때 범용성과 호환성을 우선하는 전략의 중요성 확인."
+        "planning_insight": "브라우저 성능 한계를 넘는 서비스 구현 시, 클라이언트 사이드 데이터 처리 효율화 전략 참고 가능."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "fcaa616ce2a7af112878584e10eb6253b85ac6047550fe21bb4a8ed751ce5591",
-        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-        "published_at": "2026-11-05T02:50:10+09:00",
-        "summary": "",
-        "category_score": 98,
-        "score_reason": "비정형 문서 데이터를 정형 데이터(JSON)로 즉각 변환하는 파이프라인은 콘텐츠 자동화 및 데이터 전처리 효율성을 극대화하는 핵심 기술입니다.",
-        "keywords": [
-          "문서 자동화",
-          "데이터 추출",
-          "워크플로우 최적화"
-        ],
-        "planning_insight": "비정형 데이터의 데이터베이스화 과정을 자동화하여 콘텐츠 개인화 및 분석의 기반 인프라로 활용 가능합니다."
-      },
-      {
-        "rank": 2,
-        "id": "628d7cc02c503139ce6368c2581c1d9ffeab593ed45f4e91c71aaedd2d32fead",
-        "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "published_at": "2026-11-06T04:35:16+09:00",
-        "summary": "",
-        "category_score": 95,
-        "score_reason": "멀티모달 환경에서의 실시간 월드 시뮬레이션은 차세대 인터랙티브 콘텐츠 기획에 있어 새로운 패러다임을 제시하는 오픈 소스 모델입니다.",
-        "keywords": [
-          "멀티모달",
-          "시뮬레이션",
-          "오픈 소스"
-        ],
-        "planning_insight": "몰입형 콘텐츠 경험을 설계할 때 단순 텍스트/이미지를 넘어 인터랙티브 환경을 구축하는 전략적 도구로 활용할 수 있습니다."
-      },
-      {
-        "rank": 3,
         "id": "67c61221e69cfde0891b88b975cd41e7880ad156910a5924f2039725b377652f",
         "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
         "source": "arXiv cs.CL",
@@ -215,36 +218,17 @@
         "url": "https://arxiv.org/abs/2611.05596",
         "published_at": "2026-11-05T14:00:00+09:00",
         "summary": "arXiv:2611.05596v1 Announce Type: new Abstract: Different retrievers exist for retrieval-augmented generation, yet none performs best for all queries. Therefore, the key question is: given a query and retrieved passages from different retrievers, which one is most suited for that query? Existing routers usually make predictions from query-specific features and a fixed pool of retrievers; such routers have no output for an unseen retriever and are incapable by design on a new corpus. To fill the…",
-        "category_score": 92,
-        "score_reason": "RAG 시스템의 성능을 결정짓는 핵심 요소인 검색기 라우팅을 다루며, 질의 의도에 최적화된 정보 추출을 가능하게 합니다.",
+        "category_score": 98,
+        "score_reason": "RAG의 핵심 병목인 검색 성능을 최적화하기 위한 '라우팅 및 리랭킹' 기술은 엔터프라이즈 AI 구현 시 필수적인 요소로, 실무 활용도가 매우 높음.",
         "keywords": [
           "RAG",
           "검색 최적화",
-          "LLM 성능 개선"
+          "데이터 파이프라인"
         ],
-        "planning_insight": "고도화된 RAG 시스템 기획 시 검색 성능을 보장하고 사용자 질문에 대한 정확도를 높이는 엔진 고도화 전략을 수립할 수 있습니다."
+        "planning_insight": "여러 검색 엔진을 사용하는 복잡한 RAG 시스템에서 효율적인 라우팅 설계를 통해 응답 정확도를 높이는 전략 수립 가능."
       },
       {
-        "rank": 4,
-        "id": "c9090fee6fc5c6c9f2fc0cdc1855829e761a4c95adb843ec46ad86bede953464",
-        "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.05382",
-        "published_at": "2026-11-05T14:00:00+09:00",
-        "summary": "arXiv:2611.05382v1 Announce Type: new Abstract: Misinformation spreads faster than professional fact-checkers can manually verify it and write articles explaining their verdicts. This creates a need to automate the production of fact-checking articles. This paper details work done by the DS@GT ARC team for CLEF 2026 CheckThat! Lab Task 3 Fact-Checking Article Generation. We seek to generate a full fact-checking article from a claim, its original verdict, and a set of scraped source documents. O…",
-        "category_score": 89,
-        "score_reason": "팩트체크 기사 자동 생성 파이프라인은 신뢰성 있는 콘텐츠를 대량 생산하는 에이전트 시스템 구축에 직접적인 모델을 제공합니다.",
-        "keywords": [
-          "자동 생성",
-          "팩트체크",
-          "콘텐츠 파이프라인"
-        ],
-        "planning_insight": "정보 신뢰도가 중요한 뉴스레터나 미디어 플랫폼에서 AI 기반 자동 리포팅 시스템을 기획하는 데 핵심적인 참고 사례입니다."
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "id": "51550e3a00320a9fcc77372a1839e1d970259fee28e5a12b19aed03f7b2cd346",
         "title": "AI-Driven SaaS Platform Integration: AI Express for Unified Generative AI Services with Pay-As-You-Go Credit Systems and Scalable Microservice Architecture",
         "source": "arXiv cs.CL",
@@ -253,36 +237,93 @@
         "url": "https://arxiv.org/abs/2611.05389",
         "published_at": "2026-11-05T14:00:00+09:00",
         "summary": "arXiv:2611.05389v1 Announce Type: new Abstract: Generative AI is currently fragmented, with separate subscriptions required for text generation, image synthesis, and code assistance, leading to high costs and workflow disruptions. AI Express is a SaaS platform that consolidates these capabilities into a unified pay-as-you-go service. The platform provides a range of AI tools, including a Core Code Reviewer that evaluates GitHub repositories, a Text-to-Website generator that converts text into f…",
-        "category_score": 85,
-        "score_reason": "파편화된 AI 서비스들을 통합하는 마이크로서비스 아키텍처는 콘텐츠 제작 워크플로우를 통합 관리하고자 하는 기획자에게 필수적인 설계 방향입니다.",
+        "category_score": 95,
+        "score_reason": "콘텐츠 제작(텍스트, 이미지, 코드) 서비스를 통합 관리하는 아키텍처는 효율적인 콘텐츠 생산 환경 구축을 고민하는 기획자에게 즉각적인 인사이트를 제공함.",
         "keywords": [
-          "SaaS 통합",
-          "워크플로우",
-          "마이크로서비스"
+          "Generative AI",
+          "SaaS",
+          "워크플로우 자동화"
         ],
-        "planning_insight": "여러 AI 툴을 복합적으로 사용하는 콘텐츠 운영 환경에서 운영 비용을 최적화하고 공정을 자동화하는 전략 설계가 가능합니다."
+        "planning_insight": "파편화된 AI 툴을 단일 파이프라인으로 통합하여 콘텐츠 제작 비용을 절감하고 운영 효율을 극대화하는 아키텍처 모델로 활용."
+      },
+      {
+        "rank": 3,
+        "id": "c9090fee6fc5c6c9f2fc0cdc1855829e761a4c95adb843ec46ad86bede953464",
+        "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05382",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05382v1 Announce Type: new Abstract: Misinformation spreads faster than professional fact-checkers can manually verify it and write articles explaining their verdicts. This creates a need to automate the production of fact-checking articles. This paper details work done by the DS@GT ARC team for CLEF 2026 CheckThat! Lab Task 3 Fact-Checking Article Generation. We seek to generate a full fact-checking article from a claim, its original verdict, and a set of scraped source documents. O…",
+        "category_score": 92,
+        "score_reason": "미정보 자동 검증 및 팩트체크 기사 생성 파이프라인은 신뢰성 있는 AI 콘텐츠 생산의 핵심 사례로, 자동화된 검수 프로세스 구축의 토대가 됨.",
+        "keywords": [
+          "자동화",
+          "콘텐츠 생산",
+          "신뢰성 검증"
+        ],
+        "planning_insight": "기계적 생성 콘텐츠의 사실 관계 확인 단계를 자동화 프로세스에 통합하여 AI 콘텐츠의 신뢰도와 품질을 보장하는 전략 마련."
+      },
+      {
+        "rank": 4,
+        "id": "560985c98c5440490c8ef8b12b4b456919f079f88e68174e1202e6679c14f1a7",
+        "title": "When to Ask, When to Answer: Strategic Clarification for Ambiguous Reference Resolution in Dialogue",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05517",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05517v1 Announce Type: new Abstract: For humans, referential disambiguation is a collaborative process involving clarification questions asked when they will meaningfully change the outcome. However, large language models (LLMs) have been shown to be biased toward premature answering, preferring definite single-turn responses over more clarification exchanges. In this paper, we study the problem of \"strategic clarification\" -- asking clarification questions in a reference game when t…",
+        "category_score": 89,
+        "score_reason": "LLM의 성급한 답변 오류를 방지하고 사용자와 상호작용하며 명확화하는 전략은 고도화된 대화형 AI 서비스 및 에이전트 기획에 필수적임.",
+        "keywords": [
+          "LLM",
+          "에이전트",
+          "사용자 경험"
+        ],
+        "planning_insight": "단순 답변 생성을 넘어 대화의 맥락을 파악하고 필요 시 질문을 던지는 에이전트 인터페이스 설계를 통해 사용자 참여 경험 개선."
+      },
+      {
+        "rank": 5,
+        "id": "78996efed1b19d44039e3228b9f5eea5118beddc0bedd7eda67fc9aa8ca57982",
+        "title": "Rewrite, Then Veto: Rewriter-Agnostic Edit Gating for LLM-Based Post-OCR Correction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.05539",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "summary": "arXiv:2611.05539v1 Announce Type: new Abstract: LLMs can repair noisy OCR transcripts of historical documents, but they also change text that was already correct. We propose EditVeto, a veto gate placed after a full-context LLM rewrite. The rewrite is character-aligned to the OCR input, its differences are split into blocks, and a 0.6B-parameter gate keeps or reverts each block. An oracle analysis motivates the design: given the true error locations, per-span generation is worse than no correct…",
+        "category_score": 86,
+        "score_reason": "LLM의 과도한 수정을 제어하는 'EditVeto' 메커니즘은 생성형 AI를 활용한 기존 데이터 보정(Post-OCR 등) 업무의 안정성을 높이는 기술임.",
+        "keywords": [
+          "LLM",
+          "데이터 보정",
+          "품질 관리"
+        ],
+        "planning_insight": "기존 데이터나 레거시 콘텐츠를 AI로 대량 수정할 때 원본의 무결성을 유지하면서 효율적으로 업데이트하는 안전 장치 도입."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "6f32aec266907a05ccbb0d703908ea86f903e75c45f7fbf2319dbb83bc1dc01b",
-      "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261105190832",
-      "published_at": "2026-11-05T19:08:32+09:00",
-      "summary": "[지디넷코리아]김지훈 SK텔레콤 AI사업본부장이 \"인공지능(AI) 에이전트가 검색을 넘어 예약과 결제를 대신하는 실행형으로 바뀌면서 권한 통제와 신뢰 확보가 사업의 성패를 가를 것\"이라고 진단했다.김 본부장은 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 '실행형 에이전트로의 시대 전환'을 주제로 발제했다. 그는 정부의 '모두의AI' 사업에서 SK텔레콤(SKT, 대표 정재헌) 컨소시엄의 프로젝트 총괄을 맡고 있다.그는 AI 경쟁의 축이 모델 성능에서 경제성, 주권, 실행력으로 옮겨가고 있다고 설명했다. 이를 바라보는 시장에는 낙관론과 비관론이 병존한다고 짚었다. 대규모 투자가 실제 성과와 맞아떨어지는지 아직은 확신할 수 없는 불분명 상태라고 평가했다.그가 분명히 한 건 다른 나라의 AI 플랫폼에 의존하는 게 위험을 부를 수 있다는 점이다. 미국 정부가 앤트로픽 모델에 제재를 가했고, 중국 정부도 10월 최상위 모델의 외부 공개를 허가제로 바꿨다며 외부 모델 의존을 줄…",
-      "category_score": 95,
-      "score_reason": "AI 에이전트의 역할이 단순 정보 검색에서 '실행(결제/예약)'으로 진화하는 시점은 소비자 행동 양식의 근본적인 변화를 예고함.",
+      "id": "2041c1194503a5bfa8ed239c1b07b8bc66c522d0bdd605ed6a5ca002b7d57548",
+      "title": "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/846",
+      "published_at": "2026-11-06T00:00:00+09:00",
+      "summary": "안녕하세요, 카카오 Applied AI Model팀의 Shawn(정성효), Michael(이주영)입니다. 고객 문의를 분류하고, 상품 사진을 확인하고, 에이전트가 다음 작업에 사용할 도구를 고르는 일. 서비스에는 긴 답변보다 명확한 판단이 필요한 순간이 많습니다. 특히 AI 에이전트는 하나의 요청을 처리하는 동안 이러한 판단을 여러 차례 반복합니다. Agentic AI 시대에 각 단계에서 필요한 판단 결과를 빠르게 얻고, 이를 서비스의 다음 동작으로 ...",
+      "category_score": 98,
+      "score_reason": "AI 에이전트의 의사결정 프로세스를 서비스와 직접 연결하고, 멀티모달 데이터 활용 및 도구 선택이라는 구체적인 서비스 설계 인사이트를 제공함.",
       "keywords": [
         "AI 에이전트",
-        "실행형 AI",
-        "소비자 행동"
+        "멀티모달",
+        "의사결정"
       ],
-      "planning_insight": "AI가 대신 의사결정을 내리는 시나리오에 대비하여, 브랜드 정보를 AI가 쉽게 인식하고 선택할 수 있도록 하는 데이터 구조화 및 신뢰성 확보 전략이 필수적임.",
+      "planning_insight": "AI 에이전트 기획 시, 단순 텍스트 생성이 아닌 서비스 내 도구 사용(Tool Use)과 단계별 판단 워크플로우를 설계하는 데 활용 가능.",
       "integrated_score": 98,
       "criteria_scores": {
         "content_strategy": 25,
@@ -293,43 +334,44 @@
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "검색을 넘어 직접 결제·예약까지 수행하는 '실행형 AI 에이전트' 시대로의 전환",
-      "importance_reason": "AI의 역할이 정보 제공에서 실질적인 경제 활동 수행으로 확장됨에 따라, 기업은 '에이전트 대상 최적화(AO)'라는 새로운 마케팅 대응 체계를 마련해야 함."
+      "one_line_summary": "카카오의 AI 에이전트용 멀티모달 의사결정 모델 공개로 보는 '실행형 AI' 서비스 설계의 핵심",
+      "importance_reason": "AI의 답변 생성보다 서비스의 '다음 단계'를 결정하는 의사결정 로직이 사용자 경험의 핵심으로 부상함."
     },
     {
       "rank": 2,
-      "id": "fcaa616ce2a7af112878584e10eb6253b85ac6047550fe21bb4a8ed751ce5591",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "published_at": "2026-11-05T02:50:10+09:00",
-      "summary": "",
-      "category_score": 98,
-      "score_reason": "비정형 문서 데이터를 정형 데이터(JSON)로 즉각 변환하는 파이프라인은 콘텐츠 자동화 및 데이터 전처리 효율성을 극대화하는 핵심 기술입니다.",
+      "id": "6f32aec266907a05ccbb0d703908ea86f903e75c45f7fbf2319dbb83bc1dc01b",
+      "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261105190832",
+      "published_at": "2026-11-05T19:08:32+09:00",
+      "summary": "[지디넷코리아]김지훈 SK텔레콤 AI사업본부장이 \"인공지능(AI) 에이전트가 검색을 넘어 예약과 결제를 대신하는 실행형으로 바뀌면서 권한 통제와 신뢰 확보가 사업의 성패를 가를 것\"이라고 진단했다.김 본부장은 5일 국회의원회관에서 열린 '미래기술전략포럼' 3차 포럼에서 '실행형 에이전트로의 시대 전환'을 주제로 발제했다. 그는 정부의 '모두의AI' 사업에서 SK텔레콤(SKT, 대표 정재헌) 컨소시엄의 프로젝트 총괄을 맡고 있다.그는 AI 경쟁의 축이 모델 성능에서 경제성, 주권, 실행력으로 옮겨가고 있다고 설명했다. 이를 바라보는 시장에는 낙관론과 비관론이 병존한다고 짚었다. 대규모 투자가 실제 성과와 맞아떨어지는지 아직은 확신할 수 없는 불분명 상태라고 평가했다.그가 분명히 한 건 다른 나라의 AI 플랫폼에 의존하는 게 위험을 부를 수 있다는 점이다. 미국 정부가 앤트로픽 모델에 제재를 가했고, 중국 정부도 10월 최상위 모델의 외부 공개를 허가제로 바꿨다며 외부 모델 의존을 줄…",
+      "category_score": 95,
+      "score_reason": "AI가 단순 검색을 넘어 실제 결제와 실행을 수행하는 '에이전트 AI'로 진화함에 따라 신뢰와 권한 통제가 핵심 화두로 부상함.",
       "keywords": [
-        "문서 자동화",
-        "JSON 변환",
-        "데이터 전처리"
+        "AI 에이전트",
+        "결제 보안",
+        "실행형 AI"
       ],
-      "planning_insight": "사내 파편화된 문서를 정형 데이터로 변환하여 추천 알고리즘이나 개인화 엔진의 학습 데이터로 즉시 투입하는 콘텐츠 자동화 파이프라인 구축 가능.",
+      "planning_insight": "에이전트가 직접 결제하는 환경에서 브랜드는 소비자 신뢰를 어떻게 확보할 것인지, 마케팅 권한 설계 전략이 필수적임.",
       "integrated_score": 96,
       "criteria_scores": {
         "content_strategy": 24,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 24
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
-        "AI·데이터 관련성",
         "콘텐츠 전략 활용성",
-        "시장·소비자 영향력"
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
       ],
-      "one_line_summary": "비정형 문서 데이터를 즉각적인 구조화 데이터(JSON)로 변환하는 AI 파이프라인의 등장",
-      "importance_reason": "콘텐츠 제작의 가장 큰 병목인 '비정형 데이터 활용' 문제를 해결하는 기술로, 대규모 콘텐츠 라이브러리를 효율적으로 관리하는 기점임."
+      "one_line_summary": "검색을 넘어 결제까지 대행하는 '실행형 AI' 시대의 도래와 권한 통제의 중요성",
+      "importance_reason": "사용자의 구매 여정(Customer Journey)이 AI 에이전트로 이동함에 따라 브랜드 마케팅의 접점이 근본적으로 변화함."
     },
     {
       "rank": 3,
@@ -342,13 +384,13 @@
       "published_at": "2026-11-05T14:25:30+09:00",
       "summary": "[지디넷코리아]유튜브가 숏폼과 롱폼 콘텐츠를 연결하는 데서 나아가 글로벌 온라인동영상서비스(OTT)와의 협력, 쇼핑 기능을 통해 수익 창출 영역을 넓히고 있다. 콘텐츠 시청을 상품 구매로 연결하는 유튜브 쇼핑에서는 한국 시장이 핵심 시장 중 하나로 주목받고 있다.서황욱 구글코리아 유튜브 한국 중화권 총괄은 5일 국제 OTT 포럼에서 “유튜브는 20억명 이용자 기반을 바탕으로 롱폼과 숏폼 등 다양한 콘텐츠를 결합해 강력한 마케팅 기회를 창출하고 있다”고 밝혔다.서 총괄은 글로벌 유튜브 시청 시간의 60%가 TV에서 소비된다는 점을 짚으며, 유튜브가 모바일 중심의 숏폼 플랫폼을 넘어 TV 화면을 아우르는 프리미엄 롱폼 콘텐츠 플랫폼으로 진화하고 있다고 강조했다.유튜브는 콘텐츠 제작자와 방송사의 주요 유통 채널로도 자리 잡고 있다. 크리에이터들이 자체 디지털 스튜디오를 구축해 프리미엄 콘텐츠를 선보이는 가운데, EBS 등 방송사 역시 유튜브를 단순 홍보 수단이 아닌 콘텐츠 유통과 수익…",
       "category_score": 98,
-      "score_reason": "유튜브의 OTT-숏폼-쇼핑 통합 전략은 플랫폼 경제의 핵심 트렌드이자 마케팅 생태계의 거대한 변화 신호임.",
+      "score_reason": "플랫폼(유튜브)이 롱폼/숏폼 콘텐츠와 커머스를 결합하여 수익 생태계를 확장하는 구체적인 시장 변화 신호를 보여줌.",
       "keywords": [
-        "플랫폼 통합",
-        "커머스",
-        "풀퍼널 전략"
+        "유튜브",
+        "콘텐츠-커머스",
+        "생태계 확장"
       ],
-      "planning_insight": "콘텐츠 기획 단계부터 시청 여정 전체를 설계하는 풀퍼널(Full-funnel) 접근이 필요하며, 플랫폼별 알고리즘 특성에 맞춘 쇼핑 접점 최적화가 필수임.",
+      "planning_insight": "브랜드 콘텐츠 기획 시, 영상의 시청 단계에서 결제까지 이어지는 심리스(Seamless)한 사용자 경험 설계가 필수적임.",
       "integrated_score": 94,
       "criteria_scores": {
         "content_strategy": 25,
@@ -358,47 +400,13 @@
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
-        "시장·소비자 영향력",
-        "트렌드 신호성·시의성"
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "유튜브의 숏폼-롱폼-OTT-쇼핑 통합 생태계 확장",
-      "importance_reason": "콘텐츠 시청과 상품 구매의 경계가 완전히 소멸되는 플랫폼 흐름을 보여주며, 이는 모든 브랜디드 콘텐츠의 최종 목표가 '전환'임을 시사함."
+      "one_line_summary": "유튜브, 숏폼/롱폼 콘텐츠와 쇼핑 기능을 결합한 플랫폼 생태계의 전략적 고도화",
+      "importance_reason": "시청을 즉각적인 구매 행동으로 전환하는 콘텐츠-커머스 결합 모델이 미디어 산업의 표준으로 자리 잡음."
     },
     {
       "rank": 4,
-      "id": "f617b244a2ecea955c40e60aeccf3d5c63b68bb9b16ea63401ca4e1650071286",
-      "title": "worklog-system 주간보고 자동화 구축 경험기",
-      "source": "네이버 D2",
-      "group": "tech_blog",
-      "category": "search_ai",
-      "url": "https://d2.naver.com/helloworld/5037598",
-      "published_at": "2026-11-05T13:50:54+09:00",
-      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며 부딪힌 세 가지 문제를 차례로 다룹니다. 기억이 아니라 기록에서 주간보고를 모으는 방법 재택과 사무실을 오가며 여러 기기와 VPN 환경에서 기록을 빠짐없이 모으는 구조 주간보고 화면에 노트·TODO·일정을 더해 업무 도구로 키우면서 중앙 서버 없이 해결한 과정 ​ <참고> 영상속 사내용어 OSS = 네이버 사내 GitHub Enterprise 인스턴스 ​ 발표 대상 주간보고를 쓰는 모든 직군 반복되는 업무 기록과 보고를 자동화하고 싶은 분 AI 도구와 사내 협업 도구(Slack, Jira, Co…",
-      "category_score": 92,
-      "score_reason": "업무 효율화를 위한 도구 구축 과정에서 데이터 기록의 파편화 문제를 해결하고, 단순 기록을 넘어 '업무 도구'로 확장하는 기획적 고민이 잘 드러나 있음. 서비스 구조 설계와 사용자 경험 최적화 사례로 매우 적합함.",
-      "keywords": [
-        "업무 자동화",
-        "생산성",
-        "워크플로우"
-      ],
-      "planning_insight": "데이터 파편화 문제는 콘텐츠 기획자의 고질적 고민임. 사용자의 파편화된 활동 기록을 중앙화하여 자동화된 리포팅으로 발전시키는 기획 로직을 벤치마킹할 것.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 23
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "분산된 기록을 중앙화하고 가치 있는 보고서로 자동 생성하는 사내 업무 도구 설계",
-      "importance_reason": "기술 블로그 사례지만, 데이터 수집·통합·생성이라는 콘텐츠 전략의 핵심 프로세스를 사내 생산성 향상에 적용한 모범적인 서비스 기획 사례임."
-    },
-    {
-      "rank": 5,
       "id": "67c61221e69cfde0891b88b975cd41e7880ad156910a5924f2039725b377652f",
       "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
       "source": "arXiv cs.CL",
@@ -407,34 +415,65 @@
       "url": "https://arxiv.org/abs/2611.05596",
       "published_at": "2026-11-05T14:00:00+09:00",
       "summary": "arXiv:2611.05596v1 Announce Type: new Abstract: Different retrievers exist for retrieval-augmented generation, yet none performs best for all queries. Therefore, the key question is: given a query and retrieved passages from different retrievers, which one is most suited for that query? Existing routers usually make predictions from query-specific features and a fixed pool of retrievers; such routers have no output for an unseen retriever and are incapable by design on a new corpus. To fill the…",
-      "category_score": 92,
-      "score_reason": "RAG 시스템의 성능을 결정짓는 핵심 요소인 검색기 라우팅을 다루며, 질의 의도에 최적화된 정보 추출을 가능하게 합니다.",
+      "category_score": 98,
+      "score_reason": "RAG의 핵심 병목인 검색 성능을 최적화하기 위한 '라우팅 및 리랭킹' 기술은 엔터프라이즈 AI 구현 시 필수적인 요소로, 실무 활용도가 매우 높음.",
       "keywords": [
         "RAG",
         "검색 최적화",
-        "LLM 성능"
+        "라우팅"
       ],
-      "planning_insight": "사용자의 질문이나 의도에 맞춰 최적의 데이터 소스를 동적으로 매칭하는 시스템 기획이 가능해짐. 고도화된 정보 제공 서비스 운영 시 필수 고려 요소.",
-      "integrated_score": 90,
+      "planning_insight": "사내 지식 베이스를 활용한 콘텐츠 자동화 및 챗봇 기획 시, 다중 검색 모델을 전략적으로 활용하는 RAG 파이프라인 구축에 참고.",
+      "integrated_score": 92,
       "criteria_scores": {
-        "content_strategy": 22,
+        "content_strategy": 23,
         "trend_signal_timeliness": 23,
         "ai_data_relevance": 24,
-        "market_consumer_impact": 21
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
         "AI·데이터 관련성",
-        "트렌드 신호성·시의성",
-        "콘텐츠 전략 활용성"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "질의 의도에 따라 최적의 검색기를 선택하는 'RAG 검색기 라우팅' 기술",
-      "importance_reason": "AI 기반 콘텐츠 검색/추천 시스템의 정확도를 결정짓는 RAG(검색 증강 생성) 기술의 고도화 방향을 제시함."
+      "one_line_summary": "RAG(검색 증강 생성) 시스템의 검색 정확도를 높이는 '라우팅 및 리랭킹' 기술 연구",
+      "importance_reason": "엔터프라이즈 AI 서비스 구현 시 가장 큰 병목인 '정확도' 이슈를 해결하는 실무적 접근법 제시."
+    },
+    {
+      "rank": 5,
+      "id": "c9090fee6fc5c6c9f2fc0cdc1855829e761a4c95adb843ec46ad86bede953464",
+      "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.05382",
+      "published_at": "2026-11-05T14:00:00+09:00",
+      "summary": "arXiv:2611.05382v1 Announce Type: new Abstract: Misinformation spreads faster than professional fact-checkers can manually verify it and write articles explaining their verdicts. This creates a need to automate the production of fact-checking articles. This paper details work done by the DS@GT ARC team for CLEF 2026 CheckThat! Lab Task 3 Fact-Checking Article Generation. We seek to generate a full fact-checking article from a claim, its original verdict, and a set of scraped source documents. O…",
+      "category_score": 92,
+      "score_reason": "미정보 자동 검증 및 팩트체크 기사 생성 파이프라인은 신뢰성 있는 AI 콘텐츠 생산의 핵심 사례로, 자동화된 검수 프로세스 구축의 토대가 됨.",
+      "keywords": [
+        "팩트체크",
+        "콘텐츠 자동화",
+        "신뢰성 검증"
+      ],
+      "planning_insight": "대규모 콘텐츠 제작 자동화 시스템 구축 시, 사실 관계를 실시간으로 확인하고 검증하는 로직을 필수 프로세스로 도입해야 함.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 생성 콘텐츠의 신뢰성을 보장하는 자동 팩트체크 파이프라인 구축 연구",
+      "importance_reason": "AI 콘텐츠 생산량이 폭발하면서, 생산 못지않게 중요한 '검수 및 신뢰성 확보'의 자동화가 필수가 됨."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 73,
+      "count": 78,
       "groups": [
         "ai_data",
         "news",
@@ -449,8 +488,19 @@
       ]
     },
     {
+      "keyword": "데이터",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
       "keyword": "플랫폼",
-      "count": 19,
+      "count": 15,
       "groups": [
         "news",
         "tech_blog"
@@ -462,29 +512,23 @@
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 14,
+      "keyword": "UI",
+      "count": 8,
       "groups": [
-        "news"
+        "ai_data",
+        "news",
+        "tech_blog"
       ],
       "sources": [
+        "NYT Technology",
         "ZDNet Korea",
-        "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "분석",
-      "count": 10,
-      "groups": [
-        "news"
-      ],
-      "sources": [
-        "ZDNet Korea"
+        "arXiv cs.CL",
+        "네이버 D2"
       ]
     },
     {
       "keyword": "콘텐츠",
-      "count": 8,
+      "count": 7,
       "groups": [
         "news"
       ],
@@ -494,9 +538,9 @@
     }
   ],
   "overall_summary": [
-    "AI 에이전트의 역할이 정보 검색에서 실제 비즈니스 실행(결제, 예약, 리포팅)으로 급격히 전환되고 있습니다.",
-    "비정형 데이터의 구조화와 RAG 시스템 최적화가 콘텐츠 자동화의 실무적 핵심 경쟁력이 되고 있습니다.",
-    "플랫폼들은 콘텐츠 시청과 커머스 경험을 하나로 묶는 풀퍼널 전략을 통해 마케팅 생태계를 재편하고 있습니다."
+    "AI 에이전트의 기술력이 모델 성능에서 서비스 내 '의사결정 및 실행력'으로 이동하고 있음.",
+    "플랫폼들은 콘텐츠-커머스를 결합하여 시청과 구매를 하나의 경로로 만드는 생태계 구축에 집중함.",
+    "기술블로그와 연구 논문들은 엔터프라이즈 레벨의 RAG 고도화 및 콘텐츠 신뢰성 확보를 위한 자동화 프로세스에 주목함."
   ],
   "method": "gemini",
   "fallback_used": false,
