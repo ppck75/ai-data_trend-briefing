@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-07T19:35:33.675427+09:00",
+  "updated_at": "2026-11-08T00:01:44.027877+09:00",
   "archives": [
+    {
+      "id": "2026-11-08_00-01",
+      "date": "2026-11-08",
+      "time": "00:01",
+      "label": "2026-11-08 00:01",
+      "generated_at": "2026-11-08T00:01:27.713844+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\"",
+        "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+        "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "뱅크샐러드 데이터 기반 카드 추천⋯평균 105만원 혜택 받는다",
+        "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
+      ],
+      "path_json": "archive/2026-11-08/00-01.json",
+      "path_md": "archive/2026-11-08/00-01.md"
+    },
     {
       "id": "2026-11-07_19-34",
       "date": "2026-11-07",
