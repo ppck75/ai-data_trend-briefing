@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T11:31:29.458989+09:00",
+  "updated_at": "2026-11-07T14:48:57.805248+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1384,6 +1384,24 @@
       "fetched_at": "2026-11-06T19:21:20.132605+09:00",
       "language": "ko",
       "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "f5fd4eadc8de9006c8525a8c18a1d2ab2704cbf062fd915598a28374ba7774db",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "icon": "🟢",
+      "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
+      "summary": "2020년 글 은 W3C 권고(1.0) 직후의 WebAssembly(이하 'wasm')를 다뤘습니다. '미래 버전에 포함될 작업'으로 스레드, SIMD(single instruction, multiple data), 참조 타입, 꼬리 호출, ESM(ECMAScript modules) 통합을 소개했고, Bytecode Alliance와 WASI(WebAssembly System Interface)가 그리는 브라우저 밖의 그림을 살펴봤습니다. 그리고 \"아직까지 실서비스에서의 활발한 사용이 눈에 띄지는 않는다\"라는 말과 함께, Sass가 wasm으로 플랫폼별 빌드 문제를 풀 수 있을지 모른다는 기대로 글을 맺었습니다. 이번 연재는 다음 네 편으로 구성됩니다. 1편: JavaScript(ECMAScript) 2편: 브라우저 밖의 JavaScript 3편: WebAssembly 4편: 라이브러리와 프레임워크 이 글에서는 2020년 글 이후 6년을 이어서 정리합니다. 2020년에 예고했던 기…",
+      "url": "https://d2.naver.com/helloworld/7770448",
+      "published_at": "2026-11-06T12:04:14+09:00",
+      "entry_updated_at": "2026-11-06T12:04:14+09:00",
+      "fetched_at": "2026-11-07T14:48:53.428496+09:00",
+      "language": "ko",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3578,24 +3596,6 @@
       "published_at": "2026-11-05T14:11:09+09:00",
       "entry_updated_at": "2026-11-05T14:11:09+09:00",
       "fetched_at": "2026-11-05T16:51:11.418057+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "b98446d4c4aaea850b32b8124d8324ba4493371018bffb7c6acafbd4c8c4f1b8",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "한국콜마 노화 원인 정밀타격 신소재, 국가신기술로 지정",
-      "summary": "제약 접목한 항노화 신소재 ‘TOT’ 프리미엄 항노화 화장품 개발 속도한국콜마의 표적 항노화 신소재가 산업통상자원부로부터 신기술(NET)로 지정됐다. 국내에서 처음 개발된 이 기술..",
-      "url": "https://www.mk.co.kr/news/business/12198288",
-      "published_at": "2026-11-05T14:11:04+09:00",
-      "entry_updated_at": "2026-11-05T14:11:04+09:00",
-      "fetched_at": "2026-11-05T16:51:09.749670+09:00",
       "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
