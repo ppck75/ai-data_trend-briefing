@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-08T10:44:08.492516+09:00",
+  "updated_at": "2026-11-08T19:40:32.791045+09:00",
   "archives": [
+    {
+      "id": "2026-11-08_19-40",
+      "date": "2026-11-08",
+      "time": "19:40",
+      "label": "2026-11-08 19:40",
+      "generated_at": "2026-11-08T19:40:15.505121+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개",
+        "중국서 AI로 불량품 사진 만들어 환불...쇼핑몰도 AI로 맞대응",
+        "마트가 광고회사로…월마트, 고객 데이터로 수익화 속도",
+        "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "뱅크샐러드 데이터 기반 카드 추천⋯평균 105만원 혜택 받는다"
+      ],
+      "path_json": "archive/2026-11-08/19-40.json",
+      "path_md": "archive/2026-11-08/19-40.md"
+    },
     {
       "id": "2026-11-08_10-43",
       "date": "2026-11-08",
