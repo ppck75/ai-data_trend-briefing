@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:14:06.400702+09:00",
+  "updated_at": "2026-11-09T02:10:47.647159+09:00",
   "total_items": 200,
   "items": [
     {
@@ -3315,6 +3315,24 @@
       "planning_insight": ""
     },
     {
+      "id": "b753c4d60cdd141afa1525d62957b54cab17afae0d0a355a773ebe73c1f7888b",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "summary": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+      "url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+      "published_at": "2026-11-06T01:44:13+09:00",
+      "entry_updated_at": "2026-11-06T01:44:13+09:00",
+      "fetched_at": "2026-11-09T02:10:47.643741+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "824f1291f5506ed6c41e47197252d94f7d0d300a858a8b22cc93e2478fc4018c",
       "source": "NYT Technology",
       "group": "news",
@@ -3579,24 +3597,6 @@
       "entry_updated_at": "2026-11-05T21:14:40+09:00",
       "fetched_at": "2026-11-06T01:04:46.742675+09:00",
       "language": "en",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "49680ab71088560fc20b2b0a0122f89a15138ff3854b5bdd267d2edc215e8249",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "엘앤에프, 내년 영업익 120% 증가 전망…\"46파이·LFP 본격 성장\"",
-      "summary": "[지디넷코리아]엘앤에프가 46파이(지름 46mm 원통형 배터리), 리튬인산철(LFP) 등 양극재 수요 확대 전망에 따라 내년 영업이익이 120% 이상 성장할 것으로 전망했다.엘앤에프는 5일 3분기 실적발표 컨퍼런스콜에서 사업 전망을 이같이 밝혔다.엘앤에프는 올해 3분기 매출액 8744억원, 영업손실 265억원을 기록했다. 전년 동기 대비 매출은 34% 증가한 반면 영업이익은 적자전환했다. 이는 환율 변동과 원재료(리튬) 가격 하락 등 외부 요인에 따른 것으로, 양극재 사업 자체는 순탄하게 전개되고 있다고 강조했다.4분기에도 원재료 가격 하락세가 이어지고 있지만, 관련 영향은 점차 줄어들 것으로 예상했다. 유승헌 엘앤에프 최고재무책임자는 \"3분기엔 대부분 기존 재고에서 평가손실이 발생했는데, 이런 손익 변동성을 줄이기 위해선 이를 빠르게 소진하는 것이 중요하다\"며 \"LFP 양극재 공급 본격 확대로 재고 소진이 가속화될 것으로 예상되고 재고 부담도 점차 완화될 것으로 보고 있다\"고 설…",
-      "url": "https://zdnet.co.kr/view/?no=20261105180135",
-      "published_at": "2026-11-05T21:14:34+09:00",
-      "entry_updated_at": "2026-11-05T21:14:34+09:00",
-      "fetched_at": "2026-11-06T01:04:46.448897+09:00",
-      "language": "ko",
       "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
