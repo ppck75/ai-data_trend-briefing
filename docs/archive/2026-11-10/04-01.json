@@ -1,0 +1,531 @@
+{
+  "briefing_date": "2026-11-10",
+  "generated_at": "2026-11-10T04:01:43.813659+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 184,
+    "tech_blog": 4,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "e37ec3bab36eb17c80ad632c6f461f62aeeafe3930a4df653ced70c8f462b797",
+        "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261109145528",
+        "published_at": "2026-11-09T15:26:51+09:00",
+        "summary": "[지디넷코리아]네이버 인공지능(AI) 검색 서비스 ‘AI탭’이 정보 탐색을 넘어 상품 구매와 장소 방문, 예약 등 실제 소비자 행동으로 이어지고 있는 것으로 나타났다. AI탭 이용자 절반 이상이 검색 결과를 바탕으로 구매·예약·방문 등의 행동을 했다고 응답하면서, 네이버가 AI 검색과 쇼핑·지도 등 기존 서비스를 연결해 이용자 행동을 이끌어내고 있다는 분석이다.9일 네이버 AI탭 서비스브리프에 따르면 올해 7월부터 8월까지 네이버 AI탭에서 이뤄진 질의 중 23.7%는 장소·상품처럼 예약·구매·방문으로 이어질 수 있는 ‘행동 전환형’으로 나타났다. 맛집이나 가볼 만한 장소를 묻는 로컬 질의(14.4%), 상품을 찾고 비교하는 쇼핑 질의(9.3%)도 행동 전환형에 해당한다.AI탭에서 남긴 질의를 토대로 생성된 답변을 확인한 이용자들이 탐색을 지속하는 움직임이 관측됐다. 출처로 제시된 블로그·카페·지식iN 원문과 후기를 열어 보면서 정보를 확인하거나 네이버 쇼핑·지도, 플레이스로 이동…",
+        "category_score": 98,
+        "score_reason": "AI 검색이 단순 정보 탐색을 넘어 실질적인 구매·예약 등 커머스 전환으로 이어지는 명확한 소비자 행동 변화 신호를 보여줌",
+        "keywords": [
+          "AI",
+          "커머스",
+          "검색"
+        ],
+        "planning_insight": "AI 검색 환경에서 브랜드 노출을 최적화하고 행동 전환(예약, 구매)을 유도하기 위한 콘텐츠 및 UX 전략 필요"
+      },
+      {
+        "rank": 2,
+        "id": "823378e005a6317c06e8fca626d494d4f59bdf49e7e035afd441f2211c6ed60d",
+        "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261109161556",
+        "published_at": "2026-11-09T16:15:56+09:00",
+        "summary": "[지디넷코리아]“한국이 전 세계에서 가장 싸게 토큰을 만들 수 있고, 그걸 통해서 우리나라에서 AI를 정말 많이 쓰도록 하게 하겠다.”정석근 SK텔레콤 최고기술책임자(CTO) 겸 AI CIC장은 9일 서울 코엑스에서 열린 엔비디아 AI 데이에서 국내 대규모 AI 데이터센터(AIDC) 구축의 목표를 이같이 밝혔다.SK텔레콤은 이날 엔비디아, 리벨리온과 한국형 소버린 AI 인프라 구축을 위한 GPU NPU 통합 시스템 개발 업무협약을 체결했다. 엔비디아 GPU와 리벨리온 NPU에 추론 작업을 나눠 맡겨 처리 성능과 전력 효율을 높일 계획이다.나아가 국내 인프라의 규모의 경제를 바탕으로 토큰 생산 비용을 낮추고, 기업과 국민의 AI 이용을 확대하겠다는 구상이다.3사는 엔비디아의 NV링크 퓨전(NVLink Fusion)을 활용해 리벨리온이 개발 중인 NPU ‘리벨 R200’을 엔비디아 플랫폼에 연결한다. 아울러 엔비디아의 서버 랙 표준 설계 규격인 MGX를 적용해 랙 단위의 GPU·NPU…",
+        "category_score": 95,
+        "score_reason": "한국형 소버린 AI 인프라 구축을 위한 GPU-NPU 통합 및 토큰 비용 최적화는 향후 AI 서비스 대중화의 핵심 변수",
+        "keywords": [
+          "AI",
+          "인프라",
+          "소버린AI"
+        ],
+        "planning_insight": "AI 추론 비용 절감은 B2B·B2C AI 서비스의 수익성 모델을 완전히 바꿀 수 있으므로 효율적인 프롬프트 엔지니어링 및 모델 라우팅 콘텐츠 준비"
+      },
+      {
+        "rank": 3,
+        "id": "62d24376c3426b4f3af979c088e4e7b59d30e15796a72beea8f458c2c9d282b9",
+        "title": "마트가 광고회사로…월마트, 고객 데이터로 수익화 속도",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261108093046",
+        "published_at": "2026-11-08T11:25:02+09:00",
+        "summary": "[지디넷코리아]세계 최대 유통업체 월마트가 방대한 고객 데이터를 기반으로 광고와 스트리밍, 구독 등 고수익 사업을 빠르게 키우고 있다. 전통적인 오프라인 유통에서 확보한 소비자 데이터를 수익화하며 아마존과의 경쟁에도 속도를 내는 모습이다.6일(현지시간) 월스트리트저널(WSJ)에 따르면 월마트는 전 세계 19개국 약 1만1000개 매장과 온라인 채널을 매주 이용하는 약 2억8000만명의 쇼핑 데이터를 활용해 새로운 수익원을 확대하고 있다.월마트는 고객 데이터를 익명화한 뒤 소비자들의 구매 행동과 관련한 분석 정보를 자사에서 상품을 판매하는 제조업체에 제공한다. 이 데이터는 월마트의 광고사업 성장에도 핵심 자산으로 활용되고 있다.지난 회계연도 월마트의 글로벌 광고 매출은 약 64억 달러(약 8조 7296억원)를 기록했다. 아마존의 광고 매출과 비교하면 아직 차이가 크지만 월마트는 광고를 주요 성장 사업으로 육성하고 있다.외신은 광고사업을 총괄하는 인물이 세스 달레어 월마트 최고성장책임…",
+        "category_score": 92,
+        "score_reason": "유통 기업이 방대한 고객 구매 데이터를 광고·구독 수익화로 연결하는 리테일 미디어 트렌드를 잘 포착함",
+        "keywords": [
+          "플랫폼",
+          "데이터",
+          "광고"
+        ],
+        "planning_insight": "고객 데이터 기반의 타겟팅 광고 솔루션이 향후 마케팅 콘텐츠의 핵심 채널로 부상할 것이며, CRM 데이터 활용 콘텐츠 전략 재검토 필요"
+      },
+      {
+        "rank": 4,
+        "id": "88691c6f94bc4c9cab01be9494f3c7f439906706ab8acb412900a8da2b227128",
+        "title": "중국서 AI로 불량품 사진 만들어 환불...쇼핑몰도 AI로 맞대응",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261108080355",
+        "published_at": "2026-11-08T08:03:55+09:00",
+        "summary": "[지디넷코리아]중국 온라인 쇼핑몰에서 생성형 AI를 이용해 멀쩡한 상품을 불량품처럼 조작한 뒤 환불을 요구하는 사례가 잇따르고 있다.이와 함께 소비자가 AI로 가짜 증거 사진을 만들자 전자상거래 플랫폼도 AI로 조작 여부를 판별하는 기술을 도입하면서 환불 심사 과정에서 AI 간 공방이 벌어지고 있다는 소식이다.지디넷재팬 보도에 따르면, 중국 상하이의 한 장난감 판매점에서는 구매자가 제출한 봉제인형의 오염 사진에서 부자연스러운 윤곽을 비롯해 빛과 그림자의 모순이 발견됐으나 50위안의 환불이 승인됐다.후베이성의 한 신선식품 판매점에서도 비슷한 사례가 발생했다. 32위안에 구입한 바나나가 썩었다며 제출된 사진이 판매점이 발송 전에 촬영한 사진과 배경, 배치가 완전히 같았고 역시 반품 없이 환불 처리됐다.중국 전자상거래 시장에서는 저가 상품이나 신선식품 등을 반품하지 않고 구매대금만 돌려받는 제도가 운영되고 있다. 반송 비용과 시간을 줄일 수 있어 판매자와 소비자 모두에게 유리하지만, 생…",
+        "category_score": 90,
+        "score_reason": "생성형 AI를 이용한 소비자 기만과 이에 대응하는 플랫폼의 AI 검증 기술 도입이라는 신규 시장 갈등과 진화 양상을 보여줌",
+        "keywords": [
+          "AI",
+          "커머스",
+          "소비자 행동"
+        ],
+        "planning_insight": "AI가 생성한 콘텐츠의 진위 여부를 판별하는 신뢰성 기술이 커머스 플랫폼의 필수 경쟁력이 될 것임"
+      },
+      {
+        "rank": 5,
+        "id": "78312f83cea4dd99e2add5dcf4e68fdf59669e8d01c8280925703c4d36d74667",
+        "title": "영국 공공기관, AI가 쓴 민원 급증에 업무 과부하",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261109204635",
+        "published_at": "2026-11-09T20:46:35+09:00",
+        "summary": "[지디넷코리아]영국 지방자치단체와 공공기관이 챗봇으로 작성한 민원과 정보공개 청구가 급증하면서 업무 처리에 어려움을 겪고 있다. 영국 일간지 가디언이 현지 시각 11월 8일 이같이 보도했으며, 이런 민원은 2024년부터 조금씩 나타나기 시작했다.가디언에 따르면, 노동당 하원의원 사무실의 홀리 위킨스 선임 민원 담당자는 받는 이메일의 절반이 어떤 형태로든 AI로 작성된 것이라고 말했다. 지방정부 소속 변호사 5,600명이 가입한 단체 '로이어스 인 로컬 거버먼트'의 데버라 에번스 CEO는 과거 평균 2쪽 정도였던 민원이 이제 대부분 10배가량 길어졌고, 가장 긴 민원은 약 200쪽이었다고 설명했다. 에번스 CEO는 AI가 민원을 매우 전문적이고 격식 있게 보이게 하지만, 지자체가 추가 예산을 지원받지는 못한다고 설명했다.런던교통공사(TfL)는 2025~2026 회계연도에 역대 최대인 4,769건의 정보공개 청구를 접수해 2023~2024년 최고치보다 5% 증가했다. 4~6월 개인 청…",
+        "category_score": 88,
+        "score_reason": "AI 작성 민원 급증으로 인한 업무 부하 이슈는 AI가 일상 사무 자동화에 미치는 영향력을 단적으로 보여주는 사례",
+        "keywords": [
+          "AI",
+          "업무 자동화",
+          "사회 변화"
+        ],
+        "planning_insight": "AI 자동 생성 콘텐츠가 넘쳐나는 환경에서 '질 높은 대응' 혹은 'AI 필터링' 역량이 조직 및 서비스의 운영 효율을 결정할 것임"
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "7a9c09aa76280cc68e744ab4da5d31a982e996c746de9c0ab28d5a8ba90caff1",
+        "title": "TASTE, 토스의 추천 파운데이션 플랫폼",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/taste",
+        "published_at": "2026-11-09T15:54:00+09:00",
+        "summary": "공동학습과 지식 전이로 추천 파운데이션 모델의 초석 놓기",
+        "category_score": 98,
+        "score_reason": "추천 시스템을 위한 파운데이션 모델 구축 사례로, 플랫폼의 데이터 활용 전략과 개인화 기술의 핵심 구조를 가장 잘 보여줌.",
+        "keywords": [
+          "추천시스템",
+          "파운데이션모델",
+          "플랫폼",
+          "데이터전략"
+        ],
+        "planning_insight": "개별 서비스 단위의 추천을 넘어 모델을 자산화하는 파운데이션 전략은 데이터 기반의 확장 가능한 콘텐츠 개인화 구조를 설계하는 데 핵심적인 참고 자료가 됨."
+      },
+      {
+        "rank": 2,
+        "id": "67c35aa1c87514f882d4e830df727b6bc333b4a54241439e72e446b93876092a",
+        "title": "로그인 화면, 이제 만들지 마세요 - n3r OIDC",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4293206",
+        "published_at": "2026-11-09T10:47:10+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 로그인 화면, 이제 만들지 마세요 - n3r OIDC NAVER D2 | 로그인 화면, 이제 만들지 마세요 - n3r OIDC naver.me ​ 발표 내용 n3r.iam을 OIDC Provider로 확장해 어떤 서비스에든 'n3r 계정으로 로그인'을 붙이는 방법을 소개하고, n3r의 프로젝트·역할 정보를 표준 토큰에 담아낸 설계 결정을 공유합니다. ​ <참고> 영상속 사내용어 n3r = 네이버 사내 쿠버네티스 기반 컨테이너 플랫폼 ​ ​ 발표 대상 n3r app에 사내 로그인과 권한 연동을 고려하는 개발자 표준 OIDC 위에 자체 권한 체계를 얹는 설계에 관심 있는 엔지니어 ​ 목차 Part 1. 로그인 화면을 만들 필요가 없는 이유 n3r OIDC가 필요한 사례 앱 하나를 띄울 때마다 반복되는 일 OIDC란 n3r에 이미 있는 계정과 권한 Part 2. n3r.…",
+        "category_score": 92,
+        "score_reason": "인증/권한 시스템을 표준화하여 서비스 간 연동을 최적화한 사례로, 플랫폼 운영 효율성과 제품 구조 설계 측면에서 매우 높은 인사이트를 제공함.",
+        "keywords": [
+          "인증플랫폼",
+          "표준화",
+          "UX",
+          "서비스구조"
+        ],
+        "planning_insight": "공통 모듈의 플랫폼화(OIDC 활용)는 사용자 경험의 일관성을 유지하면서 신규 서비스 출시 속도를 높이는 콘텐츠/서비스 생태계 전략으로 매우 유효함."
+      },
+      {
+        "rank": 3,
+        "id": "0ce69aa98e24e1e0ac3afb8d4ecbb37727166decdf3da9707dc417e08983b675",
+        "title": "망분리 환경에서도 한 달 만에 AX로 생산성을 높인 방법",
+        "source": "뱅크샐러드 기술블로그",
+        "group": "tech_blog",
+        "category": "fintech_data",
+        "url": "https://corp.banksalad.com/blog/tech/banksalad-ax-workflow-automation/",
+        "published_at": "2026-11-09T09:00:00+09:00",
+        "summary": "안녕하세요, 금융쇼핑 PA 백엔드 Tech Lead이자 AI Partner로서 AX 업무를 맡고 있는 김지원, 그리고 인턴 이서영입니다. 환경을 갖춘 지 한 달만에 두 팀의 반복 업무가 자동화됐습니다. 담당자 한 명당 매일 30분 ~ 1시간의 업무 시간이 절약되었습니다. 이 글은 망분…",
+        "category_score": 85,
+        "score_reason": "망분리 환경이라는 제약 조건 속에서 AI(AX)를 도입해 업무 생산성을 최적화한 프로세스 개선 사례로, 내부 도구의 기획 가치를 잘 보여줌.",
+        "keywords": [
+          "AX",
+          "생산성",
+          "업무자동화",
+          "데이터활용"
+        ],
+        "planning_insight": "기술적 제약이 있는 환경에서도 데이터 처리의 병목을 자동화로 해결하여 실무 생산성을 확보하는 방식은 사내 콘텐츠 워크플로우 효율화 설계에 직접 적용 가능함."
+      },
+      {
+        "rank": 4,
+        "id": "c9500f7b3b58561f33290a58fdf7a6b0a139a830dc5c4edcfe7d5e209168aafb",
+        "title": "경력 없이 시작해 정규직 2개월 만에 연봉 8천만원, \"다음 목표는 1억\"",
+        "source": "뱅크샐러드 기술블로그",
+        "group": "tech_blog",
+        "category": "fintech_data",
+        "url": "https://corp.banksalad.com/blog/culture/bfs-interview-1/",
+        "published_at": "2026-11-09T09:00:00+09:00",
+        "summary": "보험 지식도, 상담 경력도 없던 조남주 님은 정규직 전환 2개월 만에 실적 1위에 올랐습니다. 그달 받은 보상은 연봉으로 환산하면 8,000만 원 수준입니다. 뱅크샐러드금융서비스의 금융 솔루션 전문가 이야기입니다. 처음엔 누구보다 보험 영업이 두려웠던 남주님, 어떻게 두 달 만에 여기…",
+        "category_score": 70,
+        "score_reason": "기술적 내용보다는 인적 자원의 성과 지표와 보상 체계에 집중된 내용이나, 플랫폼 서비스가 데이터를 통해 성과를 관리하는 운영 방식을 간접적으로 시사함.",
+        "keywords": [
+          "성과지표",
+          "운영전략",
+          "데이터기반관리"
+        ],
+        "planning_insight": "사용자(혹은 구성원)의 행동 데이터를 어떻게 동기 부여와 연결할 것인가에 대한 운영적 관점의 참고가 가능함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "0483cc6fe5f4e7b566b278e4c32893354dd39f236eecc6f435348349c9dd3dde",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "published_at": "2026-11-10T00:05:57+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "특정 시장(일본)에 최적화된 합성 데이터셋은 로컬라이징된 콘텐츠 제작 및 타겟 마케팅 자동화에 직접적으로 활용 가능한 실무형 자산임.",
+        "keywords": [
+          "합성데이터",
+          "데이터셋",
+          "로컬라이제이션"
+        ],
+        "planning_insight": "특정 인구 통계 및 시장 맥락을 반영한 데이터셋을 활용해 시장별 맞춤형 AI 페르소나 및 콘텐츠 자동 생성 전략을 수립할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "8c6b25ea68965981517c508adc66cdbf57878c316b5904c17071cb034915e8b2",
+        "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.08905",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "summary": "arXiv:2611.08905v1 Announce Type: new Abstract: As language agents tackle increasingly complex tasks, they increasingly rely on multiple agents to coordinate specialized work, requiring decisions not only about what each subagent should do but also which tools and workspace resources it should access. Existing agent systems provide mechanisms for controlling tools and execution environments, but do not directly specify the resources required by each delegated subtask. Moreover, task outcomes an…",
+        "category_score": 95,
+        "score_reason": "복잡한 업무 수행을 위한 '서브 에이전트' 권한 관리 모델은 기업 내 AI 워크플로우 자동화 기획 시 핵심적인 보안 및 통제 프레임워크를 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우",
+          "권한 관리"
+        ],
+        "planning_insight": "여러 전문 에이전트를 조합한 자동화 파이프라인 구축 시, 도구 접근성 및 권한을 체계화하여 안정적인 에이전트 운영 체계를 설계할 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "08b39490349305dd6652d230f4d7b11ef1f983a4c6011301a97237058b41cd39",
+        "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.08643",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "summary": "arXiv:2611.08643v1 Announce Type: new Abstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and temporal rules. Hand-authored persona prompts and fine-tuning add cost. Weight-free prompt optimization offers an alternative, but unconstrained evolution of a monolithic prompt can rewrite shared ru…",
+        "category_score": 92,
+        "score_reason": "지식 그래프(KG) 기반의 프롬프트 제어 기술은 RAG 및 콘텐츠 추천 시스템의 정확도와 맥락 유지 능력을 획기적으로 개선함.",
+        "keywords": [
+          "RAG",
+          "지식그래프",
+          "프롬프트 엔지니어링"
+        ],
+        "planning_insight": "전문 도메인(금융 등)의 정보를 RAG 시스템에 통합할 때, 구조화된 데이터를 활용해 할루시네이션을 방지하고 신뢰도 높은 콘텐츠를 추출하는 기술적 토대가 됨."
+      },
+      {
+        "rank": 4,
+        "id": "e99595eff249ec260edc32c8e4b364e188c553a6553ea317cbe297ba884474e9",
+        "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.08730",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "summary": "arXiv:2611.08730v1 Announce Type: new Abstract: LLM-based digital twins aim to predict how individuals would respond in new settings from representations of their prior responses. Existing evidence that compression of survey histories need not reduce predictive accuracy suggests that representation structure, rather than information volume alone, may be an important design choice. We study BDE, a fixed representation that organizes each respondent's survey history into Background, Decision proc…",
+        "category_score": 89,
+        "score_reason": "사용자의 과거 행동 이력을 기반으로 한 '디지털 트윈' 구축 연구는 정교한 개인화 콘텐츠 추천 및 분석 시스템의 핵심 논리임.",
+        "keywords": [
+          "디지털 트윈",
+          "개인화",
+          "사용자 분석"
+        ],
+        "planning_insight": "고객의 설문 및 행동 이력을 구조화하여 AI 디지털 트윈 모델을 학습시키면, 개별 사용자 성향을 반영한 초개인화된 콘텐츠 제작 자동화가 가능해짐."
+      },
+      {
+        "rank": 5,
+        "id": "e3f6d35ac9c794a593a067ef4d0bdd9d530a261f2bb2e72659f5ac5e6e670a0d",
+        "title": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.08704",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "summary": "arXiv:2611.08704v1 Announce Type: new Abstract: As AI-generated content spreads into nearly every domain of human interaction, practices and discourses of AI detection, both formal and informal, have become an everyday part of how people interact with text and with each other. In this paper, we explore the real-world practices and discourses of AI identification that have emerged in response to a shifting discursive landscape where the human provenance of a text can no longer be taken for grant…",
+        "category_score": 85,
+        "score_reason": "AI 생성 콘텐츠에 대한 실제 사용자들의 인식과 탐지 논리는 콘텐츠 전략가에게 AI 도입 시의 브랜드 신뢰도 및 윤리적 가이드라인을 제시함.",
+        "keywords": [
+          "AI 탐지",
+          "사용자 경험",
+          "콘텐츠 윤리"
+        ],
+        "planning_insight": "AI가 생성한 콘텐츠를 수용하는 대중의 인식을 파악하여, 브랜드 채널에서 AI 활용 비율을 최적화하고 AI 콘텐츠와 휴먼 콘텐츠의 조화로운 운영 전략을 수립할 수 있음."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "e37ec3bab36eb17c80ad632c6f461f62aeeafe3930a4df653ced70c8f462b797",
+      "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261109145528",
+      "published_at": "2026-11-09T15:26:51+09:00",
+      "summary": "[지디넷코리아]네이버 인공지능(AI) 검색 서비스 ‘AI탭’이 정보 탐색을 넘어 상품 구매와 장소 방문, 예약 등 실제 소비자 행동으로 이어지고 있는 것으로 나타났다. AI탭 이용자 절반 이상이 검색 결과를 바탕으로 구매·예약·방문 등의 행동을 했다고 응답하면서, 네이버가 AI 검색과 쇼핑·지도 등 기존 서비스를 연결해 이용자 행동을 이끌어내고 있다는 분석이다.9일 네이버 AI탭 서비스브리프에 따르면 올해 7월부터 8월까지 네이버 AI탭에서 이뤄진 질의 중 23.7%는 장소·상품처럼 예약·구매·방문으로 이어질 수 있는 ‘행동 전환형’으로 나타났다. 맛집이나 가볼 만한 장소를 묻는 로컬 질의(14.4%), 상품을 찾고 비교하는 쇼핑 질의(9.3%)도 행동 전환형에 해당한다.AI탭에서 남긴 질의를 토대로 생성된 답변을 확인한 이용자들이 탐색을 지속하는 움직임이 관측됐다. 출처로 제시된 블로그·카페·지식iN 원문과 후기를 열어 보면서 정보를 확인하거나 네이버 쇼핑·지도, 플레이스로 이동…",
+      "category_score": 98,
+      "score_reason": "AI 검색이 단순 정보 탐색을 넘어 실질적인 구매·예약 등 커머스 전환으로 이어지는 명확한 소비자 행동 변화 신호를 보여줌",
+      "keywords": [
+        "AI 검색",
+        "커머스 전환",
+        "사용자 행동"
+      ],
+      "planning_insight": "검색 결과 페이지(SERP) 점유뿐만 아니라, AI 검색 답변 내 브랜드의 '행동 유도 문구(Action Prompt)' 최적화 전략이 필수적임",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "네이버 AI탭 이용자의 절반 이상이 검색을 넘어 실제 구매·예약으로 이어지는 행동 전환 확인",
+      "importance_reason": "AI 검색이 단순 정보 탐색을 넘어 실질적인 커머스 매출로 직결되는 현상은 마케팅 채널의 패러다임이 완전히 바뀌고 있음을 증명함"
+    },
+    {
+      "rank": 2,
+      "id": "7a9c09aa76280cc68e744ab4da5d31a982e996c746de9c0ab28d5a8ba90caff1",
+      "title": "TASTE, 토스의 추천 파운데이션 플랫폼",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/taste",
+      "published_at": "2026-11-09T15:54:00+09:00",
+      "summary": "공동학습과 지식 전이로 추천 파운데이션 모델의 초석 놓기",
+      "category_score": 98,
+      "score_reason": "추천 시스템을 위한 파운데이션 모델 구축 사례로, 플랫폼의 데이터 활용 전략과 개인화 기술의 핵심 구조를 가장 잘 보여줌.",
+      "keywords": [
+        "추천 시스템",
+        "파운데이션 모델",
+        "데이터 전략"
+      ],
+      "planning_insight": "다양한 서비스의 콘텐츠 추천 로직을 중앙화하고, 데이터 전이 학습을 통해 초기 데이터가 부족한 신규 서비스의 성과를 즉시 최적화하는 아키텍처 설계가 필요함",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "토스의 추천 파운데이션 플랫폼(TASTE) 구축을 통한 공동학습 및 데이터 자산화 전략",
+      "importance_reason": "개별 서비스의 파편화된 추천을 넘어, 모델 자체를 공통 자산으로 구축하는 접근은 데이터 기반 개인화 콘텐츠 서비스의 표준이 됨"
+    },
+    {
+      "rank": 3,
+      "id": "62d24376c3426b4f3af979c088e4e7b59d30e15796a72beea8f458c2c9d282b9",
+      "title": "마트가 광고회사로…월마트, 고객 데이터로 수익화 속도",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261108093046",
+      "published_at": "2026-11-08T11:25:02+09:00",
+      "summary": "[지디넷코리아]세계 최대 유통업체 월마트가 방대한 고객 데이터를 기반으로 광고와 스트리밍, 구독 등 고수익 사업을 빠르게 키우고 있다. 전통적인 오프라인 유통에서 확보한 소비자 데이터를 수익화하며 아마존과의 경쟁에도 속도를 내는 모습이다.6일(현지시간) 월스트리트저널(WSJ)에 따르면 월마트는 전 세계 19개국 약 1만1000개 매장과 온라인 채널을 매주 이용하는 약 2억8000만명의 쇼핑 데이터를 활용해 새로운 수익원을 확대하고 있다.월마트는 고객 데이터를 익명화한 뒤 소비자들의 구매 행동과 관련한 분석 정보를 자사에서 상품을 판매하는 제조업체에 제공한다. 이 데이터는 월마트의 광고사업 성장에도 핵심 자산으로 활용되고 있다.지난 회계연도 월마트의 글로벌 광고 매출은 약 64억 달러(약 8조 7296억원)를 기록했다. 아마존의 광고 매출과 비교하면 아직 차이가 크지만 월마트는 광고를 주요 성장 사업으로 육성하고 있다.외신은 광고사업을 총괄하는 인물이 세스 달레어 월마트 최고성장책임…",
+      "category_score": 92,
+      "score_reason": "유통 기업이 방대한 고객 구매 데이터를 광고·구독 수익화로 연결하는 리테일 미디어 트렌드를 잘 포착함",
+      "keywords": [
+        "리테일 미디어",
+        "데이터 수익화",
+        "광고 전략"
+      ],
+      "planning_insight": "퍼스트 파티 데이터(First-party data)를 보유한 기업은 이를 미디어화하여 새로운 콘텐츠 타겟팅 수익 모델을 고민해야 할 시점임",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "월마트의 온·오프라인 구매 데이터를 결합한 리테일 미디어 광고 수익 모델 강화",
+      "importance_reason": "커머스 플랫폼이 더 이상 상품 판매뿐만 아니라 고객 데이터를 판매하는 '광고 회사'로 진화하는 글로벌 트렌드를 명확히 보여줌"
+    },
+    {
+      "rank": 4,
+      "id": "0483cc6fe5f4e7b566b278e4c32893354dd39f236eecc6f435348349c9dd3dde",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "published_at": "2026-11-10T00:05:57+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "특정 시장(일본)에 최적화된 합성 데이터셋은 로컬라이징된 콘텐츠 제작 및 타겟 마케팅 자동화에 직접적으로 활용 가능한 실무형 자산임.",
+      "keywords": [
+        "합성 데이터",
+        "로컬라이제이션",
+        "AI 페르소나"
+      ],
+      "planning_insight": "특정 고객 페르소나를 모델화한 합성 데이터를 활용하면 로컬 시장 테스트나 타겟 마케팅 콘텐츠의 생산 속도와 정확도를 비약적으로 높일 수 있음",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "일본 시장 인구 통계 및 금융 맥락을 학습한 합성 데이터셋(Nemotron-Personas) 공개",
+      "importance_reason": "실제 고객 데이터 확보가 어려운 시장에서 AI 페르소나를 활용해 콘텐츠를 생성할 수 있는 실무 자산이 공개됨"
+    },
+    {
+      "rank": 5,
+      "id": "88691c6f94bc4c9cab01be9494f3c7f439906706ab8acb412900a8da2b227128",
+      "title": "중국서 AI로 불량품 사진 만들어 환불...쇼핑몰도 AI로 맞대응",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261108080355",
+      "published_at": "2026-11-08T08:03:55+09:00",
+      "summary": "[지디넷코리아]중국 온라인 쇼핑몰에서 생성형 AI를 이용해 멀쩡한 상품을 불량품처럼 조작한 뒤 환불을 요구하는 사례가 잇따르고 있다.이와 함께 소비자가 AI로 가짜 증거 사진을 만들자 전자상거래 플랫폼도 AI로 조작 여부를 판별하는 기술을 도입하면서 환불 심사 과정에서 AI 간 공방이 벌어지고 있다는 소식이다.지디넷재팬 보도에 따르면, 중국 상하이의 한 장난감 판매점에서는 구매자가 제출한 봉제인형의 오염 사진에서 부자연스러운 윤곽을 비롯해 빛과 그림자의 모순이 발견됐으나 50위안의 환불이 승인됐다.후베이성의 한 신선식품 판매점에서도 비슷한 사례가 발생했다. 32위안에 구입한 바나나가 썩었다며 제출된 사진이 판매점이 발송 전에 촬영한 사진과 배경, 배치가 완전히 같았고 역시 반품 없이 환불 처리됐다.중국 전자상거래 시장에서는 저가 상품이나 신선식품 등을 반품하지 않고 구매대금만 돌려받는 제도가 운영되고 있다. 반송 비용과 시간을 줄일 수 있어 판매자와 소비자 모두에게 유리하지만, 생…",
+      "category_score": 90,
+      "score_reason": "생성형 AI를 이용한 소비자 기만과 이에 대응하는 플랫폼의 AI 검증 기술 도입이라는 신규 시장 갈등과 진화 양상을 보여줌",
+      "keywords": [
+        "생성형 AI",
+        "커머스 리스크",
+        "AI 탐지"
+      ],
+      "planning_insight": "향후 모든 서비스 영역에서 AI 생성물의 진위 판별은 필수적인 운영 프로세스가 될 것이며, 관련 '신뢰성 데이터' 확보가 브랜드의 차별화 포인트가 될 것임",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "생성형 AI를 이용한 불량품 사진 조작과 이를 막기 위한 플랫폼의 AI 검증 기술 도입 공방",
+      "importance_reason": "AI가 콘텐츠의 신뢰성을 위협하고, 다시 AI가 이를 방어하는 '창과 방패'의 구도가 일상 영역으로 침투하고 있음"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 64,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 25,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 19,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업",
+        "토스 기술블로그"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 검색이 정보 탐색을 넘어 커머스 및 실질적 소비자 행동을 주도하는 플랫폼 환경 변화",
+    "개별 서비스의 파편화된 기술을 통합하고 모델을 자산화(Foundation Platform)하는 데이터 전략의 확산",
+    "생성형 AI 확산에 따른 데이터 신뢰성 확보와 타겟팅을 위한 합성 데이터 및 검증 기술의 중요성 대두"
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
