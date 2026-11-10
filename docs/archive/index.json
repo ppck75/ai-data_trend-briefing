@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T04:02:03.787426+09:00",
+  "updated_at": "2026-11-10T13:15:57.743273+09:00",
   "archives": [
+    {
+      "id": "2026-11-10_12-35",
+      "date": "2026-11-10",
+      "time": "12:35",
+      "label": "2026-11-10 12:35",
+      "generated_at": "2026-11-10T13:15:37.909751+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’",
+        "캠페인 메타엔진 — 무진장 많은 콘텐츠를 하나의 캠페인 구조로 통합하다",
+        "마트가 광고회사로…월마트, 고객 데이터로 수익화 속도",
+        "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+        "중국서 AI로 불량품 사진 만들어 환불...쇼핑몰도 AI로 맞대응"
+      ],
+      "path_json": "archive/2026-11-10/12-35.json",
+      "path_md": "archive/2026-11-10/12-35.md"
+    },
     {
       "id": "2026-11-10_04-01",
       "date": "2026-11-10",
