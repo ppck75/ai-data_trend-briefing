@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T20:33:32.276870+09:00",
+  "updated_at": "2026-11-11T01:35:09.335729+09:00",
   "archives": [
+    {
+      "id": "2026-11-11_01-33",
+      "date": "2026-11-11",
+      "time": "01:33",
+      "label": "2026-11-11 01:33",
+      "generated_at": "2026-11-11T01:33:07.437067+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "캠페인 메타엔진 — 무진장 많은 콘텐츠를 하나의 캠페인 구조로 통합하다",
+        "제일기획, 아마존 손잡고 K-브랜드 글로벌 진출 돕는다",
+        "Rethinking Supervision Targets for Multimodal LLM Unlearning: Less Private Information, Reduced Distribution Shift",
+        "세라젬, 'CES 2027' 혁신상 9개 수상…4년 연속 수상",
+        "\"AI 공격에 보안 뚫릴라\"…시스코, 취약점 대응 속도 높인다"
+      ],
+      "path_json": "archive/2026-11-11/01-33.json",
+      "path_md": "archive/2026-11-11/01-33.md"
+    },
     {
       "id": "2026-11-10_20-32",
       "date": "2026-11-10",
