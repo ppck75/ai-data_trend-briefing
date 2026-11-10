@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-10T13:15:57.743273+09:00",
+  "updated_at": "2026-11-10T20:33:32.276870+09:00",
   "archives": [
+    {
+      "id": "2026-11-10_20-32",
+      "date": "2026-11-10",
+      "time": "20:32",
+      "label": "2026-11-10 20:32",
+      "generated_at": "2026-11-10T20:32:48.197443+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+        "캠페인 메타엔진 — 무진장 많은 콘텐츠를 하나의 캠페인 구조로 통합하다",
+        "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "세라젬, 'CES 2027' 혁신상 9개 수상…4년 연속 수상",
+        "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction"
+      ],
+      "path_json": "archive/2026-11-10/20-32.json",
+      "path_md": "archive/2026-11-10/20-32.md"
+    },
     {
       "id": "2026-11-10_12-35",
       "date": "2026-11-10",
