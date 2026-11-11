@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T11:08:10.227386+09:00",
+  "updated_at": "2026-11-11T20:20:54.402703+09:00",
   "archives": [
+    {
+      "id": "2026-11-11_20-20",
+      "date": "2026-11-11",
+      "time": "20:20",
+      "label": "2026-11-11 20:20",
+      "generated_at": "2026-11-11T20:20:29.725769+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "검수도 답변도 호출도 AI가? 커머스API의 2026",
+        "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+        "엔비디아 긴 문맥 논문, 대화 요약으로 줄여도 에이전트 성능 거의 유지",
+        "CJ제일제당, 식음료 제조 AI 개발…공정·품질·안전까지 자동 제어"
+      ],
+      "path_json": "archive/2026-11-11/20-20.json",
+      "path_md": "archive/2026-11-11/20-20.md"
+    },
     {
       "id": "2026-11-11_12-35",
       "date": "2026-11-11",

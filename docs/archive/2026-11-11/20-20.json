@@ -1,0 +1,550 @@
+{
+  "briefing_date": "2026-11-11",
+  "generated_at": "2026-11-11T20:20:29.725769+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 174,
+    "tech_blog": 5,
+    "ai_data": 21
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "6161d6dc39cf254988ff9db4835f24d40862a07b9d82c9eec89fb633bc245bfb",
+        "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+        "source": "NYT Technology",
+        "group": "news",
+        "category": "global_tech",
+        "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+        "published_at": "2026-11-11T00:39:57+09:00",
+        "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
+        "category_score": 98,
+        "score_reason": "AI 업계 최대 규모의 IPO 추진으로 시장 전체의 AI 거품 논란과 투자 지속 가능성을 가늠할 핵심 지표가 됨.",
+        "keywords": [
+          "AI",
+          "IPO",
+          "시장평가"
+        ],
+        "planning_insight": "AI 투자의 성숙기 진입 여부를 판단하는 바로미터로서, 기술 가치 평가 방식 변화에 주목한 콘텐츠 기획 필요."
+      },
+      {
+        "rank": 2,
+        "id": "cee17a0f8a9b6bb110fafabfb0f10ff0a10d52097b30b82b77cc00bbd517fca1",
+        "title": "한국에서도 데카콘이 탄생...중기부 \"2030년까지 1곳 육성\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261111170820",
+        "published_at": "2026-11-11T17:08:20+09:00",
+        "summary": "[지디넷코리아]중소벤처기업부(중기부)가 오는 2030년까지 AI 스타트업 20개 유니콘(기업가치 1조원 이상)과 데카콘(기업가치 10조 이상) 1개 육성에 나선다.산업연구원 10월 보고서에 따르면, 세계 AI유니콘은 403개고 이중 한국은 6개(1.5%)다. AI데카콘은 세계적으로 41개고 이중 한국은 한 곳도 없다.11일 중기부는 국가인공지능전략위원회(국가AI전략위)와 공동으로 마련한 'AI 스타트업 비욘드(Beyond) 유니콘 육성 전략'을 이 같은 계획을 밝혔다. 발표는 국내 최대 규모 딥테크 스타트업 기술포럼 ‘딥 다이브 인투 2026’(DEEP DIVE INTO 2026, 이하 DETO)에서 했다. 이소영 중기부 장관은 이번 발표와 함께 각각 미국, 일본, 한국 유니콘인 휴먼스앤드(humans&), 사카나AI(Sakana AI), 뤼튼테크놀로지스와 ‘열린 대화'도 가졌다.이번 ‘육성 전략’은 유망 인공지능(AI) 스타트업을 발굴하는 데 그치지 않고, 글로벌 시장에서 경쟁력…",
+        "category_score": 95,
+        "score_reason": "국가 단위의 AI 유니콘·데카콘 육성 전략은 향후 AI 생태계의 비즈니스 모델 변화와 정책적 방향성을 보여주는 핵심 신호.",
+        "keywords": [
+          "AI",
+          "스타트업",
+          "정책"
+        ],
+        "planning_insight": "정부 주도 AI 산업 지원 정책이 실제 기업의 수익화 및 스케일업 전략과 어떻게 맞물리는지 분석하는 리포트 기획."
+      },
+      {
+        "rank": 3,
+        "id": "36be375e8e87076beac85f226b16a4862dd84b0f67b4cfd87945af074d646591",
+        "title": "엔비디아 긴 문맥 논문, 대화 요약으로 줄여도 에이전트 성능 거의 유지",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261110210319",
+        "published_at": "2026-11-10T21:03:19+09:00",
+        "summary": "[지디넷코리아]AI 모델이 기억하는 대화 분량을 늘릴수록 성능이 좋아진다는 통념과 다른 연구 결과가 공개됐다. 엔비디아 연구진 12명은 11월 3일 논문 공개 사이트 아카이브(arXiv)에 올린 논문에서, 긴 작업 중간에 대화 내용을 요약해 줄여도 AI 에이전트 성능이 대부분 유지됐다고 밝혔다. 여기서 문맥은 AI가 답을 만들 때 한 번에 참고하는 대화와 자료의 분량을 말한다. 긴 문맥을 처리하는 비용이 AI 서비스 가격에 직접 반영되는 만큼, AI 에이전트를 쓰는 기업과 개발자에게 비용 절감의 근거가 될 수 있는 결과다.256K 문맥 운영 비용, 16K보다 최대 7배연구진은 문맥이 길어질수록 나중에 생성하는 토큰의 비용이 먼저 생성하는 토큰보다 비싸진다는 점부터 확인했다. 토큰은 AI가 글을 처리하는 기본 단위로, 16K는 약 1만 6,000토큰, 256K는 약 25만 6,000토큰을 뜻한다. 초록에 따르면, 가중치가 공개된 최신 모델에서는 이 비용 차이가 최대 7배까지 커질 수…",
+        "category_score": 92,
+        "score_reason": "긴 문맥 처리가 AI 비용 효율화의 핵심인 상황에서 '요약' 기술을 통한 비용 절감은 상용화 단계의 중요한 소비자 및 기업 전략임.",
+        "keywords": [
+          "AI",
+          "비용효율화",
+          "에이전트"
+        ],
+        "planning_insight": "AI 도입 기업들의 '비용 대비 성능(ROI)' 최적화 전략을 다루는 실무 중심 콘텐츠 발행."
+      },
+      {
+        "rank": 4,
+        "id": "028ffeeec8c0e74d1f0ae748493b9ce4f224d35a928ce099be82e77eb8c35998",
+        "title": "세라젬, 'CES 2027' 혁신상 9개 수상…4년 연속 수상",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261110100327",
+        "published_at": "2026-11-10T10:27:01+09:00",
+        "summary": "[지디넷코리아]글로벌 헬스케어 가전기업 세라젬이 내년 초 열리는 CES 2027에서 역대 최다 부문 수상 기록을 썼다. 세라젬은 미국 소비자기술협회(CTA)가 발표한 CES 2027 혁신상에서 총 8개 제품이 혁신상 9개를 수상했다고 10일 밝혔다. 세라젬은 지난 2024년 첫 수상 후 4년 연속 혁신상 수상 행진을 이어갔다. 누적 수상 규모는 총 30개다.'세라젬 AI 웰니스 홈'은 인공지능(AI) 부문 혁신상을 받았다. '나보다 나를 더 잘 아는 살아 숨쉬는 집'을 콘셉트로 한 이 제품은 사용자 생체 데이터와 생활 패턴을 실시간 분석해 주거 공간과 헬스케어 디바이스를 자율 조율하는 피지컬 AI 기반 초개인화 솔루션이다. 세라젬이 타깃을 세분화한 AI 헬스케어 제품군도 수상명단에 포함됐다. 영유아 상태를 실시간 모니터링하고 맞춤 케어를 지원하는 'AI 센서 팟 & 스마트 크립'은 디지털 헬스와 AI 2개 부문에서 혁신상을 받으며 2관왕을 차지했다. 시니어의 개인 맞춤형 홈 근육…",
+        "category_score": 89,
+        "score_reason": "피지컬 AI를 활용한 초개인화 헬스케어 솔루션이 CES 혁신상을 수상하며 소비자 생활 환경으로 AI가 본격 침투함을 증명함.",
+        "keywords": [
+          "AI",
+          "헬스케어",
+          "초개인화"
+        ],
+        "planning_insight": "기술 중심의 AI 담론에서 벗어나 사용자 경험(UX) 관점의 '생활 밀착형 AI' 서비스 사례 연구."
+      },
+      {
+        "rank": 5,
+        "id": "7429ed763ef8dc8b2b213cd69b4a8f9d3de2822e875b203280ba7800c893d37d",
+        "title": "CJ제일제당, 식음료 제조 AI 개발…공정·품질·안전까지 자동 제어",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261111094107",
+        "published_at": "2026-11-11T09:53:28+09:00",
+        "summary": "[지디넷코리아]CJ제일제당이 식음료(F&B) 제조 현장에 특화된 인공지능(AI) 자율제조 기술 개발에 나선다.CJ제일제당은 식품업종 대표기업으로 산업통상부 ‘AI Factory 지원사업’에 참여한다고 11일 밝혔다.이번 과제는 CJ제일제당과 원프레딕트, 아이벡스, 한국생산기술연구원이 함께 추진한다. 제조 데이터와 설비, 공정, 품질, 안전을 AI로 연결해 생산 현장의 자동화 수준을 높이는 것이 목표다.우선 서로 다른 생산설비에서 나오는 데이터를 실시간으로 연결·분석해 AI 학습에 활용할 수 있는 ‘AI-Ready’ 데이터 기반을 구축한다.이 데이터를 활용해 공정 특성과 센서 정보를 함께 분석하는 PINN(Physics-Informed Neural Network) 기반 AI 기술도 적용한다. AI가 생산설비의 운전 조건을 예측하고 공정을 자동으로 제어하는 방식이다.품질 관리에는 머신비전과 로봇, 엣지AI 기술을 활용한다. 이물과 파손, 포장 불량 등을 실시간으로 감지하고 생산설비 제…",
+        "category_score": 87,
+        "score_reason": "제조 데이터와 AI의 결합은 단순 기술 도입을 넘어 전통적 F&B 산업의 구조적 효율화를 이끄는 변화의 신호탄임.",
+        "keywords": [
+          "AI",
+          "제조업",
+          "자율제조"
+        ],
+        "planning_insight": "디지털 전환(DX)에서 AI 전환(AX)으로 이행하는 과정의 산업별 구체적 사례 및 파급력 분석."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "90e8b9f88660ecc3ef194f4eefae5b6ff62d3d495920ab7e00a69ab1ca879c9d",
+        "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7749530",
+        "published_at": "2026-11-11T14:14:04+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 검수도 답변도 호출도 AI가? 커머스API의 2026 NAVER D2 | 검수도 답변도 호출도 AI가? 커머스API의 2026 naver.me ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과를 소개합니다. ​ 발표 대상 API 를 만들거나 운영하는 백엔드 개발자 게이트웨이·플랫폼 운영자 LLM·MCP 를 서비스에 연결하려는 개발자 ​ 목차 도입 : 우리가 맡은 플랫폼과 AI 로 할 수 있게 된 것 1장. 라우팅 룰 AI 검수 - 자동화 규칙 50개를 데이터로 만들고, 판단이 필요한 규칙까지 자동으로 검수하는 엔진 2장. MCP G/W(MCP 게이트웨이) - 도구화 API 명세를 AI 에이전트가 부르는 Tool 로 바…",
+        "category_score": 98,
+        "score_reason": "커머스 플랫폼의 AI 네이티브 전환 사례로, API 검수부터 답변 생성까지 실질적인 제품 기획 및 운영 전략을 포괄적으로 다룸.",
+        "keywords": [
+          "AI 네이티브",
+          "커머스 API",
+          "플랫폼 전략"
+        ],
+        "planning_insight": "API를 단순한 데이터 통로가 아닌 AI 에이전트의 도구(Tool)로 재정의하여 서비스 자동화 수준을 높이는 제품 설계 모델 제시."
+      },
+      {
+        "rank": 2,
+        "id": "7de9aafaa0a0836fb2fc9416d7e0994fe76d81be39121edb9f5064b486cccbbb",
+        "title": "AI 스킬 만들기 10계명: Figma→Code 자동화 실전기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/8562180",
+        "published_at": "2026-11-10T19:27:18+09:00",
+        "summary": "이 글에서 예로 든 스킬은 naver/design-to-ui 라는 이름의 오픈 소스로 공개되어 있습니다. 들어가며: 같은 모델, 다른 결과 AI 코딩 도구를 쓰다 보면 프롬프트에서 같은 설명을 매번 반복하게 됩니다. \"이건 아이콘이니까 에셋으로 받아\", \"이건 그래프니까 Canvas로 그려\", \"색상은 하드코딩하지 말고 디자인 토큰을 써\" 같은 설명이 그렇습니다. Figma 디자인을 Android 코드로 옮길 때도 마찬가지였습니다. 그래서 Claude의 스킬(Agent Skills) 기능이 공개되자마자 Figma 디자인을 Android UI로 변환하는 스킬을 만들기 시작했습니다. 목표는 프롬프트 한 번으로 완성도 높은 UI를 얻는 것이었습니다. 스킬의 효과는 생각보다 컸습니다. 2026년 3월, 같은 모델(Claude Opus 4.6)과 같은 프롬프트에 Figma Desktop MCP 서버까지 똑같이 쓰고 스킬만 바꿔 화면 하나를 조건마다 한 번씩 변환해 보았습니다. 그 결과는 다…",
+        "category_score": 92,
+        "score_reason": "Figma 디자인을 UI 코드로 자동 변환하는 구체적인 워크플로우를 제시하여 생산성 향상과 디자인 시스템 운용의 효율성을 직접적으로 보여줌.",
+        "keywords": [
+          "UX 자동화",
+          "디자인 시스템",
+          "Agent Skill"
+        ],
+        "planning_insight": "반복되는 AI 프롬프트 작업을 스킬(Skill)화하여 디자인 생산성을 극대화하는 방식은 복잡한 콘텐츠 생산 파이프라인 구축에 큰 참고가 됨."
+      },
+      {
+        "rank": 3,
+        "id": "c1c757317445904816c422b0bc8e4b71be1222abfef922dbb19d7ba9570a0513",
+        "title": "실행은 격리하고, 세션은 이어간다: 망분리 환경의 Agent Platform 설계기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/agent-platform-foundation",
+        "published_at": "2026-11-10T16:02:00+09:00",
+        "summary": "토스 망분리 환경의 Agent Platform 설계 과정을 소개합니다.",
+        "category_score": 85,
+        "score_reason": "보안 환경(망분리)이라는 서비스 제약 상황에서 에이전트 플랫폼을 어떻게 설계하고 운영하는지에 대한 제품 구조적 접근이 돋보임.",
+        "keywords": [
+          "에이전트 플랫폼",
+          "제품 설계",
+          "보안 인프라"
+        ],
+        "planning_insight": "기술적 제약을 창의적인 플랫폼 설계로 극복하는 과정은 대규모 사용자 접점 서비스 기획 시 유연한 인프라 확보의 중요성을 시사함."
+      },
+      {
+        "rank": 4,
+        "id": "4d3e0a7daab29ba0b99631471163c353db2494e00ae130abf830dc3b748a9e8a",
+        "title": "우리 팀만의 스펙 주도 개발 정착기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/8644274",
+        "published_at": "2026-11-10T10:32:48+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 우리 팀만의 스펙 주도 개발 정착기 NAVER D2 | 우리 팀만의 스펙 주도 개발 정착기 naver.me ​ 발표 내용 스펙 주도 개발(SDD)을 팀 내 개발 정책으로 채택한 배경과 시행착오에 대해 소개합니다. ​ 발표 대상 스펙 주도 개발 도입을 고민중인 개발자 ​ 목차 배경 - SDD를 도입하게 된 이유 우리 팀이 채택한 SDD의 구조 팀 SDD 정책을 세우며 마주친 고민 일곱갈래 다음 고민과 남은 숙제 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기…",
+        "category_score": 80,
+        "score_reason": "스펙 주도 개발(SDD) 도입을 통해 팀 전체의 협업 프로세스와 제품 품질 관리 전략을 체계적으로 수립한 사례임.",
+        "keywords": [
+          "개발 프로세스",
+          "제품 운영",
+          "협업 전략"
+        ],
+        "planning_insight": "콘텐츠 전략 또한 명확한 스펙(가이드라인 및 구조)을 주도적으로 정의할 때 서비스 간 일관성과 운영 효율성을 동시에 확보할 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "4b47e8850d874fb105126b6c2b87df40fd9f46de62a7e1a563e634e1d3def481",
+        "title": "Socket.IO 서버를 여러 Pod에서 운영하기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3517874",
+        "published_at": "2026-11-11T10:51:27+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ Socket.IO 서버를 여러 Pod에서 운영하기 NAVER D2 | Socket.IO 서버를 여러 Pod에서 운영하기 naver.me ​ 발표 내용 Socket.IO와 n3r 기반의 소켓 서버를 자체 구축하면서, 여러 Pod 사이의 이벤트 전달과 안정적인 연결 유지를 위한 설계와 검증 과정, 운영 경험을 정리해 공유합니다. ​ <참고> 영상속 사내용어 n3r = 네이버 사내 쿠버네티스 기반 컨테이너 플랫폼 ​ 발표 대상 WebSocket이나 Socket.IO 서버를 Kubernetes 위에서 여러 인스턴스로 운영하려는 백엔드 개발자 ​ 목차 배경 기존 플랫폼의 제약과 신규 소켓 서버 구축 목표 기본 개념 Socket.IO의 역할과 다중 Pod 환경의 연결 특성 설계 연결 인증, Pod 간 이벤트 전달, 자료구조와 사용자 흐름 운영 타임아웃, 오토스케일과 재분산,…",
+        "category_score": 75,
+        "score_reason": "대규모 서비스 환경에서의 안정적인 소켓 서버 운영 기법을 공유하여, 실시간 데이터 송수신 기반의 서비스 기획에 필요한 기술적 토대를 제공함.",
+        "keywords": [
+          "실시간 데이터",
+          "확장성",
+          "인프라 운영"
+        ],
+        "planning_insight": "안정적인 서비스 운영은 사용자 경험의 전제 조건이며, 기술적 운영 난제를 해결하는 과정 자체를 콘텐츠화하는 전략적 접근이 유효함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "7a13abe51b6f6e812849d71b0e68367d39e8acc2fd7087d0537cfc01c6698e9e",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "published_at": "2026-11-11T14:01:16+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "온디바이스 AI와 에이전트 기술의 결합은 기획자가 개인화된 사용자 경험 및 로컬 데이터 처리를 구현하는 데 가장 핵심적인 변화임.",
+        "keywords": [
+          "에이전트",
+          "온디바이스",
+          "개인화"
+        ],
+        "planning_insight": "클라우드 의존도를 줄이고 사용자 개인 데이터에 최적화된 맞춤형 에이전트 서비스 기획의 토대 마련 가능."
+      },
+      {
+        "rank": 2,
+        "id": "d5b2e301427ef6d36d25595b3822d7516716708f9cf9027db8df433e2155e39b",
+        "title": "TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs for Multimodal Reasoning and Forecasting",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12902",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12902v1 Announce Type: new Abstract: Time series from real-world systems are often accompanied by text, such as a report on an event that affects them. Two common tasks on these series are understanding, e.g., answering questions about a series, and forecasting its future values. Both tasks require reasoning over the series and the text together. Moreover, understanding outputs text while forecasting outputs a time series, so serving both requires a model that reads and generates bot…",
+        "category_score": 95,
+        "score_reason": "시계열 데이터와 텍스트의 결합은 비즈니스 데이터 분석 자동화 및 인사이트 도출의 핵심 영역임.",
+        "keywords": [
+          "멀티모달",
+          "시계열 분석",
+          "예측"
+        ],
+        "planning_insight": "기존 통계 기반 예측 모델을 넘어 텍스트 맥락을 이해하는 AI 기반 예측 콘텐츠 및 보고서 자동화 기획에 활용."
+      },
+      {
+        "rank": 3,
+        "id": "a64f7261a6cb48c0e7ccf94bea4626123a93554eb71b9bb0501af818f80b5c4e",
+        "title": "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12903",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12903v1 Announce Type: new Abstract: Context compression is now routine for language models with long inputs, but a compressed context is useful only if it keeps the evidence for the answer. Existing checks compare the reader model's answer or its most likely words, and thus miss a frequent failure, silent evidence loss: key evidence is removed while the answer stays the same, leaving the answer unsupported and risky for other models that reuse the context. To address this challenge,…",
+        "category_score": 92,
+        "score_reason": "RAG 환경에서 정보 누락(Silent Evidence Loss)을 감지하는 기술은 콘텐츠 신뢰성 확보와 환각 방지를 위한 실무적 필수 요소임.",
+        "keywords": [
+          "RAG",
+          "컨텍스트 압축",
+          "신뢰성"
+        ],
+        "planning_insight": "RAG 시스템 구축 시 데이터 요약 및 압축 과정에서 발생하는 정보 왜곡을 방지하여 고품질 콘텐츠 생성 안정성 확보."
+      },
+      {
+        "rank": 4,
+        "id": "e449b325d7727720960e06ad5efac53e0021c776865d7e28a7ff5bcfe93d7cc6",
+        "title": "Retrofitting Unbounded Context onto Stock Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.10141",
+        "published_at": "2026-11-10T14:00:00+09:00",
+        "summary": "arXiv:2611.10141v1 Announce Type: new Abstract: A language model that never had to forget would keep every document it has read and every turn it has spoken, and answer from any of it. This paper shows that two stock models can do that on unmodified weights by manipulating their geometry. Rotary attention turns each pair of key dimensions, a plane, at its own rate. The slow planes turn once in thousands of tokens and carry the address a query matches when it reads a far key; the fast planes tur…",
+        "category_score": 90,
+        "score_reason": "무제한 컨텍스트 처리는 긴 호흡의 콘텐츠 기획, 방대한 문서 분석 등 LLM 활용도를 비약적으로 높이는 핵심 기술임.",
+        "keywords": [
+          "LLM",
+          "컨텍스트 윈도우",
+          "데이터 처리"
+        ],
+        "planning_insight": "긴 문맥을 유지해야 하는 대규모 기획서 작성, 긴 영상 분석 등 복잡한 워크플로우 자동화 기획 시 제약 완화."
+      },
+      {
+        "rank": 5,
+        "id": "e639d058dc26d5e4d22eae44f406c5afce964339077bea58c4699413c6b8ac6e",
+        "title": "Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12995",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12995v1 Announce Type: new Abstract: Knowledge editing has emerged as a promising approach for efficiently updating embedded knowledge in large language models (LLMs). It first computes an ideal target hidden state that steers the LLM toward the new output, and then edits the model parameters so that the original hidden state is mapped to this target. While most existing methods focus on the second stage of parameter editing in preserving other knowledge, we find that the upstream co…",
+        "category_score": 88,
+        "score_reason": "LLM 지식 편집 기술은 사내 최신 데이터나 콘텐츠 트렌드를 모델 재학습 없이 효율적으로 반영할 수 있게 함.",
+        "keywords": [
+          "지식 편집",
+          "LLM",
+          "모델 최적화"
+        ],
+        "planning_insight": "실시간성 확보가 중요한 미디어 콘텐츠 봇이나 기업 내 사내 지식 관리 시스템(KMS) 운영 시 비용 효율적인 업데이트 구현."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "90e8b9f88660ecc3ef194f4eefae5b6ff62d3d495920ab7e00a69ab1ca879c9d",
+      "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/7749530",
+      "published_at": "2026-11-11T14:14:04+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 검수도 답변도 호출도 AI가? 커머스API의 2026 NAVER D2 | 검수도 답변도 호출도 AI가? 커머스API의 2026 naver.me ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과를 소개합니다. ​ 발표 대상 API 를 만들거나 운영하는 백엔드 개발자 게이트웨이·플랫폼 운영자 LLM·MCP 를 서비스에 연결하려는 개발자 ​ 목차 도입 : 우리가 맡은 플랫폼과 AI 로 할 수 있게 된 것 1장. 라우팅 룰 AI 검수 - 자동화 규칙 50개를 데이터로 만들고, 판단이 필요한 규칙까지 자동으로 검수하는 엔진 2장. MCP G/W(MCP 게이트웨이) - 도구화 API 명세를 AI 에이전트가 부르는 Tool 로 바…",
+      "category_score": 98,
+      "score_reason": "커머스 플랫폼의 AI 네이티브 전환 사례로, API 검수부터 답변 생성까지 실질적인 제품 기획 및 운영 전략을 포괄적으로 다룸.",
+      "keywords": [
+        "AI 네이티브",
+        "커머스 API",
+        "플랫폼 전략"
+      ],
+      "planning_insight": "콘텐츠 관리 시스템(CMS)과 API를 연동하여 AI가 직접 콘텐츠를 배포하고 검수하는 워크플로우 자동화 기획의 벤치마크로 활용 가능.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "커머스 플랫폼의 API를 AI 에이전트의 도구로 재설계하여 자동화 수준을 극대화한 사례",
+      "importance_reason": "단순 데이터 조회를 넘어 AI가 직접 API를 호출하고 검수하는 'AI 네이티브 서비스'로의 전환점을 제시함."
+    },
+    {
+      "rank": 2,
+      "id": "7a13abe51b6f6e812849d71b0e68367d39e8acc2fd7087d0537cfc01c6698e9e",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published_at": "2026-11-11T14:01:16+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "온디바이스 AI와 에이전트 기술의 결합은 기획자가 개인화된 사용자 경험 및 로컬 데이터 처리를 구현하는 데 가장 핵심적인 변화임.",
+      "keywords": [
+        "에이전트",
+        "온디바이스",
+        "개인화"
+      ],
+      "planning_insight": "개인화된 인터랙티브 콘텐츠 기획 시, 데이터 프라이버시를 보호하면서 사용자 행동 맥락을 반영하는 '온디바이스 가이드' 기획에 최적.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "10억 파라미터 미만 모델로 구현한 온디바이스 개인화 에이전트 기술",
+      "importance_reason": "클라우드 의존 없이 로컬 데이터 기반의 개인 맞춤형 경험을 제공하는 기술은 프라이버시 이슈가 민감한 커머스·콘텐츠 분야의 핵심 트렌드임."
+    },
+    {
+      "rank": 3,
+      "id": "a64f7261a6cb48c0e7ccf94bea4626123a93554eb71b9bb0501af818f80b5c4e",
+      "title": "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.12903",
+      "published_at": "2026-11-11T14:00:00+09:00",
+      "summary": "arXiv:2611.12903v1 Announce Type: new Abstract: Context compression is now routine for language models with long inputs, but a compressed context is useful only if it keeps the evidence for the answer. Existing checks compare the reader model's answer or its most likely words, and thus miss a frequent failure, silent evidence loss: key evidence is removed while the answer stays the same, leaving the answer unsupported and risky for other models that reuse the context. To address this challenge,…",
+      "category_score": 92,
+      "score_reason": "RAG 환경에서 정보 누락(Silent Evidence Loss)을 감지하는 기술은 콘텐츠 신뢰성 확보와 환각 방지를 위한 실무적 필수 요소임.",
+      "keywords": [
+        "RAG",
+        "컨텍스트 압축",
+        "신뢰성"
+      ],
+      "planning_insight": "데이터 기반 리포트나 자동 생성 콘텐츠의 팩트 체크 프로세스를 정교화하고, AI 시스템 품질 평가 지표로 도입할 가치가 있음.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "RAG 환경에서 정보 손실(Silent Evidence Loss)을 감지하여 답변 신뢰성을 높이는 기술",
+      "importance_reason": "AI 기반 콘텐츠 생성 시 '환각'은 실무의 최대 난제임. 기술적으로 정보 누락을 방지하는 체계는 콘텐츠 신뢰도에 직결됨."
+    },
+    {
+      "rank": 4,
+      "id": "36be375e8e87076beac85f226b16a4862dd84b0f67b4cfd87945af074d646591",
+      "title": "엔비디아 긴 문맥 논문, 대화 요약으로 줄여도 에이전트 성능 거의 유지",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261110210319",
+      "published_at": "2026-11-10T21:03:19+09:00",
+      "summary": "[지디넷코리아]AI 모델이 기억하는 대화 분량을 늘릴수록 성능이 좋아진다는 통념과 다른 연구 결과가 공개됐다. 엔비디아 연구진 12명은 11월 3일 논문 공개 사이트 아카이브(arXiv)에 올린 논문에서, 긴 작업 중간에 대화 내용을 요약해 줄여도 AI 에이전트 성능이 대부분 유지됐다고 밝혔다. 여기서 문맥은 AI가 답을 만들 때 한 번에 참고하는 대화와 자료의 분량을 말한다. 긴 문맥을 처리하는 비용이 AI 서비스 가격에 직접 반영되는 만큼, AI 에이전트를 쓰는 기업과 개발자에게 비용 절감의 근거가 될 수 있는 결과다.256K 문맥 운영 비용, 16K보다 최대 7배연구진은 문맥이 길어질수록 나중에 생성하는 토큰의 비용이 먼저 생성하는 토큰보다 비싸진다는 점부터 확인했다. 토큰은 AI가 글을 처리하는 기본 단위로, 16K는 약 1만 6,000토큰, 256K는 약 25만 6,000토큰을 뜻한다. 초록에 따르면, 가중치가 공개된 최신 모델에서는 이 비용 차이가 최대 7배까지 커질 수…",
+      "category_score": 92,
+      "score_reason": "긴 문맥 처리가 AI 비용 효율화의 핵심인 상황에서 '요약' 기술을 통한 비용 절감은 상용화 단계의 중요한 소비자 및 기업 전략임.",
+      "keywords": [
+        "AI",
+        "비용효율화",
+        "에이전트"
+      ],
+      "planning_insight": "대량의 뉴스나 사내 문서를 다루는 AI 큐레이션 서비스에서 비용 효율을 극대화하는 프롬프트 엔지니어링 전략으로 활용 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "긴 문맥의 내용을 요약 처리하여 AI 에이전트 비용을 절감하는 실무 모델",
+      "importance_reason": "AI 도입 기업들의 비용 대비 성능(ROI)이 핵심 화두인 시점에서, 요약 기술을 활용한 최적화 방안은 매우 실용적임."
+    },
+    {
+      "rank": 5,
+      "id": "7429ed763ef8dc8b2b213cd69b4a8f9d3de2822e875b203280ba7800c893d37d",
+      "title": "CJ제일제당, 식음료 제조 AI 개발…공정·품질·안전까지 자동 제어",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261111094107",
+      "published_at": "2026-11-11T09:53:28+09:00",
+      "summary": "[지디넷코리아]CJ제일제당이 식음료(F&B) 제조 현장에 특화된 인공지능(AI) 자율제조 기술 개발에 나선다.CJ제일제당은 식품업종 대표기업으로 산업통상부 ‘AI Factory 지원사업’에 참여한다고 11일 밝혔다.이번 과제는 CJ제일제당과 원프레딕트, 아이벡스, 한국생산기술연구원이 함께 추진한다. 제조 데이터와 설비, 공정, 품질, 안전을 AI로 연결해 생산 현장의 자동화 수준을 높이는 것이 목표다.우선 서로 다른 생산설비에서 나오는 데이터를 실시간으로 연결·분석해 AI 학습에 활용할 수 있는 ‘AI-Ready’ 데이터 기반을 구축한다.이 데이터를 활용해 공정 특성과 센서 정보를 함께 분석하는 PINN(Physics-Informed Neural Network) 기반 AI 기술도 적용한다. AI가 생산설비의 운전 조건을 예측하고 공정을 자동으로 제어하는 방식이다.품질 관리에는 머신비전과 로봇, 엣지AI 기술을 활용한다. 이물과 파손, 포장 불량 등을 실시간으로 감지하고 생산설비 제…",
+      "category_score": 87,
+      "score_reason": "제조 데이터와 AI의 결합은 단순 기술 도입을 넘어 전통적 F&B 산업의 구조적 효율화를 이끄는 변화의 신호탄임.",
+      "keywords": [
+        "AI",
+        "제조업",
+        "자율제조"
+      ],
+      "planning_insight": "전통 산업의 AI 도입 성공 사례를 스토리텔링하여, 디지털 전환을 고민하는 B2B 기업 대상 브랜디드 콘텐츠 및 리포트 기획에 최적.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "식음료 제조 현장에 물리적 AI를 도입해 공정·품질을 자율 제어하는 AX 사례",
+      "importance_reason": "디지털 전환(DX)을 넘어 실질적인 생산성 혁신을 일으키는 AI 전환(AX)의 구체적인 산업 적용 사례로 시사점이 큼."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 80,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 23,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 17,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 산업이 단순 기술 과대평가 단계를 지나, 실질적인 수익성과 비용 효율화를 입증하는 '상용화 검증기'에 진입함.",
+    "API를 도구화하고 온디바이스 에이전트를 구축하는 등 AI 네이티브 인프라 중심의 제품 설계가 대세가 됨.",
+    "제조·커머스 등 전통 산업 영역에서 AI 기술이 실질적인 운영 자동화 및 데이터 최적화 도구로 깊숙이 침투하고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
