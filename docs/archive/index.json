@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T01:35:09.335729+09:00",
+  "updated_at": "2026-11-11T11:08:10.227386+09:00",
   "archives": [
+    {
+      "id": "2026-11-11_12-35",
+      "date": "2026-11-11",
+      "time": "12:35",
+      "label": "2026-11-11 12:35",
+      "generated_at": "2026-11-11T11:07:35.008452+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "캠페인 메타엔진 — 무진장 많은 콘텐츠를 하나의 캠페인 구조로 통합하다",
+        "Retrofitting Unbounded Context onto Stock Language Models",
+        "디즈니, 캐릭터 전용 AI 활용 확대…어도비와 영화·스포츠까지 협력",
+        "CJ제일제당, 식음료 제조 AI 개발…공정·품질·안전까지 자동 제어",
+        "AI가 바꾼 보험 영업의 방식, AI-Native Sales"
+      ],
+      "path_json": "archive/2026-11-11/12-35.json",
+      "path_md": "archive/2026-11-11/12-35.md"
+    },
     {
       "id": "2026-11-11_01-33",
       "date": "2026-11-11",
