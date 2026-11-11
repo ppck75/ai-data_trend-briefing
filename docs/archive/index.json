@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-11T20:20:54.402703+09:00",
+  "updated_at": "2026-11-12T01:31:32.616090+09:00",
   "archives": [
+    {
+      "id": "2026-11-12_01-30",
+      "date": "2026-11-12",
+      "time": "01:30",
+      "label": "2026-11-12 01:30",
+      "generated_at": "2026-11-12T01:30:29.823518+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "검수도 답변도 호출도 AI가? 커머스API의 2026",
+        "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "AI 산출물이 프로덕션이 되기까지-AI와 디자인시스템이 함께 일하는 법",
+        "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+        "디즈니, 캐릭터 전용 AI 활용 확대…어도비와 영화·스포츠까지 협력"
+      ],
+      "path_json": "archive/2026-11-12/01-30.json",
+      "path_md": "archive/2026-11-12/01-30.md"
+    },
     {
       "id": "2026-11-11_20-20",
       "date": "2026-11-11",
