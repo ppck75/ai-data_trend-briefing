@@ -1,0 +1,556 @@
+{
+  "briefing_date": "2026-11-13",
+  "generated_at": "2026-11-13T01:59:57.423439+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 180,
+    "tech_blog": 8,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "3b262f13ca82d073288279422edbf3f72d4f51e0e80fc7523fde2e73f141c94b",
+        "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261111183252",
+        "published_at": "2026-11-11T18:58:25+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 에이전트가 검색과 쇼핑, 결제 등 플랫폼의 핵심 기능을 수행하기 시작하면서 국내 플랫폼 산업의 경쟁 구도가 변화하고 있다. 글로벌 빅테크가 AI 기술과 자본력을 앞세워 시장 영향력을 확대하는 가운데 국내 기업들이 축적한 이용자 데이터와 서비스 인프라를 활용할 수 있는 정책 환경을 조성해야 한다는 제언이 나왔다.과학기술정보통신부와 정보통신정책연구원(KISDI)은 11일 서울 양재 엘타워에서 'AI 전환기 혁신 기반 강화와 플랫폼 정책 방향'을 주제로 디지털플랫폼 정책포럼 토론회를 개최했다.이날 행사에서는 AI 에이전트 확산에 따른 플랫폼 경쟁 구조 변화와 국내 기업의 대응 전략, 혁신 생태계 구축을 위한 정책 과제 등이 논의됐다.이날 발제를 맡은 전현배 서강대 경제학부 교수는 AI가 기존 플랫폼의 이용자 접점과 데이터 확보 방식에 변화를 가져올 것으로 전망했다.에이전트 커머스는 AI가 소비자를 대신해 상품 탐색과 비교, 추천부터 주문과 결제까지 수행하는…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트 확산에 따른 플랫폼 경쟁 구도 재편은 거시적 트렌드이며, 국내 플랫폼 기업의 생존과 직결된 가장 핵심적인 변화 신호임.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼 경쟁",
+          "디지털 전환"
+        ],
+        "planning_insight": "AI 에이전트 중심의 서비스 고도화 및 기존 데이터 인프라 활용 방안에 대한 전략적 대응이 필요함."
+      },
+      {
+        "rank": 2,
+        "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+        "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112162741",
+        "published_at": "2026-11-12T23:00:01+09:00",
+        "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+        "category_score": 95,
+        "score_reason": "AI가 모바일 기기를 넘어 일상적인 패션 아이템(아이웨어)으로 침투하는 구체적인 형태를 보여줌. 글로벌 기업 간의 합작이라는 점에서 소비자 시장의 하드웨어 변화를 상징함.",
+        "keywords": [
+          "AI 안경",
+          "제미나이",
+          "소비자 가전"
+        ],
+        "planning_insight": "AI 경험의 물리적 확장(Physical AI)을 고려한 콘텐츠 및 UX 기획이 필수적임."
+      },
+      {
+        "rank": 3,
+        "id": "c8781edf42b044737c54d92f4c05f46edc317fcbef264b94726512abb3fdf441",
+        "title": "[AI 리더스] 오픈 모델 강자도 놀랐다…\"韓 개발자 세계 5위권\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112142830",
+        "published_at": "2026-11-12T14:30:18+09:00",
+        "summary": "[지디넷코리아]한국 개발자들의 글로벌 오픈 모델 플랫폼 이용이 빠르게 늘고 있다. 올해 초 대비 국내 올라마(Ollama) 클라우드 사용량은 100배 이상 증가했고 유료 개발자 규모도 세계 5위권에 진입했다. 인공지능(AI) 코딩 에이전트 확산이 성장세를 이끄는 가운데 글로벌 오픈 모델 플랫폼 기업과 국내 AI 추론 클라우드 기업이 한국 시장을 중심으로 협력을 확대하고 있다.제프리 모건 올라마 공동창업자 겸 최고경영자(CEO)는 최근 지디넷코리아와 만나 \"한국의 올라마 클라우드 사용량은 연초 대비 100배 이상 늘었다\"며 \"유료 개발자 규모도 연초 세계 9~10위권에서 5위권으로 올라섰다\"고 밝혔다. 이어 \"한국 기업들이 AI를 소프트웨어 개발에 적극 활용하고 있다\"며 \"스타트업부터 대기업까지 AI 도입 속도가 매우 빠르다\"고 평가했다.올라마는 전 세계 개발자 900만 명 이상이 사용하는 오픈 모델 실행·활용 플랫폼이다. 미국 포춘 500대 기업의 85%에서 활용되고 있다. 모건…",
+        "category_score": 92,
+        "score_reason": "한국 개발자의 글로벌 플랫폼 활용 급증은 국내 개발 생태계가 오픈 모델과 AI 코딩 도구로 빠르게 흡수되고 있음을 나타내는 실질적인 데이터임.",
+        "keywords": [
+          "오픈 모델",
+          "AI 코딩 에이전트",
+          "개발 생태계"
+        ],
+        "planning_insight": "개발자 생산성 향상을 위한 AI 에이전트 도입 전략이 기업의 기술 경쟁력을 결정하는 핵심 요소가 될 것임."
+      },
+      {
+        "rank": 4,
+        "id": "7ca7dcea000628c201a0176e1255781811086d1f3e08ddf66435d7e1bddeffed",
+        "title": "\"통신요금 감면, AI 시대엔 ‘ICT 바우처’로\"...보편서비스 개편론 부상",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261111173903",
+        "published_at": "2026-11-11T17:47:33+09:00",
+        "summary": "[지디넷코리아]통신요금 감면을 통신·단말·콘텐츠·AI 서비스에 선택적으로 사용할 수 있는 ‘통합 ICT 바우처’로 개편하자는 제안이 나왔다.디지털 격차가 접속 여부를 넘어 활용 역량의 문제로 바뀌는 만큼, 보편적 서비스의 범위와 지원 방식, 재원 부담을 재설계해야 한다는 논리다.윤두희 SK텔레콤 AI정책연구원 부사장은 11일 한국프레스센터에서 열린 정보통신정책학회 세미나에서 “기존 통신 중심 요금감면을 통합 ICT 바우처 시범사업을 통해 이용자에 선택권을 줘보자”며 “단순한 통신요금 감면이 아니라 국민이 선택할 수 있는 혜택 범위를 넓혀보자는 것”이라고 말했다.윤 부사장은 통신요금 감면이 연간 850만명의 통신 접근권을 안정적으로 뒷받침해왔다고 평가했다. 그런 가운데 ICT 바우처를 통해 지원 대상과 범위를 확대해온 제도의 성과를 유지하면서 AI 시대에 필요한 혜택을 담을 방안을 논의하자는 뜻이다.그는 “가계지출은 통신비에서 디지털 비용으로 무게 중심이 이동하고 있다”면서 “디지털…",
+        "category_score": 89,
+        "score_reason": "통신 요금 감면을 'ICT 바우처'로 전환하자는 제안은 AI 시대의 보편적 서비스 개념을 재정의하는 정책적 신호임.",
+        "keywords": [
+          "ICT 바우처",
+          "AI 서비스 접근성",
+          "정책 변화"
+        ],
+        "planning_insight": "정부 주도의 AI 바우처 시장이 열릴 경우, 이를 활용한 기업 대상 AI B2B 비즈니스 확장 기회를 선점해야 함."
+      },
+      {
+        "rank": 5,
+        "id": "0fe963e33eaf646f3bdb4ac7c05070a5f96319cd9dec318683b47a35007bd7b9",
+        "title": "[신간] AI 도입했는데 조직은 그대로네…'AI 네이티브 조직' 출간",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112181205",
+        "published_at": "2026-11-12T18:12:05+09:00",
+        "summary": "[지디넷코리아]씽킹AI의 창업자 겸 CEO 패리스 류가 신간 'AI 네이티브 조직'(에이케이커뮤니케이션즈·352쪽·1만9000원)을 출간했다. 이 책은 AI 도구를 도입하는 것만으로는 조직이 달라지지 않는다는 문제의식에서 출발해, AI 에이전트와 함께 일하기 위해 기업이 무엇을 다시 설계해야 하는지 살펴본다.이번에 출간된 책에는 저자가 AI를 회사에 도입한 이후 1년간 조직의 구조와 직무, 일하는 방식들이 어떻게 바뀌어 왔는지 그 여정이 고스란히 담겨 있다. AI 에이전트가 조직 안에서 실제 업무를 맡게 됐을 때, 회사의 지식을 어떻게 정리해 AI가 활용하도록 할 것인지, 그 권한은 어디까지로 정할 것인지, 문제가 발생했을 때 사람은 어디까지 책임질 것인지 등 다양한 조직 설계에 대한 고민과 해법이 동시에 담겨 있다.그 여정의 출발점은 씽킹AI 내부의 한 의사결정이었다. 특정 산업 고객을 위한 맞춤 기능을 개발할지 정하는 일이었다. 고객 성공 매니저가 고객과 나눈 대화는 40분 남…",
+        "category_score": 86,
+        "score_reason": "AI 도입 후 조직 구조 설계라는 본질적인 문제를 다루고 있어, 단순 기술 도입을 넘어 '조직의 일하는 방식'이 변하는 트렌드를 반영함.",
+        "keywords": [
+          "AI 네이티브",
+          "조직 설계",
+          "디지털 전환"
+        ],
+        "planning_insight": "AI 에이전트가 조직 업무를 전담하는 미래 업무 방식에 맞춰 직무 정의와 지식 관리 체계를 사전에 재설계할 필요가 있음."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "90e8b9f88660ecc3ef194f4eefae5b6ff62d3d495920ab7e00a69ab1ca879c9d",
+        "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7749530",
+        "published_at": "2026-11-11T14:14:04+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 검수도 답변도 호출도 AI가? 커머스API의 2026 NAVER D2 | 검수도 답변도 호출도 AI가? 커머스API의 2026 naver.me ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과를 소개합니다. ​ 발표 대상 API 를 만들거나 운영하는 백엔드 개발자 게이트웨이·플랫폼 운영자 LLM·MCP 를 서비스에 연결하려는 개발자 ​ 목차 도입 : 우리가 맡은 플랫폼과 AI 로 할 수 있게 된 것 1장. 라우팅 룰 AI 검수 - 자동화 규칙 50개를 데이터로 만들고, 판단이 필요한 규칙까지 자동으로 검수하는 엔진 2장. MCP G/W(MCP 게이트웨이) - 도구화 API 명세를 AI 에이전트가 부르는 Tool 로 바…",
+        "category_score": 98,
+        "score_reason": "AI를 활용한 API 플랫폼의 진화(검수, 답변, 호출)를 다루며, LLM/MCP를 실무 서비스에 통합하는 구체적인 설계 결정을 공유하여 전략적 가치가 매우 높음.",
+        "keywords": [
+          "AI",
+          "API 플랫폼",
+          "LLM",
+          "MCP"
+        ],
+        "planning_insight": "AI-Native 플랫폼으로의 전환을 위해 서비스 기획 단계에서 API 스펙을 어떻게 AI 친화적으로 설계해야 하는지에 대한 구조적 방향성을 제시함."
+      },
+      {
+        "rank": 2,
+        "id": "c6746ff60b6e0fd8ab81781024d9aa7a116e69d959eb32dcd57822ab3f9c2024",
+        "title": "AI 산출물이 프로덕션이 되기까지-AI와 디자인시스템이 함께 일하는 법",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2568242",
+        "published_at": "2026-11-11T17:10:44+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI변화와 함께 성장하는 디자인시스템을 소개합니다. ​ AI 산출물이 프로덕션으로 이어지지 못하는 5가지 이유 스펙·HTML·이미지 어떤 입력이든 Figma로 모으는 전략과, Figma를 중심에 둔 이유 AI와 설계자가 같은 블록으로 조립하도록 컴포넌트·디자인 토큰·design.md로 설계 의도를 표현하는 방법 접근성·인터랙션·엣지 케이스가 담긴 코드 컴포넌트와 Code Connect로 Figma와 코드를 잇는 방법 이미지 → Figma, Figma → 마크업, Figma ↔ 마크업 비교 데모 (Claude Code 플러그인 defign-toolkit) Figma의 높은 자유도를 보완하는 deFign assistant 도입 후 달라진 점과 앞으로의 방향 (Spec → Code) ​ 발표 대상 AI로 만든 결과물을 실제 서비스로 옮기는 데 드는 재작업이…",
+        "category_score": 95,
+        "score_reason": "AI 산출물을 디자인 시스템과 연결하여 프로덕션으로 전환하는 워크플로우를 다룸. 디자인 토큰과 코드 커넥트(Code Connect)를 활용한 실무 사례가 매우 구체적임.",
+        "keywords": [
+          "디자인시스템",
+          "AI",
+          "UX",
+          "Productivity"
+        ],
+        "planning_insight": "디자인과 개발의 파편화를 AI를 통해 어떻게 통합하고, 결과물의 일관성을 유지하며 생산성을 높일 수 있는지에 대한 UI/UX 운영 전략을 보여줌."
+      },
+      {
+        "rank": 3,
+        "id": "67c35aa1c87514f882d4e830df727b6bc333b4a54241439e72e446b93876092a",
+        "title": "로그인 화면, 이제 만들지 마세요 - n3r OIDC",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4293206",
+        "published_at": "2026-11-11T17:16:53+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 n3r.iam을 OIDC Provider로 확장해 어떤 서비스에든 'n3r 계정으로 로그인'을 붙이는 방법을 소개하고, n3r의 프로젝트·역할 정보를 표준 토큰에 담아낸 설계 결정을 공유합니다. ​ <참고> 영상속 사내용어 n3r = 네이버 사내 쿠버네티스 기반 컨테이너 플랫폼 ​ ​ 발표 대상 n3r app에 사내 로그인과 권한 연동을 고려하는 개발자 표준 OIDC 위에 자체 권한 체계를 얹는 설계에 관심 있는 엔지니어 ​ 목차 Part 1. 로그인 화면을 만들 필요가 없는 이유 n3r OIDC가 필요한 사례 앱 하나를 띄울 때마다 반복되는 일 OIDC란 n3r에 이미 있는 계정과 권한 Part 2. n3r.iam OIDC 적용 방법 전체 로그인 flow 1단계: client 등록 2단계: 연동 설정 3단계: 토큰 안의 n3r 정보 n3r OIDC…",
+        "category_score": 90,
+        "score_reason": "표준 OIDC를 기반으로 사내 인증 플랫폼(n3r)을 확장한 사례로, 플랫폼 공통 기능을 표준화하고 파편화된 서비스들을 하나의 생태계로 묶는 제품 전략이 돋보임.",
+        "keywords": [
+          "OIDC",
+          "플랫폼 전략",
+          "인증",
+          "Product Structure"
+        ],
+        "planning_insight": "서비스 기획 시 사용자 인증 및 권한 관리 시스템을 독립적으로 구축하는 대신, 표준 플랫폼과 통합하여 운영 효율성을 극대화하는 아키텍처 전략 참고 가능."
+      },
+      {
+        "rank": 4,
+        "id": "f617b244a2ecea955c40e60aeccf3d5c63b68bb9b16ea63401ca4e1650071286",
+        "title": "worklog-system 주간보고 자동화 구축 경험기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5037598",
+        "published_at": "2026-11-11T17:17:53+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하고 TODO 및 회의록을 기록하는 시스템을 소개합니다. ​ 이 도구를 만들며 부딪힌 세 가지 문제를 차례로 다룹니다. 기억이 아니라 기록에서 주간보고를 모으는 방법 재택과 사무실을 오가며 여러 기기와 VPN 환경에서 기록을 빠짐없이 모으는 구조 주간보고 화면에 노트·TODO·일정을 더해 업무 도구로 키우면서 중앙 서버 없이 해결한 과정 ​ <참고> 영상속 사내용어 OSS = 네이버 사내 GitHub Enterprise 인스턴스 ​ 발표 대상 주간보고를 쓰는 모든 직군 반복되는 업무 기록과 보고를 자동화하고 싶은 분 AI 도구와 사내 협업 도구(Slack, Jira, Confluence, GitHub)를 엮어 개인 생산성 도구를 만들어 보고 싶은 분 ​ 목차 데모: 하루 끝, 주간보고 끝 Episode 1. 주간보고…",
+        "category_score": 85,
+        "score_reason": "개인 업무 로그를 자동화하는 시스템 구축 과정에서 정보 수집, 구조화, 활용이라는 데이터 처리의 핵심 과정을 담고 있음.",
+        "keywords": [
+          "데이터 활용",
+          "자동화",
+          "UX",
+          "생산성"
+        ],
+        "planning_insight": "파편화된 사용자 데이터를 어떻게 통합하여 의미 있는 정보(주간보고 등)로 가공할 수 있는지에 대한 개인화/생산성 도구 기획 인사이트 제공."
+      },
+      {
+        "rank": 5,
+        "id": "2708cf2b34e577fd87e65055522ca1d5ba8d63b7894466c908e4684c48cdb71a",
+        "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+        "source": "뱅크샐러드 기술블로그",
+        "group": "tech_blog",
+        "category": "fintech_data",
+        "url": "https://corp.banksalad.com/blog/news/bs1504/",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…",
+        "category_score": 82,
+        "score_reason": "AI OS 기반의 금융 서비스 플랫폼 비전을 제시함. 단순 개발 회고가 아닌 AI 중심의 서비스 운영 모델(AI-Native Sales)을 명확히 함.",
+        "keywords": [
+          "핀테크",
+          "AI OS",
+          "서비스 비전",
+          "플랫폼 운영"
+        ],
+        "planning_insight": "금융 비즈니스 영역에서 상담 서비스 플랫폼을 AI 중심으로 재편할 때 요구되는 제품 전략과 인재상 변화를 보여줌."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "7a13abe51b6f6e812849d71b0e68367d39e8acc2fd7087d0537cfc01c6698e9e",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "published_at": "2026-11-11T14:01:16+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "온디바이스 AI와 에이전트 결합은 개인화 서비스 및 자동화 도구의 핵심 트렌드이며, 기획자가 즉시 서비스 모델에 적용할 수 있는 실무적 가치가 매우 높음.",
+        "keywords": [
+          "에이전트",
+          "온디바이스",
+          "개인화"
+        ],
+        "planning_insight": "경량화된 에이전트를 통한 프라이빗하고 즉각적인 사용자 맞춤형 콘텐츠 추천 및 자동화 인터페이스 기획에 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "b5bfc2d3387b9ddeb1d0532269c9ffd6076511b6bf1c93c2384cb3ae9828d1c8",
+        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "3D 콘텐츠 생성은 차세대 멀티모달 콘텐츠 전략의 핵심으로, 파인튜닝 가이드는 기업이 독자적인 크리에이티브 자산을 확보하는 데 필수적인 기술임.",
+        "keywords": [
+          "멀티모달",
+          "3D 생성",
+          "파인튜닝"
+        ],
+        "planning_insight": "브랜드 고유의 에셋을 활용한 3D 콘텐츠 자동 생성 파이프라인 구축을 위해 반드시 숙지해야 할 영역."
+      },
+      {
+        "rank": 3,
+        "id": "1cc48270d38fc49761733978cbb934b04eddb0abe0a56716a8602d5fb7959496",
+        "title": "Actionable Feedback: Improving Model Capabilities from User Edit Data on Clinical Documentation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12904",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12904v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being deployed in clinical documentation workflows, where clinicians review and edit their outputs before use. In principle, these clinician edits represent a scalable source of supervision for model training. In practice, not all edits represent actionable feedback: for instance, on data drawn from real-world deployment of an AI clinical documentation product, our review suggests that over 45% of edit…",
+        "category_score": 92,
+        "score_reason": "사용자 피드백 데이터(인간 편집 데이터)를 모델 개선에 활용하는 방식은 콘텐츠 자동화 시스템의 품질 관리를 위한 필수 전략임.",
+        "keywords": [
+          "피드백 루프",
+          "자동화",
+          "데이터 학습"
+        ],
+        "planning_insight": "생성형 AI가 초안을 작성하고 인간이 교정하는 워크플로우를 자동화된 데이터 개선 체계로 연결하는 운영 전략 수립 가능."
+      },
+      {
+        "rank": 4,
+        "id": "a64f7261a6cb48c0e7ccf94bea4626123a93554eb71b9bb0501af818f80b5c4e",
+        "title": "SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12903",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12903v1 Announce Type: new Abstract: Context compression is now routine for language models with long inputs, but a compressed context is useful only if it keeps the evidence for the answer. Existing checks compare the reader model's answer or its most likely words, and thus miss a frequent failure, silent evidence loss: key evidence is removed while the answer stays the same, leaving the answer unsupported and risky for other models that reuse the context. To address this challenge,…",
+        "category_score": 89,
+        "score_reason": "컨텍스트 압축(Context Compression) 중 발생하는 정보 손실 탐지 기술은 RAG 시스템의 신뢰성을 결정짓는 핵심 기획 요소임.",
+        "keywords": [
+          "RAG",
+          "컨텍스트 압축",
+          "데이터 신뢰성"
+        ],
+        "planning_insight": "긴 문서 기반의 질의응답 서비스 기획 시, 데이터 압축으로 인한 답변 왜곡을 방지하기 위한 기술적 가이드라인으로 활용 가능."
+      },
+      {
+        "rank": 5,
+        "id": "d5b2e301427ef6d36d25595b3822d7516716708f9cf9027db8df433e2155e39b",
+        "title": "TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs for Multimodal Reasoning and Forecasting",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.12902",
+        "published_at": "2026-11-11T14:00:00+09:00",
+        "summary": "arXiv:2611.12902v1 Announce Type: new Abstract: Time series from real-world systems are often accompanied by text, such as a report on an event that affects them. Two common tasks on these series are understanding, e.g., answering questions about a series, and forecasting its future values. Both tasks require reasoning over the series and the text together. Moreover, understanding outputs text while forecasting outputs a time series, so serving both requires a model that reads and generates bot…",
+        "category_score": 86,
+        "score_reason": "시계열 데이터와 LLM의 결합은 비즈니스 데이터 기반의 자동 분석 및 예측 콘텐츠 생성에 큰 효용성을 제공함.",
+        "keywords": [
+          "시계열",
+          "멀티모달",
+          "데이터 분석"
+        ],
+        "planning_insight": "단순 텍스트를 넘어 시장 동향이나 성과 지표 데이터를 분석하여 자동으로 인사이트 보고서를 생성하는 자동화 기획의 근간이 됨."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "3b262f13ca82d073288279422edbf3f72d4f51e0e80fc7523fde2e73f141c94b",
+      "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261111183252",
+      "published_at": "2026-11-11T18:58:25+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 에이전트가 검색과 쇼핑, 결제 등 플랫폼의 핵심 기능을 수행하기 시작하면서 국내 플랫폼 산업의 경쟁 구도가 변화하고 있다. 글로벌 빅테크가 AI 기술과 자본력을 앞세워 시장 영향력을 확대하는 가운데 국내 기업들이 축적한 이용자 데이터와 서비스 인프라를 활용할 수 있는 정책 환경을 조성해야 한다는 제언이 나왔다.과학기술정보통신부와 정보통신정책연구원(KISDI)은 11일 서울 양재 엘타워에서 'AI 전환기 혁신 기반 강화와 플랫폼 정책 방향'을 주제로 디지털플랫폼 정책포럼 토론회를 개최했다.이날 행사에서는 AI 에이전트 확산에 따른 플랫폼 경쟁 구조 변화와 국내 기업의 대응 전략, 혁신 생태계 구축을 위한 정책 과제 등이 논의됐다.이날 발제를 맡은 전현배 서강대 경제학부 교수는 AI가 기존 플랫폼의 이용자 접점과 데이터 확보 방식에 변화를 가져올 것으로 전망했다.에이전트 커머스는 AI가 소비자를 대신해 상품 탐색과 비교, 추천부터 주문과 결제까지 수행하는…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트 확산에 따른 플랫폼 경쟁 구도 재편은 거시적 트렌드이며, 국내 플랫폼 기업의 생존과 직결된 가장 핵심적인 변화 신호임.",
+      "keywords": [
+        "AI 에이전트",
+        "플랫폼 경쟁",
+        "커머스"
+      ],
+      "planning_insight": "AI 에이전트가 고객 접점을 선점하는 환경에서, 자사 서비스의 데이터 인프라를 에이전트가 호출하기 쉬운 형태로 최적화하는 전략적 대응이 필수적임.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트 확산에 따른 플랫폼 경쟁 구도 재편과 이에 대응하는 기업 전략",
+      "importance_reason": "AI가 단순 검색을 넘어 구매·결제 등 실질적 행위를 대행하는 '에이전트 커머스' 시대로 진입했음을 알리는 거시적 신호임."
+    },
+    {
+      "rank": 2,
+      "id": "90e8b9f88660ecc3ef194f4eefae5b6ff62d3d495920ab7e00a69ab1ca879c9d",
+      "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/7749530",
+      "published_at": "2026-11-11T14:14:04+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 검수도 답변도 호출도 AI가? 커머스API의 2026 NAVER D2 | 검수도 답변도 호출도 AI가? 커머스API의 2026 naver.me ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과를 소개합니다. ​ 발표 대상 API 를 만들거나 운영하는 백엔드 개발자 게이트웨이·플랫폼 운영자 LLM·MCP 를 서비스에 연결하려는 개발자 ​ 목차 도입 : 우리가 맡은 플랫폼과 AI 로 할 수 있게 된 것 1장. 라우팅 룰 AI 검수 - 자동화 규칙 50개를 데이터로 만들고, 판단이 필요한 규칙까지 자동으로 검수하는 엔진 2장. MCP G/W(MCP 게이트웨이) - 도구화 API 명세를 AI 에이전트가 부르는 Tool 로 바…",
+      "category_score": 98,
+      "score_reason": "AI를 활용한 API 플랫폼의 진화(검수, 답변, 호출)를 다루며, LLM/MCP를 실무 서비스에 통합하는 구체적인 설계 결정을 공유하여 전략적 가치가 매우 높음.",
+      "keywords": [
+        "AI-Native",
+        "API 플랫폼",
+        "MCP"
+      ],
+      "planning_insight": "서비스 기획자와 개발자가 협업하여 'AI가 직접 다룰 수 있는 API' 스펙을 설계하는 것이 향후 AI 서비스 경쟁력의 핵심이 될 것임.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "커머스 API의 AI 네이티브 전환: AI가 검수하고 도구로 호출하는 API 설계 사례",
+      "importance_reason": "LLM과 MCP(Model Context Protocol)를 실무 API 플랫폼에 결합한 구체적인 사례로, 차세대 서비스 기획의 실질적인 가이드를 제공함."
+    },
+    {
+      "rank": 3,
+      "id": "7a13abe51b6f6e812849d71b0e68367d39e8acc2fd7087d0537cfc01c6698e9e",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published_at": "2026-11-11T14:01:16+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "온디바이스 AI와 에이전트 결합은 개인화 서비스 및 자동화 도구의 핵심 트렌드이며, 기획자가 즉시 서비스 모델에 적용할 수 있는 실무적 가치가 매우 높음.",
+      "keywords": [
+        "온디바이스 AI",
+        "에이전트",
+        "개인화"
+      ],
+      "planning_insight": "클라우드 의존도를 낮추고 사용자 기기에서 실시간으로 개인화된 콘텐츠를 제공하는 온디바이스 에이전트 경험 설계가 가능함.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "경량화된 온디바이스 에이전트 모델 도입을 통한 개인 맞춤형 서비스의 프라이빗한 구현",
+      "importance_reason": "데이터 보안과 지연시간 문제를 해결하는 온디바이스 AI는 서비스 개인화의 다음 단계이며, 콘텐츠 추천 모델의 최적화 흐름을 보여줌."
+    },
+    {
+      "rank": 4,
+      "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+      "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261112162741",
+      "published_at": "2026-11-12T23:00:01+09:00",
+      "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+      "category_score": 95,
+      "score_reason": "AI가 모바일 기기를 넘어 일상적인 패션 아이템(아이웨어)으로 침투하는 구체적인 형태를 보여줌. 글로벌 기업 간의 합작이라는 점에서 소비자 시장의 하드웨어 변화를 상징함.",
+      "keywords": [
+        "Physical AI",
+        "AI 아이웨어",
+        "소비자 가전"
+      ],
+      "planning_insight": "AI 경험의 물리적 확장에 대비하여, 시각·청각 정보를 다루는 멀티모달 콘텐츠 기획과 웨어러블 친화적인 UX 시나리오 연구가 필요함.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI와 물리적 하드웨어의 결합(Physical AI)이 패션 아이템으로 본격 대중화",
+      "importance_reason": "AI가 모바일 화면 밖으로 나와 일상적인 웨어러블 하드웨어에 침투하는 현상을 보여주는 실질적 시장 데이터임."
+    },
+    {
+      "rank": 5,
+      "id": "1cc48270d38fc49761733978cbb934b04eddb0abe0a56716a8602d5fb7959496",
+      "title": "Actionable Feedback: Improving Model Capabilities from User Edit Data on Clinical Documentation",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.12904",
+      "published_at": "2026-11-11T14:00:00+09:00",
+      "summary": "arXiv:2611.12904v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being deployed in clinical documentation workflows, where clinicians review and edit their outputs before use. In principle, these clinician edits represent a scalable source of supervision for model training. In practice, not all edits represent actionable feedback: for instance, on data drawn from real-world deployment of an AI clinical documentation product, our review suggests that over 45% of edit…",
+      "category_score": 92,
+      "score_reason": "사용자 피드백 데이터(인간 편집 데이터)를 모델 개선에 활용하는 방식은 콘텐츠 자동화 시스템의 품질 관리를 위한 필수 전략임.",
+      "keywords": [
+        "사용자 피드백",
+        "모델 개선",
+        "콘텐츠 자동화"
+      ],
+      "planning_insight": "인간의 교정 과정을 단순 업무 효율화를 넘어 모델 성능을 지속적으로 향상시키는 데이터셋 확보 공정으로 재정의할 수 있음.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 생성 결과물에 대한 인간의 편집 데이터를 모델 학습의 정교한 지도 데이터로 활용하는 방법론",
+      "importance_reason": "자동화된 콘텐츠 생성 워크플로우에서 품질 관리를 위한 '피드백 루프'를 어떻게 시스템화할지 보여주는 중요한 운영 전략임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 81,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 22,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 19,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업",
+        "뱅크샐러드 기술블로그"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 서비스의 핵심이 '단순 텍스트 생성'에서 '실질적인 행위를 수행하는 에이전트'와 '인간-기기 결합(Physical AI)'으로 빠르게 전환되고 있습니다.",
+    "기술블로그와 연구 자료를 통해, 개발·기획 단계에서부터 AI를 도구로서가 아니라 중심 요소로 설계하는 'AI-Native' 아키텍처로의 전환이 가속화되고 있습니다.",
+    "향후 콘텐츠 전략은 생성형 AI의 결과물을 인간이 교정하는 피드백 루프를 시스템화하여, 이를 데이터 자산으로 축적하고 서비스 품질을 고도화하는 데 집중해야 합니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
