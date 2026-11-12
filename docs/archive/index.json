@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-12T12:17:35.976792+09:00",
+  "updated_at": "2026-11-12T20:40:17.259016+09:00",
   "archives": [
+    {
+      "id": "2026-11-12_20-40",
+      "date": "2026-11-12",
+      "time": "20:40",
+      "label": "2026-11-12 20:40",
+      "generated_at": "2026-11-12T20:40:01.062438+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+        "검수도 답변도 호출도 AI가? 커머스API의 2026",
+        "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "싱클리, 10월 소셜 지수 공개…스킨케어 ‘아누아’·헤어 ‘K18’ 1위",
+        "Actionable Feedback: Improving Model Capabilities from User Edit Data on Clinical Documentation"
+      ],
+      "path_json": "archive/2026-11-12/20-40.json",
+      "path_md": "archive/2026-11-12/20-40.md"
+    },
     {
       "id": "2026-11-12_12-35",
       "date": "2026-11-12",
