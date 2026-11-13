@@ -1,0 +1,419 @@
+{
+  "briefing_date": "2026-11-14",
+  "generated_at": "2026-11-14T01:40:54.515330+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 197,
+    "tech_blog": 1,
+    "ai_data": 2
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "12adb0240e2ec7b343ba4f432a85b9cf6d04c6ae4135a907be4853309a74c7f4",
+        "title": "플래티어, 롯데 손잡고 AI쇼핑 플랫폼 시장 공략",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12206407",
+        "published_at": "2026-11-12T15:07:31+09:00",
+        "summary": "롯데 ‘New LECS’에 엑스투비 적용 상품 등록·고객 문의 등 자동화플래티어가 롯데쇼핑 이커머스와 브랜드 전용 온라인몰 서비스 개편에 나선다. 자체 커머스 플랫폼 ‘엑스투비(X..",
+        "category_score": 62,
+        "score_reason": "AI, 커머스, 이커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "이커머스",
+          "플랫폼",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 AI, 커머스, 이커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "23dc6b49dac5d1156931fec7ff4e3418f77041b0cae60901cc28fb1074cd74d2",
+        "title": "우리의식탁, 송가인과 손잡고 전국 특산품 판매…'가인상회' 열어",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113183224",
+        "published_at": "2026-11-13T18:36:29+09:00",
+        "summary": "[지디넷코리아]푸드 콘텐츠·커머스 플랫폼 '우리의식탁'이 가수 송가인과 손잡고 전국 지역 특산품 판매에 나선다. 송가인의 고향인 전남 진도를 시작으로 각 지역의 농수산물을 발굴하고 산지 직송 방식으로 소비자에게 선보일 계획이다.우리의식탁 운영사 컬쳐히어로는 송가인을 모델로 발탁하고 전국 산지 직송 프로젝트 '가인상회'를 선보인다고 13일 밝혔다.가인상회는 송가인의 이름을 활용한 지역 특산품 기획전이다. 전국 각지의 농수산물과 지역 먹거리를 발굴해 우리의식탁 온라인 플랫폼에서 소개하고 판매하는 방식으로 운영된다.첫 번째 지역은 송가인의 고향인 전남 진도다. 진도를 대표하는 전복 등 지역 특산품을 중심으로 상품을 구성하고, 생산 지역과 상품의 특징을 함께 소개한다.우리의식탁은 단순히 상품을 판매하는 데 그치지 않고 각 특산품의 생산 배경과 품질, 지역별 차별성을 콘텐츠로 제작해 소비자에게 전달할 계획이다.특히 산지 직송 방식을 활용해 지역 생산자와 소비자를 직접 연결하고, 상대적으로…",
+        "category_score": 61,
+        "score_reason": "커머스, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "커머스",
+          "플랫폼",
+          "소비자",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 커머스, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "29556eb466c8decefcd1dfb3ac202017eb5688963b9bd742388d62bfebbaabd1",
+        "title": "\"1시간 배송은 기본\"…美 유통업계, 우버·드론까지 총동원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113092609",
+        "published_at": "2026-11-13T09:44:11+09:00",
+        "summary": "[지디넷코리아]미국 유통업계가 당일·즉시배송 서비스를 빠르게 확대하고 있다. 아마존 등 온라인 플랫폼과 경쟁하고 높아진 소비자 배송 기대치를 맞추기 위해 차량호출 플랫폼부터 드론까지 다양한 배송 수단을 활용하는 모습이다.12일(현지시간) 미국 물류 전문매체 프레이트웨이브스에 따르면 트랙터 서플라이는 우버와 제휴를 맺고 미국 전역 약 2500개 매장의 상품을 우버와 우버이츠, 포스트메이츠를 통해 주문할 수 있도록 했다.소비자들은 반려동물 사료와 동물관리용품, 농축산용품, 정원용품, 공구와 철물 등을 주문해 집에서 받아볼 수 있다.트랙터 서플라이는 미국 농촌과 외곽·교외 지역을 중심으로 매장을 운영하는 농촌생활 전문 유통업체다. 미국 49개주에 2463개 트랙터 서플라이 매장과 반려동물 전문점 펫센스 209개를 운영하고 있다.이번 제휴는 우버의 긱 노동자 기반 배송망을 활용해 소비자에게 보다 빠른 배송 선택지를 제공하기 위한 것이다.매튜 루빈 트랙터 서플라이 디지털·이커머스 부문 사장…",
+        "category_score": 58,
+        "score_reason": "커머스, 이커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "커머스",
+          "이커머스",
+          "플랫폼",
+          "소비자"
+        ],
+        "planning_insight": "이 항목은 커머스, 이커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "2bffb0f1624ccb077b0f4b5bcfa6af51be5c64f5530b4ef62496121222690299",
+        "title": "로레알, 국내 스타트업 3곳과 中 수입박람회 참가…AI·바이오 기술 선봬",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113184711",
+        "published_at": "2026-11-13T18:55:01+09:00",
+        "summary": "[지디넷코리아]로레알 그룹이 국내 스타트업 3곳과 함께 중국 상하이에서 열린 국제수입박람회에 참가해 인공지능(AI)과 바이오 기술을 활용한 차세대 뷰티 솔루션을 선보였다. 국내 기업들은 맞춤형 향수 추천과 AI 검색 최적화, 바이오 기술 등을 소개하며 글로벌 시장 진출 가능성을 모색했다.로레알코리아는 '2026 로레알 빅뱅'에 선정된 국내 스타트업 본작, 오가시스, 링카이브 등 3개사가 중국 상하이에서 열린 '제9회 중국국제수입박람회(CIIE)'에 참가했다고 13일 밝혔다.로레알 빅뱅은 로레알 그룹이 운영하는 북아시아 지역 오픈 이노베이션 프로그램이다. 올해는 '변화를 이끄는 혁신(Innovation with Impact)'을 주제로 AI 기술 활용과 사업 상용화에 초점을 맞췄다.로레알은 이번 박람회에 별도 전시 공간을 마련하고 한국과 중국, 일본에서 선정된 20여개 스타트업의 기술을 소개했다. 프로그램 출범 이후 최대 규모의 전시다.국내 스타트업 3곳은 로레알 전시관에서 각자의…",
+        "category_score": 56,
+        "score_reason": "AI, 추천, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "추천",
+          "검색"
+        ],
+        "planning_insight": "이 항목은 AI, 추천, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "a4b95535a6c4aca1598926b3399980141b405c0f7c1f14399eb2e0c02dce109a",
+        "title": "엔라이튼, 기술성평가 통과…내년 코스닥 상장 예고",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113094155",
+        "published_at": "2026-11-13T09:58:51+09:00",
+        "summary": "[지디넷코리아]에너지 기후테크 기업 엔라이튼(대표 이영호)는 코스닥 기술특례상장을 위한 기술성평가를 통과했다고 지난 12일 밝혔다. 이번 결과를 바탕으로 엔라이튼은 내년 상장을 목표로 기업공개(IPO) 절차를 본격화한다.엔라이튼은 한국거래소가 지정한 전문평가기관 2곳에서 각각 A등급과 BBB등급을 획득해 상장예비심사 청구 자격을 확보했다. 앞서 예비 기술성평가에서 A등급을 받은 데 이어, 본평가도 통과하며 기술력과 사업성을 공식적으로 인정받았다.이번 평가에서 엔라이튼은 인공지능(AI) 기반 모니터링·예측·제어 기술의 완성도와 독자성에서 높은 점수를 받았다. 이런 기술력은 태양광 자산관리 플랫폼 ‘발전왕’을 통해 구현된다. 발전왕에는 전국 3만2000여개 발전소, 누적 7.7GW 규모의 발전 자산이 등록돼 있으며, 이는 국내 태양광 설비의 약 23%에 해당하는 규모다.엔라이튼은 발전량과 운영 상태, 기상 조건 등 다양한 발전소 데이터를 수집·분석하고, 이를 AI 기술과 결합해 발전량…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "2708cf2b34e577fd87e65055522ca1d5ba8d63b7894466c908e4684c48cdb71a",
+        "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+        "source": "뱅크샐러드 기술블로그",
+        "group": "tech_blog",
+        "category": "fintech_data",
+        "url": "https://corp.banksalad.com/blog/news/bs1504/",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…",
+        "category_score": 85,
+        "score_reason": "단순 개발 회고가 아닌, AI OS를 도입하여 금융 서비스 생산성을 혁신하고 'AI-Native Sales'라는 구체적인 비즈니스 모델과 운영 전략을 제시함. 콘텐츠 전략가 입장에서 AI 기반의 상담 플랫폼이 어떻게 고객 경험과 영업 프로세스를 재설계하는지 보여주는 귀한 사례임.",
+        "keywords": [
+          "AI OS",
+          "AI-Native",
+          "금융 솔루션",
+          "서비스 운영 전략"
+        ],
+        "planning_insight": "AI를 단순히 기술적인 도구로 보지 않고, 서비스 운영 체계(OS)로 내재화하여 영업 효율을 극대화하는 'AI-Native' 비즈니스 모델로의 전환 전략이 핵심임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "published_at": "2026-11-13T04:07:35+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "LLM 네이티브 마크업 언어 도입은 콘텐츠 구조화 및 자동화 파이프라인 설계에 직접적인 영향을 미치는 기술적 진보로, 기획자가 프롬프트 효율과 콘텐츠 출력 품질을 제어하는 데 매우 유용함.",
+        "keywords": [
+          "LLM",
+          "마크업 언어",
+          "콘텐츠 자동화",
+          "Granite"
+        ],
+        "planning_insight": "LLM 최적화 마크업 언어를 활용하여 일관성 있는 콘텐츠 구조 설계 및 자동 생성 파이프라인의 표준화를 앞당길 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "b5bfc2d3387b9ddeb1d0532269c9ffd6076511b6bf1c93c2384cb3ae9828d1c8",
+        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "",
+        "category_score": 85,
+        "score_reason": "멀티모달 AI의 핵심 영역인 3D 생성 모델의 파인튜닝 가이드는 향후 공간 컴퓨팅 및 차세대 몰입형 콘텐츠 전략 수립에 필요한 기반 지식임.",
+        "keywords": [
+          "3D 생성",
+          "파인튜닝",
+          "멀티모달",
+          "콘텐츠 제작"
+        ],
+        "planning_insight": "기존 2D 중심의 콘텐츠 전략을 3D 에셋 자동 생성 및 개인화된 공간 환경 구축으로 확장할 수 있는 기술적 토대를 마련함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published_at": "2026-11-13T04:07:35+09:00",
+      "summary": "",
+      "category_score": 92,
+      "score_reason": "LLM 네이티브 마크업 언어 도입은 콘텐츠 구조화 및 자동화 파이프라인 설계에 직접적인 영향을 미치는 기술적 진보로, 기획자가 프롬프트 효율과 콘텐츠 출력 품질을 제어하는 데 매우 유용함.",
+      "keywords": [
+        "LLM",
+        "마크업 언어",
+        "콘텐츠 자동화"
+      ],
+      "planning_insight": "프롬프트 엔지니어링을 넘어, 구조화된 콘텐츠 파이프라인 구축을 위한 표준화된 '콘텐츠 설계 규격'으로 활용 가능.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM 전용 마크업 언어(LLMON) 등장을 통한 콘텐츠 생성 표준화 기술",
+      "importance_reason": "AI 콘텐츠 생성의 품질 저하와 구조적 한계를 기술적으로 해결할 수 있는 LLM 네이티브 언어의 출현이기 때문."
+    },
+    {
+      "rank": 2,
+      "id": "2708cf2b34e577fd87e65055522ca1d5ba8d63b7894466c908e4684c48cdb71a",
+      "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+      "source": "뱅크샐러드 기술블로그",
+      "group": "tech_blog",
+      "category": "fintech_data",
+      "url": "https://corp.banksalad.com/blog/news/bs1504/",
+      "published_at": "2026-11-12T09:00:00+09:00",
+      "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…",
+      "category_score": 85,
+      "score_reason": "단순 개발 회고가 아닌, AI OS를 도입하여 금융 서비스 생산성을 혁신하고 'AI-Native Sales'라는 구체적인 비즈니스 모델과 운영 전략을 제시함. 콘텐츠 전략가 입장에서 AI 기반의 상담 플랫폼이 어떻게 고객 경험과 영업 프로세스를 재설계하는지 보여주는 귀한 사례임.",
+      "keywords": [
+        "AI OS",
+        "AI-Native",
+        "금융 솔루션"
+      ],
+      "planning_insight": "콘텐츠 마케팅 및 운영 프로세스에도 'AI-Native' 관점을 도입하여 생산성을 극대화하는 조직 모델링의 참고 사례로 적합함.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "금융 서비스의 AI-Native 전환과 'AI OS' 기반 운영 전략 도입",
+      "importance_reason": "AI를 단순히 기능으로 쓰는 단계를 지나 서비스 운영체제(OS) 수준으로 내재화하는 실질적인 비즈니스 모델 전환 사례임."
+    },
+    {
+      "rank": 3,
+      "id": "b5bfc2d3387b9ddeb1d0532269c9ffd6076511b6bf1c93c2384cb3ae9828d1c8",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "published_at": "2026-11-12T09:00:00+09:00",
+      "summary": "",
+      "category_score": 85,
+      "score_reason": "멀티모달 AI의 핵심 영역인 3D 생성 모델의 파인튜닝 가이드는 향후 공간 컴퓨팅 및 차세대 몰입형 콘텐츠 전략 수립에 필요한 기반 지식임.",
+      "keywords": [
+        "3D 생성",
+        "파인튜닝",
+        "멀티모달"
+      ],
+      "planning_insight": "개인화된 공간 컴퓨팅 및 브랜드 메타버스 콘텐츠 기획 시, 3D 에셋 제작 비용과 시간을 획기적으로 줄일 수 있는 핵심 기술.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "3D 생성 모델 파인튜닝을 통한 차세대 몰입형 콘텐츠 제작 토대 마련",
+      "importance_reason": "텍스트/이미지를 넘어 3D 에셋 자동 생성으로 콘텐츠 영역이 확장되는 흐름을 보여줌."
+    },
+    {
+      "rank": 4,
+      "id": "2bffb0f1624ccb077b0f4b5bcfa6af51be5c64f5530b4ef62496121222690299",
+      "title": "로레알, 국내 스타트업 3곳과 中 수입박람회 참가…AI·바이오 기술 선봬",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113184711",
+      "published_at": "2026-11-13T18:55:01+09:00",
+      "summary": "[지디넷코리아]로레알 그룹이 국내 스타트업 3곳과 함께 중국 상하이에서 열린 국제수입박람회에 참가해 인공지능(AI)과 바이오 기술을 활용한 차세대 뷰티 솔루션을 선보였다. 국내 기업들은 맞춤형 향수 추천과 AI 검색 최적화, 바이오 기술 등을 소개하며 글로벌 시장 진출 가능성을 모색했다.로레알코리아는 '2026 로레알 빅뱅'에 선정된 국내 스타트업 본작, 오가시스, 링카이브 등 3개사가 중국 상하이에서 열린 '제9회 중국국제수입박람회(CIIE)'에 참가했다고 13일 밝혔다.로레알 빅뱅은 로레알 그룹이 운영하는 북아시아 지역 오픈 이노베이션 프로그램이다. 올해는 '변화를 이끄는 혁신(Innovation with Impact)'을 주제로 AI 기술 활용과 사업 상용화에 초점을 맞췄다.로레알은 이번 박람회에 별도 전시 공간을 마련하고 한국과 중국, 일본에서 선정된 20여개 스타트업의 기술을 소개했다. 프로그램 출범 이후 최대 규모의 전시다.국내 스타트업 3곳은 로레알 전시관에서 각자의…",
+      "category_score": 56,
+      "score_reason": "AI, 추천, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "추천",
+        "글로벌 확장"
+      ],
+      "planning_insight": "브랜드 콘텐츠가 단순 홍보를 넘어 기술 솔루션과 결합해 어떻게 고객의 검색과 선택을 유도하는지 보여주는 레퍼런스.",
+      "integrated_score": 82,
+      "criteria_scores": {
+        "content_strategy": 20,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "글로벌 뷰티 산업의 AI 기반 맞춤형 추천 및 검색 최적화 기술 도입",
+      "importance_reason": "전통적인 소비재 기업이 스타트업의 AI 기술을 통해 고객 접점을 디지털 최적화하는 전형적인 오픈 이노베이션 사례."
+    },
+    {
+      "rank": 5,
+      "id": "12adb0240e2ec7b343ba4f432a85b9cf6d04c6ae4135a907be4853309a74c7f4",
+      "title": "플래티어, 롯데 손잡고 AI쇼핑 플랫폼 시장 공략",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12206407",
+      "published_at": "2026-11-12T15:07:31+09:00",
+      "summary": "롯데 ‘New LECS’에 엑스투비 적용 상품 등록·고객 문의 등 자동화플래티어가 롯데쇼핑 이커머스와 브랜드 전용 온라인몰 서비스 개편에 나선다. 자체 커머스 플랫폼 ‘엑스투비(X..",
+      "category_score": 62,
+      "score_reason": "AI, 커머스, 이커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "커머스 자동화",
+        "플랫폼"
+      ],
+      "planning_insight": "콘텐츠 제작 및 관리 영역에 있어 자동화 솔루션 도입이 브랜드사의 필수 과제가 되고 있음을 시사함.",
+      "integrated_score": 78,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 19,
+        "ai_data_relevance": 19,
+        "market_consumer_impact": 19
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "커머스 플랫폼의 상품 관리 및 고객 문의 자동화 확대",
+      "importance_reason": "운영 효율화를 위한 이커머스 내 AI 도입이 자동화의 영역으로 구체화되고 있음을 입증."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 74,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "매일경제 기업",
+        "뱅크샐러드 기술블로그"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업",
+        "뱅크샐러드 기술블로그"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 15,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "소비자",
+      "count": 11,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "자동화",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 단순한 도구 활용을 넘어 서비스 운영 체계(OS) 및 표준화된 구조(LLM Markup)로 내재화되는 기술적 성숙기가 도래함.",
+    "이커머스 및 리테일 업계는 AI를 통한 고객 경험 혁신(추천·검색)뿐만 아니라 운영 자동화(문의·상품등록)를 통한 비용 절감에 집중하고 있음.",
+    "텍스트 중심의 콘텐츠 생성을 넘어 3D 에셋 등 멀티모달 생성 기술이 상용화 단계에 진입하며 차세대 콘텐츠 전략의 핵심 과제로 부상함."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
