@@ -1,0 +1,419 @@
+{
+  "briefing_date": "2026-11-13",
+  "generated_at": "2026-11-13T11:49:46.510321+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 197,
+    "tech_blog": 1,
+    "ai_data": 2
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "3b262f13ca82d073288279422edbf3f72d4f51e0e80fc7523fde2e73f141c94b",
+        "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261111183252",
+        "published_at": "2026-11-11T18:58:25+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 에이전트가 검색과 쇼핑, 결제 등 플랫폼의 핵심 기능을 수행하기 시작하면서 국내 플랫폼 산업의 경쟁 구도가 변화하고 있다. 글로벌 빅테크가 AI 기술과 자본력을 앞세워 시장 영향력을 확대하는 가운데 국내 기업들이 축적한 이용자 데이터와 서비스 인프라를 활용할 수 있는 정책 환경을 조성해야 한다는 제언이 나왔다.과학기술정보통신부와 정보통신정책연구원(KISDI)은 11일 서울 양재 엘타워에서 'AI 전환기 혁신 기반 강화와 플랫폼 정책 방향'을 주제로 디지털플랫폼 정책포럼 토론회를 개최했다.이날 행사에서는 AI 에이전트 확산에 따른 플랫폼 경쟁 구조 변화와 국내 기업의 대응 전략, 혁신 생태계 구축을 위한 정책 과제 등이 논의됐다.이날 발제를 맡은 전현배 서강대 경제학부 교수는 AI가 기존 플랫폼의 이용자 접점과 데이터 확보 방식에 변화를 가져올 것으로 전망했다.에이전트 커머스는 AI가 소비자를 대신해 상품 탐색과 비교, 추천부터 주문과 결제까지 수행하는…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트가 검색·쇼핑·결제 등 플랫폼 핵심 기능을 대체하며 발생하는 시장 지형 변화와 정책적 대응을 다루고 있어 가장 파급력이 큰 트렌드 신호로 판단됨.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼 경쟁",
+          "디지털 전환"
+        ],
+        "planning_insight": "AI 에이전트 시대의 사용자 접점을 선점하기 위한 플랫폼 기업들의 서비스 설계 및 데이터 활용 전략이 필수적임."
+      },
+      {
+        "rank": 2,
+        "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+        "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112162741",
+        "published_at": "2026-11-12T23:00:01+09:00",
+        "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+        "category_score": 95,
+        "score_reason": "구글 제미나이 기반의 인텔리전트 아이웨어 출시는 AI가 개인 디바이스와 결합되어 일상적인 소비자 행동을 바꿀 수 있는 명확한 차세대 인터페이스 신호임.",
+        "keywords": [
+          "AI 하드웨어",
+          "스마트 글래스",
+          "제미나이"
+        ],
+        "planning_insight": "모바일 이후의 AI 기반 하드웨어 생태계에서 콘텐츠 소비 환경이 어떻게 변화할지 시나리오를 구상해야 함."
+      },
+      {
+        "rank": 3,
+        "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+        "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113011002",
+        "published_at": "2026-11-13T01:10:02+09:00",
+        "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+        "category_score": 92,
+        "score_reason": "브랜드가 변화를 미리 포착하고 대응하도록 돕는 '에이전틱 AI' 모델은 마케팅/커머스 영역의 의사결정 방식을 근본적으로 바꿀 트렌드임.",
+        "keywords": [
+          "인텔리전스",
+          "에이전틱 AI",
+          "브랜드 마케팅"
+        ],
+        "planning_insight": "데이터 분석 결과가 아니라, AI가 실행 방향을 제시하는 '액션 중심의 마케팅 전략' 모델링이 필요함."
+      },
+      {
+        "rank": 4,
+        "id": "29556eb466c8decefcd1dfb3ac202017eb5688963b9bd742388d62bfebbaabd1",
+        "title": "\"1시간 배송은 기본\"…美 유통업계, 우버·드론까지 총동원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113092609",
+        "published_at": "2026-11-13T09:44:11+09:00",
+        "summary": "[지디넷코리아]미국 유통업계가 당일·즉시배송 서비스를 빠르게 확대하고 있다. 아마존 등 온라인 플랫폼과 경쟁하고 높아진 소비자 배송 기대치를 맞추기 위해 차량호출 플랫폼부터 드론까지 다양한 배송 수단을 활용하는 모습이다.12일(현지시간) 미국 물류 전문매체 프레이트웨이브스에 따르면 트랙터 서플라이는 우버와 제휴를 맺고 미국 전역 약 2500개 매장의 상품을 우버와 우버이츠, 포스트메이츠를 통해 주문할 수 있도록 했다.소비자들은 반려동물 사료와 동물관리용품, 농축산용품, 정원용품, 공구와 철물 등을 주문해 집에서 받아볼 수 있다.트랙터 서플라이는 미국 농촌과 외곽·교외 지역을 중심으로 매장을 운영하는 농촌생활 전문 유통업체다. 미국 49개주에 2463개 트랙터 서플라이 매장과 반려동물 전문점 펫센스 209개를 운영하고 있다.이번 제휴는 우버의 긱 노동자 기반 배송망을 활용해 소비자에게 보다 빠른 배송 선택지를 제공하기 위한 것이다.매튜 루빈 트랙터 서플라이 디지털·이커머스 부문 사장…",
+        "category_score": 90,
+        "score_reason": "유통업계의 배송 속도 경쟁이 기술 고도화를 통해 극한에 도달하고 있음을 보여주며, 소비자 기대치 상승에 따른 커머스 시장의 필수 변화 지점임.",
+        "keywords": [
+          "즉시배송",
+          "커머스 물류",
+          "소비자 기대치"
+        ],
+        "planning_insight": "단순 배송 효율을 넘어 다양한 플랫폼(우버, 드론 등)과의 협업을 통한 라스트마일 최적화 경험 제공이 경쟁력의 핵심."
+      },
+      {
+        "rank": 5,
+        "id": "6b1eb5333741eedae40faa72339a3c5deb82dc8b6f95e772d6e057e87bbb8f12",
+        "title": "쌓아둔 짐 무너질지 미리 다…NTT, 로봇용 월드모델 개발",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112072500",
+        "published_at": "2026-11-12T07:25:00+09:00",
+        "summary": "[지디넷코리아]로봇이 짐을 옮기기 전에 짐이 떨어지거나 쌓아둔 짐이 무너질지를 먼저 따져보고, 성공 가능성이 가장 높은 동작을 골라 움직이게 하는 AI가 나왔다.일본 NTT는 물체의 질량과 자세, 속도 같은 물리량과 운동방정식으로 로봇 행동에 따른 주변 변화를 예측하는 '월드 모델'을 개발했다고 밝혔다. 소형 로봇이 물건을 선반에 쌓는 실험에서 이 기술을 적용하자 성공률이 73.1%에서 92.3%로 19.2%포인트 높아졌다.기존 월드 모델은 학습 데이터에 크게 의존하면서 물체끼리 부딪히는 장면을 잘못 예측했습다. 예측 영상 속에서 물체가 사라지거나 모양이 바뀌기도 했고, 학습하지 않은 상황은 제대로 내다보지 못했다.NTT가 자체 개발한 물리 제어 어댑터는 영상에서 물체의 위치와 질량을 추정한 뒤 물리 법칙에 따라 다음 움직임을 계산한다. 이 계산을 영상 생성 모델에 반영해 로봇이 움직인 뒤 벌어질 장면을 영상으로 보여준다.이 기술은 기존 로봇 제어 소프트웨어에 붙여 쓸 수 있다.…",
+        "category_score": 88,
+        "score_reason": "로봇용 '월드 모델' 개발은 AI가 물리적 세계를 이해하고 행동하는 방식을 진화시키는 핵심 기술로, 스마트 제조 및 물류 트렌드의 확장성을 보여줌.",
+        "keywords": [
+          "월드 모델",
+          "로봇 AI",
+          "물리적 인공지능"
+        ],
+        "planning_insight": "실제 환경과 가상 환경의 간극을 줄이는 AI 모델의 도입이 물류/제조 콘텐츠의 전문성과 신뢰성을 어떻게 재정의할지 주목해야 함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "2708cf2b34e577fd87e65055522ca1d5ba8d63b7894466c908e4684c48cdb71a",
+        "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+        "source": "뱅크샐러드 기술블로그",
+        "group": "tech_blog",
+        "category": "fintech_data",
+        "url": "https://corp.banksalad.com/blog/news/bs1504/",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…",
+        "category_score": 85,
+        "score_reason": "단순 채용 공고를 넘어 'AI OS'라는 제품 전략 프레임워크와 'AI-Native Sales'라는 비즈니스 모델의 방향성을 제시함. 플랫폼의 생산성 극대화 및 AI 기반 상담 인터페이스 구축 전략이 서비스 기획 측면에서 높은 인사이트를 제공함.",
+        "keywords": [
+          "AI OS",
+          "금융 플랫폼",
+          "생산성",
+          "AI-Native"
+        ],
+        "planning_insight": "서비스 내부 운영체제(OS)를 AI 중심으로 재편함으로써 업무 자동화와 고객 응대 효율을 동시에 잡는 'AI-Native' 제품 설계 전략이 핵심임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "published_at": "2026-11-13T04:07:35+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "LLM 네이티브 마크업 언어(LLMON) 도입은 콘텐츠 구조화 및 에이전트 연동의 표준화 가능성을 제시하며, 기획자가 LLM의 출력을 제어하고 자동화된 콘텐츠 파이프라인을 구축하는 데 실질적인 기술적 이점을 제공함.",
+        "keywords": [
+          "LLM",
+          "LLMON",
+          "자동화",
+          "콘텐츠 구조화"
+        ],
+        "planning_insight": "LLM이 구조화된 데이터를 직접 생성하게 함으로써, 수동 편집 없이도 웹/앱 콘텐츠를 즉시 반영하는 'LLM-to-Content' 자동화 시스템 설계가 가능함."
+      },
+      {
+        "rank": 2,
+        "id": "b5bfc2d3387b9ddeb1d0532269c9ffd6076511b6bf1c93c2384cb3ae9828d1c8",
+        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "summary": "",
+        "category_score": 85,
+        "score_reason": "3D 생성 모델의 파인튜닝 가이드는 멀티모달 콘텐츠 제작 영역에서 필수적인 기술이며, 브랜드 특화된 3D 에셋 자동 생성 및 커스터마이징 파이프라인 구축에 직접적인 기여를 함.",
+        "keywords": [
+          "멀티모달",
+          "3D 생성",
+          "파인튜닝",
+          "콘텐츠 제작"
+        ],
+        "planning_insight": "범용 3D 모델을 자사 서비스의 가이드라인에 맞춰 최적화함으로써, 비용 효율적인 메타버스/AR 콘텐츠 제작 자동화를 추진할 수 있음."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "3b262f13ca82d073288279422edbf3f72d4f51e0e80fc7523fde2e73f141c94b",
+      "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261111183252",
+      "published_at": "2026-11-11T18:58:25+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 에이전트가 검색과 쇼핑, 결제 등 플랫폼의 핵심 기능을 수행하기 시작하면서 국내 플랫폼 산업의 경쟁 구도가 변화하고 있다. 글로벌 빅테크가 AI 기술과 자본력을 앞세워 시장 영향력을 확대하는 가운데 국내 기업들이 축적한 이용자 데이터와 서비스 인프라를 활용할 수 있는 정책 환경을 조성해야 한다는 제언이 나왔다.과학기술정보통신부와 정보통신정책연구원(KISDI)은 11일 서울 양재 엘타워에서 'AI 전환기 혁신 기반 강화와 플랫폼 정책 방향'을 주제로 디지털플랫폼 정책포럼 토론회를 개최했다.이날 행사에서는 AI 에이전트 확산에 따른 플랫폼 경쟁 구조 변화와 국내 기업의 대응 전략, 혁신 생태계 구축을 위한 정책 과제 등이 논의됐다.이날 발제를 맡은 전현배 서강대 경제학부 교수는 AI가 기존 플랫폼의 이용자 접점과 데이터 확보 방식에 변화를 가져올 것으로 전망했다.에이전트 커머스는 AI가 소비자를 대신해 상품 탐색과 비교, 추천부터 주문과 결제까지 수행하는…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트가 검색·쇼핑·결제 등 플랫폼 핵심 기능을 대체하며 발생하는 시장 지형 변화와 정책적 대응을 다루고 있어 가장 파급력이 큰 트렌드 신호로 판단됨.",
+      "keywords": [
+        "AI 에이전트",
+        "플랫폼 경쟁",
+        "디지털 전환"
+      ],
+      "planning_insight": "AI 에이전트 시대의 사용자 여정(User Journey)을 재설계하고, AI가 탐색·비교·구매를 대행하는 환경에서 자사 콘텐츠가 선택받기 위한 '에이전트 최적화(AEO)' 전략 수립 필요.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트 확산에 따른 플랫폼 경쟁 구도 재편과 이에 대응하는 국내 기업 전략",
+      "importance_reason": "사용자 접점이 검색에서 '에이전트 기반의 자동 수행'으로 이동하는 중대한 전환점이므로, 서비스 기획의 근간을 다시 설계해야 함."
+    },
+    {
+      "rank": 2,
+      "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+      "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113011002",
+      "published_at": "2026-11-13T01:10:02+09:00",
+      "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+      "category_score": 92,
+      "score_reason": "브랜드가 변화를 미리 포착하고 대응하도록 돕는 '에이전틱 AI' 모델은 마케팅/커머스 영역의 의사결정 방식을 근본적으로 바꿀 트렌드임.",
+      "keywords": [
+        "인텔리전스",
+        "에이전틱 AI",
+        "브랜드 마케팅"
+      ],
+      "planning_insight": "마케팅 리포트 자동화를 넘어, 시장 변화 감지 시 즉각적인 캠페인 실행을 자동화하는 'Action-Driven' 마케팅 파이프라인 구축 기회.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "데이터 분석을 넘어 실행 방향을 제시하는 '에이전틱(Agentic) AI' 기반의 브랜드 마케팅 솔루션 등장",
+      "importance_reason": "마케팅 조직이 AI를 단순히 데이터 요약 도구로 쓰는 단계를 넘어, 실시간 의사결정의 파트너로 활용하는 변곡점을 보여줌."
+    },
+    {
+      "rank": 3,
+      "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+      "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261112162741",
+      "published_at": "2026-11-12T23:00:01+09:00",
+      "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+      "category_score": 95,
+      "score_reason": "구글 제미나이 기반의 인텔리전트 아이웨어 출시는 AI가 개인 디바이스와 결합되어 일상적인 소비자 행동을 바꿀 수 있는 명확한 차세대 인터페이스 신호임.",
+      "keywords": [
+        "AI 하드웨어",
+        "스마트 글래스",
+        "제미나이"
+      ],
+      "planning_insight": "화면 제약이 없는 '웨어러블 AI' 환경에서의 콘텐츠 소비 행태를 예측하고, 비주얼 중심의 실시간 AI 가이드 콘텐츠 기획 고려.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "구글 제미나이 탑재 인텔리전트 아이웨어 공개, AI의 일상 디바이스 침투 본격화",
+      "importance_reason": "스마트폰을 넘어선 새로운 AI 인터페이스의 대중화 신호이며, 소비자 일상 속 데이터 수집과 콘텐츠 경험의 접점이 근본적으로 변화함."
+    },
+    {
+      "rank": 4,
+      "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published_at": "2026-11-13T04:07:35+09:00",
+      "summary": "",
+      "category_score": 92,
+      "score_reason": "LLM 네이티브 마크업 언어(LLMON) 도입은 콘텐츠 구조화 및 에이전트 연동의 표준화 가능성을 제시하며, 기획자가 LLM의 출력을 제어하고 자동화된 콘텐츠 파이프라인을 구축하는 데 실질적인 기술적 이점을 제공함.",
+      "keywords": [
+        "LLM",
+        "LLMON",
+        "자동화",
+        "콘텐츠 구조화"
+      ],
+      "planning_insight": "개발-콘텐츠-AI 모델 간의 소통 표준을 마련하여, 기획자가 직접 'LLM-to-Content' 자동화 워크플로우를 설계하는 기술적 발판 마련.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM 네이티브 마크업 언어(LLMON) 도입으로 AI 기반 콘텐츠 자동화 파이프라인 표준화",
+      "importance_reason": "LLM이 구조화된 콘텐츠를 직접 생성하게 함으로써 기획자의 개입 없이 즉시 웹/앱 배포가 가능한 시스템 구축 가능."
+    },
+    {
+      "rank": 5,
+      "id": "2708cf2b34e577fd87e65055522ca1d5ba8d63b7894466c908e4684c48cdb71a",
+      "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+      "source": "뱅크샐러드 기술블로그",
+      "group": "tech_blog",
+      "category": "fintech_data",
+      "url": "https://corp.banksalad.com/blog/news/bs1504/",
+      "published_at": "2026-11-12T09:00:00+09:00",
+      "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 AI OS 기반 새…",
+      "category_score": 85,
+      "score_reason": "단순 채용 공고를 넘어 'AI OS'라는 제품 전략 프레임워크와 'AI-Native Sales'라는 비즈니스 모델의 방향성을 제시함. 플랫폼의 생산성 극대화 및 AI 기반 상담 인터페이스 구축 전략이 서비스 기획 측면에서 높은 인사이트를 제공함.",
+      "keywords": [
+        "AI OS",
+        "금융 플랫폼",
+        "AI-Native"
+      ],
+      "planning_insight": "제품 기획 단계에서 AI를 보조 도구가 아닌 '운영 핵심(OS)'으로 상정하여, 서비스 내 모든 고객 접점을 AI-Native 방식으로 최적화하는 전략적 접근.",
+      "integrated_score": 85,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "금융 서비스 운영체제를 AI 중심으로 재편하는 'AI OS'와 'AI-Native' 제품 전략",
+      "importance_reason": "단순 AI 기능 추가를 넘어 서비스 조직 전체의 생산성 체계를 AI 운영체제(OS)로 전환하는 비즈니스 모델 혁신 사례."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 73,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "매일경제 기업",
+        "뱅크샐러드 기술블로그"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 18,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업",
+        "뱅크샐러드 기술블로그"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "소비자",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 12,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트와 월드 모델 기술의 발전으로 플랫폼 시장의 경쟁력이 '사용자 데이터 접점 확보'와 '실행 자동화' 중심으로 이동하고 있습니다.",
+    "기술블로그와 오픈소스 생태계에서는 LLM 기반의 마크업 언어나 AI OS와 같이, 콘텐츠 제작과 서비스 운영을 근본적으로 자동화하는 기술적 시도가 이어지고 있습니다.",
+    "이러한 흐름은 단순 데이터 분석을 넘어 AI가 직접 의사결정을 내리고 실행하는 '에이전틱 AI' 시대에 대응하기 위한 기획자의 전략적 변화를 요구합니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
