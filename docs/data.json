@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-15T01:50:25.281527+09:00",
+  "updated_at": "2026-11-15T06:04:51.327377+09:00",
   "total_items": 200,
   "items": [
+    {
+      "id": "5e0ba94fa5eb0e5a6b38bce346f7990672c1fff456b36509e44aba10359ad9b8",
+      "source": "NYT Technology",
+      "group": "news",
+      "category": "global_tech",
+      "icon": "🗽",
+      "title": "Tech Leaders Rally Behind Jensen Huang",
+      "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+      "published_at": "2026-11-15T05:57:38+09:00",
+      "entry_updated_at": "2026-11-15T05:57:38+09:00",
+      "fetched_at": "2026-11-15T06:04:51.323203+09:00",
+      "language": "en",
+      "importance_weight": 0.85,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
     {
       "id": "312f9ffefa12095cbaec7bf2f85178c5799abc2280fb8d5e8eb2cba4ff7e1fd5",
       "source": "BBC Technology",
@@ -3580,24 +3598,6 @@
       "fetched_at": "2026-11-13T00:53:03.245558+09:00",
       "language": "en",
       "importance_weight": 0.8,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "0fcc66a41f82bc6f1dbd608233e65857bc80d3dca0620b7f706df1d6c855c6b4",
-      "source": "NYT Technology",
-      "group": "news",
-      "category": "global_tech",
-      "icon": "🗽",
-      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-      "summary": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "published_at": "2026-11-13T00:30:04+09:00",
-      "entry_updated_at": "2026-11-13T00:30:04+09:00",
-      "fetched_at": "2026-11-13T00:53:03.342110+09:00",
-      "language": "en",
-      "importance_weight": 0.85,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
