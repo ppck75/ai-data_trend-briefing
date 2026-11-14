@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-14T01:41:27.357834+09:00",
+  "updated_at": "2026-11-14T11:37:49.653006+09:00",
   "archives": [
+    {
+      "id": "2026-11-14_12-35",
+      "date": "2026-11-14",
+      "time": "12:35",
+      "label": "2026-11-14 12:35",
+      "generated_at": "2026-11-14T11:37:19.508134+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "UI",
+        "데이터",
+        "소비자"
+      ],
+      "integrated_titles": [
+        "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+        "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+        "뤼튼, 지스타 메인 스폰서 참가…‘크랙’ 대형전시 설치",
+        "테스트뮤 AI의 2026 품질 엔지니어링 분야 AI 현황 보고서: 소프트웨어 팀 81%, AI가 작성한 코드 제대로 이해 못한 채 병합한 적 있어",
+        "An LLM Is All You Need: Data-Efficient Adaptation to Full-Duplex, Word-Level Spoken Dialogue"
+      ],
+      "path_json": "archive/2026-11-14/12-35.json",
+      "path_md": "archive/2026-11-14/12-35.md"
+    },
     {
       "id": "2026-11-14_01-40",
       "date": "2026-11-14",
