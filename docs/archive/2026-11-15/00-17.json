@@ -1,0 +1,459 @@
+{
+  "briefing_date": "2026-11-15",
+  "generated_at": "2026-11-15T00:17:05.392967+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 0,
+    "ai_data": 15
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "70c3af902afa0e7b7cee5a67f3450d38496d41d234252356eed571befdc86153",
+        "title": "프런티어 AI, 규제 틀 안으로…안전관리 의무화 확산",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113211708",
+        "published_at": "2026-11-14T13:54:19+09:00",
+        "summary": "[지디넷코리아]첨단 인공지능(AI)을 둘러싼 규제가 기업 자율관리에서 법적 의무로 확대되고 있다. 유럽연합(EU)과 미국 주요 주정부에 이어 호주도 위험 평가와 사고 보고 등을 의무화하는 입법 추진에 나섰다.14일 업계에 따르면 뉴욕주는 내년 AI 안전법 시행을 앞두고 최근 대상 기업 등록을 시작했다. 호주 정부도 첨단 AI 기업에 독립 평가와 사고 보고 등을 의무화하는 입법 계획을 발표했다.감독 대상은 현재 기술 수준에서 가장 앞선 모델을 뜻하는 '프런티어 AI'다. 정부와 의회는 개발사에 어떤 위험을 발견했고 어떻게 대응했는지 설명하도록 요구한다. 안전관리 방침 공개와 중대 사고 보고 절차도 법에 담고 있다.규제 배경에는 AI 역할 변화가 있다. AI는 질문에 답하는 데서 나아가 프로그램을 실행하고 여러 도구로 작업을 수행한다. 호주 정부는 지시를 벗어나 행동하는 AI 에이전트 위험을 일찍 발견하고 사고에 빠르게 대응하기 위해 안전 의무가 필요하다고 설명했다.실제 사고에 대한…",
+        "category_score": 98,
+        "score_reason": "글로벌 AI 규제의 패러다임이 자율에서 법적 의무화로 급격히 전환되는 중요한 시장 신호임.",
+        "keywords": [
+          "AI",
+          "규제",
+          "프런티어 AI"
+        ],
+        "planning_insight": "AI 기업의 컴플라이언스 대응 전략 및 안전한 AI 거버넌스 콘텐츠를 선제적으로 구축할 필요가 있음."
+      },
+      {
+        "rank": 2,
+        "id": "afd1e7373b523643c4cddf928246b51b99b669829f4dee7ff6941d9b160a89c2",
+        "title": "AI 안경, 다음 격전지는 건강 관리…심박수·눈 피로까지 추적",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113204645",
+        "published_at": "2026-11-14T09:02:40+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기반 스마트 안경이 다양한 분야로 활용 영역을 넓히고 있다. 생산성 향상은 물론 스포츠, 사진·영상 촬영, 청각 장애인용 제품까지 등장했다. 시험 부정행위에 악용되는 사례도 나오고 있다.이 같은 확장세를 고려하면 스마트 안경의 다음 격전지는 건강 추적 분야가 될 것이라는 전망이 나왔다.IT매체 기즈모도는 스마트 안경이 다른 웨어러블 기기와 마찬가지로 건강 추적 기능을 강화하고 있으며, 관련 기술도 점차 정교해지고 있다고 최근 보도했다.메타 등 주요 업체들은 이미 스마트 안경에 영양 섭취 추적과 같은 건강 모니터링 기능을 도입하고 있다. 사용자가 섭취하는 음식을 안경으로 인식하고 기록하는 방식이다. 최근에는 한발 더 나아가 다양한 생체 정보를 측정하는 스마트 안경도 등장하고 있다.최근 알리바바는 자체 AI 안경 제품군인 '큐웬(Qwen)'을 출시했다. 메타 제품과 유사한 기능을 제공하면서도 추가적인 건강 측정 센서를 탑재한 것이 특징이다.예를 들어 '큐…",
+        "category_score": 95,
+        "score_reason": "AI 기술이 스마트 안경과 결합해 헬스케어 영역으로 확장되는 구체적인 소비자 행동 변화를 포착함.",
+        "keywords": [
+          "AI",
+          "스마트 안경",
+          "헬스케어"
+        ],
+        "planning_insight": "웨어러블 기기의 헬스케어 데이터 활용 사례와 일상 속 AI 기술의 침투를 중심으로 한 라이프스타일 콘텐츠 기획."
+      },
+      {
+        "rank": 3,
+        "id": "29556eb466c8decefcd1dfb3ac202017eb5688963b9bd742388d62bfebbaabd1",
+        "title": "\"1시간 배송은 기본\"…美 유통업계, 우버·드론까지 총동원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113092609",
+        "published_at": "2026-11-13T09:44:11+09:00",
+        "summary": "[지디넷코리아]미국 유통업계가 당일·즉시배송 서비스를 빠르게 확대하고 있다. 아마존 등 온라인 플랫폼과 경쟁하고 높아진 소비자 배송 기대치를 맞추기 위해 차량호출 플랫폼부터 드론까지 다양한 배송 수단을 활용하는 모습이다.12일(현지시간) 미국 물류 전문매체 프레이트웨이브스에 따르면 트랙터 서플라이는 우버와 제휴를 맺고 미국 전역 약 2500개 매장의 상품을 우버와 우버이츠, 포스트메이츠를 통해 주문할 수 있도록 했다.소비자들은 반려동물 사료와 동물관리용품, 농축산용품, 정원용품, 공구와 철물 등을 주문해 집에서 받아볼 수 있다.트랙터 서플라이는 미국 농촌과 외곽·교외 지역을 중심으로 매장을 운영하는 농촌생활 전문 유통업체다. 미국 49개주에 2463개 트랙터 서플라이 매장과 반려동물 전문점 펫센스 209개를 운영하고 있다.이번 제휴는 우버의 긱 노동자 기반 배송망을 활용해 소비자에게 보다 빠른 배송 선택지를 제공하기 위한 것이다.매튜 루빈 트랙터 서플라이 디지털·이커머스 부문 사장…",
+        "category_score": 92,
+        "score_reason": "유통 및 배송 시장에서 드론, 차량 공유 플랫폼을 활용한 즉시 배송이 트렌드로 정착되는 양상을 잘 보여줌.",
+        "keywords": [
+          "플랫폼",
+          "커머스",
+          "배송"
+        ],
+        "planning_insight": "온디맨드 경제의 가속화에 따른 소비자 기대치 변화 분석 및 유통 플랫폼의 기술적 진화 콘텐츠."
+      },
+      {
+        "rank": 4,
+        "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+        "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113011002",
+        "published_at": "2026-11-13T01:10:02+09:00",
+        "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+        "category_score": 89,
+        "score_reason": "단순 정보 분석을 넘어 브랜드가 '행동'하도록 돕는 에이전틱 AI로의 전환을 보여주는 마케팅 테크 트렌드.",
+        "keywords": [
+          "AI",
+          "데이터",
+          "인텔리전스"
+        ],
+        "planning_insight": "마케팅 분야에서 AI 에이전트가 어떻게 의사결정을 자동화하고 업무 프로세스를 재정의하는지에 대한 전략적 조명."
+      },
+      {
+        "rank": 5,
+        "id": "88a68b532937f394715a6f31a01a8d92c98fc93b492ed5537deae41670e3cb90",
+        "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113165818",
+        "published_at": "2026-11-14T11:27:03+09:00",
+        "summary": "[지디넷코리아]배달의민족(배민)이 입점업주 부담을 줄이기 위해 할인 금액에 대한 수수료 공제 범위를 확대하면서 경쟁사인 쿠팡이츠의 대응에 관심이 쏠리고 있다. 공정거래위원회의 불공정약관 시정명령과 소상공인 단체들의 개선 요구가 맞물리면서 배달앱 시장 전반의 수수료 산정 방식에 변화가 나타날지 주목된다.14일 관련 업계에 따르면 배민 운영사 우아한형제들은 입점업주가 부담하는 음식값 할인에 이어 고객 배달팁 할인 금액까지 플랫폼 수수료 산정에서 제외하기로 했다. 회사는 기존 음식값 할인 공제분을 포함해 연간 약 1100억원의 수수료 절감 효과가 있을 것으로 추산했다.쿠팡이츠는 할인 전 판매금액을 기준으로 수수료를 부과하는 약관에 대해 공정위의 시정명령을 받은 상태다. 소상공인 단체들도 배민의 결정을 환영하며 쿠팡이츠에 동일한 제도 개선을 요구하고 있어 향후 약관 개정 방향이 관심사로 떠오르고 있다.배민은 입점업주가 부담하는 모든 할인 금액을 중개수수료와 결제정산수수료 산정에서 제외하는…",
+        "category_score": 86,
+        "score_reason": "배달 플랫폼의 수수료 구조 개편은 이해관계자 간의 갈등 및 플랫폼 생태계의 건전성 이슈로 반복될 핵심 트렌드임.",
+        "keywords": [
+          "플랫폼",
+          "커머스",
+          "소비자 행동"
+        ],
+        "planning_insight": "플랫폼 기업의 상생 모델과 수수료 정책 변경이 입점업주 및 소비자에게 미치는 영향 분석 콘텐츠."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "81d0df03ed24a605f2cf9bfa6fcfcdc9e37dbc0d6e6974d2472b11e7d2161eb9",
+        "title": "AWS 에뮬레이터 출시, 로컬 AWS를 대상으로 AI 애플리케이션 테스트 가능",
+        "source": "AWS 한국 블로그",
+        "group": "ai_data",
+        "category": "cloud_data_infra",
+        "url": "https://aws.amazon.com/ko/blogs/korea/test-your-applications-against-aws-locally-with-aws-emulator/",
+        "published_at": "2026-11-13T01:07:16+09:00",
+        "summary": "오늘 AWS는 머신에서 실행할 수 있는 Amazon Web Services(AWS)용 로컬 에뮬레이터인 AWS 에뮬레이터를 발표합니다. AWS Command Line Interface(AWS CLI), AWS SDK 및 코딩 에이전트는 클라우드에서 사용하는 것과 동일한 AWS API를 사용하여 사용자의 랩톱에서 로컬 HTTPS 엔드포인트를 통해 이 에뮬레이터와 통신합니다. AWS 에뮬레이터에는 추가 서비스 요금이 없습니다. AWS에 배포할 때는 AWS 리소스에 대해서만 비용을 지불하면 됩니다. […]",
+        "category_score": 98,
+        "score_reason": "AI 에이전트 개발 및 배포를 위한 로컬 테스트 환경을 제공하여, 실무 수준의 AI 서비스 기획 및 안정적인 인프라 구축에 직접적인 기여를 함.",
+        "keywords": [
+          "AWS",
+          "에이전트",
+          "인프라",
+          "개발환경"
+        ],
+        "planning_insight": "클라우드 비용 부담 없이 로컬 환경에서 AI 에이전트를 테스트할 수 있어, 기획 단계의 프로토타이핑 가속화 및 배포 전 검증 효율성이 크게 향상됨."
+      },
+      {
+        "rank": 2,
+        "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+        "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14700",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+        "category_score": 95,
+        "score_reason": "페르소나 시뮬레이션을 통한 사용자 조사 자동화 기법으로, 제품 기획 단계에서 데이터 기반 의사결정을 자동화하고 반복 주기를 단축시킬 수 있음.",
+        "keywords": [
+          "페르소나",
+          "시뮬레이션",
+          "사용자조사",
+          "데이터기반"
+        ],
+        "planning_insight": "실제 사용자 모집의 병목현상을 AI가 해결함으로써, 가상 환경에서 다양한 사용자 시나리오를 미리 검증해 콘텐츠 방향성 및 제품 기획의 정합성을 높일 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "published_at": "2026-11-13T04:07:35+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "LLM 네이티브 마크업 언어(LLMON) 도입은 콘텐츠 구조화 및 데이터 제어 가능성을 높여 생성형 AI 활용 시 결과물의 품질과 정형화된 출력을 제어하는 데 매우 유용함.",
+        "keywords": [
+          "LLM",
+          "마크업",
+          "구조화",
+          "생성형AI"
+        ],
+        "planning_insight": "AI가 생성하는 콘텐츠를 시스템이 이해하기 쉬운 형태로 규격화하여, 자동화된 워크플로우에 즉각 통합할 수 있는 기술적 기반이 마련됨."
+      },
+      {
+        "rank": 4,
+        "id": "812aed6d608874a40b0108163539a1b1fadcac85945cb752d4cacd7989f64b89",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "published_at": "2026-11-13T23:05:22+09:00",
+        "summary": "",
+        "category_score": 88,
+        "score_reason": "로컬 LLM 구동의 핵심인 llama.cpp v1.0.0 출시는 프라이버시가 중요한 데이터 분석 및 온디바이스 AI 콘텐츠 자동화 환경을 구축하는 기획자에게 필수적인 기술 변화임.",
+        "keywords": [
+          "로컬LLM",
+          "온디바이스",
+          "오픈소스",
+          "LLM"
+        ],
+        "planning_insight": "서버 통신 비용 없이 내부 데이터 분석을 수행하거나 보안이 중요한 콘텐츠 생성 파이프라인을 온디바이스 형태로 기획 가능."
+      },
+      {
+        "rank": 5,
+        "id": "f006701ac9ce9ede7be2d884f669a881776c3f0a2afa2e8d2456403dd8cd9952",
+        "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14758",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14758v1 Announce Type: new Abstract: Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five languages: English, French, German, Italian, and Spa…",
+        "category_score": 85,
+        "score_reason": "멀티모달 모델의 문서 이해도(Document Understanding)는 기업 내부의 비정형 데이터 분석 및 콘텐츠 요약/추천 자동화 시스템의 핵심 역량임.",
+        "keywords": [
+          "멀티모달",
+          "문서이해",
+          "데이터분석",
+          "자동화"
+        ],
+        "planning_insight": "이미지 기반의 복잡한 문서를 AI가 처리하게 함으로써 기업 보고서, 계약서, 마케팅 시안 등 다채로운 데이터 자산의 가치를 자동화하여 활용할 수 있는 토대 제공."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "70c3af902afa0e7b7cee5a67f3450d38496d41d234252356eed571befdc86153",
+      "title": "프런티어 AI, 규제 틀 안으로…안전관리 의무화 확산",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113211708",
+      "published_at": "2026-11-14T13:54:19+09:00",
+      "summary": "[지디넷코리아]첨단 인공지능(AI)을 둘러싼 규제가 기업 자율관리에서 법적 의무로 확대되고 있다. 유럽연합(EU)과 미국 주요 주정부에 이어 호주도 위험 평가와 사고 보고 등을 의무화하는 입법 추진에 나섰다.14일 업계에 따르면 뉴욕주는 내년 AI 안전법 시행을 앞두고 최근 대상 기업 등록을 시작했다. 호주 정부도 첨단 AI 기업에 독립 평가와 사고 보고 등을 의무화하는 입법 계획을 발표했다.감독 대상은 현재 기술 수준에서 가장 앞선 모델을 뜻하는 '프런티어 AI'다. 정부와 의회는 개발사에 어떤 위험을 발견했고 어떻게 대응했는지 설명하도록 요구한다. 안전관리 방침 공개와 중대 사고 보고 절차도 법에 담고 있다.규제 배경에는 AI 역할 변화가 있다. AI는 질문에 답하는 데서 나아가 프로그램을 실행하고 여러 도구로 작업을 수행한다. 호주 정부는 지시를 벗어나 행동하는 AI 에이전트 위험을 일찍 발견하고 사고에 빠르게 대응하기 위해 안전 의무가 필요하다고 설명했다.실제 사고에 대한…",
+      "category_score": 98,
+      "score_reason": "글로벌 AI 규제의 패러다임이 자율에서 법적 의무화로 급격히 전환되는 중요한 시장 신호임.",
+      "keywords": [
+        "AI 규제",
+        "프런티어 AI",
+        "AI 거버넌스"
+      ],
+      "planning_insight": "AI 윤리 및 안전 가이드를 반영한 콘텐츠 거버넌스 수립이 필요하며, 이를 신뢰성 마케팅 포인트로 활용하는 전략적 접근이 유효함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "글로벌 AI 규제의 법적 의무화 전환과 안전한 AI 거버넌스 체계 구축",
+      "importance_reason": "전 세계적으로 '프런티어 AI'에 대한 자율 관리에서 법적 규제로 패러다임이 전환되고 있어, AI 기반 서비스 기획 시 컴플라이언스 대응이 필수적인 비즈니스 리스크이자 전략 과제가 됨."
+    },
+    {
+      "rank": 2,
+      "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+      "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.14700",
+      "published_at": "2026-11-13T14:00:00+09:00",
+      "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+      "category_score": 95,
+      "score_reason": "페르소나 시뮬레이션을 통한 사용자 조사 자동화 기법으로, 제품 기획 단계에서 데이터 기반 의사결정을 자동화하고 반복 주기를 단축시킬 수 있음.",
+      "keywords": [
+        "페르소나 시뮬레이션",
+        "사용자 조사",
+        "데이터 기반 의사결정"
+      ],
+      "planning_insight": "실제 유저 테스트 전 단계에서 시뮬레이션 환경을 활용해 콘텐츠 반응을 사전 검증하고 기획의 오류를 최소화하는 '데이터 기반 가설 검증' 프로세스 도입 필요.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "가상 페르소나 시뮬레이션을 통한 사용자 조사 및 제품 기획의 자동화",
+      "importance_reason": "실제 사용자 모집의 병목현상을 해결하고, 다양한 시나리오 기반의 가상 실험을 가능하게 하여 콘텐츠 및 서비스 기획의 속도와 정합성을 획기적으로 개선함."
+    },
+    {
+      "rank": 3,
+      "id": "81d0df03ed24a605f2cf9bfa6fcfcdc9e37dbc0d6e6974d2472b11e7d2161eb9",
+      "title": "AWS 에뮬레이터 출시, 로컬 AWS를 대상으로 AI 애플리케이션 테스트 가능",
+      "source": "AWS 한국 블로그",
+      "group": "ai_data",
+      "category": "cloud_data_infra",
+      "url": "https://aws.amazon.com/ko/blogs/korea/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "published_at": "2026-11-13T01:07:16+09:00",
+      "summary": "오늘 AWS는 머신에서 실행할 수 있는 Amazon Web Services(AWS)용 로컬 에뮬레이터인 AWS 에뮬레이터를 발표합니다. AWS Command Line Interface(AWS CLI), AWS SDK 및 코딩 에이전트는 클라우드에서 사용하는 것과 동일한 AWS API를 사용하여 사용자의 랩톱에서 로컬 HTTPS 엔드포인트를 통해 이 에뮬레이터와 통신합니다. AWS 에뮬레이터에는 추가 서비스 요금이 없습니다. AWS에 배포할 때는 AWS 리소스에 대해서만 비용을 지불하면 됩니다. […]",
+      "category_score": 98,
+      "score_reason": "AI 에이전트 개발 및 배포를 위한 로컬 테스트 환경을 제공하여, 실무 수준의 AI 서비스 기획 및 안정적인 인프라 구축에 직접적인 기여를 함.",
+      "keywords": [
+        "AWS 에뮬레이터",
+        "AI 에이전트",
+        "로컬 테스트"
+      ],
+      "planning_insight": "클라우드 비용 고민 없이 다양한 에이전트 파이프라인을 기획 단계에서 즉각 구현하고 테스트함으로써 실험적인 기능(POC)의 배포 주기를 단축할 것.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "로컬 환경에서의 AI 애플리케이션 개발·테스트 인프라 혁신",
+      "importance_reason": "비용 부담 없이 로컬 환경에서 프로토타이핑이 가능해짐에 따라, AI 에이전트 기반의 콘텐츠 자동화 서비스 기획자들에게 실무적인 개발 진입 장벽을 대폭 낮춰줌."
+    },
+    {
+      "rank": 4,
+      "id": "afd1e7373b523643c4cddf928246b51b99b669829f4dee7ff6941d9b160a89c2",
+      "title": "AI 안경, 다음 격전지는 건강 관리…심박수·눈 피로까지 추적",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113204645",
+      "published_at": "2026-11-14T09:02:40+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 스마트 안경이 다양한 분야로 활용 영역을 넓히고 있다. 생산성 향상은 물론 스포츠, 사진·영상 촬영, 청각 장애인용 제품까지 등장했다. 시험 부정행위에 악용되는 사례도 나오고 있다.이 같은 확장세를 고려하면 스마트 안경의 다음 격전지는 건강 추적 분야가 될 것이라는 전망이 나왔다.IT매체 기즈모도는 스마트 안경이 다른 웨어러블 기기와 마찬가지로 건강 추적 기능을 강화하고 있으며, 관련 기술도 점차 정교해지고 있다고 최근 보도했다.메타 등 주요 업체들은 이미 스마트 안경에 영양 섭취 추적과 같은 건강 모니터링 기능을 도입하고 있다. 사용자가 섭취하는 음식을 안경으로 인식하고 기록하는 방식이다. 최근에는 한발 더 나아가 다양한 생체 정보를 측정하는 스마트 안경도 등장하고 있다.최근 알리바바는 자체 AI 안경 제품군인 '큐웬(Qwen)'을 출시했다. 메타 제품과 유사한 기능을 제공하면서도 추가적인 건강 측정 센서를 탑재한 것이 특징이다.예를 들어 '큐…",
+      "category_score": 95,
+      "score_reason": "AI 기술이 스마트 안경과 결합해 헬스케어 영역으로 확장되는 구체적인 소비자 행동 변화를 포착함.",
+      "keywords": [
+        "스마트 안경",
+        "헬스케어 AI",
+        "웨어러블"
+      ],
+      "planning_insight": "일상 속 웨어러블 디바이스의 데이터 접점을 활용한 콘텐츠 인터랙션 사례를 연구하고, 라이프스타일 전반에 걸친 데이터 기반 마케팅 콘텐츠 기획.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 스마트 안경을 통한 헬스케어 데이터 수집 및 소비자 행동 변화",
+      "importance_reason": "AI 기술이 일상 밀착형 하드웨어와 결합하여 헬스케어 시장을 확장하고 있으며, 이는 향후 브랜드가 소비자의 생체 데이터를 활용한 개인화 서비스를 제공할 가능성을 시사함."
+    },
+    {
+      "rank": 5,
+      "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+      "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113011002",
+      "published_at": "2026-11-13T01:10:02+09:00",
+      "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+      "category_score": 89,
+      "score_reason": "단순 정보 분석을 넘어 브랜드가 '행동'하도록 돕는 에이전틱 AI로의 전환을 보여주는 마케팅 테크 트렌드.",
+      "keywords": [
+        "에이전틱 AI",
+        "마케팅 인텔리전스",
+        "데이터 의사결정"
+      ],
+      "planning_insight": "AI가 제안하는 인텔리전스 데이터를 어떻게 콘텐츠 퍼포먼스 개선과 연결할지, 에이전트와의 협업 워크플로우를 구성하는 것이 핵심.",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "브랜드 행동을 지원하는 에이전틱 대화형 마케팅 인텔리전스",
+      "importance_reason": "AI가 단순히 정보를 요약하는 것을 넘어 마케팅 전략 수립 및 실행 단계에 개입하는 '에이전틱 AI' 트렌드는 향후 마케터의 업무 방식과 도구 사용 방식을 근본적으로 변화시킬 것임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 87,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 15,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "글로벌 차원의 AI 안전 규제 의무화가 확산되면서, AI 서비스 기획 시 윤리적 준거와 안전 관리 체계 구축이 필수적임.",
+    "사용자 조사부터 개발 테스트까지 AI 기술이 인프라와 기획 단계를 자동화·최적화하는 'AI 에이전트' 시대로 빠르게 진입하고 있음.",
+    "헬스케어와 결합된 디바이스부터 에이전틱 마케팅 툴까지, 데이터 기반의 실질적인 '행동 지원형' AI가 산업 전반의 가치를 제고하고 있음."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}

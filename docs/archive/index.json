@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-14T19:47:09.039350+09:00",
+  "updated_at": "2026-11-15T00:17:43.470324+09:00",
   "archives": [
+    {
+      "id": "2026-11-15_00-17",
+      "date": "2026-11-15",
+      "time": "00:17",
+      "label": "2026-11-15 00:17",
+      "generated_at": "2026-11-15T00:17:05.392967+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "UI",
+        "데이터",
+        "분석"
+      ],
+      "integrated_titles": [
+        "프런티어 AI, 규제 틀 안으로…안전관리 의무화 확산",
+        "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+        "AWS 에뮬레이터 출시, 로컬 AWS를 대상으로 AI 애플리케이션 테스트 가능",
+        "AI 안경, 다음 격전지는 건강 관리…심박수·눈 피로까지 추적",
+        "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원"
+      ],
+      "path_json": "archive/2026-11-15/00-17.json",
+      "path_md": "archive/2026-11-15/00-17.md"
+    },
     {
       "id": "2026-11-14_19-46",
       "date": "2026-11-14",
