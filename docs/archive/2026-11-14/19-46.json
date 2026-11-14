@@ -1,0 +1,454 @@
+{
+  "briefing_date": "2026-11-14",
+  "generated_at": "2026-11-14T19:46:50.553119+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 0,
+    "ai_data": 15
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+        "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261112162741",
+        "published_at": "2026-11-12T23:00:01+09:00",
+        "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+        "category_score": 98,
+        "score_reason": "삼성, 구글, 젠틀몬스터 등 빅테크와 패션 브랜드의 합작은 'AI 디바이스의 일상화'를 상징하는 강력한 시장 변화 신호임. 소비자 접점 플랫폼으로 확장성이 매우 높음.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "웨어러블"
+        ],
+        "planning_insight": "AI가 소프트웨어에서 하드웨어로 확장되는 '온디바이스 AI' 트렌드를 반영한 콘텐츠 기획(사용자 경험, 패션과 기술의 결합) 필요."
+      },
+      {
+        "rank": 2,
+        "id": "afd1e7373b523643c4cddf928246b51b99b669829f4dee7ff6941d9b160a89c2",
+        "title": "AI 안경, 다음 격전지는 건강 관리…심박수·눈 피로까지 추적",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113204645",
+        "published_at": "2026-11-14T09:02:40+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 기반 스마트 안경이 다양한 분야로 활용 영역을 넓히고 있다. 생산성 향상은 물론 스포츠, 사진·영상 촬영, 청각 장애인용 제품까지 등장했다. 시험 부정행위에 악용되는 사례도 나오고 있다.이 같은 확장세를 고려하면 스마트 안경의 다음 격전지는 건강 추적 분야가 될 것이라는 전망이 나왔다.IT매체 기즈모도는 스마트 안경이 다른 웨어러블 기기와 마찬가지로 건강 추적 기능을 강화하고 있으며, 관련 기술도 점차 정교해지고 있다고 최근 보도했다.메타 등 주요 업체들은 이미 스마트 안경에 영양 섭취 추적과 같은 건강 모니터링 기능을 도입하고 있다. 사용자가 섭취하는 음식을 안경으로 인식하고 기록하는 방식이다. 최근에는 한발 더 나아가 다양한 생체 정보를 측정하는 스마트 안경도 등장하고 있다.최근 알리바바는 자체 AI 안경 제품군인 '큐웬(Qwen)'을 출시했다. 메타 제품과 유사한 기능을 제공하면서도 추가적인 건강 측정 센서를 탑재한 것이 특징이다.예를 들어 '큐…",
+        "category_score": 95,
+        "score_reason": "AI 안경이 생산성을 넘어 건강 관리 분야로 진화하는 것은 기술적 트렌드가 소비자 행동 및 라이프스타일 변화로 직결됨을 보여줌.",
+        "keywords": [
+          "AI",
+          "헬스케어",
+          "웨어러블"
+        ],
+        "planning_insight": "AI가 개인의 신체 데이터와 결합했을 때 발생하는 헬스케어 가치 제안 및 향후 데이터 프라이버시 이슈로의 트렌드 확장 가능성."
+      },
+      {
+        "rank": 3,
+        "id": "3049d25b1a2aa64fa6481db665ab83d987a0b50aac1d7f140cc21cc166f8ad5b",
+        "title": "“AI 원금복구 기다리느니”…‘미워도 다시한번’ 바이오 몰리는 투자금",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12208700",
+        "published_at": "2026-11-14T06:23:54+09:00",
+        "summary": "올 비상장 바이오 1.7조 몰려 지난해 전체 투자규모 웃돌아 투자 건수 기준 반도체 앞질러인공지능(AI) 성장에 대한 전망이 엇갈리는 가운데 비상장·스타트업 투자자들이 바이오 분야..",
+        "category_score": 92,
+        "score_reason": "AI 투자 열풍 이후 나타나는 '투자 고점 피로감'과 자본의 이동(바이오 등 타 섹터 전환)은 시장 사이클을 이해하는 중요한 지표임.",
+        "keywords": [
+          "AI",
+          "시장전망",
+          "투자"
+        ],
+        "planning_insight": "기술 만능주의에서 벗어나 실질적인 수익성과 비즈니스 모델(BM)을 검증하려는 시장의 움직임에 주목한 심층 리포트 콘텐츠 전략."
+      },
+      {
+        "rank": 4,
+        "id": "29556eb466c8decefcd1dfb3ac202017eb5688963b9bd742388d62bfebbaabd1",
+        "title": "\"1시간 배송은 기본\"…美 유통업계, 우버·드론까지 총동원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113092609",
+        "published_at": "2026-11-13T09:44:11+09:00",
+        "summary": "[지디넷코리아]미국 유통업계가 당일·즉시배송 서비스를 빠르게 확대하고 있다. 아마존 등 온라인 플랫폼과 경쟁하고 높아진 소비자 배송 기대치를 맞추기 위해 차량호출 플랫폼부터 드론까지 다양한 배송 수단을 활용하는 모습이다.12일(현지시간) 미국 물류 전문매체 프레이트웨이브스에 따르면 트랙터 서플라이는 우버와 제휴를 맺고 미국 전역 약 2500개 매장의 상품을 우버와 우버이츠, 포스트메이츠를 통해 주문할 수 있도록 했다.소비자들은 반려동물 사료와 동물관리용품, 농축산용품, 정원용품, 공구와 철물 등을 주문해 집에서 받아볼 수 있다.트랙터 서플라이는 미국 농촌과 외곽·교외 지역을 중심으로 매장을 운영하는 농촌생활 전문 유통업체다. 미국 49개주에 2463개 트랙터 서플라이 매장과 반려동물 전문점 펫센스 209개를 운영하고 있다.이번 제휴는 우버의 긱 노동자 기반 배송망을 활용해 소비자에게 보다 빠른 배송 선택지를 제공하기 위한 것이다.매튜 루빈 트랙터 서플라이 디지털·이커머스 부문 사장…",
+        "category_score": 88,
+        "score_reason": "유통업계의 배송 속도 경쟁이 단순 물류를 넘어 차량호출 및 드론 플랫폼과 결합하는 것은 리테일과 플랫폼의 융합 트렌드를 보여줌.",
+        "keywords": [
+          "플랫폼",
+          "커머스",
+          "물류"
+        ],
+        "planning_insight": "초개인화된 즉시 배송이 소비자의 쇼핑 행동에 미치는 영향 및 플랫폼 연동형 커머스 콘텐츠 전략 설계."
+      },
+      {
+        "rank": 5,
+        "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+        "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113011002",
+        "published_at": "2026-11-13T01:10:02+09:00",
+        "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+        "category_score": 85,
+        "score_reason": "브랜드가 AI를 활용해 시장 변화를 선제적으로 포착하려는 '에이전틱 AI' 도입 움직임은 마케팅 및 기업 의사결정 방식의 근본적 변화를 시사함.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "데이터"
+        ],
+        "planning_insight": "AI가 데이터 분석을 넘어 비즈니스 확신과 행동을 가이드하는 '의사결정 보조 도구'로 활용되는 트렌드와 콘텐츠 마케팅의 연관성 연구."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "81d0df03ed24a605f2cf9bfa6fcfcdc9e37dbc0d6e6974d2472b11e7d2161eb9",
+        "title": "AWS 에뮬레이터 출시, 로컬 AWS를 대상으로 AI 애플리케이션 테스트 가능",
+        "source": "AWS 한국 블로그",
+        "group": "ai_data",
+        "category": "cloud_data_infra",
+        "url": "https://aws.amazon.com/ko/blogs/korea/test-your-applications-against-aws-locally-with-aws-emulator/",
+        "published_at": "2026-11-13T01:07:16+09:00",
+        "summary": "오늘 AWS는 머신에서 실행할 수 있는 Amazon Web Services(AWS)용 로컬 에뮬레이터인 AWS 에뮬레이터를 발표합니다. AWS Command Line Interface(AWS CLI), AWS SDK 및 코딩 에이전트는 클라우드에서 사용하는 것과 동일한 AWS API를 사용하여 사용자의 랩톱에서 로컬 HTTPS 엔드포인트를 통해 이 에뮬레이터와 통신합니다. AWS 에뮬레이터에는 추가 서비스 요금이 없습니다. AWS에 배포할 때는 AWS 리소스에 대해서만 비용을 지불하면 됩니다. […]",
+        "category_score": 98,
+        "score_reason": "AI 에이전트 개발 및 배포를 위한 로컬 테스트 환경을 제공하여, 기획자가 클라우드 비용 부담 없이 실험적 AI 서비스를 프로토타이핑하는 데 즉각적인 효용을 제공함.",
+        "keywords": [
+          "AWS",
+          "에이전트",
+          "인프라",
+          "로컬 테스트"
+        ],
+        "planning_insight": "클라우드 의존도를 낮추고 로컬 환경에서 에이전트 워크플로우를 테스트함으로써, AI 서비스 개발의 민첩성과 비용 효율성을 확보할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "812aed6d608874a40b0108163539a1b1fadcac85945cb752d4cacd7989f64b89",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "published_at": "2026-11-13T23:05:22+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "로컬 AI 생태계의 핵심 도구인 llama.cpp의 대규모 업데이트로, 온프레미스 환경에서 LLM을 구동하려는 기업에게 최적의 인프라 기준을 제시함.",
+        "keywords": [
+          "오픈소스",
+          "로컬 LLM",
+          "온프레미스"
+        ],
+        "planning_insight": "데이터 보안과 비용 최적화를 위해 클라우드 API 대신 로컬 LLM 운영을 고려하는 기획자에게 필수적인 기술적 토대임."
+      },
+      {
+        "rank": 3,
+        "id": "01974f612fbc826bc36818b51dde3f1241f813f7b9edbc651d3cc366cf28850e",
+        "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "published_at": "2026-11-13T04:07:35+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "LLM이 구조화된 마크업 언어를 직접 처리하게 함으로써 콘텐츠 제작 및 자동화 파이프라인에서 데이터 정제 및 관리 효율성을 극대화함.",
+        "keywords": [
+          "LLM",
+          "마크업 언어",
+          "데이터 구조화"
+        ],
+        "planning_insight": "LLM 기반 자동화 도구 기획 시, 비정형 데이터의 구조화 문제를 해결하여 워크플로우의 안정성을 높이는 핵심 기술 요소를 이해할 수 있음."
+      },
+      {
+        "rank": 4,
+        "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+        "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14700",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+        "category_score": 90,
+        "score_reason": "페르소나 시뮬레이션을 통한 사용자 리서치 자동화는 콘텐츠 기획 및 서비스 검증 단계에서 비용과 시간을 획기적으로 절감할 수 있는 방법론임.",
+        "keywords": [
+          "AI 에이전트",
+          "사용자 리서치",
+          "시뮬레이션"
+        ],
+        "planning_insight": "실제 사용자 모집 전, AI 에이전트를 활용한 가상 사용자 테스트를 통해 서비스 기획의 정합성을 사전에 확보하는 전략적 접근이 가능함."
+      },
+      {
+        "rank": 5,
+        "id": "f006701ac9ce9ede7be2d884f669a881776c3f0a2afa2e8d2456403dd8cd9952",
+        "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14758",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14758v1 Announce Type: new Abstract: Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five languages: English, French, German, Italian, and Spa…",
+        "category_score": 88,
+        "score_reason": "멀티모달 모델의 문서 이해 역량은 콘텐츠 자동화 및 데이터 추출에 직접적인 영향을 미치며, 최신 비전-언어 모델의 현주소를 파악하게 함.",
+        "keywords": [
+          "멀티모달",
+          "문서 이해",
+          "데이터 자동화"
+        ],
+        "planning_insight": "비정형 문서 데이터(이미지, PDF 등)를 자동으로 분석·요약하여 콘텐츠화하는 파이프라인 구축 시 벤치마크 지표로 활용 가능함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "19bcf7f63d0c1b0e76d0f8685bd5676ff940d7c6e0f01f6068c898f974e0840d",
+      "title": "삼성·구글·젠틀몬스터 합작 '인텔리전트 아이웨어' 뉴욕 공개",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261112162741",
+      "published_at": "2026-11-12T23:00:01+09:00",
+      "summary": "[지디넷코리아]삼성전자가 구글, 젠틀몬스터, 워비파커 등 글로벌 파트너들과 손잡고 개발한 인공지능(AI) 기반 안경의 전체 라인업이 글로벌 시장에 전격 공개됐다.삼성전자 등 4개사는 12일(현지시간) 미국 뉴욕에서 행사를 열고, 구글의 생성형 AI '제미나이'를 탑재한 '인텔리전트 아이웨어(Intelligent Eyewear)'의 전체 라인업을 공개했다.이번에 선보인 제품은 지난 5월 구글 I/O와 7월 갤럭시 언팩에서 선공개된 4종을 포함해, 젠틀몬스터 16종과 워비파커 14종 등 총 30종이다.신제품 라인업은 다음달 10일 한국과 미국에서 공식 출시된다. 미국에서는 젠틀몬스터와 워비파커 전체 라인업이 판매되며, 국내에는 젠틀몬스터 컬렉션이 출시된다. 젠틀몬스터와 워비파커는 이날부터 공식 온라인 채널을 통해 사전판매 예약에 돌입하며 뉴욕 팝업 스토어에서 제품 체험을 지원한다.국내 소비자는 12월 10일부터 젠틀몬스터 전국 매장과 삼성 강남, 삼성스토어 홍대점 등에서 제품을 만나볼…",
+      "category_score": 98,
+      "score_reason": "삼성, 구글, 젠틀몬스터 등 빅테크와 패션 브랜드의 합작은 'AI 디바이스의 일상화'를 상징하는 강력한 시장 변화 신호임. 소비자 접점 플랫폼으로 확장성이 매우 높음.",
+      "keywords": [
+        "AI 웨어러블",
+        "온디바이스 AI",
+        "플랫폼 확장"
+      ],
+      "planning_insight": "스마트폰을 넘어선 새로운 스크린인 '안경'에서의 사용자 경험을 선점하기 위한 시각적·공간적 콘텐츠 전략 수립 필요",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "삼성·구글 등 빅테크와 패션 브랜드의 합작으로 '인텔리전트 아이웨어' 본격화",
+      "importance_reason": "AI가 소프트웨어를 넘어 일상적인 하드웨어로 침투하는 '온디바이스 AI' 시대의 실질적인 시작점을 알림"
+    },
+    {
+      "rank": 2,
+      "id": "81d0df03ed24a605f2cf9bfa6fcfcdc9e37dbc0d6e6974d2472b11e7d2161eb9",
+      "title": "AWS 에뮬레이터 출시, 로컬 AWS를 대상으로 AI 애플리케이션 테스트 가능",
+      "source": "AWS 한국 블로그",
+      "group": "ai_data",
+      "category": "cloud_data_infra",
+      "url": "https://aws.amazon.com/ko/blogs/korea/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "published_at": "2026-11-13T01:07:16+09:00",
+      "summary": "오늘 AWS는 머신에서 실행할 수 있는 Amazon Web Services(AWS)용 로컬 에뮬레이터인 AWS 에뮬레이터를 발표합니다. AWS Command Line Interface(AWS CLI), AWS SDK 및 코딩 에이전트는 클라우드에서 사용하는 것과 동일한 AWS API를 사용하여 사용자의 랩톱에서 로컬 HTTPS 엔드포인트를 통해 이 에뮬레이터와 통신합니다. AWS 에뮬레이터에는 추가 서비스 요금이 없습니다. AWS에 배포할 때는 AWS 리소스에 대해서만 비용을 지불하면 됩니다. […]",
+      "category_score": 98,
+      "score_reason": "AI 에이전트 개발 및 배포를 위한 로컬 테스트 환경을 제공하여, 기획자가 클라우드 비용 부담 없이 실험적 AI 서비스를 프로토타이핑하는 데 즉각적인 효용을 제공함.",
+      "keywords": [
+        "AWS 에뮬레이터",
+        "로컬 테스트",
+        "AI 워크플로우"
+      ],
+      "planning_insight": "실험 중심의 기획 문화를 정착시키고, 비용 걱정 없는 사전 테스트를 통한 콘텐츠 자동화 워크플로우 최적화",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AWS, 로컬 환경에서 AI 앱 테스트 가능한 에뮬레이터 출시로 개발 민첩성 제고",
+      "importance_reason": "클라우드 비용 부담을 낮추고 로컬 환경에서 즉각적인 실험이 가능해져 AI 콘텐츠/서비스 프로토타이핑 장벽을 획기적으로 낮춤"
+    },
+    {
+      "rank": 3,
+      "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+      "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.14700",
+      "published_at": "2026-11-13T14:00:00+09:00",
+      "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+      "category_score": 90,
+      "score_reason": "페르소나 시뮬레이션을 통한 사용자 리서치 자동화는 콘텐츠 기획 및 서비스 검증 단계에서 비용과 시간을 획기적으로 절감할 수 있는 방법론임.",
+      "keywords": [
+        "페르소나 시뮬레이션",
+        "사용자 리서치",
+        "의사결정 보조"
+      ],
+      "planning_insight": "실제 유저 데이터가 부족한 초기 기획 단계에서 AI 기반 페르소나를 활용해 콘텐츠의 타겟팅 정확도와 기획 완성도 제고",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트를 활용한 페르소나 시뮬레이션으로 실제 사용자 리서치 병목 현상 해소",
+      "importance_reason": "제품 기획 및 콘텐츠 제작 전 AI가 가상 사용자의 반응을 미리 검증하여 의사결정의 리스크를 최소화함"
+    },
+    {
+      "rank": 4,
+      "id": "afd1e7373b523643c4cddf928246b51b99b669829f4dee7ff6941d9b160a89c2",
+      "title": "AI 안경, 다음 격전지는 건강 관리…심박수·눈 피로까지 추적",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113204645",
+      "published_at": "2026-11-14T09:02:40+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 스마트 안경이 다양한 분야로 활용 영역을 넓히고 있다. 생산성 향상은 물론 스포츠, 사진·영상 촬영, 청각 장애인용 제품까지 등장했다. 시험 부정행위에 악용되는 사례도 나오고 있다.이 같은 확장세를 고려하면 스마트 안경의 다음 격전지는 건강 추적 분야가 될 것이라는 전망이 나왔다.IT매체 기즈모도는 스마트 안경이 다른 웨어러블 기기와 마찬가지로 건강 추적 기능을 강화하고 있으며, 관련 기술도 점차 정교해지고 있다고 최근 보도했다.메타 등 주요 업체들은 이미 스마트 안경에 영양 섭취 추적과 같은 건강 모니터링 기능을 도입하고 있다. 사용자가 섭취하는 음식을 안경으로 인식하고 기록하는 방식이다. 최근에는 한발 더 나아가 다양한 생체 정보를 측정하는 스마트 안경도 등장하고 있다.최근 알리바바는 자체 AI 안경 제품군인 '큐웬(Qwen)'을 출시했다. 메타 제품과 유사한 기능을 제공하면서도 추가적인 건강 측정 센서를 탑재한 것이 특징이다.예를 들어 '큐…",
+      "category_score": 95,
+      "score_reason": "AI 안경이 생산성을 넘어 건강 관리 분야로 진화하는 것은 기술적 트렌드가 소비자 행동 및 라이프스타일 변화로 직결됨을 보여줌.",
+      "keywords": [
+        "스마트 안경",
+        "헬스케어",
+        "라이프스타일 데이터"
+      ],
+      "planning_insight": "웨어러블 데이터 기반의 건강 관리 서비스 기획 및 프라이버시가 강조된 헬스케어 콘텐츠 캠페인으로 확장 가능",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "스마트 안경의 기능이 건강 관리 및 생체 정보 추적으로 빠르게 진화 중",
+      "importance_reason": "AI 디바이스가 개인의 신체 데이터와 결합하여 라이프스타일 전반을 관리하는 서비스로 진화함을 시사"
+    },
+    {
+      "rank": 5,
+      "id": "cec94874c4ed0edac68c211c7b7ca7ec9f03be8543021353a8d1df3ee4a6ee7b",
+      "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113011002",
+      "published_at": "2026-11-13T01:10:02+09:00",
+      "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하도록 돕기 위해 설계됐으며, 이러한 강점을 하나의 에이전틱 대화형 경험으로 연결하는 것을 목표로 한다. 첫 기능은 브랜드워치 컨슈머 리서치(Brandwatch Consumer Research)를 시작으로 시전 MCP(Cision MCP)를 통해 제공된다. Cision Intelligence brings together AI with specialist data, expertise, and…",
+      "category_score": 85,
+      "score_reason": "브랜드가 AI를 활용해 시장 변화를 선제적으로 포착하려는 '에이전틱 AI' 도입 움직임은 마케팅 및 기업 의사결정 방식의 근본적 변화를 시사함.",
+      "keywords": [
+        "에이전틱 AI",
+        "마케팅 인텔리전스",
+        "데이터 기반 행동"
+      ],
+      "planning_insight": "마케팅 및 전략 기획자가 데이터를 해석하는 단계를 넘어 AI의 의사결정 보조를 받아 콘텐츠를 기획하는 체계로의 전환",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "시전(Cision), AI와 데이터 결합으로 기업의 시장 변화 선제적 포착과 행동 지원",
+      "importance_reason": "단순 데이터 나열이 아닌, 분석 후 '무엇을 할 것인가'를 가이드하는 에이전틱 AI(Agentic AI)가 마케팅 필수재로 부상"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 85,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 22,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 13,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 소프트웨어를 넘어 하드웨어(안경)와 밀착되어 일상적인 데이터 수집 및 서비스 제공의 핵심 플랫폼으로 자리 잡고 있습니다.",
+    "단순 생성형 AI를 넘어, AI 에이전트가 테스트 환경과 리서치 과정, 의사결정 보조 등 '실행 가능한 단계'로 깊숙이 들어오고 있습니다.",
+    "콘텐츠/서비스 전략가들은 클라우드 환경을 로컬로 확장하여 민첩성을 확보하고, 시뮬레이션 기반으로 기획의 정합성을 검증하는 데이터 중심 사고가 요구됩니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
