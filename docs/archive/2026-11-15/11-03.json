@@ -1,0 +1,453 @@
+{
+  "briefing_date": "2026-11-15",
+  "generated_at": "2026-11-15T11:03:40.146471+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 187,
+    "tech_blog": 0,
+    "ai_data": 13
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "22be0efc714a7571887eb0a51b03726a36a4ed316c389196f464f23413d9de62",
+        "title": "처음부터 끝까지 ‘AI’ 강조한 최태원…“SK 모든 계열사, AI 기업으로 거듭나야”",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12209094",
+        "published_at": "2026-11-15T09:35:16+09:00",
+        "summary": "AI 반도체 넘어 서비스까지 ‘AI 플라이휠’ 구축 주문 SK하닉·이노베이션·텔레콤 등 현업서 실전형 AX 이미 시작최태원 SK그룹 회장이 그룹 최고경영진(CEO)에게 기존 사업의..",
+        "category_score": 98,
+        "score_reason": "전통 대기업이 전사적 차원에서 AI 전환(AX)을 최우선 과제로 삼고 'AI 플라이휠' 구축을 명시한 것은 시장의 실질적인 체질 개선을 의미하며 매우 높은 트렌드 연결성을 가짐.",
+        "keywords": [
+          "AI",
+          "기업 전략",
+          "디지털 전환"
+        ],
+        "planning_insight": "전통 산업의 AI 도입이 실험 단계를 넘어 수익 모델과 연결되는 AX(AI Transformation) 시대로 진입함. 전사적 AI 내재화 사례를 발굴하여 비즈니스 모델 혁신 프레임워크로 제안 가능."
+      },
+      {
+        "rank": 2,
+        "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
+        "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113200433",
+        "published_at": "2026-11-15T09:00:02+09:00",
+        "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
+        "category_score": 95,
+        "score_reason": "AI 기술의 도입 비용 최적화(토큰 효율화)는 AI 상용화 단계에서 기업들의 공통된 난제이며, 이를 서비스화하는 것은 시장의 실질적 페인포인트를 해결하는 중요한 신호임.",
+        "keywords": [
+          "AI",
+          "비용 최적화",
+          "플랫폼"
+        ],
+        "planning_insight": "AI 도입의 핵심은 '성능'에서 '비용 효율성'으로 이동 중. AI 운영 비용 절감 방법론을 B2B 콘텐츠로 생산하여 실무자들의 높은 관심을 유도할 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "8e48f1dfc91806ff46ce2171315f75d86a3f836bf9ed67e8403f01b4af896397",
+        "title": "\"AR 글래스 출하량, 내년 2배 증가\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113164610",
+        "published_at": "2026-11-15T07:00:02+09:00",
+        "summary": "[지디넷코리아]전세계 증강현실(AR) 글래스 출하량이 내년 2배 가까이 성장할 것이란 전망이 나왔다. 특히 자막·길 안내·인공지능(AI) 답변 등을 눈앞에 띄워주는 정보형 제품이 시장 확대를 주도할 것으로 기대된다.15일 시장조사업체 시그마인텔은 전 세계 AR 글래스 출하량이 2026년 175만 1000대에서 2027년 348만2000대로 늘어날 것이라고 전망했다.성장세를 주도할 제품은 자막·길 안내·AI 답변 등을 눈앞에 띄워주는 정보형 AR 글래스다. 정보형 제품은 주변공간을 계속 인식할 필요가 적어 일상에서 활용도가 높다. 해당 제품 출하량은 같은 기간 97만 1000대에서 239만 1000대로 전체 시장 성장률보다 빨리 늘어날 것으로 기대됐다. 또한 정보형 내 풀컬러 제품 출하량이 19만 2000대에서 116만 1000대로 가파르게 증가할 것으로 보인다. 정보형 내 풀컬러 비중은 20%에서 49%로 29%포인트 상승할 것으로 예상됐다. 시그마인텔은 \"풀컬러는 이미지와 시각…",
+        "category_score": 92,
+        "score_reason": "스마트 안경이 단순한 디바이스를 넘어 AI 인터페이스와 헬스케어의 결합지로 급부상하고 있어 향후 플랫폼 경쟁의 격전지가 될 가능성이 높음.",
+        "keywords": [
+          "AI",
+          "스마트 안경",
+          "헬스케어",
+          "플랫폼"
+        ],
+        "planning_insight": "모바일 이후의 차세대 개인화 디바이스로 AR 글래스를 주목해야 함. 라이프스타일 로그 데이터와 AI의 결합이 소비자 행동에 미칠 변화를 분석하는 콘텐츠 기획 필요."
+      },
+      {
+        "rank": 4,
+        "id": "3ba9ed3e47386d706b517882db0ecef61a42c0ba3ae5e99d5ea1ead28caf12be",
+        "title": "AI가 일자리 없앤다…\"2030년까지 오히려 170만 개 늘어\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261115062228",
+        "published_at": "2026-11-15T09:18:35+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 확산으로 대규모 일자리가 사라질 것이라는 우려와 달리 2030년까지 AI가 없애는 일자리보다 새롭게 만드는 일자리가 더 많을 것이라는 전망이 나왔다.다만 기업들이 AI 도입 효과를 확인하기 위해 신규 채용을 미루면서 고용시장 불확실성이 커지고 기존 근로자들의 업무 변화도 불가피할 것으로 분석됐다.15일 글로벌 시장조사기관 가트너가 발간한 'AI는 일자리 대재앙을 초래하지 않지만 2030년까지 고용시장에 대혼란을 가져올 것' 보고서에 따르면, AI 확산으로 2030년까지 일자리 1060만 개가 새롭게 생기고 890만 개가 사라질 전망이다. 이를 합산하면 일자리는 170만 개 순증할 것으로 예상된다.이번 전망은 생성형 AI와 AI 에이전트 도입에 따른 기업 업무 변화와 인력 운영 전략 등을 분석한 결과다. 가트너는 AI가 단순히 기존 인력을 대체하는 데 그치지 않고 새로운 업무와 사업 기회를 만들어 고용 증가에도 기여할 것으로 내다봤다.다만 단기적으로는…",
+        "category_score": 89,
+        "score_reason": "AI로 인한 고용 시장의 양면성(일자리 소멸과 신규 창출)은 거시적인 경제 트렌드이자 사회적 핵심 의제로 지속적으로 반복 생성될 담론임.",
+        "keywords": [
+          "AI",
+          "고용",
+          "사회적 변화"
+        ],
+        "planning_insight": "단순한 공포 마케팅이 아닌, AI 도구 활용 능력이 미래 커리어의 필수 역량이 됨을 시사하는 '성장형 커리어 가이드' 콘텐츠로 트렌드 선점 가능."
+      },
+      {
+        "rank": 5,
+        "id": "70c3af902afa0e7b7cee5a67f3450d38496d41d234252356eed571befdc86153",
+        "title": "프런티어 AI, 규제 틀 안으로…안전관리 의무화 확산",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261113211708",
+        "published_at": "2026-11-14T13:54:19+09:00",
+        "summary": "[지디넷코리아]첨단 인공지능(AI)을 둘러싼 규제가 기업 자율관리에서 법적 의무로 확대되고 있다. 유럽연합(EU)과 미국 주요 주정부에 이어 호주도 위험 평가와 사고 보고 등을 의무화하는 입법 추진에 나섰다.14일 업계에 따르면 뉴욕주는 내년 AI 안전법 시행을 앞두고 최근 대상 기업 등록을 시작했다. 호주 정부도 첨단 AI 기업에 독립 평가와 사고 보고 등을 의무화하는 입법 계획을 발표했다.감독 대상은 현재 기술 수준에서 가장 앞선 모델을 뜻하는 '프런티어 AI'다. 정부와 의회는 개발사에 어떤 위험을 발견했고 어떻게 대응했는지 설명하도록 요구한다. 안전관리 방침 공개와 중대 사고 보고 절차도 법에 담고 있다.규제 배경에는 AI 역할 변화가 있다. AI는 질문에 답하는 데서 나아가 프로그램을 실행하고 여러 도구로 작업을 수행한다. 호주 정부는 지시를 벗어나 행동하는 AI 에이전트 위험을 일찍 발견하고 사고에 빠르게 대응하기 위해 안전 의무가 필요하다고 설명했다.실제 사고에 대한…",
+        "category_score": 86,
+        "score_reason": "글로벌 규제 당국이 '프런티어 AI'의 안전관리 의무화를 강제하기 시작한 것은 기업의 AI 서비스 개발 프로세스 전반에 구조적인 변화를 강제하는 중요한 신호임.",
+        "keywords": [
+          "AI 규제",
+          "프런티어 AI",
+          "정책"
+        ],
+        "planning_insight": "AI 윤리와 안전은 선택이 아닌 필수 법적 요건이 됨. 개발자 및 기업가들을 위해 글로벌 규제 환경을 해석하고 준수 가이드를 제시하는 전문적 리포트 수요 증가 예상."
+      }
+    ],
+    "tech_blog": [],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+        "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14700",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+        "category_score": 96,
+        "score_reason": "사용자 연구와 페르소나 시뮬레이션을 AI로 자동화하여 제품 기획 및 의사결정 프로세스를 혁신할 수 있는 실무적 가치가 매우 높음.",
+        "keywords": [
+          "페르소나 시뮬레이션",
+          "사용자 연구",
+          "데이터 기반 의사결정"
+        ],
+        "planning_insight": "실제 사용자 모집 없이 AI 페르소나를 통해 기획 단계의 'What-if' 가설을 검증함으로써 제품 시장 적합성(PMF) 확인 속도를 극대화할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "812aed6d608874a40b0108163539a1b1fadcac85945cb752d4cacd7989f64b89",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "published_at": "2026-11-13T23:05:22+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "로컬 AI 생태계의 핵심인 llama.cpp의 주요 업데이트로, 데이터 보안이나 비용 문제로 클라우드 LLM 사용이 어려운 환경에서 온프레미스 콘텐츠 자동화 구축을 가능하게 함.",
+        "keywords": [
+          "온프레미스 AI",
+          "로컬 LLM",
+          "비용 최적화"
+        ],
+        "planning_insight": "기업 내부 데이터 보안을 유지하면서 콘텐츠 생성 및 분석 자동화를 자체 서버에서 구현하려는 기획자에게 필수적인 인프라 기술 변화임."
+      },
+      {
+        "rank": 3,
+        "id": "f006701ac9ce9ede7be2d884f669a881776c3f0a2afa2e8d2456403dd8cd9952",
+        "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14758",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14758v1 Announce Type: new Abstract: Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five languages: English, French, German, Italian, and Spa…",
+        "category_score": 88,
+        "score_reason": "멀티모달 모델의 문서 이해 능력은 비정형 데이터(문서, 이미지)를 자동 분석하여 콘텐츠화하는 데 직결되며, 언어 확장성 연구는 글로벌 시장 진출에 중요함.",
+        "keywords": [
+          "멀티모달",
+          "문서 이해",
+          "글로벌 확장"
+        ],
+        "planning_insight": "다국어 문서 이해 기반의 멀티모달 자동화 도구를 활용하면, 복잡한 레이아웃을 가진 비정형 데이터에서 인사이트를 추출하는 콘텐츠 큐레이션 서비스 기획이 가능함."
+      },
+      {
+        "rank": 4,
+        "id": "ab8c834f3a2ae18f8775395c8eb853f85c1ec1aed2b1fe253403b46e5ecc4475",
+        "title": "Is Jev a Good Multilingual Judge?",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14861",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14861v1 Announce Type: new Abstract: Generative large language models are widely used for multilingual text evaluation, yet whether decision models that directly output judgment probabilities can serve as multilingual judges has received limited attention. We evaluate Jev against generative LLM judges on four multilingual benchmarks with human annotations, covering up to 47 language varieties and three evaluation formats: binary decisions, pairwise comparisons, and graded ratings. At…",
+        "category_score": 85,
+        "score_reason": "AI가 생성한 콘텐츠의 품질을 평가하는 다국어 판단 모델(Judge)에 관한 연구로, 콘텐츠 자동화 품질 관리(QA) 파이프라인 구축에 직접적으로 활용 가능함.",
+        "keywords": [
+          "AI 평가자",
+          "자동 품질 관리",
+          "멀티링구얼"
+        ],
+        "planning_insight": "자동 생성된 콘텐츠의 결과물을 사람이 일일이 검수하기 어려울 때, 신뢰도 높은 판단 모델을 중간 관리자로 배치하여 콘텐츠 품질 표준을 수립할 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "b187294d5093977fc670fff41752086f8d2a6d10956add8fd8174c189c14fe5c",
+        "title": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.14661",
+        "published_at": "2026-11-13T14:00:00+09:00",
+        "summary": "arXiv:2611.14661v1 Announce Type: new Abstract: Kalai et al. propose stating the scoring rule in the prompt with an explicit threshold t, so that a model should answer only when its probability of being correct exceeds t. We probe each requirement of compliance on shared items, in 12 checkpoints from three post-training stages of four fully open 3-8B recipes, with exploratory models up to 32B. At t = 0.75, a line limiting the reply to an answer or \"I abstain\" (the abstention format) raised the…",
+        "category_score": 82,
+        "score_reason": "LLM이 모르는 것을 모른다고 답하게 하는 '거절(Abstention)' 메커니즘을 다루며, 이는 AI 기반 서비스의 정확도와 신뢰성 확보를 위한 핵심 기술임.",
+        "keywords": [
+          "LLM 신뢰성",
+          "거절 전략",
+          "응답 정확도"
+        ],
+        "planning_insight": "AI 챗봇이나 추천 시스템 기획 시 모델의 환각(Hallucination)을 줄이기 위해, 모델이 정확도 임계값을 기반으로 대응하게 설계하는 실무적 가이드라인이 됨."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
+      "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.14700",
+      "published_at": "2026-11-13T14:00:00+09:00",
+      "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+      "category_score": 96,
+      "score_reason": "사용자 연구와 페르소나 시뮬레이션을 AI로 자동화하여 제품 기획 및 의사결정 프로세스를 혁신할 수 있는 실무적 가치가 매우 높음.",
+      "keywords": [
+        "페르소나 시뮬레이션",
+        "사용자 연구",
+        "의사결정 자동화"
+      ],
+      "planning_insight": "제품 기획 초기 단계에 '디지털 페르소나'를 투입하여 AB 테스트를 가상으로 수행, 마케팅 문구 및 서비스 기획의 성공 확률을 높이는 데이터 기반 의사결정 프로세스 구축 가능",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "실제 유저 모집 없이 AI로 사용자 경험(UX)과 가설을 검증하는 페르소나 시뮬레이션 프레임워크 등장",
+      "importance_reason": "기존 제품 기획의 고질적 병목인 '사용자 모집과 테스트 시간'을 AI가 혁신적으로 단축할 수 있음을 입증하는 실무적 돌파구이기 때문"
+    },
+    {
+      "rank": 2,
+      "id": "22be0efc714a7571887eb0a51b03726a36a4ed316c389196f464f23413d9de62",
+      "title": "처음부터 끝까지 ‘AI’ 강조한 최태원…“SK 모든 계열사, AI 기업으로 거듭나야”",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12209094",
+      "published_at": "2026-11-15T09:35:16+09:00",
+      "summary": "AI 반도체 넘어 서비스까지 ‘AI 플라이휠’ 구축 주문 SK하닉·이노베이션·텔레콤 등 현업서 실전형 AX 이미 시작최태원 SK그룹 회장이 그룹 최고경영진(CEO)에게 기존 사업의..",
+      "category_score": 98,
+      "score_reason": "전통 대기업이 전사적 차원에서 AI 전환(AX)을 최우선 과제로 삼고 'AI 플라이휠' 구축을 명시한 것은 시장의 실질적인 체질 개선을 의미하며 매우 높은 트렌드 연결성을 가짐.",
+      "keywords": [
+        "AI 플라이휠",
+        "AX(AI 전환)",
+        "기업 전략"
+      ],
+      "planning_insight": "단순 업무 자동화를 넘어 비즈니스 모델 자체가 AI와 결합되는 'AI 플라이휠' 관점에서 고객 경험(CX) 전략을 재설계하고, 이를 콘텐츠 시리즈로 제작하여 업계 리더십 확보 가능",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "SK그룹의 전사적 AI 전환 선언, 단순 도입을 넘어 비즈니스 수익 모델과 직결되는 'AI 플라이휠' 전략 강조",
+      "importance_reason": "대기업의 전사적 AX는 산업 표준과 소비자 경험의 대대적인 변화를 예고하는 강력한 시장 신호이기 때문"
+    },
+    {
+      "rank": 3,
+      "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
+      "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113200433",
+      "published_at": "2026-11-15T09:00:02+09:00",
+      "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
+      "category_score": 95,
+      "score_reason": "AI 기술의 도입 비용 최적화(토큰 효율화)는 AI 상용화 단계에서 기업들의 공통된 난제이며, 이를 서비스화하는 것은 시장의 실질적 페인포인트를 해결하는 중요한 신호임.",
+      "keywords": [
+        "토큰 최적화",
+        "ROI",
+        "AI 운영 비용"
+      ],
+      "planning_insight": "AI 도입의 ROI를 고민하는 기업 실무자를 대상으로 '토큰 최적화 체크리스트' 혹은 '비용 효율적 AI 모델 조합 사례집' 등 실전형 B2B 콘텐츠 기획 최적의 소재",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 서비스 경쟁력을 결정짓는 핵심은 '성능'에서 '토큰 효율화(비용 절감)'로 이동",
+      "importance_reason": "AI 도입 기업들이 직면한 가장 큰 현실적 장애물인 비용 문제를 기술적으로 해결하는 방법론은 서비스 기획자들에게 필수 지식이기 때문"
+    },
+    {
+      "rank": 4,
+      "id": "8e48f1dfc91806ff46ce2171315f75d86a3f836bf9ed67e8403f01b4af896397",
+      "title": "\"AR 글래스 출하량, 내년 2배 증가\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261113164610",
+      "published_at": "2026-11-15T07:00:02+09:00",
+      "summary": "[지디넷코리아]전세계 증강현실(AR) 글래스 출하량이 내년 2배 가까이 성장할 것이란 전망이 나왔다. 특히 자막·길 안내·인공지능(AI) 답변 등을 눈앞에 띄워주는 정보형 제품이 시장 확대를 주도할 것으로 기대된다.15일 시장조사업체 시그마인텔은 전 세계 AR 글래스 출하량이 2026년 175만 1000대에서 2027년 348만2000대로 늘어날 것이라고 전망했다.성장세를 주도할 제품은 자막·길 안내·AI 답변 등을 눈앞에 띄워주는 정보형 AR 글래스다. 정보형 제품은 주변공간을 계속 인식할 필요가 적어 일상에서 활용도가 높다. 해당 제품 출하량은 같은 기간 97만 1000대에서 239만 1000대로 전체 시장 성장률보다 빨리 늘어날 것으로 기대됐다. 또한 정보형 내 풀컬러 제품 출하량이 19만 2000대에서 116만 1000대로 가파르게 증가할 것으로 보인다. 정보형 내 풀컬러 비중은 20%에서 49%로 29%포인트 상승할 것으로 예상됐다. 시그마인텔은 \"풀컬러는 이미지와 시각…",
+      "category_score": 92,
+      "score_reason": "스마트 안경이 단순한 디바이스를 넘어 AI 인터페이스와 헬스케어의 결합지로 급부상하고 있어 향후 플랫폼 경쟁의 격전지가 될 가능성이 높음.",
+      "keywords": [
+        "AR 글래스",
+        "AI 인터페이스",
+        "차세대 플랫폼"
+      ],
+      "planning_insight": "스마트 안경 환경에서의 사용자 행동 변화를 미리 분석하는 '미래 디바이스 콘텐츠 경험(Next Content Experience)' 리포트 발행",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI와 결합한 '정보형 AR 글래스' 시장이 내년 2배 성장, 새로운 콘텐츠 소비 디바이스의 부상",
+      "importance_reason": "모바일 이후의 AI 인터페이스가 텍스트/화면에서 공간 정보로 확장됨에 따라 새로운 형태의 데이터 기반 콘텐츠 소비 경험을 예측할 수 있기 때문"
+    },
+    {
+      "rank": 5,
+      "id": "812aed6d608874a40b0108163539a1b1fadcac85945cb752d4cacd7989f64b89",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published_at": "2026-11-13T23:05:22+09:00",
+      "summary": "",
+      "category_score": 92,
+      "score_reason": "로컬 AI 생태계의 핵심인 llama.cpp의 주요 업데이트로, 데이터 보안이나 비용 문제로 클라우드 LLM 사용이 어려운 환경에서 온프레미스 콘텐츠 자동화 구축을 가능하게 함.",
+      "keywords": [
+        "온프레미스",
+        "로컬 AI",
+        "데이터 보안"
+      ],
+      "planning_insight": "사내 데이터 유출을 걱정하는 기업 마케터들에게 보안 걱정 없는 '로컬 AI 툴 활용법'을 제안하여 실질적인 업무 환경 개선안 제시",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "llama.cpp v1.0.0 출시, 보안과 비용 문제로 클라우드를 꺼리는 기업들의 '로컬 AI' 도입 가속화",
+      "importance_reason": "기업의 민감한 데이터를 활용한 내부 콘텐츠 자동화의 기술적 토대가 완성되어 가고 있음을 보여주는 중요한 인프라 변화이기 때문"
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 89,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 24,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 13,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 기술이 실험적 단계를 벗어나 기업의 비용 효율성(토큰 최적화, 로컬 AI)과 실질적 수익 모델(AI 플라이휠)을 고민하는 실무적 단계로 빠르게 진화하고 있습니다.",
+    "제품 기획 및 서비스 테스트 방식에서 AI 기반의 가상 시뮬레이션 도입이 활발해지며, 데이터 기반의 의사결정 방식에 근본적인 변화가 감지됩니다.",
+    "하드웨어적으로는 AI와 결합된 AR 글래스 등 새로운 정보 전달 인터페이스가 부상하면서, 향후 콘텐츠 전략도 디바이스별 공간 경험 최적화로 확장될 필요가 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
