@@ -1,137 +1,115 @@
 {
-  "briefing_date": "2026-11-15",
-  "generated_at": "2026-11-15T20:22:28.196680+09:00",
+  "briefing_date": "2026-11-16",
+  "generated_at": "2026-11-16T00:47:49.005909+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 187,
+    "news": 197,
     "tech_blog": 0,
-    "ai_data": 13
+    "ai_data": 3
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "f1abe4badbcf44928e91971fbdc200e456c36241701a364e0752fe88f0254b25",
-        "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 상 수상",
+        "id": "6841cec7a1202526c2f2e9cea25920e4776e6eba697d4e0836f22a08a8346441",
+        "title": "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261115140635",
-        "published_at": "2026-11-15T14:06:35+09:00",
-        "summary": "[지디넷코리아]현대자동차그룹이 생성형 인공지능(AI)의 정보 접근성과 이해도를 높이는 방향으로 공식 웹사이트를 개편해 국내외 웹 관련 시상식에서 13개 상을 받았다.현대차그룹은 공식 웹사이트가 올해 국내 웹 어워드에서 5개, 해외 웹 어워드에서 8개 등 총 13개 상을 수상했다고 15일 밝혔다.현대차그룹은 지난 13일 한국인터넷소통협회가 주관한 '제19회 대한민국소통어워즈'에서 국회 산업통상자원중소벤처기업위원회 위원장상과 대한민국AI브랜드대상 그룹·지주사 부문, 대한민국디지털콘텐츠대상 브랜드콘텐츠 부문을 각각 수상했다.대한민국소통어워즈는 콘텐츠경쟁력지수(CQI)와 소통지수(ICSI·SCSI), 고객 의견, 그룹 인터뷰, 전문가 평가 등을 종합해 수상자를 선정한다. 올해 평가에는 기업 285개와 기관 172개 등 총 457개 조직이 참여했다.올해 신설된 대한민국AI브랜드대상은 기존 소통 평가 데이터와 5개 생성형 AI 엔진의 평가를 결합한 'K-BCAI' 모델을 활용한다. 브랜드 인…",
-        "category_score": 66,
-        "score_reason": "AI, 생성형 AI, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115102351",
+        "published_at": "2026-11-15T12:11:49+09:00",
+        "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 선보였다.사용자가 결제 카드를 한 번 등록하면 AI가 상품 구매 절차를 진행하고 사용자는 생체인증으로 최종 결제만 승인하는 방식이다. 실제 카드 정보를 AI나 판매업체에 노출하지 않으면서 기존 카드 혜택과 소비자 보호 기능도 유지하도록 설계했다.15일 오픈AI는 아메리칸 익스프레스, 마스터카드, 비자와 협력해 챗GPT 월렛을 출시했다고 밝혔다. 서비스는 미국의 만 18세 이상 챗GPT 프로 가입자를 대상으로 개인 AI 에이전트 '닷(Dot)'을 통해 순차적으로 제공된다.챗GPT 월렛은 AI가 상품 검색과 비교를 넘어 실제 구매까지 수행하도록 지원하는 결제 서비스다. 사용자는 닷에 원하는 상품을 찾아 구매하도록 요청하고, 결제 단계에서 상품과 금액, 결제 카드 등을 확인한 뒤 승인하면 된다.결제할 때마다 페이스ID나 지문 인식…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트가 직접 결제까지 수행하는 '챗GPT 월렛' 출시는 커머스 생태계의 패러다임을 바꿀 혁신적인 변화입니다.",
         "keywords": [
           "AI",
-          "생성형 AI",
-          "브랜드",
-          "데이터",
-          "콘텐츠"
+          "커머스",
+          "플랫폼",
+          "AI 에이전트"
         ],
-        "planning_insight": "이 항목은 AI, 생성형 AI, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI가 단순 정보 제공을 넘어 구매 대행 및 결제 단계로 진입함에 따라, 향후 '결제 경험'을 선점하기 위한 플랫폼 간 AI 경쟁 전략이 중요해질 것입니다."
       },
       {
         "rank": 2,
-        "id": "c042949e0284bbff95347415df205e512c1c0104c046d52a9e8dc572f35d6ccd",
-        "title": "[ZD브리핑] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막",
+        "id": "f9ed0ea6ca07d2a6ecb580df1c33ca3b62a0540cf44bffdcadf5398660aae4b0",
+        "title": "\"65만원 AI 안경 벌써 완판\"...삼성·구글·젠틀몬스터 제품 뭐길래",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261115124937",
-        "published_at": "2026-11-15T13:19:47+09:00",
-        "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주에는 삼성전자 갤럭시링 특허 분쟁의 1차 결론이 나오고, 주요 기업들의 3분기 분기보고서가 공개됩니다. 삼성전자는 글로벌 투자자를 대상으로 기술·사업 전략을 발표하며, 현대자동차는 미국 LA 오토쇼에서 신차를 선보일 예정입니다. 게임 축제 '지스타 2026'과 마이크로소프트의 연례 기술 행사 '이그나이트 2026'이 개막하고, CJ올리브영도 첫 테크 콘퍼런스를 개최합니다. 앤트로픽의 나스닥 상장 추진과 APEC 정상회의에도 관심이 쏠립니다. 이 밖에 디지…",
-        "category_score": 56,
-        "score_reason": "커머스, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115210649",
+        "published_at": "2026-11-15T21:27:13+09:00",
+        "summary": "[지디넷코리아]삼성전자와 구글, 젠틀몬스터가 손잡고 개발한 인공지능(AI) 스마트 안경이 정식 출시를 앞두고 관심을 모으고 있다. 65만원부터 시작하는 가격에도 1차 사전예약 물량이 품절되면서 초기 수요를 확인했다. 일반 안경과 크게 다르지 않은 디자인에 AI 비서와 카메라, 실시간 번역 기능 등을 담은 것이 특징이다.15일 관련 업계에 따르면 젠틀몬스터가 지난 12일 한국과 미국에서 사전예약을 시작한 '인텔리전트 아이웨어(Intelligent Eyewear)'는 예약 개시 수 시간 만에 주요 제품이 품절됐다. 현재 젠틀몬스터 공식 온라인몰에는 16종 모두 사전예약 품절로 표시돼 있으며, 추가 예약 알림을 신청할 수 있다. 다만 구체적인 예약 판매 수량은 공개되지 않았다.젠틀몬스터는 지난 13일부터 미국 뉴욕에서 인텔리전트 아이웨어 전 제품을 공개하는 '퍼블릭 프리뷰'도 진행하고 있다. 오는 23일까지 열리는 이번 행사 역시 사전 체험 예약이 마감됐다.이번 제품은 삼성전자의 하드웨…",
+        "category_score": 95,
+        "score_reason": "일상 속 AI 기기(스마트 안경)의 대중적 수요 확인 및 이에 따른 사회적 윤리·보안 이슈가 결합된 트렌드입니다.",
         "keywords": [
-          "커머스",
-          "플랫폼",
-          "콘텐츠"
+          "AI",
+          "하드웨어",
+          "소비자 행동"
         ],
-        "planning_insight": "이 항목은 커머스, 플랫폼, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 스마트 안경의 품절은 기기 자체의 기능보다 'AI 비서의 일상화'에 대한 소비자 갈망을 보여줍니다. 보안 기능 강화와 프라이버시 콘텐츠 전략이 병행되어야 합니다."
       },
       {
         "rank": 3,
-        "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
-        "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+        "id": "71fe263fcbd0e176b2f93a497b87fe2cc227623fe0ea61e0e3d8463b4aea6b96",
+        "title": "최태원, 'AI 플라이휠' 전략 주문…\"모든 멤버사, 새 역할 찾아야\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261113200433",
-        "published_at": "2026-11-15T09:00:02+09:00",
-        "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
-        "category_score": 56,
-        "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115112202",
+        "published_at": "2026-11-15T12:14:14+09:00",
+        "summary": "[지디넷코리아]최태원 SK그룹 회장이 최고경영진(CEO)에게 AI 시대의 변화 속에서 성장이 다음 성장을 만들어내는 선순환 구조인 ‘AI 플라이휠(Flywheel)’을 함께 만들어 가자고 당부했다.이를 통해 AI 반도체·인프라·에너지를 넘어 AI 모델과 애플리케이션(앱) 등 서비스 영역까지 외연을 넓히고, 궁극적으로 AI 연산과 서비스가 핵심 자원으로 거래되는 ‘토큰 이코노미’의 핵심 플레이어로 진화한다는 구상이다.플라이휠은 회전 에너지를 저장하는 무거운 바퀴다. 처음 돌리기는 어렵지만, 한 번 돌기 시작하면 관성이 붙어 적은 힘으로도 점점 빠르게 회전한다. 경영에서는 한 사업의 성과가 다음 성과의 동력이 되는 선순환 구조를 뜻한다.SK그룹은 최태원 회장과 최재원 수석부회장, 최창원 SK수펙스추구협의회 의장, 주요 멤버사 최고경영진 50여명이 참석한 가운데 지난 12일부터 14일까지 경기도 이천 SKMS연구소에서 ‘2026 CEO세미나’를 열고 미래 성장 전략을 논의했다고 15일…",
+        "category_score": 92,
+        "score_reason": "기업 경영진이 'AI 플라이휠'을 통해 AI를 전사적 선순환 구조로 재편하려는 움직임은 대기업의 비즈니스 모델 변화를 보여주는 핵심 신호입니다.",
         "keywords": [
           "AI",
           "플랫폼",
-          "검색"
+          "기업 전략"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 투자가 단순히 인프라에 그치지 않고 서비스와 애플리케이션으로 확장되는 흐름입니다. 전사적 AX(AI 전환)를 가속화하는 콘텐츠 및 서비스 고도화 모델 구축이 필요합니다."
       },
       {
         "rank": 4,
-        "id": "23dc6b49dac5d1156931fec7ff4e3418f77041b0cae60901cc28fb1074cd74d2",
-        "title": "우리의식탁, 송가인과 손잡고 전국 특산품 판매…'가인상회' 열어",
+        "id": "ba7648fb17e64ca138f6aa32ae99307745b9f0fe6e74fd5a0671d8eec99edd87",
+        "title": "승조원 없는 함정, 미 해역으로…HD현대·안두릴, 무인수상함 진수",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261113183224",
-        "published_at": "2026-11-13T18:36:29+09:00",
-        "summary": "[지디넷코리아]푸드 콘텐츠·커머스 플랫폼 '우리의식탁'이 가수 송가인과 손잡고 전국 지역 특산품 판매에 나선다. 송가인의 고향인 전남 진도를 시작으로 각 지역의 농수산물을 발굴하고 산지 직송 방식으로 소비자에게 선보일 계획이다.우리의식탁 운영사 컬쳐히어로는 송가인을 모델로 발탁하고 전국 산지 직송 프로젝트 '가인상회'를 선보인다고 13일 밝혔다.가인상회는 송가인의 이름을 활용한 지역 특산품 기획전이다. 전국 각지의 농수산물과 지역 먹거리를 발굴해 우리의식탁 온라인 플랫폼에서 소개하고 판매하는 방식으로 운영된다.첫 번째 지역은 송가인의 고향인 전남 진도다. 진도를 대표하는 전복 등 지역 특산품을 중심으로 상품을 구성하고, 생산 지역과 상품의 특징을 함께 소개한다.우리의식탁은 단순히 상품을 판매하는 데 그치지 않고 각 특산품의 생산 배경과 품질, 지역별 차별성을 콘텐츠로 제작해 소비자에게 전달할 계획이다.특히 산지 직송 방식을 활용해 지역 생산자와 소비자를 직접 연결하고, 상대적으로…",
-        "category_score": 56,
-        "score_reason": "커머스, 플랫폼, 소비자 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115124842",
+        "published_at": "2026-11-15T12:48:42+09:00",
+        "summary": "[지디넷코리아]HD현대가 미국 안두릴과 항해부터 무장 운영까지 자동화하는 무인수상함을 건조하고 미국 해역 시험 운항을 준비한다.HD현대는 지난 12일 울산 HD현대중공업에서 미국 방산 기업 안두릴과 공동 개발한 경하중량 600톤급 중형 무인수상함의 진수식을 열었다고 밝혔다. 양사가 지난해 11월 협약을 맺은 뒤 약 1년 만에 건조한 함정이다.이번 함정은 배 자체를 움직이고 관리하는 기술에 군사 임무를 수행하는 자율화 기술을 결합한 것이 특징이다. HD한국조선해양이 개발한 '브이에이원'이 함정의 무인 운용을 맡고, 안두릴의 '래티스'가 임무 자율화를 지원한다.브이에이원은 기관 운전과 이상 상황 대응, 함정 안전 관리, 항해 자동화를 하나로 묶은 시스템이다. 주요 기관을 자동으로 운전하고 이상 징후에 대응하는 기능에 안전 관련 위험을 탐지·회피하는 손상 자율화 기술을 더했다. 항해에는 아비커스의 자동화 솔루션을 적용했다.HD현대는 여기에 래티스를 연결해 항해와 기관 운전뿐 아니라 손상…",
+        "category_score": 90,
+        "score_reason": "방산/제조 분야에 AI 자동화가 깊숙이 침투한 사례로, 승조원 없는 무인수상함은 물리적 공간을 초월한 AI의 영향력을 상징합니다.",
         "keywords": [
-          "커머스",
-          "플랫폼",
-          "소비자",
-          "콘텐츠"
+          "AI",
+          "로봇",
+          "제조업"
         ],
-        "planning_insight": "이 항목은 커머스, 플랫폼, 소비자 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI와 하드웨어의 결합(Physical AI)은 제조 및 국방을 넘어 물류, 교통 등 전 산업 현장의 자동화 트렌드로 확장 가능성이 큽니다."
       },
       {
         "rank": 5,
-        "id": "df5dd25c7b6618781e0f83f5a42b4fce33b51ac00b30e89bca8f1e8d995a25ed",
-        "title": "\"청소년 SNS에 경고문 의무\"...빅테크, 美뉴욕주에 소송",
+        "id": "3ba9ed3e47386d706b517882db0ecef61a42c0ba3ae5e99d5ea1ead28caf12be",
+        "title": "AI가 일자리 없앤다…\"2030년까지 오히려 170만 개 늘어\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261114225122",
-        "published_at": "2026-11-15T08:00:02+09:00",
-        "summary": "[지디넷코리아]미국 뉴욕주가 청소년이 쓰는 SNS에 정신건강 경고문을 띄우도록 한 법이 시행을 앞두고 법정 다툼에 들어갔다. 뉴욕주는 청소년과 보호자에게 건강 정보를 주려는 조치라고 설명했다. 구글과 메타를 회원으로 둔 단체는 정부가 정한 메시지를 민간 플랫폼이 대신 전하도록 강제하는 것은 표현의 자유 침해라고 맞섰다.13로이터에 따르면 인터넷기업 단체 넷초이스는 내년 1월1일 시행 예정인 뉴욕주의 소셜미디어 경고문 표시법을 막아 달라며 연방법원에 소송을 냈다. 넷초이스에는 구글, 유튜브, 페이스북 인스타그램을 운영하는 메타, 스냅챗 운영사 스냅, 틱톡 운영사 바이트댄스 등 30개 이상 기업이 가입해 있다. 단체는 소장에서 주정부가 선호하는 온라인 안전 메시지를 회원사가 전하도록 강제하는 것은 미국 수정헌법 제1조에 어긋난다고 주장했다.뉴욕주가 지난해 말 만든 이 법은 알고리즘 피드, 자동재생, 무한 스크롤처럼 이용을 계속하게 만드는 기능을 갖춘 SNS 플랫폼을 대상으로 한다. 플…",
-        "category_score": 54,
-        "score_reason": "플랫폼, 틱톡, 유튜브 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115062228",
+        "published_at": "2026-11-15T09:18:35+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 확산으로 대규모 일자리가 사라질 것이라는 우려와 달리 2030년까지 AI가 없애는 일자리보다 새롭게 만드는 일자리가 더 많을 것이라는 전망이 나왔다.다만 기업들이 AI 도입 효과를 확인하기 위해 신규 채용을 미루면서 고용시장 불확실성이 커지고 기존 근로자들의 업무 변화도 불가피할 것으로 분석됐다.15일 글로벌 시장조사기관 가트너가 발간한 'AI는 일자리 대재앙을 초래하지 않지만 2030년까지 고용시장에 대혼란을 가져올 것' 보고서에 따르면, AI 확산으로 2030년까지 일자리 1060만 개가 새롭게 생기고 890만 개가 사라질 전망이다. 이를 합산하면 일자리는 170만 개 순증할 것으로 예상된다.이번 전망은 생성형 AI와 AI 에이전트 도입에 따른 기업 업무 변화와 인력 운영 전략 등을 분석한 결과다. 가트너는 AI가 단순히 기존 인력을 대체하는 데 그치지 않고 새로운 업무와 사업 기회를 만들어 고용 증가에도 기여할 것으로 내다봤다.다만 단기적으로는…",
+        "category_score": 88,
+        "score_reason": "AI가 고용 시장에 미치는 순영향에 대한 최신 분석으로, 사회·경제적 담론을 이끄는 트렌드 지표입니다.",
         "keywords": [
-          "플랫폼",
-          "틱톡",
-          "유튜브",
-          "알고리즘"
+          "AI",
+          "사회 변화",
+          "일자리"
         ],
-        "planning_insight": "이 항목은 플랫폼, 틱톡, 유튜브 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 도입이 일자리 대재앙이 아닌 일자리 재편임을 강조하는 콘텐츠는 기업과 구직자들에게 실질적인 대응 전략을 제시할 수 있는 고부가가치 콘텐츠가 됩니다."
       }
     ],
     "tech_blog": [],
     "ai_data": [
       {
         "rank": 1,
-        "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
-        "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.14700",
-        "published_at": "2026-11-13T14:00:00+09:00",
-        "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
-        "category_score": 98,
-        "score_reason": "사용자 연구와 제품 테스트를 AI 에이전트로 자동화하는 프레임워크를 제시하여, 콘텐츠 기획의 반복적 실험과 의사결정 속도를 획기적으로 높일 수 있음.",
-        "keywords": [
-          "AI 에이전트",
-          "사용자 연구",
-          "의사결정 자동화"
-        ],
-        "planning_insight": "실제 사용자 모집 없이 페르소나 시뮬레이션으로 기획안의 타당성을 미리 검증하는 데이터 기반 의사결정 프로세스 구축 가능."
-      },
-      {
-        "rank": 2,
         "id": "812aed6d608874a40b0108163539a1b1fadcac85945cb752d4cacd7989f64b89",
         "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
         "source": "Hugging Face Blog",
@@ -141,98 +119,79 @@
         "published_at": "2026-11-13T23:05:22+09:00",
         "summary": "",
         "category_score": 95,
-        "score_reason": "로컬 AI 생태계의 핵심인 llama.cpp의 주요 업데이트로, 기획자가 온디바이스 AI 환경에서 콘텐츠 보안과 비용 효율을 고려한 서비스 기획을 가능하게 함.",
+        "score_reason": "LLM의 로컬 실행 환경(llama.cpp)은 기획자가 보안이나 비용 문제 없이 온디바이스 AI 서비스를 기획할 때 핵심적인 기술 기반이 됨.",
         "keywords": [
-          "오픈소스",
-          "온디바이스",
-          "LLM 인프라"
+          "LLM",
+          "로컬AI",
+          "오픈소스"
         ],
-        "planning_insight": "클라우드 API 비용 부담 없이 로컬 환경에서 강력한 추론 모델을 운영하여 콘텐츠 생성 자동화의 기술적 한계 비용을 제로에 가깝게 최적화 가능."
+        "planning_insight": "클라우드 비용 부담을 줄이고 데이터 프라이버시가 중요한 사내/개인화 AI 콘텐츠 도구를 구축하는 데 활용 가능함."
+      },
+      {
+        "rank": 2,
+        "id": "280e7a2e0502f38c1f25ddbb057dc75680fec403304dce3becfa55595b5c61cc",
+        "title": "XYBench: Helping with the problem behind the question",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "published_at": "2026-11-14T02:02:35+09:00",
+        "summary": "",
+        "category_score": 88,
+        "score_reason": "LLM의 추론 성능 및 논리적 질문 해결 능력을 평가하는 벤치마크는 최적의 모델을 선택하고 콘텐츠 자동화 품질을 검증하는 데 필수적임.",
+        "keywords": [
+          "벤치마크",
+          "LLM",
+          "모델평가"
+        ],
+        "planning_insight": "기획 시 프로젝트 요구사항에 적합한 LLM 모델을 선정하거나, 모델의 답변 정확도를 정량적으로 모니터링하는 지표로 활용할 수 있음."
       },
       {
         "rank": 3,
-        "id": "ab8c834f3a2ae18f8775395c8eb853f85c1ec1aed2b1fe253403b46e5ecc4475",
-        "title": "Is Jev a Good Multilingual Judge?",
-        "source": "arXiv cs.CL",
+        "id": "280ab3ad8ac54ae5be439e5f27a8654f30e728cd51e0726cedc5e82272390724",
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "source": "Hugging Face Blog",
         "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.14861",
-        "published_at": "2026-11-13T14:00:00+09:00",
-        "summary": "arXiv:2611.14861v1 Announce Type: new Abstract: Generative large language models are widely used for multilingual text evaluation, yet whether decision models that directly output judgment probabilities can serve as multilingual judges has received limited attention. We evaluate Jev against generative LLM judges on four multilingual benchmarks with human annotations, covering up to 47 language varieties and three evaluation formats: binary decisions, pairwise comparisons, and graded ratings. At…",
-        "category_score": 92,
-        "score_reason": "다국어 평가 모델에 대한 연구로, 글로벌 콘텐츠 확장 시 자동화된 평가 시스템 구축에 필수적인 지표와 방법론을 제시함.",
-        "keywords": [
-          "다국어",
-          "AI 평가",
-          "자동화"
-        ],
-        "planning_insight": "글로벌 시장을 타겟으로 한 콘텐츠 자동 생성 시, 일관된 품질을 보장하기 위한 자동화된 채점 기준(LLM Judge) 설정 전략 수립 가능."
-      },
-      {
-        "rank": 4,
-        "id": "f006701ac9ce9ede7be2d884f669a881776c3f0a2afa2e8d2456403dd8cd9952",
-        "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.14758",
-        "published_at": "2026-11-13T14:00:00+09:00",
-        "summary": "arXiv:2611.14758v1 Announce Type: new Abstract: Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU benchmark of 23146 examples spanning 13 tasks and five languages: English, French, German, Italian, and Spa…",
-        "category_score": 90,
-        "score_reason": "멀티모달 모델의 문서 이해도 평가 기준 연구로, 기업 내 문서 자산이나 디자인 콘텐츠의 자동 분석 및 변환 서비스 기획에 직접적인 활용이 가능함.",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "published_at": "2026-11-14T03:00:39+09:00",
+        "summary": "",
+        "category_score": 75,
+        "score_reason": "로봇 시뮬레이션 및 SimReady 에셋은 물리적 환경이나 멀티모달 제어 에이전트 개발과 연결되며, 자동화 콘텐츠의 확장 가능성을 보여줌.",
         "keywords": [
           "멀티모달",
-          "문서 이해",
-          "데이터셋"
+          "에이전트",
+          "시뮬레이션"
         ],
-        "planning_insight": "PDF/이미지 형태의 비정형 콘텐츠를 자동 요약하거나 메타데이터화하는 워크플로우를 설계할 때, 모델의 언어/레이아웃 이해 성능을 사전 검토 가능."
-      },
-      {
-        "rank": 5,
-        "id": "b187294d5093977fc670fff41752086f8d2a6d10956add8fd8174c189c14fe5c",
-        "title": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.14661",
-        "published_at": "2026-11-13T14:00:00+09:00",
-        "summary": "arXiv:2611.14661v1 Announce Type: new Abstract: Kalai et al. propose stating the scoring rule in the prompt with an explicit threshold t, so that a model should answer only when its probability of being correct exceeds t. We probe each requirement of compliance on shared items, in 12 checkpoints from three post-training stages of four fully open 3-8B recipes, with exploratory models up to 32B. At t = 0.75, a line limiting the reply to an answer or \"I abstain\" (the abstention format) raised the…",
-        "category_score": 88,
-        "score_reason": "LLM의 응답 신뢰성을 제어하는 문턱값(threshold) 설정 기법을 다뤄, 생성형 AI의 답변 오류를 줄이고 신뢰도를 높이는 기획적 장치를 마련할 수 있음.",
-        "keywords": [
-          "LLM 신뢰도",
-          "프롬프트 전략",
-          "정확도"
-        ],
-        "planning_insight": "콘텐츠 자동 생성 프로세스에서 AI의 자신감(confidence) 점수를 기준으로 답변을 차단하거나 인간의 검수를 거치도록 하는 필터링 로직 설계 가능."
+        "planning_insight": "가상 공간 내 에이전트 구현 기술을 통해 실시간 반응형 인터랙티브 콘텐츠 제작의 기술적 타당성을 검토할 수 있음."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "d352310dd6359b2d6a38a52b00debe55ca4f2aadadc65fdc7e50bd08cb6036a6",
-      "title": "Probe What-If Worlds Before You Ship: Persona Simulation for Real-World Decision Making",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.14700",
-      "published_at": "2026-11-13T14:00:00+09:00",
-      "summary": "arXiv:2611.14700v1 Announce Type: new Abstract: User research and system testing reveal whether products and services meet user needs, yet recruiting specialized participants, designing controlled what-if comparisons, and repeating studies as designs evolve often bottleneck design iteration and data-driven decision-making. We present a framework and execution infrastructure that translates real-world industry inquiries into controlled experiments with simulated users. Our methodology formally d…",
+      "id": "6841cec7a1202526c2f2e9cea25920e4776e6eba697d4e0836f22a08a8346441",
+      "title": "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115102351",
+      "published_at": "2026-11-15T12:11:49+09:00",
+      "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 선보였다.사용자가 결제 카드를 한 번 등록하면 AI가 상품 구매 절차를 진행하고 사용자는 생체인증으로 최종 결제만 승인하는 방식이다. 실제 카드 정보를 AI나 판매업체에 노출하지 않으면서 기존 카드 혜택과 소비자 보호 기능도 유지하도록 설계했다.15일 오픈AI는 아메리칸 익스프레스, 마스터카드, 비자와 협력해 챗GPT 월렛을 출시했다고 밝혔다. 서비스는 미국의 만 18세 이상 챗GPT 프로 가입자를 대상으로 개인 AI 에이전트 '닷(Dot)'을 통해 순차적으로 제공된다.챗GPT 월렛은 AI가 상품 검색과 비교를 넘어 실제 구매까지 수행하도록 지원하는 결제 서비스다. 사용자는 닷에 원하는 상품을 찾아 구매하도록 요청하고, 결제 단계에서 상품과 금액, 결제 카드 등을 확인한 뒤 승인하면 된다.결제할 때마다 페이스ID나 지문 인식…",
       "category_score": 98,
-      "score_reason": "사용자 연구와 제품 테스트를 AI 에이전트로 자동화하는 프레임워크를 제시하여, 콘텐츠 기획의 반복적 실험과 의사결정 속도를 획기적으로 높일 수 있음.",
+      "score_reason": "AI 에이전트가 직접 결제까지 수행하는 '챗GPT 월렛' 출시는 커머스 생태계의 패러다임을 바꿀 혁신적인 변화입니다.",
       "keywords": [
         "AI 에이전트",
-        "사용자 연구",
-        "의사결정 자동화"
+        "커머스",
+        "결제 경험"
       ],
-      "planning_insight": "제품 기획 및 콘텐츠 캠페인 설계 시, 시뮬레이션된 AI 페르소나를 활용하여 가설을 빠르게 검증하는 'AI 기반 의사결정 프로세스' 도입을 즉각 고려해야 함",
+      "planning_insight": "AI 에이전트와 연동 가능한 커머스 콘텐츠 최적화 전략 및 AI가 선호하는 브랜드 경험 설계 방안 수립이 시급함",
       "integrated_score": 96,
       "criteria_scores": {
         "content_strategy": 25,
-        "trend_signal_timeliness": 24,
+        "trend_signal_timeliness": 25,
         "ai_data_relevance": 24,
-        "market_consumer_impact": 23
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
@@ -240,41 +199,41 @@
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "AI 페르소나를 활용해 실제 사용자 모집 없이 기획안의 타당성을 미리 검증하는 혁신적 프레임워크 연구",
-      "importance_reason": "기획 과정의 고질적인 병목 현상인 사용자 모집과 리서치 비용을 AI가 해결할 수 있음을 입증하는 중요한 연구 사례임"
+      "one_line_summary": "오픈AI의 '챗GPT 월렛' 출시로 AI가 검색을 넘어 실제 결제와 구매를 대행하는 에이전트 시대로 진입",
+      "importance_reason": "사용자 경험(UX)의 결정적 변화이자 커머스 환경의 판도를 뒤흔들 핵심 신호로, 구매 여정 전반의 재설계가 필요함"
     },
     {
       "rank": 2,
-      "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
-      "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+      "id": "71fe263fcbd0e176b2f93a497b87fe2cc227623fe0ea61e0e3d8463b4aea6b96",
+      "title": "최태원, 'AI 플라이휠' 전략 주문…\"모든 멤버사, 새 역할 찾아야\"",
       "source": "ZDNet Korea",
       "group": "news",
       "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261113200433",
-      "published_at": "2026-11-15T09:00:02+09:00",
-      "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
-      "category_score": 56,
-      "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "url": "https://zdnet.co.kr/view/?no=20261115112202",
+      "published_at": "2026-11-15T12:14:14+09:00",
+      "summary": "[지디넷코리아]최태원 SK그룹 회장이 최고경영진(CEO)에게 AI 시대의 변화 속에서 성장이 다음 성장을 만들어내는 선순환 구조인 ‘AI 플라이휠(Flywheel)’을 함께 만들어 가자고 당부했다.이를 통해 AI 반도체·인프라·에너지를 넘어 AI 모델과 애플리케이션(앱) 등 서비스 영역까지 외연을 넓히고, 궁극적으로 AI 연산과 서비스가 핵심 자원으로 거래되는 ‘토큰 이코노미’의 핵심 플레이어로 진화한다는 구상이다.플라이휠은 회전 에너지를 저장하는 무거운 바퀴다. 처음 돌리기는 어렵지만, 한 번 돌기 시작하면 관성이 붙어 적은 힘으로도 점점 빠르게 회전한다. 경영에서는 한 사업의 성과가 다음 성과의 동력이 되는 선순환 구조를 뜻한다.SK그룹은 최태원 회장과 최재원 수석부회장, 최창원 SK수펙스추구협의회 의장, 주요 멤버사 최고경영진 50여명이 참석한 가운데 지난 12일부터 14일까지 경기도 이천 SKMS연구소에서 ‘2026 CEO세미나’를 열고 미래 성장 전략을 논의했다고 15일…",
+      "category_score": 92,
+      "score_reason": "기업 경영진이 'AI 플라이휠'을 통해 AI를 전사적 선순환 구조로 재편하려는 움직임은 대기업의 비즈니스 모델 변화를 보여주는 핵심 신호입니다.",
       "keywords": [
-        "AI 운영",
-        "토큰 효율화",
-        "ROI"
+        "AI 플라이휠",
+        "AX",
+        "비즈니스 모델"
       ],
-      "planning_insight": "AI 서비스 도입 시 단순 API 연동을 넘어, 모델 라우팅과 토큰 최적화 전략을 포함한 기획을 수립해야 지속 가능한 서비스 운영이 가능함",
-      "integrated_score": 91,
+      "planning_insight": "개별 콘텐츠 기획을 넘어 비즈니스 성과를 창출하는 'AI 기반의 데이터 순환형 콘텐츠 모델' 구축에 참고",
+      "integrated_score": 93,
       "criteria_scores": {
         "content_strategy": 23,
         "trend_signal_timeliness": 24,
         "ai_data_relevance": 23,
-        "market_consumer_impact": 21
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "기업의 AI 서비스 도입 비용을 낮추는 '토큰 최적화'가 단순 기술을 넘어 필수적인 경영 전략으로 부상",
-      "importance_reason": "AI 도입의 성패가 기술 자체보다 운영 비용(토큰) 최적화에 달려있음을 시사하며, 이는 AI 기반 서비스 기획의 현실적 표준이 될 것임"
+      "one_line_summary": "SK그룹, AI 반도체부터 서비스까지 연결하는 'AI 플라이휠' 전략을 통해 전사적 AX 전환 가속화",
+      "importance_reason": "대기업의 비즈니스 모델이 '인프라 구축'에서 '서비스 선순환'으로 옮겨가는 구조적 변화를 상징함"
     },
     {
       "rank": 3,
@@ -287,96 +246,99 @@
       "published_at": "2026-11-13T23:05:22+09:00",
       "summary": "",
       "category_score": 95,
-      "score_reason": "로컬 AI 생태계의 핵심인 llama.cpp의 주요 업데이트로, 기획자가 온디바이스 AI 환경에서 콘텐츠 보안과 비용 효율을 고려한 서비스 기획을 가능하게 함.",
+      "score_reason": "LLM의 로컬 실행 환경(llama.cpp)은 기획자가 보안이나 비용 문제 없이 온디바이스 AI 서비스를 기획할 때 핵심적인 기술 기반이 됨.",
       "keywords": [
-        "오픈소스",
-        "온디바이스",
-        "LLM 인프라"
+        "로컬 LLM",
+        "프라이버시",
+        "데이터 효율"
       ],
-      "planning_insight": "보안이 중요한 기업 콘텐츠 데이터 처리에 온디바이스(로컬) LLM 도입을 검토하여, 비용 효율성과 데이터 주권을 동시에 확보하는 전략 수립",
-      "integrated_score": 88,
+      "planning_insight": "민감한 고객 데이터를 활용한 맞춤형 콘텐츠 자동화 툴을 자체 구축하거나 사내 폐쇄형 AI 비서 도입 시 필수 참고 기술",
+      "integrated_score": 91,
       "criteria_scores": {
-        "content_strategy": 21,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 24,
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
         "market_consumer_impact": 20
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "llama.cpp 업데이트로 대표되는 로컬 AI 생태계 강화, 클라우드 의존도를 낮추는 기획적 대안 제시",
-      "importance_reason": "데이터 보안과 비용 문제로 인해 클라우드 사용이 제한적인 환경에서도 고성능 AI 콘텐츠 생성이 가능한 인프라가 갖춰지고 있음"
-    },
-    {
-      "rank": 4,
-      "id": "f1abe4badbcf44928e91971fbdc200e456c36241701a364e0752fe88f0254b25",
-      "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 상 수상",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261115140635",
-      "published_at": "2026-11-15T14:06:35+09:00",
-      "summary": "[지디넷코리아]현대자동차그룹이 생성형 인공지능(AI)의 정보 접근성과 이해도를 높이는 방향으로 공식 웹사이트를 개편해 국내외 웹 관련 시상식에서 13개 상을 받았다.현대차그룹은 공식 웹사이트가 올해 국내 웹 어워드에서 5개, 해외 웹 어워드에서 8개 등 총 13개 상을 수상했다고 15일 밝혔다.현대차그룹은 지난 13일 한국인터넷소통협회가 주관한 '제19회 대한민국소통어워즈'에서 국회 산업통상자원중소벤처기업위원회 위원장상과 대한민국AI브랜드대상 그룹·지주사 부문, 대한민국디지털콘텐츠대상 브랜드콘텐츠 부문을 각각 수상했다.대한민국소통어워즈는 콘텐츠경쟁력지수(CQI)와 소통지수(ICSI·SCSI), 고객 의견, 그룹 인터뷰, 전문가 평가 등을 종합해 수상자를 선정한다. 올해 평가에는 기업 285개와 기관 172개 등 총 457개 조직이 참여했다.올해 신설된 대한민국AI브랜드대상은 기존 소통 평가 데이터와 5개 생성형 AI 엔진의 평가를 결합한 'K-BCAI' 모델을 활용한다. 브랜드 인…",
-      "category_score": 66,
-      "score_reason": "AI, 생성형 AI, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
-      "keywords": [
-        "AI 브랜드",
-        "디지털 콘텐츠",
-        "사용자 경험"
-      ],
-      "planning_insight": "단순 정보 전달형 웹사이트에서 탈피하여, 생성형 AI가 사용자 질문에 맥락에 맞게 대응하는 'AI 브랜딩 콘텐츠' 설계의 벤치마킹 필요",
-      "integrated_score": 85,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 20,
-        "ai_data_relevance": 21,
-        "market_consumer_impact": 22
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "llama.cpp v1.0.0 출시, 기업과 개인이 비용 및 보안 제약 없이 강력한 로컬 AI 환경을 구축하는 토대 마련",
+      "importance_reason": "클라우드 의존도를 낮추고 데이터 보안을 강화하려는 기업들에게 로컬 AI 모델은 핵심적인 전략 인프라임"
+    },
+    {
+      "rank": 4,
+      "id": "f9ed0ea6ca07d2a6ecb580df1c33ca3b62a0540cf44bffdcadf5398660aae4b0",
+      "title": "\"65만원 AI 안경 벌써 완판\"...삼성·구글·젠틀몬스터 제품 뭐길래",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115210649",
+      "published_at": "2026-11-15T21:27:13+09:00",
+      "summary": "[지디넷코리아]삼성전자와 구글, 젠틀몬스터가 손잡고 개발한 인공지능(AI) 스마트 안경이 정식 출시를 앞두고 관심을 모으고 있다. 65만원부터 시작하는 가격에도 1차 사전예약 물량이 품절되면서 초기 수요를 확인했다. 일반 안경과 크게 다르지 않은 디자인에 AI 비서와 카메라, 실시간 번역 기능 등을 담은 것이 특징이다.15일 관련 업계에 따르면 젠틀몬스터가 지난 12일 한국과 미국에서 사전예약을 시작한 '인텔리전트 아이웨어(Intelligent Eyewear)'는 예약 개시 수 시간 만에 주요 제품이 품절됐다. 현재 젠틀몬스터 공식 온라인몰에는 16종 모두 사전예약 품절로 표시돼 있으며, 추가 예약 알림을 신청할 수 있다. 다만 구체적인 예약 판매 수량은 공개되지 않았다.젠틀몬스터는 지난 13일부터 미국 뉴욕에서 인텔리전트 아이웨어 전 제품을 공개하는 '퍼블릭 프리뷰'도 진행하고 있다. 오는 23일까지 열리는 이번 행사 역시 사전 체험 예약이 마감됐다.이번 제품은 삼성전자의 하드웨…",
+      "category_score": 95,
+      "score_reason": "일상 속 AI 기기(스마트 안경)의 대중적 수요 확인 및 이에 따른 사회적 윤리·보안 이슈가 결합된 트렌드입니다.",
+      "keywords": [
+        "AI 하드웨어",
+        "일상형 AI",
+        "웨어러블"
+      ],
+      "planning_insight": "화면 중심 콘텐츠에서 탈피하여 목소리나 상황 인지 기반의 인터랙티브 콘텐츠 기획에 대한 아이디어 확보 필요",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "현대차그룹의 AI 브랜드 전략 성과를 통해 본 'AI 기술을 활용한 브랜드 소통 및 콘텐츠 혁신' 사례",
-      "importance_reason": "AI 기술이 실제 브랜드 경험과 정보 접근성 개선으로 직결되는 모습을 보여주며, 향후 기업 웹사이트 개편의 모범 사례로 작동"
+      "one_line_summary": "삼성·구글 협업 AI 스마트 안경 완판을 통해 확인된 일상 밀착형 AI 서비스에 대한 대중적 갈망",
+      "importance_reason": "디지털 화면을 벗어난 '물리적 공간에서의 AI 경험'이 소비자의 일상으로 침투하고 있음을 보여주는 사례"
     },
     {
       "rank": 5,
-      "id": "b187294d5093977fc670fff41752086f8d2a6d10956add8fd8174c189c14fe5c",
-      "title": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.14661",
-      "published_at": "2026-11-13T14:00:00+09:00",
-      "summary": "arXiv:2611.14661v1 Announce Type: new Abstract: Kalai et al. propose stating the scoring rule in the prompt with an explicit threshold t, so that a model should answer only when its probability of being correct exceeds t. We probe each requirement of compliance on shared items, in 12 checkpoints from three post-training stages of four fully open 3-8B recipes, with exploratory models up to 32B. At t = 0.75, a line limiting the reply to an answer or \"I abstain\" (the abstention format) raised the…",
+      "id": "3ba9ed3e47386d706b517882db0ecef61a42c0ba3ae5e99d5ea1ead28caf12be",
+      "title": "AI가 일자리 없앤다…\"2030년까지 오히려 170만 개 늘어\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115062228",
+      "published_at": "2026-11-15T09:18:35+09:00",
+      "summary": "[지디넷코리아]인공지능(AI) 확산으로 대규모 일자리가 사라질 것이라는 우려와 달리 2030년까지 AI가 없애는 일자리보다 새롭게 만드는 일자리가 더 많을 것이라는 전망이 나왔다.다만 기업들이 AI 도입 효과를 확인하기 위해 신규 채용을 미루면서 고용시장 불확실성이 커지고 기존 근로자들의 업무 변화도 불가피할 것으로 분석됐다.15일 글로벌 시장조사기관 가트너가 발간한 'AI는 일자리 대재앙을 초래하지 않지만 2030년까지 고용시장에 대혼란을 가져올 것' 보고서에 따르면, AI 확산으로 2030년까지 일자리 1060만 개가 새롭게 생기고 890만 개가 사라질 전망이다. 이를 합산하면 일자리는 170만 개 순증할 것으로 예상된다.이번 전망은 생성형 AI와 AI 에이전트 도입에 따른 기업 업무 변화와 인력 운영 전략 등을 분석한 결과다. 가트너는 AI가 단순히 기존 인력을 대체하는 데 그치지 않고 새로운 업무와 사업 기회를 만들어 고용 증가에도 기여할 것으로 내다봤다.다만 단기적으로는…",
       "category_score": 88,
-      "score_reason": "LLM의 응답 신뢰성을 제어하는 문턱값(threshold) 설정 기법을 다뤄, 생성형 AI의 답변 오류를 줄이고 신뢰도를 높이는 기획적 장치를 마련할 수 있음.",
+      "score_reason": "AI가 고용 시장에 미치는 순영향에 대한 최신 분석으로, 사회·경제적 담론을 이끄는 트렌드 지표입니다.",
       "keywords": [
-        "LLM 신뢰도",
-        "프롬프트 전략",
-        "정확도 관리"
+        "AI 고용",
+        "노동 시장",
+        "업무 변화"
       ],
-      "planning_insight": "자동화된 콘텐츠 발행 시스템에서 AI의 '자신감 점수'를 활용하여, 기준치 이하의 콘텐츠는 자동 차단하거나 사람의 검수를 거치도록 하는 안전망(Guardrail) 설계",
-      "integrated_score": 82,
+      "planning_insight": "AI와 공존하는 업무 방식 및 리스킬링 교육 콘텐츠 기획 시, 불안감을 해소하고 생산성 향상을 강조하는 데이터 기반 스토리텔링 전략 활용",
+      "integrated_score": 87,
       "criteria_scores": {
-        "content_strategy": 20,
-        "trend_signal_timeliness": 20,
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
         "ai_data_relevance": 22,
-        "market_consumer_impact": 20
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
+        "트렌드 신호성·시의성",
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "LLM의 답변 신뢰성을 제어하는 '문턱값' 설정 기법으로 AI 콘텐츠 생성의 위험 관리 대안 제시",
-      "importance_reason": "생성형 AI의 할루시네이션(환각) 문제를 콘텐츠 배포 단계에서 필터링할 수 있는 구체적인 기술적 로직을 제공함"
+      "one_line_summary": "가트너 보고서, AI로 인한 일자리 순증 전망을 통해 기술적 낙관론과 고용 시장의 혼란 공존 경고",
+      "importance_reason": "AI 기술의 도입이 단순 대체가 아닌 역할 재배치(Reskilling)의 문제임을 시사하며 콘텐츠 방향성 설정에 중요"
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 91,
+      "count": 86,
       "groups": [
         "ai_data",
         "news"
@@ -386,7 +348,7 @@
         "Hugging Face Blog",
         "NYT Technology",
         "ZDNet Korea",
-        "arXiv cs.CL"
+        "매일경제 기업"
       ]
     },
     {
@@ -398,20 +360,6 @@
       "sources": [
         "ZDNet Korea",
         "매일경제 기업"
-      ]
-    },
-    {
-      "keyword": "UI",
-      "count": 13,
-      "groups": [
-        "ai_data",
-        "news"
-      ],
-      "sources": [
-        "BBC Technology",
-        "Hugging Face Blog",
-        "ZDNet Korea",
-        "arXiv cs.CL"
       ]
     },
     {
@@ -427,26 +375,38 @@
     },
     {
       "keyword": "데이터",
-      "count": 11,
+      "count": 9,
       "groups": [
         "news"
       ],
       "sources": [
-        "ZDNet Korea",
-        "매일경제 기업"
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 8,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "ZDNet Korea"
       ]
     }
   ],
   "overall_summary": [
-    "AI 기술이 연구 단계를 넘어 실제 콘텐츠 기획 검증, 사용자 경험 개선, 그리고 기업의 운영 효율화(ROI)를 위한 필수 전략으로 통합되고 있음.",
-    "로컬 및 오픈소스 AI 인프라의 발전으로 인해 비용과 보안 문제를 해결하며 AI 콘텐츠 전략을 실무에 적용하는 환경이 성숙해지고 있음.",
-    "브랜드와 커머스 영역에서도 AI를 활용한 개인화 및 고객 접점 최적화가 가속화되고 있으며, 기술 신뢰성을 제어하는 정교한 운영 프레임워크가 중요해짐."
+    "AI 기술이 단순 도구적 역할을 넘어 결제(챗GPT 월렛) 및 물리적 기기(스마트 안경)와 결합하며 일상 영역으로 깊숙이 침투하고 있습니다.",
+    "기업들은 AI 인프라를 넘어 서비스와 애플리케이션까지 연결하는 'AI 플라이휠' 구조를 구축하며 전사적인 AX(AI 전환) 속도를 높이고 있습니다.",
+    "로컬 LLM 인프라 발전과 고용 시장의 재편 담론은 향후 기업들이 AI를 활용한 비즈니스 모델을 설계할 때 보안, 비용, 그리고 인적 자원 대응 전략을 동시에 고려해야 함을 보여줍니다."
   ],
   "method": "gemini",
   "fallback_used": true,
   "gemini_call_count": 3,
   "category_methods": {
-    "news": "fallback",
+    "news": "gemini",
     "tech_blog": "fallback",
     "ai_data": "gemini"
   }

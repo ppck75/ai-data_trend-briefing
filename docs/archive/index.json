@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-15T20:23:05.919670+09:00",
+  "updated_at": "2026-11-16T00:48:25.358954+09:00",
   "archives": [
+    {
+      "id": "2026-11-16_00-47",
+      "date": "2026-11-16",
+      "time": "00:47",
+      "label": "2026-11-16 00:47",
+      "generated_at": "2026-11-16T00:47:49.005909+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "분석",
+        "데이터",
+        "UI"
+      ],
+      "integrated_titles": [
+        "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
+        "최태원, 'AI 플라이휠' 전략 주문…\"모든 멤버사, 새 역할 찾아야\"",
+        "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "\"65만원 AI 안경 벌써 완판\"...삼성·구글·젠틀몬스터 제품 뭐길래",
+        "AI가 일자리 없앤다…\"2030년까지 오히려 170만 개 늘어\""
+      ],
+      "path_json": "archive/2026-11-16/00-47.json",
+      "path_md": "archive/2026-11-16/00-47.md"
+    },
     {
       "id": "2026-11-15_20-22",
       "date": "2026-11-15",
