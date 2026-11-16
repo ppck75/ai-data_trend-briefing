@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-16T11:20:14.512334+09:00",
+  "updated_at": "2026-11-16T20:54:40.408633+09:00",
   "archives": [
+    {
+      "id": "2026-11-16_20-54",
+      "date": "2026-11-16",
+      "time": "20:54",
+      "label": "2026-11-16 20:54",
+      "generated_at": "2026-11-16T20:54:19.435379+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
+        "\"65만원 AI 안경 벌써 완판\"...삼성·구글·젠틀몬스터 제품 뭐길래",
+        "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+        "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
+        "Benchmarks Don't Talk Back: Learning Through Self-Disagreement"
+      ],
+      "path_json": "archive/2026-11-16/20-54.json",
+      "path_md": "archive/2026-11-16/20-54.md"
+    },
     {
       "id": "2026-11-16_12-35",
       "date": "2026-11-16",
