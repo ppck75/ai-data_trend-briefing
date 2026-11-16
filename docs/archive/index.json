@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-16T20:54:40.408633+09:00",
+  "updated_at": "2026-11-17T03:49:29.500776+09:00",
   "archives": [
+    {
+      "id": "2026-11-17_03-48",
+      "date": "2026-11-17",
+      "time": "03:48",
+      "label": "2026-11-17 03:48",
+      "generated_at": "2026-11-17T03:48:46.250172+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+        "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
+        "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+        "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기",
+        "Creating Steering Vectors via Input Optimisation"
+      ],
+      "path_json": "archive/2026-11-17/03-48.json",
+      "path_md": "archive/2026-11-17/03-48.md"
+    },
     {
       "id": "2026-11-16_20-54",
       "date": "2026-11-16",
