@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-17T13:42:59.642307+09:00",
+  "updated_at": "2026-11-17T21:18:35.468404+09:00",
   "archives": [
+    {
+      "id": "2026-11-17_21-18",
+      "date": "2026-11-17",
+      "time": "21:18",
+      "label": "2026-11-17 21:18",
+      "generated_at": "2026-11-17T21:18:11.216554+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "model"
+      ],
+      "integrated_titles": [
+        "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기",
+        "AWS Emulator를 만든 자율 AI 에이전트 팀 비하인드 스토리",
+        "워시 美연준 의장 \"AI 기대 못 미치면 주가 하락·경기 둔화\"",
+        "[AI는 지금] '19금' 캐릭터챗 심의 초읽기…업계, 청소년 보호 고삐",
+        "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation"
+      ],
+      "path_json": "archive/2026-11-17/21-18.json",
+      "path_md": "archive/2026-11-17/21-18.md"
+    },
     {
       "id": "2026-11-17_12-35",
       "date": "2026-11-17",
