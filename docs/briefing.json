@@ -1,111 +1,113 @@
 {
   "briefing_date": "2026-11-17",
-  "generated_at": "2026-11-17T03:48:46.250172+09:00",
+  "generated_at": "2026-11-17T13:42:40.972883+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 189,
-    "tech_blog": 1,
-    "ai_data": 10
+    "news": 184,
+    "tech_blog": 4,
+    "ai_data": 12
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "f1abe4badbcf44928e91971fbdc200e456c36241701a364e0752fe88f0254b25",
-        "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 상 수상",
+        "id": "6841cec7a1202526c2f2e9cea25920e4776e6eba697d4e0836f22a08a8346441",
+        "title": "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261115140635",
-        "published_at": "2026-11-15T14:06:35+09:00",
-        "summary": "[지디넷코리아]현대자동차그룹이 생성형 인공지능(AI)의 정보 접근성과 이해도를 높이는 방향으로 공식 웹사이트를 개편해 국내외 웹 관련 시상식에서 13개 상을 받았다.현대차그룹은 공식 웹사이트가 올해 국내 웹 어워드에서 5개, 해외 웹 어워드에서 8개 등 총 13개 상을 수상했다고 15일 밝혔다.현대차그룹은 지난 13일 한국인터넷소통협회가 주관한 '제19회 대한민국소통어워즈'에서 국회 산업통상자원중소벤처기업위원회 위원장상과 대한민국AI브랜드대상 그룹·지주사 부문, 대한민국디지털콘텐츠대상 브랜드콘텐츠 부문을 각각 수상했다.대한민국소통어워즈는 콘텐츠경쟁력지수(CQI)와 소통지수(ICSI·SCSI), 고객 의견, 그룹 인터뷰, 전문가 평가 등을 종합해 수상자를 선정한다. 올해 평가에는 기업 285개와 기관 172개 등 총 457개 조직이 참여했다.올해 신설된 대한민국AI브랜드대상은 기존 소통 평가 데이터와 5개 생성형 AI 엔진의 평가를 결합한 'K-BCAI' 모델을 활용한다. 브랜드 인…",
-        "category_score": 61,
-        "score_reason": "AI, 생성형 AI, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115102351",
+        "published_at": "2026-11-15T12:11:49+09:00",
+        "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 선보였다.사용자가 결제 카드를 한 번 등록하면 AI가 상품 구매 절차를 진행하고 사용자는 생체인증으로 최종 결제만 승인하는 방식이다. 실제 카드 정보를 AI나 판매업체에 노출하지 않으면서 기존 카드 혜택과 소비자 보호 기능도 유지하도록 설계했다.15일 오픈AI는 아메리칸 익스프레스, 마스터카드, 비자와 협력해 챗GPT 월렛을 출시했다고 밝혔다. 서비스는 미국의 만 18세 이상 챗GPT 프로 가입자를 대상으로 개인 AI 에이전트 '닷(Dot)'을 통해 순차적으로 제공된다.챗GPT 월렛은 AI가 상품 검색과 비교를 넘어 실제 구매까지 수행하도록 지원하는 결제 서비스다. 사용자는 닷에 원하는 상품을 찾아 구매하도록 요청하고, 결제 단계에서 상품과 금액, 결제 카드 등을 확인한 뒤 승인하면 된다.결제할 때마다 페이스ID나 지문 인식…",
+        "category_score": 98,
+        "score_reason": "AI가 단순 정보 제공을 넘어 직접 상품 구매와 결제까지 수행하는 '에이전트 커머스'의 실질적 사례로, 플랫폼 경제의 패러다임을 바꿀 강력한 신호임.",
         "keywords": [
-          "AI",
-          "생성형 AI",
-          "브랜드",
-          "데이터",
-          "콘텐츠"
+          "AI 에이전트",
+          "커머스",
+          "결제",
+          "오픈AI"
         ],
-        "planning_insight": "이 항목은 AI, 생성형 AI, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 에이전트가 소비자 대신 구매 결정을 내리는 시대, '검색 최적화(SEO)'를 넘어 '에이전트 선택 최적화(AEO)'를 위한 마케팅 전략 수립이 필수적임."
       },
       {
         "rank": 2,
-        "id": "1c43c6fdc60ae4faea7614e0860b4ad3dc7eb1063678ecccaef91e8cf830ac79",
-        "title": "페르소나AI, 국민성장펀드 통해 150억 투자 유치…AI 에이전트 사업 성장 가속화",
+        "id": "8d2ee809a81d63d27e597f03456abb0b64035dae585c2d980b80ed95f2e4b3dc",
+        "title": "알리바바, 2조 4000억 파라미터 AI '큐원4-맥스' 공개…추론 비용 60% 절감",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261115233648",
-        "published_at": "2026-11-16T06:00:03+09:00",
-        "summary": "[지디넷코리아]AI 에이전트 전문기업 페르소나에이아이(페르소나AI, 대표 유승재)는 국민성장펀드 위탁운용사인 한국투자밸류자산운용에서 약 150억 원 규모의 투자를 유치했다고 15일 밝혔다. 지난 13일 투자금 납입을 완료했다.페르소나AI는 AI에이전트 전문 기업으로 피지컬AI 제조 에이전트까지 확대하며 최근 국가 AI대상을 수상한 기업이다. 이번 투자 유치를 통해 AI 에이전트 기술 경쟁력을 강화하고, 국내외 사업 확대를 위한 성장 기반을 확보하게 됐다.페르소나AI는 기업의 데이터와 업무 환경을 이해하고 실제 업무를 수행하는 AI 에이전트 기술을 중심으로 사업을 전개하고 있다. 특히 기업 내부의 분산된 데이터와 업무 시스템을 AI가 활용할 수 있는 지식 자산으로 전환하고, 이를 기반으로 다양한 AI 에이전트와 업무 자동화 서비스를 구현하는 기업용 AI 에이전트 플랫폼 ‘GEN STATION’을 주력 사업으로 추진하고 있다.또한 역사왜곡 방지를 위한 소형언어모델(sSLM), 사투리…",
-        "category_score": 59,
-        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261117085635",
+        "published_at": "2026-11-17T08:56:55+09:00",
+        "summary": "[지디넷코리아]알리바바가 인공지능(AI) 모델 추론 비용을 줄이면서 복잡한 작업 수행 능력을 강화한 대규모언어모델(LLM) '큐원4-맥스(Qwen4-Max)'를 선보였다.기존 모델과 동일한 2조 4000억 개 파라미터를 유지하면서 실제 연산에 사용하는 파라미터를 25% 줄인 것이 특징이다. 이를 통해 성능을 높이는 동시에 작업당 평균 비용을 약 60% 낮췄다는 설명이다.알리바바는 17일 큐원 시리즈의 최신 모델인 큐원4-맥스를 공개하고 클라우드 플랫폼을 통한 서비스 제공을 시작했다고 밝혔다.큐원4-맥스는 희소 전문가 혼합(MoE) 아키텍처를 기반으로 설계됐다. 전체 2조 4000억 개 파라미터 가운데 토큰 처리 시 710억 개만 활성화한다. 이전 모델인 큐원3.8-맥스보다 활성 파라미터를 25% 줄여 연산 효율을 개선했다.최대 100만 토큰의 컨텍스트 윈도우와 이미지 정보를 직접 처리하는 네이티브 비전 기능도 지원한다. 대규모 문서 분석이나 장시간에 걸친 복합 작업, 시각 정보 기…",
+        "category_score": 95,
+        "score_reason": "AI 모델의 파라미터 효율화와 추론 비용 60% 절감은 기술적 완성도와 수익성이라는 두 마리 토끼를 잡는 트렌드로, 향후 AI 서비스 대중화의 핵심 변수임.",
         "keywords": [
-          "AI",
-          "플랫폼",
-          "데이터",
-          "자동화"
+          "AI 모델",
+          "추론 비용",
+          "알리바바",
+          "인프라"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "고비용 AI 서비스가 효율화됨에 따라 B2B, B2C 서비스 전반에 AI 탑재가 가속화될 것임. 이를 활용한 고수익 AI 서비스 모델 기획이 필요함."
       },
       {
         "rank": 3,
-        "id": "f7b018aa4332315248f1b4448d2bf10893e1cf349f5188aa08debbe74412ff4a",
-        "title": "오픈놀, 핀테크 업계와 잇단 MOU 체결",
+        "id": "31afaf69f9e453a830b1376439834e36880c6c0a40cd575f18bdad0baa74970e",
+        "title": "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261116200123",
-        "published_at": "2026-11-16T20:01:23+09:00",
-        "summary": "[지디넷코리아]AI 기반 커리어·채용 플랫폼 기업 오픈놀(대표 권인택)이 한국핀테크산업협회 및 국내 대표 핀테크 선도기업들과 연쇄적인 업무협약(MOU)을 체결했다. 핀테크 스타트업 지원 생태계 조성에 본격 나섰다.16일 회사에 따르면, 이번 파트너십은 오픈놀을 중심으로 핀테크 산업계 및 기술 선도 기업들과 협력을 통해 ▲핀테크 스타트업 창업 지원 및 육성 ▲인프라, 기술 연계, 판로 개척 등 실질적 지원 확대 ▲자사 플랫폼 ‘미니인턴’을 통한 핀테크 전문 인재 채용 연계를 골자로 협력을 추진한다. 핀테크 스타트업들이 초기 사업화 과정에서 겪는 인프라 구축, 데이터 기술 연계, 전문 인재 확보같은 고질적 애로사항을 오픈놀 중심의 상생 생태계를 통해 원스톱으로 해소하겠다는 취지다.우선 오픈놀은 한국핀테크산업협회와 협력해 핀테크 업계와의 네트워크 교류에 나서 자사 실무 과제 플랫폼인 '미니인턴'을 활용한 핀테크 스타트업 대상 맞춤형 채용 연계 프로그램을 자체적으로 추진한다.이와 함께 핑…",
-        "category_score": 56,
-        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115122232",
+        "published_at": "2026-11-15T12:23:41+09:00",
+        "summary": "[지디넷코리아]현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다.현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다.AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다.현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품…",
+        "category_score": 92,
+        "score_reason": "전통적인 홈쇼핑이 쇼호스트 없이 100% AI 방송으로 전환하는 것은 미디어 제작 산업의 근본적인 효율화 및 개인화 흐름을 극명하게 보여줌.",
         "keywords": [
-          "AI",
-          "플랫폼",
-          "데이터"
+          "AI 방송",
+          "홈쇼핑",
+          "콘텐츠 제작",
+          "생성형 AI"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "방송 인프라의 자동화는 콘텐츠 생산 비용을 획기적으로 낮춤. 실시간 개인화된 커머스 방송이나 다국어 송출 등 확장된 형태의 콘텐츠 기획을 고민해야 함."
       },
       {
         "rank": 4,
-        "id": "c042949e0284bbff95347415df205e512c1c0104c046d52a9e8dc572f35d6ccd",
-        "title": "[ZD브리핑] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막",
+        "id": "7c17f8cce10c24b31c5eed80880788b86fcda0afcaa644277c60bd09df94dcb2",
+        "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261115124937",
-        "published_at": "2026-11-15T13:19:47+09:00",
-        "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주에는 삼성전자 갤럭시링 특허 분쟁의 1차 결론이 나오고, 주요 기업들의 3분기 분기보고서가 공개됩니다. 삼성전자는 글로벌 투자자를 대상으로 기술·사업 전략을 발표하며, 현대자동차는 미국 LA 오토쇼에서 신차를 선보일 예정입니다. 게임 축제 '지스타 2026'과 마이크로소프트의 연례 기술 행사 '이그나이트 2026'이 개막하고, CJ올리브영도 첫 테크 콘퍼런스를 개최합니다. 앤트로픽의 나스닥 상장 추진과 APEC 정상회의에도 관심이 쏠립니다. 이 밖에 디지…",
-        "category_score": 51,
-        "score_reason": "커머스, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115205153",
+        "published_at": "2026-11-15T20:54:24+09:00",
+        "summary": "[지디넷코리아]세무사시험 수석합격자가 인공지능(AI)을 활용한 부정행위를 시인하면서 정부가 국가자격시험 전반에 대한 전수조사에 나선다. 나흘 앞으로 다가온 대학수학능력시험에서도 유사한 부정행위가 발생하지 않도록 AI 기기 점검 절차를 마련하고 시험장 관리·감독을 강화하기로 했다.청와대는 15일 하준경 정책실장 주재로 'AI 활용 부정시험 확산 방지 긴급대책회의'를 개최했다고 밝혔다.이번 회의는 최근 세무사시험 수석합격자가 AI 기술을 이용해 부정행위를 저질렀다고 인정한 데 따른 것이다. 해당 합격자는 세무사 1·2차 시험에서 초소형 카메라와 생성형 AI 등을 활용해 부정행위를 했다고 시인했다. 공인회계사 1차 시험에서도 같은 방식으로 부정행위를 했다고 밝힌 것으로 알려졌다.정부는 AI 기술을 악용한 부정행위가 다른 국가시험에서도 발생했을 가능성을 살펴보기 위해 국가자격시험 전체를 대상으로 AI 활용 부정행위 의심 사례를 전수조사하기로 했다.경찰 등 수사기관은 부정시험 관련 사건이…",
+        "category_score": 89,
+        "score_reason": "AI를 활용한 부정행위가 국가 고시 영역까지 확대된 것은 기술 발전이 가져오는 사회적 부작용이자, 이에 대응하기 위한 보안 및 인증 시스템의 변화를 강제하는 신호임.",
         "keywords": [
-          "커머스",
-          "플랫폼",
-          "콘텐츠"
+          "AI 부정행위",
+          "보안",
+          "국가자격시험",
+          "인증"
         ],
-        "planning_insight": "이 항목은 커머스, 플랫폼, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 역기능 대응을 위한 보안 가이드라인이 향후 공공 및 교육 콘텐츠의 중요한 요소가 될 것이며, 기술적 인증 기술에 대한 사회적 요구가 커질 것임."
       },
       {
         "rank": 5,
-        "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
-        "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+        "id": "3ba9ed3e47386d706b517882db0ecef61a42c0ba3ae5e99d5ea1ead28caf12be",
+        "title": "AI가 일자리 없앤다…\"2030년까지 오히려 170만 개 늘어\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261113200433",
-        "published_at": "2026-11-15T09:00:02+09:00",
-        "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
-        "category_score": 51,
-        "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261115062228",
+        "published_at": "2026-11-15T09:18:35+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 확산으로 대규모 일자리가 사라질 것이라는 우려와 달리 2030년까지 AI가 없애는 일자리보다 새롭게 만드는 일자리가 더 많을 것이라는 전망이 나왔다.다만 기업들이 AI 도입 효과를 확인하기 위해 신규 채용을 미루면서 고용시장 불확실성이 커지고 기존 근로자들의 업무 변화도 불가피할 것으로 분석됐다.15일 글로벌 시장조사기관 가트너가 발간한 'AI는 일자리 대재앙을 초래하지 않지만 2030년까지 고용시장에 대혼란을 가져올 것' 보고서에 따르면, AI 확산으로 2030년까지 일자리 1060만 개가 새롭게 생기고 890만 개가 사라질 전망이다. 이를 합산하면 일자리는 170만 개 순증할 것으로 예상된다.이번 전망은 생성형 AI와 AI 에이전트 도입에 따른 기업 업무 변화와 인력 운영 전략 등을 분석한 결과다. 가트너는 AI가 단순히 기존 인력을 대체하는 데 그치지 않고 새로운 업무와 사업 기회를 만들어 고용 증가에도 기여할 것으로 내다봤다.다만 단기적으로는…",
+        "category_score": 86,
+        "score_reason": "AI가 고용 시장에 미치는 순증 효과와 구조적 변화에 대한 가트너의 분석은 기업의 채용 문화 및 커리어 관리 트렌드와 직접적으로 연결됨.",
         "keywords": [
-          "AI",
-          "플랫폼",
-          "검색"
+          "AI 고용",
+          "일자리 변화",
+          "시장 전망",
+          "가트너"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI가 없애는 직무와 생성하는 직무 사이에서 기업들은 리스킬링 교육 콘텐츠를 원함. 'AI 협업 역량 강화'를 주제로 한 B2B 콘텐츠 수요를 선점해야 함."
       }
     ],
     "tech_blog": [
@@ -119,20 +121,114 @@
         "url": "https://d2.naver.com/helloworld/1599966",
         "published_at": "2026-11-16T12:16:10+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 네이버의 검색·피드·광고 등 다양한 도메인의 데이터와 추천 기술을 연결하는 버티컬 추천 모델의 개발 및 서비스 적용 경험을 소개하고, 서빙·최적화와 지식 증류를 통한 도메인 간 지식 전이 방향을 공유합니다. ​ 발표 대상 여러 서비스 및 도메인의 사용자 행동 데이터를 활용한 크로스 도메인 추천에 관심 있는 분 시퀀스 기반 추천, 생성형 추천 등 다양한 추천 모델의 개발 및 서비스 적용에 관심 있는 분 대규모 추천 모델의 실시간 추론 및 GPU 서빙 최적화에 관심 있는 분 Foundation Model의 지식을 경량 모델로 전이하는 Knowledge Distillation 기술에 관심 있는 분 ​ 목차 Part 1. 개발 배경과 목표 Part 2. VMs 시스템 구조 Part 3. VMs: 리트리버와 통합 랭커 Part 4. 지면별 적용 현황과 성과 Par…",
-        "category_score": 62,
-        "score_reason": "추천, 검색, 데이터 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "category_score": 98,
+        "score_reason": "사용자 행동 데이터 기반의 크로스 도메인 추천 모델과 지식 전이 전략은 콘텐츠 개인화 및 사용자 경험 최적화에 직결되는 핵심 인사이트를 제공함.",
         "keywords": [
-          "추천",
-          "검색",
-          "데이터",
-          "피드"
+          "추천 모델",
+          "데이터 활용",
+          "개인화"
         ],
-        "planning_insight": "이 항목은 추천, 검색, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "다양한 도메인의 사용자 행동을 통합하는 크로스 도메인 추천 구조는 콘텐츠 전략 수립 시 타겟팅 정확도를 높이는 데 매우 유용함."
+      },
+      {
+        "rank": 2,
+        "id": "6fe6af436d89cf4879926a6e082e3b9146df0b53550a34104d2a93d75909baf6",
+        "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4049909",
+        "published_at": "2026-11-16T16:55:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 코드만 남아 있던 14년 된 카페 관리도구를 AI와 함께 분석하고, Storybook과 MSW로 화면과 동작을 재현하며 새로운 카페 스튜디오를 개발했습니다. 이 과정에서 기획, 디자인, BE와의 협업 방식이 어떻게 달라졌는지 공유합니다. ​ 발표 대상 레거시 시스템 개편을 준비하는 개발자 AI를 실무에 활용하려는 엔지니어 화면과 정책을 함께 검증하며 협업하고 싶은 기획자·디자이너 ​ 목차 프로젝트 개요 구 카페 관리도구 분석 신규 스튜디오 개발 일하는 방식 마무리 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된…",
+        "category_score": 92,
+        "score_reason": "레거시 시스템을 AI로 분석하여 현대화하는 과정에서 기획·디자인·개발의 협업 구조 변화를 구체적으로 제시함.",
+        "keywords": [
+          "서비스 기획",
+          "UX 개편",
+          "협업 프로세스"
+        ],
+        "planning_insight": "레거시 시스템 리뉴얼 시 기획자와 디자이너가 AI 도구(Storybook, MSW 등)를 통해 정책을 검증하는 방식은 콘텐츠 운영의 효율성을 높이는 중요한 방법론임."
+      },
+      {
+        "rank": 3,
+        "id": "c346242bf66eba922a13c70984bb3e57ad3a991ff6cffbcc5aa2eb7a9d766cd4",
+        "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5976687",
+        "published_at": "2026-11-16T18:04:47+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 '자율 그래프 주도 개발(Autonomous Graph-Driven Development)'에서는 사람의 직접적인 지시 없이 그래프가 프로젝트 진행을 주도합니다. 스펙 문서와 코드는 AI Agent 루프가 작성하고, 결정론적 코드가 이를 기계적으로 검사하며, 결함은 피드백 루프를 통해 자동으로 바로잡습니다. 사람이 AI를 호출하던 주도권이 역전되어 이제는 AI가 필요할 때만 사람을 호출합니다. ​ ​ 발표 대상 자율 그래프 주도 개발 방법론에 관심있는 개발자나 기획자 ​ 목차 1. AI가 다 해 주는데, 뭐가 문제지? (배경 및 문제 정의) 여전히 사람이 주도한다 요구사항은 항상 변한다 AI 협업에 남은 빈자리, 자율 진행 ​ 2. 어떻게 스스로 굴러가게 할까? (접근 방법 및 실행 과정) Autonomous Graph-Driven Developmen…",
+        "category_score": 85,
+        "score_reason": "AI Agent가 프로젝트 주도권을 갖는 개발 구조는 미래형 제품 기획 및 자동화된 콘텐츠 제작 파이프라인 구축에 영감을 줌.",
+        "keywords": [
+          "AI Agent",
+          "개발 프로세스",
+          "자동화"
+        ],
+        "planning_insight": "AI가 스펙 정의 및 검수를 주도하는 구조는 기획의 정형화된 부분을 자동화하여 인간이 고부가가치 전략 수립에 집중할 수 있는 환경 구축 가능성을 시사함."
+      },
+      {
+        "rank": 4,
+        "id": "7dc56ecab29ad92fd93243ab383cb0f18c991d71587f2cfbaadcd014ee6002ff",
+        "title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/9994827",
+        "published_at": "2026-11-16T17:52:31+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 SNOW의 16개 Image AI 서비스에서 응답 속도와 안정성을 높이면서, H100 환산 약 67장의 GPU 자원을 절감한 경험을 공유합니다. LitServe 전환과 함께 불필요한 연산과 CPU·GPU의 대기 시간을 줄이고, 실제 트래픽에 맞게 설정을 조정하며, 여러 서비스가 GPU를 공유하도록 만든 과정을 소개합니다. ( English Version : ​ https://naver.me/xQJbNeuF ) ​ 발표 대상 Image AI 모델을 서비스로 운영하며 응답 속도와 GPU 자원 효율을 개선하고 싶은 엔지니어 ​ 목차 1. SNOW Image AI 서비스와 기존 서빙 구조의 문제 ​ 2. LitServe 전환 - 반복되는 이미지 인코딩·디코딩 제거 - CPU 전처리와 GPU 계산의 대기 시간 줄이기 ​ 3. 실제 트래픽에 맞춘 파라미터 조정…",
+        "category_score": 78,
+        "score_reason": "서비스 운영의 안정성과 비용 효율성을 위한 최적화 사례로, 대규모 트래픽 환경에서의 성능 전략을 보여줌.",
+        "keywords": [
+          "서비스 운영",
+          "비용 최적화",
+          "AI 서빙"
+        ],
+        "planning_insight": "기술 인프라적 측면이 강하나, 리소스 최적화가 곧 서비스 운영의 안정성(UX)으로 직결된다는 관점에서 제품 운영 전략의 교본이 됨."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
+        "id": "ff1644d9c881ac5793822b6c46a118d09c3cbad959d5e54364290eea2967c9fc",
+        "title": "AWS Emulator를 만든 자율 AI 에이전트 팀 비하인드 스토리",
+        "source": "AWS 한국 블로그",
+        "group": "ai_data",
+        "category": "cloud_data_infra",
+        "url": "https://aws.amazon.com/ko/blogs/korea/how-autonomous-ai-agents-built-aws-emulator/",
+        "published_at": "2026-11-16T22:44:57+09:00",
+        "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
+        "category_score": 98,
+        "score_reason": "자율 AI 에이전트가 코딩 및 테스트 자동화에 직접 활용된 실증 사례로, 생산성 혁신과 자동화 워크플로우 구축 측면에서 기획자에게 가장 실질적인 가치를 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "자동화",
+          "소프트웨어 개발"
+        ],
+        "planning_insight": "단순한 콘텐츠 생성을 넘어 에이전트가 업무 프로세스 자체를 자동화하는 '자율형 워크플로우' 설계가 향후 콘텐츠 운영의 핵심 경쟁력이 될 것임."
+      },
+      {
+        "rank": 2,
+        "id": "231d6e25b614d8e859ee468140b9f65d05e3240de608d7df762de9ba548de299",
+        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/openrouter",
+        "published_at": "2026-11-16T09:00:00+09:00",
+        "summary": "",
+        "category_score": 95,
+        "score_reason": "오픈 웨이트 모델의 접근성을 획기적으로 높이는 인프라 변화로, 기업이 자체 인프라에서 최적화된 LLM을 운영하는 기반이 됨.",
+        "keywords": [
+          "오픈소스",
+          "LLM",
+          "인프라"
+        ],
+        "planning_insight": "비용 효율적인 자체 모델 운영이 가능해짐에 따라, 데이터 보안을 준수하면서도 특화된 콘텐츠 추천 및 생성 모델을 구축하려는 기획자에게 필수적인 변화임."
+      },
+      {
+        "rank": 3,
         "id": "18592604e64ab480daae388a387312cf3c71e04a4bbfb662334c96a2cc53163a",
         "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
         "source": "arXiv cs.CL",
@@ -141,36 +237,17 @@
         "url": "https://arxiv.org/abs/2611.17766",
         "published_at": "2026-11-16T14:00:00+09:00",
         "summary": "arXiv:2611.17766v1 Announce Type: new Abstract: We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to. Together the files hold 2.18 million populated cells, and the rubrics 791 criteria. Agents work in a container with spreadsheet tools, and an agentic judge that can open the file applies the rubric. Completeness and exclusivity cri…",
-        "category_score": 95,
-        "score_reason": "실제 업무 환경에서의 데이터 처리 능력을 평가하는 벤치마크로, 기업 내 데이터 자동화 및 AI 도입 가능성을 직관적으로 보여줌.",
-        "keywords": [
-          "벤치마크",
-          "업무 자동화",
-          "데이터 분석"
-        ],
-        "planning_insight": "비즈니스 도메인별 AI 성능을 표준화하여 사내 업무 자동화 툴 도입 및 프로세스 최적화 시 지표로 활용 가능."
-      },
-      {
-        "rank": 2,
-        "id": "8c1724169cb4816ce160c8f6300a3976ae5a5593488b093b2d420f2eff7e5e8d",
-        "title": "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.17589",
-        "published_at": "2026-11-16T14:00:00+09:00",
-        "summary": "arXiv:2611.17589v1 Announce Type: new Abstract: Small open-weight language models can run crowd decision-making (CDM) on an institution's own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five open-weight models of 8-36B total parameters on one…",
         "category_score": 90,
-        "score_reason": "소규모 오픈소스 모델을 활용한 의사결정 자동화 방법론을 제시하며, 보안과 비용 효율성 측면에서 실무 활용 가치가 매우 높음.",
+        "score_reason": "실무 워크북/CSV 데이터를 다루는 LLM의 능력을 평가하는 벤치마크로, 데이터 분석 및 비즈니스 콘텐츠 자동화의 정확도와 연결됨.",
         "keywords": [
-          "오픈소스 LLM",
-          "의사결정",
-          "인프라"
+          "데이터 분석",
+          "벤치마크",
+          "실무 최적화"
         ],
-        "planning_insight": "사내 인프라 내에서 데이터 보안을 유지하며 AI 기반의 자동화된 의사결정 시스템을 구축하기 위한 아키텍처 수립에 유용."
+        "planning_insight": "데이터 기반 콘텐츠 제작 시 모델이 실무 문서(Excel 등)를 얼마나 잘 이해하고 처리하는지 평가 기준을 세우는 데 활용 가능함."
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": "c7cb1416fb45ecb8d5e884d62b8527ad0f19fc9aba8bc41b115c6ae887d0ccf1",
         "title": "Creating Steering Vectors via Input Optimisation",
         "source": "arXiv cs.CL",
@@ -179,113 +256,60 @@
         "url": "https://arxiv.org/abs/2611.17481",
         "published_at": "2026-11-16T14:00:00+09:00",
         "summary": "arXiv:2611.17481v1 Announce Type: new Abstract: Activation steering influences a language model's behaviour by adding a steering vector to its residual stream during generation, but it requires white-box access to modify the hidden states at every generation step. We introduce ActGCG, a modification of Greedy Coordinate Gradient which optimises a suffix to match the target activations obtained by adding a steering vector to the residual stream. We further introduce universal suffixes trained ac…",
-        "category_score": 88,
-        "score_reason": "LLM의 출력 방향을 정밀하게 제어하는 기술(Steering Vectors)은 콘텐츠 톤앤매너 및 브랜드 가이드라인 준수를 위한 핵심 기술임.",
+        "category_score": 85,
+        "score_reason": "LLM의 출력을 제어하는 기술적 방법론으로, 콘텐츠의 톤앤매너 및 의도한 방향으로 모델의 응답을 통제하는 기법임.",
         "keywords": [
           "Activation Steering",
-          "컨트롤",
-          "LLM 제어"
+          "출력 제어",
+          "프롬프트 엔지니어링"
         ],
-        "planning_insight": "생성형 AI의 일관된 브랜드 보이스 유지를 위해 프롬프트 엔지니어링을 넘어선 모델 수준의 제어 전략을 고민할 필요가 있음."
-      },
-      {
-        "rank": 4,
-        "id": "aa9417f5beff2f463814b206b0f2fad8d607c390d69f089a3d48648f5dbea7ea",
-        "title": "Tracing Knowledge and Reasoning in LLM",
-        "source": "arXiv cs.CL",
-        "group": "ai_data",
-        "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.17461",
-        "published_at": "2026-11-16T14:00:00+09:00",
-        "summary": "arXiv:2611.17461v1 Announce Type: new Abstract: Current evaluations of Large Language Models (LLMs) report performance at the dataset or task level, revealing what a model achieves but offering little insight into the internal processing associated with its performance. We propose a task-centric framework for characterising the model-internal processing elicited by a benchmark. It combines attention- and activation-based signals with representation-based measures to characterise benchmarks span…",
-        "category_score": 85,
-        "score_reason": "모델 내부의 지식 추론 과정을 추적하는 프레임워크로, AI가 생성한 결과물의 논리적 근거를 검증할 수 있는 기초가 됨.",
-        "keywords": [
-          "추론 분석",
-          "설명 가능한 AI",
-          "모델 평가"
-        ],
-        "planning_insight": "AI 생성 콘텐츠의 신뢰도 확보 및 오류(환각) 방지를 위한 모니터링 체계 설계 시 참고할 수 있는 학술적 근거."
+        "planning_insight": "브랜드 고유의 보이스를 유지하거나 특정 방향으로 콘텐츠를 정교하게 유도해야 하는 에이전트 서비스 기획 시 유용한 기술적 인사이트를 제공함."
       },
       {
         "rank": 5,
-        "id": "70eed8241e6b40ea6b4c7625e65e016c7e019c08b6c5cb3373216ebacaffe22f",
-        "title": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+        "id": "8c1724169cb4816ce160c8f6300a3976ae5a5593488b093b2d420f2eff7e5e8d",
+        "title": "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.17563",
+        "url": "https://arxiv.org/abs/2611.17589",
         "published_at": "2026-11-16T14:00:00+09:00",
-        "summary": "arXiv:2611.17563v1 Announce Type: new Abstract: A benchmark usually measures a language model alone with a question, and deployment rarely looks like that: answers get contested, and models give up correct ones under counter-reasoning that is itself wrong. We show that what fails there is not a shortfall of accuracy but a capability in its own right -- knowing when to hold a position and when to yield to a better one -- which we call dialectical competence. It stands on first-answer accuracy wi…",
+        "summary": "arXiv:2611.17589v1 Announce Type: new Abstract: Small open-weight language models can run crowd decision-making (CDM) on an institution's own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five open-weight models of 8-36B total parameters on one…",
         "category_score": 82,
-        "score_reason": "고정된 벤치마크를 넘어 실제 사용자와의 상호작용 속에서 AI가 학습하고 답변을 개선하는 방식에 대한 통찰을 제공함.",
+        "score_reason": "소규모 모델의 군중 의사결정 활용 가능성을 다루며, 대규모 모델 없이도 효율적인 시스템을 구성할 수 있는 대안을 제시함.",
         "keywords": [
-          "자기 비판",
-          "학습 모델",
-          "실사용자 피드백"
+          "소형 언어 모델",
+          "의사결정",
+          "효율성"
         ],
-        "planning_insight": "정적인 데이터셋 학습을 넘어 사용자 피드백 루프를 통한 콘텐츠 자동 추천 알고리즘의 진화 모델 수립에 활용 가능."
+        "planning_insight": "비용과 리소스 문제로 대형 LLM 도입이 어려운 경우, 소형 모델들을 조합하여 정교한 콘텐츠 기획 및 의사결정 보조 도구를 설계하는 전략적 대안으로 활용 가능함."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "18592604e64ab480daae388a387312cf3c71e04a4bbfb662334c96a2cc53163a",
-      "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.17766",
-      "published_at": "2026-11-16T14:00:00+09:00",
-      "summary": "arXiv:2611.17766v1 Announce Type: new Abstract: We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to. Together the files hold 2.18 million populated cells, and the rubrics 791 criteria. Agents work in a container with spreadsheet tools, and an agentic judge that can open the file applies the rubric. Completeness and exclusivity cri…",
-      "category_score": 95,
-      "score_reason": "실제 업무 환경에서의 데이터 처리 능력을 평가하는 벤치마크로, 기업 내 데이터 자동화 및 AI 도입 가능성을 직관적으로 보여줌.",
+      "id": "6841cec7a1202526c2f2e9cea25920e4776e6eba697d4e0836f22a08a8346441",
+      "title": "오픈AI, '챗GPT 월렛' 출시…AI가 상품 구매부터 결제까지",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115102351",
+      "published_at": "2026-11-15T12:11:49+09:00",
+      "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 선보였다.사용자가 결제 카드를 한 번 등록하면 AI가 상품 구매 절차를 진행하고 사용자는 생체인증으로 최종 결제만 승인하는 방식이다. 실제 카드 정보를 AI나 판매업체에 노출하지 않으면서 기존 카드 혜택과 소비자 보호 기능도 유지하도록 설계했다.15일 오픈AI는 아메리칸 익스프레스, 마스터카드, 비자와 협력해 챗GPT 월렛을 출시했다고 밝혔다. 서비스는 미국의 만 18세 이상 챗GPT 프로 가입자를 대상으로 개인 AI 에이전트 '닷(Dot)'을 통해 순차적으로 제공된다.챗GPT 월렛은 AI가 상품 검색과 비교를 넘어 실제 구매까지 수행하도록 지원하는 결제 서비스다. 사용자는 닷에 원하는 상품을 찾아 구매하도록 요청하고, 결제 단계에서 상품과 금액, 결제 카드 등을 확인한 뒤 승인하면 된다.결제할 때마다 페이스ID나 지문 인식…",
+      "category_score": 98,
+      "score_reason": "AI가 단순 정보 제공을 넘어 직접 상품 구매와 결제까지 수행하는 '에이전트 커머스'의 실질적 사례로, 플랫폼 경제의 패러다임을 바꿀 강력한 신호임.",
       "keywords": [
-        "벤치마크",
-        "업무 자동화",
-        "데이터 분석"
+        "AI 에이전트",
+        "커머스",
+        "에이전트 선택 최적화"
       ],
-      "planning_insight": "사내 업무 자동화 툴 도입 시 성능 검증 지표로 활용하며, 조직 내 데이터 기반 의사결정 체계를 구축하는 리포트나 가이드 제작에 활용 가능",
-      "integrated_score": 96,
+      "planning_insight": "검색 엔진 최적화(SEO)에서 AI 에이전트의 선택을 받기 위한 'AEO(Agent Engine Optimization)'로의 마케팅 전략 전환이 시급함.",
+      "integrated_score": 98,
       "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 24
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "실제 비즈니스 데이터(엑셀/CSV) 처리를 위한 고도화된 AI 벤치마크 'GDP.xlsx' 등장",
-      "importance_reason": "추상적인 AI 성능 평가가 아닌 실무 업무와 직결된 데이터 처리 능력 평가 기준을 제시하여 기업 도입의 가이드라인이 됨"
-    },
-    {
-      "rank": 2,
-      "id": "8c1724169cb4816ce160c8f6300a3976ae5a5593488b093b2d420f2eff7e5e8d",
-      "title": "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.17589",
-      "published_at": "2026-11-16T14:00:00+09:00",
-      "summary": "arXiv:2611.17589v1 Announce Type: new Abstract: Small open-weight language models can run crowd decision-making (CDM) on an institution's own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five open-weight models of 8-36B total parameters on one…",
-      "category_score": 90,
-      "score_reason": "소규모 오픈소스 모델을 활용한 의사결정 자동화 방법론을 제시하며, 보안과 비용 효율성 측면에서 실무 활용 가치가 매우 높음.",
-      "keywords": [
-        "오픈소스 LLM",
-        "의사결정",
-        "인프라"
-      ],
-      "planning_insight": "보안 이슈로 AI 도입을 주저하는 기업들을 대상으로 '프라이빗 AI 구축 전략' 콘텐츠 기획 및 기술 리서치 자료로 활용",
-      "integrated_score": 93,
-      "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 24,
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
         "market_consumer_impact": 23
       },
       "applied_criteria": [
@@ -294,41 +318,74 @@
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "보안과 비용 효율을 극대화하는 소규모 오픈소스 LLM 기반 의사결정 자동화 방법론",
-      "importance_reason": "기업이 외부 인프라에 의존하지 않고 사내 데이터를 활용한 독자적 판단 시스템을 구축할 수 있는 실현 가능한 대안"
+      "one_line_summary": "오픈AI의 '챗GPT 월렛' 출시로 시작된 에이전트 기반 커머스 시대",
+      "importance_reason": "AI가 단순 검색을 넘어 실제 구매 결정을 대행하는 '에이전트 커머스'의 본격화는 마케팅 채널 전략의 근본적 변화를 예고함."
     },
     {
-      "rank": 3,
-      "id": "7fc0d7695f5634484b685d15d3c3db6f65f3e460186545ce741601c72ba94b07",
-      "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261113200433",
-      "published_at": "2026-11-15T09:00:02+09:00",
-      "summary": "[지디넷코리아]LG유플러스가 AI 통화앱 익시오와 AI 컨택센터(AICC) 등 실제 서비스에서 쌓은 운영 경험을 바탕으로 내년 기업 대상 토큰 중계 사업에 진출한다. 업무에 맞는 AI 모델과 인프라를 조합해 서비스 품질을 유지하면서 기업의 AI 이용 비용을 낮춘다는 전략이다.이혜진 LG유플러스 기술전략담당은 지난 12일 서울 서대문구 위드스페이스에서 열린 AI 토큰 최적화 스터디에서 “토큰 효율화는 개발자만의 방법론이 아니라, 기업이 적자를 피하고 서비스를 효율화하기 위한 필수 기준”이라며 “하드웨어부터 플랫폼, 에이전트, 모델 라우팅에 이르는 토큰 최적화 기술이 기업의 마진과 투자수익률(ROI)을 바꾼다”고 말했다.토큰은 AI가 입력과 출력을 처리하는 텍스트 단위로, 이용 비용을 산정하는 기준이다. AI 에이전트가 검색과 분석, 검증을 반복하며 업무를 수행할수록 사용량이 늘어나는 만큼, 모델별 단가와 함께 전체 처리 과정의 효율을 높이는 것이 중요해지고 있다.LG유플러스는 추론…",
-      "category_score": 51,
-      "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "rank": 2,
+      "id": "ff1644d9c881ac5793822b6c46a118d09c3cbad959d5e54364290eea2967c9fc",
+      "title": "AWS Emulator를 만든 자율 AI 에이전트 팀 비하인드 스토리",
+      "source": "AWS 한국 블로그",
+      "group": "ai_data",
+      "category": "cloud_data_infra",
+      "url": "https://aws.amazon.com/ko/blogs/korea/how-autonomous-ai-agents-built-aws-emulator/",
+      "published_at": "2026-11-16T22:44:57+09:00",
+      "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
+      "category_score": 98,
+      "score_reason": "자율 AI 에이전트가 코딩 및 테스트 자동화에 직접 활용된 실증 사례로, 생산성 혁신과 자동화 워크플로우 구축 측면에서 기획자에게 가장 실질적인 가치를 제공함.",
       "keywords": [
-        "AI",
-        "토큰 효율화",
-        "비용 최적화"
+        "자율 AI 에이전트",
+        "자동화 워크플로우",
+        "생산성"
       ],
-      "planning_insight": "비용 효율적인 마케팅 자동화 및 AI 에이전트 도입을 고려하는 서비스 기획자를 위한 인사이트 카드뉴스 제작 가능",
-      "integrated_score": 90,
+      "planning_insight": "콘텐츠 제작 및 운영 파이프라인에 '사람이 지시하고 AI가 실행'하는 단계를 넘어, 'AI가 주도하고 사람이 검토'하는 자율 워크플로우 도입 검토 필요.",
+      "integrated_score": 96,
       "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 23,
-        "market_consumer_impact": 22
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "기업 AI 수익성(ROI) 확보를 위한 필수 전략, '토큰 최적화' 시대의 도래",
-      "importance_reason": "단순한 AI 기술 도입 단계를 넘어, 실제 운영 비용 절감과 효율화가 서비스 성패를 좌우하는 핵심 KPI가 됨"
+      "one_line_summary": "자율 AI 에이전트 팀이 주도하는 테스트 및 코드 자동화 실증",
+      "importance_reason": "AI가 인간의 개입 없이 스스로 문제를 발견하고 수정하는 수준까지 도달하여 업무 프로세스의 자동화 임계치를 돌파함."
+    },
+    {
+      "rank": 3,
+      "id": "8d2ee809a81d63d27e597f03456abb0b64035dae585c2d980b80ed95f2e4b3dc",
+      "title": "알리바바, 2조 4000억 파라미터 AI '큐원4-맥스' 공개…추론 비용 60% 절감",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261117085635",
+      "published_at": "2026-11-17T08:56:55+09:00",
+      "summary": "[지디넷코리아]알리바바가 인공지능(AI) 모델 추론 비용을 줄이면서 복잡한 작업 수행 능력을 강화한 대규모언어모델(LLM) '큐원4-맥스(Qwen4-Max)'를 선보였다.기존 모델과 동일한 2조 4000억 개 파라미터를 유지하면서 실제 연산에 사용하는 파라미터를 25% 줄인 것이 특징이다. 이를 통해 성능을 높이는 동시에 작업당 평균 비용을 약 60% 낮췄다는 설명이다.알리바바는 17일 큐원 시리즈의 최신 모델인 큐원4-맥스를 공개하고 클라우드 플랫폼을 통한 서비스 제공을 시작했다고 밝혔다.큐원4-맥스는 희소 전문가 혼합(MoE) 아키텍처를 기반으로 설계됐다. 전체 2조 4000억 개 파라미터 가운데 토큰 처리 시 710억 개만 활성화한다. 이전 모델인 큐원3.8-맥스보다 활성 파라미터를 25% 줄여 연산 효율을 개선했다.최대 100만 토큰의 컨텍스트 윈도우와 이미지 정보를 직접 처리하는 네이티브 비전 기능도 지원한다. 대규모 문서 분석이나 장시간에 걸친 복합 작업, 시각 정보 기…",
+      "category_score": 95,
+      "score_reason": "AI 모델의 파라미터 효율화와 추론 비용 60% 절감은 기술적 완성도와 수익성이라는 두 마리 토끼를 잡는 트렌드로, 향후 AI 서비스 대중화의 핵심 변수임.",
+      "keywords": [
+        "LLM 효율화",
+        "추론 비용 절감",
+        "인프라"
+      ],
+      "planning_insight": "AI 서비스 구축의 경제성이 확보됨에 따라, 초개인화된 실시간 콘텐츠 생성 등 기존 비용 문제로 포기했던 프로젝트를 재검토할 최적의 시점.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "알리바바 '큐원4-맥스', 성능 개선 및 추론 비용 60% 절감",
+      "importance_reason": "AI 모델의 비용 효율화는 대중적인 B2C 서비스에 고성능 AI 탑재가 가능해짐을 의미하며, 서비스 기획의 제약 조건을 해소하는 신호임."
     },
     {
       "rank": 4,
@@ -340,82 +397,83 @@
       "url": "https://d2.naver.com/helloworld/1599966",
       "published_at": "2026-11-16T12:16:10+09:00",
       "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 네이버의 검색·피드·광고 등 다양한 도메인의 데이터와 추천 기술을 연결하는 버티컬 추천 모델의 개발 및 서비스 적용 경험을 소개하고, 서빙·최적화와 지식 증류를 통한 도메인 간 지식 전이 방향을 공유합니다. ​ 발표 대상 여러 서비스 및 도메인의 사용자 행동 데이터를 활용한 크로스 도메인 추천에 관심 있는 분 시퀀스 기반 추천, 생성형 추천 등 다양한 추천 모델의 개발 및 서비스 적용에 관심 있는 분 대규모 추천 모델의 실시간 추론 및 GPU 서빙 최적화에 관심 있는 분 Foundation Model의 지식을 경량 모델로 전이하는 Knowledge Distillation 기술에 관심 있는 분 ​ 목차 Part 1. 개발 배경과 목표 Part 2. VMs 시스템 구조 Part 3. VMs: 리트리버와 통합 랭커 Part 4. 지면별 적용 현황과 성과 Par…",
-      "category_score": 62,
-      "score_reason": "추천, 검색, 데이터 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "category_score": 98,
+      "score_reason": "사용자 행동 데이터 기반의 크로스 도메인 추천 모델과 지식 전이 전략은 콘텐츠 개인화 및 사용자 경험 최적화에 직결되는 핵심 인사이트를 제공함.",
       "keywords": [
-        "추천 모델",
-        "데이터 연결",
-        "지식 전이"
+        "크로스 도메인 추천",
+        "데이터 통합",
+        "사용자 경험"
       ],
-      "planning_insight": "개인화 마케팅이나 커머스 데이터 최적화에 관심 있는 실무자를 대상으로 한 기술 블로그 분석 콘텐츠 혹은 리포트 작성",
-      "integrated_score": 88,
+      "planning_insight": "콘텐츠 전략 수립 시 타겟 고객의 특정 행동뿐만 아니라, 다양한 도메인에서의 여정을 아우르는 '통합 사용자 맥락 모델' 구축에 집중해야 함.",
+      "integrated_score": 92,
       "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 21
+        "content_strategy": 25,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "네이버의 전 지면 사용자 행동 데이터를 활용한 크로스 도메인 추천 모델 개발 경험 공유",
-      "importance_reason": "대규모 서비스에서 파편화된 데이터를 통합해 개인화 정밀도를 높이는 기술적 흐름을 명확히 보여줌"
+      "one_line_summary": "네이버의 전 지면 사용자 행동을 연결하는 크로스 도메인 추천 모델 개발",
+      "importance_reason": "단일 서비스 데이터를 넘어 플랫폼 전체의 맥락을 읽는 모델은 사용자의 파편화된 행동을 연결하여 정교한 타겟팅을 가능하게 함."
     },
     {
       "rank": 5,
-      "id": "c7cb1416fb45ecb8d5e884d62b8527ad0f19fc9aba8bc41b115c6ae887d0ccf1",
-      "title": "Creating Steering Vectors via Input Optimisation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.17481",
-      "published_at": "2026-11-16T14:00:00+09:00",
-      "summary": "arXiv:2611.17481v1 Announce Type: new Abstract: Activation steering influences a language model's behaviour by adding a steering vector to its residual stream during generation, but it requires white-box access to modify the hidden states at every generation step. We introduce ActGCG, a modification of Greedy Coordinate Gradient which optimises a suffix to match the target activations obtained by adding a steering vector to the residual stream. We further introduce universal suffixes trained ac…",
-      "category_score": 88,
-      "score_reason": "LLM의 출력 방향을 정밀하게 제어하는 기술(Steering Vectors)은 콘텐츠 톤앤매너 및 브랜드 가이드라인 준수를 위한 핵심 기술임.",
+      "id": "31afaf69f9e453a830b1376439834e36880c6c0a40cd575f18bdad0baa74970e",
+      "title": "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115122232",
+      "published_at": "2026-11-15T12:23:41+09:00",
+      "summary": "[지디넷코리아]현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다.현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다.AI-REAL은 실제 쇼호스트의 출연이나 카메라 촬영 없이 AI가 방송에 필요한 음성과 영상을 생성하는 시스템이다. 기존 홈쇼핑 방송에서 일부 장면이나 쇼호스트를 AI로 대체한 사례는 있었지만, 방송 전체를 AI로 제작하는 것은 업계 최초라는 설명이다.현대홈쇼핑은 AI를 활용해 기존 실물 촬영 방식으로 표현하기 어려웠던 상품 정보도 시각화할 계획이다. 농산물의 산지 토양 상태나 유통 과정, 식품…",
+      "category_score": 92,
+      "score_reason": "전통적인 홈쇼핑이 쇼호스트 없이 100% AI 방송으로 전환하는 것은 미디어 제작 산업의 근본적인 효율화 및 개인화 흐름을 극명하게 보여줌.",
       "keywords": [
-        "LLM 제어",
-        "브랜드 보이스",
-        "컨트롤"
+        "AI 방송",
+        "홈쇼핑",
+        "생성형 콘텐츠"
       ],
-      "planning_insight": "브랜드 마케팅팀의 AI 활용 가이드라인 수립 시 모델 수준의 통제 기법을 반영한 체계적인 실무 가이드 작성 가능",
-      "integrated_score": 85,
+      "planning_insight": "실물 촬영 기반의 고비용 콘텐츠를 AI 생성 콘텐츠로 전환할 수 있는 가능성을 확인. 개인 맞춤형 상품 정보 자동 생성 등의 고효율 채널 전략 수립 필수.",
+      "integrated_score": 90,
       "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 21,
-        "market_consumer_impact": 21
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
       },
       "applied_criteria": [
         "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
+        "시장·소비자 영향력"
       ],
-      "one_line_summary": "프롬프트를 넘어 모델 수준에서 브랜드 톤앤매너를 제어하는 'Steering Vectors' 기술",
-      "importance_reason": "AI 콘텐츠의 일관성 및 브랜드 정체성 유지 문제를 해결할 수 있는 한 차원 높은 기술적 방법론"
+      "one_line_summary": "현대홈쇼핑, 쇼호스트 없는 '100% AI 방송' 정규 편성",
+      "importance_reason": "기존 방송 산업의 필수 인력과 물리적 한계를 AI가 극복함에 따라 미디어 콘텐츠의 제작 비용과 방식이 근본적으로 변하고 있음."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 66,
+      "count": 67,
       "groups": [
         "ai_data",
-        "news"
+        "news",
+        "tech_blog"
       ],
       "sources": [
+        "AWS 한국 블로그",
         "BBC Technology",
         "NYT Technology",
         "ZDNet Korea",
-        "arXiv cs.CL",
-        "매일경제 기업"
+        "arXiv cs.CL"
       ]
     },
     {
       "keyword": "데이터",
-      "count": 15,
+      "count": 17,
       "groups": [
         "news",
         "tech_blog"
@@ -438,7 +496,7 @@
       ]
     },
     {
-      "keyword": "분석",
+      "keyword": "브랜드",
       "count": 10,
       "groups": [
         "news"
@@ -449,30 +507,30 @@
       ]
     },
     {
-      "keyword": "UI",
-      "count": 8,
+      "keyword": "분석",
+      "count": 10,
       "groups": [
-        "ai_data",
-        "news"
+        "news",
+        "tech_blog"
       ],
       "sources": [
-        "BBC Technology",
         "ZDNet Korea",
-        "arXiv cs.CL"
+        "네이버 D2",
+        "매일경제 기업"
       ]
     }
   ],
   "overall_summary": [
-    "오늘의 흐름은 AI의 도입 단계를 넘어 '비용 효율화(토큰 최적화)'와 '정밀한 제어(Steering Vectors)'를 통한 실무 통합 단계로 진입하고 있음을 보여줍니다.",
-    "특히 기업 인프라 내부에서 안전하고 정밀하게 데이터를 처리하고 의사결정하는 'Closed-loop' 형태의 AI 아키텍처에 대한 수요가 커지고 있습니다.",
-    "기획자들은 이제 AI의 성능을 막연히 기대하기보다 업무 자동화 벤치마크와 데이터 간의 연결성을 체계적으로 설계해야 하는 중요한 시점입니다."
+    "AI가 단순 정보 제공에서 벗어나 결제(에이전트) 및 콘텐츠 제작(방송)의 주체로 진화하며 서비스 효율성이 극대화되고 있습니다.",
+    "기술적 측면에서는 모델 효율화와 인프라 최적화가 가속화되어, 기업들이 보안과 경제성을 갖춘 자체 AI 환경을 구축할 수 있는 여건이 마련되었습니다.",
+    "기획자들은 이제 단순 콘텐츠 생성을 넘어, AI 에이전트가 주도하는 워크플로우를 이해하고 플랫폼 전체 데이터를 관통하는 전략적 접근이 필요합니다."
   ],
   "method": "gemini",
-  "fallback_used": true,
+  "fallback_used": false,
   "gemini_call_count": 4,
   "category_methods": {
-    "news": "fallback",
-    "tech_blog": "fallback",
+    "news": "gemini",
+    "tech_blog": "gemini",
     "ai_data": "gemini"
   }
 }
