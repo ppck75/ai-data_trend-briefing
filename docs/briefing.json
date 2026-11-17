@@ -1,6 +1,6 @@
 {
-  "briefing_date": "2026-11-17",
-  "generated_at": "2026-11-17T21:18:11.216554+09:00",
+  "briefing_date": "2026-11-18",
+  "generated_at": "2026-11-18T02:47:38.252429+09:00",
   "source_total": 200,
   "category_counts": {
     "news": 181,
@@ -11,98 +11,98 @@
     "news": [
       {
         "rank": 1,
-        "id": "b07f4851fe09836058e3b1e4eee523915664a199db06c2a0f68be15ca4bf49ec",
-        "title": "워시 美연준 의장 \"AI 기대 못 미치면 주가 하락·경기 둔화\"",
+        "id": "b76329036392ac1b31a4e2824bb3026ad7b57f05798bcfe6f09f0cfd8231b5c4",
+        "title": "[기고] AI가 기업 운영 중심으로…2027년 달라질 6가지",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261117081317",
-        "published_at": "2026-11-17T08:13:17+09:00",
-        "summary": "[지디넷코리아]케빈 워시 미국 연방준비제도(연준) 의장이 인공지능(AI)을 넘어선 '초지능(Super Intelligence·SI)'이 대규모 투자 대비 기대에 못 미칠 경우 주식 가치 평가(밸류에이션) 하락과 경기 둔화, 실업률 상승을 촉발할 수 있다고 경고했다.워시 의장은 16일(현지시간) 미국 캘리포니아주 샌프란시스코 연방준비은행에서 연준 이사회와 샌프란시스코 연은이 공동 주최한 '생산성과 일자리 태스크포스(TF) 콘퍼런스' 개회사에서 \"SI가 기대에 못 미칠수도 있다\"며 이같이 밝혔다. 그는 \"막대한 자본투자와 주가 상승 이후 기대 수익률이 꺾이고 주식 밸류에이션이 하락하면서 경기 둔화와 더 뚜렷한 실업률 상승으로 이어질 수 있다\"며 \"시간이 지나면 경제는 회복되겠지만 생산성 향상 효과는 얻지 못할 것\"이라고 말했다.이번 발언은 연준이 기술 변화에 찬성하거나 반대하는 입장을 취하는 것이 아니라, 급변하는 환경 속에서 통화정책을 준비하기 위한 '비상 계획(contingency…",
+        "url": "https://zdnet.co.kr/view/?no=20261117173341",
+        "published_at": "2026-11-17T17:41:11+09:00",
+        "summary": "[지디넷코리아]올해는 기업들이 인공지능(AI)을 실험 단계에서 업무 현장으로 확대하는 데 집중한 한 해였다. 아시아태평양 및 일본(APJ) 지역 기업들은 실질적인 AI 활용에 속도를 냈으며 일부는 이미 AI 에이전트를 일상 업무에 도입하기 시작했다. 반면 상당수 기업은 여전히 데이터 관리와 거버넌스, 비용 등 AI를 본격적으로 운영하는 과정에서 발생하는 과제를 해결하고 있다.내년에는 보다 근본적인 변화가 나타날 전망이다. AI 경쟁력을 확보하는 기업은 AI를 안정적이고 효율적으로 운영하는 데 그치지 않고, AI를 중심으로 기업 운영 방식 자체를 재편할 것이다. 실시간 데이터를 분석하고 추론하는 AI의 역량이 고도화되면서 AI는 개별 업무를 지원하는 도구를 넘어 기업 운영의 핵심으로 자리 잡게 될 것이다.기업들은 오랫동안 데이터베이스와 문서, 업무상 대화 등을 조직 주요 지식 자산으로 관리해 왔다. 그러나 AI 에이전트가 다양한 업무를 수행하며 새로운 정보와 결과물을 생성하면서 기업…",
         "category_score": 98,
-        "score_reason": "AI 기술 투자 대비 실질적인 생산성 증명 여부가 향후 주식 시장과 글로벌 경기 전반을 결정짓는 핵심 변수로 부상함.",
+        "score_reason": "AI 데이터센터 확산에 따른 인프라 시장의 급격한 변화를 다루며, 이는 향후 수년간 지속될 산업계 핵심 트렌드임.",
         "keywords": [
           "AI",
-          "경제",
-          "시장변화"
+          "데이터센터",
+          "전력인프라"
         ],
-        "planning_insight": "기술 만능주의적 접근에서 벗어나 AI의 투자 ROI를 검증하려는 시장의 움직임에 주목한 콘텐츠 구성 필요."
+        "planning_insight": "AI 인프라 수요가 단순 하드웨어(GPU)를 넘어 전력 관리(ESS) 분야로 확장됨을 확인. AI 투자 가치사슬 전반을 조망하는 산업 분석 콘텐츠 기획 필요."
       },
       {
         "rank": 2,
-        "id": "a81e5c48dc5a11bc28f3be619da25a4bf2650735e16f6b919615d556ef0d0df4",
-        "title": "[AI는 지금] '19금' 캐릭터챗 심의 초읽기…업계, 청소년 보호 고삐",
+        "id": "7c17f8cce10c24b31c5eed80880788b86fcda0afcaa644277c60bd09df94dcb2",
+        "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261117154347",
-        "published_at": "2026-11-17T16:54:05+09:00",
-        "summary": "[지디넷코리아]규제당국이 국내 인공지능(AI) 캐릭터 채팅 서비스에 대한 청소년유해매체물 심의 절차에 들어간 가운데 사업자들이 안전 관리 체계 개편에 나섰다. 글로벌 앱 유통 플랫폼도 이용 연령 기준을 강화하면서 AI 콘텐츠 검수와 청소년 접근 제한 등 보호조치가 업계 과제로 떠오른 모습이다.17일 업계에 따르면 방송미디어통신심의위원회는 최근 '제타' 운영사 스캐터랩과 '크랙' 운영사 뤼튼테크놀로지스 등 복수 AI 채팅 서비스 사업자에 청소년유해매체물 심의 관련 사전 통지 공문을 발송했다. 현재 사업자 의견을 수렴하는 단계로, 최종 지정 여부는 결정되지 않았다.AI 캐릭터 채팅 서비스는 이용자가 가상 캐릭터를 선택해 자유롭게 대화를 나누거나 이야기를 전개하는 방식으로 운영된다. 이용자가 직접 캐릭터와 상황을 설정할 수 있고 대화 내용도 실시간 생성돼 사전에 마련된 콘텐츠 검수만으로 유해정보를 관리하기 어렵다는 문제가 제기돼 왔다.청소년 이용 비중도 높다. 모바일인덱스에 따르면 지난…",
+        "url": "https://zdnet.co.kr/view/?no=20261115205153",
+        "published_at": "2026-11-15T20:54:24+09:00",
+        "summary": "[지디넷코리아]세무사시험 수석합격자가 인공지능(AI)을 활용한 부정행위를 시인하면서 정부가 국가자격시험 전반에 대한 전수조사에 나선다. 나흘 앞으로 다가온 대학수학능력시험에서도 유사한 부정행위가 발생하지 않도록 AI 기기 점검 절차를 마련하고 시험장 관리·감독을 강화하기로 했다.청와대는 15일 하준경 정책실장 주재로 'AI 활용 부정시험 확산 방지 긴급대책회의'를 개최했다고 밝혔다.이번 회의는 최근 세무사시험 수석합격자가 AI 기술을 이용해 부정행위를 저질렀다고 인정한 데 따른 것이다. 해당 합격자는 세무사 1·2차 시험에서 초소형 카메라와 생성형 AI 등을 활용해 부정행위를 했다고 시인했다. 공인회계사 1차 시험에서도 같은 방식으로 부정행위를 했다고 밝힌 것으로 알려졌다.정부는 AI 기술을 악용한 부정행위가 다른 국가시험에서도 발생했을 가능성을 살펴보기 위해 국가자격시험 전체를 대상으로 AI 활용 부정행위 의심 사례를 전수조사하기로 했다.경찰 등 수사기관은 부정시험 관련 사건이…",
         "category_score": 95,
-        "score_reason": "AI 콘텐츠의 윤리 및 심의 문제는 플랫폼의 정책 변화와 청소년 보호 가이드라인이라는 구체적인 시장 변화 신호임.",
+        "score_reason": "AI의 일상화로 인한 사회적 부작용(부정시험)이 정부 차원의 규제 논의로 직결된 사례로, AI 기술 악용에 대한 윤리·보안 담론의 시발점.",
         "keywords": [
           "AI",
-          "규제",
-          "플랫폼"
+          "사회적 규제",
+          "보안"
         ],
-        "planning_insight": "AI 캐릭터 시장의 성장에 따른 '안전한 AI' 담론을 선점하고, 플랫폼 정책 변화가 창작 생태계에 미칠 영향 분석."
+        "planning_insight": "AI 에이전트와 초소형 기기 결합에 따른 'AI 리터러시 및 윤리 이슈'는 대중의 관심이 높은 토픽임. 관련 기술 제재 대책과 보안 강화 트렌드에 대한 콘텐츠 생산 가치가 큼."
       },
       {
         "rank": 3,
-        "id": "209f158e025160370004ec4132e7065dd72a5cfe2ede6d845e0d962f00decc18",
-        "title": "MLCC 리드타임 최대 10달로 확대...AI 투자 영향",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261117153544",
-        "published_at": "2026-11-17T17:15:44+09:00",
-        "summary": "[지디넷코리아]적층세라믹커패시터(MLCC) 수급난이 이달 더 심해졌다. 인공지능(AI) 데이터센터를 중심으로 MLCC 수요가 폭증한 영향이다. 삼성전기 등 주요 기업의 중장기 수혜가 기대된다. 17일 시장조사업체 트렌드포스에 따르면 MLCC 리드타임은 '심각한 부족(Very Tight)' 수준으로 격상됐다. 리드타임은 제품 주문부터 실제 공급까지 필요한 시간이다. 고객 수요가 과잉될수록 리드타임이 길어진다. MLCC의 경우 적정 리드타임은 12주로 평가된다. 트렌드포스의 지난 9월 말 집계 당시 MLCC 리드타임은 32주로 '부족(Tight)' 수준이었다. 그러나 이달 중순 집계에서 리드타임이 40주로 8주 늘면서 공급난이 심화됐다.MLCC 공급난은 글로벌 빅테크 기업의 AI 인프라 투자 열기 심화 영향이다. MLCC는 전기를 저장했다가 반도체에 안정적으로 공급해 원활한 동작을 돕고 부품 간 신호 간섭을 막는다. AI 서버용 MLCC는 고온·고전압 환경에서 24시간 가동을 견뎌야…",
-        "category_score": 92,
-        "score_reason": "데이터센터 인프라(MLCC) 부족 사태는 AI 생태계가 물리적 하드웨어 제약에 도달했음을 보여주는 강력한 지표임.",
-        "keywords": [
-          "AI",
-          "인프라",
-          "데이터센터"
-        ],
-        "planning_insight": "단순 소프트웨어 이슈를 넘어 AI 경제가 실제 산업 공급망에 미치는 영향력을 시각화한 리포트 발행."
-      },
-      {
-        "rank": 4,
-        "id": "62a3d803fa3a2aceac923eb98d708bd15cef2b4adc9c5ac29a0aeae953e3af6e",
-        "title": "AI 커닝 막을 방법 있다...사고 전에 이미 존재",
-        "source": "ZDNet Korea",
-        "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261116234852",
-        "published_at": "2026-11-16T23:48:52+09:00",
-        "summary": "[지디넷코리아]제63회 세무사 시험 수석 합격자 A씨가 어제(15일) 부정행위를 자백했다. 초소형 카메라로 시험 문제를 찍어 생성형 AI에 보내고, 스마트폰으로 답을 확인했다는 내용이다. 같은 날 고용노동부와 한국산업인력공단은 비상대책회의를 열어 올해 치른 국가자격시험 528개 종목을 모두 조사하기로 했다. 이튿날에는 재정경제부가 대응 태스크포스를 꾸렸다. 전파탐지기 도입, 시험장 CCTV 확대, 부정행위 제보센터 신설이 대책으로 나왔다. 온라인에는 중국은 시험장마다 전자기파(EMP)를 쏜다는 이야기까지 돌았다.그런데 대책의 대부분은 내년에야 시행된다. 전파탐지기는 한국방송통신전파진흥원이 아직 개발하고 있고, CCTV 확대와 탐지기 도입은 내년 세무사 시험부터 적용된다. 오는 19일 대학수학능력시험 시험장에는 스마트안경을 가려낼 전담 인력이 배치되지만 전문 탐지 장비는 보급되지 않는다고 뉴스1이 15일 보도했다. 그 사이에도 수험생은 시험을 치르고, 정직하게 높은 점수를 받은 사람…",
-        "category_score": 89,
-        "score_reason": "생성형 AI를 이용한 부정행위가 사회 제도(국가시험)의 관리 체계까지 흔드는 새로운 소비자 행동 양상과 그에 따른 기술적 통제 요구를 시사함.",
-        "keywords": [
-          "AI",
-          "부정행위",
-          "기술통제"
-        ],
-        "planning_insight": "기술 발전이 가져온 새로운 사회적 악용 사례를 반면교사 삼아, 기업 및 교육 현장에서의 AI 검증 시스템 요구 트렌드 정리."
-      },
-      {
-        "rank": 5,
-        "id": "6923947cfadc9e29c0d3dde859cdbb5593201bbf2c09318746e95d62de06f5d3",
-        "title": "삼성전자·애플 D램 장기공급계약 초읽기",
+        "id": "057d240627dcfa767708d6c8ec2aa2bb6e2075009a1d95c26a5a03697a4804ec",
+        "title": "로크웰 오토메이션, 엔비디아 옴니버스로 ‘가상 공장’ 키운다 [오토메이션 페어 2026]",
         "source": "매일경제 기업",
         "group": "news",
         "category": "business",
-        "url": "https://www.mk.co.kr/news/business/12211344",
-        "published_at": "2026-11-17T17:00:00+09:00",
-        "summary": "삼성·SK에 백기 올린 ‘슈퍼갑’ 애플… AI가 바꾼 힘의 균형 ‘칩플레이션’ 직격… 애플 고육지책 계약 서버용 D램 수요 43% 급증에 모바일 밀려 SK하이닉스, 2028년 생산..",
-        "category_score": 86,
-        "score_reason": "빅테크 간의 수급 불균형과 장기공급계약(LTA) 체결 등 AI 데이터 수요가 반도체 시장의 힘의 균형을 바꾸는 트렌드를 반영함.",
+        "url": "https://www.mk.co.kr/news/business/12211398",
+        "published_at": "2026-11-17T17:21:17+09:00",
+        "summary": "로크웰 오토메이션, 엔비디아와 협력 발표 AI 학습·의사결정도 가상 환경에서 검증 제조 AI와 디지털 트윈 결합 본격화로크웰 오토메이션이 엔비디아 기술을 활용해 실제 공장을 구축하..",
+        "category_score": 92,
+        "score_reason": "제조업의 AI 전환(AX)은 향후 산업 경쟁력을 결정짓는 핵심 키워드이며, 엔비디아와 같은 플랫폼 주도권이 실제 공장에 이식되는 중요한 흐름.",
         "keywords": [
           "AI",
-          "반도체",
-          "커머스"
+          "제조업",
+          "디지털트윈"
         ],
-        "planning_insight": "AI 서버 수요 폭증이 소비자용 기기 공급망에 미치는 영향 분석을 통해 미래형 커머스 공급망 전략 시사점 도출."
+        "planning_insight": "가상 공장과 현실 세계의 결합은 기업 효율성 극대화의 핵심. 실제 사례를 기반으로 한 'AX(AI 전환)의 제조 현장 적용 시나리오' 시리즈가 효과적."
+      },
+      {
+        "rank": 4,
+        "id": "8d2ee809a81d63d27e597f03456abb0b64035dae585c2d980b80ed95f2e4b3dc",
+        "title": "알리바바, 2조 4000억 파라미터 AI '큐원4-맥스' 공개…추론 비용 60% 절감",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261117085635",
+        "published_at": "2026-11-17T08:56:55+09:00",
+        "summary": "[지디넷코리아]알리바바가 인공지능(AI) 모델 추론 비용을 줄이면서 복잡한 작업 수행 능력을 강화한 대규모언어모델(LLM) '큐원4-맥스(Qwen4-Max)'를 선보였다.기존 모델과 동일한 2조 4000억 개 파라미터를 유지하면서 실제 연산에 사용하는 파라미터를 25% 줄인 것이 특징이다. 이를 통해 성능을 높이는 동시에 작업당 평균 비용을 약 60% 낮췄다는 설명이다.알리바바는 17일 큐원 시리즈의 최신 모델인 큐원4-맥스를 공개하고 클라우드 플랫폼을 통한 서비스 제공을 시작했다고 밝혔다.큐원4-맥스는 희소 전문가 혼합(MoE) 아키텍처를 기반으로 설계됐다. 전체 2조 4000억 개 파라미터 가운데 토큰 처리 시 710억 개만 활성화한다. 이전 모델인 큐원3.8-맥스보다 활성 파라미터를 25% 줄여 연산 효율을 개선했다.최대 100만 토큰의 컨텍스트 윈도우와 이미지 정보를 직접 처리하는 네이티브 비전 기능도 지원한다. 대규모 문서 분석이나 장시간에 걸친 복합 작업, 시각 정보 기…",
+        "category_score": 90,
+        "score_reason": "AI 모델의 성능 경쟁을 넘어 '추론 비용 절감'으로 트렌드가 이동 중임을 보여줌. 이는 기업들의 AI 서비스 도입 가속화와 밀접함.",
+        "keywords": [
+          "AI",
+          "LLM",
+          "비용효율화"
+        ],
+        "planning_insight": "LLM의 경제성 확보는 향후 AI 대중화의 관건. 기업들이 AI 도입 시 고려해야 할 비용 구조 변화와 기술적 최적화 방향을 제시하는 전략 보고서 형태의 콘텐츠가 유효."
+      },
+      {
+        "rank": 5,
+        "id": "54b6d14fc5590ea7f73b07fc6cb1b2555f9b4da212765e8766819539e2fde867",
+        "title": "[안광섭 AI 진테제] 에이전트가 예약하고 결제...기록은 남는다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261116212708",
+        "published_at": "2026-11-16T21:27:08+09:00",
+        "summary": "[지디넷코리아]요즘 SNS에는 AI 에이전트에게 KTX 예매나 식당 예약, 쇼핑 결제를 맡겼다는 후기가 자주 올라온다. 피클(Pickle)에 이어 부이, 키링 같은 국내 개인 에이전트도 잇따라 나왔다. 모 언론 보도에 따르면 피클은 자체 클라우드 브라우저로 외부 웹사이트에 접속, 이용자가 연결해 둔 계정으로 일을 처리한다. 결제나 예약 같은 중요한 단계에서만 이용자에게 최종 승인을 받는다.그런데 같은 주에 반대 방향의 소식이 이어졌다. A 신문은 지난 12일 코레일이 피클을 비롯한 매크로·AI 에이전트의 자동 접속을 차단했다고 보도했다. 유나이티드항공은 미국 시간 11일 운송약관을 고쳐 AI 에이전트로 항공권을 예약·변경하는 행위를 금지했다. 13일 로이터는 아마존이 세계 상품 정보를 모으는 ‘월드 프로덕트 그래프’로 외부 쇼핑 에이전트에 맞서려 한다고 전했다. 서비스는 막히고, 약관상 제재를 받는 쪽은 계정의 주인인 이용자다.AI 에이전트가 사용자를 대신해 남의 서비스를 움직이는…",
+        "category_score": 88,
+        "score_reason": "AI 에이전트 서비스와 기존 플랫폼(항공·철도) 간의 갈등은 플랫폼 생태계의 변화와 정책적 규제 방향성을 보여주는 중요한 신호.",
+        "keywords": [
+          "AI에이전트",
+          "플랫폼",
+          "서비스 규제"
+        ],
+        "planning_insight": "AI 에이전트의 급성장과 기존 기업들의 방어기제 간 충돌 과정을 통해 '미래 플랫폼 비즈니스의 수익 모델과 정책적 한계'를 분석하는 관점 필요."
       }
     ],
     "tech_blog": [
@@ -117,14 +117,13 @@
         "published_at": "2026-11-16T12:16:10+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 네이버의 검색·피드·광고 등 다양한 도메인의 데이터와 추천 기술을 연결하는 버티컬 추천 모델의 개발 및 서비스 적용 경험을 소개하고, 서빙·최적화와 지식 증류를 통한 도메인 간 지식 전이 방향을 공유합니다. ​ 발표 대상 여러 서비스 및 도메인의 사용자 행동 데이터를 활용한 크로스 도메인 추천에 관심 있는 분 시퀀스 기반 추천, 생성형 추천 등 다양한 추천 모델의 개발 및 서비스 적용에 관심 있는 분 대규모 추천 모델의 실시간 추론 및 GPU 서빙 최적화에 관심 있는 분 Foundation Model의 지식을 경량 모델로 전이하는 Knowledge Distillation 기술에 관심 있는 분 ​ 목차 Part 1. 개발 배경과 목표 Part 2. VMs 시스템 구조 Part 3. VMs: 리트리버와 통합 랭커 Part 4. 지면별 적용 현황과 성과 Par…",
         "category_score": 98,
-        "score_reason": "다양한 서비스 도메인의 데이터를 통합하여 추천 모델을 구축한 크로스 도메인 전략은 콘텐츠 개인화 및 사용자 행동 연결 전략에 가장 직접적인 인사이트를 제공함.",
+        "score_reason": "사용자 행동 데이터를 다양한 도메인(검색, 피드, 광고)에 통합하여 추천 모델을 설계한 사례로, 콘텐츠 전략가에게 가장 높은 가치를 제공함.",
         "keywords": [
           "추천 모델",
           "크로스 도메인",
-          "사용자 행동",
-          "데이터 활용"
+          "사용자 행동"
         ],
-        "planning_insight": "사용자의 파편화된 행동 데이터를 통합 모델로 재정의하여 서비스 전체의 체류 시간과 전환율을 높이는 데이터 기반 콘텐츠 큐레이션 전략 수립 가능."
+        "planning_insight": "개별 도메인별 콘텐츠 배치를 넘어, 전체 플랫폼 관점에서 사용자 행동 흐름을 연결하는 통합 추천 아키텍처 수립의 중요성 제시."
       },
       {
         "rank": 2,
@@ -136,15 +135,14 @@
         "url": "https://toss.tech/article/targeting-model-automation",
         "published_at": "2026-11-17T16:14:00+09:00",
         "summary": "피쳐 개수 자동 결정부터 모델 비교, 평가 보고서 자동 생성, 메트릭 확인까지",
-        "category_score": 41,
-        "score_reason": "타겟팅 모델의 개발 자동화를 통해 실험 속도를 높이고 효율성을 극대화한 사례로, 데이터 기반의 빠른 서비스 기획과 검증 프로세스를 구축하는 데 핵심적인 가이드를 제공함.",
+        "category_score": 94,
+        "score_reason": "모델 개발 자동화 프로세스를 통해 마케팅 및 제품 전략의 판단 효율성을 극대화한 사례.",
         "keywords": [
           "타겟팅",
           "자동화",
-          "모델링",
-          "제품 전략"
+          "데이터 기반"
         ],
-        "planning_insight": "데이터 분석 및 모델링 업무의 병목을 자동화로 제거하여, 서비스 기획자가 타겟별 최적화된 맞춤형 콘텐츠를 실시간으로 테스트하고 배포하는 시스템 구축."
+        "planning_insight": "반복적인 모델 최적화 과정을 자동화함으로써 콘텐츠 마케팅의 의사결정 주기를 단축하고 가설 검증의 속도를 높이는 운영 모델 도출."
       },
       {
         "rank": 3,
@@ -156,15 +154,14 @@
         "url": "https://d2.naver.com/helloworld/4049909",
         "published_at": "2026-11-16T16:55:13+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 코드만 남아 있던 14년 된 카페 관리도구를 AI와 함께 분석하고, Storybook과 MSW로 화면과 동작을 재현하며 새로운 카페 스튜디오를 개발했습니다. 이 과정에서 기획, 디자인, BE와의 협업 방식이 어떻게 달라졌는지 공유합니다. ​ 발표 대상 레거시 시스템 개편을 준비하는 개발자 AI를 실무에 활용하려는 엔지니어 화면과 정책을 함께 검증하며 협업하고 싶은 기획자·디자이너 ​ 목차 프로젝트 개요 구 카페 관리도구 분석 신규 스튜디오 개발 일하는 방식 마무리 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된…",
-        "category_score": 46,
-        "score_reason": "레거시 개편 과정에서 AI를 활용한 분석과 협업 방식의 혁신을 보여주었으며, 기획과 디자인, 개발이 서비스 정책을 어떻게 검증해야 하는지에 대한 구조적 방법론을 제시함.",
+        "category_score": 90,
+        "score_reason": "레거시 서비스 개편 과정에서 AI를 활용한 분석과 협업 방식의 혁신을 다루어, 기획자와 개발자의 협업 모델을 보여줌.",
         "keywords": [
-          "UX 개선",
-          "레거시 개편",
+          "서비스 개편",
           "AI 협업",
-          "프로세스 혁신"
+          "UX 최적화"
         ],
-        "planning_insight": "기획 단계부터 기획-디자인-개발 간 동기화(Sync)를 위해 코드 기반의 프로토타이핑과 AI 분석을 활용하는 효율적인 협업 구조 설계."
+        "planning_insight": "데이터 기반의 협업 툴(Storybook, MSW)을 활용해 정책과 화면을 동시에 검증함으로써 복잡한 레거시 제품을 정교하게 고도화하는 방법론 제시."
       },
       {
         "rank": 4,
@@ -176,15 +173,14 @@
         "url": "https://toss.tech/article/training-serving-skew",
         "published_at": "2026-11-17T10:00:00+09:00",
         "summary": "Training–Serving Skew를 줄인 과정을 소개합니다.",
-        "category_score": 41,
-        "score_reason": "학습 데이터와 실제 서비스 환경 간의 차이(Training-Serving Skew) 해결 사례로, 고도화된 콘텐츠 추천 엔진을 운영할 때 데이터 신뢰성을 어떻게 확보할지 보여줌.",
+        "category_score": 88,
+        "score_reason": "학습과 서빙 환경의 데이터 불일치 문제를 해결한 사례로, 데이터 정합성이 서비스 성능에 미치는 영향을 잘 보여줌.",
         "keywords": [
-          "데이터 품질",
+          "Training-Serving Skew",
           "예측 모델",
-          "Serving",
-          "데이터 활용"
+          "데이터 정합성"
         ],
-        "planning_insight": "모델 예측 정확도를 실무에 연결할 때 발생하는 오차 원인을 데이터 구조적으로 파악하여, 개인화 추천 엔진의 성능을 안정화하는 전략적 기반 마련."
+        "planning_insight": "예측 정확도 향상을 위해서는 모델의 성능만큼이나 실제 사용자 환경에서의 데이터 흐름과 실시간 처리 과정의 정합성 관리가 핵심임을 시사."
       },
       {
         "rank": 5,
@@ -196,15 +192,14 @@
         "url": "https://d2.naver.com/helloworld/5976687",
         "published_at": "2026-11-16T18:04:47+09:00",
         "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 '자율 그래프 주도 개발(Autonomous Graph-Driven Development)'에서는 사람의 직접적인 지시 없이 그래프가 프로젝트 진행을 주도합니다. 스펙 문서와 코드는 AI Agent 루프가 작성하고, 결정론적 코드가 이를 기계적으로 검사하며, 결함은 피드백 루프를 통해 자동으로 바로잡습니다. 사람이 AI를 호출하던 주도권이 역전되어 이제는 AI가 필요할 때만 사람을 호출합니다. ​ ​ 발표 대상 자율 그래프 주도 개발 방법론에 관심있는 개발자나 기획자 ​ 목차 1. AI가 다 해 주는데, 뭐가 문제지? (배경 및 문제 정의) 여전히 사람이 주도한다 요구사항은 항상 변한다 AI 협업에 남은 빈자리, 자율 진행 ​ 2. 어떻게 스스로 굴러가게 할까? (접근 방법 및 실행 과정) Autonomous Graph-Driven Developmen…",
-        "category_score": 44,
-        "score_reason": "AI Agent가 프로젝트 진행을 주도하는 구조를 제시하며, 미래의 서비스 기획 및 운영 관리 방식이 어떻게 자율적으로 진화할지에 대한 중요한 시사점을 제공함.",
+        "category_score": 85,
+        "score_reason": "AI Agent가 개발 프로젝트를 주도하는 새로운 형태의 운영 방식을 제시하여 제품 전략의 미래 모델을 제시함.",
         "keywords": [
           "AI Agent",
-          "자율 주도",
-          "방법론",
-          "프로세스 최적화"
+          "자율 개발",
+          "프로젝트 관리"
         ],
-        "planning_insight": "AI가 스펙 정의부터 코드 검사까지 수행하는 자동화된 콘텐츠 관리 및 프로젝트 관리(PM) 운영 프레임워크 구축의 청사진 제공."
+        "planning_insight": "기획자-개발자의 역할 변화 가능성을 제시하며, 향후 콘텐츠 기획 역시 AI와 협업하여 자율적으로 개선되는 피드백 루프 구축의 가능성 시사."
       }
     ],
     "ai_data": [
@@ -219,13 +214,14 @@
         "published_at": "2026-11-16T22:44:57+09:00",
         "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
         "category_score": 98,
-        "score_reason": "자율 AI 에이전트가 실제 워크플로우(테스트, 수정)를 수행하는 실사례를 제시하여, 자동화 및 생산성 향상 관점에서 기획 활용도가 매우 높음.",
+        "score_reason": "자율 AI 에이전트가 소프트웨어 테스트 및 코드 수정 자동화 프로세스를 주도하는 실사례를 제시하여 콘텐츠 생산 및 운영 자동화에 직접적인 영감을 줌.",
         "keywords": [
           "AI 에이전트",
           "자동화",
-          "소프트웨어 개발"
+          "AWS",
+          "생산성"
         ],
-        "planning_insight": "AI 에이전트가 인간의 개입 없이 코드를 수정하는 사례는 향후 콘텐츠 운영 자동화의 청사진이 될 수 있음. 반복적인 기술 업무나 콘텐츠 유지보수에 에이전트 도입을 검토할 필요가 있음."
+        "planning_insight": "AI 에이전트를 통한 업무 자동화(Workflow Automation) 기획 시, 단순 텍스트 생성을 넘어 시스템 테스트 및 오류 수정과 같은 실무 영역으로의 확장 가능성을 고려해야 함."
       },
       {
         "rank": 2,
@@ -238,13 +234,14 @@
         "published_at": "2026-11-16T09:00:00+09:00",
         "summary": "",
         "category_score": 95,
-        "score_reason": "오픈 웨이트 모델의 접근성을 높이는 협업으로, 기업이 자체 인프라에서 AI 모델을 효율적으로 운영할 수 있는 실질적인 기반 변화를 제공함.",
+        "score_reason": "오픈 웨이트 모델의 접근성을 높이는 협업 소식으로, 폐쇄형 모델 의존도를 낮추고 사내 인프라에서 AI를 직접 운영하려는 기획자에게 필수적인 정보임.",
         "keywords": [
           "오픈소스",
-          "모델 운영",
-          "플랫폼"
+          "LLM",
+          "인프라",
+          "모델 배포"
         ],
-        "planning_insight": "기업이 독자적인 모델을 운영할 때 하드웨어 및 운영 부담을 줄여줌. 데이터 프라이버시가 중요한 콘텐츠 추천/분석 엔진 구축 시 오픈 웨이트 모델 활용 전략이 유효함."
+        "planning_insight": "데이터 보안과 비용 효율을 고려할 때, 외부 API 의존도를 낮추고 사내 맞춤형 모델을 구축·운영하는 오픈소스 전략을 콘텐츠 파이프라인에 적극 도입해야 함."
       },
       {
         "rank": 3,
@@ -257,13 +254,14 @@
         "published_at": "2026-11-16T14:00:00+09:00",
         "summary": "arXiv:2611.17766v1 Announce Type: new Abstract: We introduce GDP_xlsx, a benchmark of 70 realistic workplace requests written by professionals in 13 domains, each paired with an expert rubric of binary criteria and with the complete workbook or CSV file it refers to. Together the files hold 2.18 million populated cells, and the rubrics 791 criteria. Agents work in a container with spreadsheet tools, and an agentic judge that can open the file applies the rubric. Completeness and exclusivity cri…",
         "category_score": 90,
-        "score_reason": "실제 업무용 워크북 기반의 벤치마크는 AI가 실제 실무(데이터 정리, 분석 보조)에서 어떻게 성과를 내는지 측정하므로 기획자에게 즉각적인 인사이트를 줌.",
+        "score_reason": "실무 업무 문서(Workbook/CSV) 기반의 벤치마킹 데이터셋은 LLM이 실제 비즈니스 데이터 처리 능력을 갖췄는지 평가하는 중요한 지표임.",
         "keywords": [
           "벤치마킹",
-          "실무 모델",
-          "데이터 분석"
+          "데이터 분석",
+          "업무 자동화",
+          "LLM 평가"
         ],
-        "planning_insight": "범용 LLM이 특정 전문 업무(엑셀/데이터 활용)에서 어느 정도 수준인지 파악하여, 사내 업무 자동화 시나리오의 현실적인 타겟을 설정하는 근거로 활용 가능함."
+        "planning_insight": "기획자는 LLM의 범용 성능보다 실제 비즈니스 워크북과 같은 구조화된 데이터 환경에서 모델이 얼마나 정확하게 동작하는지를 검증하고 선택해야 함."
       },
       {
         "rank": 4,
@@ -275,14 +273,15 @@
         "url": "https://arxiv.org/abs/2611.17589",
         "published_at": "2026-11-16T14:00:00+09:00",
         "summary": "arXiv:2611.17589v1 Announce Type: new Abstract: Small open-weight language models can run crowd decision-making (CDM) on an institution's own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five open-weight models of 8-36B total parameters on one…",
-        "category_score": 85,
-        "score_reason": "의사결정 프로세스에 소형 모델(sLLM)을 적용하는 방안은 비용 효율적인 AI 도입 전략의 중요한 흐름임.",
+        "category_score": 88,
+        "score_reason": "소형 오픈 모델을 활용한 집단 의사결정 연구는 콘텐츠 추천이나 다각도 분석 모델을 구축하려는 기획자에게 유용한 방법론을 제공함.",
         "keywords": [
-          "sLLM",
+          "오픈 모델",
           "의사결정",
-          "비용 최적화"
+          "집단 지성",
+          "데이터 분석"
         ],
-        "planning_insight": "대형 모델보다 가볍고 제어 가능한 소형 모델을 통해 기관/기업 내부의 의견 수렴 및 의사결정 보조 시스템을 구축하는 것은 개인화된 추천 시스템 기획에 유용함."
+        "planning_insight": "대형 모델 하나에 의존하기보다 소형 모델을 여러 개 조합하고 의견을 통합(Fusion/Aggregation)하는 구조를 통해 더 정교한 분석 콘텐츠를 생성할 수 있음."
       },
       {
         "rank": 5,
@@ -294,14 +293,15 @@
         "url": "https://arxiv.org/abs/2611.17481",
         "published_at": "2026-11-16T14:00:00+09:00",
         "summary": "arXiv:2611.17481v1 Announce Type: new Abstract: Activation steering influences a language model's behaviour by adding a steering vector to its residual stream during generation, but it requires white-box access to modify the hidden states at every generation step. We introduce ActGCG, a modification of Greedy Coordinate Gradient which optimises a suffix to match the target activations obtained by adding a steering vector to the residual stream. We further introduce universal suffixes trained ac…",
-        "category_score": 82,
-        "score_reason": "모델의 출력을 제어(Steering)하는 기술은 특정 톤앤매너의 콘텐츠 생성이나 브랜드 지향점 유지가 필수적인 마케팅 AI 기획에 활용 가능함.",
+        "category_score": 85,
+        "score_reason": "모델의 출력 결과를 실시간으로 제어(Steering)하는 기술은 콘텐츠의 톤앤매너나 브랜드 지침을 일관되게 유지하는 전략으로 연결 가능함.",
         "keywords": [
+          "Activation Steering",
           "모델 제어",
-          "콘텐츠 생성",
-          "출력 최적화"
+          "콘텐츠 가이드라인",
+          "LLM"
         ],
-        "planning_insight": "원하는 특정 방향으로 모델의 응답을 미세 조정(Steering)하는 기술은 챗봇이나 생성형 콘텐츠 서비스에서 브랜드 페르소나를 유지하는 핵심적인 전략이 될 것임."
+        "planning_insight": "생성형 AI를 이용한 브랜드 콘텐츠 제작 시, 모델의 내부 상태를 조절하여 원하는 방향성대로 결과물이 나오도록 통제하는 기술적 이해가 필요함."
       }
     ]
   },
@@ -317,18 +317,18 @@
       "published_at": "2026-11-16T12:16:10+09:00",
       "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 네이버의 검색·피드·광고 등 다양한 도메인의 데이터와 추천 기술을 연결하는 버티컬 추천 모델의 개발 및 서비스 적용 경험을 소개하고, 서빙·최적화와 지식 증류를 통한 도메인 간 지식 전이 방향을 공유합니다. ​ 발표 대상 여러 서비스 및 도메인의 사용자 행동 데이터를 활용한 크로스 도메인 추천에 관심 있는 분 시퀀스 기반 추천, 생성형 추천 등 다양한 추천 모델의 개발 및 서비스 적용에 관심 있는 분 대규모 추천 모델의 실시간 추론 및 GPU 서빙 최적화에 관심 있는 분 Foundation Model의 지식을 경량 모델로 전이하는 Knowledge Distillation 기술에 관심 있는 분 ​ 목차 Part 1. 개발 배경과 목표 Part 2. VMs 시스템 구조 Part 3. VMs: 리트리버와 통합 랭커 Part 4. 지면별 적용 현황과 성과 Par…",
       "category_score": 98,
-      "score_reason": "다양한 서비스 도메인의 데이터를 통합하여 추천 모델을 구축한 크로스 도메인 전략은 콘텐츠 개인화 및 사용자 행동 연결 전략에 가장 직접적인 인사이트를 제공함.",
+      "score_reason": "사용자 행동 데이터를 다양한 도메인(검색, 피드, 광고)에 통합하여 추천 모델을 설계한 사례로, 콘텐츠 전략가에게 가장 높은 가치를 제공함.",
       "keywords": [
         "추천 모델",
         "크로스 도메인",
         "사용자 행동"
       ],
-      "planning_insight": "여러 서비스 지면의 행동 데이터를 통합하여 콘텐츠 큐레이션의 정밀도를 높이는 크로스 도메인 추천 시스템 구축 전략 수립의 모범 답안.",
+      "planning_insight": "개별 도메인별 콘텐츠 배치를 넘어, 전체 플랫폼 관점에서 사용자 행동 흐름을 연결하는 통합 추천 아키텍처를 기획하고 데이터 기반의 경험 최적화를 실현해야 함.",
       "integrated_score": 98,
       "criteria_scores": {
         "content_strategy": 25,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
         "market_consumer_impact": 24
       },
       "applied_criteria": [
@@ -337,8 +337,8 @@
         "AI·데이터 관련성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "네이버의 검색·피드·광고 데이터를 통합 학습하는 '버티컬 추천 모델' 개발기",
-      "importance_reason": "파편화된 사용자 행동을 연결해 서비스 전반의 개인화 경험을 고도화하는 데이터 전략의 핵심 사례임."
+      "one_line_summary": "네이버의 전 지면 사용자 행동을 통합 학습하는 크로스 도메인 추천 모델 개발 사례",
+      "importance_reason": "서비스 전반의 파편화된 사용자 경험을 데이터로 연결하는 최신 추천 아키텍처를 제시하여, 콘텐츠 플랫폼의 개인화 전략에 핵심적인 인사이트를 제공함."
     },
     {
       "rank": 2,
@@ -351,17 +351,50 @@
       "published_at": "2026-11-16T22:44:57+09:00",
       "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
       "category_score": 98,
-      "score_reason": "자율 AI 에이전트가 실제 워크플로우(테스트, 수정)를 수행하는 실사례를 제시하여, 자동화 및 생산성 향상 관점에서 기획 활용도가 매우 높음.",
+      "score_reason": "자율 AI 에이전트가 소프트웨어 테스트 및 코드 수정 자동화 프로세스를 주도하는 실사례를 제시하여 콘텐츠 생산 및 운영 자동화에 직접적인 영감을 줌.",
       "keywords": [
         "AI 에이전트",
         "자동화",
-        "소프트웨어 개발"
+        "생산성"
       ],
-      "planning_insight": "반복적인 콘텐츠 운영, 품질 관리, 리포트 생성 등 실무 자동화 영역에 AI 에이전트 루프를 도입하는 기획을 우선 검토할 것.",
+      "planning_insight": "업무 자동화 기획 시 단순 반복 업무를 넘어, AI 에이전트가 스스로 피드백 루프를 돌며 오류를 해결하는 '자율 워크플로우' 도입을 검토할 시점임.",
       "integrated_score": 96,
       "criteria_scores": {
         "content_strategy": 24,
         "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "100% 자율 AI 에이전트가 소프트웨어 테스트 및 코드 수정을 수행하는 AWS의 실무 자동화 사례",
+      "importance_reason": "단순 텍스트 생성 수준을 넘어 AI 에이전트가 시스템의 오류를 수정하고 테스트를 자동화하는 실무 영역으로의 진입을 보여주는 신호탄."
+    },
+    {
+      "rank": 3,
+      "id": "f0c3921600f2ce93b3ee29b7fad994ff90b800e3de6477f0f3c6a7728f307b44",
+      "title": "판단에만 집중하세요: 토스 타겟팅 모델 개발 자동화",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/targeting-model-automation",
+      "published_at": "2026-11-17T16:14:00+09:00",
+      "summary": "피쳐 개수 자동 결정부터 모델 비교, 평가 보고서 자동 생성, 메트릭 확인까지",
+      "category_score": 94,
+      "score_reason": "모델 개발 자동화 프로세스를 통해 마케팅 및 제품 전략의 판단 효율성을 극대화한 사례.",
+      "keywords": [
+        "타겟팅",
+        "자동화",
+        "데이터 기반"
+      ],
+      "planning_insight": "반복적인 모델 최적화와 메트릭 확인 과정을 시스템화하여, 캠페인 및 콘텐츠 기획자가 가설 검증의 병목을 해소하고 '판단' 자체에 집중하는 운영 모델이 필요함.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
         "ai_data_relevance": 24,
         "market_consumer_impact": 23
       },
@@ -370,65 +403,65 @@
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "자율 AI 에이전트 팀이 로컬 에뮬레이터를 직접 작성하고 테스트·수정하는 사례",
-      "importance_reason": "인간의 개입 없이 AI가 스스로 인프라를 유지보수하는 '자율 에이전트' 시대로의 전환을 실증함."
-    },
-    {
-      "rank": 3,
-      "id": "b07f4851fe09836058e3b1e4eee523915664a199db06c2a0f68be15ca4bf49ec",
-      "title": "워시 美연준 의장 \"AI 기대 못 미치면 주가 하락·경기 둔화\"",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261117081317",
-      "published_at": "2026-11-17T08:13:17+09:00",
-      "summary": "[지디넷코리아]케빈 워시 미국 연방준비제도(연준) 의장이 인공지능(AI)을 넘어선 '초지능(Super Intelligence·SI)'이 대규모 투자 대비 기대에 못 미칠 경우 주식 가치 평가(밸류에이션) 하락과 경기 둔화, 실업률 상승을 촉발할 수 있다고 경고했다.워시 의장은 16일(현지시간) 미국 캘리포니아주 샌프란시스코 연방준비은행에서 연준 이사회와 샌프란시스코 연은이 공동 주최한 '생산성과 일자리 태스크포스(TF) 콘퍼런스' 개회사에서 \"SI가 기대에 못 미칠수도 있다\"며 이같이 밝혔다. 그는 \"막대한 자본투자와 주가 상승 이후 기대 수익률이 꺾이고 주식 밸류에이션이 하락하면서 경기 둔화와 더 뚜렷한 실업률 상승으로 이어질 수 있다\"며 \"시간이 지나면 경제는 회복되겠지만 생산성 향상 효과는 얻지 못할 것\"이라고 말했다.이번 발언은 연준이 기술 변화에 찬성하거나 반대하는 입장을 취하는 것이 아니라, 급변하는 환경 속에서 통화정책을 준비하기 위한 '비상 계획(contingency…",
-      "category_score": 98,
-      "score_reason": "AI 기술 투자 대비 실질적인 생산성 증명 여부가 향후 주식 시장과 글로벌 경기 전반을 결정짓는 핵심 변수로 부상함.",
-      "keywords": [
-        "AI 거품론",
-        "생산성 검증",
-        "시장 전망"
-      ],
-      "planning_insight": "기술 중심의 콘텐츠에서 벗어나, 데이터로 실질적 생산성 향상을 증명하는 'ROI 지향형' 콘텐츠 기획 필요.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 22,
-        "market_consumer_impact": 24
-      },
-      "applied_criteria": [
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
-      ],
-      "one_line_summary": "미 연준 의장의 AI 기대치 미달 시 경기 둔화 경고",
-      "importance_reason": "AI 투자의 ROI(투자 대비 효율)를 증명하지 못하면 시장 전체의 조정이 올 수 있다는 거시적 신호임."
+      "one_line_summary": "피처 결정부터 모델 평가까지 마케팅 타겟팅 모델 개발 프로세스를 자동화한 토스의 사례",
+      "importance_reason": "AI 모델링 프로세스의 자동화는 마케팅 기획자가 데이터 가설을 검증하는 속도와 의사결정 효율성을 획기적으로 개선함."
     },
     {
       "rank": 4,
-      "id": "a81e5c48dc5a11bc28f3be619da25a4bf2650735e16f6b919615d556ef0d0df4",
-      "title": "[AI는 지금] '19금' 캐릭터챗 심의 초읽기…업계, 청소년 보호 고삐",
+      "id": "b76329036392ac1b31a4e2824bb3026ad7b57f05798bcfe6f09f0cfd8231b5c4",
+      "title": "[기고] AI가 기업 운영 중심으로…2027년 달라질 6가지",
       "source": "ZDNet Korea",
       "group": "news",
       "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261117154347",
-      "published_at": "2026-11-17T16:54:05+09:00",
-      "summary": "[지디넷코리아]규제당국이 국내 인공지능(AI) 캐릭터 채팅 서비스에 대한 청소년유해매체물 심의 절차에 들어간 가운데 사업자들이 안전 관리 체계 개편에 나섰다. 글로벌 앱 유통 플랫폼도 이용 연령 기준을 강화하면서 AI 콘텐츠 검수와 청소년 접근 제한 등 보호조치가 업계 과제로 떠오른 모습이다.17일 업계에 따르면 방송미디어통신심의위원회는 최근 '제타' 운영사 스캐터랩과 '크랙' 운영사 뤼튼테크놀로지스 등 복수 AI 채팅 서비스 사업자에 청소년유해매체물 심의 관련 사전 통지 공문을 발송했다. 현재 사업자 의견을 수렴하는 단계로, 최종 지정 여부는 결정되지 않았다.AI 캐릭터 채팅 서비스는 이용자가 가상 캐릭터를 선택해 자유롭게 대화를 나누거나 이야기를 전개하는 방식으로 운영된다. 이용자가 직접 캐릭터와 상황을 설정할 수 있고 대화 내용도 실시간 생성돼 사전에 마련된 콘텐츠 검수만으로 유해정보를 관리하기 어렵다는 문제가 제기돼 왔다.청소년 이용 비중도 높다. 모바일인덱스에 따르면 지난…",
-      "category_score": 95,
-      "score_reason": "AI 콘텐츠의 윤리 및 심의 문제는 플랫폼의 정책 변화와 청소년 보호 가이드라인이라는 구체적인 시장 변화 신호임.",
+      "url": "https://zdnet.co.kr/view/?no=20261117173341",
+      "published_at": "2026-11-17T17:41:11+09:00",
+      "summary": "[지디넷코리아]올해는 기업들이 인공지능(AI)을 실험 단계에서 업무 현장으로 확대하는 데 집중한 한 해였다. 아시아태평양 및 일본(APJ) 지역 기업들은 실질적인 AI 활용에 속도를 냈으며 일부는 이미 AI 에이전트를 일상 업무에 도입하기 시작했다. 반면 상당수 기업은 여전히 데이터 관리와 거버넌스, 비용 등 AI를 본격적으로 운영하는 과정에서 발생하는 과제를 해결하고 있다.내년에는 보다 근본적인 변화가 나타날 전망이다. AI 경쟁력을 확보하는 기업은 AI를 안정적이고 효율적으로 운영하는 데 그치지 않고, AI를 중심으로 기업 운영 방식 자체를 재편할 것이다. 실시간 데이터를 분석하고 추론하는 AI의 역량이 고도화되면서 AI는 개별 업무를 지원하는 도구를 넘어 기업 운영의 핵심으로 자리 잡게 될 것이다.기업들은 오랫동안 데이터베이스와 문서, 업무상 대화 등을 조직 주요 지식 자산으로 관리해 왔다. 그러나 AI 에이전트가 다양한 업무를 수행하며 새로운 정보와 결과물을 생성하면서 기업…",
+      "category_score": 98,
+      "score_reason": "AI 데이터센터 확산에 따른 인프라 시장의 급격한 변화를 다루며, 이는 향후 수년간 지속될 산업계 핵심 트렌드임.",
       "keywords": [
-        "AI 규제",
-        "캐릭터 채팅",
-        "플랫폼 안전성"
+        "AI",
+        "기업운영",
+        "데이터 중심"
       ],
-      "planning_insight": "서비스 기획 시 초기부터 AI의 윤리적 안전 장치(Safety Layer)를 마케팅 소구점으로 활용하고 플랫폼 정책 변화에 선제 대응하는 전략 필요.",
-      "integrated_score": 89,
+      "planning_insight": "향후 3년 내 기업 운영 방식이 AI 에이전트 중심으로 바뀔 것에 대비하여, 조직 내에서 AI를 기반으로 한 업무 지식 자산화와 실시간 데이터 분석 역량을 콘텐츠화해야 함.",
+      "integrated_score": 92,
       "criteria_scores": {
         "content_strategy": 23,
-        "trend_signal_timeliness": 22,
+        "trend_signal_timeliness": 24,
         "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI가 단순 도구를 넘어 기업 운영의 핵심으로 재편되는 2027년 비즈니스 전망",
+      "importance_reason": "단순 실험 단계를 넘어선 기업의 AI 도입 속도와 운영 체계 변화는 모든 기획자가 추적해야 할 거시적 환경 변화임."
+    },
+    {
+      "rank": 5,
+      "id": "7c17f8cce10c24b31c5eed80880788b86fcda0afcaa644277c60bd09df94dcb2",
+      "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261115205153",
+      "published_at": "2026-11-15T20:54:24+09:00",
+      "summary": "[지디넷코리아]세무사시험 수석합격자가 인공지능(AI)을 활용한 부정행위를 시인하면서 정부가 국가자격시험 전반에 대한 전수조사에 나선다. 나흘 앞으로 다가온 대학수학능력시험에서도 유사한 부정행위가 발생하지 않도록 AI 기기 점검 절차를 마련하고 시험장 관리·감독을 강화하기로 했다.청와대는 15일 하준경 정책실장 주재로 'AI 활용 부정시험 확산 방지 긴급대책회의'를 개최했다고 밝혔다.이번 회의는 최근 세무사시험 수석합격자가 AI 기술을 이용해 부정행위를 저질렀다고 인정한 데 따른 것이다. 해당 합격자는 세무사 1·2차 시험에서 초소형 카메라와 생성형 AI 등을 활용해 부정행위를 했다고 시인했다. 공인회계사 1차 시험에서도 같은 방식으로 부정행위를 했다고 밝힌 것으로 알려졌다.정부는 AI 기술을 악용한 부정행위가 다른 국가시험에서도 발생했을 가능성을 살펴보기 위해 국가자격시험 전체를 대상으로 AI 활용 부정행위 의심 사례를 전수조사하기로 했다.경찰 등 수사기관은 부정시험 관련 사건이…",
+      "category_score": 95,
+      "score_reason": "AI의 일상화로 인한 사회적 부작용(부정시험)이 정부 차원의 규제 논의로 직결된 사례로, AI 기술 악용에 대한 윤리·보안 담론의 시발점.",
+      "keywords": [
+        "AI",
+        "사회적 규제",
+        "보안"
+      ],
+      "planning_insight": "AI 윤리 및 리터러시 교육 콘텐츠는 더 이상 선택이 아닌 필수임. 대중의 기술 악용 우려를 해소하고 올바른 활용 가이드를 제시하는 브랜디드 콘텐츠 전략이 유효함.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 21,
         "market_consumer_impact": 22
       },
       "applied_criteria": [
@@ -436,40 +469,8 @@
         "트렌드 신호성·시의성",
         "시장·소비자 영향력"
       ],
-      "one_line_summary": "국내 AI 캐릭터 채팅 서비스에 대한 규제 당국의 심의 본격화",
-      "importance_reason": "AI 콘텐츠 생태계에서 '안전한 AI' 가이드라인이 비즈니스 성패를 결정하는 필수 요인이 됨을 시사."
-    },
-    {
-      "rank": 5,
-      "id": "8c1724169cb4816ce160c8f6300a3976ae5a5593488b093b2d420f2eff7e5e8d",
-      "title": "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
-      "source": "arXiv cs.CL",
-      "group": "ai_data",
-      "category": "llm_nlp_research",
-      "url": "https://arxiv.org/abs/2611.17589",
-      "published_at": "2026-11-16T14:00:00+09:00",
-      "summary": "arXiv:2611.17589v1 Announce Type: new Abstract: Small open-weight language models can run crowd decision-making (CDM) on an institution's own infrastructure, which keeps the checkpoint, the inference settings and the opinions under its control. Their judgements vary across repeated queries; whether repeating and aggregating them, often through the 2-tuple linguistic representation, settles the decision rather than the labels is untested. Five open-weight models of 8-36B total parameters on one…",
-      "category_score": 85,
-      "score_reason": "의사결정 프로세스에 소형 모델(sLLM)을 적용하는 방안은 비용 효율적인 AI 도입 전략의 중요한 흐름임.",
-      "keywords": [
-        "sLLM",
-        "의사결정",
-        "비용 효율"
-      ],
-      "planning_insight": "기업 내부 데이터 기반의 의사결정 시스템이나 폐쇄형 추천 엔진 구축 시, 거대 모델보다 효율적인 sLLM 도입 시나리오 구체화.",
-      "integrated_score": 85,
-      "criteria_scores": {
-        "content_strategy": 20,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 20
-      },
-      "applied_criteria": [
-        "AI·데이터 관련성",
-        "콘텐츠 전략 활용성"
-      ],
-      "one_line_summary": "기관 인프라에서 구동 가능한 소형 모델(sLLM)을 활용한 의사결정 방식 연구",
-      "importance_reason": "대형 모델의 비용과 보안 이슈를 해결하기 위한 'sLLM 중심의 내재화' 흐름을 보여줌."
+      "one_line_summary": "AI 부정행위 확산에 따른 국가적 차원의 전수조사 및 규제 강화 움직임",
+      "importance_reason": "AI 기술의 급격한 일상화가 가져올 사회적 부작용과 그에 따른 규제·보안 담론은 향후 서비스 기획 및 콘텐츠 제작 시 필수적으로 고려해야 할 리스크 관리 지표임."
     }
   ],
   "hot_keywords": [
@@ -543,9 +544,9 @@
     }
   ],
   "overall_summary": [
-    "AI 기술이 인프라와 하드웨어 제약을 넘어 실질적인 서비스 모델로 안착하는 과정에서 크로스 도메인 데이터 통합과 추천 최적화가 핵심 경쟁력으로 부상함.",
-    "시장과 규제 당국은 이제 AI의 잠재적 생산성을 엄격히 검증하기 시작했으며, 특히 콘텐츠의 윤리적 안전성과 운영 자동화에 대한 요구가 높아지고 있음.",
-    "대형 모델의 의존도를 줄이고 자체 인프라에서 효율적으로 구동하는 sLLM과 AI 에이전트 도입이 서비스 기획의 차세대 효율화 전략으로 자리 잡는 추세임."
+    "AI는 실험 단계를 지나 기업 운영과 업무 프로세스의 핵심으로 실질적인 재편을 시작함.",
+    "기술블로그 사례를 통해 추천 모델의 고도화 및 운영 자동화 등 실무적인 효율 최적화가 가속화되고 있음.",
+    "기술의 성장에 발맞추어 보안 및 윤리적 담론, 규제 이슈가 대두되면서 사회적 신뢰를 확보하는 전략이 중요해짐."
   ],
   "method": "gemini",
   "fallback_used": false,
