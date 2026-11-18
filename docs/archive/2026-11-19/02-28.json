@@ -1,0 +1,555 @@
+{
+  "briefing_date": "2026-11-19",
+  "generated_at": "2026-11-19T02:28:08.958032+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 170,
+    "tech_blog": 10,
+    "ai_data": 20
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "6069ec74c695ce0d04ec0780181b988af68ed7bd497aa0e6ecd31a8a59efcc94",
+        "title": "패스트파이브, ‘창업 베이스캠프 2기’ 8개사 확정",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118090904",
+        "published_at": "2026-11-18T09:18:09+09:00",
+        "summary": "[지디넷코리아]패스트파이브가 초기 AI 스타트업의 성장을 지원하는 민간형 창업 지원 프로그램 '패스트파이브 창업 베이스캠프 2기'의 최종 선발을 마치고 입주 대상 8개사를 확정했다.18일 회사에 따르면, 패스트파이브 창업 베이스캠프는 초기 창업 기업이 겪는 고정비 부담과 제품 개발 외 업무 증가, 협업 인프라 구축, 채용·IR 등 대외 신뢰 확보의 어려움을 패스트파이브의 공간과 운영 역량으로 해결하기 위해 기획됐다. 앞서 지난달 29일 선릉센트럴점 컨퍼런스홀에서 2기 입주 기업 온보딩 행사 및 프로그램 오리엔테이션을 열고 본격적인 지원에 돌입했다. 이번 2기에는 AI 기술로 각 산업의 과제를 해결하는 유망 스타트업 8곳이 이름을 올렸다. 선정 기업은 AI 기반 기업 유튜브·숏폼 영상 마케팅 스튜디오 '에버마케팅스튜디오', 외식업의 레시피·원가·판매·식자재 구매 데이터를 연결해 AX 전환을 돕는 F&B 버티컬 SaaS '푸드로직', 유튜브 영상 기반 듣기·말하기·대화형 AI 영어 학…",
+        "category_score": 66,
+        "score_reason": "AI, 마케팅, 숏폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "숏폼",
+          "유튜브",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 마케팅, 숏폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "a9930dfcb17e4863c3cdadd8dab3519194751688c87b8a395ef2813d022a773f",
+        "title": "인크로스, ISMS-P 인증 획득...정보보호 역량 입증",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118155242",
+        "published_at": "2026-11-18T15:55:46+09:00",
+        "summary": "[지디넷코리아]SK네트웍스 통합 마케팅 자회사 인크로스가 정보보호 개인정보보호 관리체계(ISMS-P) 인증을 획득하고 AI 기술 확산에 대응한 정보보호 체계 고도화에 나선다.인크로스는 ISMS-P 인증을 획득했다고 18일 밝혔다.ISMS-P는 과학기술정보통신부와 개인정보보호위원회가 공동 운영하는 정보보호, 개인정보보호 통합 인증 제도다. 관리체계 수립과 운영, 보호대책, 개인정보 처리 단계별 요구사항 등 101개 인증 기준을 모두 충족해야 하며, 인증 이후에도 매년 사후심사를 받아야 한다.인증 범위는 온라인 광고 서비스와 커머스 위탁 운영이며, 유효기간은 2029년 10월까지다.인크로스는 디지털 광고와 커머스 운영 과정에서 취급하는 광고 데이터와 개인정보를 안전하게 보호하기 위해 상시 보안 관리체계를 운영해 왔다. 정보자산과 위험평가, 접근권한 관리, 취약점 점검, 침해사고 대응 훈련, 백업 복구 점검은 물론 협력사 보안 관리와 내부 감사를 통해 보안 수준을 지속 점검했다.인증 과…",
+        "category_score": 63,
+        "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅",
+          "커머스",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "ed66017ec4374b13eaa095e49ac89e907ed92ee7c9fc0fe2f5c10918333a1beb",
+        "title": "AI 시대 SNS 마케팅 … ‘좋아요’보다 ‘공유’가 더 중요한 까닭은",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12211385",
+        "published_at": "2026-11-18T05:30:00+09:00",
+        "summary": "AI 시대 SNS 마케팅, 브랜드 경쟁력은 어디에 있나인공지능(AI)이 사진도 만들고 영상도 만든다. 이제 ‘잘 만든 콘텐츠’는 희귀하지 않다. 오히려 너무 많다. 그런데 이상하다..",
+        "category_score": 61,
+        "score_reason": "AI, 마케팅, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "마케팅",
+          "브랜드",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 마케팅, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "f1e85bad6914defc8052adca7d38c1e053f4e04e454534a492514daf87774b71",
+        "title": "수능 앞두고  SNS엔 'AI 컨닝법' 돌아…플랫폼 대응은",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118150225",
+        "published_at": "2026-11-18T16:09:46+09:00",
+        "summary": "[지디넷코리아]대학수학능력시험(수능)이 하루 앞으로 다가온 가운데 사회관계망서비스(SNS)에서 인공지능(AI)을 활용한 시험 부정행위 방법을 소개하는 게시물이 공유되고 있다. 국내외 플랫폼들은 자체 운영정책에 따라 부정행위를 조장하는 콘텐츠를 제한하고 있지만, 게시물의 내용과 목적에 따라 제재 여부가 달라질 수 있어 대응에 한계가 있다는 지적이 나오고 있다.정부도 관련 정보에 대한 대응에 나선 가운데 방송미디어통신심의위원회(방미심위)는 부정시험을 목적으로 촬영·통신 장비를 판매하는 정보를 심의할 예정이다. 다만, 단순한 기기 소개나 부정행위 수법을 설명하는 콘텐츠까지 일률적으로 제재하기는 어려워 개별 게시물의 불법성 판단이 필요한 상황이다.18일 네이버와 구글, 엑스(X) 등 주요 플랫폼에 따르면 SNS에서는 최근 세무사시험 부정행위에 사용된 것으로 알려진 초소형 카메라와 통신기기를 소개하는 콘텐츠를 어렵지 않게 찾아볼 수 있다. 일부 플랫폼에서는 해당 기기를 활용한 부정행위 방법…",
+        "category_score": 56,
+        "score_reason": "AI, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "ebe03934af0571a56f40bb78066e32dc0d3104d0cf8a9e47c814df9896c62440",
+        "title": "유라클, 행안부 '안전신문고' AI 고도화 사업 수주…차량번호 자동 인식",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118155919",
+        "published_at": "2026-11-18T15:59:26+09:00",
+        "summary": "[지디넷코리아]유라클(대표 조준희, 권태일)이 행정안전부의 안전신문고 시스템에 생성형 인공지능(AI)을 도입해 불법주정차 신고와 민원 처리 업무 자동화에 나선다.유라클은 행정안전부가 발주한 '2026년 안전신문고 시스템 기능 보강 사업'을 수주했다고 18일 밝혔다.안전신문고는 국민이 생활 속 안전 위험 요소와 불법주정차, 교통법규 위반 등을 신고하는 공공 플랫폼이다. 행정안전부의 '2025 행정안전통계연보'에 따르면 안전신문고 신고 건수는 2020년 188만 9천 건에서 2024년 1243만 5천 건으로 약 6.6배 증가했다.유라클은 이번 사업에서 생성형 AI를 활용한 신고 처리 기능을 구축한다. 불법주정차 신고 사진에 포함된 차량번호를 AI가 자동으로 판독하고, 인식한 정보를 담당 기관에 전달하는 기능이 핵심이다.신고 내용의 오탈자와 비속어를 자동으로 수정하는 기능도 추가한다. AI가 문장을 분석해 교정안을 제시하면 신고인이 이를 확인한 뒤 제출하는 방식이다.이 밖에도 신고 사진…",
+        "category_score": 56,
+        "score_reason": "AI, 생성형 AI, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "생성형 AI",
+          "플랫폼",
+          "자동화"
+        ],
+        "planning_insight": "이 항목은 AI, 생성형 AI, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "b0947bdaab3c2edbaba1799104389a70915fb6394fa3f41ef470b1ff0e1b2eb7",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 4편 - IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5896967",
+        "published_at": "2026-11-18T14:48:06+09:00",
+        "summary": "3편에서는 Fabric Manager가 NVLink로 묶어 주는 GPU 조합인 fabric partition(이하 '파티션')을 DRA(동적 리소스 할당)로 할당하고 VM에 연결했습니다. 학습 작업을 실행하려면 GPU뿐 아니라 다른 서버와 IB(InfiniBand)로 통신할 NIC(network interface card), 모델과 데이터를 읽고 쓸 로컬 스토리지도 필요합니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편: IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능 먼저 IB NIC와 로컬 NVMe를 VM에 연결하면서 겪은 문제를 살펴보고, 이어서 vCPU를 호스트 CPU에 잘못 배치해 생긴 문제와 해결 방법을 다룹니다. 끝으로 사용자가…",
+        "category_score": 54,
+        "score_reason": "데이터, AI, 성능 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "데이터",
+          "AI",
+          "성능"
+        ],
+        "planning_insight": "이 항목은 데이터, AI, 성능 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "f1100d2ea63bd0ac589f765018184e9fe3344ed1929bcf07f26ab3774bb7e194",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 3편 - Fabric Manager 파티션과 DRA를 이용한 GPU 할당",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/6180316",
+        "published_at": "2026-11-18T14:47:12+09:00",
+        "summary": "2편에서는 GPU를 vfio-pci에 바인딩해 VM에 연결하는 구조와 GPU 8장 VM의 부팅·메모리 구성을 살펴봤습니다. 이번 3편에서는 그 VM에 연결할 GPU를 어떻게 고르는지 다룹니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편: Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능 GPU 8장이 장착된 서버에서 사용자에게 GPU 2장을 제공할 때 아무 2장이나 고를 수는 없습니다. GPU 간 고속 통신에 쓰는 NVLink가 하드웨어에서 허용한 조합끼리만 연결되기 때문입니다. 이 연결 규칙을 Kubernetes의 GPU 할당에 반영하려고 장치 플러그인(device plugin)으로 여러 방법을 시도해 봤지만 원하는 조합을 보장하지 못했고,…",
+        "category_score": 46,
+        "score_reason": "AI, 성능 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "성능"
+        ],
+        "planning_insight": "이 항목은 AI, 성능 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "c5d5162bbce027611e058cb51dfb26c3f55acd37b56c420a85cccae7ffbdfb05",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 2편 - GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1376800",
+        "published_at": "2026-11-18T14:46:58+09:00",
+        "summary": "1편에서는 Kata Containers(이하 'kata')가 Pod마다 VM을 만들고 그 안에서 컨테이너를 실행하는 구조를 살펴봤습니다. 2편에서는 이 VM에 GPU를 연결합니다. 이 연재는 다음과 같이 구성됩니다. 1편 : 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편: GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능 GPU 한 장을 VM에 연결하는 구성까지는 업스트림 kata와 NVIDIA의 도구로 만들 수 있었습니다. 문제는 GPU 8장을 VM 하나에 연결했을 때 생겼습니다. VM이 제한 시간 안에 부팅하지 못했고, 요청한 것보다 작은 VM이 만들어졌으며, 게스트는 호스트의 소켓 구조를 모른 채 메모리를 할당했습니다. 이번 편에서는 GPU가 호스트에서 VM 안의 컨테이너까지 거치는 계…",
+        "category_score": 46,
+        "score_reason": "AI, 성능 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "성능"
+        ],
+        "planning_insight": "이 항목은 AI, 성능 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "04d151245393dfeb366d79737e3deba801fa29272d854468b8b63f34ad307ebe",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 1편 - 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/8055238",
+        "published_at": "2026-11-18T14:46:34+09:00",
+        "summary": "GPU 서버 한 대를 여러 사용자가 함께 쓴다면 사용자의 작업을 어디까지 격리해야 할까요? 적어도 한 사용자의 컨테이너 탈출이 같은 서버에 있는 다른 사용자의 작업이나 GPU 접근으로 이어져서는 안 됩니다. Kubernetes 위에서 NVIDIA GPU 환경을 격리하면서 겪은 문제와 해결 방법을 네 편으로 나누어 정리했습니다. 1편: 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능 1편에서는 컨테이너와 VM의 차이를 알아보고, Kata Containers(이하 'kata')가 Pod를 VM 안에서 실행하는 과정을 따라가 보겠습니다. GPU, 네트워크, 스토리지를 VM에 연결하고 vCPU를 배치하는 과정은 2편부터 다룹니다. 모든 편은 다음…",
+        "category_score": 46,
+        "score_reason": "AI, 성능 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "성능"
+        ],
+        "planning_insight": "이 항목은 AI, 성능 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "a4e3e8e172c3f33015d908cb7b5279b28611a4e60d16fc2c8860b4befd3e8ee5",
+        "title": "같은 GPU로 더 많은 AI 요청을 처리할 수 있을까? ― KV 캐시 오프로딩 × EPP 라우팅: 계산 결과를 오래 남기고, 다음 요청이 그 결과를 찾아가게 하기",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/848",
+        "published_at": "2026-11-18T00:00:00+09:00",
+        "summary": "“같은 GPU 32장, 같은 요청 3,456건. 처리 시간이 121.7분에서 47.2분으로 줄었습니다. GPU도 모델도 바꾸지 않았습니다. 바꾼 것은 두 가지입니다. 이미 계산한 결과를 GPU 밖에도 보관할 수 있게 했고, 같은 문서를 묻는 다음 요청이 그 결과를 가진 서버로 가게 했습니다.” 저희 팀은 사내 서비스가 쓰는 LLM 추론 플랫폼을 운영합니다. 모델을 GPU에 올리는 일부터 요청을 GPU로 나눠 보내는 게이트웨이까지 맡고 있습니다. 그래...",
+        "category_score": 46,
+        "score_reason": "플랫폼, AI, LLM 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "AI",
+          "LLM"
+        ],
+        "planning_insight": "이 항목은 플랫폼, AI, LLM 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "0af21c0a64945edd87c87d805a005a4542e8bed717a0b1fd0112e0aa1c2b13ba",
+        "title": "Automating literature screening and knowledge synthesis with large language models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18588",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18588v1 Announce Type: new Abstract: Scientific literature is expanding rapidly, yet much of its knowledge remains difficult to organize and reuse due to the substantial workload needed to navigate large, heterogeneous literature corpora. Here, we develop a generalizable large language model (LLM)-powered framework that automates literature screening, structured information extraction, and knowledge synthesis within a unified workflow. We benchmarked 11 state-of-the-art proprietary a…",
+        "category_score": 98,
+        "score_reason": "방대한 문헌 자료의 자동 스크리닝 및 지식 합성을 다루어, 콘텐츠 기획자가 데이터 기반 기획 및 리서치 효율을 극대화하는 데 직접적인 실무 활용성을 제공함.",
+        "keywords": [
+          "자동화",
+          "지식 합성",
+          "데이터 분석"
+        ],
+        "planning_insight": "AI를 활용한 대규모 콘텐츠 자동화 워크플로우를 구축하여 리서치 시간을 절감하고, 정교한 콘텐츠 기획의 기반을 마련할 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "23123e6fee866ab94bf72928074d57d3bc7016c2d32e47e3e84055e275c97f49",
+        "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21647",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21647v1 Announce Type: new Abstract: Generative AI agents can help journalists explore large document collections. But exploratory workflows can require substantial token use and time, especially when the task is broad and the relevant subquestions are not yet known. This paper introduces FieldGuide, an agent-facing corpus map that organizes a document collection into a topic hierarchy and exposes tools for corpus orientation, scoped search, and bounded reading. I evaluate FieldGuide…",
+        "category_score": 95,
+        "score_reason": "토큰 효율성을 극대화한 에이전트 기반의 문서 탐색 도구로, 대규모 프로젝트 기획 시 방대한 데이터를 효율적으로 처리하는 에이전트 활용법을 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "데이터 탐색",
+          "토큰 효율화"
+        ],
+        "planning_insight": "LLM 에이전트를 활용한 리서치 에이전트를 구축해 방대한 사내 문서를 빠르게 구조화하고, 기획 인사이트를 추출하는 과정을 자동화할 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "cc468e9ae441ad0bb3f5fb96fc3144cbb7b5dcf81764c18e19bd8c1536cafbd3",
+        "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18585",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18585v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents can improve long- horizon interactive decision-making through test-time evolu- tion, yet existing methods face three information bottlenecks: memory retrieval overemphasizes textual similarity, candi- date harnesses are often behaviorally redundant, and whole- harness rewriting may overwrite useful evidence or introduce cross-component inconsistency. We introduce Trident, which improves experience utilizatio…",
+        "category_score": 92,
+        "score_reason": "LLM 에이전트의 테스트 타임 진화(Robust Test-Time Evolution) 기술은 기획자가 서비스 운영 중 모델의 의사결정 성능을 지속적으로 최적화하는 데 필수적인 기술적 방향임.",
+        "keywords": [
+          "LLM 에이전트",
+          "운영 최적화",
+          "의사결정"
+        ],
+        "planning_insight": "정적인 프롬프트를 넘어 운영 중 실시간으로 개선되는 에이전트 시스템을 설계하여, 고객 응대 및 자동화 서비스의 정교함을 높일 수 있음."
+      },
+      {
+        "rank": 4,
+        "id": "d041c5e0935432b471ffa50bf54c9d0d94d7fa5a16b9e9423f0cd1377c19bea8",
+        "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21644",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21644v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) excel in vision-language tasks; yet, whether they maintain consistent understanding of information-rich visuals (InfoVis) when the surface language changes remains unclear. To quantify this capability, we introduce MInfoVisQA, a parallel benchmark with 8,960 QA configurations derived from 128 seed instances across 24 languages. We construct seed-matched, language-parallel visuals and QA pairs by disentangli…",
+        "category_score": 90,
+        "score_reason": "멀티모달 모델의 시각적 정보 이해 능력을 벤치마크하는 연구로, 비주얼 콘텐츠와 데이터를 결합한 서비스 기획 시 모델 신뢰성 검증의 표준을 제시함.",
+        "keywords": [
+          "멀티모달",
+          "벤치마크",
+          "콘텐츠 이해"
+        ],
+        "planning_insight": "이미지 기반 콘텐츠 추천이나 멀티모달 자동 분석 도구 도입 시, 모델이 정보를 얼마나 정확히 해석하는지 평가하는 기획 지표로 활용 가능."
+      },
+      {
+        "rank": 5,
+        "id": "37d9f335bf5aadaadce8560be53654dfd99b36bf79f5f263b4ba28ba93b77ec9",
+        "title": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21650",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21650v1 Announce Type: new Abstract: Sycophancy in large language models is often measured as agreement with the user, yet agreement can be appropriate when the user's claim is valid, their preference is genuine, or their experience warrants acknowledgment. We study sycophancy as inappropriate agreement: validating a claim, preference, or self-assessment when the context calls for correction, qualification, or resistance. We introduce a validity-aware sycophancy grader and SycoDrift,…",
+        "category_score": 88,
+        "score_reason": "사용자에게 무조건 맞추는 '아첨(Sycophancy)' 현상에 대한 연구로, 모델 기반 추천/개인화 서비스 기획 시 편향된 결과물을 방지하는 기획적 가이드라인을 제공함.",
+        "keywords": [
+          "개인화",
+          "모델 편향",
+          "추천 알고리즘"
+        ],
+        "planning_insight": "개인화 콘텐츠 서비스 설계 시 AI가 사용자 의견에 지나치게 동조하여 데이터가 왜곡되는 현상을 차단하고, 객관적이고 품질 높은 추천 알고리즘을 설계하는 데 활용."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "ed66017ec4374b13eaa095e49ac89e907ed92ee7c9fc0fe2f5c10918333a1beb",
+      "title": "AI 시대 SNS 마케팅 … ‘좋아요’보다 ‘공유’가 더 중요한 까닭은",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12211385",
+      "published_at": "2026-11-18T05:30:00+09:00",
+      "summary": "AI 시대 SNS 마케팅, 브랜드 경쟁력은 어디에 있나인공지능(AI)이 사진도 만들고 영상도 만든다. 이제 ‘잘 만든 콘텐츠’는 희귀하지 않다. 오히려 너무 많다. 그런데 이상하다..",
+      "category_score": 61,
+      "score_reason": "AI, 마케팅, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "마케팅",
+        "브랜드",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 AI, 마케팅, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 78,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 시대 SNS 마케팅, 브랜드 경쟁력은 어디에 있나인공지능(AI)이 사진도 만들고 영상도 만든다. 이제 ‘잘 만든 콘텐츠’는 희귀하지 않다. 오히려 너무 많다. 그런데 이상하다..",
+      "importance_reason": "AI, 마케팅, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "a9930dfcb17e4863c3cdadd8dab3519194751688c87b8a395ef2813d022a773f",
+      "title": "인크로스, ISMS-P 인증 획득...정보보호 역량 입증",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261118155242",
+      "published_at": "2026-11-18T15:55:46+09:00",
+      "summary": "[지디넷코리아]SK네트웍스 통합 마케팅 자회사 인크로스가 정보보호 개인정보보호 관리체계(ISMS-P) 인증을 획득하고 AI 기술 확산에 대응한 정보보호 체계 고도화에 나선다.인크로스는 ISMS-P 인증을 획득했다고 18일 밝혔다.ISMS-P는 과학기술정보통신부와 개인정보보호위원회가 공동 운영하는 정보보호, 개인정보보호 통합 인증 제도다. 관리체계 수립과 운영, 보호대책, 개인정보 처리 단계별 요구사항 등 101개 인증 기준을 모두 충족해야 하며, 인증 이후에도 매년 사후심사를 받아야 한다.인증 범위는 온라인 광고 서비스와 커머스 위탁 운영이며, 유효기간은 2029년 10월까지다.인크로스는 디지털 광고와 커머스 운영 과정에서 취급하는 광고 데이터와 개인정보를 안전하게 보호하기 위해 상시 보안 관리체계를 운영해 왔다. 정보자산과 위험평가, 접근권한 관리, 취약점 점검, 침해사고 대응 훈련, 백업 복구 점검은 물론 협력사 보안 관리와 내부 감사를 통해 보안 수준을 지속 점검했다.인증 과…",
+      "category_score": 63,
+      "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "마케팅",
+        "커머스",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 72,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]SK네트웍스 통합 마케팅 자회사 인크로스가 정보보호 개인정보보호 관리체계(ISMS-P) 인증을 획득하고 AI 기술 확산에 대응한 정보보호 체계 고도화에 나선다.인크로스는 ISMS-P 인증을 획득했다고…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "6069ec74c695ce0d04ec0780181b988af68ed7bd497aa0e6ecd31a8a59efcc94",
+      "title": "패스트파이브, ‘창업 베이스캠프 2기’ 8개사 확정",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261118090904",
+      "published_at": "2026-11-18T09:18:09+09:00",
+      "summary": "[지디넷코리아]패스트파이브가 초기 AI 스타트업의 성장을 지원하는 민간형 창업 지원 프로그램 '패스트파이브 창업 베이스캠프 2기'의 최종 선발을 마치고 입주 대상 8개사를 확정했다.18일 회사에 따르면, 패스트파이브 창업 베이스캠프는 초기 창업 기업이 겪는 고정비 부담과 제품 개발 외 업무 증가, 협업 인프라 구축, 채용·IR 등 대외 신뢰 확보의 어려움을 패스트파이브의 공간과 운영 역량으로 해결하기 위해 기획됐다. 앞서 지난달 29일 선릉센트럴점 컨퍼런스홀에서 2기 입주 기업 온보딩 행사 및 프로그램 오리엔테이션을 열고 본격적인 지원에 돌입했다. 이번 2기에는 AI 기술로 각 산업의 과제를 해결하는 유망 스타트업 8곳이 이름을 올렸다. 선정 기업은 AI 기반 기업 유튜브·숏폼 영상 마케팅 스튜디오 '에버마케팅스튜디오', 외식업의 레시피·원가·판매·식자재 구매 데이터를 연결해 AX 전환을 돕는 F&B 버티컬 SaaS '푸드로직', 유튜브 영상 기반 듣기·말하기·대화형 AI 영어 학…",
+      "category_score": 66,
+      "score_reason": "AI, 마케팅, 숏폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "마케팅",
+        "숏폼",
+        "유튜브",
+        "데이터"
+      ],
+      "planning_insight": "이 항목은 AI, 마케팅, 숏폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]패스트파이브가 초기 AI 스타트업의 성장을 지원하는 민간형 창업 지원 프로그램 '패스트파이브 창업 베이스캠프 2기'의 최종 선발을 마치고 입주 대상 8개사를 확정했다.18일 회사에 따르면, 패스트파이브…",
+      "importance_reason": "AI, 마케팅, 숏폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "f1e85bad6914defc8052adca7d38c1e053f4e04e454534a492514daf87774b71",
+      "title": "수능 앞두고  SNS엔 'AI 컨닝법' 돌아…플랫폼 대응은",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261118150225",
+      "published_at": "2026-11-18T16:09:46+09:00",
+      "summary": "[지디넷코리아]대학수학능력시험(수능)이 하루 앞으로 다가온 가운데 사회관계망서비스(SNS)에서 인공지능(AI)을 활용한 시험 부정행위 방법을 소개하는 게시물이 공유되고 있다. 국내외 플랫폼들은 자체 운영정책에 따라 부정행위를 조장하는 콘텐츠를 제한하고 있지만, 게시물의 내용과 목적에 따라 제재 여부가 달라질 수 있어 대응에 한계가 있다는 지적이 나오고 있다.정부도 관련 정보에 대한 대응에 나선 가운데 방송미디어통신심의위원회(방미심위)는 부정시험을 목적으로 촬영·통신 장비를 판매하는 정보를 심의할 예정이다. 다만, 단순한 기기 소개나 부정행위 수법을 설명하는 콘텐츠까지 일률적으로 제재하기는 어려워 개별 게시물의 불법성 판단이 필요한 상황이다.18일 네이버와 구글, 엑스(X) 등 주요 플랫폼에 따르면 SNS에서는 최근 세무사시험 부정행위에 사용된 것으로 알려진 초소형 카메라와 통신기기를 소개하는 콘텐츠를 어렵지 않게 찾아볼 수 있다. 일부 플랫폼에서는 해당 기기를 활용한 부정행위 방법…",
+      "category_score": 56,
+      "score_reason": "AI, 플랫폼, 콘텐츠 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 AI, 플랫폼, 콘텐츠 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 66,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 16
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]대학수학능력시험(수능)이 하루 앞으로 다가온 가운데 사회관계망서비스(SNS)에서 인공지능(AI)을 활용한 시험 부정행위 방법을 소개하는 게시물이 공유되고 있다. 국내외 플랫폼들은 자체 운영정책에 따라…",
+      "importance_reason": "AI, 플랫폼, 콘텐츠 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "a4e3e8e172c3f33015d908cb7b5279b28611a4e60d16fc2c8860b4befd3e8ee5",
+      "title": "같은 GPU로 더 많은 AI 요청을 처리할 수 있을까? ― KV 캐시 오프로딩 × EPP 라우팅: 계산 결과를 오래 남기고, 다음 요청이 그 결과를 찾아가게 하기",
+      "source": "카카오 기술블로그",
+      "group": "tech_blog",
+      "category": "platform_tech",
+      "url": "https://tech.kakao.com/posts/848",
+      "published_at": "2026-11-18T00:00:00+09:00",
+      "summary": "“같은 GPU 32장, 같은 요청 3,456건. 처리 시간이 121.7분에서 47.2분으로 줄었습니다. GPU도 모델도 바꾸지 않았습니다. 바꾼 것은 두 가지입니다. 이미 계산한 결과를 GPU 밖에도 보관할 수 있게 했고, 같은 문서를 묻는 다음 요청이 그 결과를 가진 서버로 가게 했습니다.” 저희 팀은 사내 서비스가 쓰는 LLM 추론 플랫폼을 운영합니다. 모델을 GPU에 올리는 일부터 요청을 GPU로 나눠 보내는 게이트웨이까지 맡고 있습니다. 그래...",
+      "category_score": 46,
+      "score_reason": "플랫폼, AI, LLM 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "플랫폼",
+        "AI",
+        "LLM"
+      ],
+      "planning_insight": "이 항목은 플랫폼, AI, LLM 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "“같은 GPU 32장, 같은 요청 3,456건. 처리 시간이 121.7분에서 47.2분으로 줄었습니다. GPU도 모델도 바꾸지 않았습니다. 바꾼 것은 두 가지입니다. 이미 계산한 결과를 GPU 밖에도 보관할 수 있게…",
+      "importance_reason": "플랫폼, AI, LLM 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 99,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 25,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 23,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업",
+        "카카오 기술블로그"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 18,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "토스 기술블로그"
+      ]
+    },
+    {
+      "keyword": "LLM",
+      "count": 15,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "카카오 기술블로그"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 마케팅, 콘텐츠, 데이터, 플랫폼 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "gemini"
+  }
+}
