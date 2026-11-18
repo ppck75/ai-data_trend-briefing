@@ -1,0 +1,550 @@
+{
+  "briefing_date": "2026-11-18",
+  "generated_at": "2026-11-18T12:47:53.334711+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 180,
+    "tech_blog": 9,
+    "ai_data": 11
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "986fd3632c31995abb9d43a8dfdfd2557e9bf8ffdbe46ac455b2d8d4b6721b53",
+        "title": "MS, '에이전트 중심' AI 생태계 제시…코파일럿·자체 칩까지 전방위 강화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118090341",
+        "published_at": "2026-11-18T09:04:02+09:00",
+        "summary": "[지디넷코리아]마이크로소프트가 인공지능(AI) 에이전트를 중심으로 업무 환경과 기업 데이터, 보안, 클라우드 인프라를 연결하는 '프론티어 생태계' 구축에 나선다.기존 코파일럿을 업무 전반을 처리하는 플랫폼으로 확장하고, 기업 고유의 데이터와 지식을 AI에 연결하는 기술부터 에이전트 관리, 자체 AI 모델, 보안, 반도체까지 AI 기술 전반의 경쟁력을 강화한다는 전략이다.사티아 나델라 이사회 의장 겸 최고경영자(CEO)는 연례 기술 컨퍼런스 '이그나이트 2026'에서 이 같은 AI 전략과 주요 신기술을 발표했다고 18일 밝혔다.사티아 나델라 CEO는 프론티어 생태계를 구현하기 위한 핵심 요소로 인간의 포부, 조직의 지능에 대한 통제권, 신뢰를 제시했다. AI가 단순히 업무를 지원하는 도구에 머무르지 않고 조직의 지식을 활용해 실제 업무 성과를 만들어야 한다는 설명이다.그는 \"모든 기술의 진보를 사람과 조직, 사회 전반을 위한 실질적인 성과와 새로운 가능성으로 연결해야 한다\"며 \"이를…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트가 업무 환경, 데이터, 보안, 클라우드를 연결하는 '프론티어 생태계'를 선언한 MS의 전략은 향후 2~3년간 B2B 시장의 표준이 될 핵심 트렌드임.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼",
+          "생태계"
+        ],
+        "planning_insight": "단순 업무 자동화를 넘어 업무 전반을 자율 수행하는 '에이전트 중심 설계'로 콘텐츠 및 비즈니스 모델을 전환해야 함."
+      },
+      {
+        "rank": 2,
+        "id": "226710043e50d1202325f1c653af1ef9c3faf1c46a036a15e2111b1aac4384a5",
+        "title": "“말 한마디에 공장 설계하고 숙련공 노하우까지 학습”…로크웰이 그린 ‘자율공장’ [오토메이션 페어 2026]",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12211986",
+        "published_at": "2026-11-18T08:26:32+09:00",
+        "summary": "모렛 CEO “AI로 산업 복잡성 단순화” 자동화 넘어 학습하는 자율공장 제시 팩토리토크 컨덕터로 AI 에이전트 지휘 오픈AI·앤스로픽 등 외부 AI 모델도 연결인공지능(AI)이 ..",
+        "category_score": 95,
+        "score_reason": "제조업의 AI 전환(AX)을 위한 자율 공장 및 AI 에이전트 도입은 단순 효율화를 넘어 산업 현장의 패러다임을 바꾸는 강력한 변화 신호임.",
+        "keywords": [
+          "AI 에이전트",
+          "자율 공장",
+          "산업 DX"
+        ],
+        "planning_insight": "현장 지식(도메인 노하우)을 AI 에이전트로 전이하는 데이터 전략이 기업 경쟁력의 핵심 지표가 될 것임."
+      },
+      {
+        "rank": 3,
+        "id": "679f9bf7a152f04a89b06c29ad9aa1d4191fabb1e3ed92ab344a219a106bda5b",
+        "title": "무신사, ‘프로덕트 엔지니어’ 경력직 채용",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118084958",
+        "published_at": "2026-11-18T08:58:08+09:00",
+        "summary": "[지디넷코리아]무신사가 서버·웹·모바일로 나뉘어 있던 개발 직군의 경계를 허물고 프로덕트 엔지니어(PE)로 통합한 경력직 채용을 시작하며, 자체 개발한 인공지능(AI) 에이전트를 활용해 지원자 역량을 검증하는 새로운 채용 전형을 도입한다.18일 회사에 따르면, 이번 직군 개편은 AI로 개발 환경이 빠르게 변화하는 흐름 속에서 단순 직무 구분보다 고객·비즈니스의 문제를 실질적으로 해결하는 역량에 집중하기 위해 단행됐다. PE는 입점 브랜드·고객 데이터를 직접 분석해 개선 과제를 도출하고, 특정 개발 영역에 얽매이지 않고 AI를 적극 활용해 과제를 해결하며, 나아가 고객 경험·핵심 지표가 실제로 개선됐는지 검증하는 전 과정을 책임진다. 채용 방식 역시 AI 중심으로 전면 개편했다. 무신사는 테크 조직이 직접 구축한 AI 에이전트 검증 시스템을 전형에 도입해 지원자가 실제 업무와 유사한 과제를 AI 에이전트와 협업해 수행하도록 했다. 회사는 최종 결과물뿐 아니라 지원자가 AI 에이전트를…",
+        "category_score": 92,
+        "score_reason": "기업 채용에 AI 에이전트를 도입하는 사례는 AI가 실무 역량을 검증하는 새로운 방식의 채용 시장 트렌드로 확장 가능함.",
+        "keywords": [
+          "AI 에이전트",
+          "채용",
+          "플랫폼"
+        ],
+        "planning_insight": "직무 경계가 허물어지는 시대, 역량 평가의 자동화 및 데이터 기반의 인재 매칭 콘텐츠가 유효한 시장 전략임."
+      },
+      {
+        "rank": 4,
+        "id": "9d6fbbbd8f897f03e5bca558e0642b68cb5c8a28abb38a587dd8a574d18bd083",
+        "title": "검수·통관·결제까지…사줘, K-소비재 일본 온라인 진출 지원",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261117184429",
+        "published_at": "2026-11-17T18:44:29+09:00",
+        "summary": "[지디넷코리아]사줘가 산업통상부(산업부) 및 대한무역투자진흥공사(코트라)와 손잡고 국내 유망 소비재 기업의 일본 온라인 판로 개척을 지원하는 '일본진출 K-스타트업 AI 역직구 온라인 한국관 특별전'을 개최했다.17일 회사에 따르면, 이번 특별전은 코트라가 일본 현지에서 처음 선보이는 인공지능 연계 수출지원 사업으로 내달 12일까지 운영된다. 국내 중소기업으로 구성된 50개 참가사는 별도의 일본어 판매 페이지를 제작하지 않고도 기존 국내 온라인몰을 사줘에 연결해 일본 현지 전자상거래 플랫폼에 입점하고 상품을 판매할 수 있다. 사줘에 탑재된 AI 에이전트가 국내 주요 쇼핑몰에 입점된 상품 정보를 일본 소비자 특성에 맞춰 자동으로 번역·현지화하기 때문에, 현지 소비자들은 각종 한국 제품을 일본어로 검색해 간편하게 구매할 수 있으며 원본 상품 페이지 URL을 직접 기입해 주문하는 것도 가능하다.결제 이후의 물류와 통관 절차 역시 사줘가 일괄 담당해 중소기업의 실무 부담을 덜어준다. 상품…",
+        "category_score": 89,
+        "score_reason": "AI 에이전트를 통한 실시간 현지화 및 글로벌 이커머스 연동은 중소 소비재 기업의 해외 진출을 지원하는 핵심적인 시장 확장 사례임.",
+        "keywords": [
+          "AI 에이전트",
+          "커머스",
+          "글로벌 확장"
+        ],
+        "planning_insight": "언어와 국가의 장벽을 AI가 해소함에 따라, 콘텐츠 커머스 역시 지역 특화 전략보다 범용성 있는 데이터 최적화가 필수적임."
+      },
+      {
+        "rank": 5,
+        "id": "ed66017ec4374b13eaa095e49ac89e907ed92ee7c9fc0fe2f5c10918333a1beb",
+        "title": "AI 시대 SNS 마케팅 … ‘좋아요’보다 ‘공유’가 더 중요한 까닭은",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12211385",
+        "published_at": "2026-11-18T05:30:00+09:00",
+        "summary": "AI 시대 SNS 마케팅, 브랜드 경쟁력은 어디에 있나인공지능(AI)이 사진도 만들고 영상도 만든다. 이제 ‘잘 만든 콘텐츠’는 희귀하지 않다. 오히려 너무 많다. 그런데 이상하다..",
+        "category_score": 88,
+        "score_reason": "AI 생성 콘텐츠 범람 시대에 소비자 행동(공유 vs 좋아요) 변화를 짚어내는 본 기사는 마케팅 및 콘텐츠 전략의 근본적 재정립을 시사함.",
+        "keywords": [
+          "AI",
+          "소비자 행동",
+          "마케팅"
+        ],
+        "planning_insight": "양적 생산성보다 '공유'를 유도하는 큐레이션 및 커뮤니티 연결성 강화가 콘텐츠의 질적 지표로 부상함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "09c87d3b208372ea0448358babd5df9e0a9a0e30d7d828a85f8513c790f4d6cb",
+        "title": "지표 뒤에 숨은 맥락을 한눈에: New20 Timeline Hub 만들기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/new20-timeline-hub",
+        "published_at": "2026-11-17T18:39:00+09:00",
+        "summary": "흩어진 정책, 배포, 실험 기록을 하나의 시간축으로 연결해 분석가의 질문에 답하는 허브를 만든 경험을 공유합니다.",
+        "category_score": 98,
+        "score_reason": "데이터 기반 의사결정의 핵심인 '맥락 파악'을 위한 도구적 접근이 매우 탁월함. 분석가가 파편화된 정보를 연결하여 인사이트를 도출하는 과정을 시스템화한 사례로, 데이터 활용 전략 및 운영 도구 기획 측면에서 최상위 수준.",
+        "keywords": [
+          "데이터 활용",
+          "분석 플랫폼",
+          "프로덕트 인사이트"
+        ],
+        "planning_insight": "분산된 로그와 실험 데이터를 통합 관리하는 '타임라인 허브'는 비즈니스 임팩트를 추적하고 의사결정의 정합성을 높이는 핵심 전략 자산이 될 수 있음."
+      },
+      {
+        "rank": 2,
+        "id": "6fe6af436d89cf4879926a6e082e3b9146df0b53550a34104d2a93d75909baf6",
+        "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4049909",
+        "published_at": "2026-11-16T16:55:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 코드만 남아 있던 14년 된 카페 관리도구를 AI와 함께 분석하고, Storybook과 MSW로 화면과 동작을 재현하며 새로운 카페 스튜디오를 개발했습니다. 이 과정에서 기획, 디자인, BE와의 협업 방식이 어떻게 달라졌는지 공유합니다. ​ 발표 대상 레거시 시스템 개편을 준비하는 개발자 AI를 실무에 활용하려는 엔지니어 화면과 정책을 함께 검증하며 협업하고 싶은 기획자·디자이너 ​ 목차 프로젝트 개요 구 카페 관리도구 분석 신규 스튜디오 개발 일하는 방식 마무리 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된…",
+        "category_score": 95,
+        "score_reason": "레거시 서비스의 대규모 개편 과정에서 AI를 분석 도구로 활용하고, 기획/디자인/개발의 협업 방식을 재정립한 사례. 제품 기획적 관점과 기술적 부채 해결의 균형이 매우 뛰어남.",
+        "keywords": [
+          "서비스 기획",
+          "AI 분석",
+          "협업 프로세스"
+        ],
+        "planning_insight": "낡은 시스템을 리팩토링할 때 기술적 접근을 넘어, 기획 정책과 화면 동작을 일치시키는 과정에서 AI를 활용한 분석 및 검증 체계는 실무 운영 효율화의 모범 사례임."
+      },
+      {
+        "rank": 3,
+        "id": "f0c3921600f2ce93b3ee29b7fad994ff90b800e3de6477f0f3c6a7728f307b44",
+        "title": "판단에만 집중하세요: 토스 타겟팅 모델 개발 자동화",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/targeting-model-automation",
+        "published_at": "2026-11-17T16:14:00+09:00",
+        "summary": "피쳐 개수 자동 결정부터 모델 비교, 평가 보고서 자동 생성, 메트릭 확인까지",
+        "category_score": 92,
+        "score_reason": "단순한 모델 개발을 넘어, 타겟팅 프로세스의 자동화 및 보고서 생성까지 제품화한 사례. 마케팅·추천 시스템의 생산성을 높이는 운영 전략을 보여줌.",
+        "keywords": [
+          "타겟팅",
+          "자동화",
+          "모델링"
+        ],
+        "planning_insight": "반복적인 분석 및 타겟팅 업무를 플랫폼화(자동화)하여, 현업이 의사결정(판단)에만 집중하게 만드는 제품 전략은 데이터 활용 성숙도를 보여주는 지표임."
+      },
+      {
+        "rank": 4,
+        "id": "c346242bf66eba922a13c70984bb3e57ad3a991ff6cffbcc5aa2eb7a9d766cd4",
+        "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5976687",
+        "published_at": "2026-11-16T18:04:47+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 '자율 그래프 주도 개발(Autonomous Graph-Driven Development)'에서는 사람의 직접적인 지시 없이 그래프가 프로젝트 진행을 주도합니다. 스펙 문서와 코드는 AI Agent 루프가 작성하고, 결정론적 코드가 이를 기계적으로 검사하며, 결함은 피드백 루프를 통해 자동으로 바로잡습니다. 사람이 AI를 호출하던 주도권이 역전되어 이제는 AI가 필요할 때만 사람을 호출합니다. ​ ​ 발표 대상 자율 그래프 주도 개발 방법론에 관심있는 개발자나 기획자 ​ 목차 1. AI가 다 해 주는데, 뭐가 문제지? (배경 및 문제 정의) 여전히 사람이 주도한다 요구사항은 항상 변한다 AI 협업에 남은 빈자리, 자율 진행 ​ 2. 어떻게 스스로 굴러가게 할까? (접근 방법 및 실행 과정) Autonomous Graph-Driven Developmen…",
+        "category_score": 89,
+        "score_reason": "AI가 개발 주도권을 가지는 '자율 개발 방법론'을 제시. 미래 지향적 개발 생태계와 기획 구조를 조망하고 있어 전략가에게 매우 높은 수준의 구조적 인사이트를 제공함.",
+        "keywords": [
+          "AI Agent",
+          "개발 프로세스",
+          "방법론"
+        ],
+        "planning_insight": "AI가 기획-검증-구현을 주도하는 구조로의 전환은 서비스 운영의 비용 구조를 혁신하며, 향후 제품 전략 수립 시 AI 에이전트를 조직의 일원으로 고려하는 기준점이 됨."
+      },
+      {
+        "rank": 5,
+        "id": "c1977c3748ed83494f0b8c9dac1d6aee28f8d757cda14e9d208d90e077b16853",
+        "title": "같은 모델, 다른 예측",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/training-serving-skew",
+        "published_at": "2026-11-17T10:00:00+09:00",
+        "summary": "Training–Serving Skew를 줄인 과정을 소개합니다.",
+        "category_score": 85,
+        "score_reason": "Training-Serving Skew(학습과 서빙 시의 데이터 불일치) 문제는 추천 및 예측 모델 서비스 기획의 핵심 난제임. 이를 해결한 경험은 사용자 경험 일관성을 확보하는 전략적 가치가 큼.",
+        "keywords": [
+          "추천 모델",
+          "데이터 일관성",
+          "모델링"
+        ],
+        "planning_insight": "모델의 기술적 정확성뿐만 아니라, 실제 서비스 사용자에게 전달되는 예측 결과의 품질을 관리하는 것이 곧 서비스 만족도와 직결되는 핵심임을 입증함."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "ff1644d9c881ac5793822b6c46a118d09c3cbad959d5e54364290eea2967c9fc",
+        "title": "AWS Emulator를 만든 자율 AI 에이전트 팀 비하인드 스토리",
+        "source": "AWS 한국 블로그",
+        "group": "ai_data",
+        "category": "cloud_data_infra",
+        "url": "https://aws.amazon.com/ko/blogs/korea/how-autonomous-ai-agents-built-aws-emulator/",
+        "published_at": "2026-11-16T22:44:57+09:00",
+        "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
+        "category_score": 95,
+        "score_reason": "자율 AI 에이전트가 실제 소프트웨어 개발 및 테스트를 자동화하는 사례를 제시하여, 콘텐츠 제작 및 워크플로우 자동화 기획에 직접적인 영감을 줌.",
+        "keywords": [
+          "AI 에이전트",
+          "자동화",
+          "소프트웨어 개발"
+        ],
+        "planning_insight": "기획 업무의 단순 반복 영역을 AI 에이전트로 대체하는 '자율적 워크플로우' 구축에 대한 실질적인 벤치마킹 모델로 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "0af21c0a64945edd87c87d805a005a4542e8bed717a0b1fd0112e0aa1c2b13ba",
+        "title": "Automating literature screening and knowledge synthesis with large language models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18588",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18588v1 Announce Type: new Abstract: Scientific literature is expanding rapidly, yet much of its knowledge remains difficult to organize and reuse due to the substantial workload needed to navigate large, heterogeneous literature corpora. Here, we develop a generalizable large language model (LLM)-powered framework that automates literature screening, structured information extraction, and knowledge synthesis within a unified workflow. We benchmarked 11 state-of-the-art proprietary a…",
+        "category_score": 90,
+        "score_reason": "방대한 문헌 데이터를 수집·분석·합성하는 LLM 프레임워크를 다루고 있어, 데이터 기반 콘텐츠 기획 및 인사이트 도출 자동화에 매우 유용함.",
+        "keywords": [
+          "LLM",
+          "데이터 자동화",
+          "지식 합성"
+        ],
+        "planning_insight": "시장 조사나 트렌드 분석 등 기획 초기 단계의 리서치 업무를 자동화하고 체계화하는 시스템 구축에 필수적인 기술 흐름임."
+      },
+      {
+        "rank": 3,
+        "id": "cc468e9ae441ad0bb3f5fb96fc3144cbb7b5dcf81764c18e19bd8c1536cafbd3",
+        "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18585",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18585v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents can improve long- horizon interactive decision-making through test-time evolu- tion, yet existing methods face three information bottlenecks: memory retrieval overemphasizes textual similarity, candi- date harnesses are often behaviorally redundant, and whole- harness rewriting may overwrite useful evidence or introduce cross-component inconsistency. We introduce Trident, which improves experience utilizatio…",
+        "category_score": 88,
+        "score_reason": "LLM 에이전트의 의사결정 효율성을 높이는 테스트 타임 진화 기법을 다룸. 더 정교하고 논리적인 콘텐츠 생성을 위한 에이전트 고도화에 중요함.",
+        "keywords": [
+          "LLM 에이전트",
+          "의사결정",
+          "최적화"
+        ],
+        "planning_insight": "단순 답변 생성을 넘어 복잡한 단계별 콘텐츠 기획이나 미션 수행을 자동화할 때, 에이전트의 정확도와 품질을 개선하는 전략으로 활용 가능."
+      },
+      {
+        "rank": 4,
+        "id": "a921b25daa8903a8e2ea4c7d70e0ea5890eb59351daa51d26d614724ddffc2b4",
+        "title": "OmniTag-LLM: Multilingual Multitask Speech Tagging",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18589",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18589v1 Announce Type: new Abstract: Multimodal LLMs promise to replace the traditional cascade of specialist speech models with a single system that, from one audio clip, jointly transcribes and labels emotion, gender, language, and named entities. Yet most benchmarks still score these tasks in isolation, and largely in English. We introduce OmniTag-Bench, a five-language benchmark (en/de/es/fr/it) and training recipe for joint understanding: one audio clip in, one JSON object out (…",
+        "category_score": 85,
+        "score_reason": "음성 데이터에서 감정, 성별, 화자 등을 동시에 추출하는 멀티모달 LLM 기술로, 오디오/비디오 콘텐츠 분석 및 타겟팅 자동화에 직접 연결됨.",
+        "keywords": [
+          "멀티모달",
+          "음성 분석",
+          "데이터 태깅"
+        ],
+        "planning_insight": "영상 및 음성 콘텐츠 제작 시, 자동 메타데이터 태깅과 시청자 반응 분석에 적용하여 콘텐츠 추천 알고리즘의 정교함을 높일 수 있음."
+      },
+      {
+        "rank": 5,
+        "id": "b630a04aa359c510691ac988771f462264a41cd5950882784258d702cd68500a",
+        "title": "Human vs Machine Translation Detection: A Cross-Model, Cross-Domain, and Low-Resource Analysis",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.18586",
+        "published_at": "2026-11-17T14:00:00+09:00",
+        "summary": "arXiv:2611.18586v1 Announce Type: new Abstract: The growing reliance on web-crawled corpora for training large language models introduces a critical challenge: machine-translated (MT) content is often treated as human translation (HT), potentially degrading data quality and propagating synthetic artifacts, especially in low-resource settings. In this work, we study MT-HT detectability across high-resource (English, Spanish) and low-resource (Swahili, Afrikaans) languages using both decoder-only…",
+        "category_score": 82,
+        "score_reason": "기계 번역과 사람의 번역을 식별하는 연구로, AI 생성 콘텐츠(AIGC)의 품질 관리 및 진위 판별이 필요한 플랫폼 전략에 필수적임.",
+        "keywords": [
+          "데이터 품질",
+          "번역",
+          "AIGC"
+        ],
+        "planning_insight": "AI 기반 자동 생성 콘텐츠의 대규모 도입 시, 품질 저하를 막기 위한 필터링 및 콘텐츠 검증 프로세스 기획에 중요한 기술적 기준을 제공함."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "986fd3632c31995abb9d43a8dfdfd2557e9bf8ffdbe46ac455b2d8d4b6721b53",
+      "title": "MS, '에이전트 중심' AI 생태계 제시…코파일럿·자체 칩까지 전방위 강화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261118090341",
+      "published_at": "2026-11-18T09:04:02+09:00",
+      "summary": "[지디넷코리아]마이크로소프트가 인공지능(AI) 에이전트를 중심으로 업무 환경과 기업 데이터, 보안, 클라우드 인프라를 연결하는 '프론티어 생태계' 구축에 나선다.기존 코파일럿을 업무 전반을 처리하는 플랫폼으로 확장하고, 기업 고유의 데이터와 지식을 AI에 연결하는 기술부터 에이전트 관리, 자체 AI 모델, 보안, 반도체까지 AI 기술 전반의 경쟁력을 강화한다는 전략이다.사티아 나델라 이사회 의장 겸 최고경영자(CEO)는 연례 기술 컨퍼런스 '이그나이트 2026'에서 이 같은 AI 전략과 주요 신기술을 발표했다고 18일 밝혔다.사티아 나델라 CEO는 프론티어 생태계를 구현하기 위한 핵심 요소로 인간의 포부, 조직의 지능에 대한 통제권, 신뢰를 제시했다. AI가 단순히 업무를 지원하는 도구에 머무르지 않고 조직의 지식을 활용해 실제 업무 성과를 만들어야 한다는 설명이다.그는 \"모든 기술의 진보를 사람과 조직, 사회 전반을 위한 실질적인 성과와 새로운 가능성으로 연결해야 한다\"며 \"이를…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트가 업무 환경, 데이터, 보안, 클라우드를 연결하는 '프론티어 생태계'를 선언한 MS의 전략은 향후 2~3년간 B2B 시장의 표준이 될 핵심 트렌드임.",
+      "keywords": [
+        "AI 에이전트",
+        "프론티어 생태계",
+        "B2B 플랫폼"
+      ],
+      "planning_insight": "콘텐츠 제작자가 직접 만드는 콘텐츠가 아니라, 사용자 업무 환경 속에 개입하여 실질적 성과를 만드는 '에이전트 중심의 콘텐츠 설계'로 전략 이동 필요.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "MS, AI 에이전트 중심의 업무 생태계 선언으로 B2B 비즈니스 표준 재정립",
+      "importance_reason": "단순 도구적 AI에서 자율 수행 중심의 에이전트 체제로의 전환은 향후 기업의 콘텐츠 운영과 데이터 활용 전략의 핵심 지표이기 때문."
+    },
+    {
+      "rank": 2,
+      "id": "09c87d3b208372ea0448358babd5df9e0a9a0e30d7d828a85f8513c790f4d6cb",
+      "title": "지표 뒤에 숨은 맥락을 한눈에: New20 Timeline Hub 만들기",
+      "source": "토스 기술블로그",
+      "group": "tech_blog",
+      "category": "product_tech",
+      "url": "https://toss.tech/article/new20-timeline-hub",
+      "published_at": "2026-11-17T18:39:00+09:00",
+      "summary": "흩어진 정책, 배포, 실험 기록을 하나의 시간축으로 연결해 분석가의 질문에 답하는 허브를 만든 경험을 공유합니다.",
+      "category_score": 98,
+      "score_reason": "데이터 기반 의사결정의 핵심인 '맥락 파악'을 위한 도구적 접근이 매우 탁월함. 분석가가 파편화된 정보를 연결하여 인사이트를 도출하는 과정을 시스템화한 사례로, 데이터 활용 전략 및 운영 도구 기획 측면에서 최상위 수준.",
+      "keywords": [
+        "데이터 허브",
+        "의사결정 시각화",
+        "맥락 분석"
+      ],
+      "planning_insight": "데이터 기반 콘텐츠 기획 시 파편화된 성과 지표들을 하나의 타임라인으로 통합하여, 히스토리를 분석하고 다음 전략을 수립하는 운영 프레임워크 구축이 필수적임.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "토스의 '타임라인 허브' 사례로 보는 파편화된 데이터의 맥락화 및 전략 의사결정 방식",
+      "importance_reason": "데이터 홍수 시대에 필요한 것은 데이터 그 자체가 아니라 이를 연결하여 맥락을 읽어내는 시스템임을 입증하는 고도의 기획 사례임."
+    },
+    {
+      "rank": 3,
+      "id": "679f9bf7a152f04a89b06c29ad9aa1d4191fabb1e3ed92ab344a219a106bda5b",
+      "title": "무신사, ‘프로덕트 엔지니어’ 경력직 채용",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261118084958",
+      "published_at": "2026-11-18T08:58:08+09:00",
+      "summary": "[지디넷코리아]무신사가 서버·웹·모바일로 나뉘어 있던 개발 직군의 경계를 허물고 프로덕트 엔지니어(PE)로 통합한 경력직 채용을 시작하며, 자체 개발한 인공지능(AI) 에이전트를 활용해 지원자 역량을 검증하는 새로운 채용 전형을 도입한다.18일 회사에 따르면, 이번 직군 개편은 AI로 개발 환경이 빠르게 변화하는 흐름 속에서 단순 직무 구분보다 고객·비즈니스의 문제를 실질적으로 해결하는 역량에 집중하기 위해 단행됐다. PE는 입점 브랜드·고객 데이터를 직접 분석해 개선 과제를 도출하고, 특정 개발 영역에 얽매이지 않고 AI를 적극 활용해 과제를 해결하며, 나아가 고객 경험·핵심 지표가 실제로 개선됐는지 검증하는 전 과정을 책임진다. 채용 방식 역시 AI 중심으로 전면 개편했다. 무신사는 테크 조직이 직접 구축한 AI 에이전트 검증 시스템을 전형에 도입해 지원자가 실제 업무와 유사한 과제를 AI 에이전트와 협업해 수행하도록 했다. 회사는 최종 결과물뿐 아니라 지원자가 AI 에이전트를…",
+      "category_score": 92,
+      "score_reason": "기업 채용에 AI 에이전트를 도입하는 사례는 AI가 실무 역량을 검증하는 새로운 방식의 채용 시장 트렌드로 확장 가능함.",
+      "keywords": [
+        "AI 채용",
+        "프로덕트 엔지니어",
+        "역량 검증"
+      ],
+      "planning_insight": "AI와 협업하여 문제를 해결하는 역량 자체가 새로운 직무 기준이 됨에 따라, 교육/콘텐츠 서비스 분야의 평가 모델 자동화에 벤치마킹 필요.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "무신사의 AI 에이전트 협업 채용 도입, 실무 역량 평가의 패러다임 변화",
+      "importance_reason": "채용 시장에서 AI를 단순 서류 필터링이 아닌, 실제 실무 협업 능력 검증 도구로 도입한 것은 매우 유의미한 시장 신호임."
+    },
+    {
+      "rank": 4,
+      "id": "ff1644d9c881ac5793822b6c46a118d09c3cbad959d5e54364290eea2967c9fc",
+      "title": "AWS Emulator를 만든 자율 AI 에이전트 팀 비하인드 스토리",
+      "source": "AWS 한국 블로그",
+      "group": "ai_data",
+      "category": "cloud_data_infra",
+      "url": "https://aws.amazon.com/ko/blogs/korea/how-autonomous-ai-agents-built-aws-emulator/",
+      "published_at": "2026-11-16T22:44:57+09:00",
+      "summary": "AWS 에뮬레이터는 AWS 서비스의 로컬 에뮬레이터로, 100% 자율 AI 에이전트가 작성합니다. 수천 명의 자율 에이전트가 테스트를 작성하고, 문제를 발견하며, 사람을 검토하지 않고도 코드를 수정합니다. 소스 코드는 GitHub 에서 CC0 라이선스 하에 제공되며 지속적으로 업데이트되고 있습니다.",
+      "category_score": 95,
+      "score_reason": "자율 AI 에이전트가 실제 소프트웨어 개발 및 테스트를 자동화하는 사례를 제시하여, 콘텐츠 제작 및 워크플로우 자동화 기획에 직접적인 영감을 줌.",
+      "keywords": [
+        "자율 에이전트",
+        "테스트 자동화",
+        "워크플로우"
+      ],
+      "planning_insight": "콘텐츠 제작의 반복적인 QA(품질보증) 및 최적화 작업을 사람이 아닌 AI 루프에 맡기는 '자율적 콘텐츠 검수 시스템' 기획에 활용.",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AWS 에뮬레이터를 작성하는 100% 자율 AI 에이전트 팀의 사례와 시사점",
+      "importance_reason": "인간의 개입을 최소화하고 에이전트가 테스트와 수정을 반복하는 구조는 콘텐츠 제작 워크플로우 자동화의 미래 모델임."
+    },
+    {
+      "rank": 5,
+      "id": "ed66017ec4374b13eaa095e49ac89e907ed92ee7c9fc0fe2f5c10918333a1beb",
+      "title": "AI 시대 SNS 마케팅 … ‘좋아요’보다 ‘공유’가 더 중요한 까닭은",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12211385",
+      "published_at": "2026-11-18T05:30:00+09:00",
+      "summary": "AI 시대 SNS 마케팅, 브랜드 경쟁력은 어디에 있나인공지능(AI)이 사진도 만들고 영상도 만든다. 이제 ‘잘 만든 콘텐츠’는 희귀하지 않다. 오히려 너무 많다. 그런데 이상하다..",
+      "category_score": 88,
+      "score_reason": "AI 생성 콘텐츠 범람 시대에 소비자 행동(공유 vs 좋아요) 변화를 짚어내는 본 기사는 마케팅 및 콘텐츠 전략의 근본적 재정립을 시사함.",
+      "keywords": [
+        "SNS 마케팅",
+        "공유 지표",
+        "AI 범람"
+      ],
+      "planning_insight": "AI 자동 생성 콘텐츠의 생산 효율성보다는, 커뮤니티 내에서 확산성을 가질 수 있는 큐레이션 역량과 개인화된 가치 전달이 생존 전략임.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 콘텐츠 범람 시대, 소비자 행동의 핵심 지표가 '좋아요'에서 '공유'로 이동하는 이유",
+      "importance_reason": "AI 기술적 발전보다 중요한 '소비자 심리 변화'를 정확히 타격한 분석으로, 콘텐츠 마케터가 직면한 현실적인 과제를 제시함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 90,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "AWS 한국 블로그",
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 28,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 19,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "당근 기술블로그",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 18,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "토스 기술블로그"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 10,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트가 단순 도구를 넘어 의사결정, 채용 검증, 기술 개발 등 업무 프로세스 전반을 주도하는 구조적 변화가 가속화되고 있음.",
+    "기술블로그 및 연구 분야에서 파편화된 데이터의 맥락화와 자동화 도구 도입이 활발하며, 이는 향후 모든 서비스 기획의 표준 운영 전략이 될 것임.",
+    "AI 콘텐츠 생산성이 평준화되면서 마케팅의 핵심 전략은 양적 생산이 아닌 소비자 행동(공유)을 이끌어내는 고품질 큐레이션으로 이동 중임."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
