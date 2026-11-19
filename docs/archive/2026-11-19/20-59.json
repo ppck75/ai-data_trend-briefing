@@ -1,0 +1,561 @@
+{
+  "briefing_date": "2026-11-19",
+  "generated_at": "2026-11-19T20:59:15.466245+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 169,
+    "tech_blog": 8,
+    "ai_data": 23
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "bd1d31f56c751a33610df9beef5c422869ce23a1e95148da534bcb1aa176f547",
+        "title": "\"AI 먼저 써본 기업이 더 번다\"…MS, 50만 파트너사에 '고객 제로' 전략 제시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119054510",
+        "published_at": "2026-11-19T05:45:18+09:00",
+        "summary": "[지디넷코리아]마이크로소프트가 전 세계 50만 개 이상 파트너를 중심으로 인공지능(AI) 사업 생태계 확대에 나섰다. 기존 소프트웨어 판매와 구축을 넘어 AI 에이전트 운영·보안·비용 최적화까지 파트너의 사업 영역을 넓히겠다는 전략이다.이를 위해 파트너가 내부 업무에 AI를 먼저 적용해 성과를 검증하고, 이를 고객 대상 솔루션과 서비스로 확장하는 '고객 제로(Customer Zero)' 전략을 강조했다.마이크로소프트는 19일 미국 샌프란시스코에서 열린 '이그나이트 2026' 파트너 기조연설에서 '프론티어 생태계(Frontier Ecosystem)' 전략을 발표했다.니콜 데젠 마이크로소프트 최고파트너책임자(CPO)는 “AI는 모든 조직이 운영하고 성장하고 경쟁하는 방식을 바꾸고 있다”며 \"그 변화가 모든 산업과 고객, 지역사회에 어떻게 닿을지는 파트너가 결정한다\"고 말했다.사티아 나델라 마이크로소프트 최고경영자(CEO)도 영상 메시지에서 \"조직들은 단순한 AI 도입을 넘어 일하는 방…",
+        "category_score": 98,
+        "score_reason": "AI 기술의 기업 내재화 및 '고객 제로' 전략은 B2B SaaS 및 에이전트 시장의 핵심 트렌드임.",
+        "keywords": [
+          "AI",
+          "에이전트",
+          "B2B",
+          "전략"
+        ],
+        "planning_insight": "기업들이 AI를 도입 단계에서 운영·최적화 단계로 넘어가는 현상을 포착해, AI 워크플로우 효율화 사례 중심 콘텐츠 구성 필요."
+      },
+      {
+        "rank": 2,
+        "id": "43d6fbc5ab563000fa3f1942906aee62421b642ea6edbf6c7bee37635219fe36",
+        "title": "마이크로소프트와 산업 내 여러 조직들, AI 모델 및 에이전트에 대한 기업 신뢰 강화를 위해 AI 투명성 이니셔티브 출범",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119021003",
+        "published_at": "2026-11-19T02:10:03+09:00",
+        "summary": "[지디넷코리아] 마이크로소프트는 새로 출범한 AI 투명성 이니셔티브를 통해 액센츄어, 어도비, KPMG, 마스터카드, 볼보자동차 등 40곳이 넘는 조직과 함께 AI 모델과 제공업체 전반에 걸쳐 투명성, 보안, 거버넌스에 대한 공통된 접근 방식을 마련하고 있다. 또한 자사 제품과 서비스 전반에서 AI 모델과 에이전트가 기업 데이터와 어떻게 상호작용하는지 고객이 더 명확히 파악할 수 있도록 할 계획이다. 레드먼드, 워싱턴, 2026년 11월 19일 /PRNewswire/ -- 조직은 AI 모델을 둘러싼 활동의 상당 부분을 관찰할 수 있지만, 요청을 받은 시점부터 결과가 나오기까지 어떤 일이 있었는지 재구성하기 어려운 경우가 많아 모델의 동작을 독립적으로 검증하는 데 한계가 있다. 마이크로소프트(Microsoft)의 사티아 나델라(Satya Nadella) 회장 겸 최고경영자(CEO)는 17일(화) 마이크로소프트 이그나이트(Microsoft Ignite)에서 AI의 안전성을 높이기 위한…",
+        "category_score": 95,
+        "score_reason": "글로벌 기업 40여 곳이 참여한 AI 투명성 이니셔티브는 향후 AI 규제와 거버넌스의 표준이 될 중요한 변화 신호임.",
+        "keywords": [
+          "AI",
+          "투명성",
+          "거버넌스",
+          "신뢰"
+        ],
+        "planning_insight": "AI 윤리 및 데이터 거버넌스가 기업 생존의 핵심이 되는 흐름을 반영하여, '신뢰할 수 있는 AI' 구축 방법론 콘텐츠 강화."
+      },
+      {
+        "rank": 3,
+        "id": "fa3b0ec2e87dc2cab2f0c9f4d8e79f000060e0d02da7b225c49ff6391f1d2a4c",
+        "title": "WPP 신디 로즈 CEO, C 스페이스® 기조연설에서 AI 시대 데이터 독립성과 신뢰의 중요성 조명",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119061002",
+        "published_at": "2026-11-19T06:10:02+09:00",
+        "summary": "[지디넷코리아] 뉴욕, 2026년 11월 19일 /PRNewswire/ -- CES®를 소유하고 주최하는 미국소비자기술협회(Consumer Technology Association, CTA)®가 뉴욕에서 열린 언론 행사에서 WPP의 신디 로즈(Cindy Rose) 최고경영자(CEO)가 C 스페이스(C Space®) 기조연설에 나선다고 발표했다. 로즈 CEO는 AI가 광고 산업 전반을 재편함에 따라 데이터 독립성과 신뢰가 핵심 기반이 된 이유를 짚어본다. 생성형 AI와 에이전틱 AI가 의사결정과 상품 구매 방식에 미치는 영향이 커지는 가운데, 브랜드가 사람의 선택과 알고리즘의 판단 모두에 영향력을 확보해야 하는 이유와 이를 위해 신뢰와 투명성, 개방형 표준이 왜 필수적인지 설명할 예정이다. Cindy Rose, Chief Executive Officer, WPP CTA의 사장인 킨지 파브리치오(Kinsey Fabrizio) CEO는 \"AI는 광고 전반에 새로운 기회를 열어 브랜드가…",
+        "category_score": 92,
+        "score_reason": "광고 산업 전반의 AI 재편과 데이터 독립성 문제를 다루고 있어 마케팅/플랫폼 전략 측면에서 필수적임.",
+        "keywords": [
+          "AI",
+          "광고",
+          "데이터",
+          "플랫폼"
+        ],
+        "planning_insight": "알고리즘 중심의 구매 결정 환경에서 브랜드 영향력을 확보하는 전략과 데이터 보안 기반의 마케팅 콘텐츠 기획."
+      },
+      {
+        "rank": 4,
+        "id": "ea3f34097445985864777bbb15fa4052d4cd224ce12ad5c0a487ffa9faac9ba2",
+        "title": "이세영 뤼튼 \"AI 캐릭터·스토리 플랫폼 크랙 IP, 게임·웹툰·영화 등 확장\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119131456",
+        "published_at": "2026-11-19T13:15:35+09:00",
+        "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에 마련한 지스타 2026 크랙 간담회 자리서 ‘글로벌 컨슈머 AI 기업이 그리는 엔터테인먼트의 미래’를 주제로 발표했다.이 대표는 뤼튼이 지스타에 참가한 이유로 \"AI와 게임의 공통점인 상호작용\"을 꼽았다. 특히 이용자가 직접 참여하고 선택에 따라 결과가 달라진다는 점에서 AI 엔터테인먼트와 게임이 맞닿아 있다는 것이 이 대표의 설명이었다.또 이날 AI 캐릭터·스토리 플랫폼인 크랙의 성장 전략과 함께 서비스 지역과 지원 언어를 확대한다는 계획도 밝혔다. 크랙의 오리지널 지식재산권(IP)을 게임과 웹툰, 웹소설, 애니메이션, 영화 등으로 확장하는 사업 계획도 밝혀 눈길을 끌기도 했다.이러한 계획은 크랙 서비스에 대한 확장 가능성을 엿봤고, 새로운 놀이문화로 이용자에게 긍정적인 평가를 받았기 때문으로 풀이된다.이 대표는 \"한국과 북미, 일본에 이어 서비스 지역과 지…",
+        "category_score": 89,
+        "score_reason": "AI 엔터테인먼트와 게임의 융합을 통한 콘텐츠 IP 확장은 향후 미디어 콘텐츠 시장의 강력한 트렌드임.",
+        "keywords": [
+          "AI",
+          "엔터테인먼트",
+          "IP",
+          "플랫폼"
+        ],
+        "planning_insight": "상호작용 기반의 AI 캐릭터/스토리 플랫폼을 활용한 트랜스미디어 콘텐츠 전략 및 참여형 창작 생태계에 주목."
+      },
+      {
+        "rank": 5,
+        "id": "63df72f3a6ea99a40c95f44d30781f461233fcc5ec4387d779b584505512e50a",
+        "title": "아이소모픽 랩스, 시리즈 C에서 50억 달러 투자 유치 발표",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261118221002",
+        "published_at": "2026-11-18T22:10:02+09:00",
+        "summary": "[지디넷코리아] 아이소모픽 랩스, 시뮬레이션 파운데이션 모델을 고도화하고 자체 및 공동 신약 후보물질 파이프라인을 발전시키고 확대하는 한편, AI 주도 바이오엔지니어링을 위한 글로벌 인프라 구축하면서 그린오크스와 세쿼이아 캐피털이 초과 청약된 이번 라운드 공동으로 주도 런던, 2026년 11월 18일 /PRNewswire/ -- 신약 설계와 개발에 주력하는 인공지능(AI) 기업 아이소모픽 랩스(Isomorphic Labs)가 오늘 시리즈 C 투자 라운드에서 50억 달러를 유치했다고 발표했다. 그린오크스(Greenoaks)와 세쿼이아 캐피털(Sequoia Capital)이 이번 라운드를 공동 주도했으며, 앤드리슨 호로위츠(Andreessen Horowitz, a16z)를 비롯한 여러 신규 투자자가 참여했다. 알파벳(Alphabet)도 대규모 후속 투자를 단행했다. 기존 투자자인 스라이브 캐피털(Thrive Capital), MGX, GV, 캐피털G(CapitalG), 테마섹(Tema…",
+        "category_score": 87,
+        "score_reason": "바이오와 AI의 결합은 단순한 IT 기술을 넘어 고부가가치 산업으로 확장되는 강력한 시장 변화 신호임.",
+        "keywords": [
+          "AI",
+          "바이오엔지니어링",
+          "시뮬레이션"
+        ],
+        "planning_insight": "특수 산업 분야(바이오/신약)의 AI 파운데이션 모델 활용이 불러올 파괴적 혁신을 주제로 한 산업 전문 콘텐츠 제작."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "f0848ee0137dc35615113435b21518c218c0fa641c209df12565eeda260fc392",
+        "title": "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5037527",
+        "published_at": "2026-11-19T15:57:02+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 가상의 물류회사가 매일 받는 \"이 화물 지금 어디 있고, 예외가 있었나?\"라는 질문 하나에서 출발해, 온톨로지를 어떻게 만들고 사람과 AI가 그 위에서 어떻게 찾아보고 일을 처리하는지 실제 화면으로 보여 드리는 발표입니다. 온톨로지 구축 부터 활용까지, 고객의 질문을 답하는 방향성으로 소개합니다. ​ 온톨로지 소개 가상의 물류회사 온톨로지 구축 사례로 구축부터 활용까지 전 과정 소개 발표 전체를 관통하는 두 가지 질문 조회: “S-15262 화물은 지금 어디 있고, 예외가 있었나?” 조작: \"예외 난 소포, 다시 배송 보낼 수 있나?\" LLM 단독, RAG, 온톨로지의 비교 FDE 설명 ​ 발표 대상 온톨로지의 개념을 이해하고 실제 업무에 적용해보고 싶은 분 ​ 목차 오프닝: 하나의 질문, 세 가지 방식 시스템이 분리된 물류 현장에서는 단순한 질문에도 답…",
+        "category_score": 95,
+        "score_reason": "사용자의 질문에서 출발해 데이터 모델링(온톨로지)과 실무 적용까지 연결되는 서비스 기획의 핵심 프로세스를 잘 보여줌.",
+        "keywords": [
+          "온톨로지",
+          "데이터 모델링",
+          "사용자 경험"
+        ],
+        "planning_insight": "데이터를 구조화할 때 기술적 구현보다 사용자의 '질문'과 '업무 맥락'을 중심에 두는 기획의 중요성 제시."
+      },
+      {
+        "rank": 2,
+        "id": "f2fb99d04733a33e00e2df1e01f9177adeb9c839ee9318fef89a1f86efb733b6",
+        "title": "Devops Agent 리포트 오이데~ 평가 야호~",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/0118355",
+        "published_at": "2026-11-19T15:47:44+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 통합검색 알람 발생 시 1분 내 장애 1차 진단 리포트를 이슈로 남기는 에이전트, 그 결과를 평가해 시스템 정확도를 도출한 이야기 ​ 발표 대상 LLM 기반의 이상 신호 분석 시스템을 운영하고자 하는 독자 LLM 기반의 평가 시스템을 운영하고자 하는 독자 ​ 목차 Devops Agent 소개 에이전트라서 생기는 문제 평가 기준 정하기 평가 시스템 구성 평가 시스템 구축 평가 시스템의 미래 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+        "category_score": 92,
+        "score_reason": "LLM 에이전트의 결과물을 정량적으로 평가하고 시스템 정확도를 도출하는 방법론을 제시하여 AI 서비스 운영 전략 수립에 실질적 도움을 줌.",
+        "keywords": [
+          "LLM",
+          "에이전트",
+          "평가 시스템"
+        ],
+        "planning_insight": "AI 서비스의 안정성을 확보하기 위한 '평가 프레임워크' 구축의 필수성을 입증함."
+      },
+      {
+        "rank": 3,
+        "id": "4a3dcfba63845e6260dfdfb6a341f57baf66ab4a7f19edf2cf5e197cfd76dd0c",
+        "title": "부족한 건 모델이 아니라 팀 문서였다: 팀 공유 지식층 Third Brain 구축기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2622882",
+        "published_at": "2026-11-19T14:36:19+09:00",
+        "summary": "​ 네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI가 답을 못 맞히는 이유가 모델이 아니라 팀 문서의 부재라는 것을 확인하고, 팀 위키를 AI가 읽고 쓰는 공유 지식층으로 만들어 운영한 경험을 공유합니다. ​ 발표 대상 팀 지식을 정리하는 방법을 고민중인 개발자 ​ 목차 에이전트가 우리 팀 일을 못 했다 Third Brain 이란 어디에 적나요? 문서는 누가 업데이트하나요? AI가 쓴 걸 믿을 수 있나요? 그래서 잘 동작하나요? 다시 첫 장면으로 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과…",
+        "category_score": 88,
+        "score_reason": "데이터의 품질이 곧 AI 성능의 핵심임을 지적하며, 조직의 지식 관리(Knowledge Management)와 도구적 접근을 결합한 운영 전략을 제시함.",
+        "keywords": [
+          "지식 관리",
+          "AI 운영",
+          "데이터 품질"
+        ],
+        "planning_insight": "기술 도입 이전에 정보의 체계적 구조화(Third Brain)가 선행되어야 함을 시사함."
+      },
+      {
+        "rank": 4,
+        "id": "8b694682217b3463dd85c3dfa76a0150b3804a0ffd140bd0fb09b7dabae4f545",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2957037",
+        "published_at": "2026-11-19T13:22:58+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를 LazyRow 없이 Jetpack Compose로 직접 만들면서 겪은 세 가지 이슈와 해결 과정을 공유합니다. ​ 매 프레임 바뀌는 값을 리컴포지션 없이 화면에 반영하는 방법 3D로 기울인 UI의 터치 영역이 어긋나는 버그를 추적하고, 직접 판정으로 해결한 과정 LazyRow 없이 Paging3의 다음 페이지 로드를 제어한 방법 ​ 발표 대상 Jetpack Compose 기반 복잡한 인터렉션을 포함한 UI 개발에 관심 있는 Android 개발자 Jetpack Compose 관련 성능, 설계, 이슈…",
+        "category_score": 85,
+        "score_reason": "사용자 인터랙션(3D 캐러셀)을 위한 고도화된 UI/UX 구현 과정을 다루며, 비정형 인터페이스 개발에서의 문제 해결 능력을 보여줌.",
+        "keywords": [
+          "UX/UI",
+          "인터랙션",
+          "Jetpack Compose"
+        ],
+        "planning_insight": "프레임워크의 제약을 뛰어넘는 사용자 경험 구현을 위해 성능과 디자인을 동시에 고려한 엔지니어링 전략."
+      },
+      {
+        "rank": 5,
+        "id": "04d151245393dfeb366d79737e3deba801fa29272d854468b8b63f34ad307ebe",
+        "title": "컨테이너처럼 쓰고, VM처럼 격리하기 1편 - 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/8055238",
+        "published_at": "2026-11-18T14:46:34+09:00",
+        "summary": "GPU 서버 한 대를 여러 사용자가 함께 쓴다면 사용자의 작업을 어디까지 격리해야 할까요? 적어도 한 사용자의 컨테이너 탈출이 같은 서버에 있는 다른 사용자의 작업이나 GPU 접근으로 이어져서는 안 됩니다. Kubernetes 위에서 NVIDIA GPU 환경을 격리하면서 겪은 문제와 해결 방법을 네 편으로 나누어 정리했습니다. 1편: 컨테이너와 VM의 차이, Kata Containers의 Pod 실행 구조 2편 : GPU 패스스루 계층과 GPU 8장 VM의 부팅·메모리 구성 3편 : Fabric Manager 파티션과 DRA를 이용한 GPU 할당 4편 : IB 네트워크와 로컬 NVMe, vCPU 배치, 베어메탈 대비 성능 1편에서는 컨테이너와 VM의 차이를 알아보고, Kata Containers(이하 'kata')가 Pod를 VM 안에서 실행하는 과정을 따라가 보겠습니다. GPU, 네트워크, 스토리지를 VM에 연결하고 vCPU를 배치하는 과정은 2편부터 다룹니다. 모든 편은 다음…",
+        "category_score": 82,
+        "score_reason": "GPU 서버 자원을 효율적으로 분할·운영하는 플랫폼 전략을 담고 있으며, 인프라 격리 관점에서 제품의 효율적인 자원 배분 전략을 유추할 수 있음.",
+        "keywords": [
+          "플랫폼 운영",
+          "리소스 격리",
+          "인프라 전략"
+        ],
+        "planning_insight": "서비스 확장성을 고려한 다중 사용자 환경에서의 리소스 운영 방식에 대한 고차원적 가이드라인 제공."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "23123e6fee866ab94bf72928074d57d3bc7016c2d32e47e3e84055e275c97f49",
+        "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21647",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21647v1 Announce Type: new Abstract: Generative AI agents can help journalists explore large document collections. But exploratory workflows can require substantial token use and time, especially when the task is broad and the relevant subquestions are not yet known. This paper introduces FieldGuide, an agent-facing corpus map that organizes a document collection into a topic hierarchy and exposes tools for corpus orientation, scoped search, and bounded reading. I evaluate FieldGuide…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트의 문서 탐색 효율성을 다루며, 대규모 데이터셋 기반의 콘텐츠 분석 및 요약 자동화에 직접적인 실무 방법론을 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "데이터 탐색",
+          "콘텐츠 분석",
+          "효율성"
+        ],
+        "planning_insight": "방대한 사내 문서를 에이전트가 자동 탐색하여 인사이트를 도출하는 워크플로우 설계에 필수적인 기술적 프레임워크."
+      },
+      {
+        "rank": 2,
+        "id": "fa7c2525a08537e937b6dd7651677084783f0291abb8a9cb011ed1955ca7d620",
+        "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.23601",
+        "published_at": "2026-11-19T14:00:00+09:00",
+        "summary": "arXiv:2611.23601v1 Announce Type: new Abstract: Asking a model to check retrieved text can also tell it which source to trust. We introduce FutureBench, a renewable framework for evaluating knowledge-context conflict using timestamped questions, controlled passage triplets, and no-context probes. Across 3,629 questions and six models, Verify (a prompt combining checking with passage priority) raises false-answer adoption in all five models tested on pre-cutoff events, mainly by displacing answe…",
+        "category_score": 95,
+        "score_reason": "RAG 시스템의 핵심 과제인 '지식-맥락 충돌' 문제를 다루며, 모델의 신뢰도를 측정하는 방법론은 서비스 품질 제어에 핵심적임.",
+        "keywords": [
+          "RAG",
+          "할루시네이션",
+          "신뢰성 평가",
+          "검색 증강"
+        ],
+        "planning_insight": "RAG 기반 챗봇 서비스 운영 시, 잘못된 정보의 유입을 필터링하고 최적의 소스를 선택하게 하는 품질 보증 전략으로 활용 가능."
+      },
+      {
+        "rank": 3,
+        "id": "d041c5e0935432b471ffa50bf54c9d0d94d7fa5a16b9e9423f0cd1377c19bea8",
+        "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21644",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21644v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) excel in vision-language tasks; yet, whether they maintain consistent understanding of information-rich visuals (InfoVis) when the surface language changes remains unclear. To quantify this capability, we introduce MInfoVisQA, a parallel benchmark with 8,960 QA configurations derived from 128 seed instances across 24 languages. We construct seed-matched, language-parallel visuals and QA pairs by disentangli…",
+        "category_score": 92,
+        "score_reason": "멀티모달 모델의 시각 정보 이해력 평가 프레임워크 제공. 비주얼 콘텐츠 자동화 및 추천 시스템 고도화에 기여함.",
+        "keywords": [
+          "멀티모달",
+          "비주얼 QA",
+          "벤치마크",
+          "콘텐츠 이해"
+        ],
+        "planning_insight": "멀티모달 AI를 활용한 이미지/영상 콘텐츠 자동 분석 및 태깅 시스템 구축 시, 모델의 이해도 검증 벤치마크로 적용 가능."
+      },
+      {
+        "rank": 4,
+        "id": "a267c323a225938925ddfecddf63e0fe145cf101cf90c404b1a6197c9f15322b",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "published_at": "2026-11-19T03:53:43+09:00",
+        "summary": "",
+        "category_score": 90,
+        "score_reason": "파인튜닝 효율성 이슈를 심층 분석하여 자원 최적화 관점의 실질적인 오픈소스 활용 전략을 제시함.",
+        "keywords": [
+          "파인튜닝",
+          "최적화",
+          "리소스 효율",
+          "LLM 인프라"
+        ],
+        "planning_insight": "특화된 모델 구축을 위한 파인튜닝 시, 하드웨어 자원과 비용을 고려한 콘텐츠 생성 모델 학습 전략을 수립하는 데 핵심적인 가이드."
+      },
+      {
+        "rank": 5,
+        "id": "d892ff947a2d9355a92a3fb6888589543cdc4274e770cc811fb2cf89a0692b56",
+        "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.21641",
+        "published_at": "2026-11-18T14:00:00+09:00",
+        "summary": "arXiv:2611.21641v1 Announce Type: new Abstract: Deployed LLMs field hundreds of millions of conversations a day and refuse a non-trivial fraction of user requests, yet the user-side cost of refusal, whether users disengage and by how much, is unmeasured on any production model: a blind spot for the consumer-facing platforms built on them. A/B-testing refusal is ethically and operationally constrained on frontier-lab products and unavailable to third-party platforms deploying these models throug…",
+        "category_score": 88,
+        "score_reason": "LLM의 '거부(Refusal)' 동작이 사용자 이탈에 미치는 영향 측정 방법 제시. 서비스 UX/콘텐츠 전략 최적화에 기여.",
+        "keywords": [
+          "LLM 서비스",
+          "사용자 경험",
+          "거부 측정",
+          "데이터 분석"
+        ],
+        "planning_insight": "챗봇 서비스에서 모델이 사용자의 요구를 거부할 때 발생하는 사용자 이탈률을 데이터로 측정하여, 더 나은 답변 생성 정책을 수립하는 지표로 사용."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "bd1d31f56c751a33610df9beef5c422869ce23a1e95148da534bcb1aa176f547",
+      "title": "\"AI 먼저 써본 기업이 더 번다\"…MS, 50만 파트너사에 '고객 제로' 전략 제시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261119054510",
+      "published_at": "2026-11-19T05:45:18+09:00",
+      "summary": "[지디넷코리아]마이크로소프트가 전 세계 50만 개 이상 파트너를 중심으로 인공지능(AI) 사업 생태계 확대에 나섰다. 기존 소프트웨어 판매와 구축을 넘어 AI 에이전트 운영·보안·비용 최적화까지 파트너의 사업 영역을 넓히겠다는 전략이다.이를 위해 파트너가 내부 업무에 AI를 먼저 적용해 성과를 검증하고, 이를 고객 대상 솔루션과 서비스로 확장하는 '고객 제로(Customer Zero)' 전략을 강조했다.마이크로소프트는 19일 미국 샌프란시스코에서 열린 '이그나이트 2026' 파트너 기조연설에서 '프론티어 생태계(Frontier Ecosystem)' 전략을 발표했다.니콜 데젠 마이크로소프트 최고파트너책임자(CPO)는 “AI는 모든 조직이 운영하고 성장하고 경쟁하는 방식을 바꾸고 있다”며 \"그 변화가 모든 산업과 고객, 지역사회에 어떻게 닿을지는 파트너가 결정한다\"고 말했다.사티아 나델라 마이크로소프트 최고경영자(CEO)도 영상 메시지에서 \"조직들은 단순한 AI 도입을 넘어 일하는 방…",
+      "category_score": 98,
+      "score_reason": "AI 기술의 기업 내재화 및 '고객 제로' 전략은 B2B SaaS 및 에이전트 시장의 핵심 트렌드임.",
+      "keywords": [
+        "AI 에이전트",
+        "고객 제로",
+        "B2B 전략"
+      ],
+      "planning_insight": "기업이 AI를 내부 업무에 먼저 적용해 성공 사례를 만들고 이를 상품화하는 '사내 에이전트 성공 사례' 중심의 콘텐츠 기획이 필요함.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "MS가 제안하는 '고객 제로(Customer Zero)' 전략: AI 도입에서 운영·최적화로의 패러다임 전환",
+      "importance_reason": "AI 도입 자체보다 운영 효율과 성과 검증이 중요해진 시장 환경을 반영하며, B2B 에이전트 시장의 표준적 전략을 제시함."
+    },
+    {
+      "rank": 2,
+      "id": "f2fb99d04733a33e00e2df1e01f9177adeb9c839ee9318fef89a1f86efb733b6",
+      "title": "Devops Agent 리포트 오이데~ 평가 야호~",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/0118355",
+      "published_at": "2026-11-19T15:47:44+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 통합검색 알람 발생 시 1분 내 장애 1차 진단 리포트를 이슈로 남기는 에이전트, 그 결과를 평가해 시스템 정확도를 도출한 이야기 ​ 발표 대상 LLM 기반의 이상 신호 분석 시스템을 운영하고자 하는 독자 LLM 기반의 평가 시스템을 운영하고자 하는 독자 ​ 목차 Devops Agent 소개 에이전트라서 생기는 문제 평가 기준 정하기 평가 시스템 구성 평가 시스템 구축 평가 시스템의 미래 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+      "category_score": 92,
+      "score_reason": "LLM 에이전트의 결과물을 정량적으로 평가하고 시스템 정확도를 도출하는 방법론을 제시하여 AI 서비스 운영 전략 수립에 실질적 도움을 줌.",
+      "keywords": [
+        "LLM 에이전트",
+        "평가 시스템",
+        "서비스 운영"
+      ],
+      "planning_insight": "AI 서비스 도입 이후, 운영 효율성과 성능을 개선하기 위한 '평가 프레임워크 구축 가이드' 리포트 또는 기술 블로그 콘텐츠로 발전.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "LLM 기반 에이전트의 결과물을 정량적으로 평가하고 시스템 정확도를 도출하는 네이버의 실무 운영 사례",
+      "importance_reason": "AI 서비스를 운영하는 기업이 가장 고민하는 'AI 품질 관리'와 '정확도 측정'에 대한 실질적인 방법론을 제시함."
+    },
+    {
+      "rank": 3,
+      "id": "23123e6fee866ab94bf72928074d57d3bc7016c2d32e47e3e84055e275c97f49",
+      "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.21647",
+      "published_at": "2026-11-18T14:00:00+09:00",
+      "summary": "arXiv:2611.21647v1 Announce Type: new Abstract: Generative AI agents can help journalists explore large document collections. But exploratory workflows can require substantial token use and time, especially when the task is broad and the relevant subquestions are not yet known. This paper introduces FieldGuide, an agent-facing corpus map that organizes a document collection into a topic hierarchy and exposes tools for corpus orientation, scoped search, and bounded reading. I evaluate FieldGuide…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트의 문서 탐색 효율성을 다루며, 대규모 데이터셋 기반의 콘텐츠 분석 및 요약 자동화에 직접적인 실무 방법론을 제시함.",
+      "keywords": [
+        "AI 에이전트",
+        "문서 탐색",
+        "지식 관리"
+      ],
+      "planning_insight": "사내 지식베이스를 효과적으로 활용하고 싶은 기업들을 대상으로 'LLM의 문서 탐색 효율화 전략' 웨비나 혹은 리포트 주제로 활용 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "대규모 문서셋 내에서 AI 에이전트의 토큰 효율을 극대화하는 'FieldGuide' 데이터 탐색 프레임워크",
+      "importance_reason": "방대한 사내·외 문서를 활용해 AI가 인사이트를 도출해야 하는 콘텐츠 기획 및 리서치 자동화의 핵심 기술."
+    },
+    {
+      "rank": 4,
+      "id": "fa3b0ec2e87dc2cab2f0c9f4d8e79f000060e0d02da7b225c49ff6391f1d2a4c",
+      "title": "WPP 신디 로즈 CEO, C 스페이스® 기조연설에서 AI 시대 데이터 독립성과 신뢰의 중요성 조명",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261119061002",
+      "published_at": "2026-11-19T06:10:02+09:00",
+      "summary": "[지디넷코리아] 뉴욕, 2026년 11월 19일 /PRNewswire/ -- CES®를 소유하고 주최하는 미국소비자기술협회(Consumer Technology Association, CTA)®가 뉴욕에서 열린 언론 행사에서 WPP의 신디 로즈(Cindy Rose) 최고경영자(CEO)가 C 스페이스(C Space®) 기조연설에 나선다고 발표했다. 로즈 CEO는 AI가 광고 산업 전반을 재편함에 따라 데이터 독립성과 신뢰가 핵심 기반이 된 이유를 짚어본다. 생성형 AI와 에이전틱 AI가 의사결정과 상품 구매 방식에 미치는 영향이 커지는 가운데, 브랜드가 사람의 선택과 알고리즘의 판단 모두에 영향력을 확보해야 하는 이유와 이를 위해 신뢰와 투명성, 개방형 표준이 왜 필수적인지 설명할 예정이다. Cindy Rose, Chief Executive Officer, WPP CTA의 사장인 킨지 파브리치오(Kinsey Fabrizio) CEO는 \"AI는 광고 전반에 새로운 기회를 열어 브랜드가…",
+      "category_score": 92,
+      "score_reason": "광고 산업 전반의 AI 재편과 데이터 독립성 문제를 다루고 있어 마케팅/플랫폼 전략 측면에서 필수적임.",
+      "keywords": [
+        "데이터 독립성",
+        "AI 광고",
+        "브랜드 신뢰"
+      ],
+      "planning_insight": "알고리즘 기반의 콘텐츠 소비 환경에서 브랜드 영향력을 유지하기 위한 콘텐츠 마케팅 전략 강화.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 21,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "WPP CEO가 강조하는 AI 시대의 데이터 독립성과 브랜드 신뢰 확보의 중요성",
+      "importance_reason": "광고 산업 전반의 AI 재편과 데이터 독립성 문제를 다루고 있어 마케팅/플랫폼 전략 측면에서 필수적임."
+    },
+    {
+      "rank": 5,
+      "id": "fa7c2525a08537e937b6dd7651677084783f0291abb8a9cb011ed1955ca7d620",
+      "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.23601",
+      "published_at": "2026-11-19T14:00:00+09:00",
+      "summary": "arXiv:2611.23601v1 Announce Type: new Abstract: Asking a model to check retrieved text can also tell it which source to trust. We introduce FutureBench, a renewable framework for evaluating knowledge-context conflict using timestamped questions, controlled passage triplets, and no-context probes. Across 3,629 questions and six models, Verify (a prompt combining checking with passage priority) raises false-answer adoption in all five models tested on pre-cutoff events, mainly by displacing answe…",
+      "category_score": 95,
+      "score_reason": "RAG 시스템의 핵심 과제인 '지식-맥락 충돌' 문제를 다루며, 모델의 신뢰도를 측정하는 방법론은 서비스 품질 제어에 핵심적임.",
+      "keywords": [
+        "RAG",
+        "할루시네이션",
+        "지식-맥락 충돌"
+      ],
+      "planning_insight": "RAG 시스템 도입 기업의 품질 보증(QA) 전략 및 안전한 AI 서비스 운영을 위한 기술적 가이드라인.",
+      "integrated_score": 87,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "LLM의 지식-맥락 충돌을 평가하는 FutureBench 프레임워크: 모델 신뢰성 검증",
+      "importance_reason": "RAG 시스템의 핵심 과제인 '지식-맥락 충돌' 문제를 다루며, 모델의 신뢰도를 측정하는 방법론은 서비스 품질 제어에 핵심적임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 91,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 21,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 20,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 16,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "Hugging Face Blog",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "LLM",
+      "count": 14,
+      "groups": [
+        "ai_data",
+        "tech_blog"
+      ],
+      "sources": [
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI는 단순한 도입기를 넘어, 실제 기업 현장의 워크플로우를 최적화하고 성과를 증명하는 '운영 및 내재화' 단계로 진입했습니다.",
+    "에이전틱 AI의 확산에 따라 서비스의 정확도와 품질을 평가하는 프레임워크가 AI 기술 경쟁력의 핵심으로 부상하고 있습니다.",
+    "데이터 구조화(온톨로지), 문서 탐색 효율화, RAG 신뢰성 관리 등 콘텐츠 전략가와 기획자는 기술적 가이드를 비즈니스 가치로 변환하는 역할이 필요합니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
