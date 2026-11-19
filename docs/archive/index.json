@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-19T20:59:32.116272+09:00",
+  "updated_at": "2026-11-20T02:34:43.494471+09:00",
   "archives": [
+    {
+      "id": "2026-11-20_02-33",
+      "date": "2026-11-20",
+      "time": "02:33",
+      "label": "2026-11-20 02:33",
+      "generated_at": "2026-11-20T02:33:45.541725+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "LLM"
+      ],
+      "integrated_titles": [
+        "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+        "WPP 신디 로즈 CEO, C 스페이스® 기조연설에서 AI 시대 데이터 독립성과 신뢰의 중요성 조명",
+        "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+        "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+        "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다."
+      ],
+      "path_json": "archive/2026-11-20/02-33.json",
+      "path_md": "archive/2026-11-20/02-33.md"
+    },
     {
       "id": "2026-11-19_20-59",
       "date": "2026-11-19",
