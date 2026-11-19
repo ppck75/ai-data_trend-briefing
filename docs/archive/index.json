@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-19T02:30:06.995556+09:00",
+  "updated_at": "2026-11-19T12:46:44.749494+09:00",
   "archives": [
+    {
+      "id": "2026-11-19_12-35",
+      "date": "2026-11-19",
+      "time": "12:35",
+      "label": "2026-11-19 12:35",
+      "generated_at": "2026-11-19T12:46:26.102471+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "UI"
+      ],
+      "integrated_titles": [
+        "MS, '에이전트 중심' AI 생태계 제시…코파일럿·자체 칩까지 전방위 강화",
+        "같은 GPU로 더 많은 AI 요청을 처리할 수 있을까? ― KV 캐시 오프로딩 × EPP 라우팅: 계산 결과를 오래 남기고, 다음 요청이 그 결과를 찾아가게 하기",
+        "WPP 신디 로즈 CEO, C 스페이스® 기조연설에서 AI 시대 데이터 독립성과 신뢰의 중요성 조명",
+        "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+        "지표 뒤에 숨은 맥락을 한눈에: New20 Timeline Hub 만들기"
+      ],
+      "path_json": "archive/2026-11-19/12-35.json",
+      "path_md": "archive/2026-11-19/12-35.md"
+    },
     {
       "id": "2026-11-19_02-28",
       "date": "2026-11-19",
