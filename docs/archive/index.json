@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-20T21:00:25.629959+09:00",
+  "updated_at": "2026-11-21T02:10:09.166088+09:00",
   "archives": [
+    {
+      "id": "2026-11-21_02-09",
+      "date": "2026-11-21",
+      "time": "02:09",
+      "label": "2026-11-21 02:09",
+      "generated_at": "2026-11-21T02:09:23.801637+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "model",
+        "LLM",
+        "데이터",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "\"전통 유통 기업 아냐\"...CJ올리브영, AI 앞세워 '글로벌 테크 플랫폼' 도약",
+        "[AI는 지금] \"AI 고용 충격 대비\"…APEC 정상들, 노동자 권리 보호 담은 '선전 전망' 채택",
+        "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+        "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+        "[AI 리더스] 가트너가 내다본 2027년…\"AI가 기업 SW 시장 바꾼다\""
+      ],
+      "path_json": "archive/2026-11-21/02-09.json",
+      "path_md": "archive/2026-11-21/02-09.md"
+    },
     {
       "id": "2026-11-20_21-00",
       "date": "2026-11-20",
