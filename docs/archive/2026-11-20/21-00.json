@@ -1,0 +1,543 @@
+{
+  "briefing_date": "2026-11-20",
+  "generated_at": "2026-11-20T21:00:06.025653+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 176,
+    "tech_blog": 4,
+    "ai_data": 20
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "0a4cfcdfd1567f9cc4639f70a027aa094824fe39a33cc1e6a4419722d91f27b5",
+        "title": "\"전통 유통 기업 아냐\"...CJ올리브영, AI 앞세워 '글로벌 테크 플랫폼' 도약",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119112308",
+        "published_at": "2026-11-20T06:00:03+09:00",
+        "summary": "[지디넷코리아]CJ올리브영이 국내에서 축적한 온·오프라인 통합 운영 경험과 인공지능(AI) 기술을 바탕으로 글로벌 테크 플랫폼으로의 도약에 나섰다. 한국 매장에서 K뷰티를 경험한 외국인 고객이 본국으로 돌아간 뒤에도 글로벌몰을 통해 구매를 이어가고, 해외 현지 매장에서도 쇼핑 경험을 이어갈 수 있도록 국경 없는 플랫폼을 구축하겠다는 구상이다.이를 위해 AI 기반 개인화 쇼핑 서비스를 고도화하고 매장과 온라인몰, 물류 시스템을 하나로 연결하는 기술 경쟁력을 강화할 계획이다. 고객의 피부 고민에 맞는 상품을 추천하는 AI 쇼핑 에이전트도 도입해 쇼핑 경험을 혁신한다는 목표다.CJ올리브영은 19일 서울 성수동에서 첫 테크 콘퍼런스 '디파인 옴니'에 앞서 미디어 간담회를 열고 이 같은 미래 전략을 공개했다. 이날 간담회에는 이진희 플랫폼사업총괄과 김환 테크플랫폼센터장, 이승효 프로덕트센터장이 참석했다.이진희 총괄은 이날 국내에서 구축한 옴니채널 경쟁력을 바탕으로 글로벌 테크 플랫폼으로 진…",
+        "category_score": 98,
+        "score_reason": "전통 유통 기업이 AI 기반 테크 플랫폼으로 전환하겠다는 선언은 리테일 산업의 구조적 변화를 상징하는 강력한 신호입니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "리테일",
+          "디지털전환"
+        ],
+        "planning_insight": "오프라인 경험과 온라인 플랫폼을 AI로 결합하는 모델은 타 산업군(뷰티, 패션 등)으로 즉각 확산 가능한 핵심 전략 모델입니다."
+      },
+      {
+        "rank": 2,
+        "id": "9d7ba1360f202cb864e7c3bb3bf378e80849fdd66396f661af9b5e4fafdbaf93",
+        "title": "[AI 리더스] 가트너가 내다본 2027년…\"AI가 기업 SW 시장 바꾼다\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119110158",
+        "published_at": "2026-11-20T14:35:23+09:00",
+        "summary": "[지디넷코리아]\"인공지능(AI) 코딩 에이전트는 소프트웨어 개발에 드는 비용과 시간을 크게 줄일 수 있습니다. 이같은 변화는 비교적 단순한 기능을 제공해 낮은 비용으로도 쉽게 대체할 수 있는 일부 서비스형 소프트웨어(SaaS) 제품에 부담으로 작용할 수 있습니다.\"아놀드 가오 가트너 부사장급 애널리스트는 최근 지디넷코리아와 진행한 서면 인터뷰에서 AI 코딩 기술 확산이 기업용 소프트웨어(SW) 시장에 미칠 영향에 대해 이같이 답했다. AI 코딩 기술이 발전하면서 기업이 필요한 애플리케이션을 직접 개발하고 사용 후 폐기하는 방식이 확산해 기존 기업용 SW 시장 경쟁 구도가 달라질 수 있다는 진단이다.가오 애널리스트는 마이크로소프트와 딜로이트를 거쳐 가트너 신흥기술·트렌드(ETT) 조직에서 AI 전략과 신흥기술의 산업적 영향을 연구하고 있다. 가트너는 지난달 발표한 '2027년 10대 전략 기술 트렌드'에서 AI 코딩 에이전트 하네스와 일회성 애플리케이션, 소버린테크, AI 에이전트…",
+        "category_score": 95,
+        "score_reason": "AI 코딩 에이전트가 소프트웨어 시장 구도를 바꾼다는 가트너의 분석은 기업용 SaaS 시장의 재편과 비용 구조 변화를 예고합니다.",
+        "keywords": [
+          "AI",
+          "SW시장",
+          "생산성",
+          "기업전략"
+        ],
+        "planning_insight": "단순 업무 자동화를 넘어 소프트웨어 개발 방식 자체가 변하고 있음을 강조하여 향후 개발 효율화 전략 콘텐츠로 활용하십시오."
+      },
+      {
+        "rank": 3,
+        "id": "d028fe98369f642574e26b37ce98a5730cd4fa660384d95b0799be5fb1e06904",
+        "title": "51조 시장 ‘빛의 반도체’ 애플도 참전…삼전닉스와 한판 붙는다",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12213984",
+        "published_at": "2026-11-19T21:47:55+09:00",
+        "summary": "실리콘 포토닉스 개발 경쟁 실리콘 기판에 광학 결합해 속도 빠르고 전력소모 줄여 삼성·SK하이닉스도 맞불애플이 인공지능(AI) 데이터센터의 핵심 기술로 떠오르는 실리콘 포토닉스(S..",
+        "category_score": 92,
+        "score_reason": "AI 데이터센터의 핵심인 '실리콘 포토닉스' 기술 경쟁은 플랫폼 비즈니스의 밑바닥 인프라 변화를 보여주는 중요한 기술적 마일스톤입니다.",
+        "keywords": [
+          "반도체",
+          "AI인프라",
+          "데이터센터",
+          "기술트렌드"
+        ],
+        "planning_insight": "AI 경쟁이 소프트웨어에서 하드웨어 성능의 한계를 돌파하는 인프라 경쟁으로 옮겨갔음을 설명하는 심층 콘텐츠로 기획 가능합니다."
+      },
+      {
+        "rank": 4,
+        "id": "ea3f34097445985864777bbb15fa4052d4cd224ce12ad5c0a487ffa9faac9ba2",
+        "title": "이세영 뤼튼 \"AI 캐릭터·스토리 플랫폼 크랙 IP, 게임·웹툰·영화 등 확장\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119131456",
+        "published_at": "2026-11-19T13:15:35+09:00",
+        "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에 마련한 지스타 2026 크랙 간담회 자리서 ‘글로벌 컨슈머 AI 기업이 그리는 엔터테인먼트의 미래’를 주제로 발표했다.이 대표는 뤼튼이 지스타에 참가한 이유로 \"AI와 게임의 공통점인 상호작용\"을 꼽았다. 특히 이용자가 직접 참여하고 선택에 따라 결과가 달라진다는 점에서 AI 엔터테인먼트와 게임이 맞닿아 있다는 것이 이 대표의 설명이었다.또 이날 AI 캐릭터·스토리 플랫폼인 크랙의 성장 전략과 함께 서비스 지역과 지원 언어를 확대한다는 계획도 밝혔다. 크랙의 오리지널 지식재산권(IP)을 게임과 웹툰, 웹소설, 애니메이션, 영화 등으로 확장하는 사업 계획도 밝혀 눈길을 끌기도 했다.이러한 계획은 크랙 서비스에 대한 확장 가능성을 엿봤고, 새로운 놀이문화로 이용자에게 긍정적인 평가를 받았기 때문으로 풀이된다.이 대표는 \"한국과 북미, 일본에 이어 서비스 지역과 지…",
+        "category_score": 89,
+        "score_reason": "AI 기반 콘텐츠 IP 플랫폼이 게임, 웹툰 등 엔터테인먼트 산업과 결합하는 것은 생성형 AI가 콘텐츠 생산 방식을 어떻게 재정의하는지 보여줍니다.",
+        "keywords": [
+          "AI",
+          "콘텐츠",
+          "엔터테인먼트",
+          "IP"
+        ],
+        "planning_insight": "개인 창작과 기업 IP 사이의 경계가 AI로 인해 무너지는 현상을 트렌드로 엮어 'AI 창작 생태계' 관점에서 조명하십시오."
+      },
+      {
+        "rank": 5,
+        "id": "3fde18d438fc9190f25929bb5b8f88bc4571a201e0dfdd012e7e9ab3cb5b0aa6",
+        "title": "내년 피지컬AI 실증사업 '짝짓기' 사전 행사에 112개 기업 몰려",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261119200459",
+        "published_at": "2026-11-19T20:04:59+09:00",
+        "summary": "[지디넷코리아]내년 중소AI 피지컬 실증 사업 공고를 앞두고, 기업 간 짝짓기 사전 소통 행사에 예상대비 3배나 많은 기업이 몰려 북새통을 이루는 등 기업 관심이 집중됐다.19일 청주 오스코 2층에서 중소벤처기업부 중소기업 혁신주간 2006 행사 일환으로 열린 피지컬AI 실증공급 컨소시엄 매칭데이를 기획, 총괄한 기정희 중기부 제조혁신과 서기관은 \"당초 50여 기업 참여를 기대했으나, 3배나 많은 기업들이 몰렸다\"며 \"조만간 이 같은 자리를 추가로 만들 계획\"이라고 말했다.중기부는 내년 중소기업 AI피지컬 실증 사업 예산으로 1728억원(정부안 기준)을 세웠다. 이 사업은 ▲로봇 ▲로봇관련 AI ▲공장 DX 솔루션 ▲제조 등의 분야 기업과 KAIST나 생산기술연구원 등 전문 연구기관과 컨소시엄으로 참여해야 한다.기 서기관은 \"그러다보니, 기업 간 사전소통 자리가 필요하다는 판단에 따라 마련하게 됐다\"고 행사 취지를 설명했다.이날 행사에는 전국 각지에서 112개 기업이 참여했다.머신…",
+        "category_score": 86,
+        "score_reason": "제조업 현장의 피지컬 AI 실증 사업에 기업이 3배나 몰린 것은 AI가 가상의 영역을 넘어 물리적 산업 혁신(AX)의 필수 과제로 자리 잡았음을 방증합니다.",
+        "keywords": [
+          "피지컬AI",
+          "제조혁신",
+          "AX",
+          "중소기업"
+        ],
+        "planning_insight": "기술 트렌드가 제조 산업의 실질적인 비용 절감과 자동화 요구와 결합할 때 폭발적인 수요가 발생한다는 사례로 활용하십시오."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "f0848ee0137dc35615113435b21518c218c0fa641c209df12565eeda260fc392",
+        "title": "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5037527",
+        "published_at": "2026-11-19T15:57:02+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 가상의 물류회사가 매일 받는 \"이 화물 지금 어디 있고, 예외가 있었나?\"라는 질문 하나에서 출발해, 온톨로지를 어떻게 만들고 사람과 AI가 그 위에서 어떻게 찾아보고 일을 처리하는지 실제 화면으로 보여 드리는 발표입니다. 온톨로지 구축 부터 활용까지, 고객의 질문을 답하는 방향성으로 소개합니다. ​ 온톨로지 소개 가상의 물류회사 온톨로지 구축 사례로 구축부터 활용까지 전 과정 소개 발표 전체를 관통하는 두 가지 질문 조회: “S-15262 화물은 지금 어디 있고, 예외가 있었나?” 조작: \"예외 난 소포, 다시 배송 보낼 수 있나?\" LLM 단독, RAG, 온톨로지의 비교 FDE 설명 ​ 발표 대상 온톨로지의 개념을 이해하고 실제 업무에 적용해보고 싶은 분 ​ 목차 오프닝: 하나의 질문, 세 가지 방식 시스템이 분리된 물류 현장에서는 단순한 질문에도 답…",
+        "category_score": 95,
+        "score_reason": "사용자 질문 의도 기반의 온톨로지 설계와 AI 활용 프로세스를 명확히 제시하여 서비스 기획 및 데이터 구조화 관점에서 가장 높은 가치를 제공함.",
+        "keywords": [
+          "온톨로지",
+          "데이터 구조화",
+          "사용자 경험",
+          "AI 기반 서비스"
+        ],
+        "planning_insight": "사용자의 질문을 분석하여 서비스 도메인 지식을 구조화하는 온톨로지 전략은 복잡한 데이터 환경에서 고객 경험을 혁신하는 핵심 전략이 됨."
+      },
+      {
+        "rank": 2,
+        "id": "4a3dcfba63845e6260dfdfb6a341f57baf66ab4a7f19edf2cf5e197cfd76dd0c",
+        "title": "부족한 건 모델이 아니라 팀 문서였다: 팀 공유 지식층 Third Brain 구축기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2622882",
+        "published_at": "2026-11-19T14:36:19+09:00",
+        "summary": "​ 네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI가 답을 못 맞히는 이유가 모델이 아니라 팀 문서의 부재라는 것을 확인하고, 팀 위키를 AI가 읽고 쓰는 공유 지식층으로 만들어 운영한 경험을 공유합니다. ​ 발표 대상 팀 지식을 정리하는 방법을 고민중인 개발자 ​ 목차 에이전트가 우리 팀 일을 못 했다 Third Brain 이란 어디에 적나요? 문서는 누가 업데이트하나요? AI가 쓴 걸 믿을 수 있나요? 그래서 잘 동작하나요? 다시 첫 장면으로 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과…",
+        "category_score": 92,
+        "score_reason": "AI 성능 최적화를 위한 '데이터 품질(문서화)'의 중요성을 실무적으로 다루며, 지식 공유 플랫폼 운영 전략을 보여줌.",
+        "keywords": [
+          "RAG",
+          "지식 관리",
+          "운영 전략",
+          "데이터 품질"
+        ],
+        "planning_insight": "AI 모델의 성능은 모델 그 자체보다 모델이 참조하는 '지식층(Knowledge Layer)'의 최신성과 구조화 방식에 의해 결정됨."
+      },
+      {
+        "rank": 3,
+        "id": "f2fb99d04733a33e00e2df1e01f9177adeb9c839ee9318fef89a1f86efb733b6",
+        "title": "Devops Agent 리포트 오이데~ 평가 야호~",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/0118355",
+        "published_at": "2026-11-19T15:47:44+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 통합검색 알람 발생 시 1분 내 장애 1차 진단 리포트를 이슈로 남기는 에이전트, 그 결과를 평가해 시스템 정확도를 도출한 이야기 ​ 발표 대상 LLM 기반의 이상 신호 분석 시스템을 운영하고자 하는 독자 LLM 기반의 평가 시스템을 운영하고자 하는 독자 ​ 목차 Devops Agent 소개 에이전트라서 생기는 문제 평가 기준 정하기 평가 시스템 구성 평가 시스템 구축 평가 시스템의 미래 ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Day를 빼놓을 수 없는데요. 2016년부터 시작된 ENGINEERING DAY는 실무에서의 기술 개발 경험과 새로운 기술과 플…",
+        "category_score": 88,
+        "score_reason": "운영 자동화와 AI 평가 시스템 구축이라는 실제적인 서비스 운영 구조를 제시함.",
+        "keywords": [
+          "DevOps",
+          "AI 평가",
+          "자동화",
+          "시스템 안정성"
+        ],
+        "planning_insight": "AI 에이전트를 도입할 때 평가 기준을 수립하고 모니터링하는 체계는 시스템의 신뢰도와 운영 효율성을 확보하는 필수 요소임."
+      },
+      {
+        "rank": 4,
+        "id": "8b694682217b3463dd85c3dfa76a0150b3804a0ffd140bd0fb09b7dabae4f545",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2957037",
+        "published_at": "2026-11-19T13:22:58+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를 LazyRow 없이 Jetpack Compose로 직접 만들면서 겪은 세 가지 이슈와 해결 과정을 공유합니다. ​ 매 프레임 바뀌는 값을 리컴포지션 없이 화면에 반영하는 방법 3D로 기울인 UI의 터치 영역이 어긋나는 버그를 추적하고, 직접 판정으로 해결한 과정 LazyRow 없이 Paging3의 다음 페이지 로드를 제어한 방법 ​ 발표 대상 Jetpack Compose 기반 복잡한 인터렉션을 포함한 UI 개발에 관심 있는 Android 개발자 Jetpack Compose 관련 성능, 설계, 이슈…",
+        "category_score": 75,
+        "score_reason": "서비스 UI/UX 차별화를 위한 기술적 시도를 다루고 있으나, 시스템 운영이나 데이터 전략보다는 UI 구현 중심의 기술적 내용임.",
+        "keywords": [
+          "UX/UI",
+          "인터랙션",
+          "컴포넌트 설계",
+          "모바일 성능"
+        ],
+        "planning_insight": "기본 제공 라이브러리의 한계를 넘어서는 맞춤형 UX 설계는 브랜드 경험의 정교함을 높이는 핵심 경쟁력이 됨."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "fad503c7daefe708dea2c2531a9f7d6e0b580edb99ba5d8e4e2da3f486db4d8d",
+        "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.24960",
+        "published_at": "2026-11-20T14:00:00+09:00",
+        "summary": "arXiv:2611.24960v1 Announce Type: new Abstract: Converting complex documents into structured knowledge constitutes the critical infrastructure urgently required for deploying Large Language Models (LLMs) in downstream research. However, blind to the Table of Contents (ToC) as a macro-structure, existing bottom-up paradigms rely on localized visual cues, inducing heuristic fragility in high-entropy layouts where visual prominence decouples from logical depth; meanwhile, direct LLM extraction lac…",
+        "category_score": 98,
+        "score_reason": "RAG의 핵심인 문서 구조화(Hierarchy Extraction)를 다루며, 비정형 문서에서 지식을 추출해 AI 서비스로 연결하는 실질적 가치가 매우 높음.",
+        "keywords": [
+          "RAG",
+          "지식 추출",
+          "문서 구조화"
+        ],
+        "planning_insight": "긴 문서를 구조적으로 처리하는 기술은 기업 내부 데이터 기반의 RAG 챗봇이나 콘텐츠 분석 시스템 구축 시 정확도를 높이는 핵심 기획 요소임."
+      },
+      {
+        "rank": 2,
+        "id": "52cbf4d88f2fef790860d6bfb39af9b30c50a554516e93d870a31a3c04543238",
+        "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.24977",
+        "published_at": "2026-11-20T14:00:00+09:00",
+        "summary": "arXiv:2611.24977v1 Announce Type: new Abstract: We present CANDID (Candidate-Driven Intervention for Disciplined Execution), an execution-control framework designed to enhance the reliability of local computer-use agents (CUAs) in resource-constrained settings. While local CUAs feature robust baseline proficiency in single-step action prediction, they frequently fail at critical junctions due to rigid action loops or premature DONE decisions. Rather than imposing imprecise cognitive loads throu…",
+        "category_score": 95,
+        "score_reason": "AI 에이전트의 제어 프레임워크를 다루며, 자동화된 작업 수행 시 신뢰성을 확보하는 기획적 활용성이 뛰어남.",
+        "keywords": [
+          "AI 에이전트",
+          "자동화",
+          "실행 제어"
+        ],
+        "planning_insight": "업무 자동화 에이전트 설계 시, 단순 예측을 넘어 실행 과정에서의 오류를 방지하고 제어하는 가이드라인 기획에 필수적인 기술임."
+      },
+      {
+        "rank": 3,
+        "id": "9ef960649ac318859c011328a16d74a5d251e7f71efbece91196190fe63ec93a",
+        "title": "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.24971",
+        "published_at": "2026-11-20T14:00:00+09:00",
+        "summary": "arXiv:2611.24971v1 Announce Type: new Abstract: In-context learning (ICL) improves large language model performance at inference time without updating model parameters. However, these gains are not free: in practical deployments, longer prompts directly increase inference cost and latency. Under a fixed token budget, prompt construction therefore becomes a resource-allocation problem. While prior work has often focused on how many examples to include in ICL, we study the complementary question…",
+        "category_score": 92,
+        "score_reason": "토큰 비용과 효율성을 고려한 인컨텍스트 러닝(ICL) 최적화로, 상용 AI 서비스의 운영 비용 관리와 직결됨.",
+        "keywords": [
+          "LLM",
+          "비용 최적화",
+          "프롬프트 엔지니어링"
+        ],
+        "planning_insight": "제한된 비용 내에서 최적의 콘텐츠 응답을 도출하기 위한 프롬프트 최적화 및 전략 수립에 직접적으로 기여함."
+      },
+      {
+        "rank": 4,
+        "id": "e97c20299fd9d3cb08cf74338368f47da168107dfdd66df1486c8178b637bd86",
+        "title": "Global Importance Estimation for KV Cache Eviction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.24969",
+        "published_at": "2026-11-20T14:00:00+09:00",
+        "summary": "arXiv:2611.24969v1 Announce Type: new Abstract: Memory consumption of the key-value (KV) cache remains a central bottleneck for long-context LLM inference. We introduce PRKV, a training-free KV eviction method that estimates multi-hop global token importance by applying Personalized PageRank over attention-induced transition graphs. This enables importance propagation beyond recency or instantaneous attention, without modifying the model. We benchmark PRKV on long-context understanding, sparse…",
+        "category_score": 90,
+        "score_reason": "LLM 추론 성능의 병목인 KV Cache 문제를 해결하는 방법론으로, 긴 문맥 처리가 필요한 서비스의 응답 속도와 메모리 효율 개선에 유리함.",
+        "keywords": [
+          "LLM",
+          "추론 효율화",
+          "긴 문맥"
+        ],
+        "planning_insight": "대용량 콘텐츠를 분석하거나 긴 대화 맥락을 유지해야 하는 AI 서비스 기획 시 기술적 한계를 극복하는 근거로 활용 가능함."
+      },
+      {
+        "rank": 5,
+        "id": "fa7c2525a08537e937b6dd7651677084783f0291abb8a9cb011ed1955ca7d620",
+        "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.23601",
+        "published_at": "2026-11-19T14:00:00+09:00",
+        "summary": "arXiv:2611.23601v1 Announce Type: new Abstract: Asking a model to check retrieved text can also tell it which source to trust. We introduce FutureBench, a renewable framework for evaluating knowledge-context conflict using timestamped questions, controlled passage triplets, and no-context probes. Across 3,629 questions and six models, Verify (a prompt combining checking with passage priority) raises false-answer adoption in all five models tested on pre-cutoff events, mainly by displacing answe…",
+        "category_score": 88,
+        "score_reason": "검색 결과와 모델이 생성한 지식 간의 충돌(Knowledge-Context Conflict)을 평가하는 프레임워크로, RAG 시스템의 신뢰성 검증에 필수적임.",
+        "keywords": [
+          "RAG",
+          "할루시네이션 방지",
+          "평가 프레임워크"
+        ],
+        "planning_insight": "콘텐츠 자동화 시스템의 품질을 유지하고 신뢰성 있는 AI 서비스를 구축하기 위한 검증 전략을 세우는 데 필수적인 지표임."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "0a4cfcdfd1567f9cc4639f70a027aa094824fe39a33cc1e6a4419722d91f27b5",
+      "title": "\"전통 유통 기업 아냐\"...CJ올리브영, AI 앞세워 '글로벌 테크 플랫폼' 도약",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261119112308",
+      "published_at": "2026-11-20T06:00:03+09:00",
+      "summary": "[지디넷코리아]CJ올리브영이 국내에서 축적한 온·오프라인 통합 운영 경험과 인공지능(AI) 기술을 바탕으로 글로벌 테크 플랫폼으로의 도약에 나섰다. 한국 매장에서 K뷰티를 경험한 외국인 고객이 본국으로 돌아간 뒤에도 글로벌몰을 통해 구매를 이어가고, 해외 현지 매장에서도 쇼핑 경험을 이어갈 수 있도록 국경 없는 플랫폼을 구축하겠다는 구상이다.이를 위해 AI 기반 개인화 쇼핑 서비스를 고도화하고 매장과 온라인몰, 물류 시스템을 하나로 연결하는 기술 경쟁력을 강화할 계획이다. 고객의 피부 고민에 맞는 상품을 추천하는 AI 쇼핑 에이전트도 도입해 쇼핑 경험을 혁신한다는 목표다.CJ올리브영은 19일 서울 성수동에서 첫 테크 콘퍼런스 '디파인 옴니'에 앞서 미디어 간담회를 열고 이 같은 미래 전략을 공개했다. 이날 간담회에는 이진희 플랫폼사업총괄과 김환 테크플랫폼센터장, 이승효 프로덕트센터장이 참석했다.이진희 총괄은 이날 국내에서 구축한 옴니채널 경쟁력을 바탕으로 글로벌 테크 플랫폼으로 진…",
+      "category_score": 98,
+      "score_reason": "전통 유통 기업이 AI 기반 테크 플랫폼으로 전환하겠다는 선언은 리테일 산업의 구조적 변화를 상징하는 강력한 신호입니다.",
+      "keywords": [
+        "AI",
+        "옴니채널",
+        "테크 플랫폼",
+        "디지털전환"
+      ],
+      "planning_insight": "오프라인 매장 경험과 온라인 개인화 추천을 결합한 옴니채널 전략은 리테일뿐만 아니라 서비스업 전반의 콘텐츠 기획 및 UX 설계 가이드라인으로 활용 가능함.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "전통 리테일 기업의 AI 기반 글로벌 테크 플랫폼 전환 선언",
+      "importance_reason": "오프라인 강자가 AI 에이전트와 데이터 통합을 통해 국경 없는 쇼핑 경험을 구축하는 모델은 모든 산업군이 벤치마킹해야 할 디지털 전환의 표준 사례임."
+    },
+    {
+      "rank": 2,
+      "id": "f0848ee0137dc35615113435b21518c218c0fa641c209df12565eeda260fc392",
+      "title": "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/5037527",
+      "published_at": "2026-11-19T15:57:02+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 가상의 물류회사가 매일 받는 \"이 화물 지금 어디 있고, 예외가 있었나?\"라는 질문 하나에서 출발해, 온톨로지를 어떻게 만들고 사람과 AI가 그 위에서 어떻게 찾아보고 일을 처리하는지 실제 화면으로 보여 드리는 발표입니다. 온톨로지 구축 부터 활용까지, 고객의 질문을 답하는 방향성으로 소개합니다. ​ 온톨로지 소개 가상의 물류회사 온톨로지 구축 사례로 구축부터 활용까지 전 과정 소개 발표 전체를 관통하는 두 가지 질문 조회: “S-15262 화물은 지금 어디 있고, 예외가 있었나?” 조작: \"예외 난 소포, 다시 배송 보낼 수 있나?\" LLM 단독, RAG, 온톨로지의 비교 FDE 설명 ​ 발표 대상 온톨로지의 개념을 이해하고 실제 업무에 적용해보고 싶은 분 ​ 목차 오프닝: 하나의 질문, 세 가지 방식 시스템이 분리된 물류 현장에서는 단순한 질문에도 답…",
+      "category_score": 95,
+      "score_reason": "사용자 질문 의도 기반의 온톨로지 설계와 AI 활용 프로세스를 명확히 제시하여 서비스 기획 및 데이터 구조화 관점에서 가장 높은 가치를 제공함.",
+      "keywords": [
+        "온톨로지",
+        "데이터 구조화",
+        "LLM",
+        "RAG"
+      ],
+      "planning_insight": "복잡한 비즈니스 프로세스를 챗봇이나 인터페이스로 녹여낼 때, 사용자의 질문 유형을 분류하고 데이터를 온톨로지화하는 전략은 신뢰성 있는 AI 서비스 구축의 선결 과제임.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "사용자 질문 의도 기반의 도메인 지식 구조화(온톨로지) 전략",
+      "importance_reason": "LLM이 단순히 문서를 읽는 단계를 넘어, 도메인 지식을 구조화하여 정확한 답을 도출하게 하는 온톨로지 기술은 기업 내부 데이터 활용 서비스의 핵심 경쟁력임."
+    },
+    {
+      "rank": 3,
+      "id": "9d7ba1360f202cb864e7c3bb3bf378e80849fdd66396f661af9b5e4fafdbaf93",
+      "title": "[AI 리더스] 가트너가 내다본 2027년…\"AI가 기업 SW 시장 바꾼다\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261119110158",
+      "published_at": "2026-11-20T14:35:23+09:00",
+      "summary": "[지디넷코리아]\"인공지능(AI) 코딩 에이전트는 소프트웨어 개발에 드는 비용과 시간을 크게 줄일 수 있습니다. 이같은 변화는 비교적 단순한 기능을 제공해 낮은 비용으로도 쉽게 대체할 수 있는 일부 서비스형 소프트웨어(SaaS) 제품에 부담으로 작용할 수 있습니다.\"아놀드 가오 가트너 부사장급 애널리스트는 최근 지디넷코리아와 진행한 서면 인터뷰에서 AI 코딩 기술 확산이 기업용 소프트웨어(SW) 시장에 미칠 영향에 대해 이같이 답했다. AI 코딩 기술이 발전하면서 기업이 필요한 애플리케이션을 직접 개발하고 사용 후 폐기하는 방식이 확산해 기존 기업용 SW 시장 경쟁 구도가 달라질 수 있다는 진단이다.가오 애널리스트는 마이크로소프트와 딜로이트를 거쳐 가트너 신흥기술·트렌드(ETT) 조직에서 AI 전략과 신흥기술의 산업적 영향을 연구하고 있다. 가트너는 지난달 발표한 '2027년 10대 전략 기술 트렌드'에서 AI 코딩 에이전트 하네스와 일회성 애플리케이션, 소버린테크, AI 에이전트…",
+      "category_score": 95,
+      "score_reason": "AI 코딩 에이전트가 소프트웨어 시장 구도를 바꾼다는 가트너의 분석은 기업용 SaaS 시장의 재편과 비용 구조 변화를 예고합니다.",
+      "keywords": [
+        "AI 코딩 에이전트",
+        "SW시장",
+        "생산성",
+        "기업전략"
+      ],
+      "planning_insight": "단순 업무 자동화 도구 도입을 넘어, '소프트웨어 개발과 생산' 방식의 근본적 변화를 체감하고 자사 콘텐츠 제작 워크플로우를 고도화하는 자료로 활용.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 코딩 에이전트 확산에 따른 기업용 소프트웨어 시장 구도 재편 예고",
+      "importance_reason": "AI가 개발 생산성을 극적으로 높이면서 기존 SaaS 시장의 가치 구조가 변화하고 있음. 이는 콘텐츠 제작 효율화를 고민하는 기획자에게도 시사점이 큼."
+    },
+    {
+      "rank": 4,
+      "id": "ea3f34097445985864777bbb15fa4052d4cd224ce12ad5c0a487ffa9faac9ba2",
+      "title": "이세영 뤼튼 \"AI 캐릭터·스토리 플랫폼 크랙 IP, 게임·웹툰·영화 등 확장\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261119131456",
+      "published_at": "2026-11-19T13:15:35+09:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에 마련한 지스타 2026 크랙 간담회 자리서 ‘글로벌 컨슈머 AI 기업이 그리는 엔터테인먼트의 미래’를 주제로 발표했다.이 대표는 뤼튼이 지스타에 참가한 이유로 \"AI와 게임의 공통점인 상호작용\"을 꼽았다. 특히 이용자가 직접 참여하고 선택에 따라 결과가 달라진다는 점에서 AI 엔터테인먼트와 게임이 맞닿아 있다는 것이 이 대표의 설명이었다.또 이날 AI 캐릭터·스토리 플랫폼인 크랙의 성장 전략과 함께 서비스 지역과 지원 언어를 확대한다는 계획도 밝혔다. 크랙의 오리지널 지식재산권(IP)을 게임과 웹툰, 웹소설, 애니메이션, 영화 등으로 확장하는 사업 계획도 밝혀 눈길을 끌기도 했다.이러한 계획은 크랙 서비스에 대한 확장 가능성을 엿봤고, 새로운 놀이문화로 이용자에게 긍정적인 평가를 받았기 때문으로 풀이된다.이 대표는 \"한국과 북미, 일본에 이어 서비스 지역과 지…",
+      "category_score": 89,
+      "score_reason": "AI 기반 콘텐츠 IP 플랫폼이 게임, 웹툰 등 엔터테인먼트 산업과 결합하는 것은 생성형 AI가 콘텐츠 생산 방식을 어떻게 재정의하는지 보여줍니다.",
+      "keywords": [
+        "AI 캐릭터",
+        "IP 플랫폼",
+        "엔터테인먼트",
+        "창작생태계"
+      ],
+      "planning_insight": "개인 창작자와 기업 IP의 경계가 무너지는 시점에서, 'AI와 상호작용하는 콘텐츠' 기획은 향후 브랜드 커뮤니티와 소비자 관여도를 높이는 핵심 동력이 될 것.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 21,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 캐릭터·스토리 플랫폼의 엔터테인먼트 IP 확장 전략",
+      "importance_reason": "AI가 단순히 콘텐츠를 생성하는 것을 넘어, 사용자가 참여하는 상호작용 플랫폼으로서 게임, 웹툰, 영화의 IP 원천이 되는 트렌드를 제시함."
+    },
+    {
+      "rank": 5,
+      "id": "fad503c7daefe708dea2c2531a9f7d6e0b580edb99ba5d8e4e2da3f486db4d8d",
+      "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.24960",
+      "published_at": "2026-11-20T14:00:00+09:00",
+      "summary": "arXiv:2611.24960v1 Announce Type: new Abstract: Converting complex documents into structured knowledge constitutes the critical infrastructure urgently required for deploying Large Language Models (LLMs) in downstream research. However, blind to the Table of Contents (ToC) as a macro-structure, existing bottom-up paradigms rely on localized visual cues, inducing heuristic fragility in high-entropy layouts where visual prominence decouples from logical depth; meanwhile, direct LLM extraction lac…",
+      "category_score": 98,
+      "score_reason": "RAG의 핵심인 문서 구조화(Hierarchy Extraction)를 다루며, 비정형 문서에서 지식을 추출해 AI 서비스로 연결하는 실질적 가치가 매우 높음.",
+      "keywords": [
+        "RAG",
+        "할루시네이션",
+        "평가 프레임워크",
+        "신뢰성"
+      ],
+      "planning_insight": "AI 자동화 콘텐츠 제작 시스템 도입 시, 단순히 생산량만 늘리는 것이 아니라 '지식의 충돌'을 방지하고 결과를 검증할 수 있는 품질 관리 체계 수립이 필요함.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 20,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "시장·소비자 영향력",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "LLM의 지식-문맥 충돌을 평가하는 FutureBench 프레임워크",
+      "importance_reason": "AI 기반 자동화 시스템이 늘어날수록 생성된 정보의 진위 확인과 신뢰성 확보가 최우선 과제가 됨. 이를 평가하는 지표는 기업 AI 기획의 필수 요소."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 89,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 18,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 17,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "LLM",
+      "count": 15,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "전통 리테일과 엔터테인먼트 산업이 AI 기술을 도입해 테크 플랫폼으로 진화하며 비즈니스 모델을 재정의하고 있습니다.",
+    "기술블로그와 논문 분야에서는 AI의 효율성을 높이기 위한 온톨로지, 문서 구조화, 평가 프레임워크 등 인프라 고도화 작업이 활발히 진행 중입니다.",
+    "이제는 단순히 모델을 활용하는 단계를 지나, 서비스 도메인에 최적화된 데이터 구조화와 AI 실행 제어 및 품질 검증 체계를 구축하는 것이 시장 경쟁력의 핵심으로 떠오르고 있습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

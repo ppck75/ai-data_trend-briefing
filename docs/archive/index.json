@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-20T12:40:42.609533+09:00",
+  "updated_at": "2026-11-20T21:00:25.629959+09:00",
   "archives": [
+    {
+      "id": "2026-11-20_21-00",
+      "date": "2026-11-20",
+      "time": "21:00",
+      "label": "2026-11-20 21:00",
+      "generated_at": "2026-11-20T21:00:06.025653+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "model",
+        "데이터",
+        "LLM",
+        "플랫폼"
+      ],
+      "integrated_titles": [
+        "\"전통 유통 기업 아냐\"...CJ올리브영, AI 앞세워 '글로벌 테크 플랫폼' 도약",
+        "온톨로지, 구축에서 활용까지. 질문이 답을 설계한다.",
+        "[AI 리더스] 가트너가 내다본 2027년…\"AI가 기업 SW 시장 바꾼다\"",
+        "이세영 뤼튼 \"AI 캐릭터·스토리 플랫폼 크랙 IP, 게임·웹툰·영화 등 확장\"",
+        "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents"
+      ],
+      "path_json": "archive/2026-11-20/21-00.json",
+      "path_md": "archive/2026-11-20/21-00.md"
+    },
     {
       "id": "2026-11-20_12-35",
       "date": "2026-11-20",
