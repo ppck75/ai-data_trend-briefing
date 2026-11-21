@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T12:49:09.135731+09:00",
+  "updated_at": "2026-11-21T15:55:53.602413+09:00",
   "total_items": 200,
   "items": [
     {
@@ -2217,6 +2217,24 @@
       "planning_insight": ""
     },
     {
+      "id": "3ba6de586294b51cfc8aa7f38278dc6297ed16e4f14cce4f3c2317b23222b982",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "published_at": "2026-11-20T09:00:00+09:00",
+      "entry_updated_at": "2026-11-20T09:00:00+09:00",
+      "fetched_at": "2026-11-21T15:55:53.454766+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
       "id": "8931ab124b04ddca1e2658a94d7a5b26fb1f53b2d4dc37ae813b3e9d5ac60af3",
       "source": "Hugging Face Blog",
       "group": "ai_data",
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/business/12213655",
       "published_at": "2026-11-19T16:01:13+09:00",
       "entry_updated_at": "2026-11-19T16:01:13+09:00",
-      "fetched_at": "2026-11-19T17:28:32.830188+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "51926388b8f3a9a40dd36a5134a70fa0916c0259300e4cc204d29fe89156f851",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "[단독] 한화 330만弗 쏟아부을 때… HD현대 美 대관비는 ‘無’",
-      "summary": "한화 1~3분기 329만달러 신고 삼성重도 로펌 통해 법안 로비 HD현대 조선은 신고 ‘0건’ “美 사업 초기…대관은 아직”한·미 조선 협력 프로젝트 ‘마스가(MASGA)’를 계기..",
-      "url": "https://www.mk.co.kr/news/business/12213653",
-      "published_at": "2026-11-19T15:59:16+09:00",
-      "entry_updated_at": "2026-11-19T15:59:16+09:00",
       "fetched_at": "2026-11-19T17:28:32.830188+09:00",
       "language": "ko",
       "importance_weight": 0.85,
