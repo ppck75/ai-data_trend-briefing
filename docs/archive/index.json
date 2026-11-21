@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-21T12:23:25.967400+09:00",
+  "updated_at": "2026-11-21T20:35:30.305052+09:00",
   "archives": [
+    {
+      "id": "2026-11-21_20-35",
+      "date": "2026-11-21",
+      "time": "20:35",
+      "label": "2026-11-21 20:35",
+      "generated_at": "2026-11-21T20:35:14.637269+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "이세영 뤼튼 대표, “국경·형식 넘어 콘텐츠·플랫폼 더 넓게 확장할 것”",
+        "\"전통 유통 기업 아냐\"...CJ올리브영, AI 앞세워 '글로벌 테크 플랫폼' 도약",
+        "위세아이텍, 공공 데이터 분석에 AI 에이전트 적용 확대",
+        "아이티센클로잇, 제약·바이오 AX 공략…보안형 AI 에이전트 확대",
+        "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents"
+      ],
+      "path_json": "archive/2026-11-21/20-35.json",
+      "path_md": "archive/2026-11-21/20-35.md"
+    },
     {
       "id": "2026-11-21_12-35",
       "date": "2026-11-21",
