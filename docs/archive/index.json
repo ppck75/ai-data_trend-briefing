@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-23T22:30:16.725830+09:00",
+  "updated_at": "2026-11-24T05:28:47.616701+09:00",
   "archives": [
+    {
+      "id": "2026-11-24_05-28",
+      "date": "2026-11-24",
+      "time": "05:28",
+      "label": "2026-11-24 05:28",
+      "generated_at": "2026-11-24T05:28:36.828756+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "쿠팡, '전북 우수기업 품평회' 개최",
+        "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "[ZD브리핑] 삼성, 이번주 임원인사·조직개편...국회서 AI글래스 악용 방지 논의",
+        "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+        "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports"
+      ],
+      "path_json": "archive/2026-11-24/05-28.json",
+      "path_md": "archive/2026-11-24/05-28.md"
+    },
     {
       "id": "2026-11-23_22-29",
       "date": "2026-11-23",

@@ -1,0 +1,475 @@
+{
+  "briefing_date": "2026-11-24",
+  "generated_at": "2026-11-24T05:28:36.828756+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 188,
+    "tech_blog": 1,
+    "ai_data": 11
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+        "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123175657",
+        "published_at": "2026-11-23T17:58:57+09:00",
+        "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+        "category_score": 63,
+        "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "광고",
+          "마케팅",
+          "플랫폼",
+          "브랜드"
+        ],
+        "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "beb0211f96fcd568c60fc6061fa2138a692f5f714b721ae56d9c317c50c68be4",
+        "title": "쿠팡, '전북 우수기업 품평회' 개최",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261122113212",
+        "published_at": "2026-11-22T11:46:57+09:00",
+        "summary": "[지디넷코리아]쿠팡은 지난 20일 열린 'LOSO 페스티벌 인 전북'에서 지역 소상공인·중소기업의 온라인 판로를 넓히고 지역 상생 협력을 강화하기 위해 '전북 지역 우수기업 품평회'를 열었다고 22일 밝혔다. 이번 행사는 전북특별자치도, 전북특별자치도소상공인연합회와 함께 마련했다. 전북도청 다목적 광장에서 진행된 이번 평가에 도내 업체 47곳이 제품을 출품했다. 참가 기업은 ▲전주 ▲익산 ▲군산 ▲남원 ▲진안 ▲부안 등에서 활동하며, ▲전북도경제통상진흥원 ▲한국식품산업클러스터진흥원 ▲도 소상공인연합회의 추천을 받았다.전시 품목은 농수산물로 만든 ▲김치 ▲젓갈 ▲장류 ▲누룽지 ▲부각 ▲전통주를 포함해 ▲화장품 ▲일상용품 ▲공예 제품 등이다. 쿠팡에서는 리테일 및 로켓그로스 담당 브랜드 매니저와 마케팅 인력이 나와 판매 가능성과 제품 경쟁력을 검토하고 업체별 상담을 진행했다. 평가 결과에 따라 선정된 상품의 플랫폼 입점을 돕고 추가 협의를 진행할 계획이다.참가사인 주안에프앤비의 김준휘…",
+        "category_score": 61,
+        "score_reason": "마케팅, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "마케팅",
+          "플랫폼",
+          "브랜드",
+          "추천",
+          "리테일"
+        ],
+        "planning_insight": "이 항목은 마케팅, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "543d91798f17af54cc026ed145077df7ebd993586c65f566f923881c04d81fdd",
+        "title": "“설계 품질·생산성 제고”…SK에코플랜트, 설계 특화 인공지능 플랫폼 ‘AXen’ 도입",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12215901",
+        "published_at": "2026-11-23T10:45:13+09:00",
+        "summary": "공간·장비 배치부터 간섭 검토·기술문서 검색 등 지원 “반복 업무 자동화로 전사 AX 가속”SK에코플랜트가 설계 특화 AI 플랫폼 ‘AXen’(엑센)을 통해 인공지능 전환(AX)..",
+        "category_score": 59,
+        "score_reason": "AI, 플랫폼, 검색 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "검색",
+          "자동화"
+        ],
+        "planning_insight": "이 항목은 AI, 플랫폼, 검색 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "91e4f828eadd6f5d30186878d3eb91f5e53ff8feac1c875f68ff132777ebfb68",
+        "title": "양자컴퓨터 오류 정정 연구 12주서 45분으로…엔비디아, 새 알고리즘 공개",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123173936",
+        "published_at": "2026-11-23T17:39:36+09:00",
+        "summary": "[지디넷코리아]엔비디아가 양자컴퓨터 오류 정정 연구에 속도를 붙였다. 새로운 알고리즘으로 오류 분석 연산을 최대 1만 3000배 가속하고 12주 걸리던 설계 연구를 45분으로 단축했다.엔비디아는 양자컴퓨터 오류 정정 연구를 지원하는 새 알고리즘 'TCBP-JOBS'를 개발해 양자컴퓨팅 플랫폼 '쿠다-Q(CUDA-Q)'에서 제공한다고 23일 밝혔다.양자컴퓨터는 기존 컴퓨터로 해결하기 어려운 복잡한 문제를 풀 수 있지만 계산 과정에서 오류가 발생하기 쉽다는 한계가 있다. 외부 환경에 민감한 양자 정보가 쉽게 변하기 때문에 오류를 빠르게 찾아내고 바로잡는 기술이 중요하다.양자 오류 정정은 여러 물리적 큐비트에 정보를 나눠 저장해 오류로부터 보호하는 기술이다. 이때 '디코더'라는 알고리즘이 측정 데이터를 분석해 어떤 오류가 발생했는지 추정하고 정정을 돕는다.엔비디아가 공개한 TCBP-JOBS는 이러한 디코딩 작업을 빠르게 처리하도록 개발됐다. 회사에 따르면 특정 오류 정정 연구 작업에서…",
+        "category_score": 56,
+        "score_reason": "플랫폼, 알고리즘, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "플랫폼",
+          "알고리즘",
+          "데이터"
+        ],
+        "planning_insight": "이 항목은 플랫폼, 알고리즘, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "a9767da512ee21b636e107833bbc38e3ce56735e76726c4c8a64d644784ce159",
+        "title": "[ZD브리핑] 삼성, 이번주 임원인사·조직개편...국회서 AI글래스 악용 방지 논의",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261122143759",
+        "published_at": "2026-11-22T14:39:41+09:00",
+        "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 삼성그룹이 후속 임원인사와 조직개편을 발표할 것으로 예상됩니다. 지난 주 사장단 인사를 발표한 바 있습니다. 현대모비스가 24일 임시주주총회에서 램프사업을 별도 자회사로 분리하는 분할계획서 승인 안건을 다룹니다. 23일 국회에선 '인공지능(AI) 글래스 악용 방지 및 공정한 산업 생태계 조성을 위한 국회 토론회'가 열립니다. 국내 주요 대기업 사장단 인사가 마무리된 가운데, 이번 주 삼성그룹 등이 후속 임원인사를 발표할 것으로 예상됩니다. 지난주 삼성전…",
+        "category_score": 55,
+        "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI",
+          "커머스",
+          "플랫폼",
+          "콘텐츠"
+        ],
+        "planning_insight": "이 항목은 AI, 커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "b1f7d3eb65e0ca477c7e75c3674b9879efd9e6b38a1002ae3feb41711b169dae",
+        "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/multi-task-learning-in-finance",
+        "published_at": "2026-11-23T12:02:00+09:00",
+        "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기",
+        "category_score": 33,
+        "score_reason": "최근 수집 항목 중 출처 가중치와 최신성을 기준으로 선별되었습니다.",
+        "keywords": [],
+        "planning_insight": "콘텐츠 전략가 관점에서 시장 변화 신호인지 후속 확인할 필요가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "d0701dad62cb7f5e8508f677550338e5efb22e424ffb953f6a84eacbd462caa7",
+        "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26806",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address this, existing self-improvement methods update an agent's weights or its medical harness from its own experience, but their improving strategy stays fixed and never learns which changes actually help,…",
+        "category_score": 63,
+        "score_reason": "LLM, agent, agents 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "agent",
+          "agents",
+          "model",
+          "API"
+        ],
+        "planning_insight": "이 항목은 LLM, agent, agents 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 2,
+        "id": "20f207a689b7989f4b379c588f5246e614014f9c9b7ea246ed87b7940c59c7b2",
+        "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26776",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26776v1 Announce Type: new Abstract: Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the decision, and which evidence matters. On the XD-Violence test set (799 clips) we fix one set of perception agents (video description, object detection, sound tagging, speech recognition and speech tagging…",
+        "category_score": 53,
+        "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "agents",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 3,
+        "id": "0167df94eeddb422e2588d16e261fe8f102e5dd5f04a5958415f7750c0f9f606",
+        "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26756",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26756v1 Announce Type: new Abstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 configurations by injecting realistic error types, varying error locations, trace-answer consistency, and corruption ratios up to 100%. While aggregated SFT-only performance steadily deteriorates under co…",
+        "category_score": 50,
+        "score_reason": "dataset, fine-tuning, reasoning 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "dataset",
+          "fine-tuning",
+          "reasoning",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 dataset, fine-tuning, reasoning 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 4,
+        "id": "65d23f7bac441df4764fb843b53a14b88137ab7e9ba157a3f07b017f24851573",
+        "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26833",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following capabilities. Although Low-Rank Adaptation (LoRA) is widely used for parameter-efficient adaptation, its scaling after training remains insufficiently explored. This study investigates the impact of…",
+        "category_score": 48,
+        "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "LLM",
+          "model",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      },
+      {
+        "rank": 5,
+        "id": "855b2059e480616def1e2b93127598303729e32ec90159f900b89846c4ef299d",
+        "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26747",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclose data to unexpected recipients. We study these potential privacy-of-use harms through SkillPrivus, a static audit framework that analyzes skills before installation without executing them. SkillPriv…",
+        "category_score": 43,
+        "score_reason": "agent, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "agent",
+          "AI"
+        ],
+        "planning_insight": "이 항목은 agent, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "beb0211f96fcd568c60fc6061fa2138a692f5f714b721ae56d9c317c50c68be4",
+      "title": "쿠팡, '전북 우수기업 품평회' 개최",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261122113212",
+      "published_at": "2026-11-22T11:46:57+09:00",
+      "summary": "[지디넷코리아]쿠팡은 지난 20일 열린 'LOSO 페스티벌 인 전북'에서 지역 소상공인·중소기업의 온라인 판로를 넓히고 지역 상생 협력을 강화하기 위해 '전북 지역 우수기업 품평회'를 열었다고 22일 밝혔다. 이번 행사는 전북특별자치도, 전북특별자치도소상공인연합회와 함께 마련했다. 전북도청 다목적 광장에서 진행된 이번 평가에 도내 업체 47곳이 제품을 출품했다. 참가 기업은 ▲전주 ▲익산 ▲군산 ▲남원 ▲진안 ▲부안 등에서 활동하며, ▲전북도경제통상진흥원 ▲한국식품산업클러스터진흥원 ▲도 소상공인연합회의 추천을 받았다.전시 품목은 농수산물로 만든 ▲김치 ▲젓갈 ▲장류 ▲누룽지 ▲부각 ▲전통주를 포함해 ▲화장품 ▲일상용품 ▲공예 제품 등이다. 쿠팡에서는 리테일 및 로켓그로스 담당 브랜드 매니저와 마케팅 인력이 나와 판매 가능성과 제품 경쟁력을 검토하고 업체별 상담을 진행했다. 평가 결과에 따라 선정된 상품의 플랫폼 입점을 돕고 추가 협의를 진행할 계획이다.참가사인 주안에프앤비의 김준휘…",
+      "category_score": 61,
+      "score_reason": "마케팅, 플랫폼, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "마케팅",
+        "플랫폼",
+        "브랜드",
+        "추천",
+        "리테일"
+      ],
+      "planning_insight": "이 항목은 마케팅, 플랫폼, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 75,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]쿠팡은 지난 20일 열린 'LOSO 페스티벌 인 전북'에서 지역 소상공인·중소기업의 온라인 판로를 넓히고 지역 상생 협력을 강화하기 위해 '전북 지역 우수기업 품평회'를 열었다고 22일 밝혔다. 이번…",
+      "importance_reason": "마케팅, 플랫폼, 브랜드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+      "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261123175657",
+      "published_at": "2026-11-23T17:58:57+09:00",
+      "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+      "category_score": 63,
+      "score_reason": "AI, 광고, 마케팅 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "광고",
+        "마케팅",
+        "플랫폼",
+        "브랜드"
+      ],
+      "planning_insight": "이 항목은 AI, 광고, 마케팅 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 72,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집…",
+      "importance_reason": "AI, 광고, 마케팅 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "a9767da512ee21b636e107833bbc38e3ce56735e76726c4c8a64d644784ce159",
+      "title": "[ZD브리핑] 삼성, 이번주 임원인사·조직개편...국회서 AI글래스 악용 방지 논의",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261122143759",
+      "published_at": "2026-11-22T14:39:41+09:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 삼성그룹이 후속 임원인사와 조직개편을 발표할 것으로 예상됩니다. 지난 주 사장단 인사를 발표한 바 있습니다. 현대모비스가 24일 임시주주총회에서 램프사업을 별도 자회사로 분리하는 분할계획서 승인 안건을 다룹니다. 23일 국회에선 '인공지능(AI) 글래스 악용 방지 및 공정한 산업 생태계 조성을 위한 국회 토론회'가 열립니다. 국내 주요 대기업 사장단 인사가 마무리된 가운데, 이번 주 삼성그룹 등이 후속 임원인사를 발표할 것으로 예상됩니다. 지난주 삼성전…",
+      "category_score": 55,
+      "score_reason": "AI, 커머스, 플랫폼 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "AI",
+        "커머스",
+        "플랫폼",
+        "콘텐츠"
+      ],
+      "planning_insight": "이 항목은 AI, 커머스, 플랫폼 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 67,
+      "criteria_scores": {
+        "content_strategy": 18,
+        "trend_signal_timeliness": 18,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 20
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융…",
+      "importance_reason": "AI, 커머스, 플랫폼 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "20f207a689b7989f4b379c588f5246e614014f9c9b7ea246ed87b7940c59c7b2",
+      "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.26776",
+      "published_at": "2026-11-23T14:00:00+09:00",
+      "summary": "arXiv:2611.26776v1 Announce Type: new Abstract: Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the decision, and which evidence matters. On the XD-Violence test set (799 clips) we fix one set of perception agents (video description, object detection, sound tagging, speech recognition and speech tagging…",
+      "category_score": 53,
+      "score_reason": "agent, agents, model 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "agent",
+        "agents",
+        "model",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 agent, agents, model 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.26776v1 Announce Type: new Abstract: Systems that flag violent video for a human operator can now be built fr…",
+      "importance_reason": "agent, agents, model 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "65d23f7bac441df4764fb843b53a14b88137ab7e9ba157a3f07b017f24851573",
+      "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.26833",
+      "published_at": "2026-11-23T14:00:00+09:00",
+      "summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following capabilities. Although Low-Rank Adaptation (LoRA) is widely used for parameter-efficient adaptation, its scaling after training remains insufficiently explored. This study investigates the impact of…",
+      "category_score": 48,
+      "score_reason": "LLM, model, AI 관련 신호가 있어 ai_data 관점의 트렌드 후보로 볼 수 있습니다.",
+      "keywords": [
+        "LLM",
+        "model",
+        "AI"
+      ],
+      "planning_insight": "이 항목은 LLM, model, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 63,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.26833v1 Announce Type: new Abstract: Adapting large language models (LLMs) to specialized domains remains cha…",
+      "importance_reason": "LLM, model, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 72,
+      "groups": [
+        "ai_data",
+        "news"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 21,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 20,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 AI, 플랫폼, 마케팅, 브랜드, model 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "fallback",
+  "fallback_used": true,
+  "gemini_call_count": 3,
+  "category_methods": {
+    "news": "fallback",
+    "tech_blog": "fallback",
+    "ai_data": "fallback"
+  }
+}
