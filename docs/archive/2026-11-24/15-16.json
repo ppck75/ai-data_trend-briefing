@@ -1,0 +1,549 @@
+{
+  "briefing_date": "2026-11-24",
+  "generated_at": "2026-11-24T15:16:35.863208+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 182,
+    "tech_blog": 6,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "7b91a1e611512b42eaaff49fc5a844e020594a6bf3ea4509abe249101340d49d",
+        "title": "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124135027",
+        "published_at": "2026-11-24T13:55:22+09:00",
+        "summary": "[지디넷코리아]브이캣이 지난 13일 서울 양재 엘타워에서 연매출 1000억원대 커머스 기업 대표·경영진 대상 세미나 '커머스 리더스 나이트'를 공동 개최하고 차세대 성장 해법으로 AI 에이전트 운영을 제시했다.24일 회사에 따르면, '다음 1000억을 만드는 운영의 조건'을 주제로 열린 이번 세미나에는 패션·뷰티·식품 등 다양한 업종의 커머스 경영진이 참석했다. 3사는 고객 데이터가 CRM에, 광고 성과가 마케팅 도구에, 매출·비용이 재무 시스템에 각각 흩어져 있어 데이터 통합 판단과 실행이 여전히 사람에게 의존하고 있다는 점에 주목하고, 사람이 일하지 않는 시간에도 주 168시간 가동되는 AI 에이전트 중심 운영 전환을 해법으로 꼽았다. 실제 세일즈포스가 커머스 전문가 3450명과 소비자 4690명을 조사한 '2026년 글로벌 커머스 리포트'에서도 쇼핑 시작 단계에서 AI 에이전트 기반 검색을 활용하는 비율이 전년 대비 200% 급증한 것으로 나타났다.세션 발표에는 3사 주요 경…",
+        "category_score": 98,
+        "score_reason": "단순 업무 보조를 넘어 'AI 에이전트' 중심의 기업 운영 체질 개선이라는 시장의 핵심 변화 신호를 제시함. 커머스 경영진 대상의 실질적 방법론으로 파급력이 큼.",
+        "keywords": [
+          "AI 에이전트",
+          "커머스",
+          "데이터 통합"
+        ],
+        "planning_insight": "AI 도입은 개별 툴 활용에서 전사적 운영 체계(OS) 전환으로 이동 중임. AI 에이전트 기반의 업무 자동화 시나리오 콘텐츠가 시장의 주목을 받을 것."
+      },
+      {
+        "rank": 2,
+        "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+        "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123175657",
+        "published_at": "2026-11-23T17:58:57+09:00",
+        "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+        "category_score": 95,
+        "score_reason": "광고 성과 분석과 예산 최적화는 모든 플랫폼 비즈니스의 당면 과제임. AI가 매체별 기여도를 자동 산출하는 모델은 광고 시장의 표준이 될 가능성이 높음.",
+        "keywords": [
+          "AI 마케팅",
+          "광고 솔루션",
+          "데이터 분석"
+        ],
+        "planning_insight": "광고 효율 극대화에 목마른 마케터들에게 'AI 기반 의사결정 사례'는 높은 도달율을 보이는 핵심 콘텐츠 주제임."
+      },
+      {
+        "rank": 3,
+        "id": "8e879bc4489799b2465c0827e32ab360cea2d375da132f26940d967719628356",
+        "title": "코딩 몰라도 앱 만든다…국내 IT업계, 바이브코딩 시장 공략 잰걸음",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261122122614",
+        "published_at": "2026-11-22T14:00:03+09:00",
+        "summary": "[지디넷코리아]자연어로 앱과 웹사이트를 구현하는 ‘바이브코딩’이 확산하면서 국내 주요 IT·플랫폼 기업이 관련 서비스를 연이어 출시하며 시장 공략에 속도를 내고 있다. 바이브코딩을 배우려는 수요부터 이를 지원하는 플랫폼, 기업용 플랫폼까지 다양한 서비스가 출시되며 관련 생태계가 확장되는 모습이다.22일 디지털 마케팅 업체 서프 디지털가 전 세계 공개 웹사이트 데이터를 분석한 결과 러버블·이머전트·베이스44 등 바이브코딩 플랫폼 3종으로 제작한 것으로 확인된 홈페이지는 지난해 12월 5309개에서 올해 9월 1만3939개로 2.6배 증가했다.러버블에서 생성된 프로젝트는 올해 8월 기준 누적 6000만 개를 넘어섰으며, 이를 통해 제작된 앱의 월 방문 횟수는 9억 회 이상을 기록했다.바이브코딩을 익혀 실제 서비스 출시까지 이어가려는 수요도 늘고 있다. 성인 실무 교육 플랫폼 패스트캠퍼스가 올해 1월부터 지난달 15일까지 누적 거래금액을 기준으로 집계한 결과 가장 많이 판매된 강의는 클…",
+        "category_score": 92,
+        "score_reason": "자연어 기반 앱·웹 구축(바이브코딩)의 확산은 일반인의 서비스 생산자 전환을 의미함. 플랫폼 산업의 저변을 넓히는 중요한 트렌드임.",
+        "keywords": [
+          "바이브코딩",
+          "노코드",
+          "플랫폼 생태계"
+        ],
+        "planning_insight": "기술 장벽 파괴는 '누구나 개발자가 되는 시대'라는 키워드로 소비자 행동 양식을 변화시킬 것. 관련 튜토리얼 및 비즈니스 전환 가이드 수요가 급증할 것으로 보임."
+      },
+      {
+        "rank": 4,
+        "id": "c86e892b0dee5e7e6a73a84c32153c28aa753842706784fd92e0e89f645ab773",
+        "title": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12216436",
+        "published_at": "2026-11-23T18:04:55+09:00",
+        "summary": "회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구도 더욱 가열네이버가 이커머스 경쟁력을 강화하기 위해 설립하는 신규 물류..",
+        "category_score": 90,
+        "score_reason": "국내 최대 플랫폼인 네이버의 물류 전략 변화는 이커머스 전반의 경쟁 구도를 재편할 중요한 사건임. 배달 플랫폼 인사의 물류 수장 영입은 시사점이 큼.",
+        "keywords": [
+          "커머스",
+          "물류",
+          "플랫폼 경쟁"
+        ],
+        "planning_insight": "플랫폼 간의 물류 전쟁은 곧 '배송 경험'의 전쟁임. AI 기반 물류 자동화와 연계된 커머스 전략 변화를 분석하는 것이 필요함."
+      },
+      {
+        "rank": 5,
+        "id": "51225733e120405bea276503499cf702804508e28fd0e99850202a3c700eda31",
+        "title": "AI 학습용 저작물 이용 기준 마련…문체부, 표준계약서 공청회 개최",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123095407",
+        "published_at": "2026-11-23T09:54:07+09:00",
+        "summary": "[지디넷코리아]문화체육관광부(이하 문체부)가 인공지능(AI) 학습에 활용되는 저작물의 이용 기준을 마련한다. 창작자 권리를 보호하면서 AI 개발사가 합법적으로 저작물을 활용할 수 있도록 표준계약서를 제정하고 연내 고시할 계획이다.문체부는 한국저작권위원회, 법무법인 세종과 함께 오는 26일 오전 10시 30분 서울 종로구 그랑서울 타워1에서 '인공지능 학습을 위한 저작물 이용허락 표준계약서(안) 공청회'를 개최한다고 23일 밝혔다.이번 공청회는 AI 학습용 저작물 거래에 적용할 표준계약서 제정안을 공개하고 저작권자와 AI 업계 등 이해관계자 의견을 수렴하기 위해 마련됐다.현재 문체부는 저작재산권 양도와 이용허락 관련 표준계약서 4종을 고시해 운영하고 있다. 그러나 생성형 AI 확산으로 학습용 저작물 이용 수요가 증가하면서 기존 계약서만으로는 새로운 거래 유형을 포괄하기 어렵다는 한계가 제기됐다.이에 문체부는 지난 5월 법무법인 세종과 연구용역에 착수해 AI 학습용 저작물 거래에 적용…",
+        "category_score": 88,
+        "score_reason": "생성형 AI의 가장 큰 리스크이자 기회인 '저작권' 문제 해결을 위한 표준계약서 도입은 AI 산업 생태계 형성에 필수적인 과정임.",
+        "keywords": [
+          "AI 학습",
+          "저작권",
+          "표준계약서"
+        ],
+        "planning_insight": "AI 윤리와 법적 기준 마련은 기업들이 가장 예민하게 반응하는 이슈임. 규제와 혁신의 균형을 다루는 가이드라인 콘텐츠는 B2B 업계에 높은 가치를 제공함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "b1f7d3eb65e0ca477c7e75c3674b9879efd9e6b38a1002ae3feb41711b169dae",
+        "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/multi-task-learning-in-finance",
+        "published_at": "2026-11-23T12:02:00+09:00",
+        "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기",
+        "category_score": 98,
+        "score_reason": "서비스 확장성에 따른 모델 관리 전략을 다루며, 비즈니스 복잡도를 시스템 구조로 해결한 사례로 기획 및 운영 전략 측면에서 가장 높은 가치를 가짐.",
+        "keywords": [
+          "모델 아키텍처",
+          "멀티태스크 학습",
+          "제품 전략"
+        ],
+        "planning_insight": "서비스 기능 확장에 따른 기술 부채를 모델 통합 아키텍처로 해결하는 전략은 콘텐츠와 데이터 운영의 효율성을 동시에 극대화할 수 있는 핵심 지표가 됨."
+      },
+      {
+        "rank": 2,
+        "id": "c7cb0f74a1457dda40f317c6457b73db6bdc688e8c9b39bbb50e97b5e46bf4ce",
+        "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5087915",
+        "published_at": "2026-11-23T15:19:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI 에이전트의 메모리 관리와 토큰 비용 절감에 관심 있는 개발자 ​ 목차 요청마다 다시 읽히는 토큰 다시 읽는 토큰 가운데 실제로 쓰이는 비율 넣은 4k 토큰 가운데 정답 근거의 비율 목차에서 잘린 규칙을 모델이 열어 보지 않는 문제 쓰지도 않는 토큰이 비싼 이유 크기 × 요청 수로 불어나는 비용 식 늘 넣기, 위치만 두기, 빼 두기: 무엇을 늘 넣어 둘까 Haema(해마)의 구조 층 구조: 기억 저장, 불러오기, 작업 기억, 세션 나누기, 판정 게이트 질문 하나가 지나는 여섯 단계 긴 대화를 위한 세션…",
+        "category_score": 95,
+        "score_reason": "RAG의 검색 효율과 토큰 비용 문제를 사용자 경험과 연결함. 서비스 답변 품질 개선을 위한 정보 구조 설계의 인사이트를 제공함.",
+        "keywords": [
+          "RAG",
+          "AI 메모리",
+          "UX 개선"
+        ],
+        "planning_insight": "사용자의 인지 부하를 줄이고 답변 근거의 정확도를 높이는 것은 AI 기반 콘텐츠 추천 및 검색 서비스 기획의 핵심 UX 고려 사항임."
+      },
+      {
+        "rank": 3,
+        "id": "a9c5b1c98bfb26bcb5752ef3d882c395b699c71cfc79000f78bf8c23be276f78",
+        "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3284900",
+        "published_at": "2026-11-23T16:51:06+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을 공유합니다. ​ 발표 대상 코딩 에이전트에게 사내 도메인 업무를 맡겨 보고 싶은 개발자 흩어진 데이터 문서와 도메인 지식을 정리하고 싶은 데이터 엔지니어·분석가 AGENTS.md, 스킬, 규칙으로 에이전트의 작업 방식을 설계해 보고 싶은 분 ​ 목차 1. 왜 만들었나 스키마만으로는 알 수 없는 컬럼의 의미, wiki·GitHub·코드 주석에 흩어진 문서, 담당자 머릿속의 노하우. SQL과 Spark는 잘 쓰지만 우리 조직의 사정은 모르는, 똑똑한 AI 신입사원의 문제 ​ 2. 어떻게 키우나 처음부터 다…",
+        "category_score": 92,
+        "score_reason": "에이전트를 통해 사내 도메인 데이터를 체계화하고 학습시키는 과정을 상세히 공유. 콘텐츠 전략가에게 최적화된 데이터 관리 워크플로우를 제시함.",
+        "keywords": [
+          "AI 에이전트",
+          "데이터 관리",
+          "워크플로우"
+        ],
+        "planning_insight": "비정형 데이터의 체계적인 정리는 AI 모델의 성능을 결정짓는 핵심이며, 에이전트 기반의 업무 자동화는 콘텐츠 관리 효율성을 획기적으로 향상함."
+      },
+      {
+        "rank": 4,
+        "id": "d6377216c4f280d644559311ec380c2f97899722e20df1785e06d9557b9a5a82",
+        "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1126768",
+        "published_at": "2026-11-23T16:03:24+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 공유 드립니다. ​ 발표 대상 개발과 서비스 운영(온콜)을 함께 맡고 있는 개발자·엔지니어 AI Agent에게 조사·조치 같은 실제 운영 업무를 맡기려는 개발자 사내 Agent 도입을 검토하는 팀 ​ 목차 도입 - 어느 조직에나 있는 문제 운영 대상은 늘고, 사람은 준다 온콜이 실제로 하는 일 열한 달의 여정 조사하는 Agent - 1단계 맡기려 했지만, 줄 게 없었다 ① 알림을 한 곳으로 ② 기억과 지식을 준다 응답 형식 케이스 ① 조사하는 Agent 손을 쓰는 Agent - 2단계 넘어야 할 질문 셋 Q1 뭘 할 수 있나 - 능력 Q2 언제 해도 되나 - 판정 Q3…",
+        "category_score": 88,
+        "score_reason": "AI 에이전트를 실무 운영(온콜)에 도입하여 프로세스를 개선한 사례. 기술적 난이도보다 서비스 운영 효율화 측면에서 기획적 가치가 큼.",
+        "keywords": [
+          "운영 효율화",
+          "AI 에이전트",
+          "서비스 운영"
+        ],
+        "planning_insight": "반복적인 운영 업무를 AI로 대체하는 과정에서 축적된 규칙(Rule) 설계는 서비스 운영 체계를 자동화된 고도 모델로 전환하는 가이드를 제공함."
+      },
+      {
+        "rank": 5,
+        "id": "9ee0a7c9c85dde139c1683276f1dd103437258553ac9cf981f3e4817c45c04ac",
+        "title": "Spark 배치 파이프라인 Distributed Tracing 도입",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2526679",
+        "published_at": "2026-11-23T14:02:11+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Apache Spark가 지원하지 않는 분산 추적을 비즈니스 로직 수정 없이 플러그인 형태로 제공하여 연관된 애플리케이션들과 한 흐름으로 잇는 방법을 소개하고, 관측 결과를 성능 개선과 AI Agent 진단에 연결한 경험을 공유합니다. ​ 발표 대상 Spark 배치 처리의 관측성 확보와 성능 최적화에 관심 있는 개발자 ​ 목차 인트로 Observability 분산추적과 OpenTelemetry 배치 파이프라인 Apache Spark와 Distributed Tracing 해결 과정 결과, 그리고 AI Agent ​ ​ ◎ NAVER Engineering Day란? ​ NAVER에서는 사내 개발 경험과 기술 트렌드를 교류를 할 수 있는 프로그램이 많이 있습니다. 그중 이제는 매회 평균 100개 이상의 발표가 이루어지는 NAVER Engineering Da…",
+        "category_score": 85,
+        "score_reason": "관측성(Observability) 확보와 이를 AI 진단으로 연결한 시도. 성능 개선을 AI 서비스의 품질 관리와 연계한 구조적 접근이 우수함.",
+        "keywords": [
+          "데이터 추적",
+          "성능 최적화",
+          "관측성"
+        ],
+        "planning_insight": "데이터 파이프라인의 가시성을 확보하는 것은 단순 성능 개선을 넘어 AI 에이전트의 판단 근거를 추적하고 서비스 신뢰도를 높이는 데 필수적임."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "400545bcdedfe7b9b764f50212c69514fa08cfe393445c902a7b32ee8799723d",
+        "title": "How to build and maintain an agentic evaluation",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/agentic-evals",
+        "published_at": "2026-11-23T09:00:00+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "AI 에이전트의 실무 도입을 위한 핵심 과제인 '평가(Evaluation)' 체계 구축을 다루며, 자동화 워크플로우의 신뢰성을 확보하는 기획적 필수 지식을 제공함.",
+        "keywords": [
+          "에이전트",
+          "평가",
+          "자동화",
+          "운영"
+        ],
+        "planning_insight": "에이전트 도입 시 성과를 정량화하고 품질을 관리하는 표준 프레임워크로 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "c25f66af44b143d85754b3b2f78b30bc8c4f03cd77f19724513cef759a168ddb",
+        "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26775",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26775v1 Announce Type: new Abstract: Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analysts add entries, checked one at a time for correctness (does the SQL answer its own question?) and rarely for consistency with one another. Yet correctness is often loosely defined: a question seldom…",
+        "category_score": 95,
+        "score_reason": "데이터 분석 자동화를 위한 Text-to-SQL 시스템에서 '컨텍스트 뱅크' 관리의 중요성을 다룸. 기획자가 데이터 기반 의사결정 모델을 설계할 때 필수적인 데이터 구조화 전략임.",
+        "keywords": [
+          "RAG",
+          "데이터 분석",
+          "Text-to-SQL",
+          "컨텍스트"
+        ],
+        "planning_insight": "조직 내 산재된 데이터 지식(Context Bank)을 체계화하여 LLM의 분석 정확도를 높이는 가이드라인 수립."
+      },
+      {
+        "rank": 3,
+        "id": "985a08fc1696ecef760ed3decff4bcb85892c81ebdcdd21af7533561ac7160c9",
+        "title": "Search From the Start: Search-Native Pretraining for Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26809",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment pretraining corpus at scale with web-search queries and…",
+        "category_score": 92,
+        "score_reason": "검색 기능을 강화한 'Search-Native' 모델 구조를 다루며, RAG나 외부 툴 연동이 아닌 모델 차원의 검색 최적화가 콘텐츠 검색 서비스의 미래 방향성임을 시사함.",
+        "keywords": [
+          "LLM",
+          "검색",
+          "RAG",
+          "프리트레이닝"
+        ],
+        "planning_insight": "외부 데이터 검색과 AI 추론이 통합된 차세대 콘텐츠 검색/추천 시스템 기획 시 참고."
+      },
+      {
+        "rank": 4,
+        "id": "d0701dad62cb7f5e8508f677550338e5efb22e424ffb953f6a84eacbd462caa7",
+        "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26806",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address this, existing self-improvement methods update an agent's weights or its medical harness from its own experience, but their improving strategy stays fixed and never learns which changes actually help,…",
+        "category_score": 88,
+        "score_reason": "에이전트가 경험을 통해 스스로를 개선하는 재귀적 학습 모델을 제시. 서비스 자동화 프로세스에서 에이전트의 지속적인 성능 향상 구조를 기획하는 데 영감을 줌.",
+        "keywords": [
+          "에이전트",
+          "자기개선",
+          "자동화",
+          "LLM"
+        ],
+        "planning_insight": "반복적인 업무를 수행하는 에이전트 서비스 설계 시 운영 데이터를 활용한 에이전트 진화 모델 적용."
+      },
+      {
+        "rank": 5,
+        "id": "855b2059e480616def1e2b93127598303729e32ec90159f900b89846c4ef299d",
+        "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26747",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26747v1 Announce Type: new Abstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclose data to unexpected recipients. We study these potential privacy-of-use harms through SkillPrivus, a static audit framework that analyzes skills before installation without executing them. SkillPriv…",
+        "category_score": 85,
+        "score_reason": "에이전트 스킬 활용 시 발생하는 프라이버시 문제를 다룸. AI 서비스 기획자에게 필수적인 AI 윤리 및 보안 거버넌스 수립의 근거를 제공함.",
+        "keywords": [
+          "에이전트",
+          "보안",
+          "프라이버시",
+          "AI 거버넌스"
+        ],
+        "planning_insight": "사용자 데이터를 활용하는 자동화 에이전트 기획 시 정보 유출 방지 및 권한 관리 정책 수립."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "985a08fc1696ecef760ed3decff4bcb85892c81ebdcdd21af7533561ac7160c9",
+      "title": "Search From the Start: Search-Native Pretraining for Language Models",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.26809",
+      "published_at": "2026-11-23T14:00:00+09:00",
+      "summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment pretraining corpus at scale with web-search queries and…",
+      "category_score": 92,
+      "score_reason": "검색 기능을 강화한 'Search-Native' 모델 구조를 다루며, RAG나 외부 툴 연동이 아닌 모델 차원의 검색 최적화가 콘텐츠 검색 서비스의 미래 방향성임을 시사함.",
+      "keywords": [
+        "LLM",
+        "검색",
+        "RAG",
+        "프리트레이닝"
+      ],
+      "planning_insight": "이 항목은 LLM, 검색, RAG 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 58,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.26809v1 Announce Type: new Abstract: Modern language models (LMs) are increasingly deployed with access to se…",
+      "importance_reason": "LLM, 검색, RAG 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 2,
+      "id": "c86e892b0dee5e7e6a73a84c32153c28aa753842706784fd92e0e89f645ab773",
+      "title": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/business/12216436",
+      "published_at": "2026-11-23T18:04:55+09:00",
+      "summary": "회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구도 더욱 가열네이버가 이커머스 경쟁력을 강화하기 위해 설립하는 신규 물류..",
+      "category_score": 90,
+      "score_reason": "국내 최대 플랫폼인 네이버의 물류 전략 변화는 이커머스 전반의 경쟁 구도를 재편할 중요한 사건임. 배달 플랫폼 인사의 물류 수장 영입은 시사점이 큼.",
+      "keywords": [
+        "커머스",
+        "물류",
+        "플랫폼 경쟁"
+      ],
+      "planning_insight": "이 항목은 커머스, 물류, 플랫폼 경쟁 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구도 더욱 가열네이버가 이커머스 경쟁력을 강화하기 위해 설립하는 신규 물류..",
+      "importance_reason": "커머스, 물류, 플랫폼 경쟁 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
+      "id": "c7cb0f74a1457dda40f317c6457b73db6bdc688e8c9b39bbb50e97b5e46bf4ce",
+      "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/5087915",
+      "published_at": "2026-11-23T15:19:13+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI 에이전트의 메모리 관리와 토큰 비용 절감에 관심 있는 개발자 ​ 목차 요청마다 다시 읽히는 토큰 다시 읽는 토큰 가운데 실제로 쓰이는 비율 넣은 4k 토큰 가운데 정답 근거의 비율 목차에서 잘린 규칙을 모델이 열어 보지 않는 문제 쓰지도 않는 토큰이 비싼 이유 크기 × 요청 수로 불어나는 비용 식 늘 넣기, 위치만 두기, 빼 두기: 무엇을 늘 넣어 둘까 Haema(해마)의 구조 층 구조: 기억 저장, 불러오기, 작업 기억, 세션 나누기, 판정 게이트 질문 하나가 지나는 여섯 단계 긴 대화를 위한 세션…",
+      "category_score": 95,
+      "score_reason": "RAG의 검색 효율과 토큰 비용 문제를 사용자 경험과 연결함. 서비스 답변 품질 개선을 위한 정보 구조 설계의 인사이트를 제공함.",
+      "keywords": [
+        "RAG",
+        "AI 메모리",
+        "UX 개선"
+      ],
+      "planning_insight": "이 항목은 RAG, AI 메모리, UX 개선 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법…",
+      "importance_reason": "RAG, AI 메모리, UX 개선 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 4,
+      "id": "d0701dad62cb7f5e8508f677550338e5efb22e424ffb953f6a84eacbd462caa7",
+      "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.26806",
+      "published_at": "2026-11-23T14:00:00+09:00",
+      "summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address this, existing self-improvement methods update an agent's weights or its medical harness from its own experience, but their improving strategy stays fixed and never learns which changes actually help,…",
+      "category_score": 88,
+      "score_reason": "에이전트가 경험을 통해 스스로를 개선하는 재귀적 학습 모델을 제시. 서비스 자동화 프로세스에서 에이전트의 지속적인 성능 향상 구조를 기획하는 데 영감을 줌.",
+      "keywords": [
+        "에이전트",
+        "자기개선",
+        "자동화",
+        "LLM"
+      ],
+      "planning_insight": "이 항목은 에이전트, 자기개선, 자동화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 10,
+        "trend_signal_timeliness": 18,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapid…",
+      "importance_reason": "에이전트, 자기개선, 자동화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 5,
+      "id": "7b91a1e611512b42eaaff49fc5a844e020594a6bf3ea4509abe249101340d49d",
+      "title": "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124135027",
+      "published_at": "2026-11-24T13:55:22+09:00",
+      "summary": "[지디넷코리아]브이캣이 지난 13일 서울 양재 엘타워에서 연매출 1000억원대 커머스 기업 대표·경영진 대상 세미나 '커머스 리더스 나이트'를 공동 개최하고 차세대 성장 해법으로 AI 에이전트 운영을 제시했다.24일 회사에 따르면, '다음 1000억을 만드는 운영의 조건'을 주제로 열린 이번 세미나에는 패션·뷰티·식품 등 다양한 업종의 커머스 경영진이 참석했다. 3사는 고객 데이터가 CRM에, 광고 성과가 마케팅 도구에, 매출·비용이 재무 시스템에 각각 흩어져 있어 데이터 통합 판단과 실행이 여전히 사람에게 의존하고 있다는 점에 주목하고, 사람이 일하지 않는 시간에도 주 168시간 가동되는 AI 에이전트 중심 운영 전환을 해법으로 꼽았다. 실제 세일즈포스가 커머스 전문가 3450명과 소비자 4690명을 조사한 '2026년 글로벌 커머스 리포트'에서도 쇼핑 시작 단계에서 AI 에이전트 기반 검색을 활용하는 비율이 전년 대비 200% 급증한 것으로 나타났다.세션 발표에는 3사 주요 경…",
+      "category_score": 98,
+      "score_reason": "단순 업무 보조를 넘어 'AI 에이전트' 중심의 기업 운영 체질 개선이라는 시장의 핵심 변화 신호를 제시함. 커머스 경영진 대상의 실질적 방법론으로 파급력이 큼.",
+      "keywords": [
+        "AI 에이전트",
+        "커머스",
+        "데이터 통합"
+      ],
+      "planning_insight": "이 항목은 AI 에이전트, 커머스, 데이터 통합 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 52,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 19,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]브이캣이 지난 13일 서울 양재 엘타워에서 연매출 1000억원대 커머스 기업 대표·경영진 대상 세미나 '커머스 리더스 나이트'를 공동 개최하고 차세대 성장 해법으로 AI 에이전트 운영을 제시했다.24일…",
+      "importance_reason": "AI 에이전트, 커머스, 데이터 통합 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 76,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 21,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 20,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 9,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "오늘 선별된 주요 흐름은 LLM, RAG, 커머스, 검색, 프리트레이닝 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": true,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

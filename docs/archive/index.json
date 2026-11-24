@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-24T05:28:47.616701+09:00",
+  "updated_at": "2026-11-24T15:18:19.366039+09:00",
   "archives": [
+    {
+      "id": "2026-11-24_15-16",
+      "date": "2026-11-24",
+      "time": "15:16",
+      "label": "2026-11-24 15:16",
+      "generated_at": "2026-11-24T15:16:35.863208+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Search From the Start: Search-Native Pretraining for Language Models",
+        "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다",
+        "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+        "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+        "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료"
+      ],
+      "path_json": "archive/2026-11-24/15-16.json",
+      "path_md": "archive/2026-11-24/15-16.md"
+    },
     {
       "id": "2026-11-24_05-28",
       "date": "2026-11-24",
