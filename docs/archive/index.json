@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-24T15:18:19.366039+09:00",
+  "updated_at": "2026-11-24T23:07:21.758546+09:00",
   "archives": [
+    {
+      "id": "2026-11-24_23-07",
+      "date": "2026-11-24",
+      "time": "23:07",
+      "label": "2026-11-24 23:07",
+      "generated_at": "2026-11-24T23:07:19.579919+09:00",
+      "source_total": 200,
+      "method": "fallback",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "UI"
+      ],
+      "integrated_titles": [
+        "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+        "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+        "Benchmarking and Adapting LLMs for English-Swedish Medical Question Answering",
+        "Language Model Harnesses can be Compositional Generalizers"
+      ],
+      "path_json": "archive/2026-11-24/23-07.json",
+      "path_md": "archive/2026-11-24/23-07.md"
+    },
     {
       "id": "2026-11-24_15-16",
       "date": "2026-11-24",
