@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:05:11.016702+09:00",
+  "updated_at": "2026-11-25T07:18:41.440795+09:00",
   "total_items": 200,
   "items": [
     {
@@ -16,6 +16,24 @@
       "fetched_at": "2026-11-25T03:05:10.916360+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "d6726e2977659ed02ec94621842b2586ea7338ee59a34df28a0322698f9c0abc",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published_at": "2026-11-25T01:34:13+09:00",
+      "entry_updated_at": "2026-11-25T01:34:13+09:00",
+      "fetched_at": "2026-11-25T07:18:41.229336+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://www.mk.co.kr/news/business/12215895",
       "published_at": "2026-11-23T10:41:02+09:00",
       "entry_updated_at": "2026-11-23T10:41:02+09:00",
-      "fetched_at": "2026-11-23T10:55:49.783531+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "843c5ee4be832d004a36903f2ded6f0d4a611047c8eb88e8bc6eab84ecc6b262",
-      "source": "매일경제 기업",
-      "group": "news",
-      "category": "business",
-      "icon": "🏢",
-      "title": "카카오·카카오모빌리티, TPG에 1.5조 국제중재 피소...“美 상장 추진 의무 위반”",
-      "summary": "청구가치 1.5조 이상 추산 카카오 자기자본의 9.85% 모빌리티 美 상장 추진 갈등 카카오 이사회 반대 후 중재 카카오 중재 적극 대응 방침카카오와 자회사 카카오모빌리티가 카카오..",
-      "url": "https://www.mk.co.kr/news/it/12215861",
-      "published_at": "2026-11-23T10:00:19+09:00",
-      "entry_updated_at": "2026-11-23T10:00:19+09:00",
       "fetched_at": "2026-11-23T10:55:49.783531+09:00",
       "language": "ko",
       "importance_weight": 0.85,
