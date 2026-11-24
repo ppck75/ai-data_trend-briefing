@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-24T23:07:21.758546+09:00",
+  "updated_at": "2026-11-25T04:39:49.362792+09:00",
   "archives": [
+    {
+      "id": "2026-11-25_04-39",
+      "date": "2026-11-25",
+      "time": "04:39",
+      "label": "2026-11-25 04:39",
+      "generated_at": "2026-11-25T04:39:23.302234+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "model",
+        "분석"
+      ],
+      "integrated_titles": [
+        "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+        "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+        "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+        "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스",
+        "Taking the PULSE of Enterprise Workflows: Evaluating Persistent Project-State Understanding"
+      ],
+      "path_json": "archive/2026-11-25/04-39.json",
+      "path_md": "archive/2026-11-25/04-39.md"
+    },
     {
       "id": "2026-11-24_23-07",
       "date": "2026-11-24",

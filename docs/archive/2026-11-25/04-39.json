@@ -1,0 +1,552 @@
+{
+  "briefing_date": "2026-11-25",
+  "generated_at": "2026-11-25T04:39:23.302234+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 170,
+    "tech_blog": 9,
+    "ai_data": 21
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "37349ebbb01c591126333f5cedf5917cb23611e628c724c76b7c5d9d77c18e72",
+        "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124161846",
+        "published_at": "2026-11-24T17:49:56+09:00",
+        "summary": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있다. 외부 AI 에이전트가 이용자를 대신해 자사 서비스에 접근하는 것을 어디까지 허용할지가 새로운 과제로 주어져서다.특히 네이버와 카카오가 연내 자체 AI 에이전트 서비스 공개를 앞두고 있어 외부 AI 에이전트에 대한 서비스 개방 범위와 이용자 보호 정책에 관심이 쏠린다. AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상할 가능성이 있어서다.24일 아이지에이웍스 모바일인덱스에 따르면 지난 9일부터 15일까지 피클 앱 신규 설치 건수는 12만9394건으로 집계됐다. 이는 직전 주(11월 2~8일) 6만7583건 대비 2배가량 증가한 수치다. 이 같은 추세는 지속돼 이달 16일부터 22일까지의 신규 설치 건수는 13만9504건이다.이용자의 앱 방문도 이어지고 있다. 피클의 주간활성이용자수(WAU)는 같은 기간 2…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상하며, 국내 플랫폼 기업(네이버·카카오)의 정책 변화를 촉발하는 시장의 핵심 변화 신호임.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼",
+          "소비자 행동"
+        ],
+        "planning_insight": "플랫폼 종속성을 탈피하려는 'AI 비서'의 확산은 광고 및 커머스 데이터 수집 구조의 근본적인 변화를 예고함. 에이전트 인터페이스 최적화 및 연동 전략 수립 필수."
+      },
+      {
+        "rank": 2,
+        "id": "d5e2949d71ae68275bd71fe79a159e20ea3268d089e6bedcd693aae44465fd8e",
+        "title": "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124201002",
+        "published_at": "2026-11-24T20:10:02+09:00",
+        "summary": "[지디넷코리아] 촬영이나 편집 경험이 없어도 제품 링크, 사진, 간단한 기획안을 동영상 광고와 릴스로 제작 가능. 두바이, 아랍에미리트, 2026년 11월 24일 /PRNewswire/ -- AI 영상 도구마다 완성된 광고를 만들어 줄 수 있다고는 하지만, 결과물은 대부분 조잡한 AI 콘텐츠다. 오픈클립스닷에이아이(OpenClips.AI)는 다르다. 즉시 집행할 수 있는 광고를 만들어 주는 첫 AI 영상 생성 도구이기 때문이다. 기업은 창작물마다 가격을 확인한 후에 비용을 지출할 수 있다. jwplayer.key='3Fznr2BGJZtpwZmA+81lm048ks6+0NjLXyDdsO2YkfE=' First AI Tool that makes production ready ads jwplayer('myplayer1').setup({file: 'https://mmx.prnasia.com/media/MS2041040/d6f19525-c447-4719-838d-512c79ba8a39.mp4…",
+        "category_score": 95,
+        "score_reason": "제품 링크 기반의 즉시 집행 가능한 광고 생성은 광고 제작 공정의 효율화를 넘어 광고 시장의 진입 장벽을 완전히 낮추는 트렌드 변화를 제시함.",
+        "keywords": [
+          "AI",
+          "광고 자동화",
+          "커머스"
+        ],
+        "planning_insight": "크리에이티브 제작 비용의 획기적 절감은 마케팅 채널 다각화를 가속화함. AI 영상 도구와의 데이터 연동을 통해 '즉각적 성과 측정' 프로세스 구축이 중요함."
+      },
+      {
+        "rank": 3,
+        "id": "7b91a1e611512b42eaaff49fc5a844e020594a6bf3ea4509abe249101340d49d",
+        "title": "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124135027",
+        "published_at": "2026-11-24T13:55:22+09:00",
+        "summary": "[지디넷코리아]브이캣이 지난 13일 서울 양재 엘타워에서 연매출 1000억원대 커머스 기업 대표·경영진 대상 세미나 '커머스 리더스 나이트'를 공동 개최하고 차세대 성장 해법으로 AI 에이전트 운영을 제시했다.24일 회사에 따르면, '다음 1000억을 만드는 운영의 조건'을 주제로 열린 이번 세미나에는 패션·뷰티·식품 등 다양한 업종의 커머스 경영진이 참석했다. 3사는 고객 데이터가 CRM에, 광고 성과가 마케팅 도구에, 매출·비용이 재무 시스템에 각각 흩어져 있어 데이터 통합 판단과 실행이 여전히 사람에게 의존하고 있다는 점에 주목하고, 사람이 일하지 않는 시간에도 주 168시간 가동되는 AI 에이전트 중심 운영 전환을 해법으로 꼽았다. 실제 세일즈포스가 커머스 전문가 3450명과 소비자 4690명을 조사한 '2026년 글로벌 커머스 리포트'에서도 쇼핑 시작 단계에서 AI 에이전트 기반 검색을 활용하는 비율이 전년 대비 200% 급증한 것으로 나타났다.세션 발표에는 3사 주요 경…",
+        "category_score": 92,
+        "score_reason": "커머스 운영의 데이터 통합 및 의사결정을 자동화하는 'AI 에이전트 중심 운영'은 단순한 툴 도입을 넘어 기업의 운영 패러다임을 전환하는 사례임.",
+        "keywords": [
+          "AI 에이전트",
+          "커머스",
+          "데이터 통합"
+        ],
+        "planning_insight": "흩어진 마케팅/재무 데이터를 AI가 통합 판단하게 하는 '자율형 운영 모델' 도입이 향후 커머스 기업의 핵심 경쟁력이 될 것임."
+      },
+      {
+        "rank": 4,
+        "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+        "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123175657",
+        "published_at": "2026-11-23T17:58:57+09:00",
+        "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+        "category_score": 89,
+        "score_reason": "광고 매체별 기여도 분석과 AI 기반 예산 운영 자동화는 광고 플랫폼 시장의 성숙도를 보여주는 신호로, 반복적이고 정교한 마케팅 전략 수립에 필수적임.",
+        "keywords": [
+          "AI",
+          "광고 플랫폼",
+          "마케팅 분석"
+        ],
+        "planning_insight": "AI 분석 기반의 실질 기여도 산출은 매체 예산 배분의 효율성을 극대화함. 데이터 기반의 자동화된 예산 배분 시스템을 도입해 마케팅 ROI 개선 필요."
+      },
+      {
+        "rank": 5,
+        "id": "8dbece380029ddb861914e9bd8bc4190b5461c052fddc7b54e78a048f5ffa898",
+        "title": "중소·중견기업 가전 AX 제품화지원센터 개소",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124134544",
+        "published_at": "2026-11-24T14:19:21+09:00",
+        "summary": "[지디넷코리아]중소·중견기업의 제품 인공지능전환(AX)을 지원하는 '가전 AX제품화지원센터'가 문을 연다. 관련 사업에 올해부터 2030년까지 5년간 총 170억원이 투입될 예정이다.산업통상부(이하 산업부)는 24일 서울 전자제조지원센터에서 가전 AX제품화지원센터 개소식을 개최하고 AI가전 학습데이터 구축 로드맵을 발표했다.이날 행사에는 이민우 산업성장실장, 박재영 한국전자정보통신산업진흥회(이하 KEA) 부회장, 노건기 한국전자기술연구원장, 문용 M.AX 얼라이언스 AI가전 분과위원장(숭실대 연구·산학부총장) 및 참여기업 관계자 등 30여 명이 참석했다.AI가전은 우리 가전산업의 경쟁력을 높이고 국민이 일상에서 AI의 혜택을 체감하도록 하는 핵심 분야다. M.AX 얼라이언스 AI가전 분과는 제조공정의 효율화와 제품의 지능화를 두 축으로 가전산업의 AX를 추진하고 있다. 가전 AX제품화지원센터는 KEA가 2021년부터 운영 중인 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한…",
+        "category_score": 85,
+        "score_reason": "가전 제품의 AX(인공지능 전환) 제품화지원센터 개소는 하드웨어와 AI의 결합이 일상 영역으로 깊숙이 파고드는 산업계의 대대적인 변화를 상징함.",
+        "keywords": [
+          "AI 가전",
+          "AX(AI 전환)",
+          "산업 변화"
+        ],
+        "planning_insight": "AI 가전의 등장은 소비자 일상 데이터 확보의 새로운 창구임. 가전 내 AI 기능을 활용한 신규 콘텐츠 서비스 및 데이터 비즈니스 모델로 확장이 가능함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "b1f7d3eb65e0ca477c7e75c3674b9879efd9e6b38a1002ae3feb41711b169dae",
+        "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/multi-task-learning-in-finance",
+        "published_at": "2026-11-23T12:02:00+09:00",
+        "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기",
+        "category_score": 98,
+        "score_reason": "서비스 확장성에 따른 모델 관리 효율화라는 제품 전략적 관점이 매우 명확하며, 멀티태스크 학습을 통한 기술 부채 해결 사례는 콘텐츠 전략가에게 플랫폼 구조 설계의 핵심적 인사이트를 제공함.",
+        "keywords": [
+          "멀티태스크 학습",
+          "제품 전략",
+          "기술 부채"
+        ],
+        "planning_insight": "제품 파편화를 막기 위한 통합 모델 아키텍처 설계가 장기적인 서비스 운영 안정성과 리소스 최적화에 미치는 영향"
+      },
+      {
+        "rank": 2,
+        "id": "a9c5b1c98bfb26bcb5752ef3d882c395b699c71cfc79000f78bf8c23be276f78",
+        "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/3284900",
+        "published_at": "2026-11-23T16:51:06+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을 공유합니다. ​ 발표 대상 코딩 에이전트에게 사내 도메인 업무를 맡겨 보고 싶은 개발자 흩어진 데이터 문서와 도메인 지식을 정리하고 싶은 데이터 엔지니어·분석가 AGENTS.md, 스킬, 규칙으로 에이전트의 작업 방식을 설계해 보고 싶은 분 ​ 목차 1. 왜 만들었나 스키마만으로는 알 수 없는 컬럼의 의미, wiki·GitHub·코드 주석에 흩어진 문서, 담당자 머릿속의 노하우. SQL과 Spark는 잘 쓰지만 우리 조직의 사정은 모르는, 똑똑한 AI 신입사원의 문제 ​ 2. 어떻게 키우나 처음부터 다…",
+        "category_score": 95,
+        "score_reason": "AI 에이전트를 조직의 '신입사원'으로 정의하여 도메인 지식을 축적하는 프로세스는 데이터 콘텐츠 전략의 훌륭한 모델임. 특히 작업 회고와 규칙 설계를 통한 자동화 로직이 뛰어남.",
+        "keywords": [
+          "AI 에이전트",
+          "운영 프로세스",
+          "데이터 분석"
+        ],
+        "planning_insight": "AI 모델의 성능을 도메인 지식 결합과 운영 규칙(AGENTS.md)을 통해 고도화하는 체계적 방법론"
+      },
+      {
+        "rank": 3,
+        "id": "c7cb0f74a1457dda40f317c6457b73db6bdc688e8c9b39bbb50e97b5e46bf4ce",
+        "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5087915",
+        "published_at": "2026-11-23T15:19:13+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI 에이전트의 메모리 관리와 토큰 비용 절감에 관심 있는 개발자 ​ 목차 요청마다 다시 읽히는 토큰 다시 읽는 토큰 가운데 실제로 쓰이는 비율 넣은 4k 토큰 가운데 정답 근거의 비율 목차에서 잘린 규칙을 모델이 열어 보지 않는 문제 쓰지도 않는 토큰이 비싼 이유 크기 × 요청 수로 불어나는 비용 식 늘 넣기, 위치만 두기, 빼 두기: 무엇을 늘 넣어 둘까 Haema(해마)의 구조 층 구조: 기억 저장, 불러오기, 작업 기억, 세션 나누기, 판정 게이트 질문 하나가 지나는 여섯 단계 긴 대화를 위한 세션…",
+        "category_score": 92,
+        "score_reason": "토큰 낭비 문제라는 실제 비즈니스 비용 이슈를 RAG 아키텍처 개선으로 해결한 사례. 검색 품질과 비용 효율성을 동시에 잡는 전략적 선택이 돋보임.",
+        "keywords": [
+          "RAG",
+          "비용 최적화",
+          "검색 품질"
+        ],
+        "planning_insight": "검색 증강 생성 시스템에서 정보 검색의 밀도를 높여 토큰 효율성을 극대화하는 지식 구조화 전략"
+      },
+      {
+        "rank": 4,
+        "id": "d6377216c4f280d644559311ec380c2f97899722e20df1785e06d9557b9a5a82",
+        "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/1126768",
+        "published_at": "2026-11-23T16:03:24+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 공유 드립니다. ​ 발표 대상 개발과 서비스 운영(온콜)을 함께 맡고 있는 개발자·엔지니어 AI Agent에게 조사·조치 같은 실제 운영 업무를 맡기려는 개발자 사내 Agent 도입을 검토하는 팀 ​ 목차 도입 - 어느 조직에나 있는 문제 운영 대상은 늘고, 사람은 준다 온콜이 실제로 하는 일 열한 달의 여정 조사하는 Agent - 1단계 맡기려 했지만, 줄 게 없었다 ① 알림을 한 곳으로 ② 기억과 지식을 준다 응답 형식 케이스 ① 조사하는 Agent 손을 쓰는 Agent - 2단계 넘어야 할 질문 셋 Q1 뭘 할 수 있나 - 능력 Q2 언제 해도 되나 - 판정 Q3…",
+        "category_score": 90,
+        "score_reason": "온콜 업무를 AI 에이전트가 자동 수행하게 함으로써 서비스 운영의 패러다임을 바꾼 사례. 운영 업무의 구조화와 서비스 신뢰성 전략을 모두 보여줌.",
+        "keywords": [
+          "AI 운영",
+          "온콜 자동화",
+          "서비스 품질"
+        ],
+        "planning_insight": "반복되는 운영 데이터를 AI가 처리하게 함으로써 인적 리소스를 고부가가치 작업으로 전환하는 자동화 기획"
+      },
+      {
+        "rank": 5,
+        "id": "ee48d4102d19d8167d585c5782ab41f2ebb92387ba6639bac2981e7201bfd777",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2957037",
+        "published_at": "2026-11-24T17:45:19+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를 LazyRow 없이 Jetpack Compose로 직접 만들면서 겪은 세 가지 이슈와 해결 과정을 공유합니다. ​ 매 프레임 바뀌는 값을 리컴포지션 없이 화면에 반영하는 방법 3D로 기울인 UI의 터치 영역이 어긋나는 버그를 추적하고, 직접 판정으로 해결한 과정 LazyRow 없이 Paging3의 다음 페이지 로드를 제어한 방법 ​ 발표 대상 Jetpack Compose 기반 복잡한 인터렉션을 포함한 UI 개발에 관심 있는 Android 개발자 Jetpack Compose 관련 성능, 설계, 이슈…",
+        "category_score": 88,
+        "score_reason": "기존의 표준 컴포넌트(LazyRow)로 불가능한 사용자 경험(3D 캐러셀)을 커스텀 구현하며 겪은 UX 최적화 이슈를 상세히 다룸. 서비스 UI 차별화 전략에 참고하기 좋음.",
+        "keywords": [
+          "UX",
+          "Jetpack Compose",
+          "사용자 경험"
+        ],
+        "planning_insight": "표준 라이브러리의 한계를 넘어 제품의 정체성을 강화하는 고도화된 UI/UX 구현 및 성능 개선 경험"
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "ef889fd91635ce5a4e7b6cbad895f3bb7fda356e1194e0892053d01316a33794",
+        "title": "Taking the PULSE of Enterprise Workflows: Evaluating Persistent Project-State Understanding",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28374",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28374v1 Announce Type: new Abstract: Enterprise agents must maintain an up-to-date understanding of work distributed across heterogeneous artifacts, evolving over time, and unevenly visible to different collaborators. We formulate this challenge as persistent project-state understanding (PPSU) and introduce PULSE, a benchmark of 1,573 questions over 30 enterprise project histories. PULSE constructs deterministic, time-indexed project state and documented collaborator views from sourc…",
+        "category_score": 98,
+        "score_reason": "엔터프라이즈 환경에서 분산된 업무 데이터를 통합·관리하는 '지속적 프로젝트 상태 이해(PPSU)'를 다룸. 복잡한 워크플로우를 자동화해야 하는 AI 에이전트 기획자에게 필수적인 기술적 방향성을 제시함.",
+        "keywords": [
+          "에이전트",
+          "워크플로우",
+          "데이터관리"
+        ],
+        "planning_insight": "AI 에이전트 도입 시 개별 작업 단위가 아닌 '프로젝트 전체 맥락'을 유지하는 것이 업무 자동화 성공의 핵심임을 시사함."
+      },
+      {
+        "rank": 2,
+        "id": "948bae50087c9a4faf7e9c2764d667697dd23b8f400ba85a06418d357576e917",
+        "title": "Grammar-as-a-Draft: More Tokens per Speculative Decoding Step on Grammar-Constrained Structured Outputs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28349",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28349v1 Announce Type: new Abstract: Under structured outputs (JSON schemas, regexes, tool calls), speculative drafters do not see the grammar constraint and repeatedly propose invalid keys, delimiters, and indentation, while the grammar engine already knows which tokens must come next. We present Grammar-as-a-Draft (GaaD), which treats the grammar as a second drafter. Before each verify step, the scheduler merges the drafter's proposal with grammar-forced tokens into one draft row:…",
+        "category_score": 95,
+        "score_reason": "JSON 등 구조화된 데이터 출력과 도구 호출(Tool Calling) 성능을 최적화하는 기술. LLM 기반 자동화 서비스의 신뢰성과 속도를 결정짓는 핵심 요소임.",
+        "keywords": [
+          "LLM",
+          "구조화데이터",
+          "성능최적화"
+        ],
+        "planning_insight": "AI가 생성한 데이터를 후속 시스템과 연동할 때, 구조적 제약(Schema)을 강제하여 에이전트의 오작동을 획기적으로 줄일 수 있음."
+      },
+      {
+        "rank": 3,
+        "id": "c25f66af44b143d85754b3b2f78b30bc8c4f03cd77f19724513cef759a168ddb",
+        "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26775",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26775v1 Announce Type: new Abstract: Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analysts add entries, checked one at a time for correctness (does the SQL answer its own question?) and rarely for consistency with one another. Yet correctness is often loosely defined: a question seldom…",
+        "category_score": 92,
+        "score_reason": "Text-to-SQL 시스템의 Context Bank 관리 및 일관성 측정에 관한 연구로, 데이터 분석 자동화 구현 시 데이터 품질 관리가 왜 중요한지를 직접적으로 설명함.",
+        "keywords": [
+          "RAG",
+          "데이터분석",
+          "SQL"
+        ],
+        "planning_insight": "AI 분석 자동화는 모델 성능보다 '도메인 지식의 체계적인 사전 정렬(Context Bank)'이 더 큰 성과를 좌우함."
+      },
+      {
+        "rank": 4,
+        "id": "d0701dad62cb7f5e8508f677550338e5efb22e424ffb953f6a84eacbd462caa7",
+        "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.26806",
+        "published_at": "2026-11-23T14:00:00+09:00",
+        "summary": "arXiv:2611.26806v1 Announce Type: new Abstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address this, existing self-improvement methods update an agent's weights or its medical harness from its own experience, but their improving strategy stays fixed and never learns which changes actually help,…",
+        "category_score": 90,
+        "score_reason": "실제 경험을 바탕으로 지속적으로 자가 개선하는 '자기 개선형 에이전트' 모델. 고정된 LLM 솔루션을 넘어 실무 성과를 높이는 에이전트 설계 전략을 제공함.",
+        "keywords": [
+          "에이전트",
+          "자기개선",
+          "경험학습"
+        ],
+        "planning_insight": "에이전트 도입 후 동일한 오류가 반복되지 않게 하려면, 실시간 피드백 루프를 통해 에이전트의 경험치를 데이터화하는 설계가 필수적임."
+      },
+      {
+        "rank": 5,
+        "id": "771bcf7c83961c2400d441e05fa0a9af65813a81e15003aeb41e639da27cb660",
+        "title": "Muted Distillation: Sealing Reasoning from Teacher Unlocks Token-Efficient Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28445",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28445v1 Announce Type: new Abstract: On-policy distillation (OPD) is commonly adopted as one of the components in post-training of large language models (LLMs), but in multi-turn agentic tasks we find that the student model increases their reasoning lengths after training. Our empirical analysis shows that the reasoning token lengths is affected by how much the student can distract the teacher's scores. We introduce Muted Distillation (MD), a simple variant of OPD that hides the stud…",
+        "category_score": 88,
+        "score_reason": "에이전트의 추론 과정을 효율화하는 토큰 최적화 기법을 다룸. 이는 LLM API 비용 절감 및 추론 속도 향상과 직결되어 비즈니스 서비스화 시 중요한 기획 고려 사항임.",
+        "keywords": [
+          "LLM",
+          "에이전트",
+          "토큰효율화"
+        ],
+        "planning_insight": "고비용 모델의 추론 방식을 경량 모델로 이전(Distillation)하여 서비스 효율성을 확보하는 것이 에이전트 서비스 상용화의 핵심 경쟁력."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "37349ebbb01c591126333f5cedf5917cb23611e628c724c76b7c5d9d77c18e72",
+      "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124161846",
+      "published_at": "2026-11-24T17:49:56+09:00",
+      "summary": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있다. 외부 AI 에이전트가 이용자를 대신해 자사 서비스에 접근하는 것을 어디까지 허용할지가 새로운 과제로 주어져서다.특히 네이버와 카카오가 연내 자체 AI 에이전트 서비스 공개를 앞두고 있어 외부 AI 에이전트에 대한 서비스 개방 범위와 이용자 보호 정책에 관심이 쏠린다. AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상할 가능성이 있어서다.24일 아이지에이웍스 모바일인덱스에 따르면 지난 9일부터 15일까지 피클 앱 신규 설치 건수는 12만9394건으로 집계됐다. 이는 직전 주(11월 2~8일) 6만7583건 대비 2배가량 증가한 수치다. 이 같은 추세는 지속돼 이달 16일부터 22일까지의 신규 설치 건수는 13만9504건이다.이용자의 앱 방문도 이어지고 있다. 피클의 주간활성이용자수(WAU)는 같은 기간 2…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상하며, 국내 플랫폼 기업(네이버·카카오)의 정책 변화를 촉발하는 시장의 핵심 변화 신호임.",
+      "keywords": [
+        "AI 에이전트",
+        "플랫폼",
+        "소비자 행동"
+      ],
+      "planning_insight": "플랫폼 종속성을 탈피하려는 에이전트 서비스 기획과 이를 활용한 인터페이스 최적화 전략이 필수적임.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트의 급성장에 따른 플랫폼 생태계와 사용자 접점의 근본적 변화",
+      "importance_reason": "AI 에이전트가 단순 서비스를 넘어 플랫폼 점유율을 위협하는 핵심 접점으로 부상하며, 기업의 검색 및 커머스 전략 수정이 불가피함."
+    },
+    {
+      "rank": 2,
+      "id": "7b91a1e611512b42eaaff49fc5a844e020594a6bf3ea4509abe249101340d49d",
+      "title": "브이캣, ‘다음 1000억을 만드는 운영의 조건’ 세미나 성료",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124135027",
+      "published_at": "2026-11-24T13:55:22+09:00",
+      "summary": "[지디넷코리아]브이캣이 지난 13일 서울 양재 엘타워에서 연매출 1000억원대 커머스 기업 대표·경영진 대상 세미나 '커머스 리더스 나이트'를 공동 개최하고 차세대 성장 해법으로 AI 에이전트 운영을 제시했다.24일 회사에 따르면, '다음 1000억을 만드는 운영의 조건'을 주제로 열린 이번 세미나에는 패션·뷰티·식품 등 다양한 업종의 커머스 경영진이 참석했다. 3사는 고객 데이터가 CRM에, 광고 성과가 마케팅 도구에, 매출·비용이 재무 시스템에 각각 흩어져 있어 데이터 통합 판단과 실행이 여전히 사람에게 의존하고 있다는 점에 주목하고, 사람이 일하지 않는 시간에도 주 168시간 가동되는 AI 에이전트 중심 운영 전환을 해법으로 꼽았다. 실제 세일즈포스가 커머스 전문가 3450명과 소비자 4690명을 조사한 '2026년 글로벌 커머스 리포트'에서도 쇼핑 시작 단계에서 AI 에이전트 기반 검색을 활용하는 비율이 전년 대비 200% 급증한 것으로 나타났다.세션 발표에는 3사 주요 경…",
+      "category_score": 92,
+      "score_reason": "커머스 운영의 데이터 통합 및 의사결정을 자동화하는 'AI 에이전트 중심 운영'은 단순한 툴 도입을 넘어 기업의 운영 패러다임을 전환하는 사례임.",
+      "keywords": [
+        "AI 에이전트",
+        "커머스",
+        "데이터 통합"
+      ],
+      "planning_insight": "마케팅, 재무, CRM 데이터를 AI가 통합 판단하는 자율형 운영 모델 구축이 향후 기업 경쟁력을 좌우함.",
+      "integrated_score": 95,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "커머스 성공의 핵심으로 부상한 'AI 에이전트 중심 운영' 모델",
+      "importance_reason": "흩어진 데이터 통합 및 의사결정을 자동화하는 운영 패러다임 전환은 성숙기 커머스 기업의 실질적 돌파구임."
+    },
+    {
+      "rank": 3,
+      "id": "a9c5b1c98bfb26bcb5752ef3d882c395b699c71cfc79000f78bf8c23be276f78",
+      "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/3284900",
+      "published_at": "2026-11-23T16:51:06+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을 공유합니다. ​ 발표 대상 코딩 에이전트에게 사내 도메인 업무를 맡겨 보고 싶은 개발자 흩어진 데이터 문서와 도메인 지식을 정리하고 싶은 데이터 엔지니어·분석가 AGENTS.md, 스킬, 규칙으로 에이전트의 작업 방식을 설계해 보고 싶은 분 ​ 목차 1. 왜 만들었나 스키마만으로는 알 수 없는 컬럼의 의미, wiki·GitHub·코드 주석에 흩어진 문서, 담당자 머릿속의 노하우. SQL과 Spark는 잘 쓰지만 우리 조직의 사정은 모르는, 똑똑한 AI 신입사원의 문제 ​ 2. 어떻게 키우나 처음부터 다…",
+      "category_score": 95,
+      "score_reason": "AI 에이전트를 조직의 '신입사원'으로 정의하여 도메인 지식을 축적하는 프로세스는 데이터 콘텐츠 전략의 훌륭한 모델임. 특히 작업 회고와 규칙 설계를 통한 자동화 로직이 뛰어남.",
+      "keywords": [
+        "AI 에이전트",
+        "운영 프로세스",
+        "데이터 분석"
+      ],
+      "planning_insight": "도메인 지식을 에이전트의 규칙(규약)으로 설계하고, 지속적인 회고를 통해 시니어급으로 고도화하는 프로세스 도입 필요.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 에이전트를 도메인 숙련가로 키우는 운영 방법론: news-data 사례",
+      "importance_reason": "범용 LLM이 해결하지 못하는 사내 도메인 지식을 에이전트에게 내재화시키는 실전적 데이터 전략 제시."
+    },
+    {
+      "rank": 4,
+      "id": "d5e2949d71ae68275bd71fe79a159e20ea3268d089e6bedcd693aae44465fd8e",
+      "title": "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124201002",
+      "published_at": "2026-11-24T20:10:02+09:00",
+      "summary": "[지디넷코리아] 촬영이나 편집 경험이 없어도 제품 링크, 사진, 간단한 기획안을 동영상 광고와 릴스로 제작 가능. 두바이, 아랍에미리트, 2026년 11월 24일 /PRNewswire/ -- AI 영상 도구마다 완성된 광고를 만들어 줄 수 있다고는 하지만, 결과물은 대부분 조잡한 AI 콘텐츠다. 오픈클립스닷에이아이(OpenClips.AI)는 다르다. 즉시 집행할 수 있는 광고를 만들어 주는 첫 AI 영상 생성 도구이기 때문이다. 기업은 창작물마다 가격을 확인한 후에 비용을 지출할 수 있다. jwplayer.key='3Fznr2BGJZtpwZmA+81lm048ks6+0NjLXyDdsO2YkfE=' First AI Tool that makes production ready ads jwplayer('myplayer1').setup({file: 'https://mmx.prnasia.com/media/MS2041040/d6f19525-c447-4719-838d-512c79ba8a39.mp4…",
+      "category_score": 95,
+      "score_reason": "제품 링크 기반의 즉시 집행 가능한 광고 생성은 광고 제작 공정의 효율화를 넘어 광고 시장의 진입 장벽을 완전히 낮추는 트렌드 변화를 제시함.",
+      "keywords": [
+        "AI",
+        "광고 자동화",
+        "영상 콘텐츠"
+      ],
+      "planning_insight": "기획안과 상품 링크만으로 영상 콘텐츠를 생성하는 AI 툴을 활용하여 광고 집행 및 A/B 테스트 사이클 단축.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 21
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "제품 링크로 즉시 집행 가능한 광고를 제작하는 생성형 AI 도구의 진화",
+      "importance_reason": "영상 광고 제작의 진입장벽을 획기적으로 낮추어 콘텐츠 마케팅의 생산 속도와 채널 다양성을 극대화함."
+    },
+    {
+      "rank": 5,
+      "id": "ef889fd91635ce5a4e7b6cbad895f3bb7fda356e1194e0892053d01316a33794",
+      "title": "Taking the PULSE of Enterprise Workflows: Evaluating Persistent Project-State Understanding",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.28374",
+      "published_at": "2026-11-24T14:00:00+09:00",
+      "summary": "arXiv:2611.28374v1 Announce Type: new Abstract: Enterprise agents must maintain an up-to-date understanding of work distributed across heterogeneous artifacts, evolving over time, and unevenly visible to different collaborators. We formulate this challenge as persistent project-state understanding (PPSU) and introduce PULSE, a benchmark of 1,573 questions over 30 enterprise project histories. PULSE constructs deterministic, time-indexed project state and documented collaborator views from sourc…",
+      "category_score": 98,
+      "score_reason": "엔터프라이즈 환경에서 분산된 업무 데이터를 통합·관리하는 '지속적 프로젝트 상태 이해(PPSU)'를 다룸. 복잡한 워크플로우를 자동화해야 하는 AI 에이전트 기획자에게 필수적인 기술적 방향성을 제시함.",
+      "keywords": [
+        "엔터프라이즈",
+        "에이전트",
+        "워크플로우"
+      ],
+      "planning_insight": "AI 에이전트 도입 시 단순 태스크 처리가 아닌 프로젝트 전체의 상태 변화를 기억하는 '지속적 맥락 유지' 기획 도입.",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "복잡한 엔터프라이즈 프로젝트 상태를 지속적으로 이해하는 에이전트 설계",
+      "importance_reason": "분산된 업무 데이터를 통합하고 프로젝트 맥락을 유지하는 기술은 고난도 업무 자동화의 필수 요소임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 79,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 15,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 14,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트가 단순한 챗봇 단계를 넘어 실질적인 업무 처리와 운영 의사결정을 담당하는 단계로 진입하고 있습니다.",
+    "데이터의 파편화 문제를 극복하기 위해 에이전트에게 도메인 지식을 체계적으로 학습시키고 구조화하는 운영 방법론이 중요해지고 있습니다.",
+    "광고·커머스 분야에서는 AI를 통한 콘텐츠 제작의 자동화와 마케팅 성과 기여도 산출의 정교화가 시장 내 핵심 경쟁력으로 부상했습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
