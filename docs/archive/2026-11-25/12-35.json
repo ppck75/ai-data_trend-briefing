@@ -1,0 +1,515 @@
+{
+  "briefing_date": "2026-11-25",
+  "generated_at": "2026-11-25T13:59:08.871882+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 185,
+    "tech_blog": 3,
+    "ai_data": 12
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "37349ebbb01c591126333f5cedf5917cb23611e628c724c76b7c5d9d77c18e72",
+        "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124161846",
+        "published_at": "2026-11-24T17:49:56+09:00",
+        "summary": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있다. 외부 AI 에이전트가 이용자를 대신해 자사 서비스에 접근하는 것을 어디까지 허용할지가 새로운 과제로 주어져서다.특히 네이버와 카카오가 연내 자체 AI 에이전트 서비스 공개를 앞두고 있어 외부 AI 에이전트에 대한 서비스 개방 범위와 이용자 보호 정책에 관심이 쏠린다. AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상할 가능성이 있어서다.24일 아이지에이웍스 모바일인덱스에 따르면 지난 9일부터 15일까지 피클 앱 신규 설치 건수는 12만9394건으로 집계됐다. 이는 직전 주(11월 2~8일) 6만7583건 대비 2배가량 증가한 수치다. 이 같은 추세는 지속돼 이달 16일부터 22일까지의 신규 설치 건수는 13만9504건이다.이용자의 앱 방문도 이어지고 있다. 피클의 주간활성이용자수(WAU)는 같은 기간 2…",
+        "category_score": 98,
+        "score_reason": "AI 에이전트가 서비스 접점(검색, 예약 등)을 재편하며 플랫폼 기업의 개방성 정책을 시험하는 핵심 트렌드임.",
+        "keywords": [
+          "AI 에이전트",
+          "플랫폼",
+          "사용자 접점"
+        ],
+        "planning_insight": "플랫폼 기업의 폐쇄적 생태계가 AI 에이전트 확산으로 인해 어떻게 '오픈 인터페이스'로 전환될지 모니터링하여 파트너십 전략 수립 필요."
+      },
+      {
+        "rank": 2,
+        "id": "d5e2949d71ae68275bd71fe79a159e20ea3268d089e6bedcd693aae44465fd8e",
+        "title": "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261124201002",
+        "published_at": "2026-11-24T20:10:02+09:00",
+        "summary": "[지디넷코리아] 촬영이나 편집 경험이 없어도 제품 링크, 사진, 간단한 기획안을 동영상 광고와 릴스로 제작 가능. 두바이, 아랍에미리트, 2026년 11월 24일 /PRNewswire/ -- AI 영상 도구마다 완성된 광고를 만들어 줄 수 있다고는 하지만, 결과물은 대부분 조잡한 AI 콘텐츠다. 오픈클립스닷에이아이(OpenClips.AI)는 다르다. 즉시 집행할 수 있는 광고를 만들어 주는 첫 AI 영상 생성 도구이기 때문이다. 기업은 창작물마다 가격을 확인한 후에 비용을 지출할 수 있다. jwplayer.key='3Fznr2BGJZtpwZmA+81lm048ks6+0NjLXyDdsO2YkfE=' First AI Tool that makes production ready ads jwplayer('myplayer1').setup({file: 'https://mmx.prnasia.com/media/MS2041040/d6f19525-c447-4719-838d-512c79ba8a39.mp4…",
+        "category_score": 95,
+        "score_reason": "생성형 AI가 마케팅 콘텐츠 제작의 '즉시 집행' 단계까지 진입하여 광고 제작 프로세스를 혁신하고 있음.",
+        "keywords": [
+          "생성형 AI",
+          "광고 자동화",
+          "커머스"
+        ],
+        "planning_insight": "콘텐츠 제작의 가성비를 넘어, 데이터 기반의 즉시 광고 송출 체계를 구축하는 것이 향후 퍼포먼스 마케팅의 표준이 될 것."
+      },
+      {
+        "rank": 3,
+        "id": "7c7df1eaaea513b895adcc86f423bd086fb62e4649780b4a2d7d0bf7edb6befd",
+        "title": "디즈니+, 미국서 예고편 시청 중 극장 티켓 예매 기능 도입",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261125091133",
+        "published_at": "2026-11-25T09:52:59+09:00",
+        "summary": "[지디넷코리아]디즈니플러스가 미국 서비스에 극장 티켓 예매 기능을 도입했다. OTT 콘텐츠를 극장 관람과 연결해 구독자 기반을 극장 예매와 상업 활동으로 확장하려는 전략이다.24일(현지시간) 브로드밴드TV에 따르면 미국 디즈니플러스는 전날부터 OTT에서 영화 홍보 영상을 시청하다가 모바일 기기나 웹 브라우저를 통해 극장 티켓을 구매할 수 있는 기능을 도입했다.예매 시스템은 미국 온라인 영화 티켓 플랫폼 판당고(Fandango)와 연동된다. 마블 스튜디오 신작 '어벤져스, 둠스데이' 예고편을 시청하면 모바일 알림을 받거나 화면에 표시된 QR코드를 스캔해 판당고 예매 페이지로 이동할 수 있다.광고에도 구매 기능이 적용됐다. 영상을 일시 정지했을 때 노출되는 광고를 통해 영화 정보 확인부터 극장 티켓 예매까지 이어지도록 했다.서비스는 현재 미국에서만 제공된다. 다만 향후 해외에서도 현지 예매 플랫폼과 제휴해 OTT와 극장 관람을 연결하는 사업 모델로 확장될 가능성이 있다.극장 티켓 예매…",
+        "category_score": 92,
+        "score_reason": "OTT 플랫폼이 콘텐츠 소비와 커머스(극장 예매)를 결합하여 미디어와 상업적 전환의 경계를 허물고 있음.",
+        "keywords": [
+          "OTT",
+          "커머스",
+          "구매 전환"
+        ],
+        "planning_insight": "콘텐츠 시청과 구매 경험을 매끄럽게 잇는 UX 전략(디즈니+ 예시)은 플랫폼 간의 트래픽 활용도를 극대화하는 핵심 모델."
+      },
+      {
+        "rank": 4,
+        "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+        "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261123175657",
+        "published_at": "2026-11-23T17:58:57+09:00",
+        "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+        "category_score": 90,
+        "score_reason": "단순 성과 분석을 넘어 AI가 예산 배분 방향을 결정하는 최적화 솔루션은 마케팅 운영의 자동화를 가속화함.",
+        "keywords": [
+          "AI 분석",
+          "마케팅 솔루션",
+          "데이터 의사결정"
+        ],
+        "planning_insight": "사람의 의존도를 낮추고 AI 기반의 실시간 예산 최적화 체계를 구축하여 마케팅 효율을 제고하는 운영 전략이 필수적임."
+      },
+      {
+        "rank": 5,
+        "id": "08fc60c9b99d735f350223d5c7327a8d5c678e66acff1c16070df12b2aaa6443",
+        "title": "“팀장님~ AI가 한 일까지 제가 봐야 하나요?”…직장인 덮친 ‘AI 피로’",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/it/12217871",
+        "published_at": "2026-11-25T10:47:12+09:00",
+        "summary": "일 줄여준다더니 AI 뒤치다꺼리에 골머리 가트너 “기업 성과에 AI 피로가 최대 걸림돌”직장인 김과장은 요즘 회사에서 인공지능(AI) 때문에 일이 더 늘었다고 한다. 회사가 업무 ..",
+        "category_score": 88,
+        "score_reason": "AI 도입 단계에서 '피로도' 문제가 가시화되는 것은 시장 성숙기에 접어든 실질적인 소비자 및 조직 행동 신호임.",
+        "keywords": [
+          "AI 피로도",
+          "조직 행동",
+          "생산성"
+        ],
+        "planning_insight": "AI 도입의 과제는 기술 개발보다 '현업의 수용성과 실질적 성과 연결'에 있음을 이해하고, 내부 프로세스 설계 시 사용자 경험을 최우선해야 함."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "ee48d4102d19d8167d585c5782ab41f2ebb92387ba6639bac2981e7201bfd777",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/2957037",
+        "published_at": "2026-11-24T17:45:19+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 없었습니다. 이 발표에서는 ThingsBook 서비스 내의 카드 덱 UI를 LazyRow 없이 Jetpack Compose로 직접 만들면서 겪은 세 가지 이슈와 해결 과정을 공유합니다. ​ 매 프레임 바뀌는 값을 리컴포지션 없이 화면에 반영하는 방법 3D로 기울인 UI의 터치 영역이 어긋나는 버그를 추적하고, 직접 판정으로 해결한 과정 LazyRow 없이 Paging3의 다음 페이지 로드를 제어한 방법 ​ 발표 대상 Jetpack Compose 기반 복잡한 인터렉션을 포함한 UI 개발에 관심 있는 Android 개발자 Jetpack Compose 관련 성능, 설계, 이슈…",
+        "category_score": 85,
+        "score_reason": "사용자 경험(UX) 극대화를 위한 인터랙션 설계와 이를 구현하기 위한 기술적 도전 과제를 구체적으로 다루고 있어 서비스 기획 측면에서 참고 가치가 높음.",
+        "keywords": [
+          "UX",
+          "Jetpack Compose",
+          "3D UI",
+          "인터랙션"
+        ],
+        "planning_insight": "기존 라이브러리의 한계를 넘어 사용자의 몰입감을 높이는 독창적인 UI 요소 구현 시, 성능 최적화와 터치 영역 등 세밀한 사용자 경험 고려사항을 도출하는 방법론을 제시함."
+      },
+      {
+        "rank": 2,
+        "id": "ed0091d38aa5b9adf01c82eb2805180dc65a5e49d53e4f2163873a1f7c4d384e",
+        "title": "파드는 떴는데 왜 통신이 안 될까? kube-proxy nftables 전환 여정",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/%ED%8C%8C%EB%93%9C%EB%8A%94-%EB%96%B4%EB%8A%94%EB%8D%B0-%EC%99%9C-%ED%86%B5%EC%8B%A0%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C-kube-proxy-nftables-%EC%A0%84%ED%99%98-%EC%97%AC%EC%A0%95-545dfd2cfc4f",
+        "published_at": "2026-11-24T14:45:56+09:00",
+        "summary": "안녕하세요, 당근 SRE팀 클러스터 파트에서 일하고 있는 Karin(카린)이에요. 클러스터 파트는 당근 내부의 모든 서비스가 운영되는 쿠버네티스 환경을 설계하고 관리해요. 쿠버네티스 환경의 가시성과 서비스 안정성을 확보하기 위해 모니터링 인프라부터 서비스 메시, 보안까지 여러 방면에서 정책과 로드맵을 설계하고 적용해요. 이 글에서는 kube-proxy를 iptables 모드에서 nftables 모드로 전환한 이야기를 해보려고 해요. kube-proxy는 쿠버네티스의 모든 노드에서 동작하면서, Service로 들어온 트래픽이 실제 Pod로 전달되도록 리눅스 커널에 네트워크 규칙을 설정하는 컴포넌트예요. 이 규칙을 관리하는 방식으로 오랫동안 iptables를 써왔는데, 이를 더 효율적인 후속 도구인 nftables로 바꾼 과정과 그 과정에서 배운 점을 공유하려고 해요. 1. kube-proxy latency가 서비스 안정성에 영향을 미쳤어요 쿠버네티스에서 노드가 새로 생기고 Pod가…",
+        "category_score": 60,
+        "score_reason": "내부 인프라(SRE) 영역의 글이나, 대규모 플랫폼에서 안정적인 서비스 운영을 위한 필수적인 기술적 의사결정 과정을 보여주어 제품 운영 전략 차원에서 참고 가능함.",
+        "keywords": [
+          "플랫폼",
+          "SRE",
+          "안정성",
+          "인프라"
+        ],
+        "planning_insight": "서비스 가용성을 높이기 위한 기술 스택 전환 사례로서, 사용자에게 직접 닿는 기능 외에 보이지 않는 인프라가 서비스 품질(UX)의 근간이 됨을 보여줌."
+      },
+      {
+        "rank": 3,
+        "id": "1d9a24b880e92731dfdf26f1c90f7b314783265ab785528bd68d7ba47db0535b",
+        "title": "Why Can’t My Running Pods Be Reached? Our Journey to kube-proxy nftables Mode",
+        "source": "당근 기술블로그",
+        "group": "tech_blog",
+        "category": "community_platform",
+        "url": "https://medium.com/daangn/why-cant-my-running-pods-be-reached-our-journey-to-kube-proxy-nftables-mode-6fceb1d2a5f7",
+        "published_at": "2026-11-24T14:46:20+09:00",
+        "summary": "Hi, I’m Karin, and I’m on the Cluster squad within SRE at Karrot. Our team designs and runs the Kubernetes platform that every service at Karrot runs on. We take responsibility for everything that keeps our clusters observable and reliable, from monitoring infrastructure all the way to the service mesh and security, along with the policies and roadmaps that keep it all maintainable. In this post, I’ll share how we migrated kube-proxy from iptables mode to nftables mode. kube-proxy runs on every…",
+        "category_score": 40,
+        "score_reason": "AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
+        "keywords": [
+          "AI"
+        ],
+        "planning_insight": "이 항목은 AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "ef889fd91635ce5a4e7b6cbad895f3bb7fda356e1194e0892053d01316a33794",
+        "title": "Taking the PULSE of Enterprise Workflows: Evaluating Persistent Project-State Understanding",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28374",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28374v1 Announce Type: new Abstract: Enterprise agents must maintain an up-to-date understanding of work distributed across heterogeneous artifacts, evolving over time, and unevenly visible to different collaborators. We formulate this challenge as persistent project-state understanding (PPSU) and introduce PULSE, a benchmark of 1,573 questions over 30 enterprise project histories. PULSE constructs deterministic, time-indexed project state and documented collaborator views from sourc…",
+        "category_score": 98,
+        "score_reason": "엔터프라이즈 환경에서의 에이전트 워크플로우 관리와 복잡한 프로젝트 상태 추적(PPSU)을 다루고 있어, 실무형 AI 에이전트 도입 기획에 직접적인 가이드라인을 제공함.",
+        "keywords": [
+          "에이전트",
+          "워크플로우",
+          "엔터프라이즈"
+        ],
+        "planning_insight": "분산된 업무 데이터를 통합하여 자동화하는 엔터프라이즈 AI 에이전트 설계 시 프로젝트 상태 이해도 향상을 위한 핵심 지표로 활용 가능."
+      },
+      {
+        "rank": 2,
+        "id": "948bae50087c9a4faf7e9c2764d667697dd23b8f400ba85a06418d357576e917",
+        "title": "Grammar-as-a-Draft: More Tokens per Speculative Decoding Step on Grammar-Constrained Structured Outputs",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28349",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28349v1 Announce Type: new Abstract: Under structured outputs (JSON schemas, regexes, tool calls), speculative drafters do not see the grammar constraint and repeatedly propose invalid keys, delimiters, and indentation, while the grammar engine already knows which tokens must come next. We present Grammar-as-a-Draft (GaaD), which treats the grammar as a second drafter. Before each verify step, the scheduler merges the drafter's proposal with grammar-forced tokens into one draft row:…",
+        "category_score": 95,
+        "score_reason": "구조화된 출력(JSON 등) 생성 시 속도와 정확도를 개선하는 기술로, 콘텐츠 자동화 서비스의 API 응답 효율성과 안정성을 크게 높일 수 있음.",
+        "keywords": [
+          "구조화된 출력",
+          "추론 최적화",
+          "LLM"
+        ],
+        "planning_insight": "LLM을 활용한 콘텐츠 자동화 파이프라인 구축 시, 데이터 출력의 안정성을 높이고 추론 비용을 절감하는 표준적 기법으로 도입 검토 필요."
+      },
+      {
+        "rank": 3,
+        "id": "771bcf7c83961c2400d441e05fa0a9af65813a81e15003aeb41e639da27cb660",
+        "title": "Muted Distillation: Sealing Reasoning from Teacher Unlocks Token-Efficient Agents",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28445",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28445v1 Announce Type: new Abstract: On-policy distillation (OPD) is commonly adopted as one of the components in post-training of large language models (LLMs), but in multi-turn agentic tasks we find that the student model increases their reasoning lengths after training. Our empirical analysis shows that the reasoning token lengths is affected by how much the student can distract the teacher's scores. We introduce Muted Distillation (MD), a simple variant of OPD that hides the stud…",
+        "category_score": 92,
+        "score_reason": "추론 효율성을 개선한 에이전트 학습법을 제시하여, 리소스 소모가 큰 다단계 에이전트 서비스의 비용 구조 개선에 기여함.",
+        "keywords": [
+          "에이전트",
+          "모델 효율화",
+          "온폴리시 증류"
+        ],
+        "planning_insight": "복잡한 추론이 필요한 콘텐츠 생성 에이전트 구현 시, 모델 경량화와 성능 최적화를 동시에 달성하기 위한 학습 전략 마련에 활용."
+      },
+      {
+        "rank": 4,
+        "id": "5eb077d6e567ce503b2fc863d816fb8bffff962344c32d04b670aa18ca12bd30",
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "published_at": "2026-11-24T02:20:37+09:00",
+        "summary": "",
+        "category_score": 89,
+        "score_reason": "멀티모달과 로보틱스 트래킹 기술을 다루며, 이는 물리적 환경과의 상호작용 및 고도화된 영상 분석 콘텐츠 제작에 응용 가능성이 높음.",
+        "keywords": [
+          "멀티모달",
+          "로보틱스",
+          "추적 기술"
+        ],
+        "planning_insight": "비디오/시각 콘텐츠 분석 자동화 시 사물 추적 기술을 결합하여 더욱 정교한 데이터 추출 및 시각적 콘텐츠 리포팅 구현 가능."
+      },
+      {
+        "rank": 5,
+        "id": "464ec86cef04a4c0ad41f63fa2b339629e79fc7fd6b7c8b47a23fc1e7b3f4c62",
+        "title": "Distributionally-Verifiable Rewards for Human-Behavior Simulation",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.28048",
+        "published_at": "2026-11-24T14:00:00+09:00",
+        "summary": "arXiv:2611.28048v1 Announce Type: new Abstract: Large language models are increasingly used to simulate survey respondents in social-science research. A useful simulator should predict individual responses, reproduce population response distributions, and capture demographic differences. Common training approaches struggle to balance these goals: exact-match rewards encourage the model to concentrate on the most frequent human response, which is contradictory to the goal of distributional align…",
+        "category_score": 86,
+        "score_reason": "LLM을 통한 사용자 행동 시뮬레이션 및 데이터 분포 재현은 콘텐츠 개인화 추천 알고리즘 및 사용자 페르소나 분석에 중요한 도구가 됨.",
+        "keywords": [
+          "데이터 시뮬레이션",
+          "페르소나",
+          "LLM"
+        ],
+        "planning_insight": "신규 콘텐츠 전략 수립 시 타겟 독자의 반응을 예측하고 시뮬레이션하여 리스크를 줄이는 데이터 기반 의사결정 모델 구축에 활용 가능."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "37349ebbb01c591126333f5cedf5917cb23611e628c724c76b7c5d9d77c18e72",
+      "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124161846",
+      "published_at": "2026-11-24T17:49:56+09:00",
+      "summary": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있다. 외부 AI 에이전트가 이용자를 대신해 자사 서비스에 접근하는 것을 어디까지 허용할지가 새로운 과제로 주어져서다.특히 네이버와 카카오가 연내 자체 AI 에이전트 서비스 공개를 앞두고 있어 외부 AI 에이전트에 대한 서비스 개방 범위와 이용자 보호 정책에 관심이 쏠린다. AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상할 가능성이 있어서다.24일 아이지에이웍스 모바일인덱스에 따르면 지난 9일부터 15일까지 피클 앱 신규 설치 건수는 12만9394건으로 집계됐다. 이는 직전 주(11월 2~8일) 6만7583건 대비 2배가량 증가한 수치다. 이 같은 추세는 지속돼 이달 16일부터 22일까지의 신규 설치 건수는 13만9504건이다.이용자의 앱 방문도 이어지고 있다. 피클의 주간활성이용자수(WAU)는 같은 기간 2…",
+      "category_score": 98,
+      "score_reason": "AI 에이전트가 서비스 접점(검색, 예약 등)을 재편하며 플랫폼 기업의 개방성 정책을 시험하는 핵심 트렌드임.",
+      "keywords": [
+        "AI 에이전트",
+        "플랫폼",
+        "사용자 접점"
+      ],
+      "planning_insight": "플랫폼 폐쇄적 생태계가 AI 에이전트로 인해 어떻게 변화할지 모니터링하고, 향후 '에이전트 최적화(AO)' 관점의 콘텐츠 노출 전략 수립 필요.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "AI 에이전트 서비스 급증으로 인한 플랫폼 기업의 개방성 정책 변화 압박",
+      "importance_reason": "AI 에이전트가 단순 도구를 넘어 사용자와 플랫폼 사이의 인터페이스를 재편하고 있으며, 국내외 거대 플랫폼의 대응 방향이 콘텐츠 유통 환경을 결정할 핵심 변수임."
+    },
+    {
+      "rank": 2,
+      "id": "d5e2949d71ae68275bd71fe79a159e20ea3268d089e6bedcd693aae44465fd8e",
+      "title": "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261124201002",
+      "published_at": "2026-11-24T20:10:02+09:00",
+      "summary": "[지디넷코리아] 촬영이나 편집 경험이 없어도 제품 링크, 사진, 간단한 기획안을 동영상 광고와 릴스로 제작 가능. 두바이, 아랍에미리트, 2026년 11월 24일 /PRNewswire/ -- AI 영상 도구마다 완성된 광고를 만들어 줄 수 있다고는 하지만, 결과물은 대부분 조잡한 AI 콘텐츠다. 오픈클립스닷에이아이(OpenClips.AI)는 다르다. 즉시 집행할 수 있는 광고를 만들어 주는 첫 AI 영상 생성 도구이기 때문이다. 기업은 창작물마다 가격을 확인한 후에 비용을 지출할 수 있다. jwplayer.key='3Fznr2BGJZtpwZmA+81lm048ks6+0NjLXyDdsO2YkfE=' First AI Tool that makes production ready ads jwplayer('myplayer1').setup({file: 'https://mmx.prnasia.com/media/MS2041040/d6f19525-c447-4719-838d-512c79ba8a39.mp4…",
+      "category_score": 95,
+      "score_reason": "생성형 AI가 마케팅 콘텐츠 제작의 '즉시 집행' 단계까지 진입하여 광고 제작 프로세스를 혁신하고 있음.",
+      "keywords": [
+        "생성형 AI",
+        "광고 자동화",
+        "커머스"
+      ],
+      "planning_insight": "퍼포먼스 마케팅의 진입 장벽이 낮아짐에 따라, AI를 활용한 소재 대량 생산 및 실시간 성과 최적화 체계 구축이 콘텐츠 전략의 표준이 될 것.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "제품 링크 기반의 즉시 집행 가능한 동영상 광고 자동 생성 도구 등장",
+      "importance_reason": "콘텐츠 제작의 가성비를 넘어 '데이터 기반 즉시 송출'이라는 마케팅 자동화의 실질적 사례를 제시함."
+    },
+    {
+      "rank": 3,
+      "id": "ef889fd91635ce5a4e7b6cbad895f3bb7fda356e1194e0892053d01316a33794",
+      "title": "Taking the PULSE of Enterprise Workflows: Evaluating Persistent Project-State Understanding",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.28374",
+      "published_at": "2026-11-24T14:00:00+09:00",
+      "summary": "arXiv:2611.28374v1 Announce Type: new Abstract: Enterprise agents must maintain an up-to-date understanding of work distributed across heterogeneous artifacts, evolving over time, and unevenly visible to different collaborators. We formulate this challenge as persistent project-state understanding (PPSU) and introduce PULSE, a benchmark of 1,573 questions over 30 enterprise project histories. PULSE constructs deterministic, time-indexed project state and documented collaborator views from sourc…",
+      "category_score": 98,
+      "score_reason": "엔터프라이즈 환경에서의 에이전트 워크플로우 관리와 복잡한 프로젝트 상태 추적(PPSU)을 다루고 있어, 실무형 AI 에이전트 도입 기획에 직접적인 가이드라인을 제공함.",
+      "keywords": [
+        "에이전트",
+        "워크플로우",
+        "엔터프라이즈"
+      ],
+      "planning_insight": "분산된 업무 데이터를 통합하여 자동화하는 AI 서비스 기획 시, 프로젝트의 맥락을 얼마나 정확히 기억하고 있는지 측정하는 지표로 활용 가능.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "엔터프라이즈 AI 에이전트의 프로젝트 상태 이해도(PPSU) 평가 모델 제시",
+      "importance_reason": "복잡한 기업 워크플로우를 AI가 어떻게 이해하고 수행하는지에 대한 측정 지표는 향후 B2B 생산성 툴 기획의 기술적 벤치마크가 됨."
+    },
+    {
+      "rank": 4,
+      "id": "99a6053dea00572fe4e67fa0f0aa25b7ac456ff84f3723c0add8bedc66dc2773",
+      "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261123175657",
+      "published_at": "2026-11-23T17:58:57+09:00",
+      "summary": "[지디넷코리아]KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고, AI를 통해 최적의 광고 예산 운영 방향을 제안하는 솔루션이다. 브랜드별 광고 성과 차이를 반영해 자사에 실질적으로 기여한 매체를 파악하고 효율적인 예산 배분 전략을 수립할 수 있도록 지원한다.핵심은 KT나스미디어가 수년간 광고주 컨설팅을 통해 축적한 분석 노하우를 AI에 접목한 AI 분석 리포트다.대시보드에서 클릭 한 번으로 매체별 성과와 예산 분석 결과를 종합하고, 예산 조정 방향과 실행 우선순위를 제시한다. 각 제안 근거가 되는 수치와 차트도 제공해 전문 지식이 부족한 마케터도 분석 결과를 쉽게 이해하고 의사결정에 활용할 수 있다.분석엔 구글 오픈소스 마케팅믹스모델링(MMM…",
+      "category_score": 90,
+      "score_reason": "단순 성과 분석을 넘어 AI가 예산 배분 방향을 결정하는 최적화 솔루션은 마케팅 운영의 자동화를 가속화함.",
+      "keywords": [
+        "AI 분석",
+        "마케팅 솔루션",
+        "데이터 의사결정"
+      ],
+      "planning_insight": "사람의 휴먼 에러를 줄이고 데이터 기반의 실시간 예산 최적화 체계를 구축하여 마케팅 ROI를 극대화하는 운영 환경 조성 필요.",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "광고 성과 분석을 넘어 예산 배분까지 자동 제안하는 AI 마케팅 솔루션",
+      "importance_reason": "데이터 해석의 난이도를 낮추고 실질적인 의사결정 방향을 제시하는 도구는 데이터 기반 콘텐츠 기획의 필수 인프라임."
+    },
+    {
+      "rank": 5,
+      "id": "08fc60c9b99d735f350223d5c7327a8d5c678e66acff1c16070df12b2aaa6443",
+      "title": "“팀장님~ AI가 한 일까지 제가 봐야 하나요?”…직장인 덮친 ‘AI 피로’",
+      "source": "매일경제 기업",
+      "group": "news",
+      "category": "business",
+      "url": "https://www.mk.co.kr/news/it/12217871",
+      "published_at": "2026-11-25T10:47:12+09:00",
+      "summary": "일 줄여준다더니 AI 뒤치다꺼리에 골머리 가트너 “기업 성과에 AI 피로가 최대 걸림돌”직장인 김과장은 요즘 회사에서 인공지능(AI) 때문에 일이 더 늘었다고 한다. 회사가 업무 ..",
+      "category_score": 88,
+      "score_reason": "AI 도입 단계에서 '피로도' 문제가 가시화되는 것은 시장 성숙기에 접어든 실질적인 소비자 및 조직 행동 신호임.",
+      "keywords": [
+        "AI 피로도",
+        "조직 행동",
+        "생산성"
+      ],
+      "planning_insight": "기술 공급 중심의 기획이 아닌, 사용자의 업무 흐름과 '실질적인 편리함'을 우선순위에 둔 프로세스 설계가 AI 도입의 성패를 좌우함.",
+      "integrated_score": 89,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "기업 현장에서 가시화되는 'AI 피로도'와 생산성 역설",
+      "importance_reason": "AI 기술의 도입기에서 성숙기로 넘어가는 변곡점에서 사용자 경험(UX)과 조직 문화 측면의 중요한 경고 신호임."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 74,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "당근 기술블로그"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 16,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea"
+      ]
+    },
+    {
+      "keyword": "UI",
+      "count": 10,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL",
+        "네이버 D2"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트와 자동화 도구가 실무의 핵심 인터페이스로 자리 잡으며 플랫폼의 개방성을 요구하는 흐름이 거세지고 있습니다.",
+    "광고 및 콘텐츠 제작 단계에서 생성형 AI가 단순 제작을 넘어 즉시 집행과 성과 분석, 예산 최적화까지 연계되는 통합 솔루션화가 가속화되고 있습니다.",
+    "기술의 고도화와 함께 현업에서의 AI 피로도와 같은 사용자 경험 이슈가 부상함에 따라, 향후 기획 단계에서 기술적 구현 못지않게 인간 중심의 운영 효율성에 대한 고민이 중요해졌습니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
