@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-26T13:17:45.335103+09:00",
+  "updated_at": "2026-11-26T22:00:03.256283+09:00",
   "archives": [
+    {
+      "id": "2026-11-26_21-59",
+      "date": "2026-11-26",
+      "time": "21:59",
+      "label": "2026-11-26 21:59",
+      "generated_at": "2026-11-26T21:59:45.546860+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "분석",
+        "UI",
+        "model"
+      ],
+      "integrated_titles": [
+        "운영자의 시간을 아끼는 AI 에이전트 2부 - MCP 부터 Agent 설계까지",
+        "DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows",
+        "디즈니+, 미국서 예고편 시청 중 극장 티켓 예매 기능 도입",
+        "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+        "제품 링크로 즉시 집행 가능한 광고를 만들어 주는 최초 AI 플랫폼 오픈클립스"
+      ],
+      "path_json": "archive/2026-11-26/21-59.json",
+      "path_md": "archive/2026-11-26/21-59.md"
+    },
     {
       "id": "2026-11-26_12-35",
       "date": "2026-11-26",
