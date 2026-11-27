@@ -1,0 +1,496 @@
+{
+  "briefing_date": "2026-11-27",
+  "generated_at": "2026-11-27T21:56:51.870294+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 183,
+    "tech_blog": 2,
+    "ai_data": 15
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "76a51743cf3e6d2caf335b01238929f5692b4a18bfe129fe447f1697efb169a9",
+        "title": "공장이 원하는 AI 따로 있다…산업 특화 AI 경쟁 본격화",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261127113130",
+        "published_at": "2026-11-27T11:58:27+09:00",
+        "summary": "[지디넷코리아]제조기업이 인공지능(AI) 도입 과정에서 겪는 난제가 AI 업계에 새로운 사업 기회를 열고 있다.27일 업계에 따르면 제조기업은 공정 변화에 따른 AI 성능 저하와 전문 인력 부족 등으로 AI 도입 이후에도 운영에 어려움을 겪고 있다. 자체 역량만으로 이를 해결하기 어려운 기업이 외부 AI 전문기업과 협력하면서 새로운 기술 수요도 생겨나고 있다.반도체 기판 제조기업 대덕전자가 대표 사례다. 회사에 따르면 제품이나 원재료 변경으로 공정 조건이 달라지면 AI 모델을 다시 학습시켜야 한다. 전문 인력 확보에도 어려움을 겪고 있어 2029년까지 외부 AI 기업과 협력해 내부 역량을 높일 계획이다.AI 전문기업도 제조 현장에 맞춰 사업 영역을 넓히고 있다. 마키나락스는 산업 특화 모델뿐 아니라 AI 개발과 배포, 업데이트를 지원하는 운영 플랫폼을 공급하고 있다. 크루온AI는 구매와 인사 등 기업 업무를 직접 수행하는 AI 에이전트 시장을 공략하고 있다.이러한 수요는 개별 기업…",
+        "category_score": 98,
+        "score_reason": "제조업의 AI 도입 난제 해결을 위한 '산업 특화 AI(Vertical AI)'로의 시장 전환 신호를 명확히 포착함. 단순 도구를 넘어 공정 최적화 및 운영 효율화를 위한 협업 생태계가 형성되는 핵심 트렌드임.",
+        "keywords": [
+          "AI",
+          "제조업",
+          "산업 특화 AI",
+          "디지털 전환"
+        ],
+        "planning_insight": "범용 AI 모델이 아닌, 특정 산업 데이터와 공정 프로세스를 학습한 맞춤형 AI 서비스 기획 및 B2B 협업 모델 구축 전략 필요."
+      },
+      {
+        "rank": 2,
+        "id": "ba704ec43c1550a2a7a50d2611fea3abf23576a3a1ca82647dc803432212c4ac",
+        "title": "[유미's 픽] 캐나다, 자국 클라우드 쓰면 '파격 지원'…韓 AI 정책 시사점은",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261127111611",
+        "published_at": "2026-11-27T11:17:21+09:00",
+        "summary": "[지디넷코리아]캐나다 정부가 자국 인공지능(AI) 인프라를 이용하는 기업에 컴퓨팅 비용의 최대 80%를 지원하며 소버린 AI 생태계 육성에 속도를 낸다. AI 기업의 서비스 상용화와 자국 클라우드 산업 육성을 동시에 꾀하는 전략으로, 국가AI컴퓨팅센터 구축과 독자 AI 모델 개발에 나선 한국의 AI 산업 지원 정책에도 영향을 줄지 주목된다.26일(현지시간) 캐나다 혁신과학경제개발부(ISED)에 따르면 에반 솔로몬 캐나다 AI·디지털혁신부 장관은 이날 'AI 컴퓨팅 접근 기금(AI Compute Access Fund)'에 7억 캐나다달러를 추가 투입한다고 발표했다. 이에 따라 기존 3억 캐나다달러였던 기금 규모는 10억 캐나다달러로 늘어났다.캐나다 정부는 이번 기금 확대에 맞춰 AI 컴퓨팅 서비스 공급업체의 소유권과 통제권에 따라 지원율을 차등 적용하기로 했다. 자국 소버린 AI 인프라를 이용하는 기업에는 지원 대상 비용의 최대 80%를, 캐나다 내 법인 설립과 인프라 운영, 데이터…",
+        "category_score": 95,
+        "score_reason": "캐나다 정부의 '소버린 AI(Sovereign AI)' 육성 정책은 국가 차원의 AI 인프라 자립화라는 글로벌 트렌드를 반영함. 한국의 AI 정책 및 글로벌 시장 전략에 직접적인 시사점을 줌.",
+        "keywords": [
+          "소버린 AI",
+          "클라우드",
+          "정부 정책",
+          "글로벌 AI"
+        ],
+        "planning_insight": "국가별 데이터 주권 및 AI 컴퓨팅 자립 트렌드를 고려한 글로벌 진출 로드맵 설계 및 현지 인프라 연계 전략 수립."
+      },
+      {
+        "rank": 3,
+        "id": "03306dc0cf27efc76582dd0b1fddc73cb215b9f0bf42859adb2ea4ff731ca8bd",
+        "title": "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261126102619",
+        "published_at": "2026-11-26T10:52:06+09:00",
+        "summary": "[지디넷코리아]지마켓은 상품 탐색부터 브랜드별 특화 서비스 및 콘텐츠 커머스, 인공지능(AI) 기반 개인화 추천까지 한데 모은 뷰티 전용 홈을 내년 초 새롭게 선보인다고 26일 밝혔다.지마켓은 이날 서울 성수동 본사에서 화장품 업계 관계자 200여명을 초청해 '2026 뷰티 컨퍼런스'를 열고 내년도 사업 방향을 소개한다. ▲LG생활건강 ▲구다이글로벌 ▲디오디너리 ▲애경 ▲토리든 등이 초청 대상에 포함됐다.내년 1분기 출시를 목표로 개발 중인 뷰티 전문관은 지마켓 앱에 마련된다. 이용자의 ▲피부 고민 ▲평소 화장품 구매 습관 ▲시즌별 유행 등을 반영한 상품을 제안한다. ▲개별 브랜드를 소개하는 공간 ▲실시간 판매 방송 ▲짧은 영상 콘텐츠도 제공할 방침이다.해외 판로 확대 방안도 이번 컨퍼런스에서 다룬다. 동남아시아 전자상거래 업체 라자다 측이 연사로 나서며 지마켓 글로벌사업 담당자는 국내 뷰티 상품의 역직구 전략을 설명한다.지마켓은 라자다뿐만 아니라 알리바바 인터내셔널을 통해 해외…",
+        "category_score": 92,
+        "score_reason": "이커머스 플랫폼이 단순 상품 판매를 넘어 AI 기반의 개인화 추천, 콘텐츠 커머스를 결합한 '전문관(버티컬 홈)'으로 진화하는 소비자 경험 혁신을 잘 보여줌.",
+        "keywords": [
+          "커머스",
+          "AI",
+          "개인화",
+          "콘텐츠 커머스"
+        ],
+        "planning_insight": "플랫폼의 큐레이션 역량이 핵심 경쟁력이 되는 시대, AI 추천 알고리즘과 콘텐츠 마케팅을 결합한 버티컬 커머스 전략 강화."
+      },
+      {
+        "rank": 4,
+        "id": "3f7fbb23d755c4f4b012a2d33f0b8117d97d7cafa033ce74017c72cf080ffd68",
+        "title": "아동·청소년 AI 과의존 우려…전문가들 \"설계 단계부터 규제해야\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261125175345",
+        "published_at": "2026-11-25T18:03:00+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 서비스 이용이 아동·청소년의 인지적 의존을 심화하고 사회정서적 발달에 부정적인 영향을 미칠 수 있다는 우려가 제기됐다. 전문가들은 ‘설계’에 초점을 맞춰 규제를 만들어야 한다고 강조하며, 디자인과 기능으로 넘어갈 때 시스템적 규제가 담겨야 한다는 의견을 내놓았다. 서울대학교 언론정보 연구소, 이주희·이훈기 더불어민주당, 조경태 국민의힘 의원실 등은 25일 서울 관악구 서울대학교에서 ‘AI서비스와 아동·청소년 보호’를 주제로 세미나를 개최했다. 한국청소년정책연구원, 초록우산에 따르면 국내 아동·청소년의 AI 사용률은 2023년 52.1%에서 올해 94.4%로 대폭 늘었다. 올해 기준 생성형 AI 챗봇 사용 현황은 주 1~2회가 31.4%로 가장 높았고, 주 3~4회(27.9%)·그보다 드물게(21.4%)·거의 매일(19.3%)이 뒤를 이었다.AI 사용 빈도가 늘면서 ‘AI에 의존적’이라고 답변한 비율은 전체 연령대 중 청소년이 가장 높은 것으로 조사됐다…",
+        "category_score": 90,
+        "score_reason": "AI 기술의 급격한 확산에 따른 '아동·청소년 보호' 및 '설계적 규제(Privacy/Safety by Design)'는 플랫폼 기업이 반드시 대응해야 할 사회적 트렌드임.",
+        "keywords": [
+          "AI 윤리",
+          "청소년 보호",
+          "플랫폼 규제",
+          "사회적 책임"
+        ],
+        "planning_insight": "서비스 설계 단계부터 윤리적 가이드라인을 내재화하여 리스크를 관리하고, 신뢰 기반의 플랫폼 브랜딩을 강화하는 전략 추진."
+      },
+      {
+        "rank": 5,
+        "id": "c2f6c731ffab58af51ba6b528dfce56f3d84c37f5ae12131dbe4462d8d31d6ea",
+        "title": "한국팹리스산업협회, '한국AI반도체팹리스산업협회'로 명칭 변경",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261125163504",
+        "published_at": "2026-11-25T17:30:01+09:00",
+        "summary": "[지디넷코리아]한국팹리스산업협회는 '한국AI반도체팹리스산업협회(KAISA)'로 명칭을 변경하고 인공지능(AI)·소프트웨어(SW) 융합 생태계 육성을 본격화한다고 25일 밝혔다. 협회는 지난 10월 13일 임시총회 의결을 거쳐 이달 24일 관련 절차를 마쳤다.이번 개편은 국내 팹리스 소프트웨어 경쟁력을 강화하고, 산업 전반의 AI 전환(AX) 확산에 대응하기 위해 추진됐다.글로벌 반도체 시장은 개별 칩 성능을 넘어 하드웨어와 AI 모델·플랫폼을 결합하는 생태계 경쟁으로 재편되고 있다. 이에 협회는 팹리스 기업과 AI·소프트웨어 기업·산업별 수요 기업과의 협력을 확대할 계획이다. 또한 AX에 대한 정책지원, 기술개발, 검증·실증, 사업화 및 글로벌 시장 진출에 이르는 종합지원 기능을 강화할 예정이다.명칭 변경 후 첫 공식 행사도 열렸다. 협회는 25일 경기 성남시 그래비티 조선 판교에서 '2026 K-팹리스 테크포럼 및 제4회 반도체팹리스인의 날 기념식'을 개최했다.1부 기술교류회에는…",
+        "category_score": 88,
+        "score_reason": "반도체 팹리스 산업이 하드웨어 중심에서 AI 모델·플랫폼 생태계 결합으로 진화하고 있음을 시사함. AI 전환(AX) 가속화에 따른 산업 구조의 변화를 보여줌.",
+        "keywords": [
+          "AI 반도체",
+          "팹리스",
+          "AX(AI 전환)",
+          "생태계"
+        ],
+        "planning_insight": "하드웨어와 소프트웨어의 경계가 무너지는 시점에서, 다양한 산업별 수요처와 기술 협력을 강화하는 오픈 이노베이션 전략 중요."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "b99bf3b1d764020878a62e30427c4eec0641ca5111d2821ac3e5433cb9a48f53",
+        "title": "행사 순간을 함께 나누는 한마디, if(kakao)26 네트워킹 스크린 제작기",
+        "source": "카카오 기술블로그",
+        "group": "tech_blog",
+        "category": "platform_tech",
+        "url": "https://tech.kakao.com/posts/850",
+        "published_at": "2026-11-26T00:00:00+09:00",
+        "summary": "행사에 참여하다 보면 기억에 남는 세션이나 문득 떠오른 생각, 함께 나누고 싶은 소감이 생깁니다. 하지만 그 마음을 남기거나 다른 참가자들과 공유할 기회는 많지 않습니다. if(kakao)26의 네트워킹 경험을 기획하면서 저는 참가자들이 자기 생각을 쉽고 재미있게 표현할 방법을 고민했습니다. 행사장에서 떠오른 생각이나 소감을 부담 없이 남기고, 다른 참가자들의 메시지도 함께 볼 수 있다면 어떨까요? 그렇게 시작한 아이디어가 네트워킹 스크린입니다. 저는 ...",
+        "category_score": 92,
+        "score_reason": "사용자의 행사 경험을 향상시키기 위한 인터랙션 기획과 실시간 공유라는 서비스적 가치에 집중함. 기술적 구현뿐만 아니라 '참가자의 경험 확장'이라는 제품 전략적 목표가 명확함.",
+        "keywords": [
+          "UX",
+          "커뮤니티",
+          "서비스 기획",
+          "인터랙션"
+        ],
+        "planning_insight": "참가자의 자발적 참여를 유도하는 서비스 설계 시, 기술적 도구보다 사용자의 소통 경험과 심리적 진입장벽을 낮추는 UX 장치가 성공의 핵심임."
+      },
+      {
+        "rank": 2,
+        "id": "ef6f55f4cbab452efb01865b1bd5474100d867a72568f62d09f35e832b654ba6",
+        "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/7426315",
+        "published_at": "2026-11-26T15:05:25+09:00",
+        "summary": "Jetpack Compose(안드로이드의 선언형 UI 툴킷)로 가로로 넘기는 목록을 만들 때는 대부분 LazyRow 부터 떠올리실 겁니다. 그런데 최근 저희 팀에서 만든 화면 중에는 아무리 고민해도 LazyRow 로는 만들 수 없는 UI가 있었습니다. 이 글에서는 그 UI를 커스텀 3D 캐러셀로 직접 만든 경험을 소개하고, 그 과정에서 만난 다음 세 가지 이슈를 어떻게 풀었는지 정리합니다. 드래그하는 동안 매 프레임 바뀌는 값을 '리컴포지션'(상태가 바뀌어 컴포저블 함수가 다시 실행되는 것) 없이 카드 여러 장에 전달하기 y축으로 기울인 카드를 눌렀더니 엉뚱한 카드가 열리는 '3D 터치 판정 버그'(Compose 1.7.0부터) LazyRow 없이 'Paging 3'로 다음 페이지를 불러오기 마지막으로 이 UI를 AI와 함께 만들며 배운 점도 덧붙입니다. ThingsBook과 두 가지 UI ThingsBook은 네이버가 북미를 대상으로 출시한 SNS 서비스입니다. 책이나 영화, 음…",
+        "category_score": 85,
+        "score_reason": "기존 UI 툴킷의 한계를 극복하기 위해 커스텀 컴포넌트를 설계한 과정이 돋보임. 3D 인터랙션 등 고도화된 UI 요소가 서비스 내 몰입도를 어떻게 높일 수 있는지에 대한 기술적 해결책을 제시함.",
+        "keywords": [
+          "UI/UX",
+          "Compose",
+          "커스텀 컴포넌트",
+          "사용자 경험"
+        ],
+        "planning_insight": "표준화된 UI 도구로 구현 불가능한 독창적인 경험은 기술적 난도를 감수하고서라도 확보할 가치가 있으며, 이는 제품의 차별화된 사용성을 결정짓는 요소가 됨."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "published_at": "2026-11-26T09:00:00+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "멀티 에이전트 시스템의 구축과 평가 방법론은 현재 AI 에이전트 비즈니스의 핵심이며, 기획자가 실무에 즉시 도입 가능한 전략적 가치가 매우 높음.",
+        "keywords": [
+          "AI 에이전트",
+          "멀티 에이전트",
+          "시스템 아키텍처"
+        ],
+        "planning_insight": "단일 모델의 한계를 넘어 업무 효율을 극대화하는 에이전트 협업 체계 기획 및 운영 프로세스 수립 가능."
+      },
+      {
+        "rank": 2,
+        "id": "862eeffb4f1e23a13b38937c09387404f6ac8602e705a9a294882cefb7e3565d",
+        "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.33174",
+        "published_at": "2026-11-26T14:00:00+09:00",
+        "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a step that is (a) costly (thousands of generative calls per build), (b) non-deterministic (undermining reproducibility and giving inconsistent answers across runs), and (c) provenance-…",
+        "category_score": 95,
+        "score_reason": "RAG 및 에이전트 메모리 관리의 비용 효율성을 개선하는 기술로, 장기 기억이 필요한 대화형 콘텐츠와 개인화 추천 서비스 구현에 필수적임.",
+        "keywords": [
+          "에이전트 메모리",
+          "LLM",
+          "RAG 효율화"
+        ],
+        "planning_insight": "비용 효율적인 장기 기억 설계로 고도화된 개인화 콘텐츠 제공 및 사용자 맞춤형 대화 모델 구축 전략 수립."
+      },
+      {
+        "rank": 3,
+        "id": "fe9e45b9ef43d790c89d8a3284c55c4400d021d8beed85e93575b44046ef272f",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "published_at": "2026-11-26T14:05:36+09:00",
+        "summary": "",
+        "category_score": 92,
+        "score_reason": "오픈 데이터와 파인튜닝, 추론 가속화 기술은 기업 내부 데이터 기반의 특화 모델을 구축하는 데 실질적인 기술 지표를 제공함.",
+        "keywords": [
+          "파인튜닝",
+          "오픈 모델",
+          "추론 최적화"
+        ],
+        "planning_insight": "자체 도메인 데이터셋을 활용한 전용 AI 모델 개발 시 비용 대비 성능 최적화 가이드라인 확보."
+      },
+      {
+        "rank": 4,
+        "id": "ebe31b6662a5925d436978d5ceb1e187f29c2ad2fb7f6d8d31e28f54e043157e",
+        "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.33175",
+        "published_at": "2026-11-26T14:00:00+09:00",
+        "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach in which explanatory fidelity was established before feature importance was interpreted. English Language Arts responses from three writing prompts in Grades 6 and 8 were analyzed,…",
+        "category_score": 89,
+        "score_reason": "AI의 자동 평가 결과에 대한 설명 가능성(Explainability)은 콘텐츠 품질 관리 및 자동화된 글쓰기 평가 시스템 구축에 매우 중요함.",
+        "keywords": [
+          "설명 가능한 AI",
+          "자동 평가",
+          "콘텐츠 품질 관리"
+        ],
+        "planning_insight": "자동화된 콘텐츠 생성 결과에 대해 정량적/정성적 근거를 제시하여 시스템의 신뢰도와 사용자 피드백 루프 개선."
+      },
+      {
+        "rank": 5,
+        "id": "61b57a19f27295b3aa9e31dfb7ed55a701826a3d3a0822237eca4cf5fb1bd5ea",
+        "title": "Extraneous Cognitive Load in Large Language Models",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.33197",
+        "published_at": "2026-11-26T14:00:00+09:00",
+        "summary": "arXiv:2611.33197v1 Announce Type: new Abstract: Cognitive Load Theory (CLT) shows that human problem-solving is affected by both intrinsic load, arising from task difficulty, and extraneous load, arising from how task information is presented. Large language models (LLMs) show analogous effects: presentation alone can affect model performance, but these effects have not yet been systematically isolated from task difficulty. To address this gap, we introduce CogLoadBench, a controlled benchmark…",
+        "category_score": 86,
+        "score_reason": "프롬프트 제시 방식이 모델 성능에 미치는 인지 부하 연구는 프롬프트 엔지니어링 및 기획 측면에서 실무적인 통찰을 제공함.",
+        "keywords": [
+          "프롬프트 엔지니어링",
+          "인지 부하 이론",
+          "LLM 최적화"
+        ],
+        "planning_insight": "정보 전달 및 인터페이스 기획 시 LLM이 정보를 효율적으로 처리할 수 있는 프롬프트 구조화 및 가독성 설계 최적화."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "76a51743cf3e6d2caf335b01238929f5692b4a18bfe129fe447f1697efb169a9",
+      "title": "공장이 원하는 AI 따로 있다…산업 특화 AI 경쟁 본격화",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261127113130",
+      "published_at": "2026-11-27T11:58:27+09:00",
+      "summary": "[지디넷코리아]제조기업이 인공지능(AI) 도입 과정에서 겪는 난제가 AI 업계에 새로운 사업 기회를 열고 있다.27일 업계에 따르면 제조기업은 공정 변화에 따른 AI 성능 저하와 전문 인력 부족 등으로 AI 도입 이후에도 운영에 어려움을 겪고 있다. 자체 역량만으로 이를 해결하기 어려운 기업이 외부 AI 전문기업과 협력하면서 새로운 기술 수요도 생겨나고 있다.반도체 기판 제조기업 대덕전자가 대표 사례다. 회사에 따르면 제품이나 원재료 변경으로 공정 조건이 달라지면 AI 모델을 다시 학습시켜야 한다. 전문 인력 확보에도 어려움을 겪고 있어 2029년까지 외부 AI 기업과 협력해 내부 역량을 높일 계획이다.AI 전문기업도 제조 현장에 맞춰 사업 영역을 넓히고 있다. 마키나락스는 산업 특화 모델뿐 아니라 AI 개발과 배포, 업데이트를 지원하는 운영 플랫폼을 공급하고 있다. 크루온AI는 구매와 인사 등 기업 업무를 직접 수행하는 AI 에이전트 시장을 공략하고 있다.이러한 수요는 개별 기업…",
+      "category_score": 98,
+      "score_reason": "제조업의 AI 도입 난제 해결을 위한 '산업 특화 AI(Vertical AI)'로의 시장 전환 신호를 명확히 포착함. 단순 도구를 넘어 공정 최적화 및 운영 효율화를 위한 협업 생태계가 형성되는 핵심 트렌드임.",
+      "keywords": [
+        "산업 특화 AI",
+        "버티컬 AI",
+        "디지털 전환",
+        "B2B 전략"
+      ],
+      "planning_insight": "범용 모델 활용에 그치지 않고, 특정 산업군(제조, 의료, 물류 등)의 도메인 지식과 데이터를 결합한 고도화된 B2B 콘텐츠 및 솔루션 기획 필요",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "범용 AI를 넘어, 산업별 전문 데이터와 프로세스를 학습한 '산업 특화 AI(Vertical AI)' 경쟁 본격화",
+      "importance_reason": "AI 도입의 성숙도가 높아짐에 따라 범용 모델에서 산업 현장 맞춤형 모델로 시장의 수요가 이동하는 명확한 기술 신호임."
+    },
+    {
+      "rank": 2,
+      "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published_at": "2026-11-26T09:00:00+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "멀티 에이전트 시스템의 구축과 평가 방법론은 현재 AI 에이전트 비즈니스의 핵심이며, 기획자가 실무에 즉시 도입 가능한 전략적 가치가 매우 높음.",
+      "keywords": [
+        "AI 에이전트",
+        "멀티 에이전트",
+        "워크플로우 자동화"
+      ],
+      "planning_insight": "단순 챗봇 기획을 넘어 에이전트 간의 역할 분담과 워크플로우를 설계하는 '에이전트 오케스트레이션' 관점의 기획력 확보가 중요함",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "단일 LLM을 넘어 여러 에이전트가 협업하는 멀티 에이전트 시스템 구축 및 평가 방법론 확산",
+      "importance_reason": "업무 자동화 및 복잡한 문제 해결을 위한 최신 AI 아키텍처의 핵심이자, 기업 내부 생산성 향상을 위한 필수 기술 지표임."
+    },
+    {
+      "rank": 3,
+      "id": "03306dc0cf27efc76582dd0b1fddc73cb215b9f0bf42859adb2ea4ff731ca8bd",
+      "title": "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261126102619",
+      "published_at": "2026-11-26T10:52:06+09:00",
+      "summary": "[지디넷코리아]지마켓은 상품 탐색부터 브랜드별 특화 서비스 및 콘텐츠 커머스, 인공지능(AI) 기반 개인화 추천까지 한데 모은 뷰티 전용 홈을 내년 초 새롭게 선보인다고 26일 밝혔다.지마켓은 이날 서울 성수동 본사에서 화장품 업계 관계자 200여명을 초청해 '2026 뷰티 컨퍼런스'를 열고 내년도 사업 방향을 소개한다. ▲LG생활건강 ▲구다이글로벌 ▲디오디너리 ▲애경 ▲토리든 등이 초청 대상에 포함됐다.내년 1분기 출시를 목표로 개발 중인 뷰티 전문관은 지마켓 앱에 마련된다. 이용자의 ▲피부 고민 ▲평소 화장품 구매 습관 ▲시즌별 유행 등을 반영한 상품을 제안한다. ▲개별 브랜드를 소개하는 공간 ▲실시간 판매 방송 ▲짧은 영상 콘텐츠도 제공할 방침이다.해외 판로 확대 방안도 이번 컨퍼런스에서 다룬다. 동남아시아 전자상거래 업체 라자다 측이 연사로 나서며 지마켓 글로벌사업 담당자는 국내 뷰티 상품의 역직구 전략을 설명한다.지마켓은 라자다뿐만 아니라 알리바바 인터내셔널을 통해 해외…",
+      "category_score": 92,
+      "score_reason": "이커머스 플랫폼이 단순 상품 판매를 넘어 AI 기반의 개인화 추천, 콘텐츠 커머스를 결합한 '전문관(버티컬 홈)'으로 진화하는 소비자 경험 혁신을 잘 보여줌.",
+      "keywords": [
+        "콘텐츠 커머스",
+        "개인화 추천",
+        "버티컬 플랫폼"
+      ],
+      "planning_insight": "단순 상품 나열식 페이지에서 벗어나 개인의 취향 데이터와 영상 콘텐츠를 결합한 능동적인 큐레이션 서비스 기획의 필요성 증대",
+      "integrated_score": 92,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "이커머스 플랫폼이 AI 개인화 추천과 숏폼 콘텐츠를 결합한 '뷰티 버티컬 홈'으로의 사용자 경험 혁신 추진",
+      "importance_reason": "사용자 데이터 기반의 초개인화가 커머스 성패를 결정짓는 핵심 전략임을 보여주는 구체적인 시장 사례임."
+    },
+    {
+      "rank": 4,
+      "id": "ba704ec43c1550a2a7a50d2611fea3abf23576a3a1ca82647dc803432212c4ac",
+      "title": "[유미's 픽] 캐나다, 자국 클라우드 쓰면 '파격 지원'…韓 AI 정책 시사점은",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261127111611",
+      "published_at": "2026-11-27T11:17:21+09:00",
+      "summary": "[지디넷코리아]캐나다 정부가 자국 인공지능(AI) 인프라를 이용하는 기업에 컴퓨팅 비용의 최대 80%를 지원하며 소버린 AI 생태계 육성에 속도를 낸다. AI 기업의 서비스 상용화와 자국 클라우드 산업 육성을 동시에 꾀하는 전략으로, 국가AI컴퓨팅센터 구축과 독자 AI 모델 개발에 나선 한국의 AI 산업 지원 정책에도 영향을 줄지 주목된다.26일(현지시간) 캐나다 혁신과학경제개발부(ISED)에 따르면 에반 솔로몬 캐나다 AI·디지털혁신부 장관은 이날 'AI 컴퓨팅 접근 기금(AI Compute Access Fund)'에 7억 캐나다달러를 추가 투입한다고 발표했다. 이에 따라 기존 3억 캐나다달러였던 기금 규모는 10억 캐나다달러로 늘어났다.캐나다 정부는 이번 기금 확대에 맞춰 AI 컴퓨팅 서비스 공급업체의 소유권과 통제권에 따라 지원율을 차등 적용하기로 했다. 자국 소버린 AI 인프라를 이용하는 기업에는 지원 대상 비용의 최대 80%를, 캐나다 내 법인 설립과 인프라 운영, 데이터…",
+      "category_score": 95,
+      "score_reason": "캐나다 정부의 '소버린 AI(Sovereign AI)' 육성 정책은 국가 차원의 AI 인프라 자립화라는 글로벌 트렌드를 반영함. 한국의 AI 정책 및 글로벌 시장 전략에 직접적인 시사점을 줌.",
+      "keywords": [
+        "소버린 AI",
+        "데이터 주권",
+        "글로벌 AI 전략"
+      ],
+      "planning_insight": "글로벌 서비스 기획 시 국가별 데이터 규제와 현지 인프라 의존도를 고려한 '데이터 거버넌스' 및 '로컬라이제이션' 전략 수립 필요",
+      "integrated_score": 90,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 22,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "캐나다 등 주요국의 소버린 AI 인프라 지원 정책 가속화, 국가별 데이터 주권 흐름 강화",
+      "importance_reason": "글로벌 비즈니스를 전개하는 기업에게 데이터 주권 및 AI 컴퓨팅 자립은 서비스 운영과 규제 대응의 필수 고려 사항이 됨."
+    },
+    {
+      "rank": 5,
+      "id": "862eeffb4f1e23a13b38937c09387404f6ac8602e705a9a294882cefb7e3565d",
+      "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.33174",
+      "published_at": "2026-11-26T14:00:00+09:00",
+      "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a step that is (a) costly (thousands of generative calls per build), (b) non-deterministic (undermining reproducibility and giving inconsistent answers across runs), and (c) provenance-…",
+      "category_score": 95,
+      "score_reason": "RAG 및 에이전트 메모리 관리의 비용 효율성을 개선하는 기술로, 장기 기억이 필요한 대화형 콘텐츠와 개인화 추천 서비스 구현에 필수적임.",
+      "keywords": [
+        "LLM 에이전트",
+        "메모리 최적화",
+        "RAG 효율화"
+      ],
+      "planning_insight": "반복적인 LLM 호출 비용을 줄이면서도 맥락을 유지하는 메모리 설계 기술을 통해 서비스의 사용자 유지율과 만족도 제고 가능",
+      "integrated_score": 88,
+      "criteria_scores": {
+        "content_strategy": 21,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 22
+      },
+      "applied_criteria": [
+        "AI·데이터 관련성",
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "장기 기억이 필요한 대화형 AI를 위한 효율적이고 결정론적인 메모리 프레임워크 연구",
+      "importance_reason": "비용 효율적이고 정확한 대화형 AI 서비스 구현을 위해 기술적 진입장벽을 낮추는 RAG/메모리 고도화 흐름을 반영함."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 65,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 19,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 18,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "콘텐츠",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 13,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 시장이 범용 모델에서 각 산업별 특성에 맞춘 '버티컬 AI' 모델로 진화하며 실질적인 운영 효율화를 꾀하고 있습니다.",
+    "멀티 에이전트 협업 및 효율적인 메모리 관리 기술이 도입되면서, 더 똑똑하고 개인화된 대화형 서비스 구현이 가능해지는 시점입니다.",
+    "국가별 데이터 주권 정책과 맞물려 플랫폼 기업들은 단순 기술 도입을 넘어 서비스 기획 단계부터 데이터 거버넌스와 사용자 윤리를 내재화하는 전략이 요구됩니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}

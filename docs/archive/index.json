@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-27T13:27:15.952917+09:00",
+  "updated_at": "2026-11-27T21:57:07.558409+09:00",
   "archives": [
+    {
+      "id": "2026-11-27_21-56",
+      "date": "2026-11-27",
+      "time": "21:56",
+      "label": "2026-11-27 21:56",
+      "generated_at": "2026-11-27T21:56:51.870294+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": false,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "콘텐츠",
+        "분석"
+      ],
+      "integrated_titles": [
+        "공장이 원하는 AI 따로 있다…산업 특화 AI 경쟁 본격화",
+        "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+        "[유미's 픽] 캐나다, 자국 클라우드 쓰면 '파격 지원'…韓 AI 정책 시사점은",
+        "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory"
+      ],
+      "path_json": "archive/2026-11-27/21-56.json",
+      "path_md": "archive/2026-11-27/21-56.md"
+    },
     {
       "id": "2026-11-27_12-35",
       "date": "2026-11-27",
