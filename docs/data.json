@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T23:40:08.456918+09:00",
+  "updated_at": "2026-11-28T06:05:34.752177+09:00",
   "total_items": 200,
   "items": [
     {
@@ -1330,6 +1330,24 @@
       "fetched_at": "2026-11-27T13:45:27.699303+09:00",
       "language": "en",
       "importance_weight": 0.8,
+      "importance_score": null,
+      "keywords": [],
+      "planning_insight": ""
+    },
+    {
+      "id": "118dff371c4140a21c417632c6779f566b7e0d0f38fac4663fda91cc444f70e8",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "icon": "🤗",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published_at": "2026-11-27T09:00:00+09:00",
+      "entry_updated_at": "2026-11-27T09:00:00+09:00",
+      "fetched_at": "2026-11-28T06:05:34.611225+09:00",
+      "language": "en",
+      "importance_weight": 0.9,
       "importance_score": null,
       "keywords": [],
       "planning_insight": ""
@@ -3577,24 +3595,6 @@
       "url": "https://zdnet.co.kr/view/?no=20261125220437",
       "published_at": "2026-11-25T22:04:37+09:00",
       "entry_updated_at": "2026-11-25T22:04:37+09:00",
-      "fetched_at": "2026-11-26T06:54:07.522911+09:00",
-      "language": "ko",
-      "importance_weight": 0.85,
-      "importance_score": null,
-      "keywords": [],
-      "planning_insight": ""
-    },
-    {
-      "id": "93cbecbcb01af43618b3dd63ec7521448b9895c516cd112c8b7ba597a7b2ea7d",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "icon": "💻",
-      "title": "경기동부 청창사, ‘창업의 꿈, 바통을 잇다’ 지역연계 프로그램 개최",
-      "summary": "[지디넷코리아]중소벤처기업진흥공단 경기동부 청년창업사관학교는 지난 17일 경기 남양주시 진접중학교에서 1학년 학생 28명을 대상으로 ‘창업의 꿈, 바통을 잇다’ 지역연계 프로그램을 개최했다.이번 프로그램은 경기동부 지역의 창업 생태계를 활성화하고, 장기적으로 지역경제에 새로운 활력을 불어넣을 미래 창업 인재를 육성하기 위해 마련됐다.경기동부 청년창업사관학교는 입교기업의 창업 경험을 지역 학교 진로교육과 연계, 청소년들이 기업가정신을 기르고 지역의 문제를 새로운 사업 기회로 바라보는 시각을 키울 수 있도록 프로그램을 기획했다. 행사에는 중소벤처기업진흥공단 경기동부 청년창업사관학교 이진혁 선임교수와 입교기업 대표 3인, 진접중학교 학생 등이 참석했다.진접중학교는 경기도교육청이 선정한 창업체험거점학교다. 창업동아리 운영과 교육과정 연계 창업체험 프로그램 등을 통해 지역 청소년들의 기업가정신 함양과 창업교육 활성화에 힘써왔다. 이번 행사는 이러한 학교의 창업교육 활동과 청년창업사관학교의…",
-      "url": "https://zdnet.co.kr/view/?no=20261125213553",
-      "published_at": "2026-11-25T21:35:53+09:00",
-      "entry_updated_at": "2026-11-25T21:35:53+09:00",
       "fetched_at": "2026-11-26T06:54:07.522911+09:00",
       "language": "ko",
       "importance_weight": 0.85,
