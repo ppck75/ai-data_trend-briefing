@@ -1,0 +1,550 @@
+{
+  "briefing_date": "2026-11-27",
+  "generated_at": "2026-11-27T13:26:59.550218+09:00",
+  "source_total": 200,
+  "category_counts": {
+    "news": 168,
+    "tech_blog": 7,
+    "ai_data": 25
+  },
+  "category_top5": {
+    "news": [
+      {
+        "rank": 1,
+        "id": "808742f0eb4d752da8b4174e5b0ab13dc01ce9fa9562ae3244525ff62ad26ef7",
+        "title": "개보위, 데이터 이익 공유제 논의...5차 미래포럼 개최",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261126214606",
+        "published_at": "2026-11-26T21:46:06+09:00",
+        "summary": "[지디넷코리아]개인정보보호위원회(개인정보위)가 26일 제5차 '2026 개인정보 미래포럼' 전체회의를 개최했다. '미래포럼'은 각계 전문가들이 개인정보 분야 중요 아젠다를 선제적으로 논의하고 현장의 의견을 수렴하는 ‘개인정보 정책 토론의 장이다. 학계·법조계·산업계·시민사회 등의 전문가 40명으로 구성됐다.올해 다섯 번째 열린 이번 미래포럼에서는 '인공지능 시대 개인정보 제도 혁신 방안'과 '데이터 이익공유제 구상안'을 주제로 논의를 진행했다.첫 번째 발제를 맡은 최윤정 개인정보위 개인정보보호정책과장은 생성형 인공지능(AI)과 인공지능 에이전트 등의 확산으로 개인정보 처리 환경이 근본적으로 달라지고 있는 만큼, 형식적인 사전 동의 중심의 현행 체계를 위험에 비례하는 실질적 보호 체계로 전환할 필요가 있다고 설명했다.아울러 지난 8월 국민제안과 ‘모두의 토론회’ 등을 통해 수렴한 국민 의견을 바탕으로 마련 중인 개인정보 제도 혁신 방향을 소개했다.다음 발제자로 나선 한국전자통신연구원…",
+        "category_score": 98,
+        "score_reason": "AI 기술 확산에 따른 데이터 이익 공유제 및 개인정보 제도 혁신은 향후 플랫폼과 데이터 경제의 핵심 근간을 바꾸는 거대 트렌드임.",
+        "keywords": [
+          "AI",
+          "데이터 경제",
+          "정책"
+        ],
+        "planning_insight": "AI 모델 학습 데이터의 권리와 보상 체계는 향후 콘텐츠 산업의 비즈니스 모델을 재편할 핵심 변수임."
+      },
+      {
+        "rank": 2,
+        "id": "c27f002490864c6b54a8aa19df18f3eb4a53ecb318fd933271207a17fbfc5291",
+        "title": "계명대 창업기업 미오플래닛, 뷰티 소상공인 겨냥한 AI 광고 플랫폼 개발",
+        "source": "매일경제 기업",
+        "group": "news",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/business/12219168",
+        "published_at": "2026-11-26T11:12:14+09:00",
+        "summary": "식약처 기준 반영한 규제 DB 94건 구축 광고 제작부터 규제 검수까지 한 번에 뷰티 커머스·자체 화장품 브랜드로 확장 ‘모두의 창업’ 지역 오디션 통과, 권역 오디션 앞둬계명대 ..",
+        "category_score": 95,
+        "score_reason": "AI 기반 광고 제작 및 규제 검수 자동화 솔루션은 뷰티/커머스 업계의 진입 장벽을 낮추고 광고 효율을 극대화하는 실질적인 변화 신호임.",
+        "keywords": [
+          "AI",
+          "광고",
+          "커머스"
+        ],
+        "planning_insight": "규제 준수와 크리에이티브 결합형 AI 툴은 소상공인의 디지털 전환(AX)을 가속화할 강력한 도구가 될 것임."
+      },
+      {
+        "rank": 3,
+        "id": "acef9a945e964820b50730bf0e6fe1443d60cfb51a6beb816061ae64f7ca280c",
+        "title": "브랜드 추천부터 예상 순익까지…한국신용데이터, AI로 예비 창업자 돕는다",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261126122412",
+        "published_at": "2026-11-26T12:24:12+09:00",
+        "summary": "[지디넷코리아]예비 창업자에게 프랜차이즈 브랜드와 지역을 추천해주고 비용과 예상매출 등을 분석해주는 인공지능(AI) 서비스가 나왔다.한국신용데이터(KCD)는 프랜차이즈 예비 창업자를 위한 ‘창업 시뮬레이터’를 출시했다고 26일 밝혔다.캐시노트 서비스에 원하는 상권, 업종, 예산을 입력하면 약 300개 상권, 2000개 브랜드 중 조건에 맞는 프랜차이즈 브랜드를 추천한다. 또 6개 기준으로 분석한 종합 리포트도 제공한다. 전 과정에 AI를 활용해 개발착수 4주 만에 선보였다는 것이 회사 측 설명이다.상권별 평균 임대료를 참고해 창업할 지역을 선택하고 ▲투입 예산 ▲운영 가능 시간 ▲투자금 회수 목표 등을 입력하면 최대 5개 브랜드를 적합도 점수 기반으로 추천한다.추천 브랜드 중 2~3곳을 골라 창업 비용 등 조건도 비교할 수 있다. 브랜드를 최종 선택하면 ▲수익성 ▲성장성 ▲안정성 ▲지원체계 ▲브랜드력 ▲초기비용 등 6개 기준으로 평가한 상세 리포트를 볼 수 있다. 예상 월 순이익,…",
+        "category_score": 92,
+        "score_reason": "데이터 분석 기반의 창업 시뮬레이터는 소비자 행동 데이터가 어떻게 의사결정 지원 도구로 상품화되는지 보여주는 명확한 사례임.",
+        "keywords": [
+          "AI",
+          "플랫폼",
+          "데이터"
+        ],
+        "planning_insight": "데이터 기반의 맞춤형 추천 엔진을 활용한 플랫폼 고도화는 사용자 체류 시간을 늘리고 서비스 가치를 증명하는 핵심 전략임."
+      },
+      {
+        "rank": 4,
+        "id": "03306dc0cf27efc76582dd0b1fddc73cb215b9f0bf42859adb2ea4ff731ca8bd",
+        "title": "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261126102619",
+        "published_at": "2026-11-26T10:52:06+09:00",
+        "summary": "[지디넷코리아]지마켓은 상품 탐색부터 브랜드별 특화 서비스 및 콘텐츠 커머스, 인공지능(AI) 기반 개인화 추천까지 한데 모은 뷰티 전용 홈을 내년 초 새롭게 선보인다고 26일 밝혔다.지마켓은 이날 서울 성수동 본사에서 화장품 업계 관계자 200여명을 초청해 '2026 뷰티 컨퍼런스'를 열고 내년도 사업 방향을 소개한다. ▲LG생활건강 ▲구다이글로벌 ▲디오디너리 ▲애경 ▲토리든 등이 초청 대상에 포함됐다.내년 1분기 출시를 목표로 개발 중인 뷰티 전문관은 지마켓 앱에 마련된다. 이용자의 ▲피부 고민 ▲평소 화장품 구매 습관 ▲시즌별 유행 등을 반영한 상품을 제안한다. ▲개별 브랜드를 소개하는 공간 ▲실시간 판매 방송 ▲짧은 영상 콘텐츠도 제공할 방침이다.해외 판로 확대 방안도 이번 컨퍼런스에서 다룬다. 동남아시아 전자상거래 업체 라자다 측이 연사로 나서며 지마켓 글로벌사업 담당자는 국내 뷰티 상품의 역직구 전략을 설명한다.지마켓은 라자다뿐만 아니라 알리바바 인터내셔널을 통해 해외…",
+        "category_score": 90,
+        "score_reason": "종합몰의 뷰티 특화 전문관 강화는 플랫폼이 AI 개인화 추천을 통해 버티컬 시장을 어떻게 장악하려는지 보여주는 전형적인 커머스 트렌드임.",
+        "keywords": [
+          "커머스",
+          "AI",
+          "개인화"
+        ],
+        "planning_insight": "데이터 기반의 세분화된 고객 경험 제공은 대형 플랫폼이 전문몰의 위협을 방어하기 위한 필수 전략으로 자리 잡음."
+      },
+      {
+        "rank": 5,
+        "id": "3f7fbb23d755c4f4b012a2d33f0b8117d97d7cafa033ce74017c72cf080ffd68",
+        "title": "아동·청소년 AI 과의존 우려…전문가들 \"설계 단계부터 규제해야\"",
+        "source": "ZDNet Korea",
+        "group": "news",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261125175345",
+        "published_at": "2026-11-25T18:03:00+09:00",
+        "summary": "[지디넷코리아]인공지능(AI) 서비스 이용이 아동·청소년의 인지적 의존을 심화하고 사회정서적 발달에 부정적인 영향을 미칠 수 있다는 우려가 제기됐다. 전문가들은 ‘설계’에 초점을 맞춰 규제를 만들어야 한다고 강조하며, 디자인과 기능으로 넘어갈 때 시스템적 규제가 담겨야 한다는 의견을 내놓았다. 서울대학교 언론정보 연구소, 이주희·이훈기 더불어민주당, 조경태 국민의힘 의원실 등은 25일 서울 관악구 서울대학교에서 ‘AI서비스와 아동·청소년 보호’를 주제로 세미나를 개최했다. 한국청소년정책연구원, 초록우산에 따르면 국내 아동·청소년의 AI 사용률은 2023년 52.1%에서 올해 94.4%로 대폭 늘었다. 올해 기준 생성형 AI 챗봇 사용 현황은 주 1~2회가 31.4%로 가장 높았고, 주 3~4회(27.9%)·그보다 드물게(21.4%)·거의 매일(19.3%)이 뒤를 이었다.AI 사용 빈도가 늘면서 ‘AI에 의존적’이라고 답변한 비율은 전체 연령대 중 청소년이 가장 높은 것으로 조사됐다…",
+        "category_score": 88,
+        "score_reason": "AI 과의존 및 안전성에 대한 논의는 향후 '책임 있는 AI' 설계가 기업의 브랜드 이미지와 플랫폼 규제 대응에 필수 요소가 될 것임을 시사함.",
+        "keywords": [
+          "AI",
+          "소비자 안전",
+          "디자인 규제"
+        ],
+        "planning_insight": "AI 서비스 기획 단계에서부터 윤리적 설계와 사용자 보호 기능을 포함하는 것이 브랜드 신뢰도 구축의 차별점이 될 것임."
+      }
+    ],
+    "tech_blog": [
+      {
+        "rank": 1,
+        "id": "a56720ed9204225b7b55ffb9dbd8f8266e704fa6ea23420a604f16c6e64d49a0",
+        "title": "운영자의 시간을 아끼는 AI 에이전트 2부 - MCP 부터 Agent 설계까지",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5073599",
+        "published_at": "2026-11-25T16:01:41+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 운영 문의가 들어오면 운영자는 로그와 메트릭, 과거 사례를 직접 살펴보고 답변해야 합니다. 업무 시간 밖에 들어온 문의는 첫 답변을 받기까지 약 13시간이 걸리기도 했습니다. 이 발표에서는 OpenSearch 운영 문의에 운영자보다 먼저 답변하는 AI 에이전트, care-ai를 만들면서 겪은 시행착오를 소개합니다. 그 과정에서 얻은 설계 원칙과 개선 효과를 실제 사례와 수치로 공유합니다. ​ <참고> 운영자의 시간을 아끼는 AI 에이전트 1부 - RCA·Q&A 운영 지식 그래프 ​ 발표 대상 LLM 에이전트를 운영 업무에 적용하려는 분 MCP 서버와 도구를 설계하는 분 에이전트 답변의 정확도와 신뢰성을 높이고 싶은 분 ​ 목차 Episode 1. 처음 만든 에이전트 필요한 정보가 모두 있었는데도, 에이전트는 왜 원인을 확정하지 못했을까요? Episode…",
+        "category_score": 98,
+        "score_reason": "운영 효율화를 위한 AI 에이전트 설계 원칙과 실제 수치를 통한 개선 효과를 제시하여 실무적 적용 가치가 매우 높음.",
+        "keywords": [
+          "AI 에이전트",
+          "운영 자동화",
+          "서비스 설계"
+        ],
+        "planning_insight": "기술 도입이 운영 비용 절감과 고객 경험 개선(응답 속도 향상)으로 이어지는 로직을 설계하는 데 핵심적인 가이드라인 제공."
+      },
+      {
+        "rank": 2,
+        "id": "c2a63ac57a3ff1edca4461a22744c3d5d202f47e61ad9528f74dd5b7e7cacab3",
+        "title": "OmniEvaluator: AI 모델과 에이전트를 위한 통합 평가 프레임워크",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/4331341",
+        "published_at": "2026-11-25T13:38:18+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 AI 서비스를 만들 때 \"이 모델, 우리 서비스에 써도 될까?\"라는 질문은 도입 전(후보 모델·API·툴 조합 비교)과 도입 후(의도대로 서빙되는지, 패치·버전별 차이) 반복해서 돌아옵니다. 그런데 이 질문에 답하는 비용은 큽니다. 모달리티마다 평가 툴킷이 다르고, 같은 벤치마크라도 프롬프트·파서·메트릭 구현에 따라 점수가 수십 점씩 갈라지며, 결과는 사람 손으로 모아야 합니다. ​ OmniEvaluator는 이 문제를 구조적으로 푸는 통합 평가 프레임워크입니다. 추론 엔진 4종(HF Transformers·vLLM·SGLang·상용 API)과 평가 프레임워크 4종(lm-eval-harness·lmms-eval·VLMEvalKit·built-in)을 하나의 중간 스키마로 연결해 텍스트·이미지·비디오·오디오 1,000개 이상의 벤치마크를 하나의 인터페이스로…",
+        "category_score": 95,
+        "score_reason": "AI 모델 도입 시 발생하는 정량적/정성적 평가 이슈를 구조적 프레임워크로 해결하여 서비스 신뢰도 관리를 위한 모델링을 보여줌.",
+        "keywords": [
+          "AI 평가",
+          "프레임워크",
+          "품질 관리"
+        ],
+        "planning_insight": "모델의 성능을 단순히 기술적으로 접근하지 않고, 서비스 도입 전후의 의사결정 체계로 구조화하는 인사이트 제시."
+      },
+      {
+        "rank": 3,
+        "id": "62f6846d3a82361ec332bbc3e9f1787efa41c2c60962aef278601b2e7f53002d",
+        "title": "운영자의 시간을 아끼는 AI 에이전트 1부 - RCA·Q&A 운영 지식그래프",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/6934862",
+        "published_at": "2026-11-25T15:35:15+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 운영 문의에 명확한 답변을 남겨도 이슈가 닫히면 묻히기 쉽습니다. 같은 원인으로 문의가 다시 들어오면 운영자는 처음부터 다시 조사해야 했습니다. 이 발표에서는 n3r 운영 이슈에서 LLM으로 RCA(근본 원인 분석)와 Q&A를 추출해 Neo4j 지식 그래프에 쌓고, Care AI 에이전트가 이를 찾아 답변에 활용하도록 만든 과정을 소개합니다. \"OpenSearch 업그레이드가 멈췄어요\"라는 실제 문의를 따라가며, 대화를 그래프로 바꾸기 위한 프롬프트와 추출 결과를 검증하는 방법을 설명합니다. 증상뿐 아니라 원인도 같은 사례를 찾기 위해 적용한 하이브리드 검색과 LLM 리랭킹, 클러스터 상태 정보의 활용 방식도 함께 다룹니다. ​ <참고> 영상속 사내용어 n3r = 네이버 사내 쿠버네티스 기반 컨테이너 플랫폼 ​ 발표 대상 AI 에이전트로 반복되는 운영…",
+        "category_score": 92,
+        "score_reason": "운영 데이터를 지식그래프로 구조화하여 LLM이 답변의 정확성을 높이는 실무 사례로서, 고도화된 데이터 활용 전략을 공유.",
+        "keywords": [
+          "지식그래프",
+          "LLM",
+          "RCA"
+        ],
+        "planning_insight": "비정형 데이터(문의사항)를 정형화하여 서비스의 자산으로 전환하는 운영 데이터 전략의 정석."
+      },
+      {
+        "rank": 4,
+        "id": "ddff2e5a4781e2be08d85c3deff553673f5a3590dfbb8ebd9c76e2dd822304c6",
+        "title": "디자인 시스템이 있는데도 화면은 왜 제각각일까?",
+        "source": "토스 기술블로그",
+        "group": "tech_blog",
+        "category": "product_tech",
+        "url": "https://toss.tech/article/loan_review",
+        "published_at": "2026-11-25T17:06:00+09:00",
+        "summary": "복잡한 업무 툴의 화면이 제각각이 된 이유를 찾고, 일관성을 만들어 간 과정을 소개합니다.",
+        "category_score": 88,
+        "score_reason": "디자인 시스템을 운영함에도 발생하는 UX 파편화 문제를 제품 운영 측면에서 분석하여 실질적인 UX 전략 수립에 기여.",
+        "keywords": [
+          "UX",
+          "디자인 시스템",
+          "운영 전략"
+        ],
+        "planning_insight": "규격화된 도구(시스템)가 실제 현장에서 어떻게 파편화되는지 진단하고 이를 해결하는 운영 거버넌스 인사이트."
+      },
+      {
+        "rank": 5,
+        "id": "8ab887b80c690043d2a5dba67757b00cdac96ebec361135d8843201b88fe663d",
+        "title": "AI가 만든 결과를 그대로 믿고 계신가요?",
+        "source": "네이버 D2",
+        "group": "tech_blog",
+        "category": "search_ai",
+        "url": "https://d2.naver.com/helloworld/5512498",
+        "published_at": "2026-11-25T14:19:42+09:00",
+        "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 테스트는 전부 통과했는데 실제로는 결함이 남아 있던 경험에서 출발해, AI의 자기 보고를 기계가 반증하게 만든 세 가지 방법(돌연변이 테스팅, 훅, 에이전트 팀)을 공유합니다. ​ 발표 대상 AI가 만든 코드와 테스트를 검증하는 방법에 관심 있는 분 여러 AI 에이전트를 활용한 개발·리뷰에 관심 있는 분 ​ 목차 AI가 만든 결과를 어떻게 확인하는가 구현이 아니라 검증이 병목이 된 이유 확인이 막히는 세 곳 1층 테스트의 문제: AI가 짠 테스트를 믿을 수 있는가 통과에는 두 가지가 있다 AI가 받은 목표와 우리가 원한 목표 한 줄을 지워 보는 방법과 그 결과 2층 규칙 준수의 문제: 규칙을 적으면 AI가 지키는가 문서에 적어 두었는데 그 순간에 건너뛴다 문서는 부탁이고 훅은 강제다 3층 자기검증의 문제: AI가 AI를 검증할 수 있는가 저자와 검증자…",
+        "category_score": 85,
+        "score_reason": "AI 생산성 도구의 결과물을 검증하는 프로세스 설계는 향후 AI 기반 서비스 운영 안정성을 확보하는 필수적 전략임.",
+        "keywords": [
+          "AI 검증",
+          "신뢰성",
+          "에이전트 팀"
+        ],
+        "planning_insight": "구현보다 검증이 병목이 되는 상황을 정의하고, 기계적 반증 체계를 구축하여 AI 서비스 신뢰도를 확보하는 전략."
+      }
+    ],
+    "ai_data": [
+      {
+        "rank": 1,
+        "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "published_at": "2026-11-26T09:00:00+09:00",
+        "summary": "",
+        "category_score": 98,
+        "score_reason": "멀티 에이전트 시스템(MAS) 구축 및 평가 방법론을 다루어, 자동화 워크플로우 설계의 핵심 실무 지침을 제공함.",
+        "keywords": [
+          "AI 에이전트",
+          "워크플로우 자동화",
+          "시스템 설계"
+        ],
+        "planning_insight": "단일 모델을 넘어 협업하는 에이전트 그룹을 기획하고 운영하는 체계적인 가이드라인 확보 가능."
+      },
+      {
+        "rank": 2,
+        "id": "cd2ce06fa5016022a03d7e4e5933d4d40106fffba42bd6020770b04b3a6894de",
+        "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.31258",
+        "published_at": "2026-11-25T14:00:00+09:00",
+        "summary": "arXiv:2611.31258v1 Announce Type: new Abstract: Context compaction enables large language model agents to tackle long-horizon tasks within limited context budgets by replacing interaction histories with compressed summaries. However, learning effective compaction jointly with the agent policy remains challenging, as summaries affect task success over many subsequent interactions. We introduce RECAP, a reinforcement learning (RL) framework based on the principle that a summary should preserve th…",
+        "category_score": 95,
+        "score_reason": "LLM 에이전트의 컨텍스트 관리 효율성을 최적화하는 'Context Compaction' 기술로, 대규모 프로젝트 실행 시 성능과 비용 절감에 직접적임.",
+        "keywords": [
+          "LLM",
+          "에이전트",
+          "최적화"
+        ],
+        "planning_insight": "긴 대화 히스토리를 효율적으로 요약·압축하여 에이전트의 메모리 부담을 줄이고 정확한 태스크 수행을 보장하는 기획적 접근이 필요함."
+      },
+      {
+        "rank": 3,
+        "id": "862eeffb4f1e23a13b38937c09387404f6ac8602e705a9a294882cefb7e3565d",
+        "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.33174",
+        "published_at": "2026-11-26T14:00:00+09:00",
+        "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a step that is (a) costly (thousands of generative calls per build), (b) non-deterministic (undermining reproducibility and giving inconsistent answers across runs), and (c) provenance-…",
+        "category_score": 92,
+        "score_reason": "장기 기억(Long-horizon memory) 모델의 효율적인 인덱싱 및 프레임워크를 제안하여 사용자 맞춤형 추천/콘텐츠 분석의 고도화 가능.",
+        "keywords": [
+          "LLM",
+          "메모리",
+          "에이전트"
+        ],
+        "planning_insight": "반복적인 LLM 호출 없이도 과거 인터랙션을 정확히 참조하는 아키텍처를 도입하여 비용 효율적인 개인화 서비스 구현 가능."
+      },
+      {
+        "rank": 4,
+        "id": "dd293dd45003b49c392b09abe2e19e1c9c03a8246fa2104bd5ffcbcd01db7af2",
+        "title": "DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.31252",
+        "published_at": "2026-11-25T14:00:00+09:00",
+        "summary": "arXiv:2611.31252v1 Announce Type: new Abstract: Estimating the quality of generative AI workflows is challenging because these workflows comprise multiple stages, and errors can propagate across them, making end-to-end performance depend not only on the accuracy of individual models but also on how their outputs affect downstream stages. Each stage can use one of many candidate models. Estimating end-to-end workflow quality by deploying and evaluating every resulting model configuration is ther…",
+        "category_score": 90,
+        "score_reason": "멀티 스테이지 생성 AI 워크플로우의 품질을 추정하는 'Deployment-Free' 프레임워크로, 자동화 시스템의 신뢰성 검증에 필수적임.",
+        "keywords": [
+          "생성 AI",
+          "워크플로우",
+          "품질 관리"
+        ],
+        "planning_insight": "복잡한 에이전트 체인에서 어느 단계에서 오류가 발생하는지 예측 가능하게 함으로써 안정적인 자동화 프로덕트 설계가 가능함."
+      },
+      {
+        "rank": 5,
+        "id": "fe9e45b9ef43d790c89d8a3284c55c4400d021d8beed85e93575b44046ef272f",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "source": "Hugging Face Blog",
+        "group": "ai_data",
+        "category": "open_source_ai",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "published_at": "2026-11-26T14:05:36+09:00",
+        "summary": "",
+        "category_score": 88,
+        "score_reason": "오픈 데이터와 파인튜닝을 활용한 추론 최적화 기법을 제시하여, 도메인 특화형 모델 배포 시 기획자가 고려해야 할 기술적 제약과 기회를 제공.",
+        "keywords": [
+          "오픈소스",
+          "파인튜닝",
+          "최적화"
+        ],
+        "planning_insight": "모델의 성능과 속도 사이의 균형을 맞추어 실제 서비스 사용자 경험(UX)을 개선하는 최적화 전략 수립의 단초가 됨."
+      }
+    ]
+  },
+  "integrated_top5": [
+    {
+      "rank": 1,
+      "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "source": "Hugging Face Blog",
+      "group": "ai_data",
+      "category": "open_source_ai",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published_at": "2026-11-26T09:00:00+09:00",
+      "summary": "",
+      "category_score": 98,
+      "score_reason": "멀티 에이전트 시스템(MAS) 구축 및 평가 방법론을 다루어, 자동화 워크플로우 설계의 핵심 실무 지침을 제공함.",
+      "keywords": [
+        "AI 에이전트",
+        "멀티 에이전트 시스템",
+        "워크플로우 자동화"
+      ],
+      "planning_insight": "단일 업무 자동화가 아닌 복합 태스크를 수행하는 에이전트 그룹 기획 및 운영 전략 수립에 필수적인 표준 지침으로 활용 가능.",
+      "integrated_score": 98,
+      "criteria_scores": {
+        "content_strategy": 25,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 25,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "멀티 에이전트 시스템(MAS)의 구축, 학습, 평가를 위한 실무적 가이드라인",
+      "importance_reason": "단일 AI 모델을 넘어 여러 에이전트가 협업하는 시스템은 차세대 자동화의 핵심임. 실무자에게 즉각적인 설계 원칙을 제공."
+    },
+    {
+      "rank": 2,
+      "id": "a56720ed9204225b7b55ffb9dbd8f8266e704fa6ea23420a604f16c6e64d49a0",
+      "title": "운영자의 시간을 아끼는 AI 에이전트 2부 - MCP 부터 Agent 설계까지",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/5073599",
+      "published_at": "2026-11-25T16:01:41+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 운영 문의가 들어오면 운영자는 로그와 메트릭, 과거 사례를 직접 살펴보고 답변해야 합니다. 업무 시간 밖에 들어온 문의는 첫 답변을 받기까지 약 13시간이 걸리기도 했습니다. 이 발표에서는 OpenSearch 운영 문의에 운영자보다 먼저 답변하는 AI 에이전트, care-ai를 만들면서 겪은 시행착오를 소개합니다. 그 과정에서 얻은 설계 원칙과 개선 효과를 실제 사례와 수치로 공유합니다. ​ <참고> 운영자의 시간을 아끼는 AI 에이전트 1부 - RCA·Q&A 운영 지식 그래프 ​ 발표 대상 LLM 에이전트를 운영 업무에 적용하려는 분 MCP 서버와 도구를 설계하는 분 에이전트 답변의 정확도와 신뢰성을 높이고 싶은 분 ​ 목차 Episode 1. 처음 만든 에이전트 필요한 정보가 모두 있었는데도, 에이전트는 왜 원인을 확정하지 못했을까요? Episode…",
+      "category_score": 98,
+      "score_reason": "운영 효율화를 위한 AI 에이전트 설계 원칙과 실제 수치를 통한 개선 효과를 제시하여 실무적 적용 가치가 매우 높음.",
+      "keywords": [
+        "AI 에이전트",
+        "운영 자동화",
+        "실무 적용"
+      ],
+      "planning_insight": "기술 도입이 고객 응답 속도와 비용 절감으로 이어지는 연결 고리를 시각화하여 내부 의사결정 설득 자료로 활용 가능.",
+      "integrated_score": 96,
+      "criteria_scores": {
+        "content_strategy": 24,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 24
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "운영 문의를 해결하는 AI 에이전트 설계 및 도입 과정의 실무 시행착오와 수치적 개선 효과",
+      "importance_reason": "단순 기술 소개가 아닌 사내 운영 효율화라는 명확한 비즈니스 목표를 달성한 구체적 사례."
+    },
+    {
+      "rank": 3,
+      "id": "c2a63ac57a3ff1edca4461a22744c3d5d202f47e61ad9528f74dd5b7e7cacab3",
+      "title": "OmniEvaluator: AI 모델과 에이전트를 위한 통합 평가 프레임워크",
+      "source": "네이버 D2",
+      "group": "tech_blog",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/4331341",
+      "published_at": "2026-11-25T13:38:18+09:00",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 AI 서비스를 만들 때 \"이 모델, 우리 서비스에 써도 될까?\"라는 질문은 도입 전(후보 모델·API·툴 조합 비교)과 도입 후(의도대로 서빙되는지, 패치·버전별 차이) 반복해서 돌아옵니다. 그런데 이 질문에 답하는 비용은 큽니다. 모달리티마다 평가 툴킷이 다르고, 같은 벤치마크라도 프롬프트·파서·메트릭 구현에 따라 점수가 수십 점씩 갈라지며, 결과는 사람 손으로 모아야 합니다. ​ OmniEvaluator는 이 문제를 구조적으로 푸는 통합 평가 프레임워크입니다. 추론 엔진 4종(HF Transformers·vLLM·SGLang·상용 API)과 평가 프레임워크 4종(lm-eval-harness·lmms-eval·VLMEvalKit·built-in)을 하나의 중간 스키마로 연결해 텍스트·이미지·비디오·오디오 1,000개 이상의 벤치마크를 하나의 인터페이스로…",
+      "category_score": 95,
+      "score_reason": "AI 모델 도입 시 발생하는 정량적/정성적 평가 이슈를 구조적 프레임워크로 해결하여 서비스 신뢰도 관리를 위한 모델링을 보여줌.",
+      "keywords": [
+        "AI 모델 평가",
+        "품질 관리",
+        "프레임워크"
+      ],
+      "planning_insight": "서비스 기획 단계에서 다양한 모델을 교차 검증하고 품질을 관리하는 표준화된 모델링 프로세스로 활용.",
+      "integrated_score": 94,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 24,
+        "ai_data_relevance": 24,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성"
+      ],
+      "one_line_summary": "AI 서비스 도입 시 모델·툴 조합을 구조적으로 비교·평가하는 통합 프레임워크",
+      "importance_reason": "AI 모델 선택의 불확실성을 정량적 프레임워크로 해소하여 기업의 리스크를 줄이는 의사결정 도구."
+    },
+    {
+      "rank": 4,
+      "id": "808742f0eb4d752da8b4174e5b0ab13dc01ce9fa9562ae3244525ff62ad26ef7",
+      "title": "개보위, 데이터 이익 공유제 논의...5차 미래포럼 개최",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261126214606",
+      "published_at": "2026-11-26T21:46:06+09:00",
+      "summary": "[지디넷코리아]개인정보보호위원회(개인정보위)가 26일 제5차 '2026 개인정보 미래포럼' 전체회의를 개최했다. '미래포럼'은 각계 전문가들이 개인정보 분야 중요 아젠다를 선제적으로 논의하고 현장의 의견을 수렴하는 ‘개인정보 정책 토론의 장이다. 학계·법조계·산업계·시민사회 등의 전문가 40명으로 구성됐다.올해 다섯 번째 열린 이번 미래포럼에서는 '인공지능 시대 개인정보 제도 혁신 방안'과 '데이터 이익공유제 구상안'을 주제로 논의를 진행했다.첫 번째 발제를 맡은 최윤정 개인정보위 개인정보보호정책과장은 생성형 인공지능(AI)과 인공지능 에이전트 등의 확산으로 개인정보 처리 환경이 근본적으로 달라지고 있는 만큼, 형식적인 사전 동의 중심의 현행 체계를 위험에 비례하는 실질적 보호 체계로 전환할 필요가 있다고 설명했다.아울러 지난 8월 국민제안과 ‘모두의 토론회’ 등을 통해 수렴한 국민 의견을 바탕으로 마련 중인 개인정보 제도 혁신 방향을 소개했다.다음 발제자로 나선 한국전자통신연구원…",
+      "category_score": 98,
+      "score_reason": "AI 기술 확산에 따른 데이터 이익 공유제 및 개인정보 제도 혁신은 향후 플랫폼과 데이터 경제의 핵심 근간을 바꾸는 거대 트렌드임.",
+      "keywords": [
+        "AI 정책",
+        "데이터 경제",
+        "보상 체계"
+      ],
+      "planning_insight": "향후 AI 모델 학습에 활용되는 콘텐츠의 권리 관계와 보상 비즈니스 모델을 선제적으로 기획하기 위한 핵심 변수.",
+      "integrated_score": 93,
+      "criteria_scores": {
+        "content_strategy": 22,
+        "trend_signal_timeliness": 25,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "인공지능 시대의 데이터 이익 공유제 및 개인정보 제도 혁신 논의",
+      "importance_reason": "콘텐츠 산업의 비즈니스 모델(학습 데이터 보상)을 근본적으로 변화시킬 핵심 정책적 흐름."
+    },
+    {
+      "rank": 5,
+      "id": "acef9a945e964820b50730bf0e6fe1443d60cfb51a6beb816061ae64f7ca280c",
+      "title": "브랜드 추천부터 예상 순익까지…한국신용데이터, AI로 예비 창업자 돕는다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261126122412",
+      "published_at": "2026-11-26T12:24:12+09:00",
+      "summary": "[지디넷코리아]예비 창업자에게 프랜차이즈 브랜드와 지역을 추천해주고 비용과 예상매출 등을 분석해주는 인공지능(AI) 서비스가 나왔다.한국신용데이터(KCD)는 프랜차이즈 예비 창업자를 위한 ‘창업 시뮬레이터’를 출시했다고 26일 밝혔다.캐시노트 서비스에 원하는 상권, 업종, 예산을 입력하면 약 300개 상권, 2000개 브랜드 중 조건에 맞는 프랜차이즈 브랜드를 추천한다. 또 6개 기준으로 분석한 종합 리포트도 제공한다. 전 과정에 AI를 활용해 개발착수 4주 만에 선보였다는 것이 회사 측 설명이다.상권별 평균 임대료를 참고해 창업할 지역을 선택하고 ▲투입 예산 ▲운영 가능 시간 ▲투자금 회수 목표 등을 입력하면 최대 5개 브랜드를 적합도 점수 기반으로 추천한다.추천 브랜드 중 2~3곳을 골라 창업 비용 등 조건도 비교할 수 있다. 브랜드를 최종 선택하면 ▲수익성 ▲성장성 ▲안정성 ▲지원체계 ▲브랜드력 ▲초기비용 등 6개 기준으로 평가한 상세 리포트를 볼 수 있다. 예상 월 순이익,…",
+      "category_score": 92,
+      "score_reason": "데이터 분석 기반의 창업 시뮬레이터는 소비자 행동 데이터가 어떻게 의사결정 지원 도구로 상품화되는지 보여주는 명확한 사례임.",
+      "keywords": [
+        "데이터 기반 추천",
+        "플랫폼 전략",
+        "B2B SaaS"
+      ],
+      "planning_insight": "데이터를 활용해 사용자 여정의 불확실성을 낮추는 맞춤형 추천 플랫폼 기획의 좋은 사례.",
+      "integrated_score": 91,
+      "criteria_scores": {
+        "content_strategy": 23,
+        "trend_signal_timeliness": 22,
+        "ai_data_relevance": 23,
+        "market_consumer_impact": 23
+      },
+      "applied_criteria": [
+        "콘텐츠 전략 활용성",
+        "AI·데이터 관련성",
+        "시장·소비자 영향력"
+      ],
+      "one_line_summary": "프랜차이즈 창업자를 위한 AI 데이터 분석 기반 시뮬레이터 출시",
+      "importance_reason": "소비자 데이터(상권, 예산 등)를 서비스화하여 의사결정을 돕는 구체적인 AI 솔루션 모델 제시."
+    }
+  ],
+  "hot_keywords": [
+    {
+      "keyword": "AI",
+      "count": 69,
+      "groups": [
+        "ai_data",
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "BBC Technology",
+        "Hugging Face Blog",
+        "NYT Technology",
+        "ZDNet Korea",
+        "arXiv cs.CL"
+      ]
+    },
+    {
+      "keyword": "플랫폼",
+      "count": 16,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "분석",
+      "count": 15,
+      "groups": [
+        "news",
+        "tech_blog"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "네이버 D2",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "데이터",
+      "count": 14,
+      "groups": [
+        "news"
+      ],
+      "sources": [
+        "ZDNet Korea",
+        "매일경제 기업"
+      ]
+    },
+    {
+      "keyword": "model",
+      "count": 14,
+      "groups": [
+        "ai_data"
+      ],
+      "sources": [
+        "arXiv cs.CL"
+      ]
+    }
+  ],
+  "overall_summary": [
+    "AI 에이전트 도입과 멀티 에이전트 시스템(MAS)으로의 전환이 실무 현장의 자동화 및 운영 효율화 핵심으로 급부상 중입니다.",
+    "기술의 성숙도가 높아짐에 따라 '구현'보다는 시스템의 안정성, 품질 관리, 평가 프레임워크 구축이 기업 경쟁력의 우위를 결정짓는 단계로 진입했습니다.",
+    "데이터 권리 및 보상 체계와 같은 정책적 논의가 고도화되고 있어, 향후 데이터 기반 비즈니스 모델 기획 시 규제 리스크와 보상 구조에 대한 선제적 고려가 필수적입니다."
+  ],
+  "method": "gemini",
+  "fallback_used": false,
+  "gemini_call_count": 4,
+  "category_methods": {
+    "news": "gemini",
+    "tech_blog": "gemini",
+    "ai_data": "gemini"
+  }
+}
