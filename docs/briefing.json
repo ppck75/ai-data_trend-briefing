@@ -1,140 +1,114 @@
 {
   "briefing_date": "2026-11-28",
-  "generated_at": "2026-11-28T13:07:54.089508+09:00",
+  "generated_at": "2026-11-28T21:09:54.702122+09:00",
   "source_total": 200,
   "category_counts": {
-    "news": 183,
-    "tech_blog": 2,
-    "ai_data": 15
+    "news": 186,
+    "tech_blog": 1,
+    "ai_data": 13
   },
   "category_top5": {
     "news": [
       {
         "rank": 1,
-        "id": "03306dc0cf27efc76582dd0b1fddc73cb215b9f0bf42859adb2ea4ff731ca8bd",
-        "title": "지마켓, 내년 초 '뷰티 전용 홈' 신설",
+        "id": "da9af099237f6f336c4f5bde03046b68767190c74d853ad945e78088b5aa7126",
+        "title": "지마켓, 뷰티 시장 출사표...\"글로벌 네트워크 찬스 쓴다\"",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261126102619",
-        "published_at": "2026-11-26T10:52:06+09:00",
-        "summary": "[지디넷코리아]지마켓은 상품 탐색부터 브랜드별 특화 서비스 및 콘텐츠 커머스, 인공지능(AI) 기반 개인화 추천까지 한데 모은 뷰티 전용 홈을 내년 초 새롭게 선보인다고 26일 밝혔다.지마켓은 이날 서울 성수동 본사에서 화장품 업계 관계자 200여명을 초청해 '2026 뷰티 컨퍼런스'를 열고 내년도 사업 방향을 소개한다. ▲LG생활건강 ▲구다이글로벌 ▲디오디너리 ▲애경 ▲토리든 등이 초청 대상에 포함됐다.내년 1분기 출시를 목표로 개발 중인 뷰티 전문관은 지마켓 앱에 마련된다. 이용자의 ▲피부 고민 ▲평소 화장품 구매 습관 ▲시즌별 유행 등을 반영한 상품을 제안한다. ▲개별 브랜드를 소개하는 공간 ▲실시간 판매 방송 ▲짧은 영상 콘텐츠도 제공할 방침이다.해외 판로 확대 방안도 이번 컨퍼런스에서 다룬다. 동남아시아 전자상거래 업체 라자다 측이 연사로 나서며 지마켓 글로벌사업 담당자는 국내 뷰티 상품의 역직구 전략을 설명한다.지마켓은 라자다뿐만 아니라 알리바바 인터내셔널을 통해 해외…",
-        "category_score": 62,
-        "score_reason": "AI, 커머스, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261127165429",
+        "published_at": "2026-11-28T08:00:04+09:00",
+        "summary": "[지디넷코리아]지마켓이 컬리와 SSG닷컴에 이어 내년 초 뷰티 전문관을 신설하며 뷰티 시장에 출사표를 던질 예정이다. 후발주자인 만큼 모회사가 가진 글로벌 네트워크를 활용해 해외 소비자를 공략한다는 계획이다. 28일 이커머스업계에 따르면 지마켓은 내년 1분기를 목표로 뷰티 전문 쇼핑 공간 ‘뷰티 홈(가칭)’을 구축하기 위해 준비 중이다. 회사는 뷰티 홈에 피부 고민·계절에 따른 뷰티 트렌드 및 구매 루틴을 고려한 다양한 상품을 소개하는 코너와 뷰티 브랜드 전문관을 담을 예정이다.여기에 라이브방송과 숏폼 콘텐츠, 인공지능(AI)을 활용한 개인화 뷰티 상품 추천 등도 함께 선보일 방침이다.업계 내에서도 뷰티 제품의 마진율은 30%에 달할 정도로 ‘효자’ 상품으로 꼽힌다. 마진율이 높은 뷰티 상품을 집중 육성해 실적 반등을 위한 발판으로 삼을 것으로 보인다.지마켓의 연간 매출은 2024년 9612억원에서 지난해 7405억원으로 22.96% 하락했고, 같은 기간 영업손실도 674억원에서…",
+        "category_score": 98,
+        "score_reason": "플랫폼, AI 개인화 추천, 라이브커머스 결합 등 향후 이커머스 트렌드를 관통하는 핵심 변화를 담고 있으며, 정보의 완결성이 높음.",
         "keywords": [
+          "플랫폼",
           "AI",
           "커머스",
-          "브랜드",
-          "개인화",
-          "추천"
+          "개인화"
         ],
-        "planning_insight": "이 항목은 AI, 커머스, 브랜드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 기반 초개인화 뷰티 큐레이션은 향후 모든 버티컬 커머스의 표준 모델이 될 것임. 데이터 기반 상품 추천과 라이브 방송의 결합이 어떻게 고객 체류 시간을 극대화하는지 분석하여 콘텐츠 전략 수립 필요."
       },
       {
         "rank": 2,
-        "id": "c27f002490864c6b54a8aa19df18f3eb4a53ecb318fd933271207a17fbfc5291",
-        "title": "계명대 창업기업 미오플래닛, 뷰티 소상공인 겨냥한 AI 광고 플랫폼 개발",
-        "source": "매일경제 기업",
+        "id": "5d508f68b5a5847a8961db848154042681f2cee323b1c1019feac8f8f962dcf9",
+        "title": "라방 보는 4050…라이브커머스 큰손 됐다",
+        "source": "ZDNet Korea",
         "group": "news",
-        "category": "business",
-        "url": "https://www.mk.co.kr/news/business/12219168",
-        "published_at": "2026-11-26T11:12:14+09:00",
-        "summary": "식약처 기준 반영한 규제 DB 94건 구축 광고 제작부터 규제 검수까지 한 번에 뷰티 커머스·자체 화장품 브랜드로 확장 ‘모두의 창업’ 지역 오디션 통과, 권역 오디션 앞둬계명대 ..",
-        "category_score": 61,
-        "score_reason": "AI, 광고, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "category": "tech_news",
+        "url": "https://zdnet.co.kr/view/?no=20261126193320",
+        "published_at": "2026-11-28T08:00:03+09:00",
+        "summary": "[지디넷코리아]상품을 사기 위해 라이브커머스 방송을 켰던 4050세대가 이제는 좋아하는 진행자의 방송을 챙겨보고 소통하는 재미에 지갑을 열고 있다. 실시간으로 상품 정보를 확인하는 편리함에 콘텐츠를 즐기는 재미까지 더해지면서 라이브커머스의 주요 소비층으로 자리 잡고 있다.이커머스 플랫폼과 홈쇼핑 기업들도 중장년층 고객을 확보하기 위해 상품 판매 중심의 방송에서 벗어나 토크형 콘텐츠와 진행자 팬덤을 활용한 모바일 라이브 방송을 확대하고 있다.커머스 크리에이터 플랫폼 그립이 최근 발표한 '2026 라이브커머스 트렌드 리포트'에 따르면 올해 1~9월 라이브 방송 시청자 중 40대가 31.0%로 가장 많았으며 50대가 29.4%로 뒤를 이었다.구매 비중 역시 40대가 43.9%, 50대가 19.8%로 전체의 63.7%를 차지했다. 60대 이상 구매 고객 비중도 5.5%로 전년 동기 대비 2배 이상 늘었다.라이브커머스는 상품을 직접 시연하고 실시간으로 질문에 답한다는 점에서 기존 온라인 쇼…",
+        "category_score": 95,
+        "score_reason": "4050 세대의 라이브커머스 소비 패턴 변화는 마케팅 타겟팅의 근본적 이동을 시사하며, 단순 연령대를 넘어선 콘텐츠 전략의 방향성을 제시함.",
         "keywords": [
-          "AI",
-          "광고",
           "커머스",
-          "플랫폼",
-          "브랜드"
+          "소비자 행동",
+          "트렌드"
         ],
-        "planning_insight": "이 항목은 AI, 광고, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "구매 목적형 커머스에서 콘텐츠 향유형 커머스로의 전환에 주목. 중장년층을 위한 토크형 콘텐츠 및 크리에이터 팬덤 비즈니스 모델로의 확장 전략이 유효함."
       },
       {
         "rank": 3,
-        "id": "b55a47d5ebfc5d3e60a2e40f80b36301817388c4c39a8c9d6495a6b6cac137e3",
-        "title": "\"청소년 SNS 일률적 차단은 위헌 소지…플랫폼이 먼저 책임 강화해야\"",
-        "source": "ZDNet Korea",
+        "id": "bc8d6ee0470a75ace12b92d998df73ddf3b2332284ee045a5aa59f90795e9cba",
+        "title": "“우리 김대리는 누구보다 앞장설 줄 알았는데”…20대 직장인들의 은밀한 반란, 표적은 ‘AI’",
+        "source": "매일경제 기업",
         "group": "news",
-        "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261126180442",
-        "published_at": "2026-11-26T18:37:38+09:00",
-        "summary": "[지디넷코리아]일률적인 청소년 가입 제한이 청소년의 기본권을 침해할 수 있다는 지적이 나왔다. 청소년의 SNS 접근 자체를 차단하기보다 과몰입을 유발하는 플랫폼의 서비스 설계를 개선하고 국가와 플랫폼의 책임을 강화해야 한다는 주장이다.한국법정책학회는 26일 서울 여의도 FKI타워 컨퍼런스센터에서 ‘디지털 일상화 시대, 함께 가는 청소년 디지털 환경을 위한 정책 방안 모색’을 주제로 특별 세미나를 개최했다.이부하 영남대학교 법학전문대학원 교수는 청소년 역시 헌법상 기본권의 주체인 만큼 청소년 보호를 명분으로 표현의 자유와 알 권리, 자기결정권 등을 과도하게 제한해서는 안 된다고 강조했다.이 교수는 \"청소년의 건강권 보호와 유해 콘텐츠 노출 방지라는 입법 목적의 정당성은 인정하면서도 일률적인 SNS 이용 제한은 헌법상 과잉금지원칙에 위배될 소지가 있다\"고 판단했다. 이용시간 관리 기능이나 추천 알고리즘 비활성화 등 기본권을 덜 침해하는 대안이 존재한다는 이유에서다.그는 가입 제한을 위…",
-        "category_score": 59,
-        "score_reason": "플랫폼, 추천, 알고리즘 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "category": "business",
+        "url": "https://www.mk.co.kr/news/it/12220622",
+        "published_at": "2026-11-28T07:53:41+09:00",
+        "summary": "가트너, 기업 ‘AI 사보타주’ 경고 직원 29% AI 도입 방해 경험 AI에 익숙한 Z세대가 ‘절반’ 육박#중견기업 영업관리팀에서 근무하는 김과장. 최근 회사가 매출 분석부터 실..",
+        "category_score": 92,
+        "score_reason": "기업의 AI 도입에 따른 내부 조직 문화와 'AI 사보타주'라는 반발 심리는 AI 도입 시 반드시 고려해야 할 사회적/심리적 변수를 트렌드화 함.",
         "keywords": [
-          "플랫폼",
-          "추천",
-          "알고리즘",
-          "콘텐츠"
+          "AI",
+          "조직문화",
+          "소비자 변화"
         ],
-        "planning_insight": "이 항목은 플랫폼, 추천, 알고리즘 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "AI 도입은 기술적 완성도보다 조직원과의 합의와 역할 재정의가 핵심임. 'AI 사보타주'를 완화할 수 있는 변화관리 콘텐츠 및 생산성 향상 중심의 사내 커뮤니케이션 전략이 필요함."
       },
       {
         "rank": 4,
-        "id": "8d993518a10ead6c6790c9ecd2af8377be2e3d0d95197d7c230474c7095c9e8f",
-        "title": "사방넷·쇼피코리아, 온라인 판매자 해외 진출·AI 활용 전략 공유",
+        "id": "fbc74a654cb7cf27b9350778cc8c499e02a06a5b4a506a5868118c1345bfa210",
+        "title": "인젠트, 에이전틱 AI 도입 해법 제시…기존 시스템 연계 강화",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261126195523",
-        "published_at": "2026-11-26T20:05:01+09:00",
-        "summary": "[지디넷코리아]다우기술이 운영하는 쇼핑몰 통합관리 서비스 사방넷이 쇼피코리아와 손잡고 온라인 판매자의 해외 진출과 데이터 기반 사업 성장을 지원한다.사방넷은 오는 12월 9일 쇼피코리아와 온라인 판매자를 대상으로 공동 웨비나를 개최한다고 26일 밝혔다.이번 웨비나는 해외 시장 진출을 준비하거나 국내외 여러 판매채널을 운영하는 판매자들에게 해외 판매 실무와 데이터 분석, 브랜드 마케팅 전략을 공유하기 위해 마련됐다.쇼피코리아는 동남아시아와 남미 이커머스 시장의 성장 기회와 한국 상품의 판매 동향을 소개한다. 주요 국가별 시장 특성과 인기 상품 카테고리를 비롯해 쇼피 입점 준비, 상품 등록, 주문 및 물류 처리 등 해외 판매에 필요한 실무 정보를 제공한다.사방넷은 인공지능(AI)을 활용한 판매 데이터 분석과 매출 확대 전략을 소개한다. 국내외 700여개 쇼핑몰과 연동되는 사방넷의 데이터 분석 AI를 활용해 채널별 매출 현황과 인기 상품, 판매 추이를 파악하고 주력 상품과 판매채널을 선…",
-        "category_score": 58,
-        "score_reason": "AI, 마케팅, 커머스 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261127175604",
+        "published_at": "2026-11-27T17:56:11+09:00",
+        "summary": "[지디넷코리아]인젠트가 기존 업무 시스템을 유지하면서 인공지능(AI) 에이전트를 도입할 수 있는 연계 인프라 구축 전략을 제시했다.AI 활용 범위가 단순 질의응답에서 실제 업무 수행으로 확대되는 만큼 기존 시스템과 AI를 연결하고 통제하는 기술이 중요해지고 있다는 판단에서다.인젠트는 지난 25일 한국IDG 웨비나 플랫폼을 통해 기업과 금융기관을 대상으로 AI 전환(AX) 전략을 소개하는 웨비나를 개최했다고 26일 밝혔다.발표에 나선 김중식 인젠트 기술1본부장(전무)은 기업이 AI를 도입하는 과정에서 발생하는 주요 과제로 레거시 시스템 연계, 부서별 AI 에이전트 분산 도입, 데이터 표준 불일치, 접근 권한 통제 등을 꼽았다.이를 해결하기 위해 기존 업무 시스템을 재구축하는 대신 AI와 내부 시스템 사이에 별도 연계 계층을 마련하는 방안을 제안했다.인젠트는 금융·공공 분야에 공급해 온 다채널 통합(MCI), 대외계 연계(FEP), 엔터프라이즈 서비스 버스(ESB), 응용프로그래밍인터…",
+        "category_score": 90,
+        "score_reason": "단순 AI 활용을 넘어 레거시 시스템과 AI 에이전트를 연결하는 연계 인프라 기술은 향후 기업 AX(AI 전환)의 실질적인 트렌드가 될 것임.",
         "keywords": [
           "AI",
-          "마케팅",
-          "커머스",
-          "이커머스",
-          "브랜드"
+          "비즈니스",
+          "IT 전략"
         ],
-        "planning_insight": "이 항목은 AI, 마케팅, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "단일 AI 툴 도입을 넘어 '에이전틱 AI(Agentic AI)' 생태계를 기업 인프라에 어떻게 이식할 것인지에 대한 로드맵 콘텐츠가 B2B 시장에서 높은 수요를 가질 것임."
       },
       {
         "rank": 5,
-        "id": "77d17f2fb6338cb349de5f6b0f485ca4c48017e768151f36cd286ae7160b243e",
-        "title": "핀박스, 신용 사기 위험 통합 플랫폼으로 싱가포르 글로벌 핀테크 해커셀러레이터 2026 GXS 은행 과제 우승",
+        "id": "76a51743cf3e6d2caf335b01238929f5692b4a18bfe129fe447f1697efb169a9",
+        "title": "공장이 원하는 AI 따로 있다…산업 특화 AI 경쟁 본격화",
         "source": "ZDNet Korea",
         "group": "news",
         "category": "tech_news",
-        "url": "https://zdnet.co.kr/view/?no=20261128001003",
-        "published_at": "2026-11-28T00:10:03+09:00",
-        "summary": "[지디넷코리아]52개국에서 접수된 195건 중에서 거둔 성적…FinBox DeviceConnect와 센티넬 AI를 기반으로 개발된 솔루션으로 지금은 싱가포르 핀테크 페스티벌 2026에서 공개된 센티넬 AI 기반 신규 통합 리스크 플랫폼의 핵심 기술로 쓰여 싱가포르, 2026년 11월 27일 /PRNewswire/ -- 벵갈루루 소재 신용 인프라 기업 핀박스(FinBox)가 싱가포르 통화청(Monetary Authority of Singapore, MAS)과 글로벌 금융기술 네트워크(Global Finance & Technology Network, GFTN)가 주최한 글로벌 핀테크 해커셀러레이터 2026(Global FinTech Hackcelerator 2026)에서 GXS 은행(GXS Bank) 과제 우승을 차지했다. 해당 솔루션은 심사 한 번으로 신용 위험과 사기 위험을 점수화하고 대출 상환 데이터를 반영해 심사 정책을 개선해 주는 제품이다. FinBox wins at Sing…",
-        "category_score": 56,
-        "score_reason": "AI, 플랫폼, 데이터 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+        "url": "https://zdnet.co.kr/view/?no=20261127113130",
+        "published_at": "2026-11-27T11:58:27+09:00",
+        "summary": "[지디넷코리아]제조기업이 인공지능(AI) 도입 과정에서 겪는 난제가 AI 업계에 새로운 사업 기회를 열고 있다.27일 업계에 따르면 제조기업은 공정 변화에 따른 AI 성능 저하와 전문 인력 부족 등으로 AI 도입 이후에도 운영에 어려움을 겪고 있다. 자체 역량만으로 이를 해결하기 어려운 기업이 외부 AI 전문기업과 협력하면서 새로운 기술 수요도 생겨나고 있다.반도체 기판 제조기업 대덕전자가 대표 사례다. 회사에 따르면 제품이나 원재료 변경으로 공정 조건이 달라지면 AI 모델을 다시 학습시켜야 한다. 전문 인력 확보에도 어려움을 겪고 있어 2029년까지 외부 AI 기업과 협력해 내부 역량을 높일 계획이다.AI 전문기업도 제조 현장에 맞춰 사업 영역을 넓히고 있다. 마키나락스는 산업 특화 모델뿐 아니라 AI 개발과 배포, 업데이트를 지원하는 운영 플랫폼을 공급하고 있다. 크루온AI는 구매와 인사 등 기업 업무를 직접 수행하는 AI 에이전트 시장을 공략하고 있다.이러한 수요는 개별 기업…",
+        "category_score": 88,
+        "score_reason": "제조업 특화 AI 수요가 범용 AI 모델의 한계를 극복하기 위한 새로운 시장 기회로 부상하고 있음을 시사.",
         "keywords": [
           "AI",
-          "플랫폼",
-          "데이터"
+          "제조업",
+          "산업 특화"
         ],
-        "planning_insight": "이 항목은 AI, 플랫폼, 데이터 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
+        "planning_insight": "범용 AI가 해결하지 못하는 '산업별 특화 데이터' 확보가 차별화 요소임. 특정 도메인(공정, 설계 등)에 최적화된 맞춤형 AI 모델과 에이전트 서비스로의 콘텐츠 전략 재편이 필요."
       }
     ],
     "tech_blog": [
       {
         "rank": 1,
-        "id": "b99bf3b1d764020878a62e30427c4eec0641ca5111d2821ac3e5433cb9a48f53",
-        "title": "행사 순간을 함께 나누는 한마디, if(kakao)26 네트워킹 스크린 제작기",
-        "source": "카카오 기술블로그",
-        "group": "tech_blog",
-        "category": "platform_tech",
-        "url": "https://tech.kakao.com/posts/850",
-        "published_at": "2026-11-26T00:00:00+09:00",
-        "summary": "행사에 참여하다 보면 기억에 남는 세션이나 문득 떠오른 생각, 함께 나누고 싶은 소감이 생깁니다. 하지만 그 마음을 남기거나 다른 참가자들과 공유할 기회는 많지 않습니다. if(kakao)26의 네트워킹 경험을 기획하면서 저는 참가자들이 자기 생각을 쉽고 재미있게 표현할 방법을 고민했습니다. 행사장에서 떠오른 생각이나 소감을 부담 없이 남기고, 다른 참가자들의 메시지도 함께 볼 수 있다면 어떨까요? 그렇게 시작한 아이디어가 네트워킹 스크린입니다. 저는 ...",
-        "category_score": 92,
-        "score_reason": "사용자 경험(UX) 기획 의도와 플랫폼상의 인터랙션 설계 과정이 상세히 기술되어 있어, 커뮤니티 기반의 콘텐츠 전략 수립에 직접적인 영감을 제공함.",
-        "keywords": [
-          "UX",
-          "네트워킹",
-          "이벤트 기획",
-          "인터랙션"
-        ],
-        "planning_insight": "참가자의 능동적인 참여를 유도하는 마이크로 인터랙션이 플랫폼 내 체류 시간과 소속감 증대에 미치는 영향 분석 필요."
-      },
-      {
-        "rank": 2,
         "id": "ef6f55f4cbab452efb01865b1bd5474100d867a72568f62d09f35e832b654ba6",
         "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
         "source": "네이버 D2",
@@ -143,39 +117,18 @@
         "url": "https://d2.naver.com/helloworld/7426315",
         "published_at": "2026-11-26T15:05:25+09:00",
         "summary": "Jetpack Compose(안드로이드의 선언형 UI 툴킷)로 가로로 넘기는 목록을 만들 때는 대부분 LazyRow 부터 떠올리실 겁니다. 그런데 최근 저희 팀에서 만든 화면 중에는 아무리 고민해도 LazyRow 로는 만들 수 없는 UI가 있었습니다. 이 글에서는 그 UI를 커스텀 3D 캐러셀로 직접 만든 경험을 소개하고, 그 과정에서 만난 다음 세 가지 이슈를 어떻게 풀었는지 정리합니다. 드래그하는 동안 매 프레임 바뀌는 값을 '리컴포지션'(상태가 바뀌어 컴포저블 함수가 다시 실행되는 것) 없이 카드 여러 장에 전달하기 y축으로 기울인 카드를 눌렀더니 엉뚱한 카드가 열리는 '3D 터치 판정 버그'(Compose 1.7.0부터) LazyRow 없이 'Paging 3'로 다음 페이지를 불러오기 마지막으로 이 UI를 AI와 함께 만들며 배운 점도 덧붙입니다. ThingsBook과 두 가지 UI ThingsBook은 네이버가 북미를 대상으로 출시한 SNS 서비스입니다. 책이나 영화, 음…",
-        "category_score": 85,
-        "score_reason": "기존 UI 컴포넌트의 한계를 넘어선 커스텀 UX 설계 사례로, 고도화된 UI 구현을 통한 서비스 차별화 가능성을 보여줌.",
+        "category_score": 41,
+        "score_reason": "UI, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
         "keywords": [
-          "UI/UX",
-          "Jetpack Compose",
-          "3D 캐러셀",
-          "프론트엔드 최적화"
+          "UI",
+          "AI"
         ],
-        "planning_insight": "사용자 몰입감을 극대화하는 물리 기반 인터랙션이 앱 서비스의 만족도와 시각적 브랜드 가치를 높이는 핵심 요소임을 시사함."
+        "planning_insight": "이 항목은 UI, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다."
       }
     ],
     "ai_data": [
       {
         "rank": 1,
-        "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
-        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "source": "Hugging Face Blog",
-        "group": "ai_data",
-        "category": "open_source_ai",
-        "url": "https://huggingface.co/blog/training-swarms",
-        "published_at": "2026-11-26T09:00:00+09:00",
-        "summary": "",
-        "category_score": 98,
-        "score_reason": "멀티 에이전트 시스템은 차세대 AI 워크플로우의 핵심이며, 콘텐츠 기획 및 자동화 파이프라인 구축에 직접적으로 응용 가능함.",
-        "keywords": [
-          "에이전트",
-          "워크플로우",
-          "자동화"
-        ],
-        "planning_insight": "단일 LLM의 한계를 넘어 에이전트 간 협업을 통해 콘텐츠 기획-제작-검수-배포 과정을 자동화하는 시스템 설계 전략 필요."
-      },
-      {
-        "rank": 2,
         "id": "862eeffb4f1e23a13b38937c09387404f6ac8602e705a9a294882cefb7e3565d",
         "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
         "source": "arXiv cs.CL",
@@ -185,16 +138,17 @@
         "published_at": "2026-11-26T14:00:00+09:00",
         "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a step that is (a) costly (thousands of generative calls per build), (b) non-deterministic (undermining reproducibility and giving inconsistent answers across runs), and (c) provenance-…",
         "category_score": 95,
-        "score_reason": "RAG 및 에이전트 메모리 관리의 효율성은 개인화된 콘텐츠 추천과 장기적인 사용자 상호작용 설계에 매우 중요함.",
+        "score_reason": "LLM 에이전트의 핵심 난제인 '장기 기억(Long-horizon memory)' 효율화 문제를 다룸. 에이전트 서비스 설계 시 비용 절감과 성능 최적화를 위한 필수 기술.",
         "keywords": [
           "LLM",
+          "에이전트",
           "메모리",
-          "RAG"
+          "자동화"
         ],
-        "planning_insight": "사용자의 과거 행동과 맥락을 효율적으로 저장하고 호출하는 메모리 최적화는 개인화된 AI 에디터 개발의 핵심 기술임."
+        "planning_insight": "에이전트 기반 서비스 구축 시 비용 효율적인 메모리 관리 전략은 사용자 경험의 일관성을 유지하는 핵심 설계 요소임."
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": "fe9e45b9ef43d790c89d8a3284c55c4400d021d8beed85e93575b44046ef272f",
         "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
         "source": "Hugging Face Blog",
@@ -204,13 +158,33 @@
         "published_at": "2026-11-26T14:05:36+09:00",
         "summary": "",
         "category_score": 92,
-        "score_reason": "실제 비즈니스에서 모델 파인튜닝과 오픈소스 활용 능력은 콘텐츠 품질과 운영 비용 절감에 직결됨.",
+        "score_reason": "오픈소스 모델(Nemotron 3.5)의 활용과 데이터 파이프라인 최적화에 초점. 실제 비즈니스 환경에서 자체 모델을 파인튜닝하고 추론 속도를 높이는 실용적 접근.",
         "keywords": [
-          "파인튜닝",
           "오픈소스",
-          "추론"
+          "파인튜닝",
+          "추론",
+          "데이터셋"
         ],
-        "planning_insight": "특정 도메인에 특화된 경량화 모델을 구축하여 콘텐츠 제작의 일관성을 확보하고 추론 비용을 효율적으로 제어할 수 있음."
+        "planning_insight": "기업이 독자적인 모델을 구축할 때 오픈소스 기반의 데이터 전략과 경량화는 서비스 속도와 정확도를 결정짓는 차별화 지점임."
+      },
+      {
+        "rank": 3,
+        "id": "ebe31b6662a5925d436978d5ceb1e187f29c2ad2fb7f6d8d31e28f54e043157e",
+        "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+        "source": "arXiv cs.CL",
+        "group": "ai_data",
+        "category": "llm_nlp_research",
+        "url": "https://arxiv.org/abs/2611.33175",
+        "published_at": "2026-11-26T14:00:00+09:00",
+        "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach in which explanatory fidelity was established before feature importance was interpreted. English Language Arts responses from three writing prompts in Grades 6 and 8 were analyzed,…",
+        "category_score": 89,
+        "score_reason": "자동화된 콘텐츠 평가(Automated Writing Assessment)에서 모델의 판단 근거를 설명하는 기술. AI가 작성한 콘텐츠의 신뢰성 검증에 직접 활용 가능.",
+        "keywords": [
+          "콘텐츠 분석",
+          "설명 가능 AI",
+          "자동화"
+        ],
+        "planning_insight": "콘텐츠 제작 자동화 도구 도입 시, AI의 평가 결과를 사후 검증할 수 있는 설명 가능 프레임워크 구축이 필수적임."
       },
       {
         "rank": 4,
@@ -222,73 +196,103 @@
         "url": "https://huggingface.co/blog/video-trainium3",
         "published_at": "2026-11-27T09:00:00+09:00",
         "summary": "",
-        "category_score": 89,
-        "score_reason": "멀티모달(비디오 생성) 기술의 발전은 기존 텍스트 중심 콘텐츠 기획을 영상 자동 생성 영역으로 확장하는 계기가 됨.",
+        "category_score": 88,
+        "score_reason": "멀티모달 모델(비디오 생성)의 인프라 활용 사례. 차세대 콘텐츠 제작 트렌드인 영상 자동 생성 기술의 실질적인 적용 사례 제시.",
         "keywords": [
           "멀티모달",
           "비디오 생성",
           "인프라"
         ],
-        "planning_insight": "AI 기반 영상 자동 생성 워크플로우를 도입하여 콘텐츠 제작 생산성을 극대화하는 멀티미디어 전략 수립이 필요함."
+        "planning_insight": "멀티모달 AI를 통한 자동 영상 콘텐츠 제작은 마케팅 캠페인의 속도와 비용을 혁신할 강력한 도구임."
       },
       {
         "rank": 5,
-        "id": "ebe31b6662a5925d436978d5ceb1e187f29c2ad2fb7f6d8d31e28f54e043157e",
-        "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+        "id": "d7172718c7dc0b90f981e1db4e7220c482941e2538a6867e078de203198924bb",
+        "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
         "source": "arXiv cs.CL",
         "group": "ai_data",
         "category": "llm_nlp_research",
-        "url": "https://arxiv.org/abs/2611.33175",
+        "url": "https://arxiv.org/abs/2611.33307",
         "published_at": "2026-11-26T14:00:00+09:00",
-        "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach in which explanatory fidelity was established before feature importance was interpreted. English Language Arts responses from three writing prompts in Grades 6 and 8 were analyzed,…",
-        "category_score": 85,
-        "score_reason": "자동화된 글쓰기 평가와 설명 가능성(Explainability)은 AI가 생성한 콘텐츠의 품질 관리 및 신뢰도 검증에 필수적임.",
+        "summary": "arXiv:2611.33307v1 Announce Type: new Abstract: Decision models are language models fine-tuned to return a probability for each option of a typed query, which routers and guardrails threshold directly. They are built on multilingual bases but ranked almost entirely in English. We evaluate 25 top-ranked open-weight decision models on 17 tasks in 14 languages, comparing each language with English on parallel items. Every model loses accuracy in every language, from about 2 points in high-resource…",
+        "category_score": 86,
+        "score_reason": "언어 모델의 의사결정(Decision Models)과 가드레일/루터 시스템 성능 검증. 다국어 서비스 기획 시 AI의 판단 정확도를 보정하는 기술.",
         "keywords": [
-          "설명 가능성",
-          "콘텐츠 평가",
-          "자동화"
+          "결정 모델",
+          "가드레일",
+          "벤치마킹",
+          "글로벌"
         ],
-        "planning_insight": "AI 생성 콘텐츠의 피드백 루프를 구축할 때, 결과값의 이유를 설명하는 모델을 도입하여 콘텐츠 품질 관리 프로세스를 표준화할 수 있음."
+        "planning_insight": "AI 기반 자동화 시스템(루터 등) 설계 시, 의사결정의 신뢰도를 보장하기 위한 다국어 환경에서의 검증 로직 도입이 중요함."
       }
     ]
   },
   "integrated_top5": [
     {
       "rank": 1,
-      "id": "eecf88ab5db386e359b6a8e58ee93f8b64daa12f44c749fb7186658903f48faf",
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "published_at": "2026-11-26T09:00:00+09:00",
-      "summary": "",
+      "id": "da9af099237f6f336c4f5bde03046b68767190c74d853ad945e78088b5aa7126",
+      "title": "지마켓, 뷰티 시장 출사표...\"글로벌 네트워크 찬스 쓴다\"",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261127165429",
+      "published_at": "2026-11-28T08:00:04+09:00",
+      "summary": "[지디넷코리아]지마켓이 컬리와 SSG닷컴에 이어 내년 초 뷰티 전문관을 신설하며 뷰티 시장에 출사표를 던질 예정이다. 후발주자인 만큼 모회사가 가진 글로벌 네트워크를 활용해 해외 소비자를 공략한다는 계획이다. 28일 이커머스업계에 따르면 지마켓은 내년 1분기를 목표로 뷰티 전문 쇼핑 공간 ‘뷰티 홈(가칭)’을 구축하기 위해 준비 중이다. 회사는 뷰티 홈에 피부 고민·계절에 따른 뷰티 트렌드 및 구매 루틴을 고려한 다양한 상품을 소개하는 코너와 뷰티 브랜드 전문관을 담을 예정이다.여기에 라이브방송과 숏폼 콘텐츠, 인공지능(AI)을 활용한 개인화 뷰티 상품 추천 등도 함께 선보일 방침이다.업계 내에서도 뷰티 제품의 마진율은 30%에 달할 정도로 ‘효자’ 상품으로 꼽힌다. 마진율이 높은 뷰티 상품을 집중 육성해 실적 반등을 위한 발판으로 삼을 것으로 보인다.지마켓의 연간 매출은 2024년 9612억원에서 지난해 7405억원으로 22.96% 하락했고, 같은 기간 영업손실도 674억원에서…",
       "category_score": 98,
-      "score_reason": "멀티 에이전트 시스템은 차세대 AI 워크플로우의 핵심이며, 콘텐츠 기획 및 자동화 파이프라인 구축에 직접적으로 응용 가능함.",
+      "score_reason": "플랫폼, AI 개인화 추천, 라이브커머스 결합 등 향후 이커머스 트렌드를 관통하는 핵심 변화를 담고 있으며, 정보의 완결성이 높음.",
       "keywords": [
-        "에이전트",
-        "워크플로우",
-        "자동화"
+        "플랫폼",
+        "AI",
+        "커머스",
+        "개인화"
       ],
-      "planning_insight": "에이전트 간 역할 분담(기획자, 작가, 검수자)을 통한 자동화 파이프라인 설계로 콘텐츠 제작 효율의 극적 향상 도모.",
-      "integrated_score": 98,
+      "planning_insight": "이 항목은 플랫폼, AI, 커머스 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 68,
       "criteria_scores": {
-        "content_strategy": 25,
-        "trend_signal_timeliness": 25,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 23
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 15,
+        "market_consumer_impact": 16
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성",
-        "시장·소비자 영향력"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "멀티 에이전트 시스템을 활용한 콘텐츠 기획-제작-배포 자동화 프레임워크",
-      "importance_reason": "단일 모델을 넘어 복수의 AI 에이전트가 협업하는 시스템은 차세대 콘텐츠 생산의 핵심 패러다임 변화를 의미함."
+      "one_line_summary": "[지디넷코리아]지마켓이 컬리와 SSG닷컴에 이어 내년 초 뷰티 전문관을 신설하며 뷰티 시장에 출사표를 던질 예정이다. 후발주자인 만큼 모회사가 가진 글로벌 네트워크를 활용해 해외 소비자를 공략한다는 계획이다. 28일…",
+      "importance_reason": "플랫폼, AI, 커머스 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 2,
+      "id": "5d508f68b5a5847a8961db848154042681f2cee323b1c1019feac8f8f962dcf9",
+      "title": "라방 보는 4050…라이브커머스 큰손 됐다",
+      "source": "ZDNet Korea",
+      "group": "news",
+      "category": "tech_news",
+      "url": "https://zdnet.co.kr/view/?no=20261126193320",
+      "published_at": "2026-11-28T08:00:03+09:00",
+      "summary": "[지디넷코리아]상품을 사기 위해 라이브커머스 방송을 켰던 4050세대가 이제는 좋아하는 진행자의 방송을 챙겨보고 소통하는 재미에 지갑을 열고 있다. 실시간으로 상품 정보를 확인하는 편리함에 콘텐츠를 즐기는 재미까지 더해지면서 라이브커머스의 주요 소비층으로 자리 잡고 있다.이커머스 플랫폼과 홈쇼핑 기업들도 중장년층 고객을 확보하기 위해 상품 판매 중심의 방송에서 벗어나 토크형 콘텐츠와 진행자 팬덤을 활용한 모바일 라이브 방송을 확대하고 있다.커머스 크리에이터 플랫폼 그립이 최근 발표한 '2026 라이브커머스 트렌드 리포트'에 따르면 올해 1~9월 라이브 방송 시청자 중 40대가 31.0%로 가장 많았으며 50대가 29.4%로 뒤를 이었다.구매 비중 역시 40대가 43.9%, 50대가 19.8%로 전체의 63.7%를 차지했다. 60대 이상 구매 고객 비중도 5.5%로 전년 동기 대비 2배 이상 늘었다.라이브커머스는 상품을 직접 시연하고 실시간으로 질문에 답한다는 점에서 기존 온라인 쇼…",
+      "category_score": 95,
+      "score_reason": "4050 세대의 라이브커머스 소비 패턴 변화는 마케팅 타겟팅의 근본적 이동을 시사하며, 단순 연령대를 넘어선 콘텐츠 전략의 방향성을 제시함.",
+      "keywords": [
+        "커머스",
+        "소비자 행동",
+        "트렌드"
+      ],
+      "planning_insight": "이 항목은 커머스, 소비자 행동, 트렌드 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
+      "criteria_scores": {
+        "content_strategy": 14,
+        "trend_signal_timeliness": 23,
+        "ai_data_relevance": 7,
+        "market_consumer_impact": 12
+      },
+      "applied_criteria": [
+        "트렌드 신호성·시의성"
+      ],
+      "one_line_summary": "[지디넷코리아]상품을 사기 위해 라이브커머스 방송을 켰던 4050세대가 이제는 좋아하는 진행자의 방송을 챙겨보고 소통하는 재미에 지갑을 열고 있다. 실시간으로 상품 정보를 확인하는 편리함에 콘텐츠를 즐기는 재미까지…",
+      "importance_reason": "커머스, 소비자 행동, 트렌드 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
+    },
+    {
+      "rank": 3,
       "id": "862eeffb4f1e23a13b38937c09387404f6ac8602e705a9a294882cefb7e3565d",
       "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
       "source": "arXiv cs.CL",
@@ -298,134 +302,94 @@
       "published_at": "2026-11-26T14:00:00+09:00",
       "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a step that is (a) costly (thousands of generative calls per build), (b) non-deterministic (undermining reproducibility and giving inconsistent answers across runs), and (c) provenance-…",
       "category_score": 95,
-      "score_reason": "RAG 및 에이전트 메모리 관리의 효율성은 개인화된 콘텐츠 추천과 장기적인 사용자 상호작용 설계에 매우 중요함.",
+      "score_reason": "LLM 에이전트의 핵심 난제인 '장기 기억(Long-horizon memory)' 효율화 문제를 다룸. 에이전트 서비스 설계 시 비용 절감과 성능 최적화를 위한 필수 기술.",
       "keywords": [
         "LLM",
+        "에이전트",
         "메모리",
-        "RAG"
+        "자동화"
       ],
-      "planning_insight": "사용자별 히스토리를 데이터화하여 맥락 있는 콘텐츠를 제공하는 '지능형 개인화 에디터' 기획의 기초 기반 마련.",
-      "integrated_score": 95,
+      "planning_insight": "이 항목은 LLM, 에이전트, 메모리 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 56,
       "criteria_scores": {
-        "content_strategy": 24,
-        "trend_signal_timeliness": 24,
-        "ai_data_relevance": 25,
-        "market_consumer_impact": 22
+        "content_strategy": 10,
+        "trend_signal_timeliness": 18,
+        "ai_data_relevance": 20,
+        "market_consumer_impact": 8
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
         "트렌드 신호성·시의성",
         "AI·데이터 관련성"
       ],
-      "one_line_summary": "장기 기억(Long-horizon Memory)을 활용한 일관성 있는 AI 개인화 프레임워크",
-      "importance_reason": "사용자와의 장기적 상호작용 맥락을 보존하는 기술은 개인화된 브랜드 경험 제공의 필수 요소임."
-    },
-    {
-      "rank": 3,
-      "id": "fe9e45b9ef43d790c89d8a3284c55c4400d021d8beed85e93575b44046ef272f",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "source": "Hugging Face Blog",
-      "group": "ai_data",
-      "category": "open_source_ai",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "published_at": "2026-11-26T14:05:36+09:00",
-      "summary": "",
-      "category_score": 92,
-      "score_reason": "실제 비즈니스에서 모델 파인튜닝과 오픈소스 활용 능력은 콘텐츠 품질과 운영 비용 절감에 직결됨.",
-      "keywords": [
-        "파인튜닝",
-        "오픈소스",
-        "추론"
-      ],
-      "planning_insight": "브랜드 특유의 톤앤매너를 학습시킨 경량화 모델을 운영하여 콘텐츠 제작 비용을 절감하고 품질을 표준화할 수 있음.",
-      "integrated_score": 92,
-      "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 23,
-        "ai_data_relevance": 24,
-        "market_consumer_impact": 22
-      },
-      "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "AI·데이터 관련성"
-      ],
-      "one_line_summary": "비즈니스 특화 도메인을 위한 오픈소스 모델 파인튜닝과 추론 효율화 전략",
-      "importance_reason": "범용 AI 모델보다 도메인 맞춤형 모델을 구축하는 것이 콘텐츠 브랜드의 일관성 및 비용 효율성 확보에 유리함."
+      "one_line_summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory th…",
+      "importance_reason": "LLM, 에이전트, 메모리 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 4,
-      "id": "b99bf3b1d764020878a62e30427c4eec0641ca5111d2821ac3e5433cb9a48f53",
-      "title": "행사 순간을 함께 나누는 한마디, if(kakao)26 네트워킹 스크린 제작기",
-      "source": "카카오 기술블로그",
+      "id": "ef6f55f4cbab452efb01865b1bd5474100d867a72568f62d09f35e832b654ba6",
+      "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+      "source": "네이버 D2",
       "group": "tech_blog",
-      "category": "platform_tech",
-      "url": "https://tech.kakao.com/posts/850",
-      "published_at": "2026-11-26T00:00:00+09:00",
-      "summary": "행사에 참여하다 보면 기억에 남는 세션이나 문득 떠오른 생각, 함께 나누고 싶은 소감이 생깁니다. 하지만 그 마음을 남기거나 다른 참가자들과 공유할 기회는 많지 않습니다. if(kakao)26의 네트워킹 경험을 기획하면서 저는 참가자들이 자기 생각을 쉽고 재미있게 표현할 방법을 고민했습니다. 행사장에서 떠오른 생각이나 소감을 부담 없이 남기고, 다른 참가자들의 메시지도 함께 볼 수 있다면 어떨까요? 그렇게 시작한 아이디어가 네트워킹 스크린입니다. 저는 ...",
-      "category_score": 92,
-      "score_reason": "사용자 경험(UX) 기획 의도와 플랫폼상의 인터랙션 설계 과정이 상세히 기술되어 있어, 커뮤니티 기반의 콘텐츠 전략 수립에 직접적인 영감을 제공함.",
+      "category": "search_ai",
+      "url": "https://d2.naver.com/helloworld/7426315",
+      "published_at": "2026-11-26T15:05:25+09:00",
+      "summary": "Jetpack Compose(안드로이드의 선언형 UI 툴킷)로 가로로 넘기는 목록을 만들 때는 대부분 LazyRow 부터 떠올리실 겁니다. 그런데 최근 저희 팀에서 만든 화면 중에는 아무리 고민해도 LazyRow 로는 만들 수 없는 UI가 있었습니다. 이 글에서는 그 UI를 커스텀 3D 캐러셀로 직접 만든 경험을 소개하고, 그 과정에서 만난 다음 세 가지 이슈를 어떻게 풀었는지 정리합니다. 드래그하는 동안 매 프레임 바뀌는 값을 '리컴포지션'(상태가 바뀌어 컴포저블 함수가 다시 실행되는 것) 없이 카드 여러 장에 전달하기 y축으로 기울인 카드를 눌렀더니 엉뚱한 카드가 열리는 '3D 터치 판정 버그'(Compose 1.7.0부터) LazyRow 없이 'Paging 3'로 다음 페이지를 불러오기 마지막으로 이 UI를 AI와 함께 만들며 배운 점도 덧붙입니다. ThingsBook과 두 가지 UI ThingsBook은 네이버가 북미를 대상으로 출시한 SNS 서비스입니다. 책이나 영화, 음…",
+      "category_score": 41,
+      "score_reason": "UI, AI 관련 신호가 있어 tech_blog 관점의 트렌드 후보로 볼 수 있습니다.",
       "keywords": [
-        "UX",
-        "네트워킹",
-        "이벤트 기획",
-        "인터랙션"
+        "UI",
+        "AI"
       ],
-      "planning_insight": "행사나 커뮤니티 콘텐츠 기획 시, 즉각적인 반응을 끌어내는 인터랙티브 UI 요소를 적극 배치해 체류 시간 증대.",
-      "integrated_score": 88,
+      "planning_insight": "이 항목은 UI, AI 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 53,
       "criteria_scores": {
-        "content_strategy": 23,
-        "trend_signal_timeliness": 22,
-        "ai_data_relevance": 21,
-        "market_consumer_impact": 22
+        "content_strategy": 14,
+        "trend_signal_timeliness": 20,
+        "ai_data_relevance": 11,
+        "market_consumer_impact": 8
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "시장·소비자 영향력"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "사용자 능동 참여를 유도하는 마이크로 인터랙션 UX 설계 사례",
-      "importance_reason": "콘텐츠 소비를 넘어 '참여' 중심의 커뮤니티 플랫폼 전략은 팬덤 구축에 중요한 신호임."
+      "one_line_summary": "Jetpack Compose(안드로이드의 선언형 UI 툴킷)로 가로로 넘기는 목록을 만들 때는 대부분 LazyRow 부터 떠올리실 겁니다. 그런데 최근 저희 팀에서 만든 화면 중에는 아무리 고민해도 LazyRow 로…",
+      "importance_reason": "UI, AI 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     },
     {
       "rank": 5,
-      "id": "03306dc0cf27efc76582dd0b1fddc73cb215b9f0bf42859adb2ea4ff731ca8bd",
-      "title": "지마켓, 내년 초 '뷰티 전용 홈' 신설",
-      "source": "ZDNet Korea",
-      "group": "news",
-      "category": "tech_news",
-      "url": "https://zdnet.co.kr/view/?no=20261126102619",
-      "published_at": "2026-11-26T10:52:06+09:00",
-      "summary": "[지디넷코리아]지마켓은 상품 탐색부터 브랜드별 특화 서비스 및 콘텐츠 커머스, 인공지능(AI) 기반 개인화 추천까지 한데 모은 뷰티 전용 홈을 내년 초 새롭게 선보인다고 26일 밝혔다.지마켓은 이날 서울 성수동 본사에서 화장품 업계 관계자 200여명을 초청해 '2026 뷰티 컨퍼런스'를 열고 내년도 사업 방향을 소개한다. ▲LG생활건강 ▲구다이글로벌 ▲디오디너리 ▲애경 ▲토리든 등이 초청 대상에 포함됐다.내년 1분기 출시를 목표로 개발 중인 뷰티 전문관은 지마켓 앱에 마련된다. 이용자의 ▲피부 고민 ▲평소 화장품 구매 습관 ▲시즌별 유행 등을 반영한 상품을 제안한다. ▲개별 브랜드를 소개하는 공간 ▲실시간 판매 방송 ▲짧은 영상 콘텐츠도 제공할 방침이다.해외 판로 확대 방안도 이번 컨퍼런스에서 다룬다. 동남아시아 전자상거래 업체 라자다 측이 연사로 나서며 지마켓 글로벌사업 담당자는 국내 뷰티 상품의 역직구 전략을 설명한다.지마켓은 라자다뿐만 아니라 알리바바 인터내셔널을 통해 해외…",
-      "category_score": 62,
-      "score_reason": "AI, 커머스, 브랜드 관련 신호가 있어 news 관점의 트렌드 후보로 볼 수 있습니다.",
+      "id": "ebe31b6662a5925d436978d5ceb1e187f29c2ad2fb7f6d8d31e28f54e043157e",
+      "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+      "source": "arXiv cs.CL",
+      "group": "ai_data",
+      "category": "llm_nlp_research",
+      "url": "https://arxiv.org/abs/2611.33175",
+      "published_at": "2026-11-26T14:00:00+09:00",
+      "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach in which explanatory fidelity was established before feature importance was interpreted. English Language Arts responses from three writing prompts in Grades 6 and 8 were analyzed,…",
+      "category_score": 89,
+      "score_reason": "자동화된 콘텐츠 평가(Automated Writing Assessment)에서 모델의 판단 근거를 설명하는 기술. AI가 작성한 콘텐츠의 신뢰성 검증에 직접 활용 가능.",
       "keywords": [
-        "AI",
-        "커머스",
-        "개인화",
-        "콘텐츠 커머스"
+        "콘텐츠 분석",
+        "설명 가능 AI",
+        "자동화"
       ],
-      "planning_insight": "브랜디드 콘텐츠 커머스 기획 시, 사용자 행동 데이터를 분석해 개인별 맞춤형 숏폼 영상을 자동 노출하는 전략 수립.",
-      "integrated_score": 85,
+      "planning_insight": "이 항목은 콘텐츠 분석, 설명 가능 AI, 자동화 흐름과 연결되어 콘텐츠 기획 주제로 추가 확인할 가치가 있습니다.",
+      "integrated_score": 52,
       "criteria_scores": {
-        "content_strategy": 22,
-        "trend_signal_timeliness": 21,
-        "ai_data_relevance": 20,
-        "market_consumer_impact": 22
+        "content_strategy": 10,
+        "trend_signal_timeliness": 18,
+        "ai_data_relevance": 16,
+        "market_consumer_impact": 8
       },
       "applied_criteria": [
-        "콘텐츠 전략 활용성",
-        "트렌드 신호성·시의성",
-        "시장·소비자 영향력"
+        "트렌드 신호성·시의성"
       ],
-      "one_line_summary": "AI 기반 개인화 추천과 숏폼 콘텐츠를 결합한 커머스 플랫폼 전략",
-      "importance_reason": "커머스 시장이 단순 구매를 넘어 숏폼과 AI 추천 중심의 경험형 콘텐츠로 변화하고 있음을 보여줌."
+      "one_line_summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong ag…",
+      "importance_reason": "콘텐츠 분석, 설명 가능 AI, 자동화 키워드를 중심으로 오늘의 콘텐츠·서비스 전략 흐름과 연결됩니다."
     }
   ],
   "hot_keywords": [
     {
       "keyword": "AI",
-      "count": 65,
+      "count": 67,
       "groups": [
         "ai_data",
         "news",
@@ -440,8 +404,8 @@
       ]
     },
     {
-      "keyword": "플랫폼",
-      "count": 20,
+      "keyword": "데이터",
+      "count": 22,
       "groups": [
         "news"
       ],
@@ -451,8 +415,8 @@
       ]
     },
     {
-      "keyword": "데이터",
-      "count": 20,
+      "keyword": "플랫폼",
+      "count": 21,
       "groups": [
         "news"
       ],
@@ -463,7 +427,7 @@
     },
     {
       "keyword": "분석",
-      "count": 15,
+      "count": 16,
       "groups": [
         "news"
       ],
@@ -473,8 +437,8 @@
       ]
     },
     {
-      "keyword": "콘텐츠",
-      "count": 12,
+      "keyword": "브랜드",
+      "count": 13,
       "groups": [
         "news"
       ],
@@ -485,16 +449,16 @@
     }
   ],
   "overall_summary": [
-    "콘텐츠 생산 측면에서 멀티 에이전트와 메모리 최적화 등 AI 워크플로우 자동화가 고도화되고 있습니다.",
-    "커머스 및 플랫폼 분야에서는 데이터 기반의 개인화 추천과 인터랙티브한 사용자 경험(UX)이 핵심 차별화 요소로 부상하고 있습니다.",
-    "브랜드와 마케터는 단순히 AI를 활용하는 단계를 넘어, 도메인 특화 모델 구축과 사용자 참여 중심의 데이터 순환 구조 설계에 집중해야 합니다."
+    "오늘 선별된 주요 흐름은 AI, 커머스, 자동화, 플랫폼, 개인화 키워드를 중심으로 나타났습니다.",
+    "통합 Top 5에는 ai_data, news, tech_blog 그룹의 항목이 반영되었습니다.",
+    "콘텐츠 전략 관점에서는 반복 키워드와 원문을 함께 확인해 후속 리서치 주제로 확장하는 것이 좋습니다."
   ],
   "method": "gemini",
   "fallback_used": true,
   "gemini_call_count": 4,
   "category_methods": {
-    "news": "fallback",
-    "tech_blog": "gemini",
+    "news": "gemini",
+    "tech_blog": "fallback",
     "ai_data": "gemini"
   }
 }

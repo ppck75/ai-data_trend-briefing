@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-28T13:08:52.907300+09:00",
+  "updated_at": "2026-11-28T21:10:14.689551+09:00",
   "archives": [
+    {
+      "id": "2026-11-28_21-09",
+      "date": "2026-11-28",
+      "time": "21:09",
+      "label": "2026-11-28 21:09",
+      "generated_at": "2026-11-28T21:09:54.702122+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "데이터",
+        "플랫폼",
+        "분석",
+        "브랜드"
+      ],
+      "integrated_titles": [
+        "지마켓, 뷰티 시장 출사표...\"글로벌 네트워크 찬스 쓴다\"",
+        "라방 보는 4050…라이브커머스 큰손 됐다",
+        "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+        "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기",
+        "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment"
+      ],
+      "path_json": "archive/2026-11-28/21-09.json",
+      "path_md": "archive/2026-11-28/21-09.md"
+    },
     {
       "id": "2026-11-28_12-35",
       "date": "2026-11-28",
