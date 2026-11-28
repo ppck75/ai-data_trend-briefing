@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-28T03:23:09.187482+09:00",
+  "updated_at": "2026-11-28T13:08:52.907300+09:00",
   "archives": [
+    {
+      "id": "2026-11-28_12-35",
+      "date": "2026-11-28",
+      "time": "12:35",
+      "label": "2026-11-28 12:35",
+      "generated_at": "2026-11-28T13:07:54.089508+09:00",
+      "source_total": 200,
+      "method": "gemini",
+      "fallback_used": true,
+      "top_keywords": [
+        "AI",
+        "플랫폼",
+        "데이터",
+        "분석",
+        "콘텐츠"
+      ],
+      "integrated_titles": [
+        "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+        "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "행사 순간을 함께 나누는 한마디, if(kakao)26 네트워킹 스크린 제작기",
+        "지마켓, 내년 초 '뷰티 전용 홈' 신설"
+      ],
+      "path_json": "archive/2026-11-28/12-35.json",
+      "path_md": "archive/2026-11-28/12-35.md"
+    },
     {
       "id": "2026-11-28_03-22",
       "date": "2026-11-28",
